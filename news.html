@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ειδήσεις Ολυμπιακού — όλα τα νέα σε μία σελίδα</title>
+<title>Ειδήσεις Ολυμπιακού — όλα τα νέα σε μία σελίδα | Red Madness</title>
 <meta name="description" content="Όλες οι ειδήσεις για τον Ολυμπιακό από τα ελληνικά αθλητικά sites, σε μία σελίδα: ποδόσφαιρο, μπάσκετ, βόλεϊ, πόλο. Ανανεώνεται κάθε 15 λεπτά.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
@@ -22,9 +22,16 @@ a{color:inherit}
 .wrap{max-width:860px;margin:0 auto;padding:0 16px}
 header{background:var(--head);color:#fff}
 header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:18px;padding-bottom:18px}
-.brand{font-weight:800;font-size:22px;letter-spacing:-.02em;line-height:1.1}
+.brand{color:#fff;text-decoration:none;font-weight:800;font-size:22px;letter-spacing:-.02em;line-height:1.1}
+header .wrap{flex-wrap:wrap}
+.menu{display:flex;gap:4px;flex-wrap:wrap}
+.menu a{color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:7px 12px;border-radius:999px;opacity:.9}
+.menu a:hover{background:rgba(255,255,255,.15)}
+.menu a.on{background:#fff;color:var(--head);opacity:1}
+h1.pt{font-size:24px;letter-spacing:-.02em;margin:18px 0 0}
+h1.pt .updated{font-size:12.5px;font-weight:600;color:var(--muted);letter-spacing:0;margin-left:6px}
 .brand small{display:block;font-weight:600;font-size:13px;opacity:.85;letter-spacing:0}
-.updated{font-size:12px;opacity:.9;text-align:right}
+
 nav.tabs{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
 nav.tabs .wrap{display:flex;gap:6px;overflow-x:auto;padding-top:10px;padding-bottom:10px;scrollbar-width:none}
 nav.tabs .wrap::-webkit-scrollbar{display:none}
@@ -54,18 +61,19 @@ h2.day{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--
 .promo span{font-size:13px;color:var(--muted)}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 footer{color:var(--muted);font-size:12.5px;padding:30px 0 40px;border-top:1px solid var(--line);margin-top:30px}
-@media (max-width:520px){ .brand{font-size:19px} .title{font-size:16px} .updated{display:none} }
+@media (max-width:520px){ .brand{font-size:19px} .title{font-size:16px} h1.pt{font-size:21px} }
 </style>
 </head>
 <body>
 <header><div class="wrap">
-  <div class="brand">Ειδήσεις Ολυμπιακού<small>Όλα τα νέα για τον Θρύλο, από όλα τα sites, σε μία σελίδα</small></div>
-  <div class="updated" id="updated"></div>
+  <a class="brand" href="/">Red Madness<small>Όλα τα νέα για τον Θρύλο, από όλα τα sites, σε μία σελίδα</small></a>
+  <nav class="menu"><a href="/news.html" class="on">Ειδήσεις</a><a href="/arxeio/podosfairo/">Αρχείο Ποδοσφαίρου</a><a href="/arxeio/euroleague/">Αρχείο Μπάσκετ</a></nav>
 </div></header>
 
 <nav class="tabs" aria-label="Άθλημα"><div class="wrap" id="tabs"></div></nav>
 
 <main class="wrap">
+  <h1 class="pt">Ειδήσεις Ολυμπιακού <span class="updated" id="updated"></span></h1>
   <div class="tools">
     <input id="q" type="search" placeholder="Αναζήτηση (π.χ. μεταγραφή, Euroleague, ντέρμπι)" aria-label="Αναζήτηση">
     <select id="src" aria-label="Πηγή"><option value="">Όλες οι πηγές</option></select>
