@@ -107,7 +107,7 @@ function teamOf(title){
   return null;
 }
 fetch("/data/shop_links.json").then(r => r.json()).then(d => {
-  SHOP = d; const o = d.teams.find(t => t.id === "olympiakos");
+  d.teams = d.teams.filter(t => !t.hidden); SHOP = d; const o = d.teams.find(t => t.id === "olympiakos");
   PROMO.url = shopUrl(o, "eidiseis-promo"); if (DATA.items.length) render();
 }).catch(() => {});
 

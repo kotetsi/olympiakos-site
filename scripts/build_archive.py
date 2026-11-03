@@ -53,6 +53,7 @@ PAGES = []
 
 import json, urllib.parse
 SHOP = json.load(open(os.path.join(ROOT, "data", "shop_links.json"), encoding="utf-8"))
+SHOP["teams"] = [t for t in SHOP["teams"] if not t.get("hidden")]
 TEAM = {t["id"]: t for t in SHOP["teams"]}
 FB_TEAM = {n: t for t in SHOP["teams"] for n in t.get("fb", [])}
 EL_TEAM = {c: t for t in SHOP["teams"] for c in t.get("el", [])}
