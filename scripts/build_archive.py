@@ -51,8 +51,28 @@ def write(path, html_text):
 
 PAGES = []
 
+import json, urllib.parse
+SHOP = json.load(open(os.path.join(ROOT, "data", "shop_links.json"), encoding="utf-8"))
+TEAM = {t["id"]: t for t in SHOP["teams"]}
+FB_TEAM = {n: t for t in SHOP["teams"] for n in t.get("fb", [])}
+EL_TEAM = {c: t for t in SHOP["teams"] for c in t.get("el", [])}
+
+def shop_url(t, campaign):
+    q = "&".join(x for x in [t.get("sort", ""), SHOP["utm"], "utm_campaign=" + campaign] if x)
+    return SHOP["base"] + urllib.parse.quote(t["path"]) + "?" + q
+
+def shop_box(t, campaign, title=None, text="Εμφανίσεις, ρούχα και αναμνηστικά, με αποστολή σε όλη την Ελλάδα."):
+    title = title or f"{t['name']} στο Sport Arena"
+    return (f'<a class="shop" href="{esc(shop_url(t, campaign))}" target="_blank" rel="noopener sponsored">'
+            f'<span class="shop-k">E-shop</span><b>{esc(title)}</b><span class="shop-t">{esc(text)}</span>'
+            f'<span class="shop-go">Δες τα στο Sport Arena →</span></a>')
+
+LOGO = ('<a class="brand" href="/" aria-label="Red Madness, αρχική"><svg class="mark" viewBox="0 0 92 150" width="19" height="31" aria-hidden="true">'
+        '<path d="M22 0h20L20 150H0z" fill="currentColor"/><path d="M58 0h14L50 150H36z" fill="currentColor"/><path d="M86 0h6L70 150h-6z" fill="currentColor"/></svg>'
+        '<span class="wm">Red Madness</span></a>')
+
 # ------------------------------------------------------------------ πρότυπο
-NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk")]
+NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/eshop/", "E-shop", "shop")]
 
 def page(title, desc, body, active, crumbs=(), canonical=""):
     nav = "".join(f'<a href="{u}"{" class=on" if k == active else ""}>{t}</a>' for u, t, k in NAV)
@@ -65,11 +85,12 @@ def page(title, desc, body, active, crumbs=(), canonical=""):
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">{can}
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/site.css">
 </head><body>
 <header class="top"><div class="wrap">
-  <a class="brand" href="/">Red Madness<small>Όλα για τον Ολυμπιακό</small></a>
+  {LOGO}
   <nav class="menu">{nav}</nav>
 </div></header>
 <main class="wrap">{bc}{body}</main>
@@ -137,6 +158,7 @@ def football():
 {kpis([("Νίκες", T['W']), ("Ισοπαλίες", T['D']), ("Ήττες", T['L']), ("Γκολ υπέρ", T['F']), ("Γκολ κατά", T['A']), ("% νικών", pct(T['W'], T['P']))])}
 <h2>Εντός – εκτός</h2>
 {table(["", "Αγ.", "Ν-Ι-Η", "Γκολ", "% νικών"], [["Εντός έδρας", home['P'], wdl(home), f"{home['F']}-{home['A']}", pct(home['W'], home['P'])], ["Εκτός έδρας", away['P'], wdl(away), f"{away['F']}-{away['A']}", pct(away['W'], away['P'])]])}
+{shop_box(TEAM["olympiakos"], "arxeio-podosfairo", "Φανέλες Ολυμπιακού 2026/27")}
 <h2>Τα ντέρμπι</h2>
 {table(["Αντίπαλος", "Αγ.", "Ν-Ι-Η", "Γκολ", "% νικών"], [[opp_link(o), rec(opps[o])['P'], wdl(rec(opps[o])), f"{rec(opps[o])['F']}-{rec(opps[o])['A']}", pct(rec(opps[o])['W'], rec(opps[o])['P'])] for o in rivals if o in opps])}
 <h2>Ρεκόρ</h2>
@@ -171,6 +193,7 @@ def football():
 <h1>Ολυμπιακός {s} <span class="sub">Super League</span></h1>
 {kpis([("Αγώνες", r['P']), ("Ν-Ι-Η", wdl(r)), ("Γκολ", f"{r['F']}-{r['A']}"), ("Εντός", wdl(hw)), ("Εκτός", wdl(aw))])}
 <h2>Αγώνες</h2>{table(MHEAD, match_rows(rs))}{scorers}
+{shop_box(TEAM["olympiakos"], "arxeio-podosfairo-sezon", "Φανέλες Ολυμπιακού 2026/27")}
 <p class="note">Αν λείπουν αγώνες, η πηγή μας δεν τους περιλαμβάνει για αυτή τη σεζόν.</p>"""
         write(f"podosfairo/{s}.html", page(f"Ολυμπιακός {s}: όλα τα αποτελέσματα στη Super League | Red Madness",
               f"Τα αποτελέσματα του Ολυμπιακού στη σεζόν {s}: {r['P']} αγώνες, {wdl(r)} (Ν-Ι-Η), γκολ {r['F']}-{r['A']}.",
@@ -188,6 +211,7 @@ def football():
 {kpis([("Αγώνες", r['P']), ("Νίκες", r['W']), ("Ισοπαλίες", r['D']), ("Ήττες", r['L']), ("Γκολ", f"{r['F']}-{r['A']}")])}
 {table(["", "Αγ.", "Ν-Ι-Η", "Γκολ"], [["Εντός έδρας", hw['P'], wdl(hw), f"{hw['F']}-{hw['A']}"], ["Εκτός έδρας", aw['P'], wdl(aw), f"{aw['F']}-{aw['A']}"]])}
 <ul class="facts">{facts}</ul>
+<div class="shops">{shop_box(TEAM["olympiakos"], "arxeio-antipalos", "Φανέλες Ολυμπιακού 2026/27")}{shop_box(FB_TEAM[o], "arxeio-antipalos") if o in FB_TEAM else ""}</div>
 <h2>Όλοι οι αγώνες</h2>{table(["Ημ/νία", "Σεζόν", "Έδρα", "Αντίπαλος", "Σκορ", "", "Ημίχρ.", "Φάση"], match_rows(list(reversed(rs)), True))}"""
         write(f"podosfairo/antipaloi/{oslug[o]}.html", page(f"Ολυμπιακός – {o}: ιστορικό αγώνων στο πρωτάθλημα | Red Madness",
               f"Ολυμπιακός – {o} στο πρωτάθλημα: {r['P']} αγώνες, {r['W']} νίκες, {r['D']} ισοπαλίες, {r['L']} ήττες. Όλα τα αποτελέσματα.",
@@ -284,6 +308,7 @@ def eleague():
 <p class="lead">Όλοι οι αγώνες του Ολυμπιακού στην Euroleague από το 2000: <b>{T['P']}</b> ματς, με σκορ ανά δεκάλεπτο και box score παικτών από το 2010-11.</p>
 {kpis([("Νίκες", T['W']), ("Ήττες", T['L']), ("% νικών", pct(T['W'], T['P'])), ("Τίτλοι", len(titles)), ("Final Four", len(ffs)), ("Μ.Ο. θεατών ΣΕΦ", f"{sum(a for a,_ in att)//len(att):,}".replace(",", ".") if att else "–")])}
 {table(["", "Αγ.", "Ν-Η", "% νικών"], [["Εντός έδρας", home['P'], wdl(home, False), pct(home['W'], home['P'])], ["Εκτός έδρας", away['P'], wdl(away, False), pct(away['W'], away['P'])]])}
+{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague", "Προϊόντα ΚΑΕ Ολυμπιακός")}
 <h2>Πορεία ανά σεζόν</h2>
 {table(["Σεζόν", "Αγ.", "Ν-Η", "% νικών", "Πόντοι (Μ.Ο.)", "Έφτασε"], srows)}
 <h2>Ρεκόρ</h2>
@@ -323,7 +348,8 @@ def eleague():
 <h1>Ολυμπιακός {s} <span class="sub">Euroleague</span></h1>
 {kpis([("Αγώνες", r['P']), ("Ν-Η", wdl(r, False)), ("% νικών", pct(r['W'], r['P'])), ("Έφτασε", reached(gs))])}
 <p>Προπονητής: <b>{esc(coach)}</b></p>
-<h2>Αγώνες</h2>{table(GHEAD, grow(gs))}{leaders}"""
+<h2>Αγώνες</h2>{table(GHEAD, grow(gs))}{leaders}
+{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-sezon", "Προϊόντα ΚΑΕ Ολυμπιακός")}"""
         write(f"euroleague/{s}.html", page(f"Ολυμπιακός Euroleague {s}: αποτελέσματα και στατιστικά | Red Madness",
               f"Ο Ολυμπιακός στην Euroleague {s}: {wdl(r, False)} (Ν-Η), {reached(gs)}. Όλοι οι αγώνες και οι παίκτες της σεζόν.",
               body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("", s)], f"/arxeio/euroleague/{s}.html"))
@@ -335,6 +361,7 @@ def eleague():
 {kpis([("Αγώνες", r['P']), ("Νίκες", r['W']), ("Ήττες", r['L']), ("% νικών", pct(r['W'], r['P']))])}
 {table(["", "Αγ.", "Ν-Η"], [["Εντός έδρας", hw['P'], wdl(hw, False)], ["Εκτός έδρας", aw['P'], wdl(aw, False)]])}
 <p class="note">Ονομασίες στο αρχείο: {esc(", ".join(names))}</p>
+<div class="shops">{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-antipalos", "Προϊόντα ΚΑΕ Ολυμπιακός")}{shop_box(EL_TEAM[c], "arxeio-euroleague-antipalos") if c in EL_TEAM else ""}</div>
 <h2>Όλοι οι αγώνες</h2>{table(["Ημ/νία", "Σεζόν", "Γύρος", "Έδρα", "Αντίπαλος", "Σκορ", ""], grow(list(reversed(gs)), True))}"""
         write(f"euroleague/antipaloi/{c.lower()}.html", page(f"Ολυμπιακός – {oname(c)} στην Euroleague: όλα τα ματς | Red Madness",
               f"Ολυμπιακός – {oname(c)} στην Euroleague: {r['P']} αγώνες, {r['W']} νίκες, {r['L']} ήττες. Όλα τα αποτελέσματα και τα box scores.",
@@ -362,12 +389,33 @@ def eleague():
 {qt}
 <dl class="meta">{''.join(f'<dt>{k}</dt><dd>{v}</dd>' for k, v in meta)}</dl>
 {bxt}
+<div class="shops">{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-agonas", "Προϊόντα ΚΑΕ Ολυμπιακός")}{shop_box(EL_TEAM[g["opponent_code"]], "arxeio-euroleague-agonas") if g["opponent_code"] in EL_TEAM else ""}</div>
 <p><a href="/arxeio/euroleague/{g['season_label']}.html">Όλοι οι αγώνες της σεζόν {g['season_label']}</a> · <a href="/arxeio/euroleague/antipaloi/{g['opponent_code'].lower()}.html">Όλα τα ματς με {esc(o)}</a></p>"""
         write(f"euroleague/agones/{gid(g)}.html", page(f"{hn} – {an} {hs_}-{as_} | Euroleague {g['season_label']} | Red Madness",
               f"{hn} – {an} {hs_}-{as_}, Euroleague {g['season_label']}, {d_gr(g['date'])}. Σκορ ανά δεκάλεπτο" + (" και box score." if bx else "."),
               body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), (f"/arxeio/euroleague/{g['season_label']}.html", g["season_label"]), ("", f"{hn} – {an}")],
               f"/arxeio/euroleague/agones/{gid(g)}.html"))
     return T, len(seasons), len(titles), len(ffs)
+
+# ================================================================== E-shop
+def eshop():
+    gr = [t for t in SHOP["teams"] if t["id"] not in ("olympiakos", "olympiakos-bc") and t["path"].startswith(("/σύλλογοι/ελληνική", "/μπάσκετ/basket-league"))]
+    eu = [t for t in SHOP["teams"] if t not in gr and t["id"] not in ("olympiakos", "olympiakos-bc")]
+    def tiles(ts): return '<div class="tiles">' + "".join(f'<a class="tile" href="{esc(shop_url(t, "eshop-omades"))}" target="_blank" rel="noopener sponsored">{esc(t["name"])}<span>→</span></a>' for t in ts) + "</div>"
+    body = f"""<h1>E-shop <span class="sub">σε συνεργασία με το Sport Arena</span></h1>
+<p class="lead">Επίσημες εμφανίσεις, ρούχα προπόνησης και αναμνηστικά του Ολυμπιακού, με αποστολή σε όλη την Ελλάδα.</p>
+<div class="hero-shop">
+{shop_box(TEAM["olympiakos"], "eshop", "Ολυμπιακός · Εμφανίσεις 2026/27", "Εντός, εκτός και τρίτη εμφάνιση adidas, καθαρές ή με όνομα παίκτη, ζακέτες, πόλο, κασκόλ, σημαίες και αναμνηστικά.")}
+{shop_box(TEAM["olympiakos-bc"], "eshop", "ΚΑΕ Ολυμπιακός", "Προϊόντα της ομάδας μπάσκετ.")}
+</div>
+<h2>Ελληνικές ομάδες</h2>{tiles(gr)}
+<h2>Ευρωπαϊκές ομάδες</h2>{tiles(eu)}
+<p class="note">Οι σύνδεσμοι οδηγούν στο κατάστημα sportarena.gr. Οι αγορές γίνονται εκεί.</p>"""
+    html_text = page("E-shop Ολυμπιακού – εμφανίσεις 2026/27 και αναμνηστικά | Red Madness",
+                     "Αγόρασε τις νέες εμφανίσεις του Ολυμπιακού 2026/27, ρούχα προπόνησης και αναμνηστικά από το Sport Arena, και προϊόντα άλλων ομάδων.",
+                     body, "shop", [], "/eshop/")
+    os.makedirs(os.path.join(ROOT, "eshop"), exist_ok=True)
+    open(os.path.join(ROOT, "eshop", "index.html"), "w", encoding="utf-8").write(html_text)
 
 # ================================================================== κεντρική αρχείου + sitemap
 def main():
@@ -384,7 +432,8 @@ def main():
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    urls = ["/", "/news.html"] + PAGES
+    eshop()
+    urls = ["/", "/news.html", "/eshop/"] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"

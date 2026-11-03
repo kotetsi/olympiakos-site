@@ -6,7 +6,8 @@
 <title>Ειδήσεις Ολυμπιακού — όλα τα νέα σε μία σελίδα | Red Madness</title>
 <meta name="description" content="Όλες οι ειδήσεις για τον Ολυμπιακό από τα ελληνικά αθλητικά sites, σε μία σελίδα: ποδόσφαιρο, μπάσκετ, βόλεϊ, πόλο. Ανανεώνεται κάθε 15 λεπτά.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <style>
 :root{
   --bg:#f6f5f3; --card:#ffffff; --ink:#16181d; --muted:#6b6f78; --line:#e6e3de;
@@ -22,7 +23,10 @@ a{color:inherit}
 .wrap{max-width:860px;margin:0 auto;padding:0 16px}
 header{background:var(--head);color:#fff}
 header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:18px;padding-bottom:18px}
-.brand{color:#fff;text-decoration:none;font-weight:800;font-size:22px;letter-spacing:-.02em;line-height:1.1}
+.brand{color:#fff;text-decoration:none;display:flex;align-items:center;gap:10px;line-height:1}
+.brand .wm{font-family:Anton,Impact,'Arial Narrow',sans-serif;font-size:29px;text-transform:uppercase;letter-spacing:.01em}
+.buy{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:800;color:var(--red);text-decoration:none}
+.buy:hover{text-decoration:underline}
 header .wrap{flex-wrap:wrap}
 .menu{display:flex;gap:4px;flex-wrap:wrap}
 .menu a{color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:7px 12px;border-radius:999px;opacity:.9}
@@ -30,7 +34,7 @@ header .wrap{flex-wrap:wrap}
 .menu a.on{background:#fff;color:var(--head);opacity:1}
 h1.pt{font-size:24px;letter-spacing:-.02em;margin:18px 0 0}
 h1.pt .updated{font-size:12.5px;font-weight:600;color:var(--muted);letter-spacing:0;margin-left:6px}
-.brand small{display:block;font-weight:600;font-size:13px;opacity:.85;letter-spacing:0}
+
 
 nav.tabs{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
 nav.tabs .wrap{display:flex;gap:6px;overflow-x:auto;padding-top:10px;padding-bottom:10px;scrollbar-width:none}
@@ -61,13 +65,13 @@ h2.day{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--
 .promo span{font-size:13px;color:var(--muted)}
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 footer{color:var(--muted);font-size:12.5px;padding:30px 0 40px;border-top:1px solid var(--line);margin-top:30px}
-@media (max-width:520px){ .brand{font-size:19px} .title{font-size:16px} h1.pt{font-size:21px} }
+@media (max-width:520px){ .brand .wm{font-size:25px} .title{font-size:16px} h1.pt{font-size:21px} }
 </style>
 </head>
 <body>
 <header><div class="wrap">
-  <a class="brand" href="/">Red Madness<small>Όλα τα νέα για τον Θρύλο, από όλα τα sites, σε μία σελίδα</small></a>
-  <nav class="menu"><a href="/news.html" class="on">Ειδήσεις</a><a href="/arxeio/podosfairo/">Αρχείο Ποδοσφαίρου</a><a href="/arxeio/euroleague/">Αρχείο Μπάσκετ</a></nav>
+  <a class="brand" href="/" aria-label="Red Madness, αρχική"><svg viewBox="0 0 92 150" width="19" height="31" aria-hidden="true"><path d="M22 0h20L20 150H0z" fill="currentColor"/><path d="M58 0h14L50 150H36z" fill="currentColor"/><path d="M86 0h6L70 150h-6z" fill="currentColor"/></svg><span class="wm">Red Madness</span></a>
+  <nav class="menu"><a href="/news.html" class="on">Ειδήσεις</a><a href="/arxeio/podosfairo/">Αρχείο Ποδοσφαίρου</a><a href="/arxeio/euroleague/">Αρχείο Μπάσκετ</a><a href="/eshop/">E-shop</a></nav>
 </div></header>
 
 <nav class="tabs" aria-label="Άθλημα"><div class="wrap" id="tabs"></div></nav>
@@ -92,7 +96,20 @@ footer{color:var(--muted);font-size:12.5px;padding:30px 0 40px;border-top:1px so
 <script>
 const SPORTS = {all:"Όλα", football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:"Γενικά"};
 // Θέση για προώθηση προϊόντων (π.χ. φανέλες Ολυμπιακού στο Sport Arena). Κενό = δεν εμφανίζεται.
-const PROMO = { url: "https://www.sportarena.gr/", title: "Φανέλες & είδη Ολυμπιακού", text: "Δες τη συλλογή στο Sport Arena", every: 8 };
+const PROMO = { url: "", title: "Φανέλες Ολυμπιακού 2026/27", text: "Εντός, εκτός και τρίτη εμφάνιση adidas, με όνομα παίκτη. Δες τες στο Sport Arena →", every: 8 };
+// Κατηγορίες Sport Arena ανά ομάδα (data/shop_links.json): link κάτω από κάθε είδηση που αναφέρει ομάδα.
+let SHOP = null;
+const shopUrl = (t, c) => SHOP.base + encodeURI(t.path) + "?" + [t.sort, SHOP.utm, "utm_campaign=" + c].filter(Boolean).join("&");
+function teamOf(title){
+  if (!SHOP) return null;
+  const n = " " + norm(title).replace(/[^a-zα-ω0-9]+/g, " ") + " ";
+  for (const t of SHOP.teams) for (const m of (t.match || [])) if (n.includes(" " + m)) return t;
+  return null;
+}
+fetch("/data/shop_links.json").then(r => r.json()).then(d => {
+  SHOP = d; const o = d.teams.find(t => t.id === "olympiakos");
+  PROMO.url = shopUrl(o, "eidiseis-promo"); if (DATA.items.length) render();
+}).catch(() => {});
 
 let DATA = {items: []}, state = {sport: "all", q: "", src: "", off: false}, lastTop = null;
 const $ = id => document.getElementById(id);
@@ -141,7 +158,7 @@ function render(){
       <div class="meta"><span class="src${i.official ? " official" : ""}">${esc(i.source_name)}${i.official ? " ✓" : ""}</span>
         <span>${ago(i.published)}</span>${i.sport !== "general" ? `<span class="tag">${SPORTS[i.sport] || ""}</span>` : ""}</div>
       <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-      ${i.snippet ? `<p class="snip">${esc(i.snippet)}</p>` : ""}${also}
+      ${i.snippet ? `<p class="snip">${esc(i.snippet)}</p>` : ""}${also}${(() => { const t = teamOf(i.title); return t ? `<a class="buy" href="${esc(shopUrl(t, "eidiseis"))}" target="_blank" rel="noopener sponsored">${esc(t.name)}: δες τα προϊόντα στο Sport Arena →</a>` : ""; })()}
     </article>`;
     if (PROMO.url && PROMO.every && (n + 1) % PROMO.every === 0)
       html += `<a class="promo" href="${PROMO.url}" target="_blank" rel="noopener sponsored"><div><b>${esc(PROMO.title)}</b><br><span>${esc(PROMO.text)}</span></div></a>`;
