@@ -58,12 +58,12 @@ def latin_names(e):
     out = [v["value"] for v in e.get("labels", {}).values()] + [a["value"] for a in e.get("aliases", {}).get("en", [])]
     return [n for n in out if n and not GREEK.search(n)]
 
-def same_person(e, first, last):
+def same_person(e, first, last, k=2):
     """Το επώνυμο πρέπει να υπάρχει στο όνομα του Wikidata και το μικρό όνομα να ξεκινά με τα ίδια 2 γράμματα."""
-    fl, ff = fold(last), fold(first)[:2]
+    fl, ff = fold(last), fold(first)[:k]
     for n in latin_names(e):
         parts = n.split()
-        if fl and fl in fold(n) and (not ff or (parts and fold(parts[0])[:2] == ff)):
+        if fl and fl in fold(n) and (not ff or (parts and fold(parts[0])[:k] == ff)):
             return True
     return False
 
@@ -78,7 +78,7 @@ def lookup(raw):
     # 2) πλήρες όνομα, μόνο αν είναι άνθρωπος του μπάσκετ
     s = api(action="wbsearchentities", search=f"{first} {last}", language="en", limit=7, type="item").get("search", [])
     cands = [e for e in entities([x["id"] for x in s])
-             if (claim_ids(e, "P106") & BASKET or OLY in claim_ids(e, "P54")) and same_person(e, first, last)]
+             if (claim_ids(e, "P106") & BASKET or OLY in claim_ids(e, "P54")) and same_person(e, first, last, 3)]
     oly = [e for e in cands if OLY in claim_ids(e, "P54")]
     if len(oly) == 1: return oly[0]
     if len(cands) == 1: return cands[0]
