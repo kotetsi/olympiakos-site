@@ -61,6 +61,10 @@ def main():
             data = get_json(url)
         except Exception as e:
             errors.append(f"{batch}: {e}"); continue
+        if i == 0:
+            json.dump(dict(url=url, type=type(data).__name__, keys=list(data)[:20] if isinstance(data, dict) else len(data),
+                           sample=json.dumps(data, ensure_ascii=False)[:4000]),
+                      open(os.path.join(DATA, "tv_debug.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         for ch, p in walk(data):
             seen_progs += 1
             title = p.get("title") or p.get("name") or ""
