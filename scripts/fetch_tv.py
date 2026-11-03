@@ -70,8 +70,6 @@ def main():
         except Exception as e: errors.append(f"{c} {d:%d/%m}: {e}"); return None
     with cf.ThreadPoolExecutor(max_workers=6) as ex:
         results_all = [r for r in ex.map(one, jobs) if r]
-    json.dump(dict(requests=len(jobs), ok=len(results_all), sample=json.dumps(results_all[0][1] if results_all else None, ensure_ascii=False)[:2000]),
-              open(os.path.join(DATA, "tv_debug.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     for results in [results_all]:
         for c0, data in results:
           for ch, p in walk(data, c0):
@@ -82,11 +80,13 @@ def main():
             t = norm(title)
             if REPEAT.search(t): continue
             if not about_olympiacos(title, desc, []) : continue
-            if not MATCH.search(" " + t + " ") and "ζωντανα" not in norm(desc): continue
+            is_live = bool(p.get("isLiveEvent")) or "(ζ)" in t or "ζωντανα" in t
+            if not is_live: continue                      # μόνο ζωντανές μεταδόσεις, όχι επαναλήψεις
+            if not MATCH.search(" " + t + " "): continue
             start, end = ts(p.get("startTime") or p.get("start")), ts(p.get("endTime") or p.get("end"))
             if not start or start < NOW - timedelta(hours=3): continue
-            key = (norm(title), start.isoformat()[:13])
-            item = found.setdefault(key, dict(title=title.strip(), start=start.isoformat(timespec="minutes"),
+            key = (re.sub(r"\s*\(ζ\)\s*$", "", norm(title)), start.isoformat()[:13])
+            item = found.setdefault(key, dict(title=re.sub(r"\s*\((ζ|Ζ)\)\s*$", "", title.strip()), start=start.isoformat(timespec="minutes"),
                                               end=end.isoformat(timespec="minutes") if end else "", channels=[],
                                               sport=sport_of(title, desc + " " + str(p.get("genre") or (p.get("qoe") or {}).get("genre") or ""), [], ""),
                                               info=re.sub(r"\s+", " ", desc)[:200]))
