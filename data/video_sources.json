@@ -1,0 +1,11 @@
+{
+ "_info": "Επίσημα κανάλια YouTube. 'id': channel ID (UC…), ή 'handles': ονόματα @καναλιού που το script δοκιμάζει για να βρει το ID. dedicated=true: κρατάμε όλα τα βίντεο, αλλιώς μόνο όσα αφορούν τον Ολυμπιακό. Μόνο επίσημα κανάλια — όχι ανεβάσματα τρίτων.",
+ "channels": [
+  {"id": "UCLf7YXb-0PWEeq59Z_q318A", "key": "olympiacos-fc", "name": "Olympiacos FC", "dedicated": true, "official": true, "sport": "football"},
+  {"handles": ["@olympiacosbc", "@OlympiacosBCofficial", "@OlympiacosBC"], "key": "olympiacos-bc", "name": "Olympiacos BC", "dedicated": true, "official": true, "sport": "basket"},
+  {"id": "UCGr3nR_XH9r6E5b09ZJAT9w", "key": "euroleague", "name": "EuroLeague", "dedicated": false, "sport": "basket"},
+  {"handles": ["@superleaguegreece", "@SuperLeagueGreece", "@slgr"], "key": "superleague", "name": "Super League", "dedicated": false, "sport": "football"},
+  {"handles": ["@COSMOTETV", "@cosmotetv", "@COSMOTESPORT"], "key": "cosmote-tv", "name": "COSMOTE TV", "dedicated": false},
+  {"handles": ["@novasportsgr", "@Novasports", "@novasports"], "key": "novasports", "name": "Novasports", "dedicated": false}
+ ]
+}

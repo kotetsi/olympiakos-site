@@ -73,7 +73,7 @@ LOGO = ('<a class="brand" href="/" aria-label="Red Madness, αρχική"><svg c
         '<span class="wm">Red Madness</span></a>')
 
 # ------------------------------------------------------------------ πρότυπο
-NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/eshop/", "E-shop", "shop")]
+NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/videos/", "Βίντεο", "vid"), ("/eshop/", "E-shop", "shop")]
 
 def page(title, desc, body, active, crumbs=(), canonical=""):
     nav = "".join(f'<a href="{u}"{" class=on" if k == active else ""}>{t}</a>' for u, t, k in NAV)
@@ -398,6 +398,49 @@ def eleague():
               f"/arxeio/euroleague/agones/{gid(g)}.html"))
     return T, len(seasons), len(titles), len(ffs)
 
+# ================================================================== Βίντεο
+VIDEO_JS = r"""
+<script>
+const SP = {all:"Όλα", football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:"Άλλα"};
+let V = [], sport = "all", onlyHl = false;
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const when = iso => { const d = new Date(iso), h = Math.round((Date.now() - d) / 36e5);
+  return h < 1 ? "μόλις τώρα" : h < 24 ? h + " ώρ" + (h === 1 ? "α" : "ες") : d.toLocaleDateString("el-GR", {day:"numeric", month:"short"}); };
+function render(){
+  const c = {all: V.length}; V.forEach(v => c[v.sport] = (c[v.sport] || 0) + 1);
+  $("vtabs").innerHTML = Object.entries(SP).filter(([k]) => k === "all" || c[k]).map(([k, t]) =>
+    `<button class="tab" data-s="${k}" aria-pressed="${k === sport}">${t} <span>${c[k] || 0}</span></button>`).join("");
+  const list = V.filter(v => (sport === "all" || v.sport === sport) && (!onlyHl || v.highlights));
+  $("vgrid").innerHTML = list.length ? list.map(v => `<article class="vid">
+    <button class="thumb" data-id="${esc(v.id)}" aria-label="Παίξε: ${esc(v.title)}"><img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt=""><span class="play" aria-hidden="true"></span></button>
+    <h3>${esc(v.title)}</h3><p class="vmeta">${esc(v.channel_name)}${v.official ? " ✓" : ""} · ${when(v.published)}${v.highlights ? ' · <b>highlights</b>' : ""}</p></article>`).join("")
+    : '<p class="note">Δεν υπάρχουν βίντεο με αυτά τα φίλτρα.</p>';
+}
+document.addEventListener("click", e => {
+  const t = e.target.closest(".tab"); if (t) { sport = t.dataset.s; render(); return; }
+  const b = e.target.closest(".thumb"); if (b) { const f = document.createElement("iframe");
+    f.src = "https://www.youtube-nocookie.com/embed/" + encodeURIComponent(b.dataset.id) + "?autoplay=1&rel=0";
+    f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen"; f.allowFullscreen = true; f.title = "YouTube"; b.replaceWith(f); }
+});
+$("hl").addEventListener("change", e => { onlyHl = e.target.checked; render(); });
+fetch("/data/videos.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(d => { V = d.items; render(); })
+  .catch(() => { $("vgrid").innerHTML = '<p class="note">Τα βίντεο δεν φορτώθηκαν. Δοκίμασε ξανά σε λίγο.</p>'; });
+</script>"""
+
+def videos():
+    body = f"""<h1>Βίντεο Ολυμπιακού <span class="sub">από τα επίσημα κανάλια YouTube</span></h1>
+<p class="lead">Highlights, δηλώσεις και παρασκήνιο από τα επίσημα κανάλια του Ολυμπιακού, της Euroleague και της Super League. Ανανεώνεται αυτόματα.</p>
+<div class="vtools"><div class="vtabs" id="vtabs"></div><label class="chk"><input type="checkbox" id="hl"> Μόνο highlights</label></div>
+<div class="vgrid" id="vgrid"><p class="note">Φόρτωση βίντεο…</p></div>
+<p class="note">Τα βίντεο παίζουν με τον επίσημο player του YouTube και ανήκουν στα κανάλια που τα δημοσίευσαν.</p>
+{shop_box(TEAM["olympiakos"], "videos", "Φανέλες Ολυμπιακού 2026/27")}{VIDEO_JS}"""
+    html_text = page("Βίντεο Ολυμπιακού – highlights και στιγμιότυπα | Red Madness",
+                     "Όλα τα βίντεο του Ολυμπιακού από τα επίσημα κανάλια: highlights αγώνων ποδοσφαίρου και μπάσκετ, δηλώσεις και παρασκήνιο.",
+                     body, "vid", [], "/videos/")
+    os.makedirs(os.path.join(ROOT, "videos"), exist_ok=True)
+    open(os.path.join(ROOT, "videos", "index.html"), "w", encoding="utf-8").write(html_text)
+
 # ================================================================== E-shop
 def eshop():
     gr = [t for t in SHOP["teams"] if t["id"] not in ("olympiakos", "olympiakos-bc") and t["path"].startswith(("/σύλλογοι/ελληνική", "/μπάσκετ/basket-league"))]
@@ -433,8 +476,8 @@ def main():
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop()
-    urls = ["/", "/news.html", "/eshop/"] + PAGES
+    eshop(); videos()
+    urls = ["/", "/news.html", "/videos/", "/eshop/"] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"

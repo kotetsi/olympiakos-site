@@ -23,11 +23,13 @@ jobs:
           python-version: "3.12"
       - name: Συλλογή ειδήσεων
         run: python3 scripts/fetch_news.py
+      - name: Συλλογή βίντεο
+        run: python3 scripts/fetch_videos.py || echo "τα βίντεο απέτυχαν, συνεχίζουμε"
       - name: Αποθήκευση αν άλλαξε κάτι
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add data/news.json data/feeds_cache.json data/sources_status.json
+          git add -A data/
           if git diff --cached --quiet; then echo "Καμία αλλαγή"; exit 0; fi
           git commit -m "Ειδήσεις: ανανέωση $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase --autostash || true

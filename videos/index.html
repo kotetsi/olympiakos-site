@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="el"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Βίντεο Ολυμπιακού – highlights και στιγμιότυπα | Red Madness</title><meta name="description" content="Όλα τα βίντεο του Ολυμπιακού από τα επίσημα κανάλια: highlights αγώνων ποδοσφαίρου και μπάσκετ, δηλώσεις και παρασκήνιο."><link rel="canonical" href="https://redmadness.gr/videos/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/site.css">
+</head><body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="/" aria-label="Red Madness, αρχική"><svg class="mark" viewBox="0 0 92 150" width="19" height="31" aria-hidden="true"><path d="M22 0h20L20 150H0z" fill="currentColor"/><path d="M58 0h14L50 150H36z" fill="currentColor"/><path d="M86 0h6L70 150h-6z" fill="currentColor"/></svg><span class="wm">Red Madness</span></a>
+  <nav class="menu"><a href="/news.html">Ειδήσεις</a><a href="/arxeio/podosfairo/">Αρχείο Ποδοσφαίρου</a><a href="/arxeio/euroleague/">Αρχείο Μπάσκετ</a><a href="/videos/" class=on>Βίντεο</a><a href="/eshop/">E-shop</a></nav>
+</div></header>
+<main class="wrap"><h1>Βίντεο Ολυμπιακού <span class="sub">από τα επίσημα κανάλια YouTube</span></h1>
+<p class="lead">Highlights, δηλώσεις και παρασκήνιο από τα επίσημα κανάλια του Ολυμπιακού, της Euroleague και της Super League. Ανανεώνεται αυτόματα.</p>
+<div class="vtools"><div class="vtabs" id="vtabs"></div><label class="chk"><input type="checkbox" id="hl"> Μόνο highlights</label></div>
+<div class="vgrid" id="vgrid"><p class="note">Φόρτωση βίντεο…</p></div>
+<p class="note">Τα βίντεο παίζουν με τον επίσημο player του YouTube και ανήκουν στα κανάλια που τα δημοσίευσαν.</p>
+<a class="shop" href="https://www.sportarena.gr/%CF%83%CF%8D%CE%BB%CE%BB%CE%BF%CE%B3%CE%BF%CE%B9/%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-%CF%83%CE%BF%CF%8D%CF%80%CE%B5%CF%81-%CE%BB%CE%B9%CE%B3%CE%BA/%CE%BF%CE%BB%CF%85%CE%BC%CF%80%CE%B9%CE%B1%CE%BA%CF%8C%CF%82?sort=p.price&amp;order=DESC&amp;limit=40&amp;utm_source=redmadness&amp;utm_medium=referral&amp;utm_campaign=videos" target="_blank" rel="noopener sponsored"><span class="shop-k">E-shop</span><b>Φανέλες Ολυμπιακού 2026/27</b><span class="shop-t">Εμφανίσεις, ρούχα και αναμνηστικά, με αποστολή σε όλη την Ελλάδα.</span><span class="shop-go">Δες τα στο Sport Arena →</span></a>
+<script>
+const SP = {all:"Όλα", football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:"Άλλα"};
+let V = [], sport = "all", onlyHl = false;
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const when = iso => { const d = new Date(iso), h = Math.round((Date.now() - d) / 36e5);
+  return h < 1 ? "μόλις τώρα" : h < 24 ? h + " ώρ" + (h === 1 ? "α" : "ες") : d.toLocaleDateString("el-GR", {day:"numeric", month:"short"}); };
+function render(){
+  const c = {all: V.length}; V.forEach(v => c[v.sport] = (c[v.sport] || 0) + 1);
+  $("vtabs").innerHTML = Object.entries(SP).filter(([k]) => k === "all" || c[k]).map(([k, t]) =>
+    `<button class="tab" data-s="${k}" aria-pressed="${k === sport}">${t} <span>${c[k] || 0}</span></button>`).join("");
+  const list = V.filter(v => (sport === "all" || v.sport === sport) && (!onlyHl || v.highlights));
+  $("vgrid").innerHTML = list.length ? list.map(v => `<article class="vid">
+    <button class="thumb" data-id="${esc(v.id)}" aria-label="Παίξε: ${esc(v.title)}"><img loading="lazy" src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg" alt=""><span class="play" aria-hidden="true"></span></button>
+    <h3>${esc(v.title)}</h3><p class="vmeta">${esc(v.channel_name)}${v.official ? " ✓" : ""} · ${when(v.published)}${v.highlights ? ' · <b>highlights</b>' : ""}</p></article>`).join("")
+    : '<p class="note">Δεν υπάρχουν βίντεο με αυτά τα φίλτρα.</p>';
+}
+document.addEventListener("click", e => {
+  const t = e.target.closest(".tab"); if (t) { sport = t.dataset.s; render(); return; }
+  const b = e.target.closest(".thumb"); if (b) { const f = document.createElement("iframe");
+    f.src = "https://www.youtube-nocookie.com/embed/" + encodeURIComponent(b.dataset.id) + "?autoplay=1&rel=0";
+    f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen"; f.allowFullscreen = true; f.title = "YouTube"; b.replaceWith(f); }
+});
+$("hl").addEventListener("change", e => { onlyHl = e.target.checked; render(); });
+fetch("/data/videos.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(d => { V = d.items; render(); })
+  .catch(() => { $("vgrid").innerHTML = '<p class="note">Τα βίντεο δεν φορτώθηκαν. Δοκίμασε ξανά σε λίγο.</p>'; });
+</script></main>
+<footer><div class="wrap">Ανεπίσημο site φιλάθλων, χωρίς σχέση με την ΠΑΕ ή την ΚΑΕ Ολυμπιακός.
+Τα στοιχεία συγκεντρώνονται αυτόματα από δημόσιες πηγές (football-data.co.uk, openfootball, Euroleague) και μπορεί να έχουν κενά.</div></footer>
+</body></html>
