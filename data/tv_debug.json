@@ -1,9 +1,4 @@
 {
- "url": "https://mwapi-prod.cosmotetvott.gr/api/v3.4/epg/listings/el?from=1793713834&to=1794318634&callSigns=sport1hd%2Csport2hd%2Csport3hd%2Csport4hd%2Csport5hd%2Csport6hd%2Csport7hd%2Csport8hd&endingIncludedInRange=false",
- "type": "dict",
- "keys": [
-  "code",
-  "message"
- ],
- "sample": "{\"code\": \"InternalServerError\", \"message\": \"Something went wrong when processing the request. BadParameterException\"}"
+ "batched": true,
+ "sample": "{\"startTime\": \"2026-11-02T22:00:00+00:00\", \"endTime\": \"2026-11-03T21:59:59+00:00\", \"channels\": []}"
 }
