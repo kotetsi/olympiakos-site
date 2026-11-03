@@ -51,21 +51,37 @@ def main():
         last = ts(json.load(open(out_p, encoding="utf-8")).get("generated_at"))
         if last and NOW - last < timedelta(hours=3):
             print("πρόγραμμα TV: ανανεώθηκε πριν από λιγότερο από 3 ώρες, παράλειψη"); return
-    frm, to = int(NOW.timestamp()), int((NOW + timedelta(days=7)).timestamp())
     found, errors, seen_progs = {}, [], 0
     calls = list(CH)
-    for i in range(0, len(calls), 8):
-        batch = ",".join(calls[i:i + 8])
-        url = f"{API}?from={frm}&to={to}&callSigns={urllib.parse.quote(batch)}&endingIncludedInRange=false"
-        try:
-            data = get_json(url)
-        except Exception as e:
-            errors.append(f"{batch}: {e}"); continue
-        if i == 0:
-            json.dump(dict(url=url, type=type(data).__name__, keys=list(data)[:20] if isinstance(data, dict) else len(data),
-                           sample=json.dumps(data, ensure_ascii=False)[:4000]),
+    athens = timezone(timedelta(hours=2))
+    def fetch(day0, cs):
+        frm = int(day0.astimezone(timezone.utc).timestamp()); to = frm + 86399
+        url = f"{API}?from={frm}&to={to}&callSigns={urllib.parse.quote(cs)}&endingIncludedInRange=false"
+        data = get_json(url)
+        if isinstance(data, dict) and data.get("code") and not data.get("channels"):
+            raise ValueError(data.get("message", "σφάλμα"))
+        return data
+    batched = True
+    for d in range(7):
+        day0 = (NOW.astimezone(athens) + timedelta(days=d)).replace(hour=0, minute=0, second=0, microsecond=0)
+        groups = [",".join(calls[i:i + 8]) for i in range(0, len(calls), 8)] if batched else calls
+        results = []
+        for g in groups:
+            try:
+                results.append(fetch(day0, g))
+            except Exception as e:
+                if "," in g:   # η πηγή δεν δέχεται πολλά κανάλια μαζί: ένα-ένα
+                    batched = False
+                    for c in g.split(","):
+                        try: results.append(fetch(day0, c))
+                        except Exception as e2: errors.append(f"{c} {day0:%d/%m}: {e2}")
+                else:
+                    errors.append(f"{g} {day0:%d/%m}: {e}")
+        if d == 0:
+            json.dump(dict(batched=batched, sample=json.dumps(results[0] if results else None, ensure_ascii=False)[:3000]),
                       open(os.path.join(DATA, "tv_debug.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        for ch, p in walk(data):
+        for data in results:
+          for ch, p in walk(data):
             seen_progs += 1
             title = p.get("title") or p.get("name") or ""
             desc = p.get("description") or p.get("shortDescription") or p.get("synopsis") or ""
@@ -79,7 +95,7 @@ def main():
             key = (norm(title), start.isoformat()[:13])
             item = found.setdefault(key, dict(title=title.strip(), start=start.isoformat(timespec="minutes"),
                                               end=end.isoformat(timespec="minutes") if end else "", channels=[],
-                                              sport=sport_of(title, desc + " " + str(p.get("genre", "")), [], ""),
+                                              sport=sport_of(title, desc + " " + str(p.get("genre") or (p.get("qoe") or {}).get("genre") or ""), [], ""),
                                               info=re.sub(r"\s+", " ", desc)[:200]))
             name = CH.get(ch, ch or "")
             if name and name not in item["channels"]: item["channels"].append(name)
