@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T12:28:15+00:00",
+ "checked_at": "2026-11-03T12:29:31+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -13,19 +13,26 @@
    "name": "Olympiacos BC",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 404: Not Found"
+   ]
   },
   "redplanet": {
    "name": "Red Planet",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "αρχική σελίδα: <urlopen error [Errno -2] Name or service not known>",
+    "/feed: <urlopen error [Errno -2] Name or service not known>"
+   ]
   },
   "gavros": {
    "name": "Gavros",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 404: Not Found"
+   ]
   },
   "thrylos24": {
    "name": "Thrylos24",
@@ -55,13 +62,17 @@
    "name": "Sport24",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 403: Forbidden"
+   ]
   },
   "contra": {
    "name": "Contra",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 403: Forbidden"
+   ]
   },
   "novasports": {
    "name": "Novasports",
@@ -75,17 +86,17 @@
    "name": "Sport FM",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 404: Not Found"
+   ]
   },
   "sportday": {
    "name": "Sportday",
    "feeds": [
     "https://www.sportday.gr/feed"
    ],
-   "items": 0,
-   "errors": [
-    "https://www.sportday.gr/feed: unbound prefix: line 43, column 2"
-   ]
+   "items": 3,
+   "errors": []
   },
   "sportime": {
    "name": "Sportime",
@@ -93,7 +104,7 @@
     "https://sportime.gr/feed",
     "https://sportime.gr/feed/news"
    ],
-   "items": 18,
+   "items": 9,
    "errors": []
   },
   "metrosport": {
@@ -102,7 +113,7 @@
     "https://www.metrosport.gr/feed",
     "https://www.metrosport.gr/feed/atom"
    ],
-   "items": 2,
+   "items": 1,
    "errors": []
   },
   "ertsports": {
@@ -117,7 +128,9 @@
    "name": "OnSports",
    "feeds": [],
    "items": 0,
-   "errors": []
+   "errors": [
+    "/feed: HTTP Error 404: Not Found"
+   ]
   },
   "sportsnewsgreece": {
    "name": "SportsNewsGreece",
@@ -125,7 +138,7 @@
     "https://www.sportsnewsgreece.gr/feeds/posts/default",
     "https://www.sportsnewsgreece.gr/feeds/posts/default?alt=rss"
    ],
-   "items": 2,
+   "items": 1,
    "errors": []
   },
   "eurohoops": {
@@ -134,7 +147,7 @@
     "https://www.eurohoops.net/feed/",
     "https://www.eurohoops.net/el/feed/"
    ],
-   "items": 2,
+   "items": 1,
    "errors": []
   }
  }

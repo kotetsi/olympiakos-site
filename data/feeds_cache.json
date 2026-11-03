@@ -26,5 +26,8 @@
  "eurohoops": [
   "https://www.eurohoops.net/feed/",
   "https://www.eurohoops.net/el/feed/"
+ ],
+ "sportday": [
+  "https://www.sportday.gr/feed"
  ]
 }

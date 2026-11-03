@@ -1,6 +1,6 @@
 {
-"generated_at": "2026-11-03T12:28:15+00:00",
-"count": 43,
+"generated_at": "2026-11-03T12:29:31+00:00",
+"count": 37,
 "items": [
 {
 "title": "Παναθηναϊκός: Απάντησε ο Ερασιτέχνης στον Ολυμπιακό",
@@ -51,6 +51,18 @@
 "id": "cf9c90238565"
 },
 {
+"title": "Κίλιαν Χέιζ: Θετικός στην επιστροφή του στην Ευρώπη – Στο προσκήνιο το ενδιαφέρον του Ολυμπιακού",
+"url": "https://sportday.gr/basket/364105_kilian-cheiz-thetikos-stin-epistrofi-tou-stin-evropi-sto-proskinio-to-endiaferon-tou-olympiakou.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-03T11:21+00:00",
+"sport": "basket",
+"snippet": "Το ενδεχόμενο να επιστρέψει στα ευρωπαϊκά παρκέ φαίνεται πως εξετάζει σοβαρά ο Κίλιαν Χέιζ, με τον Γάλλο γκαρντ να βρίσκεται στο επίκεντρο των μεταγραφικών…",
+"also": [],
+"id": "214b3138091f"
+},
+{
 "title": "Ρεν – Ολυμπιακός: Χωρίς διακριτικά στα 75 ευρώ",
 "url": "https://sportime.gr/olimpiakos/ren-olimpiakos-i-filathli-ton-75-evro-kalounte-na-pane-choris-diakritika-tis-omadas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -61,18 +73,6 @@
 "snippet": "Ρεν – Ολυμπιακός: Άλλες οδηγίες για τα εισιτήρια των 22 και 75 ευρώ. Τι ισχύει για voucher, αστυνομική συνοδεία, διακριτικά και πρόσβαση στο γήπεδο.",
 "also": [],
 "id": "bc21d42e23e4"
-},
-{
-"title": "Ρεν – Ολυμπιακός: Χωρίς διακριτικά στα 75 ευρώ",
-"url": "https://sportime.gr/olimpiakos/ren-olimpiakos-i-filathli-ton-75-evro-kalounte-na-pane-choris-diakritika-tis-omadas?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T11:15+00:00",
-"sport": "general",
-"snippet": "Ρεν – Ολυμπιακός: Άλλες οδηγίες για τα εισιτήρια των 22 και 75 ευρώ. Τι ισχύει για voucher, αστυνομική συνοδεία, διακριτικά και πρόσβαση στο γήπεδο.",
-"also": [],
-"id": "f2da6238ac35"
 },
 {
 "title": "League Cup: Ανοίγει η αυλαία στου Ρέντη",
@@ -99,18 +99,6 @@
 "id": "37f925361a04"
 },
 {
-"title": "Ρεν: Το πέναλτι που μπορεί να αξιοποιήσει ο Ολυμπιακός",
-"url": "https://sportime.gr/europa-league/ren-i-dio-amfivoli-ke-to-penalti-pou-dichni-tin-efkeria-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T10:51+00:00",
-"sport": "football",
-"snippet": "Ο Σαμπά και ο Λεπόλ παραμένουν αμφίβολοι για τη Ρεν. Το πέναλτι του Λεμέτρ στη Νίκαια δείχνει την ευκαιρία που μπορεί να αναζητήσει ο Ολυμπιακός.",
-"also": [],
-"id": "3eca2f816d13"
-},
-{
 "title": "Ολυμπιακός: Οι δύο φορ που κρίνουν τις επιλογές Ιμανόλ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-i-apostoli-gia-ren-ekrive-to-megalitero-dilimma-tou-imanol-stin-epithesi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -123,25 +111,13 @@
 "id": "b8e5c178d3dd"
 },
 {
-"title": "Ολυμπιακός: Οι δύο φορ που κρίνουν τις επιλογές Ιμανόλ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-apostoli-gia-ren-ekrive-to-megalitero-dilimma-tou-imanol-stin-epithesi?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T10:28+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ταξιδεύει στη Ρεν με 23 παίκτες, αλλά μόνο δύο καθαρούς φορ. Οι Γκονσάλες και Γιάρεμτσουκ έχουν πετύχει τρία από τα τέσσερα ευρωπαϊκά γκολ.",
-"also": [],
-"id": "c759e4a52f4d"
-},
-{
 "title": "Ο θρίαμβος του Άρη, η άμυνα του Παναθηναϊκού και ο παίκτης που ψάχνει ο Ολυμπιακός | PullUp ep.6",
 "url": "https://www.eurohoops.net/el/trademarks-el/2030078/o-thriamvos-tou-ari-i-amina-tou-panathinaikou-ke-o-pektis-pou-psachni-o-olimpiakos-pullup-ep-6/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
 "published": "2026-11-03T10:19+00:00",
-"sport": "football",
+"sport": "basket",
 "snippet": "Ο θρίαμβος του Άρη, τα θέματα του Παναθηναϊκού και ο Ολυμπιακός των Μακιντάιρ, Γουόρντ και των μεταγραφών, στο 6ο «Pull Up». The post Ο θρίαμβος του Άρη, η…",
 "also": [],
 "id": "71ee4d5cf1a8"
@@ -157,18 +133,6 @@
 "snippet": "Ο Ολυμπιακός υποδέχεται το Ρέθυμνο στις 17:30 για το League Cup. Δείτε την επίσημη μετάδοση στο YouTube και ποιον θα αντιμετωπίσει αν προκριθεί.",
 "also": [],
 "id": "6fa766a07762"
-},
-{
-"title": "Ολυμπιακός: Με Ρέθυμνο για τα ημιτελικά του League Cup",
-"url": "https://sportime.gr/volei/olimpiakos-to-3-0-me-to-rethimno-xechniete-simera-krinete-i-prokrisi?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T09:21+00:00",
-"sport": "volley",
-"snippet": "Ο Ολυμπιακός υποδέχεται το Ρέθυμνο στις 17:30 για το League Cup. Δείτε την επίσημη μετάδοση στο YouTube και ποιον θα αντιμετωπίσει αν προκριθεί.",
-"also": [],
-"id": "3f167ae441ef"
 },
 {
 "title": "Ολυμπιακός: Ετοιμάζει αλλαγές ο Αλγουαθίλ",
@@ -193,6 +157,18 @@
 "snippet": "Ο Ολυμπιακός αναχώρησε για τη Γαλλία, με αποστολή 23 ποδοσφαιριστών, ενόψει της αναμέτρησης με τη Ρεν (04/11, 17:30, ΕΡΑ ΣΠΟΡ) στη Βρετάνη, στο πλαίσιο της 4ης…",
 "also": [],
 "id": "d632f3991bd8"
+},
+{
+"title": "Ολυμπιακός: Η αποστολή για τη Ρεν – «Πέταξε» για Γαλλία!",
+"url": "https://sportday.gr/podosfairo/364082_olympiakos-i-apostoli-gia-ti-ren-petakse-gia-gallia.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-03T07:51+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός αναχώρησε για τη Ρεν, με τον Ιμανόλ Αλγουαθίλ να κάνει γνωστή και την αποστολή λίγη ώρα νωρίτερα",
+"also": [],
+"id": "df2da14a6b22"
 },
 {
 "title": "Ολυμπιακός: Αναχώρησε η «ερυθρόλευκη» αποστολή για τη Γαλλία (pic)",
@@ -231,18 +207,6 @@
 "id": "a2e09e135503"
 },
 {
-"title": "Ολυμπιακός: Στις 10:00 εισιτήρια για Ρεάλ και 5 ματς",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-stis-1000-anigoun-ta-isitiria-gia-real-ke-pente-akomi-agones?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T07:25+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός διαθέτει από τις 10:00 εισιτήρια για Ρεάλ και άλλους πέντε αγώνες της EuroLeague. Δείτε τις ημερομηνίες, την αγορά και το Gov.gr Wallet.",
-"also": [],
-"id": "f08952d56c37"
-},
-{
 "title": "Παναθηναϊκός και Ολυμπιακός στην εξάδα του CIES",
 "url": "https://sportime.gr/podosfairo/panathinaikos-pano-apo-olimpiako-sto-presingk-alla-afto-den-simeni-kaliteri-amina?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -255,16 +219,16 @@
 "id": "6f5fb17b1926"
 },
 {
-"title": "Παναθηναϊκός και Ολυμπιακός στην εξάδα του CIES",
-"url": "https://sportime.gr/podosfairo/panathinaikos-pano-apo-olimpiako-sto-presingk-alla-afto-den-simeni-kaliteri-amina?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
+"title": "Ολυμπιακός: Οι «χρυσές» αλλαγές του Αλγουαθίλ",
+"url": "https://sportday.gr/podosfairo/364036_olympiakos-oi-chryses-allages-tou-algouathil.html",
+"source": "sportday",
+"source_name": "Sportday",
 "official": false,
-"published": "2026-11-03T07:12+00:00",
+"published": "2026-11-03T07:03+00:00",
 "sport": "football",
-"snippet": "Παναθηναϊκός και Ολυμπιακός στην εξάδα του CIES για το πρέσινγκ. Τι μετρά ο δείκτης, γιατί δεν δείχνει την καλύτερη άμυνα και πώς διαφέρει από άλλη μέτρηση.",
+"snippet": "Είναι αυτές οι λεπτομέρειες που κάνουν τη διαφορά και έχουν δώσει το αήττητο σερί στον Ολυμπιακό με τον Ιμανόλ στον πάγκο.",
 "also": [],
-"id": "b81a79127082"
+"id": "67f2d74c94d0"
 },
 {
 "title": "Ολυμπιακός: Τα διλήμματα Ιμανόλ στην προπόνηση στη Ρεν",
@@ -279,18 +243,6 @@
 "id": "22454f52e72f"
 },
 {
-"title": "Ολυμπιακός: Τα διλήμματα Ιμανόλ στην προπόνηση στη Ρεν",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-simerini-proponisi-sti-ren-tha-dixi-tis-epiloges-tou-imanol?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T06:35+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός προπονείται απόψε στη Ρεν. Η ευρωπαϊκή λίστα, οι απουσίες και οι θέσεις που εξετάζει ο Ιμανόλ πριν από τον αγώνα της Τετάρτης στη Γαλλία.",
-"also": [],
-"id": "cb80a16ef539"
-},
-{
 "title": "Ολυμπιακός: Η αποστολή Φουστέρ πέρα από τις μεταγραφές",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-fouster-analamvani-ti-doulia-pou-den-fenete-stis-metagrafes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -303,18 +255,6 @@
 "id": "5b42b36c5e48"
 },
 {
-"title": "Ολυμπιακός: Η αποστολή Φουστέρ πέρα από τις μεταγραφές",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fouster-analamvani-ti-doulia-pou-den-fenete-stis-metagrafes?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T05:53+00:00",
-"sport": "football",
-"snippet": "Ο Φουστέρ επιστρέφει στον Ολυμπιακό με στόχο να συνδέσει πρώτη και δεύτερη ομάδα. Οι 15 νέες υπογραφές και οι ευκαιρίες των νεαρών δείχνουν το στοίχημα.",
-"also": [],
-"id": "fa1cd5db02fc"
-},
-{
 "title": "Ολυμπιακός: Η άμυνα καλύπτει τον Μοντέρο",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-amina-kalipti-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -325,18 +265,6 @@
 "snippet": "Ο Ολυμπιακός αντιμετωπίζει την απουσία του Ζαν Μοντέρο με όπλο την άμυνα, καθώς τα στοιχεία της EuroLeague αναδεικνύουν την αμυντική αποτελεσματικότητά του.",
 "also": [],
 "id": "b65be79267f5"
-},
-{
-"title": "Ολυμπιακός: Η άμυνα καλύπτει τον Μοντέρο",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-amina-kalipti-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_news",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-02T21:29+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει την απουσία του Ζαν Μοντέρο με όπλο την άμυνα, καθώς τα στοιχεία της EuroLeague αναδεικνύουν την αμυντική αποτελεσματικότητά του.",
-"also": [],
-"id": "51700c32649f"
 },
 {
 "title": "Το πρόγραμμα του αγώνα Stade Rennais – Ολυμπιακός",
