@@ -25,7 +25,7 @@ jobs:
         run: python3 scripts/fetch_news.py
       - name: Συλλογή βίντεο
         run: python3 scripts/fetch_videos.py || echo "τα βίντεο απέτυχαν, συνεχίζουμε"
-      - name: Πρόγραμμα TV (κάθε 3 ώρες)
+      - name: Πρόγραμμα TV (κάθε 6 ώρες)
         run: python3 scripts/fetch_tv.py --force || echo "το πρόγραμμα TV απέτυχε, συνεχίζουμε"
       - name: Αποθήκευση αν άλλαξε κάτι
         run: |

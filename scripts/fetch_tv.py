@@ -49,8 +49,8 @@ def main():
     out_p = os.path.join(DATA, "tv.json")
     if os.path.exists(out_p) and "--force" not in sys.argv:
         last = ts(json.load(open(out_p, encoding="utf-8")).get("generated_at"))
-        if last and NOW - last < timedelta(hours=3):
-            print("πρόγραμμα TV: ανανεώθηκε πριν από λιγότερο από 3 ώρες, παράλειψη"); return
+        if last and NOW - last < timedelta(hours=6):
+            print("πρόγραμμα TV: ανανεώθηκε πριν από λιγότερο από 6 ώρες, παράλειψη"); return
     found, errors, seen_progs = {}, [], 0
     calls = list(CH)
     athens = timezone(timedelta(hours=2))
@@ -61,27 +61,20 @@ def main():
         if isinstance(data, dict) and data.get("code") and not data.get("channels"):
             raise ValueError(data.get("message", "σφάλμα"))
         return data
-    batched = True
-    for d in range(7):
-        day0 = (NOW.astimezone(athens) + timedelta(days=d)).replace(hour=0, minute=0, second=0, microsecond=0)
-        groups = [",".join(calls[i:i + 8]) for i in range(0, len(calls), 8)] if batched else calls
-        results = []
-        for g in groups:
-            try:
-                results.append(fetch(day0, g))
-            except Exception as e:
-                if "," in g:   # η πηγή δεν δέχεται πολλά κανάλια μαζί: ένα-ένα
-                    batched = False
-                    for c in g.split(","):
-                        try: results.append(fetch(day0, c))
-                        except Exception as e2: errors.append(f"{c} {day0:%d/%m}: {e2}")
-                else:
-                    errors.append(f"{g} {day0:%d/%m}: {e}")
-        if d == 0:
-            json.dump(dict(batched=batched, sample=json.dumps(results[0] if results else None, ensure_ascii=False)[:3000]),
-                      open(os.path.join(DATA, "tv_debug.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-        for data in results:
-          for ch, p in walk(data):
+    import concurrent.futures as cf
+    days = [(NOW.astimezone(athens) + timedelta(days=d)).replace(hour=0, minute=0, second=0, microsecond=0) for d in range(7)]
+    jobs = [(d, c) for d in days for c in calls]
+    def one(job):
+        d, c = job
+        try: return (c, fetch(d, c))
+        except Exception as e: errors.append(f"{c} {d:%d/%m}: {e}"); return None
+    with cf.ThreadPoolExecutor(max_workers=6) as ex:
+        results_all = [r for r in ex.map(one, jobs) if r]
+    json.dump(dict(requests=len(jobs), ok=len(results_all), sample=json.dumps(results_all[0][1] if results_all else None, ensure_ascii=False)[:2000]),
+              open(os.path.join(DATA, "tv_debug.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    for results in [results_all]:
+        for c0, data in results:
+          for ch, p in walk(data, c0):
             seen_progs += 1
             title = p.get("title") or p.get("name") or ""
             desc = p.get("description") or p.get("shortDescription") or p.get("synopsis") or ""
