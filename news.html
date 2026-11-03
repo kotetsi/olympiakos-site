@@ -204,5 +204,6 @@ setInterval(() => load(false), 5 * 60 * 1000);
 setInterval(() => { if (DATA.items.length) render(); }, 60 * 1000);
 </script>
 <script>if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});</script>
+<script src="/assets/consent.js" defer></script>
 </body>
 </html>

@@ -101,6 +101,7 @@ def page(title, desc, body, active, crumbs=(), canonical=""):
 <footer><div class="wrap">Ανεπίσημο site φιλάθλων, χωρίς σχέση με την ΠΑΕ ή την ΚΑΕ Ολυμπιακός.
 Τα στοιχεία συγκεντρώνονται αυτόματα από δημόσιες πηγές (football-data.co.uk, openfootball, Euroleague) και μπορεί να έχουν κενά.</div></footer>
 <script>if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {{}});</script>
+<script src="/assets/consent.js" defer></script>
 </body></html>"""
 
 def kpis(items):
