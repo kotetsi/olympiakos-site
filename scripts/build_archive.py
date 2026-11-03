@@ -447,7 +447,7 @@ TV_JS = r"""
 const SP = {football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:""};
 const $ = id => document.getElementById(id);
 const esc = s => (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const tm = iso => new Date(iso).toLocaleTimeString("el-GR", {hour:"2-digit", minute:"2-digit"});
+const tm = iso => new Date(iso).toLocaleTimeString("el-GR", {hour:"2-digit", minute:"2-digit", hour12:false});
 const day = iso => { const d = new Date(iso), t = new Date(), k = x => x.toDateString(); const tw = new Date(); tw.setDate(t.getDate() + 1);
   const lbl = d.toLocaleDateString("el-GR", {weekday:"long", day:"numeric", month:"long"});
   return k(d) === k(t) ? "Σήμερα · " + lbl : k(d) === k(tw) ? "Αύριο · " + lbl : lbl; };
