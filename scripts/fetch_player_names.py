@@ -42,7 +42,7 @@ def split(raw):
 
 def entities(ids):
     if not ids: return []
-    d = api(action="wbgetentities", ids="|".join(ids[:50]), props="labels|aliases|sitelinks|claims", languages="el|en", sitefilter="elwiki")
+    d = api(action="wbgetentities", ids="|".join(ids[:50]), props="labels|aliases|sitelinks|claims", languages="el|en|de|fr|es|it", sitefilter="elwiki")
     return [d["entities"][i] for i in ids if i in d.get("entities", {})]
 
 def claim_ids(e, p):
@@ -54,26 +54,34 @@ def greek(e):
         if v and GREEK.search(v): return v
     return ""
 
-def first_ok(e, first):
-    if not first: return True
-    names = [(e.get("labels", {}).get("en") or {}).get("value", "")] + [a["value"] for a in e.get("aliases", {}).get("en", [])]
-    f = fold(first)[:3]
-    return any(fold(n.split()[0])[:3] == f for n in names if n.split())
+def latin_names(e):
+    out = [v["value"] for v in e.get("labels", {}).values()] + [a["value"] for a in e.get("aliases", {}).get("en", [])]
+    return [n for n in out if n and not GREEK.search(n)]
+
+def same_person(e, first, last):
+    """Το επώνυμο πρέπει να υπάρχει στο όνομα του Wikidata και το μικρό όνομα να ξεκινά με τα ίδια 2 γράμματα."""
+    fl, ff = fold(last), fold(first)[:2]
+    for n in latin_names(e):
+        parts = n.split()
+        if fl and fl in fold(n) and (not ff or (parts and fold(parts[0])[:2] == ff)):
+            return True
+    return False
 
 def lookup(raw):
     first, last = split(raw)
     if not last: return None
     # 1) επώνυμο ανάμεσα σε όσους έπαιξαν στον Ολυμπιακό
     hits = api(action="query", list="search", srsearch=f'"{last}" haswbstatement:P54={OLY}', srlimit=10).get("query", {}).get("search", [])
-    cands = entities([h["title"] for h in hits])
-    if len(cands) > 1: cands = [e for e in cands if first_ok(e, first)] or []
+    cands = [e for e in entities([h["title"] for h in hits]) if same_person(e, first, last)]
     if len(cands) == 1: return cands[0]
+    if len(cands) > 1: return None
     # 2) πλήρες όνομα, μόνο αν είναι άνθρωπος του μπάσκετ
     s = api(action="wbsearchentities", search=f"{first} {last}", language="en", limit=7, type="item").get("search", [])
-    cands = [e for e in entities([x["id"] for x in s]) if claim_ids(e, "P106") & BASKET or OLY in claim_ids(e, "P54")]
+    cands = [e for e in entities([x["id"] for x in s])
+             if (claim_ids(e, "P106") & BASKET or OLY in claim_ids(e, "P54")) and same_person(e, first, last)]
     oly = [e for e in cands if OLY in claim_ids(e, "P54")]
     if len(oly) == 1: return oly[0]
-    if len(cands) == 1 and first_ok(cands[0], first): return cands[0]
+    if len(cands) == 1: return cands[0]
     return None
 
 def names_in_archive():
