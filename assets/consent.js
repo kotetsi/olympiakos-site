@@ -1,6 +1,6 @@
 /* Google Analytics μόνο μετά από συναίνεση. Η επιλογή κρατιέται στον browser του επισκέπτη. */
 (function () {
-  var GA_ID = "G-WGT7CXPG0X", KEY = "rm-consent";
+  var GA_ID = "G-WGT7CXPG0X", GA_SA = "G-PF4D7DZ1N0", KEY = "rm-consent";
   function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
   function set(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
   var loaded = false;
@@ -10,6 +10,7 @@
     window.gtag = function () { dataLayer.push(arguments); };
     gtag("js", new Date());
     gtag("config", GA_ID, { anonymize_ip: true });
+    gtag("config", GA_SA, { anonymize_ip: true });
     var s = document.createElement("script");
     s.async = true; s.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
     document.head.appendChild(s);
