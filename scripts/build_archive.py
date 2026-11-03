@@ -73,7 +73,7 @@ LOGO = ('<a class="brand" href="/" aria-label="Red Madness, αρχική"><svg c
         '<span class="wm">Red Madness</span></a>')
 
 # ------------------------------------------------------------------ πρότυπο
-NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/videos/", "Βίντεο", "vid"), ("/eshop/", "E-shop", "shop")]
+NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/tv/", "Πού θα το δω", "tv"), ("/videos/", "Βίντεο", "vid"), ("/eshop/", "E-shop", "shop")]
 
 def page(title, desc, body, active, crumbs=(), canonical=""):
     nav = "".join(f'<a href="{u}"{" class=on" if k == active else ""}>{t}</a>' for u, t, k in NAV)
@@ -441,6 +441,46 @@ def videos():
     os.makedirs(os.path.join(ROOT, "videos"), exist_ok=True)
     open(os.path.join(ROOT, "videos", "index.html"), "w", encoding="utf-8").write(html_text)
 
+# ================================================================== Πού θα δείτε τον Ολυμπιακό
+TV_JS = r"""
+<script>
+const SP = {football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:""};
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const tm = iso => new Date(iso).toLocaleTimeString("el-GR", {hour:"2-digit", minute:"2-digit"});
+const day = iso => { const d = new Date(iso), t = new Date(), k = x => x.toDateString(); const tw = new Date(); tw.setDate(t.getDate() + 1);
+  const lbl = d.toLocaleDateString("el-GR", {weekday:"long", day:"numeric", month:"long"});
+  return k(d) === k(t) ? "Σήμερα · " + lbl : k(d) === k(tw) ? "Αύριο · " + lbl : lbl; };
+const live = it => { const n = Date.now(), s = +new Date(it.start), e = it.end ? +new Date(it.end) : s + 2 * 36e5; return n >= s && n <= e; };
+fetch("/data/tv.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(d => {
+  const items = d.items.filter(it => (it.end ? +new Date(it.end) : +new Date(it.start) + 2 * 36e5) > Date.now());
+  $("upd").textContent = "Ενημέρωση: " + new Date(d.generated_at).toLocaleString("el-GR", {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"});
+  if (!items.length) { $("next").innerHTML = '<p class="note">Δεν βρέθηκε τηλεοπτική μετάδοση αγώνα του Ολυμπιακού τις επόμενες 7 μέρες.</p>'; $("list").innerHTML = ""; return; }
+  const n = items[0];
+  $("next").innerHTML = `<div class="next"><span class="shop-k">${live(n) ? "Τώρα ζωντανά" : "Επόμενη μετάδοση"}</span>
+    <b>${esc(n.title)}</b><span class="when">${esc(day(n.start))} · ${tm(n.start)}</span>
+    <span class="chs">${n.channels.map(c => `<span class="ch">${esc(c)}</span>`).join("")}</span></div>`;
+  let html = "", cur = "";
+  items.forEach(it => { const dl = day(it.start); if (dl !== cur) { html += `<h2 class="day">${esc(dl)}</h2>`; cur = dl; }
+    html += `<div class="tvrow"><span class="t">${tm(it.start)}</span><div><b>${esc(it.title)}</b>${SP[it.sport] ? ` <span class="tag">${SP[it.sport]}</span>` : ""}${live(it) ? ' <span class="tag liv">ΖΩΝΤΑΝΑ</span>' : ""}
+      <div class="chs">${it.channels.map(c => `<span class="ch">${esc(c)}</span>`).join("")}</div></div></div>`; });
+  $("list").innerHTML = html;
+}).catch(() => { $("next").innerHTML = '<p class="note">Το πρόγραμμα δεν φορτώθηκε. Δοκίμασε ξανά σε λίγο.</p>'; });
+</script>"""
+
+def tv():
+    body = f"""<h1>Πού θα δείτε τον Ολυμπιακό <span class="sub" id="upd"></span></h1>
+<p class="lead">Όλες οι τηλεοπτικές μεταδόσεις αγώνων του Ολυμπιακού τις επόμενες 7 μέρες, σε ποδόσφαιρο, μπάσκετ, βόλεϊ, πόλο και τα υπόλοιπα τμήματα, με ώρα και κανάλι.</p>
+<div id="next"><p class="note">Φόρτωση προγράμματος…</p></div>
+<div id="list"></div>
+<p class="note">Το πρόγραμμα συγκεντρώνεται αυτόματα από τα κανάλια COSMOTE SPORT, Novasports και τα ελεύθερα κανάλια, και ανανεώνεται κάθε 3 ώρες. Αλλαγές της τελευταίας στιγμής μπορεί να μην φαίνονται.</p>
+{shop_box(TEAM["olympiakos"], "tv", "Φόρα τη φανέλα στο ματς", "Οι εμφανίσεις του Ολυμπιακού 2026/27 με όνομα παίκτη, στο Sport Arena.")}{TV_JS}"""
+    html_text = page("Πού θα δείτε τον Ολυμπιακό – τηλεοπτικό πρόγραμμα αγώνων | Red Madness",
+                     "Τι ώρα και σε ποιο κανάλι παίζει ο Ολυμπιακός: όλες οι τηλεοπτικές μεταδόσεις αγώνων ποδοσφαίρου, μπάσκετ, βόλεϊ και πόλο τις επόμενες 7 μέρες.",
+                     body, "tv", [], "/tv/")
+    os.makedirs(os.path.join(ROOT, "tv"), exist_ok=True)
+    open(os.path.join(ROOT, "tv", "index.html"), "w", encoding="utf-8").write(html_text)
+
 # ================================================================== E-shop
 def eshop():
     gr = [t for t in SHOP["teams"] if t["id"] not in ("olympiakos", "olympiakos-bc") and t["path"].startswith(("/σύλλογοι/ελληνική", "/μπάσκετ/basket-league"))]
@@ -476,8 +516,8 @@ def main():
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop(); videos()
-    urls = ["/", "/news.html", "/videos/", "/eshop/"] + PAGES
+    eshop(); videos(); tv()
+    urls = ["/", "/news.html", "/tv/", "/videos/", "/eshop/"] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"
