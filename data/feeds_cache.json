@@ -1,0 +1,33 @@
+{
+ "olympiacos-org": [
+  "https://www.olympiacos.org/feed"
+ ],
+ "gazzetta": [
+  "https://www.gazzetta.gr/rss"
+ ],
+ "novasports": [
+  "https://www.novasports.gr/feed"
+ ],
+ "sport-fm": [
+  "https://www.sport-fm.gr/list/1.feed",
+  "https://www.sport-fm.gr/list/2.feed",
+  "https://www.sport-fm.gr/list/3.feed"
+ ],
+ "sportday": [
+  "https://www.sportday.gr/feed"
+ ],
+ "sportime": [
+  "https://sportime.gr/feed",
+  "https://sportime.gr/feed/news"
+ ],
+ "metrosport": [
+  "https://www.metrosport.gr/feed",
+  "https://www.metrosport.gr/feed/atom"
+ ],
+ "ertsports": [
+  "https://www.ertsports.gr/feed/"
+ ],
+ "eurohoops": [
+  "https://www.eurohoops.net/el/feed/"
+ ]
+}
