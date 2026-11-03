@@ -35,7 +35,7 @@ def fold(s):
     return "".join(c for c in unicodedata.normalize("NFKD", s.lower()) if c.isalnum())
 
 def split(raw):
-    raw = re.sub(r"\b(JR|SR|II|III)\.?\b", "", raw, flags=re.I).strip(" ,")
+    raw = re.sub(r"\b(JR|SR|II|III|IV)\.?\b", "", raw, flags=re.I).strip(" ,")
     if "," in raw:
         last, first = raw.split(",", 1); return first.strip().title(), last.strip().title()
     parts = raw.title().split(); return " ".join(parts[:-1]), parts[-1] if parts else ""
