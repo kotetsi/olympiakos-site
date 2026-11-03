@@ -9,7 +9,7 @@
 Χρήση: python3 scripts/fetch_news.py [--root .] [--days 7] [--max 400]
 """
 import argparse, concurrent.futures as cf, email.utils, hashlib, html, json, os, re, sys
-import unicodedata, urllib.parse, urllib.request
+import unicodedata, urllib.error, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
@@ -82,8 +82,17 @@ def sport_of(title, summary, cats, url, default=None):
     return best or default or "general"
 
 # ---------------------------------------------------------------- δίκτυο
+BROWSER_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+
 def get(url):
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.5"})
+    try:
+        return _get(url, UA)
+    except urllib.error.HTTPError as e:
+        if e.code in (403, 429, 503): return _get(url, BROWSER_UA)
+        raise
+
+def _get(url, ua):
+    req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html;q=0.8, */*;q=0.5"})
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
         raw = r.read(5_000_000)
         ctype = r.headers.get("Content-Type", "")
@@ -214,7 +223,14 @@ def fetch_source(src, cache):
         try:
             raw, *_ = get(f)
             if not looks_like_feed(raw): raise ValueError("δεν είναι RSS/Atom")
-            for it in parse_feed(raw):
+            parsed = parse_feed(raw)
+            raw_n = len(parsed); newest = ""
+            for it in parsed:
+                d0 = parse_date(it["date"])
+                if d0 and d0.isoformat() > newest: newest = d0.isoformat()[:16]
+            errors.append(f"διάγνωση: {raw_n} άρθρα στο feed, νεότερο {newest or '?'}") if raw_n == 0 or not src.get("dedicated") and False else None
+            src.setdefault("_diag", []).append(dict(feed=f, raw=raw_n, newest=newest))
+            for it in parsed:
                 title, link = clean(it["title"]), (it["link"] or "").strip()
                 if not title or not link.startswith("http"): continue
                 d = parse_date(it["date"]) or NOW
@@ -277,7 +293,7 @@ def main():
     fresh, status = [], {}
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
         for src, feeds, items, errors in ex.map(lambda s: fetch_source(s, cache), sources):
-            status[src["id"]] = dict(name=src["name"], feeds=feeds, items=len(items), errors=errors[:3])
+            status[src["id"]] = dict(name=src["name"], feeds=feeds, items=len(items), errors=errors[:3], diag=src.get("_diag", []))
             if items: cache[src["id"]] = feeds            # κρατάμε μόνο feeds που δούλεψαν
             elif errors: cache.pop(src["id"], None)       # ξαναψάχνουμε την επόμενη φορά
             fresh += items
