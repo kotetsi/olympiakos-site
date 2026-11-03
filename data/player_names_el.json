@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:41:11+00:00",
+ "updated": "2026-11-03T14:47:03+00:00",
  "source": "Wikidata",
  "names": {
   "ACY, QUINCY": {
@@ -349,6 +349,342 @@
   "LUCAS, KALIN": {
    "el": "Κέιλιν Λούκας",
    "qid": "Q3812598"
+  },
+  "MALJKOVIC, BOZIDAR": {
+   "el": "Μπόζινταρ Μάλκοβιτς",
+   "qid": "Q629248"
+  },
+  "MANTZARIS, EVANGELOS": {
+   "el": "Βαγγέλης Μάντζαρης",
+   "qid": "Q2054315"
+  },
+  "MANTZARIS, VANGELIS": {
+   "el": "Βαγγέλης Μάντζαρης",
+   "qid": "Q2054315"
+  },
+  "MARTIN, HASSAN": {
+   "el": "Χασάν Μάρτιν",
+   "qid": "Q48872151"
+  },
+  "MAVROEIDIS, DIMITRIOS": {
+   "el": "Δημήτρης Μαυροειδής",
+   "qid": "Q761392"
+  },
+  "MCKISSIC, SHAQUIELLE": {
+   "el": "Σακίλ ΜακΚίσικ",
+   "qid": "Q21915373"
+  },
+  "MCLEAN, JAMEL": {
+   "el": "Τζαμέλ ΜακΛίν",
+   "qid": "Q2597800"
+  },
+  "MENSAH, NATHAN": {
+   "el": "Νέιθαν Μενσά",
+   "qid": "Q100715582"
+  },
+  "MESSINA, ETTORE": {
+   "el": "Έτορε Μεσίνα",
+   "qid": "Q523626"
+  },
+  "MILUTINOV, NIKOLA": {
+   "el": "Νίκολα Μιλουτίνοφ",
+   "qid": "Q7035595"
+  },
+  "MITROVIC, ZVEZDAN": {
+   "el": "Ζβέζνταν Μίτροβιτς",
+   "qid": "Q23414347"
+  },
+  "MOON, JAMARIO": {
+   "el": "Τζαμάριο Μουν",
+   "qid": "Q556685"
+  },
+  "MOURATOS, VASSILIS": {
+   "el": "Βασίλης Μουράτος",
+   "qid": "Q18358384"
+  },
+  "MRSIC, VELJKO": {
+   "el": "Βέλικο Μίρισιτς",
+   "qid": "Q2308737"
+  },
+  "NESTEROVIC, RADOSLAV": {
+   "el": "Ράσο Νεστέροβιτς",
+   "qid": "Q359370"
+  },
+  "NESTEROVIC, RASHO": {
+   "el": "Ράσο Νεστέροβιτς",
+   "qid": "Q359370"
+  },
+  "NIELSEN, MATT": {
+   "el": "Ματ Νίλσεν",
+   "qid": "Q717284"
+  },
+  "NIKOLAIDIS, ALEXANDROS": {
+   "el": "Αλέξανδρος Νικολαΐδης",
+   "qid": "Q84365985"
+  },
+  "OBRADOVIC, SASA": {
+   "el": "Σάσα Ομπράντοβιτς",
+   "qid": "Q628273"
+  },
+  "OBRADOVIC, ZELJKO": {
+   "el": "Ζέλιμιρ Ομπράντοβιτς",
+   "qid": "Q393705"
+  },
+  "PACESAS, TOMAS": {
+   "el": "Τόμας Πατσέσας",
+   "qid": "Q1361872"
+  },
+  "PAPADOPOULOS, LAZAROS": {
+   "el": "Λάζαρος Παπαδόπουλος",
+   "qid": "Q741055"
+  },
+  "PAPALOUKAS, THEODOROS": {
+   "el": "Θοδωρής Παπαλουκάς",
+   "qid": "Q317050"
+  },
+  "PAPANIKOLAOU, KOSTAS": {
+   "el": "Κώστας Παπανικολάου",
+   "qid": "Q2608531"
+  },
+  "PAPAPETROU, IOANNIS": {
+   "el": "Γιάννης Παπαπέτρου",
+   "qid": "Q13876407"
+  },
+  "PAPAS, GEORGE": {
+   "el": "Τζορτζ Πάπας",
+   "qid": "Q100895737"
+  },
+  "PARKER, TJ": {
+   "el": "Τ. Τζ. Πάρκερ",
+   "qid": "Q2406979"
+  },
+  "PASCUAL, XAVI": {
+   "el": "Τσάβι Πασκουάλ",
+   "qid": "Q2607607"
+  },
+  "PAUL, BRANDON": {
+   "el": "Μπράντον Πολ",
+   "qid": "Q4957016"
+  },
+  "PEDOULAKIS, ARGYRIS": {
+   "el": "Αργύρης Πεδουλάκης",
+   "qid": "Q1530768"
+  },
+  "PELEKANOS, MICHALIS": {
+   "el": "Μιχάλης Πελεκάνος",
+   "qid": "Q979516"
+  },
+  "PENARROYA, JOAN": {
+   "el": "Ζοάν Πενιαρρόγια",
+   "qid": "Q5931531"
+  },
+  "PERASOVIC, VELIMIR": {
+   "el": "Βέλιμιρ Περάσοβιτς",
+   "qid": "Q1982255"
+  },
+  "PERKINS, DORON": {
+   "el": "Ντορόν Πέρκινς",
+   "qid": "Q2779086"
+  },
+  "PERPEROGLOU, STRATOS": {
+   "el": "Στράτος Περπέρογλου",
+   "qid": "Q1296648"
+  },
+  "PESIC, SVETISLAV": {
+   "el": "Σβέτισλαβ Πέσιτς",
+   "qid": "Q186156"
+  },
+  "PETERS, ALEC": {
+   "el": "Άλεκ Πίτερς",
+   "qid": "Q27443338"
+  },
+  "PETROVIC, ALEKSANDAR": {
+   "el": "Αλεξάνταρ Πέτροβιτς",
+   "qid": "Q717316"
+  },
+  "PETRUSEV, FILIP": {
+   "el": "Φίλιπ Πετρούσεφ",
+   "qid": "Q47468334"
+  },
+  "PETWAY, BRENT": {
+   "el": "Μπρεντ Πέτγουεϊ",
+   "qid": "Q448922"
+  },
+  "PIANIGIANI, SIMONE": {
+   "el": "Σιμόνε Πιανιτζιάνι",
+   "qid": "Q2521253"
+  },
+  "PITINO, RICK": {
+   "el": "Ρικ Πιτίνο",
+   "qid": "Q686052"
+  },
+  "PLAZA, JOAN": {
+   "el": "Χουάν Πλάθα",
+   "qid": "Q1342029"
+  },
+  "POKUSEVSKI, ALEKSEJ": {
+   "el": "Αλεξέι Ποκουσέβσκι",
+   "qid": "Q62113739"
+  },
+  "PRIFTIS, DIMITRIS": {
+   "el": "Δημήτρης Πρίφτης",
+   "qid": "Q18001568"
+  },
+  "PRIGIONI, PABLO": {
+   "el": "Πάμπλο Πριτζιόνι",
+   "qid": "Q359401"
+  },
+  "PRINTEZIS, GEORGIOS": {
+   "el": "Γιώργος Πρίντεζης",
+   "qid": "Q2290438"
+  },
+  "RADONJIC, DEJAN": {
+   "el": "Ντέγιαν Ράντονιτς",
+   "qid": "Q3704838"
+  },
+  "REED, WILLIE": {
+   "el": "Γουίλι Ριντ",
+   "qid": "Q14327036"
+  },
+  "REPESA, JASMIN": {
+   "el": "Γιάσμιν Ρέπεσα",
+   "qid": "Q734768"
+  },
+  "ROBERTS, BRIAN": {
+   "el": "Μπράιαν Ρόμπερτς",
+   "qid": "Q913008"
+  },
+  "ROCHESTIE, TAYLOR": {
+   "el": "Τέιλορ Ρότσεστι",
+   "qid": "Q1400962"
+  },
+  "RUBIT, AUGUSTINE": {
+   "el": "Ογκάστιν Ρούμπιτ",
+   "qid": "Q14327391"
+  },
+  "SAKOTA, DRAGAN": {
+   "el": "Ντράγκαν Σάκοτα",
+   "qid": "Q532983"
+  },
+  "SCARIOLO, SERGIO": {
+   "el": "Σέρτζιο Σκαριόλο",
+   "qid": "Q718825"
+  },
+  "SERELIS, CHRISTOS": {
+   "el": "Χρήστος Σερέλης",
+   "qid": "Q56678388"
+  },
+  "SFAIROPOULOS, IOANNIS": {
+   "el": "Γιάννης Σφαιρόπουλος",
+   "qid": "Q8992263"
+  },
+  "SHERF, ZVI": {
+   "el": "Σβι Σερφ",
+   "qid": "Q1388185"
+  },
+  "SHERMADINI, GIORGI": {
+   "el": "Γκιόργκι Σερμαντίνι",
+   "qid": "Q1525369"
+  },
+  "SIKMA, LUKE": {
+   "el": "Λουκ Σίκμα",
+   "qid": "Q5984756"
+  },
+  "SIMMONS, CEDRIC": {
+   "el": "Σέντρικ Σίμονς",
+   "qid": "Q2733952"
+  },
+  "SLOUKAS, KOSTAS": {
+   "el": "Κώστας Σλούκας",
+   "qid": "Q2618541"
+  },
+  "SPAHIJA, NEVEN": {
+   "el": "Νέβεν Σπάχια",
+   "qid": "Q2717226"
+  },
+  "SPANOULIS, VASSILIS": {
+   "el": "Βασίλης Σπανούλης",
+   "qid": "Q364367"
+  },
+  "STRAWBERRY, D.J.": {
+   "el": "Ντι Τζέι Στρόμπερι",
+   "qid": "Q2566761"
+  },
+  "STRELNIEKS, JANIS": {
+   "el": "Γιάνις Στρέλνιεκς",
+   "qid": "Q3208805"
+  },
+  "SUBOTIC , SLOBODAN": {
+   "el": "Λευτέρης Σούμποτιτς",
+   "qid": "Q1748982"
+  },
+  "TANJEVIC, BOGDAN": {
+   "el": "Μπόγκνταν Τάνιεβιτς",
+   "qid": "Q672104"
+  },
+  "TANOULIS, GEORGIOS": {
+   "el": "Γεώργιος Τανούλης",
+   "qid": "Q106627405"
+  },
+  "TEODOSIC, MILOS": {
+   "el": "Μίλος Τεόντοσιτς",
+   "qid": "Q314430"
+  },
+  "THOMPSON, HOLLIS": {
+   "el": "Χόλις Τόμπσον",
+   "qid": "Q5881607"
+  },
+  "TILLIE, KIM": {
+   "el": "Κιμ Τιλί",
+   "qid": "Q3196816"
+  },
+  "TIMMA, JANIS": {
+   "el": "Γιάνις Τίμα",
+   "qid": "Q10831393"
+  },
+  "TOLIOPOULOS, VASSILIS": {
+   "el": "Βασίλης Τολιόπουλος",
+   "qid": "Q19973713"
+  },
+  "TOMIC, MILAN": {
+   "el": "Μίλαν Τόμιτς",
+   "qid": "Q1753251"
+  },
+  "TOUPANE, AXEL": {
+   "el": "Αξέλ Τουπάν",
+   "qid": "Q2874765"
+  },
+  "TRINCHIERI, ANDREA": {
+   "el": "Αντρέα Τρινκιέρι",
+   "qid": "Q1532469"
+  },
+  "TSAIRELIS, MICHALIS": {
+   "el": "Μιχάλης Τσαϊρέλης",
+   "qid": "Q6835931"
+  },
+  "VASILOPOULOS, PANAGIOTIS": {
+   "el": "Παναγιώτης Βασιλόπουλος",
+   "qid": "Q741417"
+  },
+  "VEZENKOV, SASHA": {
+   "el": "Αλέξανδρος Βεζένκοφ",
+   "qid": "Q4714896"
+  },
+  "VILDOZA, LUCA": {
+   "el": "Λούκα Βιλντόζα",
+   "qid": "Q16302469"
+  },
+  "VOVORAS, GEORGIOS": {
+   "el": "Γιώργος Βόβορας",
+   "qid": "Q27663419"
+  },
+  "VUJOSEVIC, DUSKO": {
+   "el": "Ντούσκο Βουγιόσεβιτς",
+   "qid": "Q1288374"
+  },
+  "WALKUP, THOMAS": {
+   "el": "Τόμας Γουόκαπ",
+   "qid": "Q21063206"
   }
  },
  "misses": {
@@ -384,6 +720,42 @@
   "KATZURIN, MULI": "2026-11-03T14:41:11+00:00",
   "KIJEWSKI, EUGENIUSZ": "2026-11-03T14:41:11+00:00",
   "KOSTIC, OLIVER": "2026-11-03T14:41:11+00:00",
-  "LARDO, LINO": "2026-11-03T14:41:11+00:00"
+  "LARDO, LINO": "2026-11-03T14:41:11+00:00",
+  "MAHMUTI, OKTAY": "2026-11-03T14:47:03+00:00",
+  "MAHORIC, TOMO": "2026-11-03T14:47:03+00:00",
+  "MAKSVYTIS, KAZYS": "2026-11-03T14:47:03+00:00",
+  "MALTSEV, ANDREI": "2026-11-03T14:47:03+00:00",
+  "MARKOVSKI, ZARE": "2026-11-03T14:47:03+00:00",
+  "MARTINEZ, PEDRO": "2026-11-03T14:47:03+00:00",
+  "MATEO, CHUS": "2026-11-03T14:47:03+00:00",
+  "MAVROKEFALIDES, LOUKAS": "2026-11-03T14:47:03+00:00",
+  "MIJATOVIC, TOMISLAV": "2026-11-03T14:47:03+00:00",
+  "MITROU-LONG, NAZ": "2026-11-03T14:47:03+00:00",
+  "MONSCHAU, JEAN-LUC": "2026-11-03T14:47:03+00:00",
+  "MUMBRU, ALEX": "2026-11-03T14:47:03+00:00",
+  "MUTAPCIC, EMIR": "2026-11-03T14:47:03+00:00",
+  "NAVARRO, IBON": "2026-11-03T14:47:03+00:00",
+  "OLMOS, FRANCISCO": "2026-11-03T14:47:03+00:00",
+  "ONGOREN, MEVLUT": "2026-11-03T14:47:03+00:00",
+  "PAPPAS, CHRISTOS": "2026-11-03T14:47:03+00:00",
+  "PASHUTIN, EVGENY": "2026-11-03T14:47:03+00:00",
+  "PILLASTRINI, STEFANO": "2026-11-03T14:47:03+00:00",
+  "POLITE, MICHAEL": "2026-11-03T14:47:03+00:00",
+  "PONSARNAU, JAUME": "2026-11-03T14:47:03+00:00",
+  "POUPET, PIERRIC": "2026-11-03T14:47:03+00:00",
+  "POWELL, JOSH": "2026-11-03T14:47:03+00:00",
+  "POZZECCO, GIANMARCO": "2026-11-03T14:47:03+00:00",
+  "PUNTER, KEVIN": "2026-11-03T14:47:03+00:00",
+  "PUNTER, KEVIN  XAVIER": "2026-11-03T14:47:03+00:00",
+  "SAGADIN, ZMAGOSLAV": "2026-11-03T14:47:03+00:00",
+  "SARICA, UFUK": "2026-11-03T14:47:03+00:00",
+  "SCHILLER, MARTIN": "2026-11-03T14:47:03+00:00",
+  "SIREIKA, ANTANAS": "2026-11-03T14:47:03+00:00",
+  "SPLITTER, TIAGO": "2026-11-03T14:47:03+00:00",
+  "TABAK, ZAN": "2026-11-03T14:47:03+00:00",
+  "TSAMIS, PANAGIOTIS": "2026-11-03T14:47:03+00:00",
+  "URLEP, ANDREJ": "2026-11-03T14:47:03+00:00",
+  "UVALIN, MIHAILO": "2026-11-03T14:47:03+00:00",
+  "VIDORRETA, TXUS": "2026-11-03T14:47:03+00:00"
  }
 }
