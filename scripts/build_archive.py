@@ -298,12 +298,18 @@ def eleague():
     for p in allbox:
         x = pl[p["player_id"]]; x["n"] = name(p["player"]); x["g"] += 1
         for k in ("pts", "reb", "ast", "pir", "stl", "blk"): x[k] += int(float(p[k] or 0))
-        x["fg3"] += int(p["fg3"].split("/")[0] or 0)
-    def lead(k, lbl): return f'<div><h3>{lbl}</h3>' + table(["Παίκτης", lbl, "Αγ."], [[esc(x["n"]), f'<b>{x[k]}</b>', x["g"]] for x in sorted(pl.values(), key=lambda x: -x[k])[:10]]) + "</div>"
+        x["fg3"] += int(p["fg3"].split("/")[0] or 0); x["id"] = p["player_id"]
+    pslug, used = {}, set()
+    for pid, x in sorted(pl.items(), key=lambda kv: -kv[1]["g"]):
+        sl = slug(x["n"]) or pid.lower()
+        if sl in used: sl = f"{sl}-{pid.lower()}"
+        used.add(sl); pslug[pid] = sl
+    def plink(pid, txt): return f'<a href="/arxeio/euroleague/paiktes/{pslug[pid]}.html">{esc(txt)}</a>' if pid in pslug else esc(txt)
+    def lead(k, lbl): return f'<div><h3>{lbl}</h3>' + table(["Παίκτης", lbl, "Αγ."], [[plink(x["id"], x["n"]), f'<b>{x[k]}</b>', x["g"]] for x in sorted(pl.values(), key=lambda x: -x[k])[:10]]) + "</div>"
     gl = {(g["date"], g["opponent"]): g for g in games}
     def best(k, lbl):
         top = sorted(allbox, key=lambda p: -int(float(p[k] or 0)))[:5]
-        return f'<div><h3>{lbl}</h3>' + table(["Παίκτης", lbl, "Αγώνας"], [[esc(name(p["player"])), f'<b>{p[k]}</b>', game_link(gl[(p["date"], p["opponent"])], f'{esc(oname(gl[(p["date"], p["opponent"])]["opponent_code"]))} {d_gr(p["date"])}')] for p in top]) + "</div>"
+        return f'<div><h3>{lbl}</h3>' + table(["Παίκτης", lbl, "Αγώνας"], [[plink(p["player_id"], name(p["player"])), f'<b>{p[k]}</b>', game_link(gl[(p["date"], p["opponent"])], f'{esc(oname(gl[(p["date"], p["opponent"])]["opponent_code"]))} {d_gr(p["date"])}')] for p in top]) + "</div>"
 
     body = f"""<h1>Αρχείο Μπάσκετ <span class="sub">Ολυμπιακός στην Euroleague</span></h1>
 <p class="lead">Όλοι οι αγώνες του Ολυμπιακού στην Euroleague από το 2000: <b>{T['P']}</b> ματς, με σκορ ανά δεκάλεπτο και box score παικτών από το 2010-11.</p>
@@ -321,6 +327,7 @@ def eleague():
 {f'<li>Ρεκόρ θεατών: <b>{max(att, key=lambda x: x[0])[0]:,}</b> με {esc(oname(max(att, key=lambda x: x[0])[1]["opponent_code"]))} ({d_gr(max(att, key=lambda x: x[0])[1]["date"])})</li>'.replace(",", ".") if att else ""}</ul></div>
 </div>
 <h2>Κορυφαίοι παίκτες <span class="sub">από το 2010-11</span></h2>
+<p><a href="/arxeio/euroleague/paiktes/"><b>Όλοι οι παίκτες του Ολυμπιακού στην Euroleague από το 2010-11 →</b></a></p>
 <div class="cols c3">{lead("g", "Συμμετοχές")}{lead("pts", "Πόντοι")}{lead("reb", "Ριμπάουντ")}{lead("ast", "Ασίστ")}{lead("fg3", "Τρίποντα")}{lead("pir", "PIR")}</div>
 <h2>Ρεκόρ σε ένα ματς <span class="sub">από το 2010-11</span></h2>
 <div class="cols c3">{best("pts", "Πόντοι")}{best("reb", "Ριμπάουντ")}{best("ast", "Ασίστ")}</div>
@@ -340,10 +347,10 @@ def eleague():
         if sb:
             agg = defaultdict(lambda: dict(g=0, pts=0, reb=0, ast=0, pir=0, n=""))
             for p in sb:
-                x = agg[p["player_id"]]; x["n"] = name(p["player"]); x["g"] += 1
+                x = agg[p["player_id"]]; x["n"] = name(p["player"]); x["g"] += 1; x["id"] = p["player_id"]
                 for k in ("pts", "reb", "ast", "pir"): x[k] += int(float(p[k] or 0))
             leaders = "<h2>Παίκτες της σεζόν</h2>" + table(["Παίκτης", "Αγ.", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR"],
-                [[esc(x["n"]), x["g"], f'{x["pts"]/x["g"]:.1f}', f'{x["reb"]/x["g"]:.1f}', f'{x["ast"]/x["g"]:.1f}', f'{x["pir"]/x["g"]:.1f}'] for x in sorted(agg.values(), key=lambda x: -x["pts"])], "num")
+                [[plink(x["id"], x["n"]), x["g"], f'{x["pts"]/x["g"]:.1f}', f'{x["reb"]/x["g"]:.1f}', f'{x["ast"]/x["g"]:.1f}', f'{x["pir"]/x["g"]:.1f}'] for x in sorted(agg.values(), key=lambda x: -x["pts"])], "num")
         coach = ", ".join(dict.fromkeys(name(g["coach_oly"]) for g in gs if g["coach_oly"].strip()))
         body = f"""<div class="pager">{prev}{nxt}</div>
 <h1>Ολυμπιακός {s} <span class="sub">Euroleague</span></h1>
@@ -381,7 +388,7 @@ def eleague():
         if bx:
             bx = sorted(bx, key=lambda p: (-int(p["starter"] or 0), -int(float(p["pts"] or 0))))
             bxt = "<h2>Box score Ολυμπιακού</h2>" + table(["Παίκτης", "Λεπτά", "Π", "2π", "3π", "Βολ.", "Ριμπ.", "Ασ.", "Κλ.", "Λάθ.", "Κοψ.", "PIR", "+/-"],
-                [[esc(name(p["player"])) + (" *" if p["starter"] == "1" else ""), p["minutes"], f'<b>{p["pts"]}</b>', p["fg2"], p["fg3"], p["ft"], p["reb"], p["ast"], p["stl"], p["tov"], p["blk"], p["pir"], p["plusminus"]] for p in bx], "num box") + '<p class="note">* βασικός</p>'
+                [[plink(p["player_id"], name(p["player"])) + (" *" if p["starter"] == "1" else ""), p["minutes"], f'<b>{p["pts"]}</b>', p["fg2"], p["fg3"], p["ft"], p["reb"], p["ast"], p["stl"], p["tov"], p["blk"], p["pir"], p["plusminus"]] for p in bx], "num box") + '<p class="note">* βασικός</p>'
         meta = [("Ημερομηνία", d_gr(g["date"])), ("Φάση", esc(g["phase"])), ("Γύρος", esc(g["round"])), ("Γήπεδο", esc(g["arena"].title())),
                 ("Θεατές", f'{int(g["attendance"]):,}'.replace(",", ".") if g["attendance"] else "–"),
                 ("Προπονητής Ολυμπιακού", esc(name(g["coach_oly"]))), (f"Προπονητής {esc(o)}", esc(name(g["coach_opp"])))]
@@ -396,6 +403,53 @@ def eleague():
               f"{hn} – {an} {hs_}-{as_}, Euroleague {g['season_label']}, {d_gr(g['date'])}. Σκορ ανά δεκάλεπτο" + (" και box score." if bx else "."),
               body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), (f"/arxeio/euroleague/{g['season_label']}.html", g["season_label"]), ("", f"{hn} – {an}")],
               f"/arxeio/euroleague/agones/{gid(g)}.html"))
+    # ---------------- σελίδες παικτών
+    byp = defaultdict(list)
+    for p in allbox: byp[p["player_id"]].append(p)
+    idx_rows = []
+    for pid, ps in byp.items():
+        ps.sort(key=lambda p: p["date"]); x = pl[pid]; n = x["n"]; G = len(ps)
+        num = lambda p, k: int(float(p[k] or 0))
+        def mins(p):
+            try: m, s_ = p["minutes"].split(":"); return int(m) + int(s_) / 60
+            except Exception: return 0
+        bs = defaultdict(list)
+        for p in ps: bs[p["season"]].append(p)
+        srows_p = []
+        for sn, qs in sorted(bs.items()):
+            g_ = len(qs); srows_p.append([f'<a href="/arxeio/euroleague/{sn}.html">{sn}</a>', g_, f"{sum(mins(q) for q in qs)/g_:.1f}"] +
+                [f"{sum(num(q, k) for q in qs)/g_:.1f}" for k in ("pts", "reb", "ast", "pir")] + [sum(int(q["fg3"].split("/")[0] or 0) for q in qs)])
+        wins = sum(1 for p in ps if gl.get((p["date"], p["opponent"]), {}).get("result") == "Ν")
+        def hi(k, lbl):
+            p = max(ps, key=lambda q: num(q, k)); g = gl[(p["date"], p["opponent"])]
+            return [lbl, f"<b>{p[k]}</b>", game_link(g, f'{esc(oname(g["opponent_code"]))} {g["score"]}, {d_gr(g["date"])}')]
+        log = []
+        for p in reversed(ps):
+            g = gl[(p["date"], p["opponent"])]
+            log.append([d_gr(p["date"]), esc(g["round"]), opp_link(g["opponent_code"]), game_link(g, f"<b>{g['score']}</b>") + " " + res_badge(g["result"]),
+                        p["minutes"], f"<b>{p['pts']}</b>", p["reb"], p["ast"], p["pir"]])
+        span = f'{ps[0]["season"]} – {ps[-1]["season"]}' if ps[0]["season"] != ps[-1]["season"] else ps[0]["season"]
+        body = f"""<h1>{esc(n)} <span class="sub">στον Ολυμπιακό · Euroleague</span></h1>
+<p class="lead">Όλοι οι αγώνες του {esc(n)} με τον Ολυμπιακό στην Euroleague ({span}), με στατιστικά ανά σεζόν, ρεκόρ καριέρας και αναλυτικό ημερολόγιο αγώνων.</p>
+{kpis([("Αγώνες", G), ("Πόντοι", x["pts"]), ("Πόντοι Μ.Ο.", f'{x["pts"]/G:.1f}'), ("Ριμπάουντ Μ.Ο.", f'{x["reb"]/G:.1f}'), ("Ασίστ Μ.Ο.", f'{x["ast"]/G:.1f}'), ("Νίκες–ήττες", f"{wins}-{G-wins}")])}
+<h2>Ανά σεζόν <span class="sub">μέσοι όροι</span></h2>
+{table(["Σεζόν", "Αγ.", "Λεπτά", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR", "Τρίποντα"], srows_p, "num")}
+<h2>Ρεκόρ σε ένα ματς</h2>
+{table(["", "", "Αγώνας"], [hi("pts", "Πόντοι"), hi("reb", "Ριμπάουντ"), hi("ast", "Ασίστ"), hi("pir", "PIR")])}
+{shop_box(TEAM["olympiakos-bc"], "paiktis", "Προϊόντα ΚΑΕ Ολυμπιακός")}
+<h2>Όλοι οι αγώνες</h2>
+{table(["Ημ/νία", "Γύρος", "Αντίπαλος", "Σκορ", "Λεπτά", "Π", "Ριμπ.", "Ασ.", "PIR"], log)}
+<p class="note">Στατιστικά μόνο από αγώνες Euroleague με τον Ολυμπιακό, από το 2010-11 και μετά.</p>"""
+        write(f"euroleague/paiktes/{pslug[pid]}.html", page(f"{n} στον Ολυμπιακό: στατιστικά Euroleague, ρεκόρ και αγώνες | Red Madness",
+              f"{n} με τον Ολυμπιακό στην Euroleague: {G} αγώνες, {x['pts']} πόντοι ({x['pts']/G:.1f} μ.ο.), {x['reb']} ριμπάουντ, {x['ast']} ασίστ. Στατιστικά ανά σεζόν και όλοι οι αγώνες.",
+              body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("/arxeio/euroleague/paiktes/", "Παίκτες"), ("", n)], f"/arxeio/euroleague/paiktes/{pslug[pid]}.html"))
+        idx_rows.append((G, [plink(pid, n), span, G, x["pts"], f'{x["pts"]/G:.1f}', f'{x["reb"]/G:.1f}', f'{x["ast"]/G:.1f}', f'{x["pir"]/G:.1f}']))
+    body = f"""<h1>Παίκτες <span class="sub">Ολυμπιακός στην Euroleague από το 2010-11</span></h1>
+<p class="lead">Όλοι οι {len(idx_rows)} παίκτες που αγωνίστηκαν με τον Ολυμπιακό στην Euroleague από το 2010-11, με τα στατιστικά τους.</p>
+{table(["Παίκτης", "Σεζόν", "Αγ.", "Πόντοι", "Π Μ.Ο.", "Ριμπ. Μ.Ο.", "Ασ. Μ.Ο.", "PIR Μ.Ο."], [r for _, r in sorted(idx_rows, key=lambda t: -t[0])])}"""
+    write("euroleague/paiktes/index.html", page("Παίκτες του Ολυμπιακού στην Euroleague – στατιστικά | Red Madness",
+          f"Όλοι οι {len(idx_rows)} παίκτες του Ολυμπιακού στην Euroleague από το 2010-11: αγώνες, πόντοι, ριμπάουντ, ασίστ και PIR.",
+          body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("", "Παίκτες")], "/arxeio/euroleague/paiktes/"))
     return T, len(seasons), len(titles), len(ffs)
 
 # ================================================================== Βίντεο
@@ -440,6 +494,52 @@ def videos():
                      body, "vid", [], "/videos/")
     os.makedirs(os.path.join(ROOT, "videos"), exist_ok=True)
     open(os.path.join(ROOT, "videos", "index.html"), "w", encoding="utf-8").write(html_text)
+
+# ================================================================== Σαν σήμερα
+MONTHS = ["Ιανουαρίου", "Φεβρουαρίου", "Μαρτίου", "Απριλίου", "Μαΐου", "Ιουνίου", "Ιουλίου", "Αυγούστου", "Σεπτεμβρίου", "Οκτωβρίου", "Νοεμβρίου", "Δεκεμβρίου"]
+def san_simera():
+    rows = []
+    for x in csv.DictReader(open(os.path.join(H, "olympiakos_superleague_matches.csv"), encoding="utf-8-sig")):
+        sl = slug(x["opponent"])
+        rows.append(dict(date=x["date"], sport="⚽ Super League", opp=x["opponent"], score=x["score"], result=x["result"], venue=x["venue"],
+                         link=f"/arxeio/podosfairo/{x['season']}.html", opp_link=f"/arxeio/podosfairo/antipaloi/{sl}.html", extra=x["stage"]))
+    for g in csv.DictReader(open(os.path.join(H, "olympiakos_euroleague_games.csv"), encoding="utf-8-sig")):
+        o = EL_GR.get(g["opponent_code"], g["opponent"])
+        rows.append(dict(date=g["date"], sport="🏀 Euroleague", opp=o, score=g["score"], result=g["result"], venue=g["venue"],
+                         link=f"/arxeio/euroleague/agones/{g['season_label']}-{g['game_code']}.html", opp_link=f"/arxeio/euroleague/antipaloi/{g['opponent_code'].lower()}.html",
+                         extra=g["round"] if g["phase_code"] in ("FF", "PO") else ""))
+    byday = defaultdict(list)
+    for r in rows: byday[r["date"][5:10]].append(r)
+    days = [f"{m:02d}-{d:02d}" for m in range(1, 13) for d in range(1, 32) if not (m == 2 and d > 29) and not (m in (4, 6, 9, 11) and d == 31)]
+    os.makedirs(os.path.join(ROOT, "san-simera"), exist_ok=True)
+    for i, dd in enumerate(days):
+        m, d = int(dd[:2]), int(dd[3:]); lbl = f"{d} {MONTHS[m-1]}"
+        rs = sorted(byday.get(dd, []), key=lambda r: r["date"], reverse=True)
+        prv, nxt = days[i - 1], days[(i + 1) % len(days)]
+        pl = lambda x: f"{int(x[3:])} {MONTHS[int(x[:2])-1]}"
+        W = sum(r["result"] == "Ν" for r in rs)
+        items = "".join(f"""<div class="tvrow"><span class="t">{r['date'][:4]}</span><div><b><a href="{r['link']}">{'Ολυμπιακός – ' + esc(r['opp']) if r['venue'] == 'Εντός' else esc(r['opp']) + ' – Ολυμπιακός'}</a></b> {res_badge(r['result'])}
+<div class="chs"><span class="ch">{r['sport']}</span><span class="ch">σκορ {r['score'] if r['venue'] == 'Εντός' else '-'.join(reversed(r['score'].split('-')))}</span>{f'<span class="ch">{esc(r["extra"])}</span>' if r['extra'] and not r['extra'].startswith('Round') else ''}<a class="ch" href="{r['opp_link']}">όλα τα ματς με {esc(r['opp'])}</a></div></div></div>""" for r in rs)
+        body = f"""<div class="pager"><a href="/san-simera/{prv}.html">‹ {pl(prv)}</a><a href="/san-simera/{nxt}.html">{pl(nxt)} ›</a></div>
+<h1>Ολυμπιακός σαν σήμερα <span class="sub">{lbl}</span></h1>
+<p class="lead">{f"Στις {lbl} ο Ολυμπιακός έχει δώσει <b>{len(rs)}</b> αγώνες στο αρχείο μας (Super League και Euroleague), με <b>{W}</b> νίκες." if rs else f"Στο αρχείο μας δεν υπάρχει αγώνας του Ολυμπιακού στις {lbl}."}</p>
+{items}
+{shop_box(TEAM["olympiakos"], "san-simera", "Φανέλες Ολυμπιακού 2026/27")}
+<p class="note">Από το αρχείο Super League (από το 1994) και Euroleague (από το 2000). Κάποιες σεζόν είναι ελλιπείς.</p>"""
+        open(os.path.join(ROOT, "san-simera", f"{dd}.html"), "w", encoding="utf-8").write(page(
+            f"Ολυμπιακός σαν σήμερα, {lbl}: αγώνες και αποτελέσματα | Red Madness",
+            f"Τι έκανε ο Ολυμπιακός σαν σήμερα, {lbl}: όλοι οι αγώνες σε Super League και Euroleague αυτή την ημερομηνία, με αποτελέσματα.",
+            body, "", [("/arxeio/", "Αρχείο"), ("/san-simera/", "Σαν σήμερα"), ("", lbl)], f"/san-simera/{dd}.html"))
+    cal = "".join(f'<h2>{MONTHS[m-1].replace("ίου","ιος").replace("ου","ος") if False else ["Ιανουάριος","Φεβρουάριος","Μάρτιος","Απρίλιος","Μάιος","Ιούνιος","Ιούλιος","Αύγουστος","Σεπτέμβριος","Οκτώβριος","Νοέμβριος","Δεκέμβριος"][m-1]}</h2><div class="tiles">' +
+                  "".join(f'<a class="tile" href="/san-simera/{dd}.html">{int(dd[3:])}<span>{len(byday.get(dd, []))}</span></a>' for dd in days if int(dd[:2]) == m) + "</div>" for m in range(1, 13))
+    body = f"""<h1>Ολυμπιακός σαν σήμερα</h1><p class="lead">Διάλεξε μέρα: ο αριθμός δεξιά είναι οι αγώνες του Ολυμπιακού εκείνη την ημερομηνία στο αρχείο μας.</p>
+<p><a id="today" href="#"><b>Πήγαινε στη σημερινή μέρα →</b></a></p>{cal}
+<script>const d=new Date(),k=String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");document.getElementById("today").href="/san-simera/"+k+".html";if(!location.hash)location.replace("/san-simera/"+k+".html");</script>"""
+    open(os.path.join(ROOT, "san-simera", "index.html"), "w", encoding="utf-8").write(page(
+        "Ολυμπιακός σαν σήμερα – αγώνες κάθε ημερομηνίας | Red Madness",
+        "Ολυμπιακός σαν σήμερα: για κάθε μέρα του χρόνου, όλοι οι αγώνες του Ολυμπιακού σε Super League και Euroleague εκείνη την ημερομηνία.",
+        body, "", [("/arxeio/", "Αρχείο"), ("", "Σαν σήμερα")], "/san-simera/"))
+    return days
 
 # ================================================================== Πού θα δείτε τον Ολυμπιακό
 TV_JS = r"""
@@ -512,12 +612,14 @@ def main():
 <p class="big">{fT['W']}Ν · {fT['D']}Ι · {fT['L']}Η</p><p>Ντέρμπι, ρεκόρ, σεζόν, όλοι οι αντίπαλοι</p></a>
 <a class="card" href="/arxeio/euroleague/"><h2>🏀 Μπάσκετ</h2><p>Euroleague · {eS} σεζόν · {eT['P']} αγώνες</p>
 <p class="big">{eT['W']}Ν · {eT['L']}Η · {etitles} τίτλοι</p><p>Final Four, box scores, κορυφαίοι παίκτες, προπονητές</p></a>
-</div>"""
+</div>
+<div class="cards"><a class="card" href="/san-simera/"><h2>📅 Σαν σήμερα</h2><p>Τι έκανε ο Ολυμπιακός σαν σήμερα, κάθε μέρα του χρόνου.</p></a>
+<a class="card" href="/arxeio/euroleague/paiktes/"><h2>👤 Παίκτες</h2><p>Όλοι οι παίκτες του Ολυμπιακού στην Euroleague από το 2010-11.</p></a></div>"""
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop(); videos(); tv()
-    urls = ["/", "/news.html", "/tv/", "/videos/", "/eshop/"] + PAGES
+    eshop(); videos(); tv(); days = san_simera()
+    urls = ["/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"
