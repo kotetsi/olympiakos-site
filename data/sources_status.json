@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-03T12:29:31+00:00",
+ "checked_at": "2026-11-03T12:30:27+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -7,7 +7,14 @@
     "https://www.olympiacos.org/feed"
    ],
    "items": 21,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.olympiacos.org/feed",
+     "raw": 21,
+     "newest": "2026-11-02T14:53"
+    }
+   ]
   },
   "olympiacosbc": {
    "name": "Olympiacos BC",
@@ -15,7 +22,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 404: Not Found"
-   ]
+   ],
+   "diag": []
   },
   "redplanet": {
    "name": "Red Planet",
@@ -24,7 +32,8 @@
    "errors": [
     "αρχική σελίδα: <urlopen error [Errno -2] Name or service not known>",
     "/feed: <urlopen error [Errno -2] Name or service not known>"
-   ]
+   ],
+   "diag": []
   },
   "gavros": {
    "name": "Gavros",
@@ -32,7 +41,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 404: Not Found"
-   ]
+   ],
+   "diag": []
   },
   "thrylos24": {
    "name": "Thrylos24",
@@ -40,7 +50,16 @@
     "https://www.thrylos24.gr/feed"
    ],
    "items": 0,
-   "errors": []
+   "errors": [
+    "διάγνωση: 0 άρθρα στο feed, νεότερο ?"
+   ],
+   "diag": [
+    {
+     "feed": "https://www.thrylos24.gr/feed",
+     "raw": 0,
+     "newest": ""
+    }
+   ]
   },
   "sdna": {
    "name": "SDNA",
@@ -48,7 +67,14 @@
     "https://www.sdna.gr/latest.xml"
    ],
    "items": 0,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.sdna.gr/latest.xml",
+     "raw": 20,
+     "newest": "2026-11-03T12:23"
+    }
+   ]
   },
   "gazzetta": {
    "name": "Gazzetta",
@@ -56,7 +82,14 @@
     "https://www.gazzetta.gr/rss"
    ],
    "items": 2,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.gazzetta.gr/rss",
+     "raw": 50,
+     "newest": "2026-11-03T12:30"
+    }
+   ]
   },
   "sport24": {
    "name": "Sport24",
@@ -64,7 +97,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 403: Forbidden"
-   ]
+   ],
+   "diag": []
   },
   "contra": {
    "name": "Contra",
@@ -72,7 +106,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 403: Forbidden"
-   ]
+   ],
+   "diag": []
   },
   "novasports": {
    "name": "Novasports",
@@ -80,7 +115,14 @@
     "https://www.novasports.gr/feed"
    ],
    "items": 5,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.novasports.gr/feed",
+     "raw": 50,
+     "newest": "2026-11-03T12:28"
+    }
+   ]
   },
   "sport-fm": {
    "name": "Sport FM",
@@ -88,7 +130,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 404: Not Found"
-   ]
+   ],
+   "diag": []
   },
   "sportday": {
    "name": "Sportday",
@@ -96,7 +139,14 @@
     "https://www.sportday.gr/feed"
    ],
    "items": 3,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.sportday.gr/feed",
+     "raw": 16,
+     "newest": "2026-11-03T12:19"
+    }
+   ]
   },
   "sportime": {
    "name": "Sportime",
@@ -105,7 +155,19 @@
     "https://sportime.gr/feed/news"
    ],
    "items": 9,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://sportime.gr/feed",
+     "raw": 50,
+     "newest": "2026-11-03T12:24"
+    },
+    {
+     "feed": "https://sportime.gr/feed/news",
+     "raw": 50,
+     "newest": "2026-11-03T12:24"
+    }
+   ]
   },
   "metrosport": {
    "name": "Metrosport",
@@ -114,7 +176,19 @@
     "https://www.metrosport.gr/feed/atom"
    ],
    "items": 1,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.metrosport.gr/feed",
+     "raw": 50,
+     "newest": "2026-11-03T12:15"
+    },
+    {
+     "feed": "https://www.metrosport.gr/feed/atom",
+     "raw": 50,
+     "newest": "2026-11-03T12:15"
+    }
+   ]
   },
   "ertsports": {
    "name": "ERT Sports",
@@ -122,7 +196,14 @@
     "https://www.ertsports.gr/feed/"
    ],
    "items": 1,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.ertsports.gr/feed/",
+     "raw": 35,
+     "newest": "2026-11-03T12:24"
+    }
+   ]
   },
   "onsports": {
    "name": "OnSports",
@@ -130,7 +211,8 @@
    "items": 0,
    "errors": [
     "/feed: HTTP Error 404: Not Found"
-   ]
+   ],
+   "diag": []
   },
   "sportsnewsgreece": {
    "name": "SportsNewsGreece",
@@ -139,7 +221,19 @@
     "https://www.sportsnewsgreece.gr/feeds/posts/default?alt=rss"
    ],
    "items": 1,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.sportsnewsgreece.gr/feeds/posts/default",
+     "raw": 25,
+     "newest": "2021-01-18T15:50"
+    },
+    {
+     "feed": "https://www.sportsnewsgreece.gr/feeds/posts/default?alt=rss",
+     "raw": 25,
+     "newest": "2021-01-18T15:50"
+    }
+   ]
   },
   "eurohoops": {
    "name": "Eurohoops",
@@ -148,7 +242,19 @@
     "https://www.eurohoops.net/el/feed/"
    ],
    "items": 1,
-   "errors": []
+   "errors": [],
+   "diag": [
+    {
+     "feed": "https://www.eurohoops.net/feed/",
+     "raw": 20,
+     "newest": "2026-11-03T12:21"
+    },
+    {
+     "feed": "https://www.eurohoops.net/el/feed/",
+     "raw": 20,
+     "newest": "2026-11-03T12:21"
+    }
+   ]
   }
  }
 }
