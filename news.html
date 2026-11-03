@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="el">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ειδήσεις Ολυμπιακού — όλα τα νέα σε μία σελίδα</title>
+<meta name="description" content="Όλες οι ειδήσεις για τον Ολυμπιακό από τα ελληνικά αθλητικά sites, σε μία σελίδα: ποδόσφαιρο, μπάσκετ, βόλεϊ, πόλο. Ανανεώνεται κάθε 15 λεπτά.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f5f3; --card:#ffffff; --ink:#16181d; --muted:#6b6f78; --line:#e6e3de;
+  --red:#c8102e; --head:#c8102e; --red-soft:#fbe9ec; --chip:#efece8; --official:#0f7b4f;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931; --official:#3fcf8e; }
+}
+:root[data-theme="dark"]{ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931; --official:#3fcf8e; }
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Manrope,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+a{color:inherit}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+header{background:var(--head);color:#fff}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:18px;padding-bottom:18px}
+.brand{font-weight:800;font-size:22px;letter-spacing:-.02em;line-height:1.1}
+.brand small{display:block;font-weight:600;font-size:13px;opacity:.85;letter-spacing:0}
+.updated{font-size:12px;opacity:.9;text-align:right}
+nav.tabs{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+nav.tabs .wrap{display:flex;gap:6px;overflow-x:auto;padding-top:10px;padding-bottom:10px;scrollbar-width:none}
+nav.tabs .wrap::-webkit-scrollbar{display:none}
+.tab{border:0;background:var(--chip);color:var(--ink);padding:7px 14px;border-radius:999px;font:600 14px Manrope,sans-serif;white-space:nowrap;cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--red);color:#fff}
+.tab .n{opacity:.7;font-weight:400;margin-left:4px}
+.tools{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:14px 0 4px}
+.tools input[type=search],.tools select{font:inherit;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:10px;padding:8px 12px}
+.tools input[type=search]{flex:1 1 220px;min-width:0}
+.tools input[type=checkbox]{accent-color:var(--red);width:16px;height:16px;margin:0}
+.tools label{white-space:nowrap}
+.tools label{display:flex;gap:6px;align-items:center;font-size:14px;color:var(--muted);cursor:pointer}
+.newbar{display:none;margin:10px 0;width:100%;border:0;background:var(--red-soft);color:var(--red);font:700 14px Manrope,sans-serif;padding:10px;border-radius:10px;cursor:pointer}
+h2.day{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:22px 0 8px}
+.item{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin:0 0 10px}
+.meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12.5px;color:var(--muted)}
+.src{font-weight:800;color:var(--ink)}
+.src.official{color:var(--official)}
+.tag{background:var(--chip);border-radius:6px;padding:1px 7px;font-weight:600}
+.title{display:block;font-weight:800;font-size:17px;line-height:1.3;margin:6px 0 4px;text-decoration:none;letter-spacing:-.01em}
+.title:hover{color:var(--red)}
+.snip{color:var(--muted);margin:0;font-size:14px}
+.also{font-size:12.5px;color:var(--muted);margin-top:8px}
+.also a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+.promo{display:flex;gap:14px;align-items:center;background:var(--red-soft);border:1px dashed var(--red);border-radius:14px;padding:14px 16px;margin:0 0 10px;text-decoration:none}
+.promo b{color:var(--red)}
+.promo span{font-size:13px;color:var(--muted)}
+.empty{text-align:center;color:var(--muted);padding:40px 0}
+footer{color:var(--muted);font-size:12.5px;padding:30px 0 40px;border-top:1px solid var(--line);margin-top:30px}
+@media (max-width:520px){ .brand{font-size:19px} .title{font-size:16px} .updated{display:none} }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <div class="brand">Ειδήσεις Ολυμπιακού<small>Όλα τα νέα για τον Θρύλο, από όλα τα sites, σε μία σελίδα</small></div>
+  <div class="updated" id="updated"></div>
+</div></header>
+
+<nav class="tabs" aria-label="Άθλημα"><div class="wrap" id="tabs"></div></nav>
+
+<main class="wrap">
+  <div class="tools">
+    <input id="q" type="search" placeholder="Αναζήτηση (π.χ. μεταγραφή, Euroleague, ντέρμπι)" aria-label="Αναζήτηση">
+    <select id="src" aria-label="Πηγή"><option value="">Όλες οι πηγές</option></select>
+    <label><input type="checkbox" id="off"> Μόνο επίσημα</label>
+  </div>
+  <button class="newbar" id="newbar"></button>
+  <div id="list"><p class="empty">Φόρτωση ειδήσεων…</p></div>
+</main>
+
+<footer><div class="wrap">
+  Η σελίδα συγκεντρώνει αυτόματα τίτλους από τα δημόσια RSS των αθλητικών sites και ανανεώνεται κάθε 15 λεπτά.
+  Κάθε τίτλος οδηγεί στο πρωτότυπο άρθρο· το περιεχόμενο ανήκει στην πηγή του.
+  Ανεπίσημη σελίδα φιλάθλων, χωρίς σχέση με την ΠΑΕ ή την ΚΑΕ Ολυμπιακός.
+</div></footer>
+
+<script>
+const SPORTS = {all:"Όλα", football:"Ποδόσφαιρο", basket:"Μπάσκετ", volley:"Βόλεϊ", polo:"Πόλο", handball:"Χάντμπολ", general:"Γενικά"};
+// Θέση για προώθηση προϊόντων (π.χ. φανέλες Ολυμπιακού στο Sport Arena). Κενό = δεν εμφανίζεται.
+const PROMO = { url: "https://www.sportarena.gr/", title: "Φανέλες & είδη Ολυμπιακού", text: "Δες τη συλλογή στο Sport Arena", every: 8 };
+
+let DATA = {items: []}, state = {sport: "all", q: "", src: "", off: false}, lastTop = null;
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const norm = s => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/ς/g, "σ");
+try { const s = JSON.parse(localStorage.getItem("oly-news-filters") || "{}"); Object.assign(state, {sport: s.sport || "all", off: !!s.off}); } catch (e) {}
+
+function ago(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "μόλις τώρα";
+  if (m < 60) return m + "′";
+  const h = Math.round(m / 60); if (h < 24) return h + " ώρ" + (h === 1 ? "α" : "ες");
+  return new Date(iso).toLocaleTimeString("el-GR", {hour:"2-digit", minute:"2-digit"});
+}
+function dayLabel(iso){
+  const d = new Date(iso), t = new Date(); const k = x => x.toDateString();
+  const y = new Date(); y.setDate(t.getDate() - 1);
+  if (k(d) === k(t)) return "Σήμερα";
+  if (k(d) === k(y)) return "Χθες";
+  return d.toLocaleDateString("el-GR", {weekday:"long", day:"numeric", month:"long"});
+}
+function filtered(){
+  const q = norm(state.q);
+  return DATA.items.filter(i =>
+    (state.sport === "all" || i.sport === state.sport) &&
+    (!state.src || i.source === state.src || (i.also || []).some(a => a.source === state.src)) &&
+    (!state.off || i.official) &&
+    (!q || norm(i.title + " " + i.snippet).includes(q)));
+}
+function renderTabs(){
+  const counts = {all: DATA.items.length};
+  DATA.items.forEach(i => counts[i.sport] = (counts[i.sport] || 0) + 1);
+  $("tabs").innerHTML = Object.entries(SPORTS).filter(([k]) => k === "all" || counts[k])
+    .map(([k, v]) => `<button class="tab" data-s="${k}" aria-pressed="${state.sport === k}">${v}<span class="n">${counts[k] || 0}</span></button>`).join("");
+}
+function render(){
+  renderTabs();
+  const items = filtered();
+  if (!items.length){ $("list").innerHTML = '<p class="empty">Δεν βρέθηκαν ειδήσεις με αυτά τα φίλτρα.</p>'; return; }
+  let html = "", day = "";
+  items.forEach((i, n) => {
+    const dl = dayLabel(i.published);
+    if (dl !== day){ html += `<h2 class="day">${dl}</h2>`; day = dl; }
+    const also = (i.also || []).length ? `<div class="also">Επίσης σε: ${i.also.map(a => `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.source_name)}</a>`).join(", ")}</div>` : "";
+    html += `<article class="item">
+      <div class="meta"><span class="src${i.official ? " official" : ""}">${esc(i.source_name)}${i.official ? " ✓" : ""}</span>
+        <span>${ago(i.published)}</span>${i.sport !== "general" ? `<span class="tag">${SPORTS[i.sport] || ""}</span>` : ""}</div>
+      <a class="title" href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+      ${i.snippet ? `<p class="snip">${esc(i.snippet)}</p>` : ""}${also}
+    </article>`;
+    if (PROMO.url && PROMO.every && (n + 1) % PROMO.every === 0)
+      html += `<a class="promo" href="${PROMO.url}" target="_blank" rel="noopener sponsored"><div><b>${esc(PROMO.title)}</b><br><span>${esc(PROMO.text)}</span></div></a>`;
+  });
+  $("list").innerHTML = html;
+}
+async function load(initial){
+  try {
+    const r = await fetch("data/news.json?t=" + Date.now(), {cache: "no-store"});
+    const d = await r.json();
+    const top = d.items[0] && d.items[0].id;
+    if (!initial && lastTop && top !== lastTop){
+      const k = d.items.findIndex(i => i.id === lastTop);
+      const nb = $("newbar"); nb.style.display = "block";
+      nb.textContent = (k > 0 ? k : "Νέες") + (k > 0 ? (k === 1 ? " νέα είδηση" : " νέες ειδήσεις") : " ειδήσεις") + " — πάτα για ανανέωση";
+      nb.onclick = () => { DATA = d; lastTop = top; nb.style.display = "none"; render(); window.scrollTo({top: 0, behavior: "smooth"}); };
+      return;
+    }
+    DATA = d; lastTop = top;
+    const srcs = {}; d.items.forEach(i => { srcs[i.source] = i.source_name; (i.also || []).forEach(a => srcs[a.source] = a.source_name); });
+    $("src").innerHTML = '<option value="">Όλες οι πηγές</option>' + Object.entries(srcs).sort((a, b) => a[1].localeCompare(b[1], "el"))
+      .map(([k, v]) => `<option value="${k}"${state.src === k ? " selected" : ""}>${esc(v)}</option>`).join("");
+    $("updated").textContent = "Ανανέωση: " + new Date(d.generated_at).toLocaleTimeString("el-GR", {hour:"2-digit", minute:"2-digit"});
+    render();
+  } catch (e) {
+    if (initial) $("list").innerHTML = '<p class="empty">Δεν ήταν δυνατή η φόρτωση των ειδήσεων. Δοκίμασε ξανά σε λίγο.</p>';
+  }
+}
+const save = () => { try { localStorage.setItem("oly-news-filters", JSON.stringify({sport: state.sport, off: state.off})); } catch (e) {} };
+$("tabs").addEventListener("click", e => { const b = e.target.closest(".tab"); if (!b) return; state.sport = b.dataset.s; save(); render(); });
+$("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+$("src").addEventListener("change", e => { state.src = e.target.value; render(); });
+$("off").checked = state.off;
+$("off").addEventListener("change", e => { state.off = e.target.checked; save(); render(); });
+load(true);
+setInterval(() => load(false), 5 * 60 * 1000);
+setInterval(() => { if (DATA.items.length) render(); }, 60 * 1000);
+</script>
+</body>
+</html>

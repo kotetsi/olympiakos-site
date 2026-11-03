@@ -1,0 +1,34 @@
+name: Ειδήσεις Ολυμπιακού
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"     # κάθε 15 λεπτά (το GitHub μπορεί να καθυστερήσει λίγα λεπτά)
+  workflow_dispatch: {}          # και χειροκίνητα από την καρτέλα Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Συλλογή ειδήσεων
+        run: python3 scripts/fetch_news.py
+      - name: Αποθήκευση αν άλλαξε κάτι
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/news.json data/feeds_cache.json data/sources_status.json
+          if git diff --cached --quiet; then echo "Καμία αλλαγή"; exit 0; fi
+          git commit -m "Ειδήσεις: ανανέωση $(date -u +'%Y-%m-%d %H:%M')"
+          git pull --rebase --autostash || true
+          git push
