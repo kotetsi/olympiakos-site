@@ -8,6 +8,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="theme-color" content="#c8102e">
 <style>
 :root{
   --bg:#f6f5f3; --card:#ffffff; --ink:#16181d; --muted:#6b6f78; --line:#e6e3de;
@@ -200,5 +203,6 @@ load(true);
 setInterval(() => load(false), 5 * 60 * 1000);
 setInterval(() => { if (DATA.items.length) render(); }, 60 * 1000);
 </script>
+<script>if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});</script>
 </body>
 </html>
