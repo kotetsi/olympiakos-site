@@ -70,6 +70,7 @@ URL_SPORT = [("basket", r"/(basket|mpasket|basketball|euroleague)"), ("volley", 
              ("polo", r"/(polo|water-?polo)"), ("handball", r"/handball"), ("football", r"/(football|podosfairo|soccer|superleague)")]
 
 def sport_of(title, summary, cats, url, default=None):
+    if default: return default
     path = urllib.parse.urlparse(url).path.lower()
     for sp, pat in URL_SPORT:
         if re.search(pat, path): return sp
@@ -94,7 +95,7 @@ def looks_like_feed(raw):
     head = raw[:2000].lower()
     return b"<rss" in head or b"<feed" in head or b"<rdf:rdf" in head
 
-def discover(src, cache):
+def discover(src, cache, errs=None):
     """Επιστρέφει λίστα feed URLs για την πηγή."""
     if src.get("feeds"): return src["feeds"]
     if cache.get(src["id"]): return cache[src["id"]]
@@ -109,6 +110,7 @@ def discover(src, cache):
                 if m: found.append(urllib.parse.urljoin(final, html.unescape(m.group(1))))
     except Exception as e:
         print(f"  ! {src['id']}: αρχική σελίδα: {e}", file=sys.stderr)
+        if errs is not None: errs.append(f"αρχική σελίδα: {e}")
     # κρατάμε το «κύριο» feed, όχι τα feeds σχολίων
     found = [f for f in found if "comment" not in f.lower()][:2]
     if not found:
@@ -117,7 +119,8 @@ def discover(src, cache):
             try:
                 raw, *_ = get(u)
                 if looks_like_feed(raw): found = [u]; break
-            except Exception:
+            except Exception as e:
+                if errs is not None and g == FEED_GUESSES[0]: errs.append(f"{g}: {e}")
                 continue
     return found
 
@@ -146,15 +149,40 @@ def parse_date(s):
 NS = {"atom": "http://www.w3.org/2005/Atom", "dc": "http://purl.org/dc/elements/1.1/",
       "content": "http://purl.org/rss/1.0/modules/content/", "media": "http://search.yahoo.com/mrss/"}
 
+def parse_feed_regex(raw):
+    t = raw.decode("utf-8", "replace")
+    def grab(block, *tags):
+        for tg in tags:
+            m = re.search(r"<%s\b[^>]*?(?:href=[\"']([^\"']+)[\"'][^>]*)?>(.*?)</%s>" % (tg, tg), block, re.S | re.I)
+            if m:
+                v = (m.group(2) or "").strip()
+                v = re.sub(r"^<!\[CDATA\[(.*)\]\]>$", r"\1", v, flags=re.S).strip()
+                if v: return v
+                if m.group(1): return m.group(1)
+            m = re.search(r"<%s\b[^>]*href=[\"']([^\"']+)" % tg, block, re.I)
+            if m: return m.group(1)
+        return ""
+    out = []
+    for b in re.findall(r"<(?:item|entry)\b.*?</(?:item|entry)>", t, re.S | re.I):
+        out.append(dict(title=grab(b, "title"), link=grab(b, "link", "guid"), date=grab(b, "pubDate", "dc:date", "published", "updated"),
+                        summary=grab(b, "description", "summary"), cats=[re.sub(r"<!\[CDATA\[|\]\]>", "", c).strip() for c in re.findall(r"<category[^>]*>(.*?)</category>", b, re.S)]))
+    return out
+
 def parse_feed(raw):
     raw = re.sub(rb"^\s+", b"", raw)
+    try:
+        return parse_feed_xml(raw)
+    except ET.ParseError:
+        return parse_feed_regex(raw)
+
+def parse_feed_xml(raw):
     try:
         root = ET.fromstring(raw)
     except ET.ParseError:
         # χαλασμένο XML: σβήνουμε άκυρους χαρακτήρες και ξαναδοκιμάζουμε
         fixed = re.sub(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]", b"", raw)
         fixed = re.sub(rb"&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)", b"&amp;", fixed)
-        root = ET.fromstring(fixed)
+        root = ET.fromstring(fixed)   # αν αποτύχει ξανά, πάμε στο regex
     items = []
     tag = root.tag.lower()
     if tag.endswith("feed"):     # Atom
@@ -178,7 +206,10 @@ def parse_feed(raw):
 
 # ---------------------------------------------------------------- ανά πηγή
 def fetch_source(src, cache):
-    out, feeds, errors = [], discover(src, cache), []
+    errors = []
+    out, feeds = [], discover(src, cache, errors)
+    if not feeds and not errors: errors.append("δεν βρέθηκε RSS feed")
+    seen = set()
     for f in feeds:
         try:
             raw, *_ = get(f)
@@ -188,6 +219,9 @@ def fetch_source(src, cache):
                 if not title or not link.startswith("http"): continue
                 d = parse_date(it["date"]) or NOW
                 if d > NOW + timedelta(hours=1): d = NOW
+                key = norm(title)
+                if link in seen or key in seen: continue
+                seen.update([link, key])
                 summary = clean(it["summary"])
                 if not src.get("dedicated") and not about_olympiacos(title, summary, it["cats"]): continue
                 out.append(dict(title=title, url=link, source=src["id"], source_name=src["name"],
@@ -255,6 +289,11 @@ def main():
         for x in [it] + [dict(it, **al) for al in it.get("also", [])]:
             by_url.setdefault(x["url"], {k: v for k, v in x.items() if k not in ("also", "id")})
     for it in fresh: by_url[it["url"]] = it
+    # ίδια πηγή + ίδιος τίτλος = μία είδηση
+    uniq = {}
+    for x in sorted(by_url.values(), key=lambda x: x["published"]):
+        uniq.setdefault((x["source"], norm(x["title"])), x)
+    by_url = {x["url"]: x for x in uniq.values()}
     cutoff = NOW - timedelta(days=a.days)
     pool = [x for x in by_url.values() if datetime.fromisoformat(x["published"]) >= cutoff]
     items = sorted(cluster(pool), key=lambda x: x["published"], reverse=True)[: a.max]
