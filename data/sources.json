@@ -1,23 +1,115 @@
 {
-  "_info": "dedicated=true: site αποκλειστικά για τον Ολυμπιακό, κρατάμε όλα τα άρθρα. dedicated=false: γενικό αθλητικό site, κρατάμε μόνο ό,τι αφορά τον Ολυμπιακό. 'feeds' προαιρετικό — αν λείπει, το script βρίσκει μόνο του το RSS.",
-  "sources": [
-    {"id": "olympiacos-org", "name": "Olympiacos.org", "home": "https://www.olympiacos.org", "dedicated": true, "official": true},
-    {"id": "olympiacosbc", "name": "Olympiacos BC", "home": "https://www.olympiacosbc.gr", "dedicated": true, "official": true, "sport": "basket"},
-    {"id": "redplanet", "name": "Red Planet", "home": "https://www.redplanet.gr", "dedicated": true},
-    {"id": "gavros", "name": "Gavros", "home": "https://www.gavros.gr", "dedicated": true},
-    {"id": "thrylos24", "name": "Thrylos24", "home": "https://www.thrylos24.gr", "dedicated": true},
-    {"id": "sdna", "name": "SDNA", "home": "https://www.sdna.gr", "dedicated": false, "feeds": ["https://www.sdna.gr/latest.xml"]},
-    {"id": "gazzetta", "name": "Gazzetta", "home": "https://www.gazzetta.gr", "dedicated": false},
-    {"id": "sport24", "name": "Sport24", "home": "https://www.sport24.gr", "dedicated": false},
-    {"id": "contra", "name": "Contra", "home": "https://www.contra.gr", "dedicated": false},
-    {"id": "novasports", "name": "Novasports", "home": "https://www.novasports.gr", "dedicated": false},
-    {"id": "sport-fm", "name": "Sport FM", "home": "https://www.sport-fm.gr", "dedicated": false},
-    {"id": "sportday", "name": "Sportday", "home": "https://www.sportday.gr", "dedicated": false},
-    {"id": "sportime", "name": "Sportime", "home": "https://www.sportime.gr", "dedicated": false},
-    {"id": "metrosport", "name": "Metrosport", "home": "https://www.metrosport.gr", "dedicated": false},
-    {"id": "ertsports", "name": "ERT Sports", "home": "https://www.ertsports.gr", "dedicated": false},
-    {"id": "onsports", "name": "OnSports", "home": "https://www.onsports.gr", "dedicated": false},
-    {"id": "sportsnewsgreece", "name": "SportsNewsGreece", "home": "https://www.sportsnewsgreece.gr", "dedicated": false},
-    {"id": "eurohoops", "name": "Eurohoops", "home": "https://www.eurohoops.net/el/", "dedicated": false, "sport": "basket"}
-  ]
+ "_info": "dedicated=true: site αποκλειστικά για τον Ολυμπιακό, κρατάμε όλα τα άρθρα. dedicated=false: γενικό αθλητικό site, κρατάμε μόνο ό,τι αφορά τον Ολυμπιακό. 'feeds' προαιρετικό — αν λείπει, το script βρίσκει μόνο του το RSS. disabled: η πηγή παραλείπεται (με τον λόγο).",
+ "sources": [
+  {
+   "id": "olympiacos-org",
+   "name": "Olympiacos.org",
+   "home": "https://www.olympiacos.org",
+   "dedicated": true,
+   "official": true
+  },
+  {
+   "id": "olympiacosbc",
+   "name": "Olympiacos BC",
+   "home": "https://www.olympiacosbc.gr",
+   "dedicated": true,
+   "official": true,
+   "sport": "basket",
+   "disabled": "δεν βρέθηκε RSS"
+  },
+  {
+   "id": "gavros",
+   "name": "Gavros",
+   "home": "https://www.gavros.gr",
+   "dedicated": true,
+   "disabled": "δεν έχει RSS"
+  },
+  {
+   "id": "sdna",
+   "name": "SDNA",
+   "home": "https://www.sdna.gr",
+   "dedicated": false,
+   "feeds": [
+    "https://www.sdna.gr/latest.xml"
+   ]
+  },
+  {
+   "id": "gazzetta",
+   "name": "Gazzetta",
+   "home": "https://www.gazzetta.gr",
+   "dedicated": false
+  },
+  {
+   "id": "sport24",
+   "name": "Sport24",
+   "home": "https://www.sport24.gr",
+   "dedicated": false,
+   "disabled": "403: μπλοκάρει τους servers του GitHub"
+  },
+  {
+   "id": "contra",
+   "name": "Contra",
+   "home": "https://www.contra.gr",
+   "dedicated": false,
+   "disabled": "403: μπλοκάρει τους servers του GitHub"
+  },
+  {
+   "id": "novasports",
+   "name": "Novasports",
+   "home": "https://www.novasports.gr",
+   "dedicated": false
+  },
+  {
+   "id": "sport-fm",
+   "name": "Sport FM",
+   "home": "https://www.sport-fm.gr",
+   "dedicated": false,
+   "feeds": [
+    "https://www.sport-fm.gr/list/1.feed",
+    "https://www.sport-fm.gr/list/2.feed",
+    "https://www.sport-fm.gr/list/3.feed"
+   ]
+  },
+  {
+   "id": "sportday",
+   "name": "Sportday",
+   "home": "https://www.sportday.gr",
+   "dedicated": false
+  },
+  {
+   "id": "sportime",
+   "name": "Sportime",
+   "home": "https://www.sportime.gr",
+   "dedicated": false
+  },
+  {
+   "id": "metrosport",
+   "name": "Metrosport",
+   "home": "https://www.metrosport.gr",
+   "dedicated": false
+  },
+  {
+   "id": "ertsports",
+   "name": "ERT Sports",
+   "home": "https://www.ertsports.gr",
+   "dedicated": false
+  },
+  {
+   "id": "onsports",
+   "name": "OnSports",
+   "home": "https://www.onsports.gr",
+   "dedicated": false,
+   "disabled": "δεν βρέθηκε RSS"
+  },
+  {
+   "id": "eurohoops",
+   "name": "Eurohoops",
+   "home": "https://www.eurohoops.net/el/",
+   "dedicated": false,
+   "sport": "basket",
+   "feeds": [
+    "https://www.eurohoops.net/el/feed/"
+   ]
+  }
+ ]
 }

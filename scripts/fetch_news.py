@@ -284,7 +284,7 @@ def main():
     ap.add_argument("--max", type=int, default=400)
     a = ap.parse_args()
     data = os.path.join(a.root, "data")
-    sources = json.load(open(os.path.join(data, "sources.json"), encoding="utf-8"))["sources"]
+    sources = [s for s in json.load(open(os.path.join(data, "sources.json"), encoding="utf-8"))["sources"] if not s.get("disabled")]
     cache_p = os.path.join(data, "feeds_cache.json")
     cache = json.load(open(cache_p, encoding="utf-8")) if os.path.exists(cache_p) else {}
     news_p = os.path.join(data, "news.json")
