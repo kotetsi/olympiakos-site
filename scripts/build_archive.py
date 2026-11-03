@@ -77,16 +77,32 @@ LOGO = ('<a class="brand" href="/" aria-label="Red Madness, αρχική"><svg c
 # ------------------------------------------------------------------ πρότυπο
 NAV = [("/news.html", "Ειδήσεις", "news"), ("/arxeio/podosfairo/", "Αρχείο Ποδοσφαίρου", "fb"), ("/arxeio/euroleague/", "Αρχείο Μπάσκετ", "bk"), ("/tv/", "Πού θα το δω", "tv"), ("/videos/", "Βίντεο", "vid"), ("/eshop/", "E-shop", "shop")]
 
-def page(title, desc, body, active, crumbs=(), canonical=""):
+def jsonld(obj):
+    return '<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
+def page(title, desc, body, active, crumbs=(), canonical="", og_image="/assets/og/default.png", ld=(), og_type="website"):
     nav = "".join(f'<a href="{u}"{" class=on" if k == active else ""}>{t}</a>' for u, t, k in NAV)
     bc = ""
     if crumbs:
         bc = '<nav class="crumbs">' + " › ".join(f'<a href="{u}">{esc(t)}</a>' if u else esc(t) for u, t in crumbs) + "</nav>"
     can = f'<link rel="canonical" href="{SITE}{canonical}">' if canonical else ""
+    og_t = title.replace(" | Red Madness", "")
+    meta = (f'<meta property="og:site_name" content="Red Madness"><meta property="og:locale" content="el_GR"><meta property="og:type" content="{og_type}">'
+            f'<meta property="og:title" content="{esc(og_t)}"><meta property="og:description" content="{esc(desc)}">'
+            + (f'<meta property="og:url" content="{SITE}{canonical}">' if canonical else "")
+            + f'<meta property="og:image" content="{SITE}{og_image}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+            f'<meta name="twitter:card" content="summary_large_image"><meta name="robots" content="max-image-preview:large">')
+    lds = list(ld)
+    if crumbs:
+        items = [x for x in [("/", "Αρχική")] + [(u or canonical, t) for u, t in crumbs] if x[0]]
+        lds.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "name": t, "item": SITE + u} for i, (u, t) in enumerate(items)]})
+    meta += "".join(jsonld(x) for x in lds)
     return f"""<!doctype html>
 <html lang="el"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">{can}
+{meta}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
@@ -330,7 +346,7 @@ def eleague():
     allbox = [p for ps in box.values() for p in ps]
     pl = defaultdict(lambda: dict(g=0, pts=0, reb=0, ast=0, pir=0, fg3=0, stl=0, blk=0, n=""))
     for p in allbox:
-        x = pl[p["player_id"]]; x["n"] = name(p["player"]); x["l"] = latin(p["player"]); x["g"] += 1
+        x = pl[p["player_id"]]; x["n"] = name(p["player"]); x["l"] = latin(p["player"]); x["raw"] = p["player"].strip(); x["g"] += 1
         for k in ("pts", "reb", "ast", "pir", "stl", "blk"): x[k] += int(float(p[k] or 0))
         x["fg3"] += int(p["fg3"].split("/")[0] or 0); x["id"] = p["player_id"]
     pslug, used = {}, set()
@@ -476,7 +492,11 @@ def eleague():
 <p class="note">Στατιστικά μόνο από αγώνες Euroleague με τον Ολυμπιακό, από το 2010-11 και μετά. Ελληνικά ονόματα από το Wikidata, όπου υπάρχουν.</p>"""
         write(f"euroleague/paiktes/{pslug[pid]}.html", page(f"{n} στον Ολυμπιακό: στατιστικά Euroleague, ρεκόρ και αγώνες | Red Madness",
               f"{n} με τον Ολυμπιακό στην Euroleague: {G} αγώνες, {x['pts']} πόντοι ({x['pts']/G:.1f} μ.ο.), {x['reb']} ριμπάουντ, {x['ast']} ασίστ. Στατιστικά ανά σεζόν και όλοι οι αγώνες.",
-              body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("/arxeio/euroleague/paiktes/", "Παίκτες"), ("", n)], f"/arxeio/euroleague/paiktes/{pslug[pid]}.html"))
+              body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("/arxeio/euroleague/paiktes/", "Παίκτες"), ("", n)], f"/arxeio/euroleague/paiktes/{pslug[pid]}.html",
+              og_type="profile", ld=[{"@context": "https://schema.org", "@type": "Person", "name": n, "alternateName": x["l"],
+                  "url": f"{SITE}/arxeio/euroleague/paiktes/{pslug[pid]}.html", "jobTitle": "Καλαθοσφαιριστής",
+                  "affiliation": {"@type": "SportsTeam", "name": "Ολυμπιακός", "sport": "Basketball"},
+                  **({"sameAs": ["https://www.wikidata.org/wiki/" + EL_NAMES[x["raw"]]["qid"]]} if EL_NAMES.get(x["raw"], {}).get("qid") else {})}]))
         idx_rows.append((G, [plink(pid, n), span, G, x["pts"], f'{x["pts"]/G:.1f}', f'{x["reb"]/G:.1f}', f'{x["ast"]/G:.1f}', f'{x["pir"]/G:.1f}']))
     body = f"""<h1>Παίκτες <span class="sub">Ολυμπιακός στην Euroleague από το 2010-11</span></h1>
 <p class="lead">Όλοι οι {len(idx_rows)} παίκτες που αγωνίστηκαν με τον Ολυμπιακό στην Euroleague από το 2010-11, με τα στατιστικά τους.</p>
@@ -582,6 +602,26 @@ def nrm(x):
     return "".join(c for c in x if unicodedata.category(c) != "Mn").replace("ς", "σ")
 
 DAYS_GR = ["Δευτέρα", "Τρίτη", "Τετάρτη", "Πέμπτη", "Παρασκευή", "Σάββατο", "Κυριακή"]
+SPORT_EN = {"football": "Soccer", "basket": "Basketball", "volley": "Volleyball", "polo": "Water polo", "handball": "Handball"}
+HOME_GROUND = {"football": "Γήπεδο Γεώργιος Καραϊσκάκης", "basket": "Στάδιο Ειρήνης και Φιλίας (ΣΕΦ)"}
+OLY_ORG = {"@type": "Organization", "name": "Red Madness", "url": SITE + "/", "logo": SITE + "/assets/icon-512.png"}
+
+def event_ld(m, key):
+    """schema.org SportsEvent για τα αποτελέσματα αναζήτησης του Google."""
+    from datetime import datetime, timedelta
+    st = datetime.fromisoformat(m["start"]); dur = {"football": 2, "basket": 2}.get(m["sport"], 2)
+    team = lambda n: {"@type": "SportsTeam", "name": n}
+    ev = {"@context": "https://schema.org", "@type": "SportsEvent", "name": f"{m['home']} – {m['away']}",
+          "startDate": st.isoformat(), "endDate": (st + timedelta(hours=dur)).isoformat(),
+          "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+          "sport": SPORT_EN.get(m["sport"], "Sport"), "homeTeam": team(m["home"]), "awayTeam": team(m["away"]),
+          "competitor": [team(m["home"]), team(m["away"])], "url": f"{SITE}/agones/{key}.html", "image": [f"{SITE}/assets/og/{key}.png"],
+          "location": {"@type": "Place", "name": (HOME_GROUND.get(m["sport"], "Πειραιάς") if not m.get("b_team") else "Πειραιάς") if m["oly_home"] else f"Γήπεδο {m['home']}",
+                       **({"address": {"@type": "PostalAddress", "addressLocality": "Πειραιάς", "addressCountry": "GR"}} if m["oly_home"] else {})},
+          "description": f"{m['home']} – {m['away']}" + (f", ζωντανά στο {', '.join(m['channels'])}" if m["channels"] else "") + ".",
+          "organizer": OLY_ORG}
+    return ev
+
 def previews():
     from datetime import datetime, timedelta, timezone
     ath = timezone(timedelta(hours=2))
@@ -677,7 +717,8 @@ def previews():
 <p><a href="/tv/">Όλες οι μεταδόσεις του Ολυμπιακού →</a></p>"""
         write_root(f"agones/{key}.html", page(f"{m['home']} – {m['away']}: ώρα, κανάλι και ιστορικό ({st.day}/{st.month}) | Red Madness",
                    f"{m['home']} – {m['away']} {when} στις {hhmm}{(' στο ' + ', '.join(m['channels'])) if m['channels'] else ''}. Πού θα δείτε τον αγώνα, ιστορικό αναμετρήσεων και φόρμα.",
-                   body, "tv", [("/tv/", "Πού θα το δω"), ("", f"{m['home']} – {m['away']}")], f"/agones/{key}.html"))
+                   body, "tv", [("/tv/", "Πού θα το δω"), ("", f"{m['home']} – {m['away']}")], f"/agones/{key}.html",
+                   og_image=f"/assets/og/{key}.png", ld=[event_ld(m, key)]))
         links[f'{m["title"]}|{m["start"][:13]}'] = f"/agones/{key}.html"
         idx.append((m["start"], key, m, past))
     # η σελίδα /tv/ συνδέει κάθε μετάδοση με την προεπισκόπησή της
@@ -714,7 +755,7 @@ def home():
                 f'<b>{esc(m["home"])} – {esc(m["away"])}</b><span class="when">{DAYS_GR[st.weekday()]} {st.day}/{st.month}, {tm}</span><span class="chs">{chs}</span>'
                 f'<span class="shop-go">Ιστορικό, φόρμα και κανάλι →</span></a>')
         rest = "".join(f'<li><a href="/agones/{k2}.html">{esc(m2["home"])} – {esc(m2["away"])}</a> <span class="mut">{DAYS_GR[datetime.fromisoformat(m2["start"]).astimezone(ath).weekday()][:3]} {datetime.fromisoformat(m2["start"]).astimezone(ath):%d/%m %H:%M}{" · " + esc(", ".join(m2["channels"])) if m2["channels"] else ""}</span></li>' for k2, m2 in up[1:5])
-        if rest: hero += f'<ul class="list">{rest}</ul><p><a href="/tv/">Όλες οι μεταδόσεις →</a></p>'
+        if rest: hero += f'<ul class="list">{rest}</ul><p><a href="/simera/">Ολυμπιακός σήμερα</a> · <a href="/tv/">Όλες οι μεταδόσεις →</a></p>'
     # ειδήσεις
     nl = "".join(f'<li><a href="{esc(n["url"])}" target="_blank" rel="noopener">{esc(n["title"])}</a> <span class="mut">{esc(n["source_name"])}</span></li>' for n in news[:8])
     # βαθμολογία
@@ -753,7 +794,46 @@ def home():
 </aside></div>"""
     write_root("index.html", page("Red Madness – Ολυμπιακός: ειδήσεις, πού θα δείτε τον αγώνα, βαθμολογία, αρχείο",
                "Όλα για τον Ολυμπιακό σε ένα site: ειδήσεις από όλα τα αθλητικά sites, τι ώρα και σε ποιο κανάλι παίζει, βαθμολογία, βίντεο, ιστορικό αρχείο και σαν σήμερα.",
-               body, "", [], "/"))
+               body, "", [], "/", ld=[{"@context": "https://schema.org", "@type": "WebSite", "name": "Red Madness", "alternateName": "redmadness.gr",
+               "url": SITE + "/", "inLanguage": "el", "publisher": OLY_ORG}, {"@context": "https://schema.org", **OLY_ORG}]))
+
+def simera():
+    """/simera/: «Ολυμπιακός σήμερα» — σταθερή διεύθυνση, περιεχόμενο που αλλάζει κάθε μέρα."""
+    from datetime import datetime, timedelta, timezone
+    ath = timezone(timedelta(hours=2)); now = datetime.now(timezone.utc); today = now.astimezone(ath).date()
+    sp = os.path.join(ROOT, "data", "previews.json")
+    store = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
+    SPN = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}
+    ms = sorted(((k, m, datetime.fromisoformat(m["start"]).astimezone(ath)) for k, m in store.items()), key=lambda t: t[2])
+    def card(k, m, st, big=False):
+        chs = "".join(f'<span class="ch">{esc(c)}</span>' for c in m["channels"]) or '<span class="ch">Το κανάλι θα ανακοινωθεί</span>'
+        tm = "ώρα προς ανακοίνωση" if m.get("no_time") else f"{st:%H:%M}"
+        return (f'<a class="hero" href="/agones/{k}.html"><span class="shop-k">{SPN.get(m["sport"], "")}</span><b>{esc(m["home"])} – {esc(m["away"])}</b>'
+                f'<span class="when">{DAYS_GR[st.weekday()]} {st.day}/{st.month}, {tm}</span><span class="chs">{chs}</span><span class="shop-go">Ιστορικό, φόρμα και κανάλι →</span></a>')
+    td = [(k, m, st) for k, m, st in ms if st.date() == today]
+    nxt = [(k, m, st) for k, m, st in ms if st.date() > today]
+    dstr = f"{DAYS_GR[today.weekday()]} {today.day} {MONTHS[today.month - 1]} {today.year}"
+    if td:
+        top = f'<p class="lead">Σήμερα, {dstr}, ο Ολυμπιακός έχει {len(td)} {"αγώνα" if len(td) == 1 else "αγώνες"}. Δείτε τι ώρα και σε ποιο κανάλι.</p>' + "".join(card(*t) for t in td)
+    else:
+        top = f'<p class="lead">Σήμερα, {dstr}, δεν υπάρχει αγώνας του Ολυμπιακού στο πρόγραμμα.' + (" Ο επόμενος αγώνας:" if nxt else "") + "</p>" + (card(*nxt[0]) if nxt else "")
+        nxt = nxt[1:]
+    week = [(k, m, st) for k, m, st in nxt if st.date() <= today + timedelta(days=7)]
+    wl = ""
+    if week:
+        wl = '<h2>Οι επόμενοι αγώνες</h2><ul class="list">' + "".join(
+            f'<li><a href="/agones/{k}.html">{esc(m["home"])} – {esc(m["away"])}</a> <span class="mut">{DAYS_GR[st.weekday()]} {st.day}/{st.month}'
+            f'{"" if m.get("no_time") else f" {st:%H:%M}"}{" · " + esc(", ".join(m["channels"])) if m["channels"] else ""} · {SPN.get(m["sport"], "")}</span></li>' for k, m, st in week) + "</ul>"
+    body = f"""<h1>Ολυμπιακός σήμερα <span class="sub">{dstr}</span></h1>
+{top}{wl}
+<p><a href="/tv/">Όλες οι τηλεοπτικές μεταδόσεις →</a> · <a href="/san-simera/{today:%m-%d}.html">Σαν σήμερα στην ιστορία →</a> · <a href="/olympiakos.ics">📅 Τα ματς στο ημερολόγιό σου</a></p>
+{shop_box(TEAM["olympiakos"], "simera", "Φόρα τη φανέλα στο ματς", "Οι εμφανίσεις του Ολυμπιακού 2026/27 με όνομα παίκτη, στο Sport Arena.")}
+<p class="note">Η σελίδα ενημερώνεται αυτόματα πολλές φορές την ημέρα από το τηλεοπτικό πρόγραμμα και το πρόγραμμα των διοργανώσεων.</p>"""
+    lds = [event_ld(m, k) for k, m, _ in td + week]
+    og = f"/assets/og/{td[0][0]}.png" if td else "/assets/og/default.png"
+    write_root("simera/index.html", page("Ολυμπιακός σήμερα: τι ώρα παίζει και σε ποιο κανάλι | Red Madness",
+               f"Παίζει σήμερα ο Ολυμπιακός; {dstr}: ώρα και κανάλι για όλους τους αγώνες του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο.",
+               body, "tv", [("", "Ολυμπιακός σήμερα")], "/simera/", og_image=og, ld=lds))
 
 def write_root(path, html_text):
     full = os.path.join(ROOT, path); os.makedirs(os.path.dirname(full), exist_ok=True)
@@ -809,6 +889,7 @@ Promise.all([fetch("/data/tv.json?t=" + Date.now(), {cache: "no-store"}).then(r 
 def tv():
     body = f"""<h1>Πού θα δείτε τον Ολυμπιακό <span class="sub" id="upd"></span></h1>
 <p class="lead">Όλες οι τηλεοπτικές μεταδόσεις αγώνων του Ολυμπιακού τις επόμενες 7 μέρες, σε ποδόσφαιρο, μπάσκετ, βόλεϊ, πόλο και τα υπόλοιπα τμήματα, με ώρα και κανάλι.</p>
+<p><a href="/simera/"><b>Παίζει σήμερα ο Ολυμπιακός; →</b></a></p>
 <div id="next"><p class="note">Φόρτωση προγράμματος…</p></div>
 <div id="list"></div>
 <p class="note">Το πρόγραμμα συγκεντρώνεται αυτόματα από τα κανάλια COSMOTE SPORT, Novasports και τα ελεύθερα κανάλια, και ανανεώνεται κάθε 6 ώρες. Αλλαγές της τελευταίας στιγμής μπορεί να μην φαίνονται.</p>
@@ -856,8 +937,8 @@ def main():
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop(); videos(); tv(); days = san_simera(); prev = previews(); home(); calendar_ics()
-    urls = ["/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + [f"/san-simera/{d}.html" for d in days] + PAGES
+    eshop(); videos(); tv(); days = san_simera(); prev = previews(); simera(); home(); calendar_ics()
+    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"

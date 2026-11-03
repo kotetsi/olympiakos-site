@@ -33,6 +33,10 @@ jobs:
         run: python3 scripts/fetch_player_names.py || echo "τα ονόματα απέτυχαν, συνεχίζουμε"
       - name: Δημιουργία σελίδων (αρχείο, προεπισκοπήσεις, sitemap)
         run: python3 scripts/build_archive.py
+      - name: Εικόνες κοινοποίησης αγώνων
+        run: |
+          pip install -q pillow
+          python3 scripts/og_images.py || echo "οι εικόνες απέτυχαν, συνεχίζουμε"
       - name: Αποθήκευση αν άλλαξε κάτι
         run: |
           git config user.name "news-bot"
