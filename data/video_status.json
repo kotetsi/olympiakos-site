@@ -1,0 +1,45 @@
+{
+ "checked_at": "2026-11-03T13:46:20+00:00",
+ "channels": {
+  "olympiacos-fc": {
+   "name": "Olympiacos FC",
+   "channel_id": "UCLf7YXb-0PWEeq59Z_q318A",
+   "ok": true,
+   "items": 15,
+   "error": ""
+  },
+  "olympiacos-bc": {
+   "name": "Olympiacos BC",
+   "channel_id": "UCbv8oofgvLZ1B24N6uJ9q6g",
+   "ok": true,
+   "items": 15,
+   "error": ""
+  },
+  "euroleague": {
+   "name": "EuroLeague",
+   "channel_id": "UCGr3nR_XH9r6E5b09ZJAT9w",
+   "ok": true,
+   "items": 1,
+   "error": ""
+  },
+  "superleague": {
+   "name": "Super League",
+   "ok": false,
+   "error": "δεν βρέθηκε το κανάλι"
+  },
+  "cosmote-tv": {
+   "name": "COSMOTE TV",
+   "channel_id": "UCm5qBjYuLgAxEv77PAhnodA",
+   "ok": true,
+   "items": 0,
+   "error": ""
+  },
+  "novasports": {
+   "name": "Novasports",
+   "channel_id": "UCFuua6kISqtOetefT0fkqzA",
+   "ok": true,
+   "items": 0,
+   "error": ""
+  }
+ }
+}

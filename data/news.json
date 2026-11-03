@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-03T12:31:30+00:00",
-"count": 40,
+"generated_at": "2026-11-03T13:46:16+00:00",
+"count": 45,
 "items": [
+{
+"title": "Ολυμπιακός: Η πρώτη φορά φέτος με τον κόσμο του επί γαλλικού εδάφους",
+"url": "https://www.gazzetta.gr/football/europa-league/2583032/olympiakos-i-proti-fora-fetos-me-ton-kosmo-toy-epi-gallikoy-edafoys",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-03T13:43+00:00",
+"sport": "football",
+"snippet": "Μετά το stop που είχε μπει για τον κόσμο των Πειραιωτών στο Μαρσέιγ - Ολυμπιακός θα έχουν για πρώτη φορά φέτος στη Γαλλία τη συνδρομή του με τη Ρεν. Ρεν …",
+"also": [],
+"id": "14ae25b7cd25"
+},
+{
+"title": "Poll: Τι θα κάνουν ΑΕΚ, Ολυμπιακός, ΟΦΗ και Παναθηναϊκός στην Ευρώπη αυτό το διήμερο;",
+"url": "https://www.sdna.gr/podosfairo/1483089_poll-ti-tha-kanoyn-aek-olympiakos-ofi-kai-panathinaikos-stin-eyropi-ayto-diimero",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-03T13:36+00:00",
+"sport": "football",
+"snippet": "Οι ΑΕΚ, Ολυμπιακός, ΟΦΗ και Παναθηναϊκός έχουν ευρωπαϊκές υποχρεώσεις το προσεχές διήμερο και το SDNA σας καλεί να ψηφίσετε πώς θα τα πάνε.",
+"also": [],
+"id": "54a25ed562fb"
+},
+{
+"title": "Ρεν – Ολυμπιακός: Η τηλεοπτική μετάδοση, η αλλαγή ημέρας και το σπικάζ",
+"url": "https://www.sdna.gr/monimes-stiles/media/1483090_ren-olympiakos-i-tileoptiki-metadosi-i-allagi-imeras-kai-spikaz",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-03T13:10+00:00",
+"sport": "general",
+"snippet": "Πού θα μεταδοθεί, ποιος αναλαμβάνει την περιγραφή και το πρόγραμμα των εκπομπών. Γράφει ο Μιντιάρχης, Νίκος Μποζιονέλος",
+"also": [],
+"id": "74426fe67e3e"
+},
+{
+"title": "Ολυμπιακός: Έως οκτώ αλλαγές στην ενδεκάδα με Ρεν",
+"url": "https://sportime.gr/podosfairo/olimpiakos-apo-tesseris-eos-okto-allages-me-ren-ti-etimazi-o-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-03T13:06+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ ετοιμάζει σημαντικές αλλαγές στην ενδεκάδα του Ολυμπιακού για τη Ρεν, με Έσε, Ζέλσον και Γκονζάλες να έχουν προβάδισμα.",
+"also": [],
+"id": "0f9136430dd6"
+},
+{
+"title": "Ολυμπιακός: Οι Ερυθρόλευκοι προσγειώθηκαν στο Ρεν",
+"url": "https://www.gazzetta.gr/football/europa-league/2583252/olympiakos-oi-erythroleykoi-prosgeiothikan-sto-ren",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-03T12:57+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός έφτασε στο Ρεν, όπου θα αντιμετωπίσει την ομάδα της πόλης για τη League Phase του Europa League (4/11,17:30). AΠΟΣΤΟΛΗ ΣΤΗ ΓΑΛΛΙΑ: ΔΗΜΗΤΡΗΣ…",
+"also": [],
+"id": "833d6cda1c81"
+},
 {
 "title": "Παναθηναϊκός: Απάντησε ο Ερασιτέχνης στον Ολυμπιακό",
 "url": "https://www.novasports.gr/sport/bolei/event/volleyleague/article/15210509/panathinaikos-apantise-o-erasitexnis-ston-olympiako/",
