@@ -1,0 +1,141 @@
+{
+ "checked_at": "2026-11-03T12:28:15+00:00",
+ "sources": {
+  "olympiacos-org": {
+   "name": "Olympiacos.org",
+   "feeds": [
+    "https://www.olympiacos.org/feed"
+   ],
+   "items": 21,
+   "errors": []
+  },
+  "olympiacosbc": {
+   "name": "Olympiacos BC",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "redplanet": {
+   "name": "Red Planet",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "gavros": {
+   "name": "Gavros",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "thrylos24": {
+   "name": "Thrylos24",
+   "feeds": [
+    "https://www.thrylos24.gr/feed"
+   ],
+   "items": 0,
+   "errors": []
+  },
+  "sdna": {
+   "name": "SDNA",
+   "feeds": [
+    "https://www.sdna.gr/latest.xml"
+   ],
+   "items": 0,
+   "errors": []
+  },
+  "gazzetta": {
+   "name": "Gazzetta",
+   "feeds": [
+    "https://www.gazzetta.gr/rss"
+   ],
+   "items": 2,
+   "errors": []
+  },
+  "sport24": {
+   "name": "Sport24",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "contra": {
+   "name": "Contra",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "novasports": {
+   "name": "Novasports",
+   "feeds": [
+    "https://www.novasports.gr/feed"
+   ],
+   "items": 5,
+   "errors": []
+  },
+  "sport-fm": {
+   "name": "Sport FM",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "sportday": {
+   "name": "Sportday",
+   "feeds": [
+    "https://www.sportday.gr/feed"
+   ],
+   "items": 0,
+   "errors": [
+    "https://www.sportday.gr/feed: unbound prefix: line 43, column 2"
+   ]
+  },
+  "sportime": {
+   "name": "Sportime",
+   "feeds": [
+    "https://sportime.gr/feed",
+    "https://sportime.gr/feed/news"
+   ],
+   "items": 18,
+   "errors": []
+  },
+  "metrosport": {
+   "name": "Metrosport",
+   "feeds": [
+    "https://www.metrosport.gr/feed",
+    "https://www.metrosport.gr/feed/atom"
+   ],
+   "items": 2,
+   "errors": []
+  },
+  "ertsports": {
+   "name": "ERT Sports",
+   "feeds": [
+    "https://www.ertsports.gr/feed/"
+   ],
+   "items": 1,
+   "errors": []
+  },
+  "onsports": {
+   "name": "OnSports",
+   "feeds": [],
+   "items": 0,
+   "errors": []
+  },
+  "sportsnewsgreece": {
+   "name": "SportsNewsGreece",
+   "feeds": [
+    "https://www.sportsnewsgreece.gr/feeds/posts/default",
+    "https://www.sportsnewsgreece.gr/feeds/posts/default?alt=rss"
+   ],
+   "items": 2,
+   "errors": []
+  },
+  "eurohoops": {
+   "name": "Eurohoops",
+   "feeds": [
+    "https://www.eurohoops.net/feed/",
+    "https://www.eurohoops.net/el/feed/"
+   ],
+   "items": 2,
+   "errors": []
+  }
+ }
+}
