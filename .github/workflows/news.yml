@@ -27,12 +27,16 @@ jobs:
         run: python3 scripts/fetch_videos.py || echo "τα βίντεο απέτυχαν, συνεχίζουμε"
       - name: Πρόγραμμα TV (κάθε 6 ώρες)
         run: python3 scripts/fetch_tv.py || echo "το πρόγραμμα TV απέτυχε, συνεχίζουμε"
+      - name: Φετινή Super League (κάθε 6 ώρες)
+        run: python3 scripts/update_football.py || echo "η Super League απέτυχε, συνεχίζουμε"
+      - name: Δημιουργία σελίδων (αρχείο, προεπισκοπήσεις, sitemap)
+        run: python3 scripts/build_archive.py
       - name: Αποθήκευση αν άλλαξε κάτι
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add -A data/
+          git add -A .
           if git diff --cached --quiet; then echo "Καμία αλλαγή"; exit 0; fi
-          git commit -m "Ειδήσεις: ανανέωση $(date -u +'%Y-%m-%d %H:%M')"
+          git commit -m "Αυτόματη ανανέωση $(date -u +'%Y-%m-%d %H:%M')"
           git pull --rebase --autostash || true
           git push

@@ -42,6 +42,7 @@ td{padding:8px 12px;border-bottom:1px solid var(--line);white-space:nowrap}
 tr:last-child td{border-bottom:0}
 tbody tr:hover{background:var(--chip)}
 table.num td:not(:first-child),table.num th:not(:first-child){text-align:right;font-variant-numeric:tabular-nums}
+table.standings td:nth-child(2),table.standings th:nth-child(2),table.standings td:last-child,table.standings th:last-child{text-align:left}
 .res{display:inline-block;min-width:22px;text-align:center;font-weight:800;font-size:12px;border-radius:6px;padding:1px 6px}
 .res.w{background:var(--win-bg);color:var(--win)} .res.d{background:var(--draw-bg);color:var(--draw)} .res.l{background:var(--loss-bg);color:var(--loss)}
 .cols{display:grid;grid-template-columns:1fr 1fr;gap:18px}

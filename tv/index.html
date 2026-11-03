@@ -26,17 +26,18 @@ const day = iso => { const d = new Date(iso), t = new Date(), k = x => x.toDateS
   const lbl = d.toLocaleDateString("el-GR", {weekday:"long", day:"numeric", month:"long"});
   return k(d) === k(t) ? "Σήμερα · " + lbl : k(d) === k(tw) ? "Αύριο · " + lbl : lbl; };
 const live = it => { const n = Date.now(), s = +new Date(it.start), e = it.end ? +new Date(it.end) : s + 2 * 36e5; return n >= s && n <= e; };
-fetch("/data/tv.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()).then(d => {
+Promise.all([fetch("/data/tv.json?t=" + Date.now(), {cache: "no-store"}).then(r => r.json()), fetch("/data/tv_links.json?t=" + Date.now()).then(r => r.json()).catch(() => ({}))]).then(([d, L]) => {
+  const lk = it => L[it.title + "|" + it.start];
   const items = d.items.filter(it => (it.end ? +new Date(it.end) : +new Date(it.start) + 2 * 36e5) > Date.now());
   $("upd").textContent = "Ενημέρωση: " + new Date(d.generated_at).toLocaleString("el-GR", {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"});
   if (!items.length) { $("next").innerHTML = '<p class="note">Δεν βρέθηκε τηλεοπτική μετάδοση αγώνα του Ολυμπιακού τις επόμενες 7 μέρες.</p>'; $("list").innerHTML = ""; return; }
   const n = items[0];
   $("next").innerHTML = `<div class="next"><span class="shop-k">${live(n) ? "Τώρα ζωντανά" : "Επόμενη μετάδοση"}</span>
-    <b>${esc(n.title)}</b><span class="when">${esc(day(n.start))} · ${tm(n.start)}</span>
+    <b>${lk(n) ? `<a href="${lk(n)}">${esc(n.title)}</a>` : esc(n.title)}</b><span class="when">${esc(day(n.start))} · ${tm(n.start)}</span>
     <span class="chs">${n.channels.map(c => `<span class="ch">${esc(c)}</span>`).join("")}</span></div>`;
   let html = "", cur = "";
   items.forEach(it => { const dl = day(it.start); if (dl !== cur) { html += `<h2 class="day">${esc(dl)}</h2>`; cur = dl; }
-    html += `<div class="tvrow"><span class="t">${tm(it.start)}</span><div><b>${esc(it.title)}</b>${SP[it.sport] ? ` <span class="tag">${SP[it.sport]}</span>` : ""}${live(it) ? ' <span class="tag liv">ΖΩΝΤΑΝΑ</span>' : ""}
+    html += `<div class="tvrow"><span class="t">${tm(it.start)}</span><div><b>${lk(it) ? `<a href="${lk(it)}">${esc(it.title)}</a>` : esc(it.title)}</b>${lk(it) ? ' <a class="tag" href="' + lk(it) + '">ιστορικό & φόρμα →</a>' : ""}${SP[it.sport] ? ` <span class="tag">${SP[it.sport]}</span>` : ""}${live(it) ? ' <span class="tag liv">ΖΩΝΤΑΝΑ</span>' : ""}
       <div class="chs">${it.channels.map(c => `<span class="ch">${esc(c)}</span>`).join("")}</div></div></div>`; });
   $("list").innerHTML = html;
 }).catch(() => { $("next").innerHTML = '<p class="note">Το πρόγραμμα δεν φορτώθηκε. Δοκίμασε ξανά σε λίγο.</p>'; });

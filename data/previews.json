@@ -1,0 +1,54 @@
+{
+ "2026-11-04-ren-olympiakos": {
+  "title": "Ρεν - Ολυμπιακός",
+  "home": "Ρεν",
+  "away": "Ολυμπιακός",
+  "opp": "Ρεν",
+  "oly_home": false,
+  "start": "2026-11-04T15:30+00:00",
+  "channels": [
+   "COSMOTE SPORT 3"
+  ],
+  "sport": "football",
+  "b_team": false
+ },
+ "2026-11-06-olympiakos-erythros-asteras": {
+  "title": "Ολυμπιακός - Ερυθρός Αστέρας",
+  "home": "Ολυμπιακός",
+  "away": "Ερυθρός Αστέρας",
+  "opp": "Ερυθρός Αστέρας",
+  "oly_home": true,
+  "start": "2026-11-06T19:15+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false
+ },
+ "2026-11-07-olympiakos-floisvos": {
+  "title": "Ολυμπιακός - Φλοίσβος",
+  "home": "Ολυμπιακός",
+  "away": "Φλοίσβος",
+  "opp": "Φλοίσβος",
+  "oly_home": true,
+  "start": "2026-11-07T17:30+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "volley",
+  "b_team": false
+ },
+ "2026-11-08-olympiakos-v-ellas-syroy": {
+  "title": "Ολυμπιακός Β' - Ελλάς Σύρου",
+  "home": "Ολυμπιακός Β'",
+  "away": "Ελλάς Σύρου",
+  "opp": "Ελλάς Σύρου",
+  "oly_home": true,
+  "start": "2026-11-08T10:30+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "football",
+  "b_team": true
+ }
+}
