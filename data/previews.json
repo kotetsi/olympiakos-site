@@ -50,5 +50,17 @@
   ],
   "sport": "football",
   "b_team": true
+ },
+ "2026-11-08-olympiakos-paok": {
+  "title": "Ολυμπιακός - ΠΑΟΚ",
+  "home": "Ολυμπιακός",
+  "away": "ΠΑΟΚ",
+  "opp": "ΠΑΟΚ",
+  "oly_home": true,
+  "start": "2026-11-08T19:00+00:00",
+  "channels": [],
+  "sport": "football",
+  "b_team": false,
+  "no_time": false
  }
 }

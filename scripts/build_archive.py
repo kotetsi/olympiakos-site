@@ -589,8 +589,21 @@ def previews():
             opp = parts[1] if home_oly else parts[0]
             st = datetime.fromisoformat(it["start"]).astimezone(ath)
             key = f'{st:%Y-%m-%d}-{slug(t)}'
+            for k0 in [k for k, v in store.items() if v["start"][:10] == key[:10] and not v["channels"] and nrm(opp)[:4] in nrm(v["opp"])]: store.pop(k0)
             store[key] = dict(title=t, home=parts[0], away=parts[1], opp=opp, oly_home=home_oly, start=it["start"],
                               channels=it["channels"], sport=it["sport"], b_team="β'" in nrm(t) or " β " in nrm(t) + " ")
+    # αγώνες πρωταθλήματος από το πρόγραμμα της διοργάνωσης, ακόμα κι αν δεν έχει βγει κανάλι
+    cp = os.path.join(H, "superleague_current.json")
+    if os.path.exists(cp):
+        for u in json.load(open(cp, encoding="utf-8")).get("upcoming", []):
+            st = datetime.fromisoformat(u["date"] + "T" + (u["time"] or "20:00") + ":00").replace(tzinfo=ath)
+            if st > now + timedelta(days=10): continue
+            if any(v["start"][:10] == u["date"] and nrm(u["opponent"])[:4] in nrm(v["opp"]) for v in store.values()): continue
+            home, away = ("Ολυμπιακός", u["opponent"]) if u["venue"] == "Εντός" else (u["opponent"], "Ολυμπιακός")
+            t = f"{home} - {away}"; key = f'{st:%Y-%m-%d}-{slug(t)}'
+            store[key] = dict(title=t, home=home, away=away, opp=u["opponent"], oly_home=u["venue"] == "Εντός",
+                              start=st.astimezone(timezone.utc).isoformat(timespec="minutes"), channels=[], sport="football", b_team=False,
+                              no_time=not u["time"])
     store = {k: v for k, v in store.items() if datetime.fromisoformat(v["start"]) > now - timedelta(days=45)}
     json.dump(store, open(store_p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # αρχεία για ιστορικό
@@ -643,7 +656,8 @@ def previews():
         if hv:
             vh = '<h2>Τελευταία highlights</h2><div class="vgrid">' + "".join(
                 f'<article class="vid"><a class="thumb" href="https://www.youtube.com/watch?v={esc(v["id"])}" target="_blank" rel="noopener"><img loading="lazy" src="https://i.ytimg.com/vi/{esc(v["id"])}/hqdefault.jpg" alt=""><span class="play" aria-hidden="true"></span></a><h3>{esc(v["title"])}</h3><p class="vmeta">{esc(v["channel_name"])}</p></article>' for v in hv) + "</div>"
-        chs = "".join(f'<span class="ch">{esc(c)}</span>' for c in m["channels"])
+        chs = "".join(f'<span class="ch">{esc(c)}</span>' for c in m["channels"]) or '<span class="ch">Το κανάλι θα ανακοινωθεί</span>'
+        if m.get("no_time"): hhmm = "ώρα προς ανακοίνωση"
         boxes = shop_box(TEAM["olympiakos-bc" if m["sport"] == "basket" else "olympiakos"], "proepiskopisi", "Φόρα τη φανέλα στο ματς", "Οι εμφανίσεις του Ολυμπιακού 2026/27, με όνομα παίκτη, στο Sport Arena.")
         if shop_opp: boxes = f'<div class="shops">{boxes}{shop_box(shop_opp, "proepiskopisi")}</div>'
         sp = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}.get(m["sport"], "")
