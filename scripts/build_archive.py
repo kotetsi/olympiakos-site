@@ -54,6 +54,8 @@ PAGES = []
 import json, urllib.parse
 SHOP = json.load(open(os.path.join(ROOT, "data", "shop_links.json"), encoding="utf-8"))
 SHOP["teams"] = [t for t in SHOP["teams"] if not t.get("hidden")]
+_EN = os.path.join(ROOT, "data", "player_names_el.json")
+EL_NAMES = json.load(open(_EN, encoding="utf-8")).get("names", {}) if os.path.exists(_EN) else {}
 TEAM = {t["id"]: t for t in SHOP["teams"]}
 FB_TEAM = {n: t for t in SHOP["teams"] for n in t.get("fb", [])}
 EL_TEAM = {c: t for t in SHOP["teams"] for c in t.get("el", [])}
@@ -280,9 +282,11 @@ def eleague():
     def gid(g): return f'{g["season_label"]}-{g["game_code"]}'
     def game_link(g, txt): return f'<a href="/arxeio/euroleague/agones/{gid(g)}.html">{txt}</a>'
     def season_link(s): return f'<a href="/arxeio/euroleague/{s}.html">{s}</a>'
-    def name(p):  # "SPANOULIS, VASSILIS" -> "Vassilis Spanoulis"
+    def latin(p):  # "SPANOULIS, VASSILIS" -> "Vassilis Spanoulis"
         if "," in p: last, first = p.split(",", 1); return f"{first.strip().title()} {last.strip().title()}"
         return p.title()
+    def name(p):  # ελληνικό όνομα από το Wikidata (data/player_names_el.json), αλλιώς λατινικά
+        return EL_NAMES.get(p.strip(), {}).get("el") or latin(p)
 
     seasons = defaultdict(list); opps = defaultdict(list); coaches = defaultdict(list)
     for g in games:
@@ -326,12 +330,12 @@ def eleague():
     allbox = [p for ps in box.values() for p in ps]
     pl = defaultdict(lambda: dict(g=0, pts=0, reb=0, ast=0, pir=0, fg3=0, stl=0, blk=0, n=""))
     for p in allbox:
-        x = pl[p["player_id"]]; x["n"] = name(p["player"]); x["g"] += 1
+        x = pl[p["player_id"]]; x["n"] = name(p["player"]); x["l"] = latin(p["player"]); x["g"] += 1
         for k in ("pts", "reb", "ast", "pir", "stl", "blk"): x[k] += int(float(p[k] or 0))
         x["fg3"] += int(p["fg3"].split("/")[0] or 0); x["id"] = p["player_id"]
     pslug, used = {}, set()
     for pid, x in sorted(pl.items(), key=lambda kv: -kv[1]["g"]):
-        sl = slug(x["n"]) or pid.lower()
+        sl = slug(x["l"]) or pid.lower()
         if sl in used: sl = f"{sl}-{pid.lower()}"
         used.add(sl); pslug[pid] = sl
     def plink(pid, txt): return f'<a href="/arxeio/euroleague/paiktes/{pslug[pid]}.html">{esc(txt)}</a>' if pid in pslug else esc(txt)
@@ -460,7 +464,7 @@ def eleague():
                         p["minutes"], f"<b>{p['pts']}</b>", p["reb"], p["ast"], p["pir"]])
         span = f'{ps[0]["season"]} – {ps[-1]["season"]}' if ps[0]["season"] != ps[-1]["season"] else ps[0]["season"]
         body = f"""<h1>{esc(n)} <span class="sub">στον Ολυμπιακό · Euroleague</span></h1>
-<p class="lead">Όλοι οι αγώνες του {esc(n)} με τον Ολυμπιακό στην Euroleague ({span}), με στατιστικά ανά σεζόν, ρεκόρ καριέρας και αναλυτικό ημερολόγιο αγώνων.</p>
+{f'<p class="sub">{esc(x["l"])}</p>' if x["l"] != n else ""}<p class="lead">{esc(n)}: όλοι οι αγώνες με τον Ολυμπιακό στην Euroleague ({span}), με στατιστικά ανά σεζόν, ρεκόρ καριέρας και αναλυτικό ημερολόγιο αγώνων.</p>
 {kpis([("Αγώνες", G), ("Πόντοι", x["pts"]), ("Πόντοι Μ.Ο.", f'{x["pts"]/G:.1f}'), ("Ριμπάουντ Μ.Ο.", f'{x["reb"]/G:.1f}'), ("Ασίστ Μ.Ο.", f'{x["ast"]/G:.1f}'), ("Νίκες–ήττες", f"{wins}-{G-wins}")])}
 <h2>Ανά σεζόν <span class="sub">μέσοι όροι</span></h2>
 {table(["Σεζόν", "Αγ.", "Λεπτά", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR", "Τρίποντα"], srows_p, "num")}
@@ -469,7 +473,7 @@ def eleague():
 {shop_box(TEAM["olympiakos-bc"], "paiktis", "Προϊόντα ΚΑΕ Ολυμπιακός")}
 <h2>Όλοι οι αγώνες</h2>
 {table(["Ημ/νία", "Γύρος", "Αντίπαλος", "Σκορ", "Λεπτά", "Π", "Ριμπ.", "Ασ.", "PIR"], log)}
-<p class="note">Στατιστικά μόνο από αγώνες Euroleague με τον Ολυμπιακό, από το 2010-11 και μετά.</p>"""
+<p class="note">Στατιστικά μόνο από αγώνες Euroleague με τον Ολυμπιακό, από το 2010-11 και μετά. Ελληνικά ονόματα από το Wikidata, όπου υπάρχουν.</p>"""
         write(f"euroleague/paiktes/{pslug[pid]}.html", page(f"{n} στον Ολυμπιακό: στατιστικά Euroleague, ρεκόρ και αγώνες | Red Madness",
               f"{n} με τον Ολυμπιακό στην Euroleague: {G} αγώνες, {x['pts']} πόντοι ({x['pts']/G:.1f} μ.ο.), {x['reb']} ριμπάουντ, {x['ast']} ασίστ. Στατιστικά ανά σεζόν και όλοι οι αγώνες.",
               body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("/arxeio/euroleague/paiktes/", "Παίκτες"), ("", n)], f"/arxeio/euroleague/paiktes/{pslug[pid]}.html"))

@@ -29,6 +29,8 @@ jobs:
         run: python3 scripts/fetch_tv.py || echo "το πρόγραμμα TV απέτυχε, συνεχίζουμε"
       - name: Φετινή Super League (κάθε 6 ώρες)
         run: python3 scripts/update_football.py || echo "η Super League απέτυχε, συνεχίζουμε"
+      - name: Ελληνικά ονόματα παικτών (Wikidata)
+        run: python3 scripts/fetch_player_names.py || echo "τα ονόματα απέτυχαν, συνεχίζουμε"
       - name: Δημιουργία σελίδων (αρχείο, προεπισκοπήσεις, sitemap)
         run: python3 scripts/build_archive.py
       - name: Αποθήκευση αν άλλαξε κάτι
