@@ -589,7 +589,7 @@ document.querySelectorAll('#sf button').forEach(b=>b.classList.toggle('on',b===e
     body = f"""<h1>Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού</h1>
 <p class="lead">{esc(STIG['intro'])}</p>{tabs}<div class="cards stigs">{cards}</div>{js}"""
     write_root("stigmes/index.html", page("Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού | Red Madness",
-               "Ρώμη 1997, Κωνσταντινούπολη 2012, Λονδίνο 2013, Conference League 2024, Αθήνα 2026: οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο.",
+               "Ρώμη 1997, Κωνσταντινούπολη 2012, Λονδίνο 2013, Conference League 2024, Αθήνα 2026: οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο, ανδρών και γυναικών.",
                body, "", [("/arxeio/", "Αρχείο"), ("", "Ευρωπαϊκές στιγμές")], "/stigmes/"))
     return ["/stigmes/"] + [f"/stigmes/{x['slug']}.html" for x in STIGMES]
 
