@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-04T15:12:26+00:00",
-"count": 171,
+"generated_at": "2026-11-04T15:21:29+00:00",
+"count": 174,
 "items": [
+{
+"title": "Καραπαπάς για τον διαιτητή κόντρα στον ΠΑΟΚ: «Επιλέγεται διαιτητής που έχει παράπονα σε τρία συνεχόμενα ντέρμπι ο Ολυμπιακός»",
+"url": "https://sportday.gr/podosfairo/364225_karapapas-gia-ton-diaititi-kontra-ston-paok-epilegetai-diaititis-pou-echei-parapona-se-tria-synechomena-ntermpi-o-olympiakos.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-04T15:19+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Καραπαπάς έκανε μία ανάρτηση στα social media, με την οποία εννόησε ότι υπάρχει παρασκήνιο στον ορισμό του διαιτητή Χοσέ Μαρία Σάντσεθ Μαρτίνεθ…",
+"also": [],
+"id": "d34d633769ed"
+},
+{
+"title": "«Ο Ολυμπιακός και η κίνηση για τον πρώην NBAer Άντονι!»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15212272/o-olympiakos-kai-i-kinisi-gia-ton-proin-nbaer-antoni/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T15:11+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός εξετάζει την αγορά για την περαιτέρω ενίσχυση της περιφερειακής του γραμμής, με τον Κόουλ Άντονι να βρίσκεται μεταξύ των περιπτώσεων που έχουν…",
+"also": [],
+"id": "88684e16c0b4"
+},
 {
 "title": "Live: Ρεν - Ολυμπιακός",
 "url": "https://www.sdna.gr/podosfairo/1481537_live-ren-olympiakos",
@@ -11,7 +35,15 @@
 "published": "2026-11-04T15:05+00:00",
 "sport": "football",
 "snippet": "Το Περιστέρι Betsson τιμωρήθηκε με πρόστιμο ύψους 20 χιλιάδων ευρώ από την ΔΕΑΒ, για πανό το οποίο ύψωσαν οι οπαδοί του στις κερκίδες του «Ανδρέα...",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/live-ren-olympiakos-0-0-audio/",
+"title": "LIVE: Ρεν – Ολυμπιακός 0-0 (audio)",
+"published": "2026-11-04T15:20+00:00"
+}
+],
 "id": "5d1c8e752633"
 },
 {
@@ -141,6 +173,18 @@
 "snippet": "Το πρόγραμμα της ημέρας περιελάμβανε αρχικά προθέρμανση, ασκήσεις κυκλοφορίας της μπάλας (rondo) και παιχνίδι ένας εναντίον ενός (1v1). Στη συνέχεια, η…",
 "also": [],
 "id": "45f5ecc3e676"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Γιατί διαμαρτύρεται ο Καραπαπάς",
+"url": "https://sportime.gr/podosfairo/olimpiakos-paok-giati-diamartirete-o-karapapas-gia-ton-dietiti-tou-ntermpi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T13:43+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Καραπαπάς αντέδρασε στον ορισμό του Σάντσεθ Μαρτίνεθ στο Ολυμπιακός – ΠΑΟΚ. Το παρελθόν του Ισπανού και το μήνυμα προς την ΚΕΔ.",
+"also": [],
+"id": "e57710f78cac"
 },
 {
 "title": "Ασπρόμαυρο πολυβόλο στο μπάσκετ, τα πλάνα του Λίσι για Ολυμπιακό | ΠΑΟΚ Q&A by Interwetten",
@@ -842,7 +886,15 @@
 "published": "2026-11-04T06:09+00:00",
 "sport": "football",
 "snippet": "Η ώρα και το κανάλι μετάδοσης του εκτός έδρας αγώνα του Ολυμπιακού με τη Ρεν (4/11) για την 4η αγωνιστική του Europa League.",
-"also": [],
+"also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/podosfairo/ren-olimpiakos-ti-ora-pezoun-simera-ke-se-pio-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Ρεν – Ολυμπιακός: Ώρα και κανάλι μετάδοσης",
+"published": "2026-11-04T15:10+00:00"
+}
+],
 "id": "fc28b5c6abf2"
 },
 {
