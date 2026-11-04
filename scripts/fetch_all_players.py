@@ -63,7 +63,7 @@ def label(e, langs=("el", "en")):
         if v: return v
     return ""
 
-def fetch_team(qid):
+def fetch_team(qid, extra=()):
     """Ελαφρύ SPARQL για τη λίστα και τα χρόνια, και μετά το API του Wikidata σε πακέτα των 50 για τα στοιχεία."""
     d = get("https://query.wikidata.org/sparql?format=json&query=" + urllib.parse.quote(Q % qid))
     spells = {}
@@ -72,6 +72,7 @@ def fetch_team(qid):
         s = (yr(b.get("start", {}).get("value", "")), yr(b.get("end", {}).get("value", "")))
         spells.setdefault(pid, set())
         if s != (None, None): spells[pid].add(s)
+    for q in extra: spells.setdefault(q, set())   # παίκτες του αρχείου μας που λείπουν από το Wikidata ως μέλη της ομάδας
     ids = [i for i in spells if i.startswith("Q")]
     E = entities(ids, "labels|sitelinks|claims", "&languages=el|en&sitefilter=elwiki|enwiki")
     refs = sorted({r for e in E.values() for p in ("P413", "P1532", "P27") for r in claim_ids(e, p) if r})
@@ -95,6 +96,16 @@ def fetch_team(qid):
                         spells=[list(s) for s in sorted(spells[pid], key=lambda s: (s[0] or 0, s[1] or 0))]))
     return out
 
+def archive_qids():
+    """QID όσων έπαιξαν στην Euroleague με τον Ολυμπιακό (box scores του αρχείου + data/player_names_el.json)."""
+    import csv
+    try:
+        names = json.load(open(os.path.join(ROOT, "data", "player_names_el.json"), encoding="utf-8"))["names"]
+        raw = {r["player"].strip() for r in csv.DictReader(open(os.path.join(ROOT, "data", "history", "olympiakos_euroleague_player_boxscores.csv"), encoding="utf-8-sig"))}
+        return sorted({names[n]["qid"] for n in raw if n in names and names[n].get("qid")})
+    except Exception:
+        return []
+
 def main():
     if os.path.exists(OUT) and "--force" not in sys.argv:
         try:
@@ -107,7 +118,7 @@ def main():
         try:
             qid = qid or qid_for(titles)
             if not qid: errs.append(f"{key}: δεν βρέθηκε QID"); continue
-            ps = fetch_team(qid)
+            ps = fetch_team(qid, archive_qids() if key == "mpasket" else ())
             if not ps and old["teams"].get(key): ps = old["teams"][key]["players"]
             teams[key] = dict(label=label, qid=qid, players=ps)
             print(f"  {label} ({qid}): {len(ps)} παίκτες, με βιογραφικό {sum(1 for p in ps if p['wiki'])}")

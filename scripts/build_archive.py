@@ -593,6 +593,104 @@ document.querySelectorAll('#sf button').forEach(b=>b.classList.toggle('on',b===e
                body, "", [("/arxeio/", "Αρχείο"), ("", "Ευρωπαϊκές στιγμές")], "/stigmes/"))
     return ["/stigmes/"] + [f"/stigmes/{x['slug']}.html" for x in STIGMES]
 
+POS_FB = [("τερματοφύλακ", "Τερματοφύλακας"), ("goalkeeper", "Τερματοφύλακας"), ("αμυντικός μέσος", "Μέσος"), ("αμυντικ", "Αμυντικός"), ("defender", "Αμυντικός"),
+          ("back", "Αμυντικός"), ("μέσος", "Μέσος"), ("midfield", "Μέσος"), ("half", "Μέσος"), ("επιθετικ", "Επιθετικός"), ("forward", "Επιθετικός"),
+          ("winger", "Επιθετικός"), ("striker", "Επιθετικός")]
+POS_BK = [("γκαρντ", "Γκαρντ"), ("guard", "Γκαρντ"), ("πλέι μέικερ", "Γκαρντ"), ("point", "Γκαρντ"), ("φόργουορντ", "Φόργουορντ"), ("forward", "Φόργουορντ"),
+          ("σέντερ", "Σέντερ"), ("center", "Σέντερ"), ("centre", "Σέντερ")]
+
+def all_players():
+    """/paiktes/: όλοι οι παίκτες του Ολυμπιακού ανά τμήμα, με link στο βιογραφικό τους (data/players_all.json από το Wikidata)."""
+    pp = os.path.join(ROOT, "data", "players_all.json")
+    if not os.path.exists(pp): return []
+    D = json.load(open(pp, encoding="utf-8"))
+    # σελίδες στατιστικών του αρχείου Euroleague, ανά QID
+    stats = {}
+    for raw, v in EL_NAMES.items():
+        last, _, first = raw.partition(",")
+        sl = slug(f"{first.strip().title()} {last.strip().title()}" if first else raw.title())
+        if v.get("qid") and os.path.exists(os.path.join(OUT, "euroleague", "paiktes", f"{sl}.html")):
+            stats[v["qid"]] = f"/arxeio/euroleague/paiktes/{sl}.html"
+    # χρόνια από τα box scores του αρχείου, όταν το Wikidata δεν έχει
+    elyears = {}
+    for r in csv.DictReader(open(os.path.join(H, "olympiakos_euroleague_player_boxscores.csv"), encoding="utf-8-sig")):
+        q = EL_NAMES.get(r["player"].strip(), {}).get("qid")
+        if q:
+            a, b = int(r["season"][:4]), int(r["season"][:4]) + 1
+            o = elyears.get(q, (a, b)); elyears[q] = (min(o[0], a), max(o[1], b))
+    for T in D["teams"].values():
+        for p in T["players"]:
+            if p["qid"] not in elyears: continue
+            ya, yb = elyears[p["qid"]]
+            if not any(s[0] or s[1] for s in p["spells"]): p["spells"] = [[ya, yb]]
+            elif p["spells"][-1][1] is None and p["spells"][-1][0] and p["spells"][-1][0] <= yb < date.today().year - 1:
+                p["spells"][-1][1] = yb   # χωρίς ημερομηνία αποχώρησης στο Wikidata: τελευταία σεζόν στο αρχείο
+    def pos(p, key):
+        rules = POS_BK if key == "mpasket" else POS_FB if key == "podosfairo" else []
+        out = []
+        for x in p["pos"]:
+            lx = x.lower(); g = next((g for k, g in rules if k in lx), x if not rules else None)
+            if g and g not in out: out.append(g)
+        return out
+    def period(p):
+        sp = [s for s in p["spells"] if s[0] or s[1]]
+        return ", ".join(f"{a or '?'}–{b or ''}" if a != b else str(a) for a, b in sp)
+    urls = ["/paiktes/"]; cards = []
+    order = ["podosfairo", "mpasket", "volei", "polo", "volei-gynaikwn", "polo-gynaikwn"]
+    keys = [k for k in order if k in D["teams"]] + [k for k in D["teams"] if k not in order]
+    os.makedirs(os.path.join(ROOT, "paiktes"), exist_ok=True)
+    for key in keys:
+        T = D["teams"][key]; ps = T["players"]
+        if not ps: continue
+        rows = []
+        for p in ps:
+            first = min([s[0] or s[1] for s in p["spells"] if s[0] or s[1]], default=None)
+            rows.append((p, pos(p, key), period(p), first))
+        rows.sort(key=lambda r: (-(r[3] or 0), r[0]["name"]))
+        decades = sorted({r[3] // 10 * 10 for r in rows if r[3]}, reverse=True)
+        allpos = [g for g in (["Τερματοφύλακας", "Αμυντικός", "Μέσος", "Επιθετικός"] if key == "podosfairo" else ["Γκαρντ", "Φόργουορντ", "Σέντερ"] if key == "mpasket" else [])
+                  if any(g in r[1] for r in rows)]
+        li = []
+        for p, ps_, per, first in rows:
+            gr_ = any("Ελλάδα" in c for c in p["country"])
+            links = []
+            if p["wiki"]: links.append(f'<a href="{esc(p["wiki"])}" target="_blank" rel="noopener">Βιογραφικό{" (αγγλικά)" if p["wiki_lang"] == "en" else ""} ↗</a>')
+            if p["qid"] in stats: links.append(f'<a href="{stats[p["qid"]]}">Στατιστικά Euroleague</a>')
+            meta = " · ".join(x for x in [", ".join(ps_), ", ".join(p["country"]), f'γενν. {p["born"][:4]}' if p["born"] else ""] if x)
+            li.append(f'<li data-n="{esc(nrm(p["name"] + " " + p["latin"]))}" data-d="{first // 10 * 10 if first else ""}" data-p="{esc("|".join(ps_))}" data-g="{1 if gr_ else 0}">'
+                      f'<div class="pn"><b>{esc(p["name"])}</b>{f" <span class=mut>{esc(p["latin"])}</span>" if p["latin"] else ""}<span class="pm">{esc(meta)}</span></div>'
+                      f'<div class="pp">{esc(per) if per else ""}</div><div class="pl">{" ".join(links)}</div></li>')
+        sel = lambda name, opts, lbl: f'<select id="{name}"><option value="">{lbl}</option>' + "".join(f'<option value="{esc(v)}">{esc(t)}</option>' for v, t in opts) + "</select>"
+        filt = (f'<div class="pf"><input id="q" type="search" placeholder="Αναζήτηση παίκτη…" aria-label="Αναζήτηση παίκτη">'
+                + (sel("fp", [(g, g) for g in allpos], "Όλες οι θέσεις") if allpos else "")
+                + sel("fd", [(str(d), f"Δεκαετία {d}") for d in decades], "Όλες οι δεκαετίες")
+                + sel("fg", [("1", "Έλληνες"), ("0", "Ξένοι")], "Έλληνες και ξένοι") + '<span id="cnt" class="mut"></span></div>')
+        js = """<script>(function(){const L=[...document.querySelectorAll('.plist li')],$=id=>document.getElementById(id);
+const n=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ς/g,'σ');
+function f(){const q=n($('q').value.trim()),p=$('fp')?$('fp').value:'',d=$('fd').value,g=$('fg').value;let c=0;
+L.forEach(li=>{const ok=(!q||li.dataset.n.includes(q))&&(!p||li.dataset.p.split('|').includes(p))&&(!d||li.dataset.d===d)&&(!g||li.dataset.g===g);li.hidden=!ok;if(ok)c++;});
+$('cnt').textContent=c+' παίκτες';}
+['q','fp','fd','fg'].forEach(i=>{const e=$(i);if(e)e.addEventListener('input',f);});f();})();</script>"""
+        nwiki = sum(1 for p in ps if p["wiki"])
+        body = f"""<h1>{esc(T['label'])} <span class="sub">όλοι οι παίκτες του Ολυμπιακού</span></h1>
+<p class="lead">{len(ps)} παίκτες που έχουν αγωνιστεί στον Ολυμπιακό ({esc(T['label'].lower())}), οι {nwiki} με link στο βιογραφικό τους. Πρώτοι όσοι ήρθαν πιο πρόσφατα.</p>
+{filt}<ul class="plist">{''.join(li)}</ul>{js}
+{shop_box(TEAM["olympiakos-bc" if key == "mpasket" else "olympiakos"], "paiktes-olon", "Φανέλες Ολυμπιακού με όνομα παίκτη")}
+<p class="note">Η λίστα συγκεντρώνεται αυτόματα από το Wikidata (τη βάση δεδομένων της Wikipedia) και ενημερώνεται κάθε εβδομάδα. Περιλαμβάνει όσους έχουν καταχωριστεί εκεί ως παίκτες του Ολυμπιακού, οπότε μπορεί να λείπουν κάποιοι, κυρίως από παλαιότερες δεκαετίες. Τα χρόνια στην ομάδα εμφανίζονται όπου υπάρχουν.</p>"""
+        write_root(f"paiktes/{key}.html", page(f"Όλοι οι παίκτες του Ολυμπιακού – {T['label']} | Red Madness",
+                   f"Όλοι οι {len(ps)} παίκτες του Ολυμπιακού στο τμήμα {T['label'].lower()}, με θέση, εθνικότητα, χρόνια στην ομάδα και link στο βιογραφικό τους.",
+                   body, "", [("/paiktes/", "Παίκτες όλων των εποχών"), ("", T["label"])], f"/paiktes/{key}.html"))
+        urls.append(f"/paiktes/{key}.html")
+        cards.append(f'<a class="card" href="/paiktes/{key}.html"><h2>{esc(T["label"])}</h2><p class="big">{len(ps)} παίκτες</p><p>{nwiki} με βιογραφικό</p></a>')
+    body = f"""<h1>Παίκτες όλων των εποχών</h1>
+<p class="lead">Όλοι οι παίκτες που φόρεσαν τη φανέλα του Ολυμπιακού, ανά τμήμα, με link στο βιογραφικό τους.</p>
+<div class="cards">{''.join(cards)}</div>
+<p class="note">Πηγή: Wikidata, με ενημέρωση κάθε εβδομάδα.</p>"""
+    write_root("paiktes/index.html", page("Παίκτες όλων των εποχών του Ολυμπιακού | Red Madness",
+               "Όλοι οι παίκτες του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο, με θέση, εθνικότητα, χρόνια στην ομάδα και βιογραφικό.",
+               body, "", [("", "Παίκτες όλων των εποχών")], "/paiktes/"))
+    return urls
+
 def san_simera():
     rows = []
     for x in csv.DictReader(open(os.path.join(H, "olympiakos_superleague_matches.csv"), encoding="utf-8-sig")):
@@ -833,7 +931,7 @@ def home():
 {vv}</div>
 <aside class="hside">{shop_box(TEAM["olympiakos"], "arxiki", "Φανέλες Ολυμπιακού 2026/27", "Εντός, εκτός και τρίτη εμφάνιση adidas, με όνομα παίκτη.")}
 {tb}{ss}
-<h2>Αρχείο</h2><ul class="list"><li><a href="/stigmes/"><b>Οι μεγαλύτερες ευρωπαϊκές στιγμές</b></a></li><li><a href="/arxeio/podosfairo/">Super League από το 1994</a></li><li><a href="/arxeio/euroleague/">Euroleague από το 2000</a></li><li><a href="/arxeio/euroleague/paiktes/">Παίκτες μπάσκετ</a></li><li><a href="/eshop/">E-shop ομάδων</a></li></ul>
+<h2>Αρχείο</h2><ul class="list"><li><a href="/stigmes/"><b>Οι μεγαλύτερες ευρωπαϊκές στιγμές</b></a></li><li><a href="/paiktes/">Παίκτες όλων των εποχών</a></li><li><a href="/arxeio/podosfairo/">Super League από το 1994</a></li><li><a href="/arxeio/euroleague/">Euroleague από το 2000</a></li><li><a href="/arxeio/euroleague/paiktes/">Παίκτες μπάσκετ</a></li><li><a href="/eshop/">E-shop ομάδων</a></li></ul>
 <p class="cal"><a href="/olympiakos.ics">📅 Βάλε τα ματς στο ημερολόγιό σου</a></p>
 </aside></div>"""
     write_root("index.html", page("Red Madness – Ολυμπιακός: ειδήσεις, πού θα δείτε τον αγώνα, βαθμολογία, αρχείο",
@@ -978,12 +1076,12 @@ def main():
 </div>
 <div class="cards"><a class="card" href="/san-simera/"><h2>📅 Σαν σήμερα</h2><p>Τι έκανε ο Ολυμπιακός σαν σήμερα, κάθε μέρα του χρόνου.</p></a>
 <a class="card" href="/arxeio/euroleague/paiktes/"><h2>👤 Παίκτες</h2><p>Όλοι οι παίκτες του Ολυμπιακού στην Euroleague από το 2010-11.</p></a></div>
-<div class="cards"><a class="card" href="/stigmes/"><h2>🏆 Ευρωπαϊκές στιγμές</h2><p>Ρώμη 1997, Κωνσταντινούπολη 2012, Conference League 2024, Αθήνα 2026 και όλες οι μεγάλες βραδιές στην Ευρώπη.</p></a></div>"""
+<div class="cards"><a class="card" href="/paiktes/"><h2>👥 Παίκτες όλων των εποχών</h2><p>Όλοι οι παίκτες του Ολυμπιακού σε όλα τα τμήματα, με βιογραφικό.</p></a><a class="card" href="/stigmes/"><h2>🏆 Ευρωπαϊκές στιγμές</h2><p>Ρώμη 1997, Κωνσταντινούπολη 2012, Conference League 2024, Αθήνα 2026 και όλες οι μεγάλες βραδιές στην Ευρώπη.</p></a></div>"""
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); prev = previews(); simera(); home(); calendar_ics()
-    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + [f"/san-simera/{d}.html" for d in days] + PAGES
+    eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); apl = all_players(); prev = previews(); simera(); home(); calendar_ics()
+    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"

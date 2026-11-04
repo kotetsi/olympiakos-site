@@ -126,3 +126,14 @@ table.facts{border-collapse:collapse;margin:14px 0 22px;width:100%;max-width:640
 table.facts th,table.facts td{text-align:left;padding:9px 14px;border-bottom:1px solid var(--line);font-size:15px;vertical-align:top}
 table.facts th{color:var(--muted);font-weight:600;width:38%}
 table.facts tr:last-child th,table.facts tr:last-child td{border-bottom:0}
+.pf{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 14px}
+.pf input,.pf select{font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);min-width:0}
+.pf input{flex:1 1 220px}
+.plist{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:14px;background:var(--card);overflow:hidden}
+.plist li{display:grid;grid-template-columns:1fr auto auto;gap:6px 16px;align-items:center;padding:11px 16px;border-bottom:1px solid var(--line)}
+.plist li:last-child{border-bottom:0}
+.plist .pn b{font-size:16px}
+.plist .pm{display:block;color:var(--muted);font-size:13px;margin-top:2px}
+.plist .pp{font-variant-numeric:tabular-nums;color:var(--muted);font-size:14px;white-space:nowrap}
+.plist .pl{display:flex;gap:12px;flex-wrap:wrap;justify-content:flex-end;font-size:14px;font-weight:600}
+@media (max-width:640px){.plist li{grid-template-columns:1fr}.plist .pl{justify-content:flex-start}}
