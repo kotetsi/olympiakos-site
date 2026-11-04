@@ -854,6 +854,7 @@ def previews():
         sp = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}.get(m["sport"], "")
         body = f"""<h1>{esc(m['home'])} – {esc(m['away'])} <span class="sub">{sp}</span></h1>
 <div class="next"><span class="shop-k">{'Ο αγώνας έχει γίνει' if past else 'Πού θα το δω'}</span><b>{when}, {hhmm}</b><span class="chs">{chs}</span></div>
+{'' if past else '<div id="rm-live" class="live" hidden aria-live="polite"></div><script src="/assets/live.js" defer></script>'}
 <p class="lead">{'' if past else f"Ο αγώνας {esc(m['home'])} – {esc(m['away'])} μεταδίδεται ζωντανά {('στο ' + ', '.join(m['channels'])) if m['channels'] else ''} {'το' if st.weekday() == 5 else 'την'} {when} στις {hhmm}."}</p>
 {hist}{form}{vh}{boxes}
 <p><a href="/tv/">Όλες οι μεταδόσεις του Ολυμπιακού →</a></p>"""
@@ -926,7 +927,7 @@ def home():
             for v in vids[:3]) + '</div><p><a href="/videos/">Όλα τα βίντεο →</a></p>'
     body = f"""<h1 class="vh">Red Madness: όλα για τον Ολυμπιακό</h1>
 <div class="home">
-<div class="hmain">{hero}
+<div class="hmain"><div id="rm-live" class="live" hidden aria-live="polite"></div><script src="/assets/live.js" defer></script>{hero}
 <h2>Τελευταίες ειδήσεις</h2><ul class="list news">{nl}</ul><p><a href="/news.html">Όλες οι ειδήσεις →</a></p>
 {vv}</div>
 <aside class="hside">{shop_box(TEAM["olympiakos"], "arxiki", "Φανέλες Ολυμπιακού 2026/27", "Εντός, εκτός και τρίτη εμφάνιση adidas, με όνομα παίκτη.")}
@@ -967,6 +968,7 @@ def simera():
             f'<li><a href="/agones/{k}.html">{esc(m["home"])} – {esc(m["away"])}</a> <span class="mut">{DAYS_GR[st.weekday()]} {st.day}/{st.month}'
             f'{"" if m.get("no_time") else f" {st:%H:%M}"}{" · " + esc(", ".join(m["channels"])) if m["channels"] else ""} · {SPN.get(m["sport"], "")}</span></li>' for k, m, st in week) + "</ul>"
     body = f"""<h1>Ολυμπιακός σήμερα <span class="sub">{dstr}</span></h1>
+<div id="rm-live" class="live" hidden aria-live="polite"></div><script src="/assets/live.js" defer></script>
 {top}{wl}
 <p><a href="/tv/">Όλες οι τηλεοπτικές μεταδόσεις →</a> · <a href="/san-simera/{today:%m-%d}.html">Σαν σήμερα στην ιστορία →</a> · <a href="/olympiakos.ics">📅 Τα ματς στο ημερολόγιό σου</a></p>
 {shop_box(TEAM["olympiakos"], "simera", "Φόρα τη φανέλα στο ματς", "Οι εμφανίσεις του Ολυμπιακού 2026/27 με όνομα παίκτη, στο Sport Arena.")}
