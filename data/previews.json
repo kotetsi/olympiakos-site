@@ -10,7 +10,8 @@
    "COSMOTE SPORT 3"
   ],
   "sport": "football",
-  "b_team": false
+  "b_team": false,
+  "comp": "UEFA Europa League 2026-27"
  },
  "2026-11-06-olympiakos-erythros-asteras": {
   "title": "Ολυμπιακός - Ερυθρός Αστέρας",
@@ -23,7 +24,8 @@
    "Novasports Prime"
   ],
   "sport": "basket",
-  "b_team": false
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  },
  "2026-11-07-olympiakos-floisvos": {
   "title": "Ολυμπιακός - Φλοίσβος",
@@ -36,7 +38,8 @@
    "ΕΡΤ2"
   ],
   "sport": "volley",
-  "b_team": false
+  "b_team": false,
+  "comp": "Volley League Ανδρών 2026-27"
  },
  "2026-11-08-olympiakos-v-ellas-syroy": {
   "title": "Ολυμπιακός Β' - Ελλάς Σύρου",
@@ -49,7 +52,8 @@
    "ΕΡΤ2"
   ],
   "sport": "football",
-  "b_team": true
+  "b_team": true,
+  "comp": ""
  },
  "2026-11-08-olympiakos-paok": {
   "title": "Ολυμπιακός - ΠΑΟΚ",
