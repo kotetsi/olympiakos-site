@@ -700,10 +700,10 @@
 2020-21,2021-05-09,Εκτός,Αστέρας Τρίπολης,0-0,0,0,Ι,,"Championship, Matchday 8",,,,,openfootball
 2020-21,2021-05-12,Εντός,ΠΑΟΚ,1-0,1,0,Ν,1-0,"Championship, Matchday 9",,,,,openfootball
 2020-21,2021-05-16,Εκτός,Παναθηναϊκός,4-1,4,1,Ν,3-0,"Championship, Matchday 10",,,,,openfootball
-2020-21,2021-09-18,Εντός,Αστέρας Τρίπολης,3-0,3,0,Ν,0-0,Matchday 2,,,,,openfootball
-2020-21,2021-09-26,Εντός,Παναιτωλικός,2-0,2,0,Ν,0-0,Matchday 3,,,,,openfootball
-2020-21,2021-10-04,Εκτός,ΠΑΣ Γιάννινα,1-1,1,1,Ι,0-1,Matchday 4,,,,,openfootball
-2020-21,2021-10-17,Εντός,Ατρόμητος,4-0,4,0,Ν,0-0,Matchday 5,,,,,openfootball
+2021-22,2021-09-18,Εντός,Αστέρας Τρίπολης,3-0,3,0,Ν,0-0,Matchday 2,,,,,openfootball
+2021-22,2021-09-26,Εντός,Παναιτωλικός,2-0,2,0,Ν,0-0,Matchday 3,,,,,openfootball
+2021-22,2021-10-04,Εκτός,ΠΑΣ Γιάννινα,1-1,1,1,Ι,0-1,Matchday 4,,,,,openfootball
+2021-22,2021-10-17,Εντός,Ατρόμητος,4-0,4,0,Ν,0-0,Matchday 5,,,,,openfootball
 2023-24,2023-08-20,Εντός,Πανσερραϊκός,2-0,2,0,Ν,0-0,Matchday 1,,,,,openfootball
 2023-24,2023-08-27,Εντός,Ατρόμητος,4-0,4,0,Ν,2-0,Matchday 2,,,,,openfootball
 2023-24,2023-09-03,Εντός,Λαμία,4-0,4,0,Ν,2-0,Matchday 3,,,,,openfootball
@@ -730,6 +730,16 @@
 2023-24,2024-02-25,Εντός,Αστέρας Τρίπολης,2-1,2,1,Ν,0-1,Matchday 24,,,,,openfootball
 2023-24,2024-02-28,Εκτός,Παναιτωλικός,2-1,2,1,Ν,0-1,Matchday 25,,,,,openfootball
 2023-24,2024-03-03,Εντός,Βόλος,3-0,3,0,Ν,2-0,Matchday 26,,,,,openfootball
+2023-24,2024-03-10,Εντός,Παναθηναϊκός,1-3,1,3,Η,1-2,"Championship, Matchday 1",,,,,openfootball
+2023-24,2024-03-31,Εκτός,ΑΕΚ,0-1,0,1,Η,0-0,"Championship, Matchday 2",,,,,openfootball
+2023-24,2024-04-03,Εντός,Άρης,3-0,3,0,Ν,1-0,"Championship, Matchday 3",,,,,openfootball
+2023-24,2024-04-07,Εκτός,Λαμία,5-1,5,1,Ν,3-0,"Championship, Matchday 4",,,,,openfootball
+2023-24,2024-04-21,Εντός,ΠΑΟΚ,2-1,2,1,Ν,1-0,"Championship, Matchday 6",,,,,openfootball
+2023-24,2024-04-24,Εκτός,Άρης,1-1,1,1,Ι,0-0,"Championship, Matchday 7",,,,,openfootball
+2023-24,2024-04-28,Εντός,Λαμία,4-1,4,1,Ν,2-0,"Championship, Matchday 8",,,,,openfootball
+2023-24,2024-05-12,Εκτός,ΠΑΟΚ,0-2,0,2,Η,0-1,"Championship, Matchday 5",,,,,openfootball
+2023-24,2024-05-15,Εντός,ΑΕΚ,2-0,2,0,Ν,0-0,"Championship, Matchday 9",,,,,openfootball
+2023-24,2024-05-19,Εκτός,Παναθηναϊκός,2-2,2,2,Ι,0-1,"Championship, Matchday 10",,,,,openfootball
 2024-25,2024-08-17,Εκτός,Βόλος,2-0,2,0,Ν,1-0,Matchday 1,,,,,openfootball
 2024-25,2024-08-26,Εντός,Καλλιθέα,2-1,2,1,Ν,1-0,Matchday 2,,,,,openfootball
 2024-25,2024-08-31,Εκτός,Λαμία,3-0,3,0,Ν,1-0,Matchday 3,,,,,openfootball
@@ -756,22 +766,12 @@
 2024-25,2025-02-23,Εντός,ΠΑΟΚ,2-1,2,1,Ν,2-1,Matchday 24,,,,,openfootball
 2024-25,2025-03-02,Εκτός,ΑΕΚ,1-0,1,0,Ν,0-0,Matchday 25,,,,,openfootball
 2024-25,2025-03-09,Εντός,ΟΦΗ,1-0,1,0,Ν,1-0,Matchday 26,,,,,openfootball
-2023-24,2025-03-10,Εντός,Παναθηναϊκός,1-3,1,3,Η,1-2,"Championship, Matchday 1",,,,,openfootball
 2024-25,2025-03-30,Εντός,Παναθηναϊκός,4-2,4,2,Ν,2-1,"Championship, Matchday 1",,,,,openfootball
-2023-24,2025-03-31,Εκτός,ΑΕΚ,0-1,0,1,Η,0-0,"Championship, Matchday 2",,,,,openfootball
-2023-24,2025-04-03,Εντός,Άρης,3-0,3,0,Ν,1-0,"Championship, Matchday 3",,,,,openfootball
 2024-25,2025-04-06,Εκτός,ΠΑΟΚ,1-2,1,2,Η,0-2,"Championship, Matchday 2",,,,,openfootball
-2023-24,2025-04-07,Εκτός,Λαμία,5-1,5,1,Ν,3-0,"Championship, Matchday 4",,,,,openfootball
 2024-25,2025-04-13,Εντός,ΑΕΚ,1-0,1,0,Ν,0-0,"Championship, Matchday 3",,,,,openfootball
-2023-24,2025-04-21,Εντός,ΠΑΟΚ,2-1,2,1,Ν,1-0,"Championship, Matchday 6",,,,,openfootball
-2023-24,2025-04-24,Εκτός,Άρης,1-1,1,1,Ι,0-0,"Championship, Matchday 7",,,,,openfootball
 2024-25,2025-04-27,Εκτός,ΑΕΚ,2-0,2,0,Ν,1-0,"Championship, Matchday 4",,,,,openfootball
-2023-24,2025-04-28,Εντός,Λαμία,4-1,4,1,Ν,2-0,"Championship, Matchday 8",,,,,openfootball
 2024-25,2025-05-04,Εντός,ΠΑΟΚ,4-2,4,2,Ν,2-2,"Championship, Matchday 5",,,,,openfootball
 2024-25,2025-05-11,Εκτός,Παναθηναϊκός,1-0,1,0,Ν,0-0,"Championship, Matchday 6",,,,,openfootball
-2023-24,2025-05-12,Εκτός,ΠΑΟΚ,0-2,0,2,Η,0-1,"Championship, Matchday 5",,,,,openfootball
-2023-24,2025-05-15,Εντός,ΑΕΚ,2-0,2,0,Ν,0-0,"Championship, Matchday 9",,,,,openfootball
-2023-24,2025-05-19,Εκτός,Παναθηναϊκός,2-2,2,2,Ι,0-1,"Championship, Matchday 10",,,,,openfootball
 2025-26,2025-08-23,Εντός,Αστέρας Τρίπολης,2-0,2,0,Ν,0-0,1. Round,,,,,openfootball
 2025-26,2025-08-30,Εκτός,Βόλος,2-0,2,0,Ν,0-0,2. Round,,,,,openfootball
 2025-26,2025-09-13,Εντός,Πανσερραϊκός,5-0,5,0,Ν,0-0,3. Round,,,,,openfootball

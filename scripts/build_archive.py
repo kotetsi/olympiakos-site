@@ -748,7 +748,57 @@ SPORT_EN = {"football": "Soccer", "basket": "Basketball", "volley": "Volleyball"
 HOME_GROUND = {"football": "Γήπεδο Γεώργιος Καραϊσκάκης", "basket": "Στάδιο Ειρήνης και Φιλίας (ΣΕΦ)"}
 OLY_ORG = {"@type": "Organization", "name": "Red Madness", "url": SITE + "/", "logo": SITE + "/assets/icon-512.png"}
 
-def event_ld(m, key):
+KEEP_DAYS = 400  # πόσο καιρό κρατάμε τις σελίδες αγώνων (μετά το ματς γίνονται σελίδες αποτελέσματος)
+
+def comp_of(info):
+    """Η διοργάνωση από την περιγραφή του προγράμματος TV, π.χ. «UEFA Europa League 2026-27»."""
+    m = re.match(r"\s*([^.]{3,60}?\d{4}(?:[-/]\d{2,4})?)\.", info or "")
+    return m.group(1).strip() if m else ""
+
+def plur(n, one, many):
+    return f"{n} {one if n == 1 else many}"
+
+def wdl_text(r, draws=True, who=" του Ολυμπιακού"):
+    """«5 νίκες, 1 ισοπαλία και 2 ήττες», χωρίς τα μηδενικά."""
+    parts = [x for x in ((r["W"], f"νίκη{who}", f"νίκες{who}"), (r["D"] if draws else 0, "ισοπαλία", "ισοπαλίες"), (r["L"], "ήττα", "ήττες")) if x[0]]
+    parts = [plur(*x) for x in parts]
+    return parts[0] if len(parts) == 1 else ", ".join(parts[:-1]) + " και " + parts[-1]
+
+def h2h_facts(rows, opp, scope, draws=True):
+    """Δύο-τρεις προτάσεις για το ιστορικό, φτιαγμένες από τα δεδομένα (μοναδικό κείμενο ανά σελίδα)."""
+    if not rows: return [f"Στο αρχείο μας δεν υπάρχει προηγούμενη αναμέτρηση με {esc(opp)} {scope}."]
+    r = rec(rows, draws)
+    s = (f"Στο αρχείο μας, Ολυμπιακός και {esc(opp)} έχουν βρεθεί αντιμέτωποι {plur(r['P'], 'φορά', 'φορές')} {scope}: "
+         f"{wdl_text(r, draws)}, με συνολικό σκορ {r['F']}-{r['A']}.")
+    home = [x for x in rows if x["venue"] == "Εντός"]
+    if len(home) >= 3 and draws:
+        h = rec(home, draws)
+        s += f" Στην έδρα του ο Ολυμπιακός μετράει {h['W']}-{h['D']}-{h['L']} σε {h['P']} ματς."
+    last = rows[-1]
+    verb = {"Ν": "νίκησε", "Ι": "έφερε ισοπαλία", "Η": "ηττήθηκε"}[last["result"]]
+    s += f" Στην πιο πρόσφατη αναμέτρηση του αρχείου ({d_gr(last['date'])}, {'εντός' if last['venue'] == 'Εντός' else 'εκτός'} έδρας) ο Ολυμπιακός {verb} με {last['score']}."
+    # (χωρίς ισχυρισμούς για σερί: το αρχείο έχει κενά σεζόν και ένα σερί θα μπορούσε να είναι λάθος)
+    return [s]
+
+def table_fact(opp):
+    p = os.path.join(H, "superleague_current.json")
+    if not os.path.exists(p): return []
+    tb = json.load(open(p, encoding="utf-8")).get("table", [])
+    pos = {t["team"]: (i + 1, t) for i, t in enumerate(tb)}
+    if "Ολυμπιακός" not in pos or opp not in pos: return []
+    (a, ta), (b, tb_) = pos["Ολυμπιακός"], pos[opp]
+    diff = ta["Pts"] - tb_["Pts"]
+    gap = (f"ο Ολυμπιακός είναι {plur(abs(diff), 'βαθμό', 'βαθμούς')} {'μπροστά' if diff > 0 else 'πίσω'}" if diff else "οι δύο ομάδες είναι ισόβαθμες")
+    return [f"Στη βαθμολογία της Super League ο Ολυμπιακός είναι στην {a}η θέση με {ta['Pts']} βαθμούς και {esc(opp)} στην {b}η θέση με {tb_['Pts']}, "
+            f"άρα {gap}."]
+
+def form_fact(last5):
+    r = rec([dict(x, f=int(x["gf"]), a=int(x["ga"])) for x in last5])
+    seq = " ".join(x["result"] for x in last5)
+    txt = f"{len(last5)} νίκες στα {len(last5)}" if r["W"] == len(last5) else wdl_text(r, who="")
+    return [f"Στα τελευταία {len(last5)} ματς πρωταθλήματος ο Ολυμπιακός έχει {txt} ({seq}), με γκολ {r['F']}-{r['A']}."]
+
+def event_ld(m, key, result=None):
     """schema.org SportsEvent για τα αποτελέσματα αναζήτησης του Google."""
     from datetime import datetime, timedelta
     st = datetime.fromisoformat(m["start"]); dur = {"football": 2, "basket": 2}.get(m["sport"], 2)
@@ -760,8 +810,12 @@ def event_ld(m, key):
           "competitor": [team(m["home"]), team(m["away"])], "url": f"{SITE}/agones/{key}.html", "image": [f"{SITE}/assets/og/{key}.png"],
           "location": {"@type": "Place", "name": (HOME_GROUND.get(m["sport"], "Πειραιάς") if not m.get("b_team") else "Πειραιάς") if m["oly_home"] else f"Γήπεδο {m['home']}",
                        **({"address": {"@type": "PostalAddress", "addressLocality": "Πειραιάς", "addressCountry": "GR"}} if m["oly_home"] else {})},
-          "description": f"{m['home']} – {m['away']}" + (f", ζωντανά στο {', '.join(m['channels'])}" if m["channels"] else "") + ".",
-          "organizer": OLY_ORG}
+          "description": f"{m['home']} – {m['away']}" + (f" ({m['comp']})" if m.get("comp") else "")
+                         + (f", ζωντανά στο {', '.join(m['channels'])}" if m["channels"] else "") + "."}
+    if result:  # μετά τον αγώνα: το τελικό σκορ στην περιγραφή
+        sc = f"{result['gf']}-{result['ga']}" if m["oly_home"] else f"{result['ga']}-{result['gf']}"
+        ev["description"] = f"{m['home']} – {m['away']} {sc}" + (f" ({m['comp']})" if m.get("comp") else "") + "."
+    # (δεν δηλώνουμε organizer: το site δεν διοργανώνει τον αγώνα)
     return ev
 
 def previews():
@@ -782,7 +836,8 @@ def previews():
             key = f'{st:%Y-%m-%d}-{slug(t)}'
             for k0 in [k for k, v in store.items() if v["start"][:10] == key[:10] and not v["channels"] and nrm(opp)[:4] in nrm(v["opp"])]: store.pop(k0)
             store[key] = dict(title=t, home=parts[0], away=parts[1], opp=opp, oly_home=home_oly, start=it["start"],
-                              channels=it["channels"], sport=it["sport"], b_team="β'" in nrm(t) or " β " in nrm(t) + " ")
+                              channels=it["channels"], sport=it["sport"], b_team="β'" in nrm(t) or " β " in nrm(t) + " ",
+                              comp=comp_of(it.get("info", "")) or store.get(key, {}).get("comp", ""))
     # αγώνες πρωταθλήματος από το πρόγραμμα της διοργάνωσης, ακόμα κι αν δεν έχει βγει κανάλι
     cp = os.path.join(H, "superleague_current.json")
     if os.path.exists(cp):
@@ -794,8 +849,9 @@ def previews():
             t = f"{home} - {away}"; key = f'{st:%Y-%m-%d}-{slug(t)}'
             store[key] = dict(title=t, home=home, away=away, opp=u["opponent"], oly_home=u["venue"] == "Εντός",
                               start=st.astimezone(timezone.utc).isoformat(timespec="minutes"), channels=[], sport="football", b_team=False,
-                              no_time=not u["time"])
-    store = {k: v for k, v in store.items() if datetime.fromisoformat(v["start"]) > now - timedelta(days=45)}
+                              no_time=not u["time"], comp="Super League")
+    # οι σελίδες αγώνων μένουν online και στο sitemap για έναν χρόνο (γίνονται σελίδες αποτελέσματος)
+    store = {k: v for k, v in store.items() if datetime.fromisoformat(v["start"]) > now - timedelta(days=KEEP_DAYS)}
     json.dump(store, open(store_p, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     # αρχεία για ιστορικό
     fb = list(csv.DictReader(open(os.path.join(H, "olympiakos_superleague_matches.csv"), encoding="utf-8-sig")))
@@ -816,20 +872,30 @@ def previews():
     for key, m in sorted(store.items(), key=lambda kv: kv[1]["start"]):
         st = datetime.fromisoformat(m["start"]).astimezone(ath)
         when = f'{DAYS_GR[st.weekday()]} {st.day}/{st.month}/{st.year}'; hhmm = f"{st:%H:%M}"
+        dshort = f'{DAYS_GR[st.weekday()][:3]} {st.day}/{st.month}'
         past = datetime.fromisoformat(m["start"]) < now - timedelta(hours=3)
-        hist = ""; form = ""; opp_link = ""; shop_opp = None
+        mday = f"{st:%Y-%m-%d}"
+        hist = ""; form = ""; opp_link = ""; shop_opp = None; facts = []; result = None
         if m["sport"] == "football" and not m["b_team"]:
             on = find(fb_opps, m["opp"])
             if on:
                 rs = sorted([r for r in fb if r["opponent"] == on], key=lambda r: r["date"])
                 for r in rs: r["f"], r["a"] = int(r["gf"]), int(r["ga"])
+                # το αποτέλεσμα του ίδιου του αγώνα, όταν έχει μπει στο αρχείο (ίδια μέρα ±1)
+                same = [r for r in rs if abs((date.fromisoformat(r["date"]) - st.date()).days) <= 1]
+                if past and same: result = same[-1]
+                before = [r for r in rs if r["date"] < mday and r not in same]
                 rr = rec(rs); opp_link = f"/arxeio/podosfairo/antipaloi/{slug(on)}.html"
                 hist = (f'<h2>Ιστορικό στο πρωτάθλημα</h2>{kpis([("Αγώνες", rr["P"]), ("Νίκες Ολυμπιακού", rr["W"]), ("Ισοπαλίες", rr["D"]), ("Ήττες", rr["L"]), ("Γκολ", str(rr["F"]) + "-" + str(rr["A"]))])}'
                         + table(["Ημ/νία", "Σεζόν", "Έδρα", "Σκορ", ""], [[d_gr(r["date"]), f'<a href="/arxeio/podosfairo/{r["season"]}.html">{r["season"]}</a>', r["venue"], f'<b>{r["score"]}</b>', res_badge(r["result"])] for r in reversed(rs[-6:])])
                         + f'<p><a href="{opp_link}">Όλα τα {rr["P"]} ματς με {esc(on)} →</a></p>')
                 shop_opp = FB_TEAM.get(on)
-            last5 = sorted(fb, key=lambda r: r["date"])[-5:]
-            form = '<h2>Φόρμα Ολυμπιακού <span class="sub">τελευταία 5 ματς πρωταθλήματος</span></h2>' + table(["Ημ/νία", "Αντίπαλος", "Σκορ", ""], [[d_gr(r["date"]), esc(r["opponent"]), f'<b>{r["score"]}</b>', res_badge(r["result"])] for r in reversed(last5)])
+                facts += h2h_facts(before, on, "στη Super League από το 1994", draws=True)
+                if not past: facts += table_fact(on)
+            last5 = sorted([r for r in fb if r["date"] < mday], key=lambda r: r["date"])[-5:]
+            if last5:
+                form = '<h2>Φόρμα Ολυμπιακού <span class="sub">' + ('πριν από τον αγώνα' if past else 'τελευταία 5 ματς πρωταθλήματος') + '</span></h2>' + table(["Ημ/νία", "Αντίπαλος", "Σκορ", ""], [[d_gr(r["date"]), esc(r["opponent"]), f'<b>{r["score"]}</b>', res_badge(r["result"])] for r in reversed(last5)])
+                facts += form_fact(last5)
         elif m["sport"] == "basket":
             code = find(el_by_name, m["opp"])
             if code:
@@ -840,6 +906,7 @@ def previews():
                         + table(["Ημ/νία", "Σεζόν", "Έδρα", "Σκορ", ""], [[d_gr(g["date"]), f'<a href="/arxeio/euroleague/{g["season_label"]}.html">{g["season_label"]}</a>', g["venue"], f'<a href="/arxeio/euroleague/agones/{g["season_label"]}-{g["game_code"]}.html"><b>{g["score"]}</b></a>', res_badge(g["result"])] for g in reversed(gs[-6:])])
                         + f'<p><a href="{opp_link}">Όλα τα {rr["P"]} ματς με {esc(m["opp"])} →</a></p>')
                 shop_opp = EL_TEAM.get(code)
+                facts += h2h_facts([g for g in gs if g["date"] < mday], m["opp"], f"στην Euroleague ({gs[0]['date'][:4]}–{gs[-1]['date'][:4]})", draws=False)
         if not hist and not m["b_team"]:
             hist = '<p class="note">Δεν υπάρχει προηγούμενη αναμέτρηση στο αρχείο μας (Super League από το 1994, Euroleague από το 2000).</p>'
         hv = [v for v in vids if v.get("highlights") and v["sport"] == m["sport"]][:2]
@@ -852,16 +919,45 @@ def previews():
         boxes = shop_box(TEAM["olympiakos-bc" if m["sport"] == "basket" else "olympiakos"], "proepiskopisi", "Φόρα τη φανέλα στο ματς", "Οι εμφανίσεις του Ολυμπιακού 2026/27, με όνομα παίκτη, στο Sport Arena.")
         if shop_opp: boxes = f'<div class="shops">{boxes}{shop_box(shop_opp, "proepiskopisi")}</div>'
         sp = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}.get(m["sport"], "")
-        body = f"""<h1>{esc(m['home'])} – {esc(m['away'])} <span class="sub">{sp}</span></h1>
-<div class="next"><span class="shop-k">{'Ο αγώνας έχει γίνει' if past else 'Πού θα το δω'}</span><b>{when}, {hhmm}</b><span class="chs">{chs}</span></div>
+        vs = f"{m['home']} – {m['away']}"
+        comp = m.get("comp", "")
+        ch_txt = ", ".join(m["channels"])
+        art = "το" if st.weekday() == 5 else "την"
+        at = "" if m.get("no_time") else f" στις {hhmm}"
+        extra = " Ιστορικό αναμετρήσεων και φόρμα του Ολυμπιακού." if (facts or form) else ""
+        # ---- κείμενα της σελίδας: πριν (ώρα/κανάλι), μετά (αποτέλεσμα)
+        if result:
+            sc = f"{result['gf']}-{result['ga']}" if m["oly_home"] else f"{result['ga']}-{result['gf']}"  # με τη σειρά γηπεδούχος-φιλοξενούμενος
+            verdict = {"Ν": "νίκη του Ολυμπιακού", "Ι": "ισοπαλία", "Η": "ήττα του Ολυμπιακού"}[result["result"]]
+            h1 = f"{esc(m['home'])} – {esc(m['away'])} {sc}"
+            title = f"{vs} {sc}: αποτέλεσμα και ιστορικό ({st.day}/{st.month}/{st.year})"
+            desc = f"{vs} {sc} ({verdict}) {art} {when}{(' (' + comp + ')') if comp else ''}.{extra}"
+            lead = f"Ο αγώνας {esc(vs)}{(' (' + esc(comp) + ')') if comp else ''} έληξε <b>{sc}</b> ({verdict}) {art} {when}."
+            box_k, box_b = "Τελικό αποτέλεσμα", f"{sc} · {when}"
+        elif past:
+            h1 = f"{esc(m['home'])} – {esc(m['away'])}"
+            title = f"{vs}: ο αγώνας της {st.day}/{st.month}/{st.year}, ιστορικό και φόρμα"
+            desc = f"{vs} {art} {when}{(' (' + comp + ')') if comp else ''}{(', μετάδοση: ' + ch_txt) if ch_txt else ''}.{extra}"
+            lead = f"Ο αγώνας {esc(vs)}{(' (' + esc(comp) + ')') if comp else ''} έγινε {art} {when}{at}."
+            box_k, box_b = "Ο αγώνας έχει γίνει", f"{when}, {hhmm}"
+        else:
+            h1 = f"{esc(m['home'])} – {esc(m['away'])}: ώρα και κανάλι"
+            title = f"{vs}: σε ποιο κανάλι και τι ώρα ({dshort})"
+            desc = (f"{vs} {art} {when}{at}" + (f", ζωντανά στο {ch_txt}" if ch_txt else ", το κανάλι θα ανακοινωθεί") + "."
+                    + (f" {comp}." if comp else "") + extra)
+            lead = (f"Ο αγώνας {esc(vs)}" + (f" ({esc(comp)})" if comp else "") + f" γίνεται {art} {when}{at}"
+                    + (f" και μεταδίδεται ζωντανά στο <b>{esc(ch_txt)}</b>." if ch_txt else ". Το τηλεοπτικό κανάλι δεν έχει ανακοινωθεί ακόμα· η σελίδα ενημερώνεται αυτόματα μόλις βγει το πρόγραμμα."))
+            box_k, box_b = "Πού θα το δω", f"{when}, {hhmm}"
+        about = ("<h2>Η αναμέτρηση σε αριθμούς</h2><p>" + " ".join(facts) + "</p>") if facts else ""
+        body = f"""<h1>{h1} <span class="sub">{sp}</span></h1>
+<div class="next"><span class="shop-k">{box_k}</span><b>{box_b}</b><span class="chs">{chs}</span></div>
 {'' if past else '<div id="rm-live" class="live" hidden aria-live="polite"></div><script src="/assets/live.js" defer></script>'}
-<p class="lead">{'' if past else f"Ο αγώνας {esc(m['home'])} – {esc(m['away'])} μεταδίδεται ζωντανά {('στο ' + ', '.join(m['channels'])) if m['channels'] else ''} {'το' if st.weekday() == 5 else 'την'} {when} στις {hhmm}."}</p>
-{hist}{form}{vh}{boxes}
-<p><a href="/tv/">Όλες οι μεταδόσεις του Ολυμπιακού →</a></p>"""
-        write_root(f"agones/{key}.html", page(f"{m['home']} – {m['away']}: ώρα, κανάλι και ιστορικό ({st.day}/{st.month}) | Red Madness",
-                   f"{m['home']} – {m['away']} {when} στις {hhmm}{(' στο ' + ', '.join(m['channels'])) if m['channels'] else ''}. Πού θα δείτε τον αγώνα, ιστορικό αναμετρήσεων και φόρμα.",
-                   body, "tv", [("/tv/", "Πού θα το δω"), ("", f"{m['home']} – {m['away']}")], f"/agones/{key}.html",
-                   og_image=f"/assets/og/{key}.png", ld=[event_ld(m, key)]))
+<p class="lead">{lead}</p>
+{about}{hist}{form}{vh}{boxes}
+<p><a href="/tv/">Όλες οι μεταδόσεις του Ολυμπιακού →</a> · <a href="/simera/">Ολυμπιακός σήμερα →</a></p>"""
+        write_root(f"agones/{key}.html", page(title + (" | Red Madness" if len(title) <= 55 else ""), desc,
+                   body, "tv", [("/tv/", "Πού θα το δω"), ("", vs)], f"/agones/{key}.html",
+                   og_image=f"/assets/og/{key}.png", ld=[event_ld(m, key, result)]))
         links[f'{m["title"]}|{m["start"][:13]}'] = f"/agones/{key}.html"
         idx.append((m["start"], key, m, past))
     # η σελίδα /tv/ συνδέει κάθε μετάδοση με την προεπισκόπησή της
@@ -873,7 +969,8 @@ def previews():
             k = f'{st:%Y-%m-%d}-{slug(t)}'
             if k in store: tl[it["title"] + "|" + it["start"]] = f"/agones/{k}.html"
     json.dump(tl, open(os.path.join(ROOT, "data", "tv_links.json"), "w", encoding="utf-8"), ensure_ascii=False)
-    return [f"/agones/{k}.html" for _, k, _, past in idx if not past]
+    # όλες οι σελίδες αγώνων μπαίνουν στο sitemap: οι επερχόμενοι για «κανάλι/ώρα», οι περασμένοι για «αποτέλεσμα»
+    return [f"/agones/{k}.html" for _, k, _, past in sorted(idx, key=lambda x: x[0], reverse=True)]
 
 def home():
     """Αρχική σελίδα: όλα τα κομμάτια του site σε μία ματιά. Ξαναφτιάχνεται σε κάθε εκτέλεση του workflow."""
@@ -992,8 +1089,10 @@ def calendar_ics():
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     L = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Red Madness//Olympiakos//EL", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
          "X-WR-CALNAME:Ολυμπιακός · Red Madness", "X-WR-TIMEZONE:Europe/Athens", "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
+    cut = datetime.now(timezone.utc) - timedelta(days=45)  # το ημερολόγιο μένει ελαφρύ: μόνο οι πρόσφατοι και οι επόμενοι αγώνες
     for k, m in sorted(store.items(), key=lambda kv: kv[1]["start"]):
         st = datetime.fromisoformat(m["start"]).astimezone(timezone.utc)
+        if st < cut: continue
         dur = 2 if m["sport"] == "basket" else 2.25
         ch = ", ".join(m["channels"]) or "κανάλι προς ανακοίνωση"
         L += ["BEGIN:VEVENT", f"UID:{k}@redmadness.gr", f"DTSTAMP:{now}", f"DTSTART:{st:%Y%m%dT%H%M%SZ}", f"DTEND:{st + timedelta(hours=dur):%Y%m%dT%H%M%SZ}",
@@ -1085,8 +1184,21 @@ def main():
     eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); apl = all_players(); prev = previews(); simera(); home(); calendar_ics()
     urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
+    # lastmod = η μέρα που άλλαξε πραγματικά το περιεχόμενο της σελίδας (όχι σήμερα για όλες),
+    # ώστε το Google να ξαναδιαβάζει πρώτα όσες άλλαξαν (π.χ. βγήκε κανάλι ή αποτέλεσμα)
+    import hashlib
+    lm_p = os.path.join(ROOT, "data", "lastmod.json")
+    old = json.load(open(lm_p, encoding="utf-8")) if os.path.exists(lm_p) else {}
+    lm = {}
+    for u in dict.fromkeys(urls):
+        f = os.path.join(ROOT, u.lstrip("/") + ("index.html" if u.endswith("/") else ""))
+        if not os.path.exists(f): continue
+        h = hashlib.sha1(open(f, "rb").read()).hexdigest()[:16]
+        prev = old.get(u)
+        lm[u] = prev if prev and prev[0] == h else [h, today]
+    json.dump(lm, open(lm_p, "w", encoding="utf-8"), ensure_ascii=False, indent=0, sort_keys=True)
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
-         "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"
+         "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{lm[u][1]}</lastmod></url>\n" for u in lm) + "</urlset>\n"
     open(os.path.join(ROOT, "sitemap.xml"), "w", encoding="utf-8").write(sm)
     open(os.path.join(ROOT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
     print(f"σελίδες αρχείου: {len(PAGES)}")

@@ -1,0 +1,5442 @@
+{
+"/": [
+"99fb348cc3b36576",
+"2026-11-04"
+],
+"/agones/2026-11-04-ren-olympiakos.html": [
+"2242467bf309ea3b",
+"2026-11-04"
+],
+"/agones/2026-11-06-olympiakos-erythros-asteras.html": [
+"ef6f4b83a1037a12",
+"2026-11-04"
+],
+"/agones/2026-11-07-olympiakos-floisvos.html": [
+"0506f44e1a101d6b",
+"2026-11-04"
+],
+"/agones/2026-11-08-olympiakos-paok.html": [
+"feefb4c186ced613",
+"2026-11-04"
+],
+"/agones/2026-11-08-olympiakos-v-ellas-syroy.html": [
+"e083781e11d6ad72",
+"2026-11-04"
+],
+"/arxeio/": [
+"08253e4abaa1ded2",
+"2026-11-04"
+],
+"/arxeio/euroleague/": [
+"43e5f00ba3b6d4f7",
+"2026-11-04"
+],
+"/arxeio/euroleague/2000-01.html": [
+"898fc767075b2b99",
+"2026-11-04"
+],
+"/arxeio/euroleague/2001-02.html": [
+"bc2478855802ca64",
+"2026-11-04"
+],
+"/arxeio/euroleague/2002-03.html": [
+"b7f334c42938a19d",
+"2026-11-04"
+],
+"/arxeio/euroleague/2003-04.html": [
+"65a7442d615e88a5",
+"2026-11-04"
+],
+"/arxeio/euroleague/2004-05.html": [
+"134d55b483ff36ea",
+"2026-11-04"
+],
+"/arxeio/euroleague/2005-06.html": [
+"4871dc38e8c09735",
+"2026-11-04"
+],
+"/arxeio/euroleague/2006-07.html": [
+"3623afb55222fe53",
+"2026-11-04"
+],
+"/arxeio/euroleague/2007-08.html": [
+"273f0e190c75ccec",
+"2026-11-04"
+],
+"/arxeio/euroleague/2008-09.html": [
+"f1849f491a9aed31",
+"2026-11-04"
+],
+"/arxeio/euroleague/2009-10.html": [
+"164047f7da67f084",
+"2026-11-04"
+],
+"/arxeio/euroleague/2010-11.html": [
+"bc7b17e6badc2001",
+"2026-11-04"
+],
+"/arxeio/euroleague/2011-12.html": [
+"76da7d45cbd6f3f8",
+"2026-11-04"
+],
+"/arxeio/euroleague/2012-13.html": [
+"34ecd67f22838121",
+"2026-11-04"
+],
+"/arxeio/euroleague/2013-14.html": [
+"79cba7dcd09c9c6c",
+"2026-11-04"
+],
+"/arxeio/euroleague/2014-15.html": [
+"22290f22941d61ba",
+"2026-11-04"
+],
+"/arxeio/euroleague/2015-16.html": [
+"b8dcb1734d5c873f",
+"2026-11-04"
+],
+"/arxeio/euroleague/2016-17.html": [
+"c8f3b9772ce729b6",
+"2026-11-04"
+],
+"/arxeio/euroleague/2017-18.html": [
+"52ef3955d5adf16c",
+"2026-11-04"
+],
+"/arxeio/euroleague/2018-19.html": [
+"d4f64e9c4745e380",
+"2026-11-04"
+],
+"/arxeio/euroleague/2019-20.html": [
+"547da4a45a68a428",
+"2026-11-04"
+],
+"/arxeio/euroleague/2020-21.html": [
+"4db7f9f7bac344f3",
+"2026-11-04"
+],
+"/arxeio/euroleague/2021-22.html": [
+"0b8d162ea64036df",
+"2026-11-04"
+],
+"/arxeio/euroleague/2022-23.html": [
+"5ee981b0cfba270d",
+"2026-11-04"
+],
+"/arxeio/euroleague/2023-24.html": [
+"7f23b0ff17ebef5d",
+"2026-11-04"
+],
+"/arxeio/euroleague/2024-25.html": [
+"56a2150ce3f70f0c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-103.html": [
+"dc5e45579a36f2a6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-117.html": [
+"5b2ed48543583b4d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-125.html": [
+"cda02c8fac4d299a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-133.html": [
+"1c4fa2c5e60a1839",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-151.html": [
+"5b2f50e2135d33c1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-152.html": [
+"1c891381ff3e7487",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-20.html": [
+"1596421b96a80be2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-33.html": [
+"be5bfeebb8ef3d20",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-43.html": [
+"f456e49b8ffe009a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-57.html": [
+"a493769bd6718112",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-68.html": [
+"6da840f0ac29733d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-8.html": [
+"1b780b246d2d299a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-80.html": [
+"ee1bc1b1a5eca3a6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2000-01-93.html": [
+"03b21a0113ce2edd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-116.html": [
+"92b5bf0121e3f49b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-130.html": [
+"e73209eb24f9f498",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-147.html": [
+"b7e23dd9dff24231",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-163.html": [
+"cfe0ef49a8f913ca",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-178.html": [
+"a1355de4bbdb8782",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-18.html": [
+"1e3fd8935dc21a0e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-196.html": [
+"96373b34484ef01d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-209.html": [
+"32959ea164001f85",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-229.html": [
+"2f1465fd13b92f22",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-238.html": [
+"891772241434d51d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-246.html": [
+"5c6f4bb6089847c5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-253.html": [
+"318073da195a9db7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-262.html": [
+"0bd7a6e74c4817cd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-270.html": [
+"d0a9dc6bad52de67",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-35.html": [
+"c10c86e7e4b96048",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-4.html": [
+"e0535cd8c2543487",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-51.html": [
+"b82fde02469fc9ce",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-66.html": [
+"0aa21af6f5f4848a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-84.html": [
+"652aca1db7a87058",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2001-02-97.html": [
+"230926734c4d65ff",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-106.html": [
+"6eae5afef4a6eb36",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-11.html": [
+"0eef5a75386a574a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-120.html": [
+"5a26d9a99358e650",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-129.html": [
+"92b3b9892ed64970",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-144.html": [
+"f3e79e24bb6f58a8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-154.html": [
+"7a093a6ce93aa55e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-167.html": [
+"c76e6d4c5fcd5a4b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-175.html": [
+"1214ee86527c44c5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-183.html": [
+"4611773b9f34e46f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-191.html": [
+"7756aee172fb7a20",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-199.html": [
+"48ce48d5f419305c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-207.html": [
+"409ecce9ffac7873",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-215.html": [
+"974b33fd94289392",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-22.html": [
+"8155188b0559b949",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-36.html": [
+"ccde1d4850a81a0e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-45.html": [
+"e8e11bc894af15b4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-60.html": [
+"195d20070261d857",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-70.html": [
+"1f540e6c69263eb0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-83.html": [
+"963d4cef826118ce",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2002-03-95.html": [
+"7683f700b4174eeb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-10.html": [
+"a40343ead7a1ccc5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-107.html": [
+"466d19df0635775f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-119.html": [
+"01e478350da3ac8a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-130.html": [
+"36b4a7024d132689",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-144.html": [
+"4672456806488593",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-153.html": [
+"18ba199f8435a630",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-168.html": [
+"04eba381619b2a1e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-169.html": [
+"ebe3b2824dcce717",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-177.html": [
+"80888f34386254d1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-185.html": [
+"347e4f3f173b6e95",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-193.html": [
+"c963c451df37196b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-201.html": [
+"3af797ddcd69c769",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-209.html": [
+"947e68ea34535eec",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-23.html": [
+"ac3458550bc83358",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-35.html": [
+"13c12d463a3a6526",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-46.html": [
+"0504c315e12e23ab",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-60.html": [
+"8f060fba8c08a2d2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-69.html": [
+"dec69f4175b2960d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-84.html": [
+"624c32466b81a274",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2003-04-94.html": [
+"b2e061bb53803c15",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-110.html": [
+"fb45ba5d860ddf1b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-124.html": [
+"0c28926b649a509f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-133.html": [
+"b12dedf8032d6d1e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-148.html": [
+"381604d638abe54f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-15.html": [
+"1350b93f9a437fe6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-158.html": [
+"a1b088490a042a09",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-26.html": [
+"42cdb5ca52e672af",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-3.html": [
+"48460b8d4dd83c01",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-40.html": [
+"5cd1498a9f6fede9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-49.html": [
+"9a59e91a7cd130ce",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-64.html": [
+"df513438fba781d3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-74.html": [
+"1b666b70438e99d3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-87.html": [
+"853446f912e28631",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2004-05-99.html": [
+"3a802714d3358c90",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-101.html": [
+"e6260bc3a734ea51",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-116.html": [
+"83d4299b29172bae",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-126.html": [
+"18782f998c6e58d4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-139.html": [
+"1790a3de0fdb0c9a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-151.html": [
+"54c67103668806f2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-162.html": [
+"ce3739c9b997efc6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-169.html": [
+"18095f65e022f94e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-17.html": [
+"c3f64f6f1d650672",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-178.html": [
+"0f2525ac75d1618d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-186.html": [
+"c1be3af767040ba8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-193.html": [
+"928d993f6b82b39d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-202.html": [
+"2d22201bc405da54",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-210.html": [
+"ec1b10fdbb9588e2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-218.html": [
+"be1108b08f18edb9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-222.html": [
+"550796e957a3f9d2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-226.html": [
+"4983d5105c010365",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-32.html": [
+"d30431443ec0ead4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-42.html": [
+"5cfce217669b88f3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-55.html": [
+"6725300b8f6d43cb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-67.html": [
+"82aec4f84c1c7068",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-78.html": [
+"71ca6b0c2e922e1e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-8.html": [
+"5cfa8a57e3119853",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2005-06-92.html": [
+"ca600fb97679142f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-110.html": [
+"d22e493d83c456e6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-124.html": [
+"47b74962bd60c714",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-133.html": [
+"21a1f1230784221e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-148.html": [
+"eb67f9b41ff07c07",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-15.html": [
+"8b69a8f20fef33e9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-158.html": [
+"8bcf647186b0d64a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-172.html": [
+"0d3d0fb3e220f348",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-179.html": [
+"cca7cd9e137061d0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-188.html": [
+"dc1a85e10f132053",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-196.html": [
+"13419e1e15747d4d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-204.html": [
+"2e983073d05d7bb4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-211.html": [
+"a5beab0b7f501008",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-217.html": [
+"084975f6ddfb3ee4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-221.html": [
+"0cb1c0cfda61bc44",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-26.html": [
+"588785a3d5d100b5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-3.html": [
+"f9de9e5c7acca605",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-40.html": [
+"de4745b341631c99",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-49.html": [
+"39c8e63b1c36b715",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-64.html": [
+"6535581749a10c60",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-74.html": [
+"99736aa63972eafb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-87.html": [
+"73f97e2f8efd892e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2006-07-99.html": [
+"dd5f0a2442dc271b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-1.html": [
+"7e0d7838cb41c909",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-109.html": [
+"083b67f14bf9af5b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-121.html": [
+"13617212217ceecc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-13.html": [
+"b4fd18196ba00da2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-133.html": [
+"ca22a881ea66ee3e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-145.html": [
+"60f2e55b66372805",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-157.html": [
+"074657be4339f364",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-174.html": [
+"d82308afd5fdb545",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-182.html": [
+"f5bb2abd45b94268",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-189.html": [
+"4a05e383734e6fd6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-198.html": [
+"0dc616e03147f884",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-205.html": [
+"6cb06e07cac50f30",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-214.html": [
+"00da49ad35c1673f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-220.html": [
+"473865505b58a756",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-224.html": [
+"1bc204423cc444f6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-227.html": [
+"f42dc52ebe49d030",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-25.html": [
+"3b22d00fa48ecc04",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-37.html": [
+"d8c8c2f5cbb44999",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-49.html": [
+"fba1565efb68af1a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-61.html": [
+"efe9909c9b588f19",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-73.html": [
+"495b6ba02b03b147",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-85.html": [
+"421295edda699409",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2007-08-97.html": [
+"5c059050b9505a71",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-1.html": [
+"4352d66420effa6f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-111.html": [
+"9a27b76540786637",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-122.html": [
+"f7f3cfacb01eb2b2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-129.html": [
+"ce681c6a87c35ce5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-137.html": [
+"661826e45448f7ba",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-145.html": [
+"c65e3d4a2d0d0632",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-15.html": [
+"68535a45ab0f664d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-154.html": [
+"ee08050007dfb590",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-161.html": [
+"c49a98861e56ae86",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-169.html": [
+"5366be41281913ae",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-173.html": [
+"670f86e968a02e09",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-177.html": [
+"d2f5d7c18cab99a3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-181.html": [
+"99de471d90e46a10",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-185.html": [
+"5e0224d9fc47f409",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-187.html": [
+"621d7e6a46fa9aff",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-26.html": [
+"7c578ec448913e49",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-38.html": [
+"e3c8c7362f568938",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-51.html": [
+"ec68d4406fbbf9ac",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-61.html": [
+"6302ec595167ad59",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-75.html": [
+"7cd0e5caf7ccbc4d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-86.html": [
+"f9a04160b836f393",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2008-09-98.html": [
+"cc8c1ceaf2c88056",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-100.html": [
+"faf2daaf647c366e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-112.html": [
+"42d82f11f600bc08",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-127.html": [
+"e7ad3c4e81d30282",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-136.html": [
+"eabcacf47757c888",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-143.html": [
+"8e622b4aa3b71702",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-151.html": [
+"cec4372da96db0f0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-159.html": [
+"960a5878ad46c3df",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-16.html": [
+"37e87720b70f3ed6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-168.html": [
+"657a6ac41eae80c2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-172.html": [
+"15896ab8fc1bd1e6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-176.html": [
+"5e4b992f1f04853f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-180.html": [
+"9ec803b07f07e2eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-184.html": [
+"4e7d4ef9847a9b67",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-186.html": [
+"19e9fdb986b3850f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-188.html": [
+"d3f9b2822dc2a263",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-28.html": [
+"b083adc087122bd5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-4.html": [
+"c73cfb383e3441e0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-40.html": [
+"c642f38e03050ebe",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-52.html": [
+"9f74583b96def7a1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-64.html": [
+"94c6eb94324dc3dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-76.html": [
+"e3f1f7e581b5857c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2009-10-88.html": [
+"3e886de018e280ca",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-100.html": [
+"d4b95e21a697e868",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-112.html": [
+"aff3bd893cae092a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-127.html": [
+"fa55ac7e6d866e88",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-135.html": [
+"263c7e756e606d61",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-144.html": [
+"0169e5476d9e18b2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-152.html": [
+"9b792cad1ceed1ac",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-159.html": [
+"84064a8f478f2b76",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-16.html": [
+"5fa6483052b99583",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-167.html": [
+"9a2a25187e29fb3b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-172.html": [
+"cfadd739d6b1fdb3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-176.html": [
+"b5bb7012675c4080",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-180.html": [
+"60833b2adbb8f8e3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-184.html": [
+"d231a051270f8788",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-28.html": [
+"fb69f82a9845c94c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-4.html": [
+"b0d5a9206a8f054f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-40.html": [
+"dc8bdda973753c53",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-52.html": [
+"7bbda0a2ee9d9f3f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-64.html": [
+"316402ac64b07933",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-76.html": [
+"4176f3751dd55e6f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2010-11-88.html": [
+"6b3f6dd9c1fe751a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-111.html": [
+"3ecf1f08a150de55",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-121.html": [
+"df6505f660dfa43d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-129.html": [
+"623fd487dc759972",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-138.html": [
+"1f57ff3b15ae3203",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-14.html": [
+"78cab96308669f04",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-146.html": [
+"c0f508605c7282b7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-153.html": [
+"12ae2002f7838b0d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-161.html": [
+"49103a93c935e182",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-170.html": [
+"b93b8d0a32a5f819",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-174.html": [
+"3e3dfbf329d71bd8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-178.html": [
+"f8076644072ba682",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-182.html": [
+"7be4d4abd9f12bf0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-186.html": [
+"0ad56bbfad93110e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-188.html": [
+"4d1d43c1d210093c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-2.html": [
+"dc15cbaaa3a6e6dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-27.html": [
+"11eaa2c4f98bd2bd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-37.html": [
+"811b7c940a00006d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-51.html": [
+"6e6a51b2e9a70081",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-62.html": [
+"8f3c87fd27bd7782",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-74.html": [
+"9175e16a64d79b24",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-87.html": [
+"c06fd6e28d7693dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2011-12-97.html": [
+"bed07ddbfa878d73",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-103.html": [
+"acf784fecfa1e950",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-115.html": [
+"b1c17f99552a5e5c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-125.html": [
+"bc804754f1b0d1c2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-136.html": [
+"ad222f632fd11f8b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-142.html": [
+"2d5a9a4ace376016",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-151.html": [
+"5ca858c43feae540",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-159.html": [
+"3f8807ddad59ceb8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-166.html": [
+"178251137b5c81ca",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-176.html": [
+"655d6e03086b5c76",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-181.html": [
+"e81b47df58b19102",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-19.html": [
+"5bf2fede70d7f6eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-192.html": [
+"23ea3ec516308014",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-198.html": [
+"6fdfe8f32f71d2bb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-207.html": [
+"1b081799a7ce5c6a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-215.html": [
+"14c9c73314d34394",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-222.html": [
+"605a462f02da7fa9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-232.html": [
+"d5f5f12f43b52466",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-234.html": [
+"d877674504463315",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-238.html": [
+"ef5214dd37dc8991",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-242.html": [
+"2ecf768ec748ec81",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-246.html": [
+"cf708e87c1335c2e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-248.html": [
+"eb0cc3d19b4bf7bc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-250.html": [
+"d89ebf54e7c88e2f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-253.html": [
+"8530fad829a6d1a0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-31.html": [
+"d41609f90b2a36fe",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-43.html": [
+"d688a76b2aa33b35",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-55.html": [
+"cec2ab90920414e0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-67.html": [
+"4d5a987ff63b3325",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-7.html": [
+"74e3482ac2e9e221",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-79.html": [
+"2566ddaa0bf39c98",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2012-13-91.html": [
+"3a30ca0d29da4f81",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-105.html": [
+"ec3d7a626109725a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-115.html": [
+"2eaa5c57846e431d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-121.html": [
+"42f043a1a16bbd84",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-129.html": [
+"88651f6caae7e92e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-137.html": [
+"01c7a832646fc27b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-145.html": [
+"b06c656b4c1734f2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-153.html": [
+"b4c1c2d066b26ae8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-161.html": [
+"7d7a70d44c1f732c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-169.html": [
+"ac9887628fd42829",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-177.html": [
+"ebc1ccd3f37c93c0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-185.html": [
+"41d9da2c3a7a9ee6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-193.html": [
+"378b69588e4e01d4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-20.html": [
+"8ada9b63940abd4e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-201.html": [
+"cdfe7fc505ab0188",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-209.html": [
+"b077ff2d68cab7e2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-217.html": [
+"864fbf059243dc36",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-225.html": [
+"3edcbfc2216a618a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-234.html": [
+"38e3da98aa5c99be",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-238.html": [
+"4893e086d2c39f12",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-242.html": [
+"fe4a2cac6f72a10e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-245.html": [
+"745548ce39433690",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-248.html": [
+"f3a0f296e186ec2a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-32.html": [
+"d6455d539fe0420d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-45.html": [
+"5323a5041ab997ee",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-55.html": [
+"4e36f0747819690f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-69.html": [
+"e4700bb4a72dfc88",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-80.html": [
+"762ce67b3a11d603",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-9.html": [
+"dfda2312ff916214",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2013-14-92.html": [
+"b9c6f75c64825c76",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-106.html": [
+"8741f0b59db52b25",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-11.html": [
+"a7be686be96bd843",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-120.html": [
+"8e3388ee2c90fe2d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-125.html": [
+"800cc796e6afe256",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-136.html": [
+"682be6b17c98f9f9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-142.html": [
+"4fb7341a187b5572",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-151.html": [
+"a0a4299f1f5e25f8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-159.html": [
+"c629be4f376015cc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-166.html": [
+"563f4792b236cf41",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-176.html": [
+"a4a8ce92f1136346",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-181.html": [
+"f6a66bd855c71b6a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-192.html": [
+"05b47cc0d1a8abe8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-198.html": [
+"deaffcbaba3a101b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-207.html": [
+"5268a560c48af5d1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-215.html": [
+"ac47decf7e6cc09d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-222.html": [
+"ae298c22ee773562",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-23.html": [
+"4a5238cd933d4814",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-232.html": [
+"94663edca6a08dcd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-236.html": [
+"160612e22382fe36",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-240.html": [
+"8ac80380dfdbbf2b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-244.html": [
+"286304df1ac06b87",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-247.html": [
+"ec8d79532d938236",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-249.html": [
+"79dc23850e30b9e2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-251.html": [
+"2b54209e4117ef98",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-36.html": [
+"b2d63447c00ef3dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-46.html": [
+"9818c817b2a1850b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-60.html": [
+"8eba4ad5b481a44e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-71.html": [
+"ffe288c7b18e0321",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-83.html": [
+"ba37403ef5f2f47f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2014-15-96.html": [
+"01533b6be36eb6ee",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-102.html": [
+"9d5c94ad6e640dab",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-113.html": [
+"e9606daf9f8b3747",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-127.html": [
+"5ed46275570b088d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-135.html": [
+"c1101ff8a9fcd74d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-142.html": [
+"c40cd185b1d53da9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-152.html": [
+"a9a8d8348b0e2518",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-157.html": [
+"202d305659bc49b5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-168.html": [
+"4a898711ecf77d56",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-174.html": [
+"3089a46b59d29d99",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-18.html": [
+"3518d8399d9a78cf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-183.html": [
+"0f33e814899d70f8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-191.html": [
+"572ba1cd5c1a7b10",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-198.html": [
+"e5b601adf30c4087",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-208.html": [
+"a89c3d53978a69ff",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-213.html": [
+"2ae44b3c821f4923",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-224.html": [
+"d5ba9e8a0b32561b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-230.html": [
+"891d29dbc2e1ceaf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-28.html": [
+"ba4d699d4590ddc4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-42.html": [
+"7b8d147fbf5b1122",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-5.html": [
+"a5dd4121167d6f1c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-53.html": [
+"5dd1c180bf75a1b1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-65.html": [
+"785455ddd8957197",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-78.html": [
+"98286dcba335434e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2015-16-88.html": [
+"0aeac1d312a4ea53",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-105.html": [
+"eb8f5fd13dd80eea",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-117.html": [
+"1672404ba1c99d73",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-12.html": [
+"00b447bf9c67cc39",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-126.html": [
+"b57b9e16b32b703f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-131.html": [
+"edfc7b1c56102492",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-143.html": [
+"e35fa23a9a399c4e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-151.html": [
+"3101f5dc9acbaa93",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-159.html": [
+"4c7632124ed7aefa",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-164.html": [
+"c74583a3d53e4168",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-176.html": [
+"a5bb4cad4b09626b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-18.html": [
+"8276f1e06a40944b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-180.html": [
+"1a20f1e7f5a39a50",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-187.html": [
+"65a9e4cb811a4053",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-200.html": [
+"f671ee6c2b1136bf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-207.html": [
+"0baf5d8a345e2297",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-213.html": [
+"ebe92b17dc3a16e0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-223.html": [
+"3e3ad32c5bbddef3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-225.html": [
+"bc64bda7cd52c194",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-237.html": [
+"8bb851dfbeff5fb0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-243.html": [
+"99aba2fa0d252baf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-247.html": [
+"0712d25de8ebe8ef",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-251.html": [
+"84cbe42581307506",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-255.html": [
+"dcb9c50efda467a6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-259.html": [
+"1063f0332d031ce9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-261.html": [
+"8b6401207e09be00",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-263.html": [
+"ba4af2edfb0775c4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-28.html": [
+"8d83e57a76fbf86c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-35.html": [
+"0882e8460ad7a7b0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-4.html": [
+"67791f49baf6f298",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-47.html": [
+"8d6b41b01cac87d3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-54.html": [
+"71696bf26871da45",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-64.html": [
+"12e508d9e570230e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-67.html": [
+"1ddea8dc884fee04",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-77.html": [
+"e0a3d2bf51ff25ee",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-88.html": [
+"b042dbd8a5ef794f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-93.html": [
+"db0d946dcedf6950",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2016-17-98.html": [
+"fd690c0ec0082738",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-104.html": [
+"062f7a702ef450c8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-109.html": [
+"0c7b588d4097c263",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-116.html": [
+"595aaf6c1dff1816",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-127.html": [
+"b26575eb75209e0a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-135.html": [
+"9fe871478fba6b08",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-139.html": [
+"b72eb99d0e93455e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-146.html": [
+"7980085bfb1969dc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-15.html": [
+"222d748147379540",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-157.html": [
+"2c64ff8b664c383b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-164.html": [
+"89fc1c6ada6a7ecd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-175.html": [
+"41ac8acea85fe5a4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-179.html": [
+"f565818dfb21c41d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-19.html": [
+"9f49be87227c577a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-190.html": [
+"2c69edf3bb622eca",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-199.html": [
+"6d152405c8ca08d2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-204.html": [
+"ab1e9b6a5505995c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-215.html": [
+"ed8327fc26c71a5d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-224.html": [
+"2d2dd153f6ecbfdc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-231.html": [
+"dd1fe8566b8ed405",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-238.html": [
+"db345a8057be36a8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-243.html": [
+"24ade94ffe1a4041",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-247.html": [
+"dec0b73f65671eb6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-251.html": [
+"4010fd4c94fd9087",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-255.html": [
+"3f8bc5ad328ac347",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-27.html": [
+"eaa4a34b98874a14",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-4.html": [
+"2a56e6369011a4c3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-40.html": [
+"ffc12af1f3596569",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-47.html": [
+"1b8cdab47f0b3827",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-55.html": [
+"0357145de33f453b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-64.html": [
+"dc8bc91ae262a1de",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-69.html": [
+"2d774ada2f7c5592",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-77.html": [
+"7a74d080afe2cb95",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-88.html": [
+"dbd7f9e22441e7e1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2017-18-89.html": [
+"5ced4141d5d61f77",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-107.html": [
+"8c7d07cf882e5bab",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-114.html": [
+"905f08347cd9f01a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-127.html": [
+"b6a00000a355cab0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-131.html": [
+"5b89e4a392b8baab",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-140.html": [
+"89004435cf10ca8c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-146.html": [
+"fa34c29f7d57cb4b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-153.html": [
+"5cc42cf839a1e256",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-16.html": [
+"dde7e2de6870e58e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-162.html": [
+"8551a7e758124978",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-171.html": [
+"93b4d0a742531bd9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-178.html": [
+"9c77db4313e886f2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-191.html": [
+"639850d9c2df4aff",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-199.html": [
+"acc27641fc3f1783",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-204.html": [
+"e01739eeb18cc651",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-211.html": [
+"d1a00af2929cb799",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-220.html": [
+"2e8d1d502ea03409",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-23.html": [
+"c28cdf592748f3ca",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-232.html": [
+"1c6f3d43063198ea",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-239.html": [
+"c9e42b8940ba8d24",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-26.html": [
+"c3b20c4f65df6904",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-33.html": [
+"985b8deda956c855",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-47.html": [
+"933f4f54826d1eac",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-5.html": [
+"4eab96126fe73911",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-51.html": [
+"9b75b3a0d5700373",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-59.html": [
+"ceb61b6a2d930801",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-66.html": [
+"d00f930e156ebc87",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-75.html": [
+"c70256837f39cc54",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-83.html": [
+"361c9d6db437307d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-91.html": [
+"c5ede4f40836fddc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2018-19-99.html": [
+"0fec28efae5654d4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-107.html": [
+"eec433b630ba8d4b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-113.html": [
+"3a6592b57c009fd7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-125.html": [
+"6b034f8ecfc9740f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-133.html": [
+"48c6915a9c8ab9ad",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-144.html": [
+"4d70cd56844cf8cb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-147.html": [
+"f90cff9ef4cfdb31",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-161.html": [
+"f1f628bc0fb63580",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-167.html": [
+"8e08b37e57091ccb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-17.html": [
+"d97068e0171d302d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-179.html": [
+"7c28c6903bd17c5d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-182.html": [
+"92346c0fbda22681",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-192.html": [
+"553862d3299cf9f7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-200.html": [
+"f4841cab0e029510",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-210.html": [
+"df6a6fd0f95e9d87",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-219.html": [
+"2d3fcd6a2446b134",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-228.html": [
+"dd3ef598dc72add1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-237.html": [
+"936753b7258a2958",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-249.html": [
+"75da3b64ff3953c4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-25.html": [
+"2d05c5c145950c50",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-3.html": [
+"9e8b15aaa98a9183",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-36.html": [
+"c89ad38a347b5412",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-42.html": [
+"d7871e154fe1f6f4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-52.html": [
+"b8466c3d054ac2ec",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-56.html": [
+"118472db0cf5dad4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-70.html": [
+"619e90ed2a21918d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-75.html": [
+"9196b4ca1043638a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-83.html": [
+"821ea15d5985c3d1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2019-20-98.html": [
+"6cc9ed9835227798",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-100.html": [
+"af286be0b926e77c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-109.html": [
+"0cfdc0ebd57c1355",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-124.html": [
+"ea48431cf486ab75",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-132.html": [
+"6ccbdd406adb319a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-141.html": [
+"89f3899eba78ea37",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-145.html": [
+"55d6e0958e1561f1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-159.html": [
+"c488d7e783d6ddea",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-166.html": [
+"5591bb12b91f2b31",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-17.html": [
+"43da07561997f1ff",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-178.html": [
+"b8739f28a95c7e32",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-188.html": [
+"5b2c7d1415d61cc7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-193.html": [
+"a2c08385e7f69a09",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-2.html": [
+"034b4613132cead8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-200.html": [
+"35c5962413690d80",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-213.html": [
+"88612989299d7974",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-218.html": [
+"4e89300d8fe31568",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-227.html": [
+"3d1e60f719b7a6cd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-243.html": [
+"fc2245b0582e69bf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-25.html": [
+"97510159527a0282",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-250.html": [
+"e9a90db3af061e85",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-259.html": [
+"09d13e24731550cb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-264.html": [
+"64366e1169391f59",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-277.html": [
+"d7308fd5f93c39c1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-288.html": [
+"dbd76d4de569ce6b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-297.html": [
+"44e265e402be359d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-304.html": [
+"f76cbde98bfbbab6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-34.html": [
+"449a2cd1b9cd7367",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-44.html": [
+"45c110bdfe9cf4a3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-52.html": [
+"6288275d3cc7e88a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-55.html": [
+"f17b071e971d31b3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-65.html": [
+"f9371f7c9a74fd5d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-80.html": [
+"1502bda365cc315a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-87.html": [
+"afbf0016d24004fa",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2020-21-95.html": [
+"61f6c827750c18bf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-107.html": [
+"3658981c35ca5c95",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-114.html": [
+"b7a4b2fbce564655",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-119.html": [
+"9c777840856fcae5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-135.html": [
+"38040a2918146262",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-143.html": [
+"7529e14b5794ddd5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-151.html": [
+"8b32eea3042c93b7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-169.html": [
+"ae34df9283a36190",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-17.html": [
+"f86d5dace6111dee",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-173.html": [
+"bb701475f18a4590",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-194.html": [
+"bda2caec1db6c287",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-200.html": [
+"b46672e80c685acd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-216.html": [
+"0bbf0ee51948ad61",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-224.html": [
+"3f4c4ee201020b33",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-228.html": [
+"faa58de29c1a00eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-237.html": [
+"ddee21298aba1983",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-252.html": [
+"668028d22b7021fc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-256.html": [
+"b7dfb4ddd2be84d5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-264.html": [
+"bda013b43514e53d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-27.html": [
+"39b60702641ab2a4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-278.html": [
+"993601750c1cc5c3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-286.html": [
+"34cb8a78ca7cf229",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-296.html": [
+"002b57404a2089dc",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-310.html": [
+"1a9c6c5b1f5c41e0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-314.html": [
+"3a9e4a364954c91c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-318.html": [
+"b447a2951a53bc3e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-322.html": [
+"7939f5deafff6510",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-326.html": [
+"adc354f5bcf5c088",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-328.html": [
+"f49602ebf88ff1a9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-329.html": [
+"9c7c619c257d2b8f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-34.html": [
+"57f7227f4d9cf572",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-43.html": [
+"00840b1b52350fd9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-48.html": [
+"dc74ca66e9b1c008",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-56.html": [
+"a75ca8fab43e0ae8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-70.html": [
+"c1224162c1ec435f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-78.html": [
+"4701de3d82675419",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-8.html": [
+"de0c71aa47fe2e97",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-88.html": [
+"acf4b45dafda9526",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2021-22-97.html": [
+"bdeec81128719cbf",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-107.html": [
+"6e632b9c467a5984",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-111.html": [
+"a52cb83c10938b13",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-120.html": [
+"cd988b3322e34aef",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-129.html": [
+"68f6e559488893c8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-143.html": [
+"c2bc9e9ff8cdb6fd",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-15.html": [
+"c4436258d06768e9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-151.html": [
+"7d3b38ff51eabbc4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-154.html": [
+"c5102833bec78e58",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-166.html": [
+"e113b94ef236bf43",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-179.html": [
+"7bccaf6b65c2e456",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-187.html": [
+"71f6d6782e03c5a6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-190.html": [
+"3f2e2f1c98c3901f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-205.html": [
+"6037bfa680ae2eb5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-209.html": [
+"cc88bbb643cb6fdb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-223.html": [
+"23e6e6b0c69fa9c2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-232.html": [
+"7843deffcf0bda8c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-236.html": [
+"f889a3b55a3fa971",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-245.html": [
+"e5dd5e745c624a39",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-255.html": [
+"634f7ffa0ade5223",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-269.html": [
+"fb32f57d98693c44",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-27.html": [
+"656e908bbd094349",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-278.html": [
+"375664a8ed92002c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-285.html": [
+"8ee9eb1b4167a9f4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-289.html": [
+"7e061edbf996d5da",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-300.html": [
+"12b0d5d54f1e11b1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-307.html": [
+"bd864ef8ed16ecd1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-311.html": [
+"2ffc15e962ccf65c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-315.html": [
+"55b5fc59b944ec0c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-319.html": [
+"a1a9123342c6d4cb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-323.html": [
+"ca2c7419040cf11d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-327.html": [
+"7b9e1d73cae91659",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-330.html": [
+"47ab7a9cc0f56c2e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-36.html": [
+"6122a64c392169ab",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-40.html": [
+"c7c2d47e37177009",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-52.html": [
+"cec74400f7e3dfae",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-56.html": [
+"8008584dd6c5cad8",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-66.html": [
+"f99bbadc384feae7",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-75.html": [
+"47a9bdc8471ec09b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-8.html": [
+"5ca4da0f6c8c6ff2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-83.html": [
+"e0e8d03a0647ff25",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2022-23-91.html": [
+"84a3b8c93ad3a62e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-103.html": [
+"3ac6f37637b4d6c1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-112.html": [
+"85f69371334bbb20",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-126.html": [
+"daa9f9d17ab54088",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-131.html": [
+"96f1e60452a3ad7c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-143.html": [
+"b5eb980d1333bcc3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-151.html": [
+"3b10c88eeff6790a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-156.html": [
+"14ddb35f3347aa05",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-16.html": [
+"ee2452ca0db9e65d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-166.html": [
+"83a96959fc4c8483",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-179.html": [
+"238649afeaa78455",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-188.html": [
+"be51e36c5d82f347",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-194.html": [
+"e32170a4ede78cd4",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-20.html": [
+"c24e78f3844ee292",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-203.html": [
+"8e202ab6cb164728",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-211.html": [
+"f1df952639691208",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-218.html": [
+"d4c578ad1d3815e3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-228.html": [
+"ceb6c6ba88c8a45a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-239.html": [
+"7eabed97d8c40c19",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-247.html": [
+"108aec6d9248b561",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-255.html": [
+"7008b682fe033900",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-263.html": [
+"1dd47c5d61d5d084",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-272.html": [
+"0120d6d62159967c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-284.html": [
+"07c151f41b87864e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-29.html": [
+"1e53768879c38cc3",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-291.html": [
+"ebd935373cbd4e53",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-305.html": [
+"5bab5622300d1aba",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-311.html": [
+"3152388ff386600a",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-315.html": [
+"09cb480f2e438c68",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-319.html": [
+"edf8037b671cce2c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-323.html": [
+"29ba7028af7be16b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-327.html": [
+"965d505dadd0707f",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-330.html": [
+"8f05815f90793fae",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-332.html": [
+"4cf67de93352c25c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-38.html": [
+"02885a08dbbd9de2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-50.html": [
+"a414e604c28e4deb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-60.html": [
+"91aa54a25c480027",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-66.html": [
+"6612a308af67574d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-7.html": [
+"37ca964a06e43760",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-75.html": [
+"4dc457376aa927b2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-89.html": [
+"a350f0b6da4414e0",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2023-24-91.html": [
+"48f8e188b73932f1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-103.html": [
+"c41961a3b7255988",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-115.html": [
+"9e559c249c02e567",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-124.html": [
+"4dcf5b03ae1422f1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-133.html": [
+"b336c9688df03b15",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-143.html": [
+"5cfee335764f9de1",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-151.html": [
+"24b3c3ea5c00b160",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-156.html": [
+"1aa911976271cc79",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-163.html": [
+"ef5893147847e5a9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-179.html": [
+"e9b4fa1d84f253ea",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-18.html": [
+"65171fae0e370aa6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-182.html": [
+"d23eab8ac06392b2",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-193.html": [
+"458a8a6b30677100",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-206.html": [
+"2bd95a9f6b9edd77",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-21.html": [
+"1b538f2e30163e1d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-215.html": [
+"0131f8fba152454c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-224.html": [
+"91678352beafe428",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-233.html": [
+"1cce6ec4b3a2018e",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-241.html": [
+"4676ef4917582402",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-251.html": [
+"0c10ffb9a15dd9c6",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-259.html": [
+"a3b0d4125a4d7e1b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-264.html": [
+"08f1182fbf0a0e8c",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-274.html": [
+"5db56b3581172b96",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-281.html": [
+"82d5af101096e171",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-294.html": [
+"45ed8ac359720e51",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-299.html": [
+"d7c8f9117f918029",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-310.html": [
+"b6faaf7cddb79742",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-314.html": [
+"4f7aa0a23b62a12d",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-318.html": [
+"c2bf47b2c0672d61",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-322.html": [
+"1e233eb0c3f6b0c9",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-34.html": [
+"a24ceb1ee0c7defe",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-45.html": [
+"93b983fdcdea611b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-50.html": [
+"57f45f183608d93b",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-56.html": [
+"aa9755e1c0870019",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-7.html": [
+"1fe3f41e622eb9eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-70.html": [
+"774020309205e4eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-76.html": [
+"74062aa4b06c5c01",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-86.html": [
+"36261bd9898f3af5",
+"2026-11-04"
+],
+"/arxeio/euroleague/agones/2024-25-94.html": [
+"4cd04d11e3e17506",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/aek.html": [
+"ccbcb35e1f0e8a4a",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/asv.html": [
+"b9407ff8921b8935",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ave.html": [
+"51579aee3567c76b",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bam.html": [
+"22d5555207c7941b",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bar.html": [
+"776cd559bfe6dce5",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bas.html": [
+"299b3f4896f8ec11",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ber.html": [
+"714ad5af33bfb863",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bes.html": [
+"618ed17cb300b57d",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bil.html": [
+"a351bb355f0b7f84",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/bud.html": [
+"25f5ce8c0721400c",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/can.html": [
+"7ec83ff0595e6525",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ced.html": [
+"c39aafb448c0060f",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/cha.html": [
+"c641c4f4cc32ef6c",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/cib.html": [
+"c144a60cf5ee4576",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/col.html": [
+"96109ac36d41064a",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/csk.html": [
+"c6f98e8c642d1fd3",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ctu.html": [
+"9026b47423ac5c70",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/dar.html": [
+"dd793012c0fadf87",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/dyn.html": [
+"02e155eb0b509304",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/dyr.html": [
+"1f402b96632d50d0",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/est.html": [
+"1e5be53365f81c70",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/for.html": [
+"2aca2dd8bda75402",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/gal.html": [
+"6dc52aa32e681a83",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/gss.html": [
+"d66ffb17a43418d1",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ist.html": [
+"7091ea2e0c4d2884",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/jer.html": [
+"9cb60daae24d58e7",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/jov.html": [
+"2d5d36121807732d",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/khi.html": [
+"205b6f2cdb2c94bb",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/kla.html": [
+"b9e963816712775a",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/lem.html": [
+"adba7e44c1b53d27",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/lie.html": [
+"e9e360766adca374",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/lju.html": [
+"846d38d8fe4f70ce",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/lmg.html": [
+"7e549ef56628aaa3",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/mad.html": [
+"fd56b06dfee9644b",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/mal.html": [
+"a7be5b19ff9389fe",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/mco.html": [
+"55dd6c33f6f1d57c",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/mil.html": [
+"71c683de977c8b92",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/mun.html": [
+"f17837ddb92fb9eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/nan.html": [
+"5c45ca09f1fa9594",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/nov.html": [
+"c0f3471f9f33d128",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/orl.html": [
+"c6dc5a7a2f4d5ee0",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ova.html": [
+"0631e971165df667",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/pam.html": [
+"c704f41fe66f9201",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/pan.html": [
+"21f407325bcfafe7",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/par.html": [
+"51345f2f75767cff",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/prs.html": [
+"855d21909ec919c9",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/red.html": [
+"b0da0b95ae2246f2",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/rom.html": [
+"d1f42dbdd3b3351f",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/sie.html": [
+"02ab2140e891c18b",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/sop.html": [
+"f5c44db32936438f",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/tel.html": [
+"1a43aa1ab2811f77",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/tre.html": [
+"defb492d7c725cbd",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ulk.html": [
+"07f56117222df171",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/unk.html": [
+"e88c9402cdbc5f38",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/ver.html": [
+"547e3bd558c8079e",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/vir.html": [
+"aaac044d925dd3eb",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/wro.html": [
+"1c5a1dd7229a289d",
+"2026-11-04"
+],
+"/arxeio/euroleague/antipaloi/zal.html": [
+"0e77984f37fc17d4",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/": [
+"4e3283d581956771",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/aaron-harrison.html": [
+"032331df87005798",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/acie-law.html": [
+"15010502d9bc7f28",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/alec-peters.html": [
+"987d609e0d6e604d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/aleksej-pokusevski.html": [
+"e21cd7184fe8057f",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/alexandros-nikolaidis.html": [
+"5a23d875024eee1a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/andreas-glyniadakis.html": [
+"3d171f79a22426b0",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/antonios-koniaris.html": [
+"98fc54ff6d3118d5",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/antreas-christodoulou.html": [
+"68c0d525260feeeb",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/augustine-rubit.html": [
+"e11044d2f2cc2945",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/axel-toupane.html": [
+"24e1f0574e8a9570",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/bobby-brown.html": [
+"1ba07ed94bf479dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/brandon-paul.html": [
+"67ddafa633900477",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/brent-petway.html": [
+"c6e5f5ef4a366776",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/brian-roberts.html": [
+"8f068a264dab2007",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/briante-weber.html": [
+"d5e9a7a98a34aba5",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/bryant-dunston.html": [
+"915100aeb5dcd7e3",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/cedric-simmons.html": [
+"bbe7250144f350e6",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/charles-jenkins.html": [
+"a01b484832cdba63",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/d-j-strawberry.html": [
+"0e973ac90b71dda6",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/daniel-hackett.html": [
+"42ed3ad3c7381f19",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/darius-johnson-odom.html": [
+"7db00a61082b0467",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/dimitrios-katsivelis.html": [
+"d0b7e5d5760b1568",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/dimitrios-mavroeidis.html": [
+"b7925005f39e6b22",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/dimitris-agravanis.html": [
+"bd5ec8bfe64d1ab4",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/dominic-waters.html": [
+"0c2e14e7b4c05e4d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/doron-perkins.html": [
+"4df97d7950193e1e",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/dwight-buycks.html": [
+"1cff8d6d54a4d1e1",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/erick-green.html": [
+"9ce7374ed5a2d8d0",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/ethan-happ.html": [
+"2020ec6dffa3748c",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/evan-fournier.html": [
+"529a84330f393385",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/filip-petrusev.html": [
+"3b7c423331f761a9",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/george-papas.html": [
+"9fa27ff300da4ebb",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/georgios-bogris.html": [
+"0eae782a486db3bc",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/georgios-printezis.html": [
+"67cd7ae098cd0d2b",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/georgios-tanoulis.html": [
+"8ef37aa51ed8edc8",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/giannoulis-larentzakis.html": [
+"1e3de3248405d523",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/giorgi-shermadini.html": [
+"ac414dc2d8e23349",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/hakim-warrick.html": [
+"1c6daa73e4781e43",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/hassan-martin.html": [
+"71eb418e3dc1661a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/hollis-thompson.html": [
+"fe65821dda04b7d2",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/ignas-brazdeikis.html": [
+"4c9eb1739d750959",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/ioannis-athinaiou.html": [
+"268b1ad5f6f141dc",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/ioannis-bourousis.html": [
+"86f7a4f7821d2447",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/ioannis-papapetrou.html": [
+"6b9544acf0b44607",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/isaiah-canaan.html": [
+"3f46ba15130802c6",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/jamario-moon.html": [
+"1b9a32732900199f",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/jamel-mclean.html": [
+"6215956429cd17cc",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/jamon-gordon.html": [
+"4af8ef58741bd56d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/janis-strelnieks.html": [
+"b50a0f2e630cbeab",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/janis-timma.html": [
+"07aa0e6b6069d1be",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/joel-bolomboy.html": [
+"197a95bb5f6335df",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/joey-dorsey.html": [
+"e267083740759a99",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/josh-powell.html": [
+"57ed32b641164c0d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kalin-lucas.html": [
+"a5a7341432735786",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kevin-punter.html": [
+"71518d06327bec21",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/khem-birch.html": [
+"bd3a82e04ba5ffc8",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kim-tillie.html": [
+"330f3bc0fab07ace",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kosta-koufos.html": [
+"28211432bc77bc7e",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kostas-papanikolaou.html": [
+"e76c679699fb4684",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kostas-sloukas.html": [
+"af302c4d8fe7fccf",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kyle-hines.html": [
+"c15a28a506d35122",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/kyle-wiltjer.html": [
+"72ff1820abe7ed68",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/lazaros-papadopoulos.html": [
+"093f85b4d00d0cf2",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/livio-jean-charles.html": [
+"01eaccca2b678c16",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/loukas-mavrokefalides.html": [
+"a6f93089eb23553d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/luca-vildoza.html": [
+"6bac81e14fe35e93",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/luke-sikma.html": [
+"5c9ae6d838c434dd",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/mardy-collins.html": [
+"f2d8c8a7e49c4982",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/marko-keselj.html": [
+"ef85b6571b334d59",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/martynas-gecevicius.html": [
+"71f1d8e633cf5e49",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/matt-howard.html": [
+"94e9a5e15849e64a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/matt-lojeski.html": [
+"094220bcfc5317ff",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/matt-nielsen.html": [
+"7b474f055365061f",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/michalis-lountzis.html": [
+"3d8864eda9143723",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/michalis-pelekanos.html": [
+"9bfdaf78573a7d10",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/michalis-tsairelis.html": [
+"44e61e00b19ac925",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/milos-teodosic.html": [
+"2b3080fe92a3455d",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/mindaugas-kuzminskas.html": [
+"df1e9201232173ac",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/mirza-begic.html": [
+"7516990d15117f50",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/moses-wright.html": [
+"8967f65dd6b8fb62",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/moustapha-fall.html": [
+"a435f07c8bc65493",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/nathan-mensah.html": [
+"01052a3a2d1f8076",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/naz-mitrou-long.html": [
+"a1bf9c859b42fdb3",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/nigel-williams-goss.html": [
+"c7a4f20bac01c9a9",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/nikola-milutinov.html": [
+"1275ec8430306c52",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/octavius-ellis.html": [
+"1610431b27a6bb65",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/oliver-lafayette.html": [
+"d7daf8dbc1e37d1f",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/othello-hunter.html": [
+"f3461d7cd2cbea09",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/panagiotis-tsamis.html": [
+"74007bcc0696d872",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/panagiotis-vasilopoulos.html": [
+"09798a17f807b0ef",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/patric-young.html": [
+"4d71d6b053281940",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/pero-antic.html": [
+"30ae8f3b908e47ba",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/quincy-acy.html": [
+"473365027c665b91",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/rasho-nesterovic.html": [
+"6c014b80e9daf6ad",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/saben-lee.html": [
+"63df22ab937bad06",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/sasha-vezenkov.html": [
+"e216b096097fa544",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/shaquielle-mckissic.html": [
+"38dc5f3c2fd46226",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/shawn-james.html": [
+"b89e3befed856664",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/stratos-perperoglou.html": [
+"b0062d1bac76fb29",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/tarik-black.html": [
+"6e55fba7856c505a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/taylor-rochestie.html": [
+"aa9bebcc1b28bdd7",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/theodoros-papaloukas.html": [
+"5661d2eda3ad4b22",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/thomas-walkup.html": [
+"2ff6424c04c69c4e",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/tremmell-darden.html": [
+"9d10c30c6c387807",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/tyler-dorsey.html": [
+"5dba4b60f04b72e4",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vangelis-mantzaris.html": [
+"b68e25ea33fdfe5b",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vasileios-kavvadas.html": [
+"539d7a17c74c5fcc",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vasilis-charalampopoulos.html": [
+"c35b01d625594cf0",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vassilis-mouratos.html": [
+"2d9ddac5698be408",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vassilis-spanoulis.html": [
+"b4200465e2d1ba8a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/vassilis-toliopoulos.html": [
+"d42ac0cf30f2f5ba",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/veniamin-abosi.html": [
+"6d0b4a3614e9c9c6",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/wade-baldwin-iv.html": [
+"846a26baac7a391b",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/will-cherry.html": [
+"be3925a075fd2519",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/willie-reed.html": [
+"a26a4c93ed3ec16a",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/yotam-halperin.html": [
+"66c1de1af7a96094",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/zach-leday.html": [
+"5e32ac5205176880",
+"2026-11-04"
+],
+"/arxeio/euroleague/paiktes/zoran-erceg.html": [
+"96593719cc4f7069",
+"2026-11-04"
+],
+"/arxeio/podosfairo/": [
+"3497c3a1a661d8ec",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1994-95.html": [
+"2b292f79abaf5069",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1995-96.html": [
+"ff26a1bf7d31eb81",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1996-97.html": [
+"eeb3f5a95599711d",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1997-98.html": [
+"d59612f3d8b41a95",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1998-99.html": [
+"8cb2123886ce831e",
+"2026-11-04"
+],
+"/arxeio/podosfairo/1999-00.html": [
+"ae33de78e9e0c06a",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2000-01.html": [
+"2612bae545375864",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2001-02.html": [
+"0dba5a781976157f",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2002-03.html": [
+"6cec2f3ed11f7cc3",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2003-04.html": [
+"caf1d485f28872c7",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2004-05.html": [
+"5679eebeb59cfde6",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2005-06.html": [
+"e79ec47436f70c7f",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2006-07.html": [
+"5a414c380d12990a",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2007-08.html": [
+"c2532e510e937aa9",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2008-09.html": [
+"d71a65268ef02c09",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2009-10.html": [
+"6e0904c06fc47c53",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2010-11.html": [
+"a05badc4272f5d3e",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2011-12.html": [
+"f2c08e3add793611",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2012-13.html": [
+"d4bfb22a3059b3a7",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2013-14.html": [
+"c65079a20a9fcc45",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2018-19.html": [
+"58655fdc378e2f08",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2019-20.html": [
+"d40e7449a9039700",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2020-21.html": [
+"47d1b45166969a60",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2021-22.html": [
+"f620e274026011a6",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2023-24.html": [
+"53b305890f8fcedc",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2024-25.html": [
+"6acd48f5a4881c16",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2025-26.html": [
+"584642feddd5bcfc",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2026-27.html": [
+"c5ec6bd5729ca434",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/aek.html": [
+"be9940ca4afdf70b",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ael.html": [
+"f99e0f8494c4cf5e",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/aigaleo.html": [
+"df27018217c57cdb",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/akratitos.html": [
+"4710753105eb3a09",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/apollon-kalamarias.html": [
+"32a268a594bd7ee0",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/apollon-smyrnis.html": [
+"cc8594875de483cb",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/aris.html": [
+"88fcf07ae675cd6e",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/asteras-tripolis.html": [
+"b964f9050edd27c8",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/athinaikos.html": [
+"f131fdfb22a3c3bc",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/atromitos.html": [
+"bf641ee318ef7cb9",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/chalkidona.html": [
+"d8cb95f2c6d2c61d",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/doxa-dramas.html": [
+"bc4dc4c1db665025",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/edessaikos.html": [
+"b617906fe4f70836",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ergotelis.html": [
+"6209ceb777ebf73a",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ethnikos-asteras.html": [
+"14d490c653289d56",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ethnikos-peiraia.html": [
+"1ed49da3acf39325",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ionikos.html": [
+"f67de49a7d625d64",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/iraklis.html": [
+"2896ab1b2c770be9",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kalamata.html": [
+"88f13c53d86384f3",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kallithea.html": [
+"fb4cd2e2332f7506",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kalloni.html": [
+"33438345549f5aba",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kastoria.html": [
+"af32e438617705ed",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kavala.html": [
+"19186d4c2960caf4",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kerkyra.html": [
+"34e6fcbe532dda6d",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/kifisia.html": [
+"dd6001ca2499199d",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/lamia.html": [
+"326734024a7ab8b6",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/levadeiakos.html": [
+"28bf866400658abe",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/ofi.html": [
+"1a88c7d6d486e532",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/olympiakos-voloy.html": [
+"8cb8756f9ec1bcf9",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panachaiki.html": [
+"13874604f4efcba6",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panaitolikos.html": [
+"7481fa197b27a1da",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panathinaikos.html": [
+"5cd961c26e11a36b",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/paneleysiniakos.html": [
+"9b50ea51ea4694f3",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panileiakos.html": [
+"7e6cda6283ae3059",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panionios.html": [
+"01bc0de384832e3b",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panserraikos.html": [
+"c6bea4c951d77bb7",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/panthrakikos.html": [
+"a86e4cdd1d535154",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/paok.html": [
+"7b8a5346839f88ce",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/pas-giannina.html": [
+"e57047355f7a9684",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/platanias.html": [
+"1cb674424e03aec9",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/proodeytiki.html": [
+"eb22704bdb644943",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/thrasyvoylos.html": [
+"7e8f267bb37c2f61",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/trikala.html": [
+"b97cc60b4ff5f0dc",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/veroia.html": [
+"fc74366deaeedafa",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/volos.html": [
+"82cd1fb6cd80cf3f",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/xanthi.html": [
+"d0c6acc3284f90bb",
+"2026-11-04"
+],
+"/eshop/": [
+"c7650186f0ec55d1",
+"2026-11-04"
+],
+"/news.html": [
+"5491a292ff25ca6b",
+"2026-11-04"
+],
+"/paiktes/": [
+"1cddca3d0c240d17",
+"2026-11-04"
+],
+"/paiktes/mpasket.html": [
+"5579b099feea804e",
+"2026-11-04"
+],
+"/paiktes/podosfairo.html": [
+"4608ace7ddbbd32f",
+"2026-11-04"
+],
+"/paiktes/polo-gynaikwn.html": [
+"b6c016b739aafd62",
+"2026-11-04"
+],
+"/paiktes/polo.html": [
+"7a02f566853b904b",
+"2026-11-04"
+],
+"/paiktes/volei-gynaikwn.html": [
+"7b374775b8265476",
+"2026-11-04"
+],
+"/paiktes/volei.html": [
+"536d8b0e8a601774",
+"2026-11-04"
+],
+"/san-simera/": [
+"7bf8efc77b0e9ce8",
+"2026-11-04"
+],
+"/san-simera/01-01.html": [
+"b98ef01c7b513412",
+"2026-11-04"
+],
+"/san-simera/01-02.html": [
+"f394668097c19335",
+"2026-11-04"
+],
+"/san-simera/01-03.html": [
+"7f130f9cb31ccf0d",
+"2026-11-04"
+],
+"/san-simera/01-04.html": [
+"29a352fc50e3feb2",
+"2026-11-04"
+],
+"/san-simera/01-05.html": [
+"1495e35e29ab2a85",
+"2026-11-04"
+],
+"/san-simera/01-06.html": [
+"4289120602811fc0",
+"2026-11-04"
+],
+"/san-simera/01-07.html": [
+"f284e03c7f39df90",
+"2026-11-04"
+],
+"/san-simera/01-08.html": [
+"771d01b5bff27a7f",
+"2026-11-04"
+],
+"/san-simera/01-09.html": [
+"5468a86139ab0567",
+"2026-11-04"
+],
+"/san-simera/01-10.html": [
+"3daef85376dfe3e7",
+"2026-11-04"
+],
+"/san-simera/01-11.html": [
+"b266958827362dbe",
+"2026-11-04"
+],
+"/san-simera/01-12.html": [
+"ee401ac882ff9920",
+"2026-11-04"
+],
+"/san-simera/01-13.html": [
+"887bd1e0d9e8dcb0",
+"2026-11-04"
+],
+"/san-simera/01-14.html": [
+"9c2108945ad43c02",
+"2026-11-04"
+],
+"/san-simera/01-15.html": [
+"1881a608fa72dfe2",
+"2026-11-04"
+],
+"/san-simera/01-16.html": [
+"ede7b8be9d6d16ca",
+"2026-11-04"
+],
+"/san-simera/01-17.html": [
+"fade6a30403b2d3a",
+"2026-11-04"
+],
+"/san-simera/01-18.html": [
+"88b72c8b05b96015",
+"2026-11-04"
+],
+"/san-simera/01-19.html": [
+"16934e0ecf9f11dd",
+"2026-11-04"
+],
+"/san-simera/01-20.html": [
+"558d64cc17817ca8",
+"2026-11-04"
+],
+"/san-simera/01-21.html": [
+"75f628dcd6ae3995",
+"2026-11-04"
+],
+"/san-simera/01-22.html": [
+"ad2525a43927d993",
+"2026-11-04"
+],
+"/san-simera/01-23.html": [
+"fb8cfa73eaff5fa3",
+"2026-11-04"
+],
+"/san-simera/01-24.html": [
+"f7109441de769280",
+"2026-11-04"
+],
+"/san-simera/01-25.html": [
+"cb646e343671426a",
+"2026-11-04"
+],
+"/san-simera/01-26.html": [
+"8710db780b3a0b6e",
+"2026-11-04"
+],
+"/san-simera/01-27.html": [
+"eac8da45a21cf681",
+"2026-11-04"
+],
+"/san-simera/01-28.html": [
+"48ba68f9750bc820",
+"2026-11-04"
+],
+"/san-simera/01-29.html": [
+"7f4bfe5b1efcc087",
+"2026-11-04"
+],
+"/san-simera/01-30.html": [
+"8ca1d7ff7da7798f",
+"2026-11-04"
+],
+"/san-simera/01-31.html": [
+"b90816f29f67cf52",
+"2026-11-04"
+],
+"/san-simera/02-01.html": [
+"4830a028a67294f6",
+"2026-11-04"
+],
+"/san-simera/02-02.html": [
+"1802a96fe4904aa5",
+"2026-11-04"
+],
+"/san-simera/02-03.html": [
+"03d7d9618eab64d0",
+"2026-11-04"
+],
+"/san-simera/02-04.html": [
+"099cffe2ed2222d7",
+"2026-11-04"
+],
+"/san-simera/02-05.html": [
+"d704816bae878e32",
+"2026-11-04"
+],
+"/san-simera/02-06.html": [
+"c8274dac839b20d4",
+"2026-11-04"
+],
+"/san-simera/02-07.html": [
+"fb51058a5e692ca3",
+"2026-11-04"
+],
+"/san-simera/02-08.html": [
+"c54546f877345cf9",
+"2026-11-04"
+],
+"/san-simera/02-09.html": [
+"ecbeec8fdb8b2a0e",
+"2026-11-04"
+],
+"/san-simera/02-10.html": [
+"b4dd7323a23aa0a4",
+"2026-11-04"
+],
+"/san-simera/02-11.html": [
+"1ec3e29d326af76f",
+"2026-11-04"
+],
+"/san-simera/02-12.html": [
+"8462f2a6fac5d5ed",
+"2026-11-04"
+],
+"/san-simera/02-13.html": [
+"361316e7e7f7948e",
+"2026-11-04"
+],
+"/san-simera/02-14.html": [
+"03829ff1ed9701e8",
+"2026-11-04"
+],
+"/san-simera/02-15.html": [
+"d53c2e3e07dd04e0",
+"2026-11-04"
+],
+"/san-simera/02-16.html": [
+"ec9ed8ec9f7a1658",
+"2026-11-04"
+],
+"/san-simera/02-17.html": [
+"ef5bd6cfb2b83592",
+"2026-11-04"
+],
+"/san-simera/02-18.html": [
+"2e4f461f4cb6316c",
+"2026-11-04"
+],
+"/san-simera/02-19.html": [
+"1b6d54f025063359",
+"2026-11-04"
+],
+"/san-simera/02-20.html": [
+"7138115578e536b1",
+"2026-11-04"
+],
+"/san-simera/02-21.html": [
+"cee9a958d4fe895d",
+"2026-11-04"
+],
+"/san-simera/02-22.html": [
+"f8d375b74d28c2a7",
+"2026-11-04"
+],
+"/san-simera/02-23.html": [
+"52db0393d8673f74",
+"2026-11-04"
+],
+"/san-simera/02-24.html": [
+"a6c9ee55f33f9f38",
+"2026-11-04"
+],
+"/san-simera/02-25.html": [
+"256d87e1a6ef78f5",
+"2026-11-04"
+],
+"/san-simera/02-26.html": [
+"4378f4f0cfce98ea",
+"2026-11-04"
+],
+"/san-simera/02-27.html": [
+"124a3d1c2fb42293",
+"2026-11-04"
+],
+"/san-simera/02-28.html": [
+"a765dfa960988320",
+"2026-11-04"
+],
+"/san-simera/02-29.html": [
+"0ee2fbf826d1bc51",
+"2026-11-04"
+],
+"/san-simera/03-01.html": [
+"70744e1d8ad9dd1e",
+"2026-11-04"
+],
+"/san-simera/03-02.html": [
+"a3c4206add4a8fc4",
+"2026-11-04"
+],
+"/san-simera/03-03.html": [
+"a8549c821c2b5cec",
+"2026-11-04"
+],
+"/san-simera/03-04.html": [
+"1761b3f226393aea",
+"2026-11-04"
+],
+"/san-simera/03-05.html": [
+"8001f05a068df2d6",
+"2026-11-04"
+],
+"/san-simera/03-06.html": [
+"e24f58ad0895f7c8",
+"2026-11-04"
+],
+"/san-simera/03-07.html": [
+"820a0e90d2b1b2d8",
+"2026-11-04"
+],
+"/san-simera/03-08.html": [
+"5dbffe114638e4f1",
+"2026-11-04"
+],
+"/san-simera/03-09.html": [
+"ae2715ca12602a12",
+"2026-11-04"
+],
+"/san-simera/03-10.html": [
+"04d26b404434d4d5",
+"2026-11-04"
+],
+"/san-simera/03-11.html": [
+"5b052fdd45dd687a",
+"2026-11-04"
+],
+"/san-simera/03-12.html": [
+"cbfecdd374b74ea3",
+"2026-11-04"
+],
+"/san-simera/03-13.html": [
+"2e3f9f33f23abc28",
+"2026-11-04"
+],
+"/san-simera/03-14.html": [
+"fd8a8618a6bba266",
+"2026-11-04"
+],
+"/san-simera/03-15.html": [
+"6dddd88aa84cd641",
+"2026-11-04"
+],
+"/san-simera/03-16.html": [
+"f2a46c4d07aa76ec",
+"2026-11-04"
+],
+"/san-simera/03-17.html": [
+"598922d3ccf6b355",
+"2026-11-04"
+],
+"/san-simera/03-18.html": [
+"a092b9980b9f1c49",
+"2026-11-04"
+],
+"/san-simera/03-19.html": [
+"de723eb468cbae5d",
+"2026-11-04"
+],
+"/san-simera/03-20.html": [
+"466743045c82da2d",
+"2026-11-04"
+],
+"/san-simera/03-21.html": [
+"1e60b05d1e1a461c",
+"2026-11-04"
+],
+"/san-simera/03-22.html": [
+"a9cd1970650854d5",
+"2026-11-04"
+],
+"/san-simera/03-23.html": [
+"59c8bb64fd8c05e9",
+"2026-11-04"
+],
+"/san-simera/03-24.html": [
+"b4c2e7afb42e510f",
+"2026-11-04"
+],
+"/san-simera/03-25.html": [
+"12afe47c91328d9e",
+"2026-11-04"
+],
+"/san-simera/03-26.html": [
+"506ae8e2bc84dda7",
+"2026-11-04"
+],
+"/san-simera/03-27.html": [
+"93e3d22556070794",
+"2026-11-04"
+],
+"/san-simera/03-28.html": [
+"5cd8dd38f24c9e19",
+"2026-11-04"
+],
+"/san-simera/03-29.html": [
+"2765e8826ad6dd39",
+"2026-11-04"
+],
+"/san-simera/03-30.html": [
+"11ca0da843f6a0fd",
+"2026-11-04"
+],
+"/san-simera/03-31.html": [
+"61f74e54cee9e09c",
+"2026-11-04"
+],
+"/san-simera/04-01.html": [
+"d69eb29a56f4c798",
+"2026-11-04"
+],
+"/san-simera/04-02.html": [
+"9b8e32a52079555b",
+"2026-11-04"
+],
+"/san-simera/04-03.html": [
+"465483781b4af5c8",
+"2026-11-04"
+],
+"/san-simera/04-04.html": [
+"8ba7658539fb7c72",
+"2026-11-04"
+],
+"/san-simera/04-05.html": [
+"f4561b300de4ff6d",
+"2026-11-04"
+],
+"/san-simera/04-06.html": [
+"e2ab7ce90af170e3",
+"2026-11-04"
+],
+"/san-simera/04-07.html": [
+"ab947f640e7d1d17",
+"2026-11-04"
+],
+"/san-simera/04-08.html": [
+"cadf9cc801f44b84",
+"2026-11-04"
+],
+"/san-simera/04-09.html": [
+"9ffe5366c4b09859",
+"2026-11-04"
+],
+"/san-simera/04-10.html": [
+"520a8cc611207072",
+"2026-11-04"
+],
+"/san-simera/04-11.html": [
+"98a44a429474de06",
+"2026-11-04"
+],
+"/san-simera/04-12.html": [
+"4b0cb4d7e6988c95",
+"2026-11-04"
+],
+"/san-simera/04-13.html": [
+"1165a119f665c3e6",
+"2026-11-04"
+],
+"/san-simera/04-14.html": [
+"537710897737230e",
+"2026-11-04"
+],
+"/san-simera/04-15.html": [
+"3314d961d32d66e4",
+"2026-11-04"
+],
+"/san-simera/04-16.html": [
+"39304d07fc677b27",
+"2026-11-04"
+],
+"/san-simera/04-17.html": [
+"5afad7183ec746a8",
+"2026-11-04"
+],
+"/san-simera/04-18.html": [
+"13b573b51d8099d0",
+"2026-11-04"
+],
+"/san-simera/04-19.html": [
+"cccd56e555ca349c",
+"2026-11-04"
+],
+"/san-simera/04-20.html": [
+"7e45b7fbd4e0f7a3",
+"2026-11-04"
+],
+"/san-simera/04-21.html": [
+"6e3a475b7fe04354",
+"2026-11-04"
+],
+"/san-simera/04-22.html": [
+"47f771bf1bd675e8",
+"2026-11-04"
+],
+"/san-simera/04-23.html": [
+"6fd37dd12f328855",
+"2026-11-04"
+],
+"/san-simera/04-24.html": [
+"02527782e2f99df9",
+"2026-11-04"
+],
+"/san-simera/04-25.html": [
+"3e7f1e02199d04fd",
+"2026-11-04"
+],
+"/san-simera/04-26.html": [
+"b073b6a4aaea6680",
+"2026-11-04"
+],
+"/san-simera/04-27.html": [
+"2d6319080bfc1e1e",
+"2026-11-04"
+],
+"/san-simera/04-28.html": [
+"6b3dc8295151cd11",
+"2026-11-04"
+],
+"/san-simera/04-29.html": [
+"540f19f50b155ccd",
+"2026-11-04"
+],
+"/san-simera/04-30.html": [
+"a9baf01c1c534ef3",
+"2026-11-04"
+],
+"/san-simera/05-01.html": [
+"f307a28fa3375b8d",
+"2026-11-04"
+],
+"/san-simera/05-02.html": [
+"afbfa175c1cbdc42",
+"2026-11-04"
+],
+"/san-simera/05-03.html": [
+"89d18d441acd5447",
+"2026-11-04"
+],
+"/san-simera/05-04.html": [
+"e5a7a93fffbdda97",
+"2026-11-04"
+],
+"/san-simera/05-05.html": [
+"1a2e4ace53ac7638",
+"2026-11-04"
+],
+"/san-simera/05-06.html": [
+"9440987a73b75b85",
+"2026-11-04"
+],
+"/san-simera/05-07.html": [
+"fc25cbe14f50db70",
+"2026-11-04"
+],
+"/san-simera/05-08.html": [
+"276646230a3bf318",
+"2026-11-04"
+],
+"/san-simera/05-09.html": [
+"6fbd361b6f308160",
+"2026-11-04"
+],
+"/san-simera/05-10.html": [
+"bd948ddf75295aae",
+"2026-11-04"
+],
+"/san-simera/05-11.html": [
+"252a79e20cbeeadb",
+"2026-11-04"
+],
+"/san-simera/05-12.html": [
+"24b65f23bc9573dc",
+"2026-11-04"
+],
+"/san-simera/05-13.html": [
+"b9fdb5de43f41022",
+"2026-11-04"
+],
+"/san-simera/05-14.html": [
+"23346d4698a41df1",
+"2026-11-04"
+],
+"/san-simera/05-15.html": [
+"ed6c58b0ee40ea24",
+"2026-11-04"
+],
+"/san-simera/05-16.html": [
+"9bf059f988398754",
+"2026-11-04"
+],
+"/san-simera/05-17.html": [
+"3b8e39659d3b39bd",
+"2026-11-04"
+],
+"/san-simera/05-18.html": [
+"3331054011675061",
+"2026-11-04"
+],
+"/san-simera/05-19.html": [
+"bfa0fb0c7ed59ecf",
+"2026-11-04"
+],
+"/san-simera/05-20.html": [
+"9f42dd2210c791e4",
+"2026-11-04"
+],
+"/san-simera/05-21.html": [
+"b0fcee1cd6238e08",
+"2026-11-04"
+],
+"/san-simera/05-22.html": [
+"4d10d8c7f852c8a9",
+"2026-11-04"
+],
+"/san-simera/05-23.html": [
+"66c10adc897c4f07",
+"2026-11-04"
+],
+"/san-simera/05-24.html": [
+"9a5874b1694c6518",
+"2026-11-04"
+],
+"/san-simera/05-25.html": [
+"f33dcc9a58d64403",
+"2026-11-04"
+],
+"/san-simera/05-26.html": [
+"5db2b9f2f3dea3f8",
+"2026-11-04"
+],
+"/san-simera/05-27.html": [
+"03c3f6d11828c15e",
+"2026-11-04"
+],
+"/san-simera/05-28.html": [
+"b84cb609a6bd62a2",
+"2026-11-04"
+],
+"/san-simera/05-29.html": [
+"e0408cc72dbc8956",
+"2026-11-04"
+],
+"/san-simera/05-30.html": [
+"210a2f0b8308f1ab",
+"2026-11-04"
+],
+"/san-simera/05-31.html": [
+"59499d0c231e3178",
+"2026-11-04"
+],
+"/san-simera/06-01.html": [
+"970c4bdba8a662d2",
+"2026-11-04"
+],
+"/san-simera/06-02.html": [
+"f020f23c1d27db6f",
+"2026-11-04"
+],
+"/san-simera/06-03.html": [
+"8a3b7ef21f358e00",
+"2026-11-04"
+],
+"/san-simera/06-04.html": [
+"6e16f9525d2a592a",
+"2026-11-04"
+],
+"/san-simera/06-05.html": [
+"0edffb3731430e03",
+"2026-11-04"
+],
+"/san-simera/06-06.html": [
+"62261a41c57c29a2",
+"2026-11-04"
+],
+"/san-simera/06-07.html": [
+"375f371a91874ccf",
+"2026-11-04"
+],
+"/san-simera/06-08.html": [
+"7b3b7d87fa80fce0",
+"2026-11-04"
+],
+"/san-simera/06-09.html": [
+"43a1e485bb524067",
+"2026-11-04"
+],
+"/san-simera/06-10.html": [
+"add009a818338686",
+"2026-11-04"
+],
+"/san-simera/06-11.html": [
+"5d7e389ce32901fe",
+"2026-11-04"
+],
+"/san-simera/06-12.html": [
+"dba262210ce0c450",
+"2026-11-04"
+],
+"/san-simera/06-13.html": [
+"67c15d15f9469ba2",
+"2026-11-04"
+],
+"/san-simera/06-14.html": [
+"fc6eb8bc2b8f7b52",
+"2026-11-04"
+],
+"/san-simera/06-15.html": [
+"a7c3590db24c979b",
+"2026-11-04"
+],
+"/san-simera/06-16.html": [
+"c3fead1912174381",
+"2026-11-04"
+],
+"/san-simera/06-17.html": [
+"afe60fbc5e7037ad",
+"2026-11-04"
+],
+"/san-simera/06-18.html": [
+"8c632ba91a357ced",
+"2026-11-04"
+],
+"/san-simera/06-19.html": [
+"4d1647d5c204d571",
+"2026-11-04"
+],
+"/san-simera/06-20.html": [
+"36391aa54052c4d7",
+"2026-11-04"
+],
+"/san-simera/06-21.html": [
+"3d74d2a97c952da1",
+"2026-11-04"
+],
+"/san-simera/06-22.html": [
+"5c042aaf550eade3",
+"2026-11-04"
+],
+"/san-simera/06-23.html": [
+"444e6e3e9fb9145d",
+"2026-11-04"
+],
+"/san-simera/06-24.html": [
+"84fff61214d596f4",
+"2026-11-04"
+],
+"/san-simera/06-25.html": [
+"6841cc5c5b477858",
+"2026-11-04"
+],
+"/san-simera/06-26.html": [
+"24ce9baad7c9e81e",
+"2026-11-04"
+],
+"/san-simera/06-27.html": [
+"64978616885fe850",
+"2026-11-04"
+],
+"/san-simera/06-28.html": [
+"3884b6970b416c05",
+"2026-11-04"
+],
+"/san-simera/06-29.html": [
+"bc1d8e809e0c0125",
+"2026-11-04"
+],
+"/san-simera/06-30.html": [
+"f3c4f8ec07350519",
+"2026-11-04"
+],
+"/san-simera/07-01.html": [
+"98f8301853a6fee8",
+"2026-11-04"
+],
+"/san-simera/07-02.html": [
+"1b2211ea4b270e65",
+"2026-11-04"
+],
+"/san-simera/07-03.html": [
+"e9d44e7074740175",
+"2026-11-04"
+],
+"/san-simera/07-04.html": [
+"7cd255c17c3c7838",
+"2026-11-04"
+],
+"/san-simera/07-05.html": [
+"ad9a08a6d053b410",
+"2026-11-04"
+],
+"/san-simera/07-06.html": [
+"bb722d873764e3c2",
+"2026-11-04"
+],
+"/san-simera/07-07.html": [
+"f17f6fd06ebdd411",
+"2026-11-04"
+],
+"/san-simera/07-08.html": [
+"07fce837e953c4c8",
+"2026-11-04"
+],
+"/san-simera/07-09.html": [
+"4826c5ac314ed97b",
+"2026-11-04"
+],
+"/san-simera/07-10.html": [
+"b807ad60cc2e9e4b",
+"2026-11-04"
+],
+"/san-simera/07-11.html": [
+"29e6b82a39b114c6",
+"2026-11-04"
+],
+"/san-simera/07-12.html": [
+"ec6de1010be5d24b",
+"2026-11-04"
+],
+"/san-simera/07-13.html": [
+"fcbd0a914863a470",
+"2026-11-04"
+],
+"/san-simera/07-14.html": [
+"53ac27ada05f9b29",
+"2026-11-04"
+],
+"/san-simera/07-15.html": [
+"70e3eb6a63c65014",
+"2026-11-04"
+],
+"/san-simera/07-16.html": [
+"7b71cd4213d125a8",
+"2026-11-04"
+],
+"/san-simera/07-17.html": [
+"dc5851a88a02c9d6",
+"2026-11-04"
+],
+"/san-simera/07-18.html": [
+"f2f532f21df69b5d",
+"2026-11-04"
+],
+"/san-simera/07-19.html": [
+"cc9a5658f3bff565",
+"2026-11-04"
+],
+"/san-simera/07-20.html": [
+"16e4048ac4192225",
+"2026-11-04"
+],
+"/san-simera/07-21.html": [
+"ead36332aa824f2e",
+"2026-11-04"
+],
+"/san-simera/07-22.html": [
+"2da6c0bc26735279",
+"2026-11-04"
+],
+"/san-simera/07-23.html": [
+"354bb4cddcb4a23d",
+"2026-11-04"
+],
+"/san-simera/07-24.html": [
+"e09987a73e3a5215",
+"2026-11-04"
+],
+"/san-simera/07-25.html": [
+"ba339767e5dddc21",
+"2026-11-04"
+],
+"/san-simera/07-26.html": [
+"0fff1383c30d5ce0",
+"2026-11-04"
+],
+"/san-simera/07-27.html": [
+"58d00fba478263f5",
+"2026-11-04"
+],
+"/san-simera/07-28.html": [
+"028d8a3de0a196a5",
+"2026-11-04"
+],
+"/san-simera/07-29.html": [
+"1eb382901c13f92c",
+"2026-11-04"
+],
+"/san-simera/07-30.html": [
+"d09fd26b05280560",
+"2026-11-04"
+],
+"/san-simera/07-31.html": [
+"14283961bc62f147",
+"2026-11-04"
+],
+"/san-simera/08-01.html": [
+"14f27a584390930a",
+"2026-11-04"
+],
+"/san-simera/08-02.html": [
+"5acb59263ab42e04",
+"2026-11-04"
+],
+"/san-simera/08-03.html": [
+"37fce96d43f6b582",
+"2026-11-04"
+],
+"/san-simera/08-04.html": [
+"daa2a4f78fd24e50",
+"2026-11-04"
+],
+"/san-simera/08-05.html": [
+"bea3412480ccf7be",
+"2026-11-04"
+],
+"/san-simera/08-06.html": [
+"16b9d30600506a4d",
+"2026-11-04"
+],
+"/san-simera/08-07.html": [
+"ab55649d94ae2d6d",
+"2026-11-04"
+],
+"/san-simera/08-08.html": [
+"fbe710a3c237ee10",
+"2026-11-04"
+],
+"/san-simera/08-09.html": [
+"121c441ea05e7240",
+"2026-11-04"
+],
+"/san-simera/08-10.html": [
+"219a8c49f04852b8",
+"2026-11-04"
+],
+"/san-simera/08-11.html": [
+"7e9735f2a1e9f212",
+"2026-11-04"
+],
+"/san-simera/08-12.html": [
+"2fe8742dd54e4010",
+"2026-11-04"
+],
+"/san-simera/08-13.html": [
+"d30cfbb1d498beda",
+"2026-11-04"
+],
+"/san-simera/08-14.html": [
+"6a3b8a92f1431992",
+"2026-11-04"
+],
+"/san-simera/08-15.html": [
+"565a5899f62bad72",
+"2026-11-04"
+],
+"/san-simera/08-16.html": [
+"7fa3c3e09d970281",
+"2026-11-04"
+],
+"/san-simera/08-17.html": [
+"da8416cdf2c5bbdf",
+"2026-11-04"
+],
+"/san-simera/08-18.html": [
+"1d41f7cb0a639990",
+"2026-11-04"
+],
+"/san-simera/08-19.html": [
+"d95bc21e8f06a2f8",
+"2026-11-04"
+],
+"/san-simera/08-20.html": [
+"10e1a1e3dc816d7e",
+"2026-11-04"
+],
+"/san-simera/08-21.html": [
+"77b2c8067d4d6049",
+"2026-11-04"
+],
+"/san-simera/08-22.html": [
+"107e6d4e1da66f5f",
+"2026-11-04"
+],
+"/san-simera/08-23.html": [
+"449d9bc4e931bb42",
+"2026-11-04"
+],
+"/san-simera/08-24.html": [
+"f4cb57c58a6f3e2f",
+"2026-11-04"
+],
+"/san-simera/08-25.html": [
+"120e5445b6abe0e5",
+"2026-11-04"
+],
+"/san-simera/08-26.html": [
+"f2e6abe437bb2f2d",
+"2026-11-04"
+],
+"/san-simera/08-27.html": [
+"3dd4e61973a2ea5f",
+"2026-11-04"
+],
+"/san-simera/08-28.html": [
+"a5cbd709b8ccdb33",
+"2026-11-04"
+],
+"/san-simera/08-29.html": [
+"2edfc3a817a4e4ed",
+"2026-11-04"
+],
+"/san-simera/08-30.html": [
+"883820a5392709c1",
+"2026-11-04"
+],
+"/san-simera/08-31.html": [
+"5066884589f6d49a",
+"2026-11-04"
+],
+"/san-simera/09-01.html": [
+"4805e0e057813355",
+"2026-11-04"
+],
+"/san-simera/09-02.html": [
+"3da5bddac4b02102",
+"2026-11-04"
+],
+"/san-simera/09-03.html": [
+"1afc2b4487e2768c",
+"2026-11-04"
+],
+"/san-simera/09-04.html": [
+"8db86810683c6552",
+"2026-11-04"
+],
+"/san-simera/09-05.html": [
+"d61949461c8b2a73",
+"2026-11-04"
+],
+"/san-simera/09-06.html": [
+"0f050657615637df",
+"2026-11-04"
+],
+"/san-simera/09-07.html": [
+"6ce42872825fff4d",
+"2026-11-04"
+],
+"/san-simera/09-08.html": [
+"484cba37d6177107",
+"2026-11-04"
+],
+"/san-simera/09-09.html": [
+"90fb17117fd82de4",
+"2026-11-04"
+],
+"/san-simera/09-10.html": [
+"167e511dba5057fa",
+"2026-11-04"
+],
+"/san-simera/09-11.html": [
+"2a0c6f810e5e826e",
+"2026-11-04"
+],
+"/san-simera/09-12.html": [
+"38aba7969bb49f9f",
+"2026-11-04"
+],
+"/san-simera/09-13.html": [
+"f75450de528e2efa",
+"2026-11-04"
+],
+"/san-simera/09-14.html": [
+"eb911a3a77f5dc0f",
+"2026-11-04"
+],
+"/san-simera/09-15.html": [
+"c326b2aef53e48ba",
+"2026-11-04"
+],
+"/san-simera/09-16.html": [
+"583ead764c2539b8",
+"2026-11-04"
+],
+"/san-simera/09-17.html": [
+"524a74b5f785ce61",
+"2026-11-04"
+],
+"/san-simera/09-18.html": [
+"5b3bf4ab805d4457",
+"2026-11-04"
+],
+"/san-simera/09-19.html": [
+"01235e7531556f5d",
+"2026-11-04"
+],
+"/san-simera/09-20.html": [
+"84c64556365aa91d",
+"2026-11-04"
+],
+"/san-simera/09-21.html": [
+"5841d9810cf0c91e",
+"2026-11-04"
+],
+"/san-simera/09-22.html": [
+"0971b99a6e07faf0",
+"2026-11-04"
+],
+"/san-simera/09-23.html": [
+"4a55f59e50d75757",
+"2026-11-04"
+],
+"/san-simera/09-24.html": [
+"c85e26006c5fdb14",
+"2026-11-04"
+],
+"/san-simera/09-25.html": [
+"3a71d3ccabf46300",
+"2026-11-04"
+],
+"/san-simera/09-26.html": [
+"5fc4d43f6c143bbe",
+"2026-11-04"
+],
+"/san-simera/09-27.html": [
+"51cf4565dee094a3",
+"2026-11-04"
+],
+"/san-simera/09-28.html": [
+"cd93112df9f0bebd",
+"2026-11-04"
+],
+"/san-simera/09-29.html": [
+"46dd4827a18cbb64",
+"2026-11-04"
+],
+"/san-simera/09-30.html": [
+"341ccb76df6c1aa3",
+"2026-11-04"
+],
+"/san-simera/10-01.html": [
+"e88afab4f9c84cc2",
+"2026-11-04"
+],
+"/san-simera/10-02.html": [
+"34b5619e3da16761",
+"2026-11-04"
+],
+"/san-simera/10-03.html": [
+"bfccd548bebae6bd",
+"2026-11-04"
+],
+"/san-simera/10-04.html": [
+"503653b90353c715",
+"2026-11-04"
+],
+"/san-simera/10-05.html": [
+"37679b6c2405e012",
+"2026-11-04"
+],
+"/san-simera/10-06.html": [
+"7e20b7da94e39a4e",
+"2026-11-04"
+],
+"/san-simera/10-07.html": [
+"5638cad8dd5c1045",
+"2026-11-04"
+],
+"/san-simera/10-08.html": [
+"ae5c902e5dee4877",
+"2026-11-04"
+],
+"/san-simera/10-09.html": [
+"afeba9379b6c155e",
+"2026-11-04"
+],
+"/san-simera/10-10.html": [
+"3c7d874cbc25ea6d",
+"2026-11-04"
+],
+"/san-simera/10-11.html": [
+"46d7b0bc885b0f79",
+"2026-11-04"
+],
+"/san-simera/10-12.html": [
+"874eff97829673f2",
+"2026-11-04"
+],
+"/san-simera/10-13.html": [
+"ddc5046acc5851f4",
+"2026-11-04"
+],
+"/san-simera/10-14.html": [
+"7c2ee209cb8ad19b",
+"2026-11-04"
+],
+"/san-simera/10-15.html": [
+"840014ffdae582cb",
+"2026-11-04"
+],
+"/san-simera/10-16.html": [
+"56ad8ea9e2787261",
+"2026-11-04"
+],
+"/san-simera/10-17.html": [
+"da9e803257f99899",
+"2026-11-04"
+],
+"/san-simera/10-18.html": [
+"7f92ffca640a85a5",
+"2026-11-04"
+],
+"/san-simera/10-19.html": [
+"6e09741275e705de",
+"2026-11-04"
+],
+"/san-simera/10-20.html": [
+"861ce4f6666d07fb",
+"2026-11-04"
+],
+"/san-simera/10-21.html": [
+"84ef380f9cb249c1",
+"2026-11-04"
+],
+"/san-simera/10-22.html": [
+"6967007f12888ea0",
+"2026-11-04"
+],
+"/san-simera/10-23.html": [
+"f177e02ef852981a",
+"2026-11-04"
+],
+"/san-simera/10-24.html": [
+"6b7dc4595b145a94",
+"2026-11-04"
+],
+"/san-simera/10-25.html": [
+"9d409115d67adb54",
+"2026-11-04"
+],
+"/san-simera/10-26.html": [
+"641abde3044e7357",
+"2026-11-04"
+],
+"/san-simera/10-27.html": [
+"5bfa2dcc19db4304",
+"2026-11-04"
+],
+"/san-simera/10-28.html": [
+"08c6877c253890a4",
+"2026-11-04"
+],
+"/san-simera/10-29.html": [
+"448c47a77ab36d5d",
+"2026-11-04"
+],
+"/san-simera/10-30.html": [
+"423bbbed3d2d2a46",
+"2026-11-04"
+],
+"/san-simera/10-31.html": [
+"1ce9080f15e18f42",
+"2026-11-04"
+],
+"/san-simera/11-01.html": [
+"2106df35df0452cd",
+"2026-11-04"
+],
+"/san-simera/11-02.html": [
+"268d2e49f0eaea4b",
+"2026-11-04"
+],
+"/san-simera/11-03.html": [
+"9a2da28e6aa16dde",
+"2026-11-04"
+],
+"/san-simera/11-04.html": [
+"bc99dabe9b4c13a2",
+"2026-11-04"
+],
+"/san-simera/11-05.html": [
+"7de5ff922db4de02",
+"2026-11-04"
+],
+"/san-simera/11-06.html": [
+"aa2a7c25bb843457",
+"2026-11-04"
+],
+"/san-simera/11-07.html": [
+"2ae48f38034b905c",
+"2026-11-04"
+],
+"/san-simera/11-08.html": [
+"91513ce0854aad25",
+"2026-11-04"
+],
+"/san-simera/11-09.html": [
+"341ae7e2e34e9e2d",
+"2026-11-04"
+],
+"/san-simera/11-10.html": [
+"2457dc559e857559",
+"2026-11-04"
+],
+"/san-simera/11-11.html": [
+"88fa64c3473ced74",
+"2026-11-04"
+],
+"/san-simera/11-12.html": [
+"b7c02266356a4b1e",
+"2026-11-04"
+],
+"/san-simera/11-13.html": [
+"f983301cc6e79b84",
+"2026-11-04"
+],
+"/san-simera/11-14.html": [
+"042f38b9ac102312",
+"2026-11-04"
+],
+"/san-simera/11-15.html": [
+"5ffa9dfd330bec46",
+"2026-11-04"
+],
+"/san-simera/11-16.html": [
+"8dba1780224505f5",
+"2026-11-04"
+],
+"/san-simera/11-17.html": [
+"7f4583b299f9a95e",
+"2026-11-04"
+],
+"/san-simera/11-18.html": [
+"af3fa65e88abc362",
+"2026-11-04"
+],
+"/san-simera/11-19.html": [
+"ba303f1ec7d2775d",
+"2026-11-04"
+],
+"/san-simera/11-20.html": [
+"f11e1b70a3e011a3",
+"2026-11-04"
+],
+"/san-simera/11-21.html": [
+"e5aee31d0a2f75fb",
+"2026-11-04"
+],
+"/san-simera/11-22.html": [
+"91312bfde6a24f43",
+"2026-11-04"
+],
+"/san-simera/11-23.html": [
+"e15534134252d230",
+"2026-11-04"
+],
+"/san-simera/11-24.html": [
+"9827d861796fa322",
+"2026-11-04"
+],
+"/san-simera/11-25.html": [
+"ab15cd236e4e651d",
+"2026-11-04"
+],
+"/san-simera/11-26.html": [
+"1fa46de2ecf9a5bb",
+"2026-11-04"
+],
+"/san-simera/11-27.html": [
+"996a849d8479c86a",
+"2026-11-04"
+],
+"/san-simera/11-28.html": [
+"43fd825e94d7e682",
+"2026-11-04"
+],
+"/san-simera/11-29.html": [
+"91c5b929d829a1e2",
+"2026-11-04"
+],
+"/san-simera/11-30.html": [
+"74462e49d1ce007a",
+"2026-11-04"
+],
+"/san-simera/12-01.html": [
+"713e19be727a7440",
+"2026-11-04"
+],
+"/san-simera/12-02.html": [
+"4ffa52793fc0872a",
+"2026-11-04"
+],
+"/san-simera/12-03.html": [
+"c6af3f169c4cb876",
+"2026-11-04"
+],
+"/san-simera/12-04.html": [
+"d82b926f9e8e12ad",
+"2026-11-04"
+],
+"/san-simera/12-05.html": [
+"befd665ea6736fd9",
+"2026-11-04"
+],
+"/san-simera/12-06.html": [
+"45ef6241a946fbf2",
+"2026-11-04"
+],
+"/san-simera/12-07.html": [
+"a7ed0df2005b728d",
+"2026-11-04"
+],
+"/san-simera/12-08.html": [
+"0a5c3c0ba055dff6",
+"2026-11-04"
+],
+"/san-simera/12-09.html": [
+"56b810cfbc53ca7a",
+"2026-11-04"
+],
+"/san-simera/12-10.html": [
+"517d1d0f13d846a0",
+"2026-11-04"
+],
+"/san-simera/12-11.html": [
+"80c64fed80e35134",
+"2026-11-04"
+],
+"/san-simera/12-12.html": [
+"73cfb60923b75459",
+"2026-11-04"
+],
+"/san-simera/12-13.html": [
+"f10a0703245df272",
+"2026-11-04"
+],
+"/san-simera/12-14.html": [
+"8880e471dda5de5e",
+"2026-11-04"
+],
+"/san-simera/12-15.html": [
+"1942fb127ca1067b",
+"2026-11-04"
+],
+"/san-simera/12-16.html": [
+"ac700561fe617716",
+"2026-11-04"
+],
+"/san-simera/12-17.html": [
+"cc1bee70ff500fb3",
+"2026-11-04"
+],
+"/san-simera/12-18.html": [
+"569924b28d1c6cb8",
+"2026-11-04"
+],
+"/san-simera/12-19.html": [
+"1986a9747ed1fcf2",
+"2026-11-04"
+],
+"/san-simera/12-20.html": [
+"6477ec599e7a7bab",
+"2026-11-04"
+],
+"/san-simera/12-21.html": [
+"9b5653cde4bdf21c",
+"2026-11-04"
+],
+"/san-simera/12-22.html": [
+"3841c803942123a0",
+"2026-11-04"
+],
+"/san-simera/12-23.html": [
+"1c6477bace0554b3",
+"2026-11-04"
+],
+"/san-simera/12-24.html": [
+"e9333b62ef1f2983",
+"2026-11-04"
+],
+"/san-simera/12-25.html": [
+"5b53fa64e86220bb",
+"2026-11-04"
+],
+"/san-simera/12-26.html": [
+"f91cd1b910f3973f",
+"2026-11-04"
+],
+"/san-simera/12-27.html": [
+"a15168f6e6880e12",
+"2026-11-04"
+],
+"/san-simera/12-28.html": [
+"4e3e57e8fd800fbc",
+"2026-11-04"
+],
+"/san-simera/12-29.html": [
+"f2832cf4a73f4041",
+"2026-11-04"
+],
+"/san-simera/12-30.html": [
+"e93dea4350036f75",
+"2026-11-04"
+],
+"/san-simera/12-31.html": [
+"6ea2b1325ea072e1",
+"2026-11-04"
+],
+"/simera/": [
+"0d58604878e50a2b",
+"2026-11-04"
+],
+"/stigmes/": [
+"26f077bc227d301e",
+"2026-11-04"
+],
+"/stigmes/mpasket-1997-roma.html": [
+"5784a175f85efe60",
+"2026-11-04"
+],
+"/stigmes/mpasket-2012-konstantinoupoli.html": [
+"5be5f8231b28df1a",
+"2026-11-04"
+],
+"/stigmes/mpasket-2013-londino.html": [
+"ac3757dca8ad0746",
+"2026-11-04"
+],
+"/stigmes/mpasket-2015-madriti-tssk.html": [
+"3488217ef3affdb2",
+"2026-11-04"
+],
+"/stigmes/mpasket-2017-konstantinoupoli-tssk.html": [
+"1f34d1dbe70f857d",
+"2026-11-04"
+],
+"/stigmes/mpasket-2026-athina.html": [
+"659356ea7e924ff8",
+"2026-11-04"
+],
+"/stigmes/podosfairo-1999-giouventous.html": [
+"71d4d7efe59f910d",
+"2026-11-04"
+],
+"/stigmes/podosfairo-2014-mantsester-giounaitent.html": [
+"7358c1705dbbd9dd",
+"2026-11-04"
+],
+"/stigmes/podosfairo-2020-arsenal.html": [
+"023cd1def9d30288",
+"2026-11-04"
+],
+"/stigmes/podosfairo-2024-conference-league.html": [
+"31c0c3c8bc1d40ba",
+"2026-11-04"
+],
+"/stigmes/podosfairo-2024-youth-league.html": [
+"b621edbc99126ce2",
+"2026-11-04"
+],
+"/stigmes/polo-2002-voudapesti.html": [
+"47b5e22eccefe889",
+"2026-11-04"
+],
+"/stigmes/polo-2018-genova.html": [
+"ca81858443179ec7",
+"2026-11-04"
+],
+"/stigmes/polo-gynaikwn-protathlitries-evropis.html": [
+"4af2968cec3a3428",
+"2026-11-04"
+],
+"/stigmes/volei-1996-kypello-kypellouxwn.html": [
+"74c95bd63c34e9c1",
+"2026-11-04"
+],
+"/stigmes/volei-2005-top-teams-cup.html": [
+"1453f40595af7286",
+"2026-11-04"
+],
+"/stigmes/volei-2023-challenge-cup.html": [
+"e952a9957a94c5d8",
+"2026-11-04"
+],
+"/stigmes/volei-gynaikwn-2018-challenge-cup.html": [
+"dce79cadd2ee1ce6",
+"2026-11-04"
+],
+"/tv/": [
+"f828c06852e0afd1",
+"2026-11-04"
+],
+"/videos/": [
+"a908244d79e77246",
+"2026-11-04"
+]
+}
