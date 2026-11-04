@@ -40,42 +40,59 @@ def qid_for(titles):
             if k.startswith("Q"): return k
     return ""
 
-Q = """SELECT ?p ?el ?en ?elwiki ?enwiki ?birth ?start ?end ?posEl ?posEn ?cEl ?cEn WHERE {
-  ?p p:P54 ?st. ?st ps:P54 wd:%s.
-  OPTIONAL { ?st pq:P580 ?start } OPTIONAL { ?st pq:P582 ?end }
-  OPTIONAL { ?p rdfs:label ?el FILTER(lang(?el) = "el") }
-  OPTIONAL { ?p rdfs:label ?en FILTER(lang(?en) = "en") }
-  OPTIONAL { ?elwiki schema:about ?p; schema:isPartOf <https://el.wikipedia.org/> }
-  OPTIONAL { ?enwiki schema:about ?p; schema:isPartOf <https://en.wikipedia.org/> }
-  OPTIONAL { ?p wdt:P569 ?birth }
-  OPTIONAL { ?p wdt:P413 ?pos. OPTIONAL { ?pos rdfs:label ?posEl FILTER(lang(?posEl) = "el") } OPTIONAL { ?pos rdfs:label ?posEn FILTER(lang(?posEn) = "en") } }
-  OPTIONAL { ?p wdt:P1532 ?c1 } OPTIONAL { ?p wdt:P27 ?c2 } BIND(COALESCE(?c1, ?c2) AS ?c)
-  OPTIONAL { ?c rdfs:label ?cEl FILTER(lang(?cEl) = "el") } OPTIONAL { ?c rdfs:label ?cEn FILTER(lang(?cEn) = "en") }
-}"""
+Q = """SELECT ?p ?start ?end WHERE { ?p p:P54 ?st. ?st ps:P54 wd:%s.
+  OPTIONAL { ?st pq:P580 ?start } OPTIONAL { ?st pq:P582 ?end } }"""
+API = "https://www.wikidata.org/w/api.php?format=json&action=wbgetentities&"
 
 def yr(v): return int(v[:4]) if v and v[:4].isdigit() else None
 
+def entities(ids, props, extra=""):
+    out = {}
+    for i in range(0, len(ids), 50):
+        d = get(API + f"ids={'|'.join(ids[i:i + 50])}&props={props}{extra}")
+        out.update(d.get("entities", {}))
+        time.sleep(0.3)
+    return out
+
+def claim_ids(e, p):
+    return [c["mainsnak"].get("datavalue", {}).get("value", {}).get("id") for c in e.get("claims", {}).get(p, []) if c["mainsnak"].get("datavalue")]
+
+def label(e, langs=("el", "en")):
+    for l in langs:
+        v = (e.get("labels", {}).get(l) or {}).get("value")
+        if v: return v
+    return ""
+
 def fetch_team(qid):
+    """Ελαφρύ SPARQL για τη λίστα και τα χρόνια, και μετά το API του Wikidata σε πακέτα των 50 για τα στοιχεία."""
     d = get("https://query.wikidata.org/sparql?format=json&query=" + urllib.parse.quote(Q % qid))
-    P = {}
+    spells = {}
     for b in d["results"]["bindings"]:
-        v = lambda k: b.get(k, {}).get("value", "")
-        pid = v("p").rsplit("/", 1)[-1]
-        x = P.setdefault(pid, dict(qid=pid, el="", en="", elwiki="", enwiki="", born=None, pos=set(), country=set(), spells=set()))
-        x["el"] = x["el"] or v("el"); x["en"] = x["en"] or v("en")
-        x["elwiki"] = x["elwiki"] or v("elwiki"); x["enwiki"] = x["enwiki"] or v("enwiki")
-        x["born"] = x["born"] or yr(v("birth")) and v("birth")[:10]
-        if v("posEl") or v("posEn"): x["pos"].add(v("posEl") or v("posEn"))
-        if v("cEl") or v("cEn"): x["country"].add(v("cEl") or v("cEn"))
-        x["spells"].add((yr(v("start")), yr(v("end"))))
+        pid = b["p"]["value"].rsplit("/", 1)[-1]
+        s = (yr(b.get("start", {}).get("value", "")), yr(b.get("end", {}).get("value", "")))
+        spells.setdefault(pid, set())
+        if s != (None, None): spells[pid].add(s)
+    ids = [i for i in spells if i.startswith("Q")]
+    E = entities(ids, "labels|sitelinks|claims", "&languages=el|en&sitefilter=elwiki|enwiki")
+    refs = sorted({r for e in E.values() for p in ("P413", "P1532", "P27") for r in claim_ids(e, p) if r})
+    L = {k: label(v) for k, v in entities(refs, "labels", "&languages=el|en").items()}
     out = []
-    for x in P.values():
-        sp = sorted({s for s in x["spells"] if s != (None, None)}, key=lambda s: (s[0] or 0, s[1] or 0))
-        name = x["el"] or x["en"]
-        if not name or name == x["qid"]: continue
-        out.append(dict(qid=x["qid"], name=name, latin=x["en"] if x["en"] != name else "", wiki=x["elwiki"] or x["enwiki"],
-                        wiki_lang="el" if x["elwiki"] else ("en" if x["enwiki"] else ""), born=x["born"] or "",
-                        pos=sorted(x["pos"])[:2], country=sorted(x["country"])[:2], spells=[list(s) for s in sp]))
+    for pid in ids:
+        e = E.get(pid, {})
+        el, en = label(e, ("el",)), label(e, ("en",))
+        name = el or en
+        if not name: continue
+        sl = e.get("sitelinks", {})
+        elw = (sl.get("elwiki") or {}).get("title", ""); enw = (sl.get("enwiki") or {}).get("title", "")
+        wiki = ("https://el.wikipedia.org/wiki/" + urllib.parse.quote(elw.replace(" ", "_"))) if elw else (("https://en.wikipedia.org/wiki/" + urllib.parse.quote(enw.replace(" ", "_"))) if enw else "")
+        born = ""
+        for c in e.get("claims", {}).get("P569", []):
+            t = c["mainsnak"].get("datavalue", {}).get("value", {}).get("time", "")
+            if t: born = t.lstrip("+")[:10]; break
+        country = [L[c] for c in (claim_ids(e, "P1532") or claim_ids(e, "P27")) if L.get(c)][:2]
+        out.append(dict(qid=pid, name=name, latin=en if en != name else "", wiki=wiki, wiki_lang="el" if elw else ("en" if enw else ""),
+                        born=born, pos=[L[c] for c in claim_ids(e, "P413") if L.get(c)][:2], country=country,
+                        spells=[list(s) for s in sorted(spells[pid], key=lambda s: (s[0] or 0, s[1] or 0))]))
     return out
 
 def main():
