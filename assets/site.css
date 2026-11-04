@@ -1,13 +1,13 @@
 :root{
-  --bg:#f6f5f3; --card:#ffffff; --ink:#16181d; --muted:#6b6f78; --line:#e6e3de;
-  --red:#c8102e; --head:#c8102e; --red-soft:#fbe9ec; --chip:#efece8;
+  --bg:#f6dfe3; --card:#ffffff; --ink:#16181d; --muted:#6e5a5f; --line:#ecd0d6; --stripe:rgba(200,16,46,.07);
+  --red:#c8102e; --head:#c8102e; --red-soft:#fbe9ec; --chip:#f6e6e9;
   --win:#0f7b4f; --win-bg:#e3f4ea; --draw:#8a6d00; --draw-bg:#fbf1cf; --loss:#b3261e; --loss-bg:#fbe4e2;
 }
 @media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931;
+  :root:not([data-theme="light"]){ --bg:#1c0d11; --card:#26151a; --ink:#f1e9eb; --muted:#b39aa1; --line:#41252c; --stripe:rgba(255,77,99,.05); --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#331d23;
     --win:#3fcf8e; --win-bg:#173326; --draw:#e6c34a; --draw-bg:#3a3215; --loss:#ff7a70; --loss-bg:#3d1c1a; }
 }
-:root[data-theme="dark"]{ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931;
+:root[data-theme="dark"]{ --bg:#1c0d11; --card:#26151a; --ink:#f1e9eb; --muted:#b39aa1; --line:#41252c; --stripe:rgba(255,77,99,.05); --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#331d23;
   --win:#3fcf8e; --win-bg:#173326; --draw:#e6c34a; --draw-bg:#3a3215; --loss:#ff7a70; --loss-bg:#3d1c1a; }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Manrope,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
@@ -157,3 +157,8 @@ table.facts tr:last-child th,table.facts tr:last-child td{border-bottom:0}
 .lv-src{margin:8px 0 0;font-size:12px;color:var(--muted)}
 @media (max-width:520px){.lv-sc{font-size:15px}.lv-sc strong{font-size:26px}}
 .lv-q th:first-child,.lv-bx th:first-child{text-transform:none;letter-spacing:0;font-size:14px}
+
+/* ερυθρόλευκο φόντο: ροζ-κόκκινο με λεπτές λοξές ρίγες, λευκές κάρτες, κόκκινο footer */
+body{background:var(--bg) repeating-linear-gradient(-62deg,transparent 0 56px,var(--stripe) 56px 84px) fixed}
+footer{background:var(--head);color:rgba(255,255,255,.88)!important;border-top:0!important}
+footer a{color:#fff;text-decoration:underline}

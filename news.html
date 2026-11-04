@@ -14,13 +14,13 @@
 <meta name="theme-color" content="#c8102e">
 <style>
 :root{
-  --bg:#f6f5f3; --card:#ffffff; --ink:#16181d; --muted:#6b6f78; --line:#e6e3de;
-  --red:#c8102e; --head:#c8102e; --red-soft:#fbe9ec; --chip:#efece8; --official:#0f7b4f;
+  --bg:#f6dfe3; --card:#ffffff; --ink:#16181d; --muted:#6e5a5f; --line:#ecd0d6; --stripe:rgba(200,16,46,.07);
+  --red:#c8102e; --head:#c8102e; --red-soft:#fbe9ec; --chip:#f6e6e9; --official:#0f7b4f;
 }
 @media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931; --official:#3fcf8e; }
+  :root:not([data-theme="light"]){ --bg:#1c0d11; --card:#26151a; --ink:#f1e9eb; --muted:#b39aa1; --line:#41252c; --stripe:rgba(255,77,99,.05); --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#331d23; --official:#3fcf8e; }
 }
-:root[data-theme="dark"]{ --bg:#121317; --card:#1b1d23; --ink:#eceef2; --muted:#9aa0ab; --line:#2a2d35; --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#262931; --official:#3fcf8e; }
+:root[data-theme="dark"]{ --bg:#1c0d11; --card:#26151a; --ink:#f1e9eb; --muted:#b39aa1; --line:#41252c; --stripe:rgba(255,77,99,.05); --red:#ff4d63; --head:#8e0c22; --red-soft:#3a1a20; --chip:#331d23; --official:#3fcf8e; }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Manrope,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
 a{color:inherit}
@@ -71,6 +71,11 @@ h2.day{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--
 .empty{text-align:center;color:var(--muted);padding:40px 0}
 footer{color:var(--muted);font-size:12.5px;padding:30px 0 40px;border-top:1px solid var(--line);margin-top:30px}
 @media (max-width:520px){ .brand .wm{font-size:25px} .title{font-size:16px} h1.pt{font-size:21px} }
+
+/* ερυθρόλευκο φόντο: ροζ-κόκκινο με λεπτές λοξές ρίγες, λευκές κάρτες, κόκκινο footer */
+body{background:var(--bg) repeating-linear-gradient(-62deg,transparent 0 56px,var(--stripe) 56px 84px) fixed}
+footer{background:var(--head);color:rgba(255,255,255,.88)!important;border-top:0!important}
+footer a{color:#fff;text-decoration:underline}
 </style>
 </head>
 <body>
