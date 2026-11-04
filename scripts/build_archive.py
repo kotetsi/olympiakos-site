@@ -1188,7 +1188,7 @@ def main():
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
     eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); apl = all_players(); prev = previews(); simera(); home(); calendar_ics()
-    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
+    urls = ["/", "/simera/", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     # lastmod = η μέρα που άλλαξε πραγματικά το περιεχόμενο της σελίδας (όχι σήμερα για όλες),
     # ώστε το Google να ξαναδιαβάζει πρώτα όσες άλλαξαν (π.χ. βγήκε κανάλι ή αποτέλεσμα)
