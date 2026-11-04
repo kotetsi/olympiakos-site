@@ -551,6 +551,48 @@ def videos():
 
 # ================================================================== Σαν σήμερα
 MONTHS = ["Ιανουαρίου", "Φεβρουαρίου", "Μαρτίου", "Απριλίου", "Μαΐου", "Ιουνίου", "Ιουλίου", "Αυγούστου", "Σεπτεμβρίου", "Οκτωβρίου", "Νοεμβρίου", "Δεκεμβρίου"]
+_SJ = os.path.join(ROOT, "data", "stigmes.json")
+STIG = json.load(open(_SJ, encoding="utf-8")) if os.path.exists(_SJ) else {"intro": "", "items": []}
+STIGMES = sorted(STIG["items"], key=lambda x: x["date"])
+SP_GR = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}
+SP_IC = {"football": "⚽", "basket": "🏀", "volley": "🏐", "polo": "🤽", "handball": "🤾"}
+
+def stigmes():
+    """/stigmes/: οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού (κείμενα στο data/stigmes.json)."""
+    def ok(u):  # link μόνο αν η σελίδα υπάρχει στο site
+        f = os.path.join(ROOT, u.lstrip("/"))
+        return os.path.exists(f) or os.path.exists(os.path.join(f, "index.html"))
+    os.makedirs(os.path.join(ROOT, "stigmes"), exist_ok=True)
+    for i, x in enumerate(STIGMES):
+        links = [(u, t) for u, t in x["links"] if ok(u)]
+        prv = STIGMES[i - 1] if i > 0 else None; nxt = STIGMES[i + 1] if i + 1 < len(STIGMES) else None
+        body = f"""<h1>{esc(x['title'])}</h1>
+<p class="sub">{SP_IC.get(x['sport'], '')} {SP_GR.get(x['sport'], '')} · {esc(x['date_label'])} · {esc(x['place'])}</p>
+<p class="lead">{esc(x['dek'])}</p>
+<table class="facts">{''.join(f'<tr><th>{esc(a)}</th><td>{esc(b)}</td></tr>' for a, b in x['facts'])}</table>
+<div class="story">{''.join(f'<p>{esc(t)}</p>' for t in x['body'])}</div>
+{('<h2>Στο αρχείο μας</h2><ul class="list">' + ''.join(f'<li><a href="{u}">{esc(t)} →</a></li>' for u, t in links) + '</ul>') if links else ''}
+{shop_box(TEAM[x['shop']], 'stigmes', 'Η ιστορία στη φανέλα σου', 'Εμφανίσεις και αναμνηστικά του Ολυμπιακού, με αποστολή σε όλη την Ελλάδα.') if x.get('shop') in TEAM else ''}
+<div class="pager">{f'<a href="/stigmes/{prv["slug"]}.html">‹ {prv["date"][:4]}</a>' if prv else '<span></span>'}<a href="/stigmes/">Όλες οι στιγμές</a>{f'<a href="/stigmes/{nxt["slug"]}.html">{nxt["date"][:4]} ›</a>' if nxt else '<span></span>'}</div>
+<p class="note">Πηγές: {' · '.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">{esc(t)}</a>' for t, u in x['sources'])}</p>"""
+        art = {"@context": "https://schema.org", "@type": "Article", "headline": x["title"], "description": x["dek"], "inLanguage": "el",
+               "about": {"@type": "SportsTeam", "name": "Ολυμπιακός"}, "publisher": OLY_ORG, "author": OLY_ORG,
+               "image": [SITE + "/assets/og/default.png"], "mainEntityOfPage": f"{SITE}/stigmes/{x['slug']}.html"}
+        write_root(f"stigmes/{x['slug']}.html", page(f"{x['title']} | Red Madness", x["dek"], body, "",
+                   [("/arxeio/", "Αρχείο"), ("/stigmes/", "Ευρωπαϊκές στιγμές"), ("", x["date"][:4])], f"/stigmes/{x['slug']}.html", ld=[art], og_type="article"))
+    cards = "".join(f'<a class="card stig" data-sp="{x["sport"]}" href="/stigmes/{x["slug"]}.html"><span class="shop-k">{SP_IC.get(x["sport"], "")} {SP_GR.get(x["sport"], "")} · {esc(x["date_label"])}</span>'
+                    f'<h2>{esc(x["title"])}</h2><p>{esc(x["dek"])}</p></a>' for x in reversed(STIGMES))
+    sports = [k for k in SP_GR if any(x["sport"] == k for x in STIGMES)]
+    tabs = '<div class="tabs" id="sf"><button class="on" data-s="">Όλα</button>' + "".join(f'<button data-s="{k}">{SP_GR[k]}</button>' for k in sports) + "</div>"
+    js = """<script>document.getElementById('sf').addEventListener('click',e=>{const s=e.target.dataset&&e.target.dataset.s;if(s===undefined)return;
+document.querySelectorAll('#sf button').forEach(b=>b.classList.toggle('on',b===e.target));document.querySelectorAll('.stig').forEach(c=>c.style.display=!s||c.dataset.sp===s?'':'none');});</script>"""
+    body = f"""<h1>Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού</h1>
+<p class="lead">{esc(STIG['intro'])}</p>{tabs}<div class="cards stigs">{cards}</div>{js}"""
+    write_root("stigmes/index.html", page("Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού | Red Madness",
+               "Ρώμη 1997, Κωνσταντινούπολη 2012, Λονδίνο 2013, Conference League 2024, Αθήνα 2026: οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο.",
+               body, "", [("/arxeio/", "Αρχείο"), ("", "Ευρωπαϊκές στιγμές")], "/stigmes/"))
+    return ["/stigmes/"] + [f"/stigmes/{x['slug']}.html" for x in STIGMES]
+
 def san_simera():
     rows = []
     for x in csv.DictReader(open(os.path.join(H, "olympiakos_superleague_matches.csv"), encoding="utf-8-sig")):
@@ -572,11 +614,13 @@ def san_simera():
         prv, nxt = days[i - 1], days[(i + 1) % len(days)]
         pl = lambda x: f"{int(x[3:])} {MONTHS[int(x[:2])-1]}"
         W = sum(r["result"] == "Ν" for r in rs)
+        mom = "".join(f'<a class="hero" href="/stigmes/{x["slug"]}.html"><span class="shop-k">Ευρωπαϊκή στιγμή · {x["date"][:4]}</span><b>{esc(x["title"])}</b><span class="when">{esc(x["dek"])}</span><span class="shop-go">Διάβασε την ιστορία →</span></a>'
+                      for x in STIGMES if x.get("exact") and x["date"][5:10] == dd)
         items = "".join(f"""<div class="tvrow"><span class="t">{r['date'][:4]}</span><div><b><a href="{r['link']}">{'Ολυμπιακός – ' + esc(r['opp']) if r['venue'] == 'Εντός' else esc(r['opp']) + ' – Ολυμπιακός'}</a></b> {res_badge(r['result'])}
 <div class="chs"><span class="ch">{r['sport']}</span><span class="ch">σκορ {r['score'] if r['venue'] == 'Εντός' else '-'.join(reversed(r['score'].split('-')))}</span>{f'<span class="ch">{esc(r["extra"])}</span>' if r['extra'] and not r['extra'].startswith('Round') else ''}<a class="ch" href="{r['opp_link']}">όλα τα ματς με {esc(r['opp'])}</a></div></div></div>""" for r in rs)
         body = f"""<div class="pager"><a href="/san-simera/{prv}.html">‹ {pl(prv)}</a><a href="/san-simera/{nxt}.html">{pl(nxt)} ›</a></div>
 <h1>Ολυμπιακός σαν σήμερα <span class="sub">{lbl}</span></h1>
-<p class="lead">{f"Στις {lbl} ο Ολυμπιακός έχει δώσει <b>{len(rs)}</b> αγώνες στο αρχείο μας (Super League και Euroleague), με <b>{W}</b> νίκες." if rs else f"Στο αρχείο μας δεν υπάρχει αγώνας του Ολυμπιακού στις {lbl}."}</p>
+{mom}<p class="lead">{f"Στις {lbl} ο Ολυμπιακός έχει δώσει <b>{len(rs)}</b> αγώνες στο αρχείο μας (Super League και Euroleague), με <b>{W}</b> νίκες." if rs else f"Στο αρχείο μας δεν υπάρχει αγώνας του Ολυμπιακού στις {lbl}."}</p>
 {items}
 {shop_box(TEAM["olympiakos"], "san-simera", "Φανέλες Ολυμπιακού 2026/27")}
 <p class="note">Από το αρχείο Super League (από το 1994) και Euroleague (από το 2000). Κάποιες σεζόν είναι ελλιπείς.</p>"""
@@ -789,7 +833,7 @@ def home():
 {vv}</div>
 <aside class="hside">{shop_box(TEAM["olympiakos"], "arxiki", "Φανέλες Ολυμπιακού 2026/27", "Εντός, εκτός και τρίτη εμφάνιση adidas, με όνομα παίκτη.")}
 {tb}{ss}
-<h2>Αρχείο</h2><ul class="list"><li><a href="/arxeio/podosfairo/">Super League από το 1994</a></li><li><a href="/arxeio/euroleague/">Euroleague από το 2000</a></li><li><a href="/arxeio/euroleague/paiktes/">Παίκτες μπάσκετ</a></li><li><a href="/eshop/">E-shop ομάδων</a></li></ul>
+<h2>Αρχείο</h2><ul class="list"><li><a href="/stigmes/"><b>Οι μεγαλύτερες ευρωπαϊκές στιγμές</b></a></li><li><a href="/arxeio/podosfairo/">Super League από το 1994</a></li><li><a href="/arxeio/euroleague/">Euroleague από το 2000</a></li><li><a href="/arxeio/euroleague/paiktes/">Παίκτες μπάσκετ</a></li><li><a href="/eshop/">E-shop ομάδων</a></li></ul>
 <p class="cal"><a href="/olympiakos.ics">📅 Βάλε τα ματς στο ημερολόγιό σου</a></p>
 </aside></div>"""
     write_root("index.html", page("Red Madness – Ολυμπιακός: ειδήσεις, πού θα δείτε τον αγώνα, βαθμολογία, αρχείο",
@@ -933,12 +977,13 @@ def main():
 <p class="big">{eT['W']}Ν · {eT['L']}Η · {etitles} τίτλοι</p><p>Final Four, box scores, κορυφαίοι παίκτες, προπονητές</p></a>
 </div>
 <div class="cards"><a class="card" href="/san-simera/"><h2>📅 Σαν σήμερα</h2><p>Τι έκανε ο Ολυμπιακός σαν σήμερα, κάθε μέρα του χρόνου.</p></a>
-<a class="card" href="/arxeio/euroleague/paiktes/"><h2>👤 Παίκτες</h2><p>Όλοι οι παίκτες του Ολυμπιακού στην Euroleague από το 2010-11.</p></a></div>"""
+<a class="card" href="/arxeio/euroleague/paiktes/"><h2>👤 Παίκτες</h2><p>Όλοι οι παίκτες του Ολυμπιακού στην Euroleague από το 2010-11.</p></a></div>
+<div class="cards"><a class="card" href="/stigmes/"><h2>🏆 Ευρωπαϊκές στιγμές</h2><p>Ρώμη 1997, Κωνσταντινούπολη 2012, Conference League 2024, Αθήνα 2026 και όλες οι μεγάλες βραδιές στην Ευρώπη.</p></a></div>"""
     write("index.html", page("Αρχείο Ολυμπιακού – ποδόσφαιρο και μπάσκετ σε αριθμούς | Red Madness",
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
-    eshop(); videos(); tv(); days = san_simera(); prev = previews(); simera(); home(); calendar_ics()
-    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + [f"/san-simera/{d}.html" for d in days] + PAGES
+    eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); prev = previews(); simera(); home(); calendar_ics()
+    urls = ["/", "/simera/", "/news.html", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + \
          "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n"
