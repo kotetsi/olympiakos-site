@@ -1,0 +1,80 @@
+{
+ "2013-14": {
+  "after": 34,
+  "before": 14,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2014-15": {
+  "after": 34,
+  "before": 0,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2015-16": {
+  "after": 30,
+  "before": 0,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2016-17": {
+  "after": 30,
+  "before": 0,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2017-18": {
+  "after": 30,
+  "before": 0,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2021-22": {
+  "after": 36,
+  "before": 4,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2022-23": {
+  "after": 36,
+  "before": 0,
+  "done": true,
+  "errors": [
+   "openfootball: HTTP Error 404: Not Found"
+  ],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ },
+ "2025-26": {
+  "after": 32,
+  "before": 9,
+  "done": true,
+  "errors": [],
+  "last": "2026-11-04T17:16:51+00:00",
+  "tries": 1
+ }
+}

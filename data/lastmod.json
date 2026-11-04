@@ -1,6 +1,6 @@
 {
 "/": [
-"99fb348cc3b36576",
+"61056c3471bf65cd",
 "2026-11-04"
 ],
 "/agones/2026-11-04-ren-olympiakos.html": [
@@ -16,7 +16,7 @@
 "2026-11-04"
 ],
 "/agones/2026-11-08-olympiakos-paok.html": [
-"feefb4c186ced613",
+"fac3d0a9ec816bd3",
 "2026-11-04"
 ],
 "/agones/2026-11-08-olympiakos-v-ellas-syroy.html": [
@@ -24,7 +24,7 @@
 "2026-11-04"
 ],
 "/arxeio/": [
-"08253e4abaa1ded2",
+"8d5ff166be0f8950",
 "2026-11-04"
 ],
 "/arxeio/euroleague/": [
@@ -3548,7 +3548,7 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/": [
-"3497c3a1a661d8ec",
+"683c46a5b0d7565b",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/1994-95.html": [
@@ -3628,11 +3628,27 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2013-14.html": [
-"c65079a20a9fcc45",
+"e0bfb536597ed274",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2014-15.html": [
+"2c1d41966fc51d75",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2015-16.html": [
+"e062f0c73294c601",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2016-17.html": [
+"7898d15006b69ff8",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2017-18.html": [
+"e80af4fa14a4ea9e",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2018-19.html": [
-"58655fdc378e2f08",
+"6d043740613d20d3",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2019-20.html": [
@@ -3644,11 +3660,15 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2021-22.html": [
-"f620e274026011a6",
+"c3a3c7ed6731f22b",
+"2026-11-04"
+],
+"/arxeio/podosfairo/2022-23.html": [
+"16713172052ed63c",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2023-24.html": [
-"53b305890f8fcedc",
+"385909f92d1fbb14",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2024-25.html": [
@@ -3656,7 +3676,7 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2025-26.html": [
-"584642feddd5bcfc",
+"eb6c91981dc297e8",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/2026-27.html": [
@@ -3664,11 +3684,11 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/aek.html": [
-"be9940ca4afdf70b",
+"48b84ca3d8bc0fc0",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/ael.html": [
-"f99e0f8494c4cf5e",
+"74cfdc5433e7633f",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/aigaleo.html": [
@@ -3684,15 +3704,15 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/apollon-smyrnis.html": [
-"cc8594875de483cb",
+"faa41ff2f2aacd72",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/aris.html": [
-"88fcf07ae675cd6e",
+"d4edc432eff1e129",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/asteras-tripolis.html": [
-"b964f9050edd27c8",
+"9d6de8595bcce8d0",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/athinaikos.html": [
@@ -3700,7 +3720,7 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/atromitos.html": [
-"bf641ee318ef7cb9",
+"6c710c3fe8223e62",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/chalkidona.html": [
@@ -3716,7 +3736,7 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/ergotelis.html": [
-"6209ceb777ebf73a",
+"7302fa9d68bc92c2",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/ethnikos-asteras.html": [
@@ -3728,11 +3748,11 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/ionikos.html": [
-"f67de49a7d625d64",
+"4554d15aa2d801aa",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/iraklis.html": [
-"2896ab1b2c770be9",
+"17992de0c3e0078a",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/kalamata.html": [
@@ -3744,7 +3764,7 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/kalloni.html": [
-"33438345549f5aba",
+"23f2ed31fbc1624a",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/kastoria.html": [
@@ -3756,23 +3776,27 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/kerkyra.html": [
-"34e6fcbe532dda6d",
+"dd721f7e9a1c6bcc",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/kifisia.html": [
-"dd6001ca2499199d",
+"072be65caa32a982",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/lamia.html": [
-"326734024a7ab8b6",
+"9b7ebc8c9c8bbba7",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/levadeiakos.html": [
-"28bf866400658abe",
+"61a3a52b2c4b1dbf",
+"2026-11-04"
+],
+"/arxeio/podosfairo/antipaloi/niki-voloy.html": [
+"7092ca8a314785f3",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/ofi.html": [
-"1a88c7d6d486e532",
+"c8cd652d8e0b4ad5",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/olympiakos-voloy.html": [
@@ -3784,11 +3808,11 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/panaitolikos.html": [
-"7481fa197b27a1da",
+"d9f7906123693ec9",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/panathinaikos.html": [
-"5cd961c26e11a36b",
+"1586ef474dea464e",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/paneleysiniakos.html": [
@@ -3800,27 +3824,27 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/panionios.html": [
-"01bc0de384832e3b",
+"d9e5d9f3f9df55cf",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/panserraikos.html": [
-"c6bea4c951d77bb7",
+"51d98a33edd38068",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/panthrakikos.html": [
-"a86e4cdd1d535154",
+"9d8073bb4bc9ca53",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/paok.html": [
-"7b8a5346839f88ce",
+"6d9fcbaebc35eee7",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/pas-giannina.html": [
-"e57047355f7a9684",
+"0bdb9521b5168a1b",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/platanias.html": [
-"1cb674424e03aec9",
+"d709a8ee292fce9b",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/proodeytiki.html": [
@@ -3836,15 +3860,15 @@
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/veroia.html": [
-"fc74366deaeedafa",
+"24ddf66ce6cf814b",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/volos.html": [
-"82cd1fb6cd80cf3f",
+"fcd8350c6630dcfe",
 "2026-11-04"
 ],
 "/arxeio/podosfairo/antipaloi/xanthi.html": [
-"d0c6acc3284f90bb",
+"81d6112b57b3964b",
 "2026-11-04"
 ],
 "/eshop/": [
@@ -3884,7 +3908,7 @@
 "2026-11-04"
 ],
 "/san-simera/": [
-"7bf8efc77b0e9ce8",
+"dade2dbcecbe4fd7",
 "2026-11-04"
 ],
 "/san-simera/01-01.html": [
@@ -3896,15 +3920,15 @@
 "2026-11-04"
 ],
 "/san-simera/01-03.html": [
-"7f130f9cb31ccf0d",
+"f02279f2df7aa8a7",
 "2026-11-04"
 ],
 "/san-simera/01-04.html": [
-"29a352fc50e3feb2",
+"1c9cb796d55489d2",
 "2026-11-04"
 ],
 "/san-simera/01-05.html": [
-"1495e35e29ab2a85",
+"d0b5feee578a0320",
 "2026-11-04"
 ],
 "/san-simera/01-06.html": [
@@ -3912,11 +3936,11 @@
 "2026-11-04"
 ],
 "/san-simera/01-07.html": [
-"f284e03c7f39df90",
+"4c7765aa724a415c",
 "2026-11-04"
 ],
 "/san-simera/01-08.html": [
-"771d01b5bff27a7f",
+"0fe54f45bbffb66d",
 "2026-11-04"
 ],
 "/san-simera/01-09.html": [
@@ -3924,15 +3948,15 @@
 "2026-11-04"
 ],
 "/san-simera/01-10.html": [
-"3daef85376dfe3e7",
+"1623eb805f493292",
 "2026-11-04"
 ],
 "/san-simera/01-11.html": [
-"b266958827362dbe",
+"6100c5239ffb541b",
 "2026-11-04"
 ],
 "/san-simera/01-12.html": [
-"ee401ac882ff9920",
+"39fc765767b0caf5",
 "2026-11-04"
 ],
 "/san-simera/01-13.html": [
@@ -3940,15 +3964,15 @@
 "2026-11-04"
 ],
 "/san-simera/01-14.html": [
-"9c2108945ad43c02",
+"d13c51fb215e308c",
 "2026-11-04"
 ],
 "/san-simera/01-15.html": [
-"1881a608fa72dfe2",
+"3df6fbca3880c641",
 "2026-11-04"
 ],
 "/san-simera/01-16.html": [
-"ede7b8be9d6d16ca",
+"be04146eeac54925",
 "2026-11-04"
 ],
 "/san-simera/01-17.html": [
@@ -3956,7 +3980,7 @@
 "2026-11-04"
 ],
 "/san-simera/01-18.html": [
-"88b72c8b05b96015",
+"022b175f39d4d4fa",
 "2026-11-04"
 ],
 "/san-simera/01-19.html": [
@@ -3968,19 +3992,19 @@
 "2026-11-04"
 ],
 "/san-simera/01-21.html": [
-"75f628dcd6ae3995",
+"fa5305d930c540c7",
 "2026-11-04"
 ],
 "/san-simera/01-22.html": [
-"ad2525a43927d993",
+"9ef7e11fe345e51a",
 "2026-11-04"
 ],
 "/san-simera/01-23.html": [
-"fb8cfa73eaff5fa3",
+"2cb43f0d06497947",
 "2026-11-04"
 ],
 "/san-simera/01-24.html": [
-"f7109441de769280",
+"d74dacc5d7a70629",
 "2026-11-04"
 ],
 "/san-simera/01-25.html": [
@@ -3988,7 +4012,7 @@
 "2026-11-04"
 ],
 "/san-simera/01-26.html": [
-"8710db780b3a0b6e",
+"feb49a4696037ba1",
 "2026-11-04"
 ],
 "/san-simera/01-27.html": [
@@ -3996,27 +4020,27 @@
 "2026-11-04"
 ],
 "/san-simera/01-28.html": [
-"48ba68f9750bc820",
+"bba06b76f169eb94",
 "2026-11-04"
 ],
 "/san-simera/01-29.html": [
-"7f4bfe5b1efcc087",
+"5d50155fce448c00",
 "2026-11-04"
 ],
 "/san-simera/01-30.html": [
-"8ca1d7ff7da7798f",
+"1d09d8653509bc58",
 "2026-11-04"
 ],
 "/san-simera/01-31.html": [
-"b90816f29f67cf52",
+"ac4666793adf3b4e",
 "2026-11-04"
 ],
 "/san-simera/02-01.html": [
-"4830a028a67294f6",
+"22a32efbc06f56cb",
 "2026-11-04"
 ],
 "/san-simera/02-02.html": [
-"1802a96fe4904aa5",
+"c280b28e9712c208",
 "2026-11-04"
 ],
 "/san-simera/02-03.html": [
@@ -4024,23 +4048,23 @@
 "2026-11-04"
 ],
 "/san-simera/02-04.html": [
-"099cffe2ed2222d7",
+"64ca73e5277221b5",
 "2026-11-04"
 ],
 "/san-simera/02-05.html": [
-"d704816bae878e32",
+"ad7b250cafb06fc7",
 "2026-11-04"
 ],
 "/san-simera/02-06.html": [
-"c8274dac839b20d4",
+"415c2384e2b82641",
 "2026-11-04"
 ],
 "/san-simera/02-07.html": [
-"fb51058a5e692ca3",
+"67880878a4784e64",
 "2026-11-04"
 ],
 "/san-simera/02-08.html": [
-"c54546f877345cf9",
+"120e95f08820f0b9",
 "2026-11-04"
 ],
 "/san-simera/02-09.html": [
@@ -4052,7 +4076,7 @@
 "2026-11-04"
 ],
 "/san-simera/02-11.html": [
-"1ec3e29d326af76f",
+"071a255a213895dd",
 "2026-11-04"
 ],
 "/san-simera/02-12.html": [
@@ -4060,15 +4084,15 @@
 "2026-11-04"
 ],
 "/san-simera/02-13.html": [
-"361316e7e7f7948e",
+"b626026d83feb770",
 "2026-11-04"
 ],
 "/san-simera/02-14.html": [
-"03829ff1ed9701e8",
+"71fb1ce4dfb5c5ca",
 "2026-11-04"
 ],
 "/san-simera/02-15.html": [
-"d53c2e3e07dd04e0",
+"bd567300a0281840",
 "2026-11-04"
 ],
 "/san-simera/02-16.html": [
@@ -4080,23 +4104,23 @@
 "2026-11-04"
 ],
 "/san-simera/02-18.html": [
-"2e4f461f4cb6316c",
+"3bebfd9d78867c31",
 "2026-11-04"
 ],
 "/san-simera/02-19.html": [
-"1b6d54f025063359",
+"0f8481de613fc782",
 "2026-11-04"
 ],
 "/san-simera/02-20.html": [
-"7138115578e536b1",
+"28ced0c08720eab6",
 "2026-11-04"
 ],
 "/san-simera/02-21.html": [
-"cee9a958d4fe895d",
+"72e6905a59aa97b5",
 "2026-11-04"
 ],
 "/san-simera/02-22.html": [
-"f8d375b74d28c2a7",
+"14ca3e5437f9b55a",
 "2026-11-04"
 ],
 "/san-simera/02-23.html": [
@@ -4108,19 +4132,19 @@
 "2026-11-04"
 ],
 "/san-simera/02-25.html": [
-"256d87e1a6ef78f5",
+"eeeb135af3e73e70",
 "2026-11-04"
 ],
 "/san-simera/02-26.html": [
-"4378f4f0cfce98ea",
+"05b3a2b0a65a070f",
 "2026-11-04"
 ],
 "/san-simera/02-27.html": [
-"124a3d1c2fb42293",
+"44bb63c09c569055",
 "2026-11-04"
 ],
 "/san-simera/02-28.html": [
-"a765dfa960988320",
+"2acb7fd18eb33a6f",
 "2026-11-04"
 ],
 "/san-simera/02-29.html": [
@@ -4128,11 +4152,11 @@
 "2026-11-04"
 ],
 "/san-simera/03-01.html": [
-"70744e1d8ad9dd1e",
+"52ac55aedac79446",
 "2026-11-04"
 ],
 "/san-simera/03-02.html": [
-"a3c4206add4a8fc4",
+"eea2bf2092c978e3",
 "2026-11-04"
 ],
 "/san-simera/03-03.html": [
@@ -4140,15 +4164,15 @@
 "2026-11-04"
 ],
 "/san-simera/03-04.html": [
-"1761b3f226393aea",
+"a6f5bc017f7a3ca8",
 "2026-11-04"
 ],
 "/san-simera/03-05.html": [
-"8001f05a068df2d6",
+"901618b3c6b44cb6",
 "2026-11-04"
 ],
 "/san-simera/03-06.html": [
-"e24f58ad0895f7c8",
+"61431c234452da1c",
 "2026-11-04"
 ],
 "/san-simera/03-07.html": [
@@ -4156,11 +4180,11 @@
 "2026-11-04"
 ],
 "/san-simera/03-08.html": [
-"5dbffe114638e4f1",
+"8f0b4b966d23beeb",
 "2026-11-04"
 ],
 "/san-simera/03-09.html": [
-"ae2715ca12602a12",
+"a015a73d8a801da3",
 "2026-11-04"
 ],
 "/san-simera/03-10.html": [
@@ -4168,23 +4192,23 @@
 "2026-11-04"
 ],
 "/san-simera/03-11.html": [
-"5b052fdd45dd687a",
+"736f10c23879b2fc",
 "2026-11-04"
 ],
 "/san-simera/03-12.html": [
-"cbfecdd374b74ea3",
+"70d7399f5698b73b",
 "2026-11-04"
 ],
 "/san-simera/03-13.html": [
-"2e3f9f33f23abc28",
+"318dce845c6ae95f",
 "2026-11-04"
 ],
 "/san-simera/03-14.html": [
-"fd8a8618a6bba266",
+"b52e681f9ef6c1ae",
 "2026-11-04"
 ],
 "/san-simera/03-15.html": [
-"6dddd88aa84cd641",
+"80af0041095c4836",
 "2026-11-04"
 ],
 "/san-simera/03-16.html": [
@@ -4200,11 +4224,11 @@
 "2026-11-04"
 ],
 "/san-simera/03-19.html": [
-"de723eb468cbae5d",
+"f47225acd496428d",
 "2026-11-04"
 ],
 "/san-simera/03-20.html": [
-"466743045c82da2d",
+"420eb3086683d5ac",
 "2026-11-04"
 ],
 "/san-simera/03-21.html": [
@@ -4212,11 +4236,11 @@
 "2026-11-04"
 ],
 "/san-simera/03-22.html": [
-"a9cd1970650854d5",
+"ece32c29a55bd599",
 "2026-11-04"
 ],
 "/san-simera/03-23.html": [
-"59c8bb64fd8c05e9",
+"b5342bb028f8a838",
 "2026-11-04"
 ],
 "/san-simera/03-24.html": [
@@ -4228,7 +4252,7 @@
 "2026-11-04"
 ],
 "/san-simera/03-26.html": [
-"506ae8e2bc84dda7",
+"91c5c9fefa113eec",
 "2026-11-04"
 ],
 "/san-simera/03-27.html": [
@@ -4244,23 +4268,23 @@
 "2026-11-04"
 ],
 "/san-simera/03-30.html": [
-"11ca0da843f6a0fd",
+"1187f11d42430a74",
 "2026-11-04"
 ],
 "/san-simera/03-31.html": [
-"61f74e54cee9e09c",
+"b5b58896b00dc548",
 "2026-11-04"
 ],
 "/san-simera/04-01.html": [
-"d69eb29a56f4c798",
+"bca744a914c13ee8",
 "2026-11-04"
 ],
 "/san-simera/04-02.html": [
-"9b8e32a52079555b",
+"8c937a5189148475",
 "2026-11-04"
 ],
 "/san-simera/04-03.html": [
-"465483781b4af5c8",
+"b9e43591fe4d8621",
 "2026-11-04"
 ],
 "/san-simera/04-04.html": [
@@ -4268,11 +4292,11 @@
 "2026-11-04"
 ],
 "/san-simera/04-05.html": [
-"f4561b300de4ff6d",
+"af0c53f300906f6f",
 "2026-11-04"
 ],
 "/san-simera/04-06.html": [
-"e2ab7ce90af170e3",
+"d6604c07a59b51a1",
 "2026-11-04"
 ],
 "/san-simera/04-07.html": [
@@ -4284,11 +4308,11 @@
 "2026-11-04"
 ],
 "/san-simera/04-09.html": [
-"9ffe5366c4b09859",
+"ebf4a6467613e54e",
 "2026-11-04"
 ],
 "/san-simera/04-10.html": [
-"520a8cc611207072",
+"1a97c7d08f7e8369",
 "2026-11-04"
 ],
 "/san-simera/04-11.html": [
@@ -4300,7 +4324,7 @@
 "2026-11-04"
 ],
 "/san-simera/04-13.html": [
-"1165a119f665c3e6",
+"160e1bad9d81e810",
 "2026-11-04"
 ],
 "/san-simera/04-14.html": [
@@ -4308,15 +4332,15 @@
 "2026-11-04"
 ],
 "/san-simera/04-15.html": [
-"3314d961d32d66e4",
+"a479cb26156a1db0",
 "2026-11-04"
 ],
 "/san-simera/04-16.html": [
-"39304d07fc677b27",
+"0255f63aac0e95ac",
 "2026-11-04"
 ],
 "/san-simera/04-17.html": [
-"5afad7183ec746a8",
+"5c03ea7ae4c2cc6a",
 "2026-11-04"
 ],
 "/san-simera/04-18.html": [
@@ -4324,7 +4348,7 @@
 "2026-11-04"
 ],
 "/san-simera/04-19.html": [
-"cccd56e555ca349c",
+"5979ab4c5962bae2",
 "2026-11-04"
 ],
 "/san-simera/04-20.html": [
@@ -4336,11 +4360,11 @@
 "2026-11-04"
 ],
 "/san-simera/04-22.html": [
-"47f771bf1bd675e8",
+"1e795991153c7286",
 "2026-11-04"
 ],
 "/san-simera/04-23.html": [
-"6fd37dd12f328855",
+"7e0ba818a4aafb3f",
 "2026-11-04"
 ],
 "/san-simera/04-24.html": [
@@ -4352,7 +4376,7 @@
 "2026-11-04"
 ],
 "/san-simera/04-26.html": [
-"b073b6a4aaea6680",
+"99bdf89cf1e020de",
 "2026-11-04"
 ],
 "/san-simera/04-27.html": [
@@ -4364,15 +4388,15 @@
 "2026-11-04"
 ],
 "/san-simera/04-29.html": [
-"540f19f50b155ccd",
+"0339d11541b43ad2",
 "2026-11-04"
 ],
 "/san-simera/04-30.html": [
-"a9baf01c1c534ef3",
+"118c6908cb6ac826",
 "2026-11-04"
 ],
 "/san-simera/05-01.html": [
-"f307a28fa3375b8d",
+"2d902c5edf5a5ce9",
 "2026-11-04"
 ],
 "/san-simera/05-02.html": [
@@ -4380,11 +4404,11 @@
 "2026-11-04"
 ],
 "/san-simera/05-03.html": [
-"89d18d441acd5447",
+"879fd56da71b6e2f",
 "2026-11-04"
 ],
 "/san-simera/05-04.html": [
-"e5a7a93fffbdda97",
+"d290cf4b5d40ee77",
 "2026-11-04"
 ],
 "/san-simera/05-05.html": [
@@ -4392,7 +4416,7 @@
 "2026-11-04"
 ],
 "/san-simera/05-06.html": [
-"9440987a73b75b85",
+"edeaccd1f2e964a3",
 "2026-11-04"
 ],
 "/san-simera/05-07.html": [
@@ -4400,7 +4424,7 @@
 "2026-11-04"
 ],
 "/san-simera/05-08.html": [
-"276646230a3bf318",
+"70ea1fcbb86e7c49",
 "2026-11-04"
 ],
 "/san-simera/05-09.html": [
@@ -4408,11 +4432,11 @@
 "2026-11-04"
 ],
 "/san-simera/05-10.html": [
-"bd948ddf75295aae",
+"81a42be8b11de68a",
 "2026-11-04"
 ],
 "/san-simera/05-11.html": [
-"252a79e20cbeeadb",
+"5682f37af147dcb8",
 "2026-11-04"
 ],
 "/san-simera/05-12.html": [
@@ -4420,11 +4444,11 @@
 "2026-11-04"
 ],
 "/san-simera/05-13.html": [
-"b9fdb5de43f41022",
+"5850ccc70e1e0341",
 "2026-11-04"
 ],
 "/san-simera/05-14.html": [
-"23346d4698a41df1",
+"1a12ad378d4c4326",
 "2026-11-04"
 ],
 "/san-simera/05-15.html": [
@@ -4436,7 +4460,7 @@
 "2026-11-04"
 ],
 "/san-simera/05-17.html": [
-"3b8e39659d3b39bd",
+"75f6272164042d33",
 "2026-11-04"
 ],
 "/san-simera/05-18.html": [
@@ -4812,7 +4836,7 @@
 "2026-11-04"
 ],
 "/san-simera/08-19.html": [
-"d95bc21e8f06a2f8",
+"4e666673c60aa534",
 "2026-11-04"
 ],
 "/san-simera/08-20.html": [
@@ -4820,7 +4844,7 @@
 "2026-11-04"
 ],
 "/san-simera/08-21.html": [
-"77b2c8067d4d6049",
+"360e87fea5183c32",
 "2026-11-04"
 ],
 "/san-simera/08-22.html": [
@@ -4828,7 +4852,7 @@
 "2026-11-04"
 ],
 "/san-simera/08-23.html": [
-"449d9bc4e931bb42",
+"facb4b0b7018c22a",
 "2026-11-04"
 ],
 "/san-simera/08-24.html": [
@@ -4840,7 +4864,7 @@
 "2026-11-04"
 ],
 "/san-simera/08-26.html": [
-"f2e6abe437bb2f2d",
+"187ff3c9bbf29ce7",
 "2026-11-04"
 ],
 "/san-simera/08-27.html": [
@@ -4852,11 +4876,11 @@
 "2026-11-04"
 ],
 "/san-simera/08-29.html": [
-"2edfc3a817a4e4ed",
+"192ece8309e6e6d8",
 "2026-11-04"
 ],
 "/san-simera/08-30.html": [
-"883820a5392709c1",
+"2a66807e449d6cbc",
 "2026-11-04"
 ],
 "/san-simera/08-31.html": [
@@ -4872,7 +4896,7 @@
 "2026-11-04"
 ],
 "/san-simera/09-03.html": [
-"1afc2b4487e2768c",
+"92a35d1f94a91259",
 "2026-11-04"
 ],
 "/san-simera/09-04.html": [
@@ -4896,7 +4920,7 @@
 "2026-11-04"
 ],
 "/san-simera/09-09.html": [
-"90fb17117fd82de4",
+"3a031e886ff6e3d9",
 "2026-11-04"
 ],
 "/san-simera/09-10.html": [
@@ -4904,15 +4928,15 @@
 "2026-11-04"
 ],
 "/san-simera/09-11.html": [
-"2a0c6f810e5e826e",
+"56bb243b85649b34",
 "2026-11-04"
 ],
 "/san-simera/09-12.html": [
-"38aba7969bb49f9f",
+"e7dc8d36e81e4042",
 "2026-11-04"
 ],
 "/san-simera/09-13.html": [
-"f75450de528e2efa",
+"aedb47aab3f31d52",
 "2026-11-04"
 ],
 "/san-simera/09-14.html": [
@@ -4924,7 +4948,7 @@
 "2026-11-04"
 ],
 "/san-simera/09-16.html": [
-"583ead764c2539b8",
+"cb552a4a53680987",
 "2026-11-04"
 ],
 "/san-simera/09-17.html": [
@@ -4932,23 +4956,23 @@
 "2026-11-04"
 ],
 "/san-simera/09-18.html": [
-"5b3bf4ab805d4457",
+"9a8e79b77129d453",
 "2026-11-04"
 ],
 "/san-simera/09-19.html": [
-"01235e7531556f5d",
+"52577bba41a19f74",
 "2026-11-04"
 ],
 "/san-simera/09-20.html": [
-"84c64556365aa91d",
+"36fce3de24f513df",
 "2026-11-04"
 ],
 "/san-simera/09-21.html": [
-"5841d9810cf0c91e",
+"89017acb02452535",
 "2026-11-04"
 ],
 "/san-simera/09-22.html": [
-"0971b99a6e07faf0",
+"859b80ff0fcd4c07",
 "2026-11-04"
 ],
 "/san-simera/09-23.html": [
@@ -4956,19 +4980,19 @@
 "2026-11-04"
 ],
 "/san-simera/09-24.html": [
-"c85e26006c5fdb14",
+"800eb75e44048ef2",
 "2026-11-04"
 ],
 "/san-simera/09-25.html": [
-"3a71d3ccabf46300",
+"6bb8c8b947e4b2e7",
 "2026-11-04"
 ],
 "/san-simera/09-26.html": [
-"5fc4d43f6c143bbe",
+"cca29884618942f0",
 "2026-11-04"
 ],
 "/san-simera/09-27.html": [
-"51cf4565dee094a3",
+"e3ead949e8763688",
 "2026-11-04"
 ],
 "/san-simera/09-28.html": [
@@ -4984,23 +5008,23 @@
 "2026-11-04"
 ],
 "/san-simera/10-01.html": [
-"e88afab4f9c84cc2",
+"6f2e89426ff6523f",
 "2026-11-04"
 ],
 "/san-simera/10-02.html": [
-"34b5619e3da16761",
+"ff2a9ce35b917852",
 "2026-11-04"
 ],
 "/san-simera/10-03.html": [
-"bfccd548bebae6bd",
+"c563e1fa2622b3ca",
 "2026-11-04"
 ],
 "/san-simera/10-04.html": [
-"503653b90353c715",
+"b3efd563d94c04b5",
 "2026-11-04"
 ],
 "/san-simera/10-05.html": [
-"37679b6c2405e012",
+"c9615f0af70889a2",
 "2026-11-04"
 ],
 "/san-simera/10-06.html": [
@@ -5016,7 +5040,7 @@
 "2026-11-04"
 ],
 "/san-simera/10-09.html": [
-"afeba9379b6c155e",
+"bb25c03008f9dffb",
 "2026-11-04"
 ],
 "/san-simera/10-10.html": [
@@ -5036,11 +5060,11 @@
 "2026-11-04"
 ],
 "/san-simera/10-14.html": [
-"7c2ee209cb8ad19b",
+"7b580b2eec87941d",
 "2026-11-04"
 ],
 "/san-simera/10-15.html": [
-"840014ffdae582cb",
+"dfc805c4f6c484d9",
 "2026-11-04"
 ],
 "/san-simera/10-16.html": [
@@ -5048,11 +5072,11 @@
 "2026-11-04"
 ],
 "/san-simera/10-17.html": [
-"da9e803257f99899",
+"44a94029e6642503",
 "2026-11-04"
 ],
 "/san-simera/10-18.html": [
-"7f92ffca640a85a5",
+"be76d8c1db8779b3",
 "2026-11-04"
 ],
 "/san-simera/10-19.html": [
@@ -5068,23 +5092,23 @@
 "2026-11-04"
 ],
 "/san-simera/10-22.html": [
-"6967007f12888ea0",
+"d4d7ca60e296a587",
 "2026-11-04"
 ],
 "/san-simera/10-23.html": [
-"f177e02ef852981a",
+"f371950fa5a5913a",
 "2026-11-04"
 ],
 "/san-simera/10-24.html": [
-"6b7dc4595b145a94",
+"3ad50dbb98751807",
 "2026-11-04"
 ],
 "/san-simera/10-25.html": [
-"9d409115d67adb54",
+"abac206d6bb8aa15",
 "2026-11-04"
 ],
 "/san-simera/10-26.html": [
-"641abde3044e7357",
+"b4a115b3ef73bb93",
 "2026-11-04"
 ],
 "/san-simera/10-27.html": [
@@ -5092,23 +5116,23 @@
 "2026-11-04"
 ],
 "/san-simera/10-28.html": [
-"08c6877c253890a4",
+"10bb04b10936e6c0",
 "2026-11-04"
 ],
 "/san-simera/10-29.html": [
-"448c47a77ab36d5d",
+"786408c14fb37f20",
 "2026-11-04"
 ],
 "/san-simera/10-30.html": [
-"423bbbed3d2d2a46",
+"57a8b2a2ad09e94d",
 "2026-11-04"
 ],
 "/san-simera/10-31.html": [
-"1ce9080f15e18f42",
+"c454bb98e72dfeae",
 "2026-11-04"
 ],
 "/san-simera/11-01.html": [
-"2106df35df0452cd",
+"94ead8b1d22992c2",
 "2026-11-04"
 ],
 "/san-simera/11-02.html": [
@@ -5124,23 +5148,23 @@
 "2026-11-04"
 ],
 "/san-simera/11-05.html": [
-"7de5ff922db4de02",
+"4de3a0b2ec4f159e",
 "2026-11-04"
 ],
 "/san-simera/11-06.html": [
-"aa2a7c25bb843457",
+"f4d407975c8b8032",
 "2026-11-04"
 ],
 "/san-simera/11-07.html": [
-"2ae48f38034b905c",
+"a73f63fa04b9f2ae",
 "2026-11-04"
 ],
 "/san-simera/11-08.html": [
-"91513ce0854aad25",
+"2db30eb027cb4dae",
 "2026-11-04"
 ],
 "/san-simera/11-09.html": [
-"341ae7e2e34e9e2d",
+"afbaad01793701e1",
 "2026-11-04"
 ],
 "/san-simera/11-10.html": [
@@ -5156,7 +5180,7 @@
 "2026-11-04"
 ],
 "/san-simera/11-13.html": [
-"f983301cc6e79b84",
+"9cad60babfb421ed",
 "2026-11-04"
 ],
 "/san-simera/11-14.html": [
@@ -5176,7 +5200,7 @@
 "2026-11-04"
 ],
 "/san-simera/11-18.html": [
-"af3fa65e88abc362",
+"3b3d2eaecf7eba19",
 "2026-11-04"
 ],
 "/san-simera/11-19.html": [
@@ -5188,11 +5212,11 @@
 "2026-11-04"
 ],
 "/san-simera/11-21.html": [
-"e5aee31d0a2f75fb",
+"9fac6d78c7f0b4f6",
 "2026-11-04"
 ],
 "/san-simera/11-22.html": [
-"91312bfde6a24f43",
+"2d5a131b16755182",
 "2026-11-04"
 ],
 "/san-simera/11-23.html": [
@@ -5208,23 +5232,23 @@
 "2026-11-04"
 ],
 "/san-simera/11-26.html": [
-"1fa46de2ecf9a5bb",
+"abab9ea91658717a",
 "2026-11-04"
 ],
 "/san-simera/11-27.html": [
-"996a849d8479c86a",
+"97a82b70d576ed31",
 "2026-11-04"
 ],
 "/san-simera/11-28.html": [
-"43fd825e94d7e682",
+"5c58e1231c75bb8d",
 "2026-11-04"
 ],
 "/san-simera/11-29.html": [
-"91c5b929d829a1e2",
+"10a46a605bc4117a",
 "2026-11-04"
 ],
 "/san-simera/11-30.html": [
-"74462e49d1ce007a",
+"9d78159f5759bbbe",
 "2026-11-04"
 ],
 "/san-simera/12-01.html": [
@@ -5232,23 +5256,23 @@
 "2026-11-04"
 ],
 "/san-simera/12-02.html": [
-"4ffa52793fc0872a",
+"9a4b55bc6a5bd467",
 "2026-11-04"
 ],
 "/san-simera/12-03.html": [
-"c6af3f169c4cb876",
+"b6c838deffbf0793",
 "2026-11-04"
 ],
 "/san-simera/12-04.html": [
-"d82b926f9e8e12ad",
+"eaa2b65087894d43",
 "2026-11-04"
 ],
 "/san-simera/12-05.html": [
-"befd665ea6736fd9",
+"046eab1e8661b704",
 "2026-11-04"
 ],
 "/san-simera/12-06.html": [
-"45ef6241a946fbf2",
+"2d80417aaba0ca91",
 "2026-11-04"
 ],
 "/san-simera/12-07.html": [
@@ -5260,7 +5284,7 @@
 "2026-11-04"
 ],
 "/san-simera/12-09.html": [
-"56b810cfbc53ca7a",
+"12c13c019bf9f398",
 "2026-11-04"
 ],
 "/san-simera/12-10.html": [
@@ -5272,19 +5296,19 @@
 "2026-11-04"
 ],
 "/san-simera/12-12.html": [
-"73cfb60923b75459",
+"564fdf3ada8ea6ab",
 "2026-11-04"
 ],
 "/san-simera/12-13.html": [
-"f10a0703245df272",
+"19d5b1fb3872fa7e",
 "2026-11-04"
 ],
 "/san-simera/12-14.html": [
-"8880e471dda5de5e",
+"3743e7f6dc131efc",
 "2026-11-04"
 ],
 "/san-simera/12-15.html": [
-"1942fb127ca1067b",
+"8ee2d9a859003213",
 "2026-11-04"
 ],
 "/san-simera/12-16.html": [
@@ -5292,23 +5316,23 @@
 "2026-11-04"
 ],
 "/san-simera/12-17.html": [
-"cc1bee70ff500fb3",
+"bd78a33415dd9868",
 "2026-11-04"
 ],
 "/san-simera/12-18.html": [
-"569924b28d1c6cb8",
+"e231c3388977c65d",
 "2026-11-04"
 ],
 "/san-simera/12-19.html": [
-"1986a9747ed1fcf2",
+"2f89b67a0eed2e4c",
 "2026-11-04"
 ],
 "/san-simera/12-20.html": [
-"6477ec599e7a7bab",
+"471c02840d9cd43e",
 "2026-11-04"
 ],
 "/san-simera/12-21.html": [
-"9b5653cde4bdf21c",
+"7148a9ee167d84f9",
 "2026-11-04"
 ],
 "/san-simera/12-22.html": [
@@ -5336,7 +5360,7 @@
 "2026-11-04"
 ],
 "/san-simera/12-28.html": [
-"4e3e57e8fd800fbc",
+"2406209389f002de",
 "2026-11-04"
 ],
 "/san-simera/12-29.html": [
