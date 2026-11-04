@@ -8,6 +8,11 @@
 """
 import hashlib, json, os
 from datetime import datetime, timedelta, timezone
+try:  # ώρα Ελλάδας με θερινή ώρα
+    from zoneinfo import ZoneInfo
+    ATHENS = ZoneInfo("Europe/Athens")
+except Exception:
+    ATHENS = timezone(timedelta(hours=2))
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -16,7 +21,7 @@ F_BLACK = os.path.join(ROOT, "assets", "fonts", "Inter-Black.otf")
 F_SEMI = os.path.join(ROOT, "assets", "fonts", "Inter-SemiBold.otf")
 W, H = 1200, 630
 RED, DARK, WHITE, PINK = (200, 16, 46), (140, 8, 30), (255, 255, 255), (255, 214, 220)
-ATH = timezone(timedelta(hours=2))
+ATH = ATHENS
 DAYS = ["Δευτέρα", "Τρίτη", "Τετάρτη", "Πέμπτη", "Παρασκευή", "Σάββατο", "Κυριακή"]
 SPORT = {"football": "ΠΟΔΟΣΦΑΙΡΟ", "basket": "ΜΠΑΣΚΕΤ", "volley": "ΒΟΛΕΪ", "polo": "ΠΟΛΟ", "handball": "ΧΑΝΤΜΠΟΛ"}
 

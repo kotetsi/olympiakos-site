@@ -6,6 +6,11 @@
 """
 import json, os, re, sys, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
+try:  # ώρα Ελλάδας με θερινή ώρα
+    from zoneinfo import ZoneInfo
+    ATHENS = ZoneInfo("Europe/Athens")
+except Exception:
+    ATHENS = timezone(timedelta(hours=2))
 
 sys.path.insert(0, os.path.dirname(__file__))
 from fetch_news import about_olympiacos, sport_of, norm, UA
@@ -53,7 +58,7 @@ def main():
             print("πρόγραμμα TV: ανανεώθηκε πριν από λιγότερο από 6 ώρες, παράλειψη"); return
     found, errors, seen_progs = {}, [], 0
     calls = list(CH)
-    athens = timezone(timedelta(hours=2))
+    athens = ATHENS
     def fetch(day0, cs):
         frm = int(day0.astimezone(timezone.utc).timestamp()); to = frm + 86399
         url = f"{API}?from={frm}&to={to}&callSigns={urllib.parse.quote(cs)}&endingIncludedInRange=false"

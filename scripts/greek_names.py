@@ -32,7 +32,9 @@ NAME.update({"Olympiakos": "Ολυμπιακός", "Olympiakos Piraeus": "Ολυ
              "OFI Crete": "ΟΦΗ", "Kifisia": "Κηφισιά", "AE Kifisia": "Κηφισιά", "Aris Thessaloniki": "Άρης", "Panaitolikos": "Παναιτωλικός",
              "Levadiakos": "Λεβαδειακός", "Asteras Tripoli": "Αστέρας Τρίπολης", "Larissa": "ΑΕΛ", "AEL Larissa": "ΑΕΛ", "Kalamata": "Καλαμάτα",
              "Panserraikos": "Πανσερραϊκός", "Athens Kallithea": "Καλλιθέα", "Lamia": "Λαμία", "Giannina": "ΠΑΣ Γιάννινα", "Atromitos": "Ατρόμητος",
-             "Marko": "Μαρκό", "Chania": "Χανιά", "Niki Volos": "Νίκη Βόλου", "Panionios": "Πανιώνιος"})
+             "Marko": "Μαρκό", "Chania": "Χανιά", "Niki Volos": "Νίκη Βόλου", "Panionios": "Πανιώνιος",
+             "Kalloni": "Καλλονή", "AEL Kalloni": "Καλλονή", "Apollon Smirnis": "Απόλλων Σμύρνης", "Apollon Smyrni": "Απόλλων Σμύρνης",
+             "Iraklis Thessaloniki": "Ηρακλής", "Panthrakikos FC": "Πανθρακικός", "Ionikos Nikaias": "Ιωνικός", "Ionikos Nikea": "Ιωνικός"})
 
 def is_oly(n):
     n = (n or "").strip()

@@ -21,6 +21,12 @@ H = os.path.join(ROOT, "data", "history")
 OUT = os.path.join(ROOT, "arxeio")
 SITE = "https://redmadness.gr"
 esc = html.escape
+try:  # ώρα Ελλάδας με θερινή ώρα (UTC+3 το καλοκαίρι, UTC+2 τον χειμώνα)
+    from zoneinfo import ZoneInfo
+    ATHENS = ZoneInfo("Europe/Athens")
+except Exception:  # χωρίς βάση ζωνών ώρας: σταθερό UTC+2 όπως παλιά
+    from datetime import timezone as _tz, timedelta as _td
+    ATHENS = _tz(_td(hours=2))
 
 # ------------------------------------------------------------------ βοηθητικά
 TR = dict(zip("αβγδεζηθικλμνξοπρστυφχψωάέήίόύώϊϋΐΰς",
@@ -820,7 +826,7 @@ def event_ld(m, key, result=None):
 
 def previews():
     from datetime import datetime, timedelta, timezone
-    ath = timezone(timedelta(hours=2))
+    ath = ATHENS
     now = datetime.now(timezone.utc)
     tvp = os.path.join(ROOT, "data", "tv.json"); store_p = os.path.join(ROOT, "data", "previews.json")
     store = json.load(open(store_p, encoding="utf-8")) if os.path.exists(store_p) else {}
@@ -975,7 +981,7 @@ def previews():
 def home():
     """Αρχική σελίδα: όλα τα κομμάτια του site σε μία ματιά. Ξαναφτιάχνεται σε κάθε εκτέλεση του workflow."""
     from datetime import datetime, timedelta, timezone
-    ath = timezone(timedelta(hours=2)); now = datetime.now(timezone.utc); today = now.astimezone(ath)
+    ath = ATHENS; now = datetime.now(timezone.utc); today = now.astimezone(ath)
     def jl(p, d):
         p = os.path.join(ROOT, p)
         try: return json.load(open(p, encoding="utf-8"))
@@ -1040,7 +1046,7 @@ def home():
 def simera():
     """/simera/: «Ολυμπιακός σήμερα» — σταθερή διεύθυνση, περιεχόμενο που αλλάζει κάθε μέρα."""
     from datetime import datetime, timedelta, timezone
-    ath = timezone(timedelta(hours=2)); now = datetime.now(timezone.utc); today = now.astimezone(ath).date()
+    ath = ATHENS; now = datetime.now(timezone.utc); today = now.astimezone(ath).date()
     sp = os.path.join(ROOT, "data", "previews.json")
     store = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
     SPN = {"football": "Ποδόσφαιρο", "basket": "Μπάσκετ", "volley": "Βόλεϊ", "polo": "Πόλο", "handball": "Χάντμπολ"}
