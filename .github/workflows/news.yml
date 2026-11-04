@@ -44,5 +44,9 @@ jobs:
           git add -A .
           if git diff --cached --quiet; then echo "Καμία αλλαγή"; exit 0; fi
           git commit -m "Αυτόματη ανανέωση $(date -u +'%Y-%m-%d %H:%M')"
-          git pull --rebase --autostash || true
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash || true
+            git push && exit 0
+            echo "η αποθήκευση απέτυχε, ξαναδοκιμάζω σε 20 δευτερόλεπτα"; sleep 20
+          done
+          exit 1
