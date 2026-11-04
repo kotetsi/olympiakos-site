@@ -1,1640 +1,11 @@
 {
-"updated": "2026-01-01T00:00:00+00:00",
+"updated": "2026-11-04T15:12:31+00:00",
 "source": "Wikidata",
 "teams": {
 "podosfairo": {
 "label": "Ποδόσφαιρο",
 "qid": "Q19628",
 "players": [
-{
-"qid": "Q10301338",
-"name": "Ηλίας Ταληκριάδης",
-"latin": "Ilias Talikriadis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A4%CE%B1%CE%BB%CE%B7%CE%BA%CF%81%CE%B9%CE%AC%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1965-07-10",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q10379983",
-"name": "Γιαννούλης Φακίνος",
-"latin": "Giannoulis Fakinos",
-"wiki": "https://en.wikipedia.org/wiki/Giannoulis_Fakinos",
-"wiki_lang": "en",
-"born": "1989-07-09",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2006,
-2008
-]
-]
-},
-{
-"qid": "Q10401483",
-"name": "Πέτρος Φιλιππάκος",
-"latin": "Peter Philipakos",
-"wiki": "https://en.wikipedia.org/wiki/Peter_Philipakos",
-"wiki_lang": "en",
-"born": "1983-01-21",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ηνωμένες Πολιτείες Αμερικής"
-],
-"spells": [
-[
-2004,
-2006
-]
-]
-},
-{
-"qid": "Q10433022",
-"name": "Ηλίας Πουρσανίδης",
-"latin": "Ilias Poursanidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A0%CE%BF%CF%85%CF%81%CF%83%CE%B1%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1972-04-13",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1997,
-2003
-]
-]
-},
-{
-"qid": "Q10530807",
-"name": "Νίκος Κεχαγιάς",
-"latin": "Nikos Kehagias",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9A%CE%B5%CF%87%CE%B1%CE%B3%CE%B9%CE%AC%CF%82",
-"wiki_lang": "el",
-"born": "1969-04-21",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q10536255",
-"name": "Λάκης Γκλέζος",
-"latin": "Lakis Glezos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%BA%CE%BB%CE%AD%CE%B6%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1947-02-04",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1972,
-1978
-]
-]
-},
-{
-"qid": "Q109246698",
-"name": "Δημήτρης Κοκκινάκης",
-"latin": "Dimitris Kokkinakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9A%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1929-08-08",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q109426182",
-"name": "Ηλίας Καραργύρης",
-"latin": "Ilias Karargyris",
-"wiki": "",
-"wiki_lang": "",
-"born": "2002-06-29",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q109521994",
-"name": "Ντορόν Λάιντνερ",
-"latin": "Doron Leidner",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%BF%CF%81%CF%8C%CE%BD_%CE%9B%CE%AC%CE%B9%CE%BD%CF%84%CE%BD%CE%B5%CF%81",
-"wiki_lang": "el",
-"born": "2002-04-26",
-"pos": [
-"Πλάγιος Αμυντικός",
-"αμυντικός"
-],
-"country": [
-"Ισραήλ"
-],
-"spells": [
-[
-2022,
-null
-]
-]
-},
-{
-"qid": "Q1115126",
-"name": "Ιωσήφ Δασκαλάκης",
-"latin": "Iosif Daskalakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%99%CF%89%CF%83%CE%AE%CF%86_%CE%94%CE%B1%CF%83%CE%BA%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1982-08-07",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2011,
-2012
-]
-]
-},
-{
-"qid": "Q1118611",
-"name": "Μίλος Σέστιτς",
-"latin": "Miloš Šestić",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CE%BB%CE%BF%CF%82_%CE%A3%CE%AD%CF%83%CF%84%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1956-08-08",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Σοσιαλιστική Ομοσπονδιακή Δημοκρατία της Γιουγκοσλαβίας"
-],
-"spells": [
-[
-1985,
-1987
-]
-]
-},
-{
-"qid": "Q1145499",
-"name": "Ροδρίγο Χαβιέρ Αρτσούμπι",
-"latin": "Rodrigo Archubi",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CE%B4%CF%81%CE%AF%CE%B3%CE%BF_%CE%A7%CE%B1%CE%B2%CE%B9%CE%AD%CF%81_%CE%91%CF%81%CF%84%CF%83%CE%BF%CF%8D%CE%BC%CF%80%CE%B9",
-"wiki_lang": "el",
-"born": "1985-06-06",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": [
-[
-2007,
-2008
-]
-]
-},
-{
-"qid": "Q1145509",
-"name": "Βισέντε Μόνχε",
-"latin": "Vicente Monje",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B9%CF%83%CE%AD%CE%BD%CF%84%CE%B5_%CE%9C%CF%8C%CE%BD%CF%87%CE%B5",
-"wiki_lang": "el",
-"born": "1981-06-22",
-"pos": [
-"wing half"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": [
-[
-2011,
-2012
-]
-]
-},
-{
-"qid": "Q1147900",
-"name": "Δημήτρης Μαυρογενίδης",
-"latin": "Dimitris Mavrogenidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%B3%CE%B5%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1976-12-23",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1997,
-2006
-]
-]
-},
-{
-"qid": "Q116566",
-"name": "Ματιέ Ντοσεβί",
-"latin": "Matthieu Dossevi",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%84%CE%B9%CE%AD_%CE%9D%CF%84%CE%BF%CF%83%CE%B5%CE%B2%CE%AF",
-"wiki_lang": "el",
-"born": "1988-02-12",
-"pos": [
-"wing half"
-],
-"country": [
-"Τόγκο"
-],
-"spells": [
-[
-2014,
-2015
-]
-]
-},
-{
-"qid": "Q1185419",
-"name": "Μπρούμα",
-"latin": "Bruma",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%BF%CF%8D%CE%BC%CE%B1_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
-"wiki_lang": "el",
-"born": "1994-10-24",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Πορτογαλία"
-],
-"spells": [
-[
-2020,
-2021
-]
-]
-},
-{
-"qid": "Q1194117",
-"name": "Χούλιο Λοσάδα",
-"latin": "Julio Losada",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CE%9B%CE%BF%CF%83%CE%AC%CE%B4%CE%B1",
-"wiki_lang": "el",
-"born": "1950-06-16",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ουρουγουάη"
-],
-"spells": [
-[
-1972,
-1980
-]
-]
-},
-{
-"qid": "Q1220376",
-"name": "Ντιέγο Αγκίρε",
-"latin": "Diego Aguirre",
-"wiki": "https://en.wikipedia.org/wiki/Diego_Aguirre",
-"wiki_lang": "en",
-"born": "1965-09-13",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ουρουγουάη"
-],
-"spells": [
-[
-1988,
-1988
-],
-[
-1988,
-1989
-]
-]
-},
-{
-"qid": "Q123576",
-"name": "Λεάντρο Σαλίνο",
-"latin": "Leandro Salino",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CE%AC%CE%BD%CF%84%CF%81%CE%BF_%CE%A3%CE%B1%CE%BB%CE%AF%CE%BD%CE%BF",
-"wiki_lang": "el",
-"born": "1985-04-22",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-2013,
-2016
-]
-]
-},
-{
-"qid": "Q12481043",
-"name": "Νταβίντ Ενέν",
-"latin": "David Henen",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B1%CE%B2%CE%AF%CE%BD%CF%84_%CE%95%CE%BD%CE%AD%CE%BD",
-"wiki_lang": "el",
-"born": "1996-04-19",
-"pos": [
-"wing half"
-],
-"country": [
-"Βέλγιο",
-"Τόγκο"
-],
-"spells": [
-[
-2014,
-2015
-]
-]
-},
-{
-"qid": "Q1251866",
-"name": "Λεοζίνιο",
-"latin": "Leozinho",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CE%BF%CE%B6%CE%AF%CE%BD%CE%B9%CE%BF",
-"wiki_lang": "el",
-"born": "1985-12-12",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-2007,
-2008
-]
-]
-},
-{
-"qid": "Q1278745",
-"name": "Γιάννης Παπαδόπουλος",
-"latin": "Yannis Papadopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
-"wiki_lang": "el",
-"born": "1989-03-09",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2008,
-2011
-]
-]
-},
-{
-"qid": "Q12873283",
-"name": "Αλέκος Χατζησταυρίδης",
-"latin": "Alekos Chatzistavridis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BA%CE%BF%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B7%CF%83%CF%84%CE%B1%CF%85%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1915-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12873660",
-"name": "Ανδρέας Μπονόβας",
-"latin": "Andreas Bonovas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9C%CF%80%CE%BF%CE%BD%CF%8C%CE%B2%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1963-11-13",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12873789",
-"name": "Αντώνης Κασιμάτης",
-"latin": "Antonis Kasimatis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%9A%CE%B1%CF%83%CE%B9%CE%BC%CE%AC%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1915-00-00",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12873802",
-"name": "Αντώνης Ποσειδών",
-"latin": "Antonis Poseidon",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD",
-"wiki_lang": "el",
-"born": "1938-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874349",
-"name": "Βαγγέλης Καλογερόπουλος",
-"latin": "Vangelis Kalogeropoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%9A%CE%B1%CE%BB%CE%BF%CE%B3%CE%B5%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1965-02-13",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874362",
-"name": "Βαγγέλης Κουσουλάκης",
-"latin": "Vangelis Kousoulakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CF%83%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1954-04-16",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874365",
-"name": "Βαγγέλης Χέλμης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%A7%CE%AD%CE%BB%CE%BC%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1910-00-00",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874366",
-"name": "Βαγγέλης Συρίγος",
-"latin": "Vangelis Syrigos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%A3%CF%85%CF%81%CE%AF%CE%B3%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1949-00-00",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874538",
-"name": "Βασίλης Ιωαννίδης",
-"latin": "Vassilis Ioannidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1967-06-24",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874549",
-"name": "Βασίλης Ξανθόπουλος (ποδοσφαιριστής)",
-"latin": "Vasilis Xanthopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%9E%CE%B1%CE%BD%CE%B8%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
-"wiki_lang": "el",
-"born": "1930-04-03",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12874552",
-"name": "Βασίλης Παπαγγέλης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1959-07-30",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875027",
-"name": "Γεώργιος Ανδριανόπουλος",
-"latin": "Georgios Andrianopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1903-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1929,
-1930
-]
-]
-},
-{
-"qid": "Q12875220",
-"name": "Γιάννης Ιωάννου (ποδοσφαιριστής)",
-"latin": "Giannis Ioannou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
-"wiki_lang": "el",
-"born": "1931-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875265",
-"name": "Γιάννης Χέλμης",
-"latin": "Giannis Helmis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A7%CE%AD%CE%BB%CE%BC%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1912-00-00",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875338",
-"name": "Γιώργος Καπουράνης",
-"latin": "Georgios Kapouranis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9A%CE%B1%CF%80%CE%BF%CF%85%CF%81%CE%AC%CE%BD%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1966-05-20",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875376",
-"name": "Γιώργος Σπυρόπουλος",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CF%80%CF%85%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875491",
-"name": "Γρηγόρης Αγανιάν",
-"latin": "Grigoris Aganian",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B7%CE%B3%CF%8C%CF%81%CE%B7%CF%82_%CE%91%CE%B3%CE%B1%CE%BD%CE%B9%CE%AC%CE%BD",
-"wiki_lang": "el",
-"born": "1943-08-07",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875953",
-"name": "Δημήτρης Χατζηιωάννογλου",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B7%CE%B9%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1945-00-00",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12875966",
-"name": "Δημήτριος Αποστολόπουλος",
-"latin": "Dimitrios Apostolopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CE%BC%CE%B7%CF%82_%CE%91%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1919-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12877783",
-"name": "Θέμης Μουστακλής",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%AD%CE%BC%CE%B7%CF%82_%CE%9C%CE%BF%CF%85%CF%83%CF%84%CE%B1%CE%BA%CE%BB%CE%AE%CF%82",
-"wiki_lang": "el",
-"born": "1934-01-01",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12877808",
-"name": "Θανάσης Κουρκουβέλας",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%BA%CE%BF%CF%85%CE%B2%CE%AD%CE%BB%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1940-00-00",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12877811",
-"name": "Θανάσης Μπέμπης",
-"latin": "Thanasis Bempis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%9C%CF%80%CE%AD%CE%BC%CF%80%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1929-00-00",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12877851",
-"name": "Θεολόγος Συμεωνίδης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B5%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82_%CE%A3%CF%85%CE%BC%CE%B5%CF%89%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1910-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [],
-"spells": []
-},
-{
-"qid": "Q12879701",
-"name": "Κωνσταντίνος Ρουγκάλας",
-"latin": "Konstantinos Rougalas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A1%CE%BF%CF%85%CE%B3%CE%BA%CE%AC%CE%BB%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1993-10-13",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2013,
-2015
-]
-]
-},
-{
-"qid": "Q12879911",
-"name": "Κώστας Βαλλιάνος",
-"latin": "Kostas Vallianos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%92%CE%B1%CE%BB%CE%BB%CE%B9%CE%AC%CE%BD%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1937-03-01",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12879917",
-"name": "Κώστας Διαμαντόπουλος (διεθνής ποδοσφαιριστής)",
-"latin": "Kostas Diamandopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%94%CE%B9%CE%B1%CE%BC%CE%B1%CE%BD%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CE%B4%CE%B9%CE%B5%CE%B8%CE%BD%CE%AE%CF%82_%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
-"wiki_lang": "el",
-"born": "1937-12-20",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12879934",
-"name": "Κώστας Καραπατής",
-"latin": "Kostas Karapatis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CF%80%CE%B1%CF%84%CE%AE%CF%82",
-"wiki_lang": "el",
-"born": "1929-12-31",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12879948",
-"name": "Κώστας Παπάζογλου",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1938-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12880358",
-"name": "Μάκης Γερμενής",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%B5%CF%81%CE%BC%CE%B5%CE%BD%CE%AE%CF%82",
-"wiki_lang": "el",
-"born": "",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12880370",
-"name": "Μάκης Χάβος",
-"latin": "Makis Chavos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BA%CE%B7%CF%82_%CE%A7%CE%AC%CE%B2%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1969-09-05",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881066",
-"name": "Μιχάλης Λεκκός",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%9B%CE%B5%CE%BA%CE%BA%CF%8C%CF%82",
-"wiki_lang": "el",
-"born": "1905-00-00",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881073",
-"name": "Μιχάλης Μυλωνάς",
-"latin": "Michalis Mylonas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%9C%CF%85%CE%BB%CF%89%CE%BD%CE%AC%CF%82",
-"wiki_lang": "el",
-"born": "1950-00-00",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881278",
-"name": "Μπάμπης Σταυρόπουλος",
-"latin": "Babis Stavropoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1947-01-03",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881282",
-"name": "Μπάμπης Κοτρίδης",
-"latin": "Babis Kotridis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%9A%CE%BF%CF%84%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1928-01-01",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881498",
-"name": "Νίκος Αλέφαντος",
-"latin": "Nikos Alefantos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CE%BB%CE%AD%CF%86%CE%B1%CE%BD%CF%84%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1939-01-03",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1958,
-1959
-]
-]
-},
-{
-"qid": "Q12881503",
-"name": "Νίκος Γιούτσος",
-"latin": "Nikos Yioutsos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%93%CE%B9%CE%BF%CF%8D%CF%84%CF%83%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1942-04-16",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12881948",
-"name": "Ντίνος Ανδριανόπουλος",
-"latin": "Ntinos Andrianopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1905-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12882529",
-"name": "Πέτρος Καραβίτης",
-"latin": "Petros Karavitis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%AD%CF%84%CF%81%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CE%B2%CE%AF%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1952-03-11",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12884247",
-"name": "Σάββας Παπάζογλου",
-"latin": "Savvas Papazoglou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1934-00-00",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12884248",
-"name": "Σάββας Θεοδωρίδης",
-"latin": "Savvas Theodoridis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%98%CE%B5%CE%BF%CE%B4%CF%89%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1935-02-18",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12884660",
-"name": "Σπύρος Δεπούντης",
-"latin": "Spyros Depountis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%80%CF%8D%CF%81%CE%BF%CF%82_%CE%94%CE%B5%CF%80%CE%BF%CF%8D%CE%BD%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1918-01-01",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12884703",
-"name": "Στέλιος Κουρουκλάτος",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%B9%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%BF%CF%85%CE%BA%CE%BB%CE%AC%CF%84%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1923-00-00",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12884803",
-"name": "Σταμάτης Συρίγος",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CE%BC%CE%AC%CF%84%CE%B7%CF%82_%CE%A3%CF%85%CF%81%CE%AF%CE%B3%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1974-06-21",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12885185",
-"name": "Τάκης Συνετόπουλος",
-"latin": "Takis Synetopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CE%BA%CE%B7%CF%82_%CE%A3%CF%85%CE%BD%CE%B5%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1948-12-25",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12885561",
-"name": "Τόλης Δρακόπουλος",
-"latin": "Apostolos Drakopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BB%CE%B7%CF%82_%CE%94%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1966-12-11",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12885699",
-"name": "Φίλιππος Κουράντης",
-"latin": "Filippos Kourantis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%AF%CE%BB%CE%B9%CF%80%CF%80%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%AC%CE%BD%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1904-00-00",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q12886129",
-"name": "Χρήστος Αρβανίτης",
-"latin": "Christos Arvanitis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%82_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%AF%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1953-01-23",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [],
-"spells": []
-},
-{
-"qid": "Q12886233",
-"name": "Χριστόφορος Ράγγος",
-"latin": "Christoforos Rangos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CF%8C%CF%86%CE%BF%CF%81%CE%BF%CF%82_%CE%A1%CE%AC%CE%B3%CE%B3%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1910-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q128889",
-"name": "Γκαετάν Μπονγκ",
-"latin": "Gaëtan Bong",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%B1%CE%B5%CF%84%CE%AC%CE%BD_%CE%9C%CF%80%CE%BF%CE%BD%CE%B3%CE%BA",
-"wiki_lang": "el",
-"born": "1988-04-25",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Γαλλία",
-"Καμερούν"
-],
-"spells": [
-[
-2013,
-2015
-]
-]
-},
-{
-"qid": "Q1296639",
-"name": "Στράτος Αποστολάκης",
-"latin": "Stratos Apostolakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CF%81%CE%AC%CF%84%CE%BF%CF%82_%CE%91%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1964-05-11",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1985,
-1990
-]
-]
-},
-{
-"qid": "Q131294407",
-"name": "Νίκος Αργυρούλης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CF%81%CE%B3%CF%85%CF%81%CE%BF%CF%8D%CE%BB%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1952-10-07",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1982,
-1983
-]
-]
-},
-{
-"qid": "Q1321113",
-"name": "Ντρίσα Ντιακιτέ",
-"latin": "Drissa Diakité",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CF%81%CE%AF%CF%83%CE%B1_%CE%9D%CF%84%CE%B9%CE%B1%CE%BA%CE%B9%CF%84%CE%AD",
-"wiki_lang": "el",
-"born": "1985-02-18",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Μάλι"
-],
-"spells": [
-[
-2012,
-2013
-]
-]
-},
-{
-"qid": "Q1326306",
-"name": "Λευτέρης Ματσούκας",
-"latin": "Lefteris Matsoukas",
-"wiki": "https://en.wikipedia.org/wiki/Lefteris_Matsoukas",
-"wiki_lang": "en",
-"born": "1990-03-07",
-"pos": [
-"wing half"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2007,
-2009
-]
-]
-},
-{
-"qid": "Q1326334",
-"name": "Λευτέρης Πουπάκης",
-"latin": "Eleftherios Poupakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%85%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A0%CE%BF%CF%85%CF%80%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1946-02-28",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1974,
-1979
-]
-]
-},
-{
-"qid": "Q1340644",
-"name": "Ερνάν Πέρεζ",
-"latin": "Hernán Pérez",
-"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%81%CE%BD%CE%AC%CE%BD_%CE%A0%CE%AD%CF%81%CE%B5%CF%82",
-"wiki_lang": "el",
-"born": "1989-02-25",
-"pos": [
-"wing half"
-],
-"country": [
-"Παραγουάη"
-],
-"spells": [
-[
-2014,
-2014
-]
-]
-},
-{
-"qid": "Q13550837",
-"name": "Κυριάκος Κουρέας",
-"latin": "Kyriakos Koureas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%AD%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1947-09-06",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Κύπρος"
-],
-"spells": []
-},
-{
-"qid": "Q1362936",
-"name": "Νίκος Σαργκάνης",
-"latin": "Nikos Sarganis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%A3%CE%B1%CF%81%CE%B3%CE%BA%CE%AC%CE%BD%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1954-01-13",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1980,
-1985
-]
-]
-},
-{
-"qid": "Q1363217",
-"name": "Erwin Lemmens",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Erwin_Lemmens",
-"wiki_lang": "en",
-"born": "1976-05-12",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Βέλγιο"
-],
-"spells": [
-[
-2005,
-2006
-]
-]
-},
-{
-"qid": "Q1365667",
-"name": "Τζίμι Ντουρμάζ",
-"latin": "Jimmy Durmaz",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%AF%CE%BC%CE%B9_%CE%9D%CF%84%CE%BF%CF%85%CF%81%CE%BC%CE%AC%CE%B6",
-"wiki_lang": "el",
-"born": "1989-03-22",
-"pos": [
-"wing half"
-],
-"country": [
-"Σουηδία"
-],
-"spells": [
-[
-2014,
-2016
-]
-]
-},
-{
-"qid": "Q1371274",
-"name": "Γιάτσεκ Καζιμιέρσκι",
-"latin": "Jacek Kazimierski",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CF%84%CF%83%CE%B5%CE%BA_%CE%9A%CE%B1%CE%B6%CE%B9%CE%BC%CE%B9%CE%AD%CF%81%CF%83%CE%BA%CE%B9",
-"wiki_lang": "el",
-"born": "1959-08-17",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Πολωνία"
-],
-"spells": [
-[
-1987,
-1988
-]
-]
-},
-{
-"qid": "Q1380274",
-"name": "Τόμας Άλστρομ",
-"latin": "Thomas Ahlström",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BC%CE%B1%CF%82_%CE%86%CE%BB%CF%83%CF%84%CF%81%CE%BF%CE%BC",
-"wiki_lang": "el",
-"born": "1952-07-17",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Σουηδία"
-],
-"spells": [
-[
-1979,
-1982
-]
-]
-},
-{
-"qid": "Q1381508",
-"name": "Γιάννης Γούναρης",
-"latin": "Yannis Gounaris",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%93%CE%BF%CF%8D%CE%BD%CE%B1%CF%81%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1952-07-06",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1982,
-1985
-]
-]
-},
-{
-"qid": "Q1395363",
-"name": "Χόκαν Σάντμπεργκ",
-"latin": "Håkan Sandberg",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%8C%CE%BA%CE%B1%CE%BD_%CE%A3%CE%AC%CE%BD%CF%84%CE%BC%CF%80%CE%B5%CF%81%CE%B3%CE%BA",
-"wiki_lang": "el",
-"born": "1958-07-27",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Σουηδία"
-],
-"spells": [
-[
-1987,
-1987
-],
-[
-1987,
-1988
-]
-]
-},
-{
-"qid": "Q14320553",
-"name": "Χουάνγκ Ουί-τσο",
-"latin": "Hwang Ui-jo",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%AC%CE%BD%CE%B3%CE%BA_%CE%9F%CF%85%CE%AF-%CF%84%CF%83%CE%BF",
-"wiki_lang": "el",
-"born": "1992-08-28",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Νότια Κορέα"
-],
-"spells": [
-[
-2022,
-null
-]
-]
-},
-{
-"qid": "Q1446645",
-"name": "Κώστας Πολυχρονίου",
-"latin": "Kostas Polychroniou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CF%87%CF%81%CE%BF%CE%BD%CE%AF%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1936-11-12",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1954,
-1968
-]
-]
-},
-{
-"qid": "Q14566963",
-"name": "Νίκος Ιωαννίδης",
-"latin": "Nikos Ioannidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1994-04-26",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2012,
-2016
-]
-]
-},
-{
-"qid": "Q14623357",
-"name": "Αριστείδης Παπάζογλου",
-"latin": "Aristidis Papazoglou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%B5%CE%AF%CE%B4%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1939-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14647762",
-"name": "Άγγελος Βασιλειάδης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82_%CE%92%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%CE%B9%CE%AC%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1924-08-08",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14647898",
-"name": "Αθανάσιος Αγγελής",
-"latin": "Athanasios Aggelis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%91%CE%B3%CE%B3%CE%B5%CE%BB%CE%AE%CF%82",
-"wiki_lang": "el",
-"born": "1946-03-25",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14647908",
-"name": "Μιχάλης Αναματερός",
-"latin": "Michalis Anamateros",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%91%CE%BD%CE%B1%CE%BC%CE%B1%CF%84%CE%B5%CF%81%CF%8C%CF%82",
-"wiki_lang": "el",
-"born": "1910-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14647933",
-"name": "Γιάννης Γκαϊτατζής",
-"latin": "Giannis Gaitatzis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%93%CE%BA%CE%B1%CF%8A%CF%84%CE%B1%CF%84%CE%B6%CE%AE%CF%82",
-"wiki_lang": "el",
-"born": "1944-00-00",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14647995",
-"name": "Άρης Δαμιανίδης",
-"latin": "Aris Damianidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B7%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1952-00-00",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14648008",
-"name": "Μπάμπης Δρόσος",
-"latin": "Babis Drosos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%94%CF%81%CF%8C%CF%83%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1927-03-19",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q14648012",
-"name": "Χρήστος Ζαντέρογλου",
-"latin": "Christos Zanteroglou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%82_%CE%96%CE%B1%CE%BD%CF%84%CE%AD%CF%81%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1940-07-12",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
 {
 "qid": "Q14648016",
 "name": "Βασίλης Ζαρκάδης",
@@ -3425,6 +1796,3378 @@ null
 ]
 },
 {
+"qid": "Q10301338",
+"name": "Ηλίας Ταληκριάδης",
+"latin": "Ilias Talikriadis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A4%CE%B1%CE%BB%CE%B7%CE%BA%CF%81%CE%B9%CE%AC%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1965-07-10",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q10379983",
+"name": "Γιαννούλης Φακίνος",
+"latin": "Giannoulis Fakinos",
+"wiki": "https://en.wikipedia.org/wiki/Giannoulis_Fakinos",
+"wiki_lang": "en",
+"born": "1989-07-09",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2006,
+2008
+]
+]
+},
+{
+"qid": "Q10401483",
+"name": "Πέτρος Φιλιππάκος",
+"latin": "Peter Philipakos",
+"wiki": "https://en.wikipedia.org/wiki/Peter_Philipakos",
+"wiki_lang": "en",
+"born": "1983-01-21",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": [
+[
+2004,
+2006
+]
+]
+},
+{
+"qid": "Q10433022",
+"name": "Ηλίας Πουρσανίδης",
+"latin": "Ilias Poursanidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A0%CE%BF%CF%85%CF%81%CF%83%CE%B1%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1972-04-13",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1997,
+2003
+]
+]
+},
+{
+"qid": "Q10530807",
+"name": "Νίκος Κεχαγιάς",
+"latin": "Nikos Kehagias",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9A%CE%B5%CF%87%CE%B1%CE%B3%CE%B9%CE%AC%CF%82",
+"wiki_lang": "el",
+"born": "1969-04-21",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q10536255",
+"name": "Λάκης Γκλέζος",
+"latin": "Lakis Glezos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%BA%CE%BB%CE%AD%CE%B6%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1947-02-04",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1972,
+1978
+]
+]
+},
+{
+"qid": "Q109246698",
+"name": "Δημήτρης Κοκκινάκης",
+"latin": "Dimitris Kokkinakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9A%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1929-08-08",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q109426182",
+"name": "Ηλίας Καραργύρης",
+"latin": "Ilias Karargyris",
+"wiki": "",
+"wiki_lang": "",
+"born": "2002-06-29",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q109521994",
+"name": "Ντορόν Λάιντνερ",
+"latin": "Doron Leidner",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%BF%CF%81%CF%8C%CE%BD_%CE%9B%CE%AC%CE%B9%CE%BD%CF%84%CE%BD%CE%B5%CF%81",
+"wiki_lang": "el",
+"born": "2002-04-26",
+"pos": [
+"Πλάγιος Αμυντικός",
+"αμυντικός"
+],
+"country": [
+"Ισραήλ"
+],
+"spells": [
+[
+2022,
+null
+]
+]
+},
+{
+"qid": "Q1115126",
+"name": "Ιωσήφ Δασκαλάκης",
+"latin": "Iosif Daskalakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%99%CF%89%CF%83%CE%AE%CF%86_%CE%94%CE%B1%CF%83%CE%BA%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1982-08-07",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2011,
+2012
+]
+]
+},
+{
+"qid": "Q1118611",
+"name": "Μίλος Σέστιτς",
+"latin": "Miloš Šestić",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CE%BB%CE%BF%CF%82_%CE%A3%CE%AD%CF%83%CF%84%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1956-08-08",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Σοσιαλιστική Ομοσπονδιακή Δημοκρατία της Γιουγκοσλαβίας"
+],
+"spells": [
+[
+1985,
+1987
+]
+]
+},
+{
+"qid": "Q1145499",
+"name": "Ροδρίγο Χαβιέρ Αρτσούμπι",
+"latin": "Rodrigo Archubi",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CE%B4%CF%81%CE%AF%CE%B3%CE%BF_%CE%A7%CE%B1%CE%B2%CE%B9%CE%AD%CF%81_%CE%91%CF%81%CF%84%CF%83%CE%BF%CF%8D%CE%BC%CF%80%CE%B9",
+"wiki_lang": "el",
+"born": "1985-06-06",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": [
+[
+2007,
+2008
+]
+]
+},
+{
+"qid": "Q1145509",
+"name": "Βισέντε Μόνχε",
+"latin": "Vicente Monje",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B9%CF%83%CE%AD%CE%BD%CF%84%CE%B5_%CE%9C%CF%8C%CE%BD%CF%87%CE%B5",
+"wiki_lang": "el",
+"born": "1981-06-22",
+"pos": [
+"wing half"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": [
+[
+2011,
+2012
+]
+]
+},
+{
+"qid": "Q1147900",
+"name": "Δημήτρης Μαυρογενίδης",
+"latin": "Dimitris Mavrogenidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%B3%CE%B5%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1976-12-23",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1997,
+2006
+]
+]
+},
+{
+"qid": "Q116566",
+"name": "Ματιέ Ντοσεβί",
+"latin": "Matthieu Dossevi",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%84%CE%B9%CE%AD_%CE%9D%CF%84%CE%BF%CF%83%CE%B5%CE%B2%CE%AF",
+"wiki_lang": "el",
+"born": "1988-02-12",
+"pos": [
+"wing half"
+],
+"country": [
+"Τόγκο"
+],
+"spells": [
+[
+2014,
+2015
+]
+]
+},
+{
+"qid": "Q1185419",
+"name": "Μπρούμα",
+"latin": "Bruma",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%BF%CF%8D%CE%BC%CE%B1_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1994-10-24",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Πορτογαλία"
+],
+"spells": [
+[
+2020,
+2021
+]
+]
+},
+{
+"qid": "Q1194117",
+"name": "Χούλιο Λοσάδα",
+"latin": "Julio Losada",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CE%9B%CE%BF%CF%83%CE%AC%CE%B4%CE%B1",
+"wiki_lang": "el",
+"born": "1950-06-16",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ουρουγουάη"
+],
+"spells": [
+[
+1972,
+1980
+]
+]
+},
+{
+"qid": "Q1220376",
+"name": "Ντιέγο Αγκίρε",
+"latin": "Diego Aguirre",
+"wiki": "https://en.wikipedia.org/wiki/Diego_Aguirre",
+"wiki_lang": "en",
+"born": "1965-09-13",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ουρουγουάη"
+],
+"spells": [
+[
+1988,
+1988
+],
+[
+1988,
+1989
+]
+]
+},
+{
+"qid": "Q123576",
+"name": "Λεάντρο Σαλίνο",
+"latin": "Leandro Salino",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CE%AC%CE%BD%CF%84%CF%81%CE%BF_%CE%A3%CE%B1%CE%BB%CE%AF%CE%BD%CE%BF",
+"wiki_lang": "el",
+"born": "1985-04-22",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+2013,
+2016
+]
+]
+},
+{
+"qid": "Q12481043",
+"name": "Νταβίντ Ενέν",
+"latin": "David Henen",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B1%CE%B2%CE%AF%CE%BD%CF%84_%CE%95%CE%BD%CE%AD%CE%BD",
+"wiki_lang": "el",
+"born": "1996-04-19",
+"pos": [
+"wing half"
+],
+"country": [
+"Βέλγιο",
+"Τόγκο"
+],
+"spells": [
+[
+2014,
+2015
+]
+]
+},
+{
+"qid": "Q1251866",
+"name": "Λεοζίνιο",
+"latin": "Leozinho",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CE%BF%CE%B6%CE%AF%CE%BD%CE%B9%CE%BF",
+"wiki_lang": "el",
+"born": "1985-12-12",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+2007,
+2008
+]
+]
+},
+{
+"qid": "Q1278745",
+"name": "Γιάννης Παπαδόπουλος",
+"latin": "Yannis Papadopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1989-03-09",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2008,
+2011
+]
+]
+},
+{
+"qid": "Q12873283",
+"name": "Αλέκος Χατζησταυρίδης",
+"latin": "Alekos Chatzistavridis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BA%CE%BF%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B7%CF%83%CF%84%CE%B1%CF%85%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1915-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12873660",
+"name": "Ανδρέας Μπονόβας",
+"latin": "Andreas Bonovas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9C%CF%80%CE%BF%CE%BD%CF%8C%CE%B2%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1963-11-13",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12873789",
+"name": "Αντώνης Κασιμάτης",
+"latin": "Antonis Kasimatis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%9A%CE%B1%CF%83%CE%B9%CE%BC%CE%AC%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1915-00-00",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12873802",
+"name": "Αντώνης Ποσειδών",
+"latin": "Antonis Poseidon",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD",
+"wiki_lang": "el",
+"born": "1938-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874349",
+"name": "Βαγγέλης Καλογερόπουλος",
+"latin": "Vangelis Kalogeropoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%9A%CE%B1%CE%BB%CE%BF%CE%B3%CE%B5%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1965-02-13",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874362",
+"name": "Βαγγέλης Κουσουλάκης",
+"latin": "Vangelis Kousoulakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CF%83%CE%BF%CF%85%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1954-04-16",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874365",
+"name": "Βαγγέλης Χέλμης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%A7%CE%AD%CE%BB%CE%BC%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1910-00-00",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874366",
+"name": "Βαγγέλης Συρίγος",
+"latin": "Vangelis Syrigos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%A3%CF%85%CF%81%CE%AF%CE%B3%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1949-00-00",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874538",
+"name": "Βασίλης Ιωαννίδης",
+"latin": "Vassilis Ioannidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1967-06-24",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874549",
+"name": "Βασίλης Ξανθόπουλος (ποδοσφαιριστής)",
+"latin": "Vasilis Xanthopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%9E%CE%B1%CE%BD%CE%B8%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1930-04-03",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12874552",
+"name": "Βασίλης Παπαγγέλης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1959-07-30",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875027",
+"name": "Γεώργιος Ανδριανόπουλος",
+"latin": "Georgios Andrianopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1903-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1929,
+1930
+]
+]
+},
+{
+"qid": "Q12875220",
+"name": "Γιάννης Ιωάννου (ποδοσφαιριστής)",
+"latin": "Giannis Ioannou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1931-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875265",
+"name": "Γιάννης Χέλμης",
+"latin": "Giannis Helmis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A7%CE%AD%CE%BB%CE%BC%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1912-00-00",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875338",
+"name": "Γιώργος Καπουράνης",
+"latin": "Georgios Kapouranis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9A%CE%B1%CF%80%CE%BF%CF%85%CF%81%CE%AC%CE%BD%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1966-05-20",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875376",
+"name": "Γιώργος Σπυρόπουλος",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CF%80%CF%85%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875491",
+"name": "Γρηγόρης Αγανιάν",
+"latin": "Grigoris Aganian",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B7%CE%B3%CF%8C%CF%81%CE%B7%CF%82_%CE%91%CE%B3%CE%B1%CE%BD%CE%B9%CE%AC%CE%BD",
+"wiki_lang": "el",
+"born": "1943-08-07",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875953",
+"name": "Δημήτρης Χατζηιωάννογλου",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A7%CE%B1%CF%84%CE%B6%CE%B7%CE%B9%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1945-00-00",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12875966",
+"name": "Δημήτριος Αποστολόπουλος",
+"latin": "Dimitrios Apostolopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CE%BC%CE%B7%CF%82_%CE%91%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1919-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12877783",
+"name": "Θέμης Μουστακλής",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%AD%CE%BC%CE%B7%CF%82_%CE%9C%CE%BF%CF%85%CF%83%CF%84%CE%B1%CE%BA%CE%BB%CE%AE%CF%82",
+"wiki_lang": "el",
+"born": "1934-01-01",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12877808",
+"name": "Θανάσης Κουρκουβέλας",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%BA%CE%BF%CF%85%CE%B2%CE%AD%CE%BB%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1940-00-00",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12877811",
+"name": "Θανάσης Μπέμπης",
+"latin": "Thanasis Bempis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%9C%CF%80%CE%AD%CE%BC%CF%80%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1929-00-00",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12877851",
+"name": "Θεολόγος Συμεωνίδης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B5%CE%BF%CE%BB%CF%8C%CE%B3%CE%BF%CF%82_%CE%A3%CF%85%CE%BC%CE%B5%CF%89%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1910-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [],
+"spells": []
+},
+{
+"qid": "Q12879701",
+"name": "Κωνσταντίνος Ρουγκάλας",
+"latin": "Konstantinos Rougalas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A1%CE%BF%CF%85%CE%B3%CE%BA%CE%AC%CE%BB%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1993-10-13",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2013,
+2015
+]
+]
+},
+{
+"qid": "Q12879911",
+"name": "Κώστας Βαλλιάνος",
+"latin": "Kostas Vallianos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%92%CE%B1%CE%BB%CE%BB%CE%B9%CE%AC%CE%BD%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1937-03-01",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12879917",
+"name": "Κώστας Διαμαντόπουλος (διεθνής ποδοσφαιριστής)",
+"latin": "Kostas Diamandopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%94%CE%B9%CE%B1%CE%BC%CE%B1%CE%BD%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CE%B4%CE%B9%CE%B5%CE%B8%CE%BD%CE%AE%CF%82_%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1937-12-20",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12879934",
+"name": "Κώστας Καραπατής",
+"latin": "Kostas Karapatis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CF%80%CE%B1%CF%84%CE%AE%CF%82",
+"wiki_lang": "el",
+"born": "1929-12-31",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12879948",
+"name": "Κώστας Παπάζογλου",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1938-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12880358",
+"name": "Μάκης Γερμενής",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%B5%CF%81%CE%BC%CE%B5%CE%BD%CE%AE%CF%82",
+"wiki_lang": "el",
+"born": "",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12880370",
+"name": "Μάκης Χάβος",
+"latin": "Makis Chavos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CE%BA%CE%B7%CF%82_%CE%A7%CE%AC%CE%B2%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1969-09-05",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881066",
+"name": "Μιχάλης Λεκκός",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%9B%CE%B5%CE%BA%CE%BA%CF%8C%CF%82",
+"wiki_lang": "el",
+"born": "1905-00-00",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881073",
+"name": "Μιχάλης Μυλωνάς",
+"latin": "Michalis Mylonas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%9C%CF%85%CE%BB%CF%89%CE%BD%CE%AC%CF%82",
+"wiki_lang": "el",
+"born": "1950-00-00",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881278",
+"name": "Μπάμπης Σταυρόπουλος",
+"latin": "Babis Stavropoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1947-01-03",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881282",
+"name": "Μπάμπης Κοτρίδης",
+"latin": "Babis Kotridis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%9A%CE%BF%CF%84%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1928-01-01",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881498",
+"name": "Νίκος Αλέφαντος",
+"latin": "Nikos Alefantos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CE%BB%CE%AD%CF%86%CE%B1%CE%BD%CF%84%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1939-01-03",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1958,
+1959
+]
+]
+},
+{
+"qid": "Q12881503",
+"name": "Νίκος Γιούτσος",
+"latin": "Nikos Yioutsos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%93%CE%B9%CE%BF%CF%8D%CF%84%CF%83%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1942-04-16",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12881948",
+"name": "Ντίνος Ανδριανόπουλος",
+"latin": "Ntinos Andrianopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1905-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12882529",
+"name": "Πέτρος Καραβίτης",
+"latin": "Petros Karavitis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%AD%CF%84%CF%81%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CE%B2%CE%AF%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1952-03-11",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12884247",
+"name": "Σάββας Παπάζογλου",
+"latin": "Savvas Papazoglou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1934-00-00",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12884248",
+"name": "Σάββας Θεοδωρίδης",
+"latin": "Savvas Theodoridis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%98%CE%B5%CE%BF%CE%B4%CF%89%CF%81%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1935-02-18",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12884660",
+"name": "Σπύρος Δεπούντης",
+"latin": "Spyros Depountis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%80%CF%8D%CF%81%CE%BF%CF%82_%CE%94%CE%B5%CF%80%CE%BF%CF%8D%CE%BD%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1918-01-01",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12884703",
+"name": "Στέλιος Κουρουκλάτος",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%B9%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%BF%CF%85%CE%BA%CE%BB%CE%AC%CF%84%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1923-00-00",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12884803",
+"name": "Σταμάτης Συρίγος",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CE%BC%CE%AC%CF%84%CE%B7%CF%82_%CE%A3%CF%85%CF%81%CE%AF%CE%B3%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1974-06-21",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12885185",
+"name": "Τάκης Συνετόπουλος",
+"latin": "Takis Synetopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CE%BA%CE%B7%CF%82_%CE%A3%CF%85%CE%BD%CE%B5%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1948-12-25",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12885561",
+"name": "Τόλης Δρακόπουλος",
+"latin": "Apostolos Drakopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BB%CE%B7%CF%82_%CE%94%CF%81%CE%B1%CE%BA%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1966-12-11",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12885699",
+"name": "Φίλιππος Κουράντης",
+"latin": "Filippos Kourantis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%AF%CE%BB%CE%B9%CF%80%CF%80%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%AC%CE%BD%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1904-00-00",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q12886129",
+"name": "Χρήστος Αρβανίτης",
+"latin": "Christos Arvanitis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%82_%CE%91%CF%81%CE%B2%CE%B1%CE%BD%CE%AF%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1953-01-23",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [],
+"spells": []
+},
+{
+"qid": "Q12886233",
+"name": "Χριστόφορος Ράγγος",
+"latin": "Christoforos Rangos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CF%8C%CF%86%CE%BF%CF%81%CE%BF%CF%82_%CE%A1%CE%AC%CE%B3%CE%B3%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1910-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q128889",
+"name": "Γκαετάν Μπονγκ",
+"latin": "Gaëtan Bong",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%B1%CE%B5%CF%84%CE%AC%CE%BD_%CE%9C%CF%80%CE%BF%CE%BD%CE%B3%CE%BA",
+"wiki_lang": "el",
+"born": "1988-04-25",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Γαλλία",
+"Καμερούν"
+],
+"spells": [
+[
+2013,
+2015
+]
+]
+},
+{
+"qid": "Q1296639",
+"name": "Στράτος Αποστολάκης",
+"latin": "Stratos Apostolakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CF%81%CE%AC%CF%84%CE%BF%CF%82_%CE%91%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1964-05-11",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1985,
+1990
+]
+]
+},
+{
+"qid": "Q131294407",
+"name": "Νίκος Αργυρούλης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CF%81%CE%B3%CF%85%CF%81%CE%BF%CF%8D%CE%BB%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1952-10-07",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1982,
+1983
+]
+]
+},
+{
+"qid": "Q1321113",
+"name": "Ντρίσα Ντιακιτέ",
+"latin": "Drissa Diakité",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CF%81%CE%AF%CF%83%CE%B1_%CE%9D%CF%84%CE%B9%CE%B1%CE%BA%CE%B9%CF%84%CE%AD",
+"wiki_lang": "el",
+"born": "1985-02-18",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Μάλι"
+],
+"spells": [
+[
+2012,
+2013
+]
+]
+},
+{
+"qid": "Q1326306",
+"name": "Λευτέρης Ματσούκας",
+"latin": "Lefteris Matsoukas",
+"wiki": "https://en.wikipedia.org/wiki/Lefteris_Matsoukas",
+"wiki_lang": "en",
+"born": "1990-03-07",
+"pos": [
+"wing half"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2007,
+2009
+]
+]
+},
+{
+"qid": "Q1326334",
+"name": "Λευτέρης Πουπάκης",
+"latin": "Eleftherios Poupakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%85%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A0%CE%BF%CF%85%CF%80%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1946-02-28",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1974,
+1979
+]
+]
+},
+{
+"qid": "Q1340644",
+"name": "Ερνάν Πέρεζ",
+"latin": "Hernán Pérez",
+"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%81%CE%BD%CE%AC%CE%BD_%CE%A0%CE%AD%CF%81%CE%B5%CF%82",
+"wiki_lang": "el",
+"born": "1989-02-25",
+"pos": [
+"wing half"
+],
+"country": [
+"Παραγουάη"
+],
+"spells": [
+[
+2014,
+2014
+]
+]
+},
+{
+"qid": "Q13550837",
+"name": "Κυριάκος Κουρέας",
+"latin": "Kyriakos Koureas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9A%CE%BF%CF%85%CF%81%CE%AD%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1947-09-06",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Κύπρος"
+],
+"spells": []
+},
+{
+"qid": "Q1362936",
+"name": "Νίκος Σαργκάνης",
+"latin": "Nikos Sarganis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%A3%CE%B1%CF%81%CE%B3%CE%BA%CE%AC%CE%BD%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1954-01-13",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1980,
+1985
+]
+]
+},
+{
+"qid": "Q1363217",
+"name": "Erwin Lemmens",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Erwin_Lemmens",
+"wiki_lang": "en",
+"born": "1976-05-12",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Βέλγιο"
+],
+"spells": [
+[
+2005,
+2006
+]
+]
+},
+{
+"qid": "Q1365667",
+"name": "Τζίμι Ντουρμάζ",
+"latin": "Jimmy Durmaz",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%AF%CE%BC%CE%B9_%CE%9D%CF%84%CE%BF%CF%85%CF%81%CE%BC%CE%AC%CE%B6",
+"wiki_lang": "el",
+"born": "1989-03-22",
+"pos": [
+"wing half"
+],
+"country": [
+"Σουηδία"
+],
+"spells": [
+[
+2014,
+2016
+]
+]
+},
+{
+"qid": "Q1371274",
+"name": "Γιάτσεκ Καζιμιέρσκι",
+"latin": "Jacek Kazimierski",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CF%84%CF%83%CE%B5%CE%BA_%CE%9A%CE%B1%CE%B6%CE%B9%CE%BC%CE%B9%CE%AD%CF%81%CF%83%CE%BA%CE%B9",
+"wiki_lang": "el",
+"born": "1959-08-17",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Πολωνία"
+],
+"spells": [
+[
+1987,
+1988
+]
+]
+},
+{
+"qid": "Q1380274",
+"name": "Τόμας Άλστρομ",
+"latin": "Thomas Ahlström",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BC%CE%B1%CF%82_%CE%86%CE%BB%CF%83%CF%84%CF%81%CE%BF%CE%BC",
+"wiki_lang": "el",
+"born": "1952-07-17",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Σουηδία"
+],
+"spells": [
+[
+1979,
+1982
+]
+]
+},
+{
+"qid": "Q1381508",
+"name": "Γιάννης Γούναρης",
+"latin": "Yannis Gounaris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%93%CE%BF%CF%8D%CE%BD%CE%B1%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1952-07-06",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1982,
+1985
+]
+]
+},
+{
+"qid": "Q1395363",
+"name": "Χόκαν Σάντμπεργκ",
+"latin": "Håkan Sandberg",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%8C%CE%BA%CE%B1%CE%BD_%CE%A3%CE%AC%CE%BD%CF%84%CE%BC%CF%80%CE%B5%CF%81%CE%B3%CE%BA",
+"wiki_lang": "el",
+"born": "1958-07-27",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Σουηδία"
+],
+"spells": [
+[
+1987,
+1987
+],
+[
+1987,
+1988
+]
+]
+},
+{
+"qid": "Q14320553",
+"name": "Χουάνγκ Ουί-τσο",
+"latin": "Hwang Ui-jo",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%AC%CE%BD%CE%B3%CE%BA_%CE%9F%CF%85%CE%AF-%CF%84%CF%83%CE%BF",
+"wiki_lang": "el",
+"born": "1992-08-28",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Νότια Κορέα"
+],
+"spells": [
+[
+2022,
+null
+]
+]
+},
+{
+"qid": "Q1446645",
+"name": "Κώστας Πολυχρονίου",
+"latin": "Kostas Polychroniou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CF%87%CF%81%CE%BF%CE%BD%CE%AF%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1936-11-12",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1954,
+1968
+]
+]
+},
+{
+"qid": "Q14566963",
+"name": "Νίκος Ιωαννίδης",
+"latin": "Nikos Ioannidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%99%CF%89%CE%B1%CE%BD%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1994-04-26",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2012,
+2016
+]
+]
+},
+{
+"qid": "Q14623357",
+"name": "Αριστείδης Παπάζογλου",
+"latin": "Aristidis Papazoglou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%B5%CE%AF%CE%B4%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%AC%CE%B6%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1939-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14647762",
+"name": "Άγγελος Βασιλειάδης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%B3%CE%B3%CE%B5%CE%BB%CE%BF%CF%82_%CE%92%CE%B1%CF%83%CE%B9%CE%BB%CE%B5%CE%B9%CE%AC%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1924-08-08",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14647898",
+"name": "Αθανάσιος Αγγελής",
+"latin": "Athanasios Aggelis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%91%CE%B3%CE%B3%CE%B5%CE%BB%CE%AE%CF%82",
+"wiki_lang": "el",
+"born": "1946-03-25",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14647908",
+"name": "Μιχάλης Αναματερός",
+"latin": "Michalis Anamateros",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%91%CE%BD%CE%B1%CE%BC%CE%B1%CF%84%CE%B5%CF%81%CF%8C%CF%82",
+"wiki_lang": "el",
+"born": "1910-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14647933",
+"name": "Γιάννης Γκαϊτατζής",
+"latin": "Giannis Gaitatzis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%93%CE%BA%CE%B1%CF%8A%CF%84%CE%B1%CF%84%CE%B6%CE%AE%CF%82",
+"wiki_lang": "el",
+"born": "1944-00-00",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14647995",
+"name": "Άρης Δαμιανίδης",
+"latin": "Aris Damianidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B7%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1952-00-00",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14648008",
+"name": "Μπάμπης Δρόσος",
+"latin": "Babis Drosos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%94%CF%81%CF%8C%CF%83%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1927-03-19",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q14648012",
+"name": "Χρήστος Ζαντέρογλου",
+"latin": "Christos Zanteroglou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%BF%CF%82_%CE%96%CE%B1%CE%BD%CF%84%CE%AD%CF%81%CE%BF%CE%B3%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1940-07-12",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q21066359",
+"name": "Μανώλης Σάλιακας",
+"latin": "Manolis Saliakas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%8E%CE%BB%CE%B7%CF%82_%CE%A3%CE%AC%CE%BB%CE%B9%CE%B1%CE%BA%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1996-09-12",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2014,
+2019
+]
+]
+},
+{
+"qid": "Q212491",
+"name": "Ζε Ελίας",
+"latin": "Zé Elias",
+"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%B5_%CE%95%CE%BB%CE%AF%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1976-09-25",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+2000,
+2003
+]
+]
+},
+{
+"qid": "Q213119",
+"name": "Ζαν Μακούν",
+"latin": "Jean Makoun",
+"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%B1%CE%BD_%CE%9C%CE%B1%CE%BA%CE%BF%CF%8D%CE%BD",
+"wiki_lang": "el",
+"born": "1983-05-29",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Καμερούν"
+],
+"spells": [
+[
+2011,
+2012
+]
+]
+},
+{
+"qid": "Q213437",
+"name": "Όσκαρ Καρντόσο",
+"latin": "Óscar Cardozo",
+"wiki": "https://el.wikipedia.org/wiki/%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CF%81%CE%BD%CF%84%CF%8C%CF%83%CE%BF",
+"wiki_lang": "el",
+"born": "1983-05-20",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Παραγουάη"
+],
+"spells": [
+[
+2016,
+2017
+]
+]
+},
+{
+"qid": "Q215435",
+"name": "Άλμπερτ Ριέρα",
+"latin": "Albert Riera",
+"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%BC%CF%80%CE%B5%CF%81%CF%84_%CE%A1%CE%B9%CE%AD%CF%81%CE%B1",
+"wiki_lang": "el",
+"born": "1982-04-15",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ισπανία"
+],
+"spells": [
+[
+2010,
+2011
+]
+]
+},
+{
+"qid": "Q217507",
+"name": "Βλάντιμιρ Βάις",
+"latin": "Vladimír Weiss",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%BB%CE%AC%CE%BD%CF%84%CE%B9%CE%BC%CE%B9%CF%81_%CE%92%CE%AC%CE%B9%CF%82",
+"wiki_lang": "el",
+"born": "1989-11-30",
+"pos": [
+"wing half"
+],
+"country": [
+"Σλοβακία"
+],
+"spells": [
+[
+2013,
+2014
+]
+]
+},
+{
+"qid": "Q22005877",
+"name": "Κώστας Τσιμίκας",
+"latin": "Kostas Tsimikas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A4%CF%83%CE%B9%CE%BC%CE%AF%CE%BA%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1996-05-12",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2014,
+2020
+]
+]
+},
+{
+"qid": "Q22007007",
+"name": "Εμρέ Μορ",
+"latin": "Emre Mor",
+"wiki": "https://el.wikipedia.org/wiki/%CE%95%CE%BC%CF%81%CE%AD_%CE%9C%CE%BF%CF%81",
+"wiki_lang": "el",
+"born": "1997-07-24",
+"pos": [
+"wing half"
+],
+"country": [
+"Δανία",
+"Τουρκία"
+],
+"spells": [
+[
+2020,
+2020
+]
+]
+},
+{
+"qid": "Q221138",
+"name": "Αντώνης Νικοπολίδης",
+"latin": "Antonios Nikopolidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%9D%CE%B9%CE%BA%CE%BF%CF%80%CE%BF%CE%BB%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1971-01-14",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2004,
+2011
+]
+]
+},
+{
+"qid": "Q2248973",
+"name": "Λιονέλ Χόρχε Νούνιες",
+"latin": "Leonel Núñez",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BF%CE%BD%CE%AD%CE%BB_%CE%A7%CF%8C%CF%81%CF%87%CE%B5_%CE%9D%CE%BF%CF%8D%CE%BD%CE%B9%CE%B5%CF%82",
+"wiki_lang": "el",
+"born": "1984-10-13",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": [
+[
+2007,
+2008
+]
+]
+},
+{
+"qid": "Q2263432",
+"name": "Στέλιος Βενετίδης",
+"latin": "Stelios Venetidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B5%CF%84%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1976-11-19",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2001,
+2006
+]
+]
+},
+{
+"qid": "Q227358",
+"name": "Zsolt Laczkó",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Zsolt_Laczk%C3%B3",
+"wiki_lang": "en",
+"born": "1986-12-18",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ουγγαρία"
+],
+"spells": [
+[
+2007,
+2008
+]
+]
+},
+{
+"qid": "Q2306993",
+"name": "Τζόνι Νόβακ",
+"latin": "Džoni Novak",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CF%8C%CE%BD%CE%B9_%CE%9D%CF%8C%CE%B2%CE%B1%CE%BA",
+"wiki_lang": "el",
+"born": "1969-09-04",
+"pos": [
+"wing half"
+],
+"country": [
+"Γιουγκοσλαβία",
+"Σλοβενία"
+],
+"spells": [
+[
+2002,
+2003
+]
+]
+},
+{
+"qid": "Q2308085",
+"name": "Μάρκο Νε",
+"latin": "Marco Né",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CF%81%CE%BA%CE%BF_%CE%9D%CE%B5",
+"wiki_lang": "el",
+"born": "1983-07-17",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ακτή Ελεφαντοστού"
+],
+"spells": [
+[
+2006,
+2008
+]
+]
+},
+{
+"qid": "Q2345884",
+"name": "Σίνισα Γκόγκιτς",
+"latin": "Siniša Gogić",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B9%CF%83%CE%B1_%CE%93%CE%BA%CF%8C%CE%B3%CE%BA%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1963-10-20",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Κύπρος"
+],
+"spells": [
+[
+1997,
+2000
+]
+]
+},
+{
+"qid": "Q2358297",
+"name": "Γιώργος Ανατολάκης",
+"latin": "Giorgos Anatolakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1974-03-16",
+"pos": [
+"αμυντικός",
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1997,
+2007
+]
+]
+},
+{
+"qid": "Q2371532",
+"name": "Αλέξανδρος Κακλαμάνος",
+"latin": "Alexandros Kaklamanos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%9A%CE%B1%CE%BA%CE%BB%CE%B1%CE%BC%CE%AC%CE%BD%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1974-05-20",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1995,
+1997
+]
+]
+},
+{
+"qid": "Q23771614",
+"name": "Μανώλης Σιώπης",
+"latin": "Manolis Siopis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%8E%CE%BB%CE%B7%CF%82_%CE%A3%CE%B9%CF%8E%CF%80%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1994-05-14",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2013,
+2014
+],
+[
+2017,
+2018
+]
+]
+},
+{
+"qid": "Q23817864",
+"name": "Ούγκο Κάιπερς",
+"latin": "Hugo Cuypers",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9F%CF%8D%CE%B3%CE%BA%CE%BF_%CE%9A%CE%AC%CE%B9%CF%80%CE%B5%CF%81%CF%82",
+"wiki_lang": "el",
+"born": "1997-02-07",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Βέλγιο"
+],
+"spells": [
+[
+2019,
+2021
+]
+]
+},
+{
+"qid": "Q2392947",
+"name": "Λουτσιάνο ντε Σόουζα",
+"latin": "Luciano de Souza",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CF%84%CF%83%CE%B9%CE%AC%CE%BD%CE%BF_%CE%BD%CF%84%CE%B5_%CE%A3%CF%8C%CE%BF%CF%85%CE%B6%CE%B1",
+"wiki_lang": "el",
+"born": "1972-08-21",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+1998,
+2001
+]
+]
+},
+{
+"qid": "Q2397480",
+"name": "Τάσος Πάντος",
+"latin": "Tasos Pantos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%A0%CE%AC%CE%BD%CF%84%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1976-05-05",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2003,
+2010
+]
+]
+},
+{
+"qid": "Q24262943",
+"name": "Ηλίας Σαπάνης",
+"latin": "Ilias Sapanis",
+"wiki": "https://en.wikipedia.org/wiki/Ilias_Sapanis",
+"wiki_lang": "en",
+"born": "1973-12-29",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [],
+"spells": [
+[
+1994,
+1996
+]
+]
+},
+{
+"qid": "Q2426899",
+"name": "Thomas Rohrbach",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Thomas_Rohrbach",
+"wiki_lang": "en",
+"born": "1949-04-04",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Γερμανία"
+],
+"spells": [
+[
+1978,
+1980
+]
+]
+},
+{
+"qid": "Q2444387",
+"name": "Ράφικ Σαμπανάντζοβιτς",
+"latin": "Refik Šabanadžović",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%AD%CF%86%CE%B9%CE%BA_%CE%A3%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%AC%CF%84%CE%B6%CE%BF%CE%B2%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1965-08-02",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Γιουγκοσλαβία"
+],
+"spells": [
+[
+1996,
+1998
+]
+]
+},
+{
+"qid": "Q2454389",
+"name": "Φαμπιάν Εστάι",
+"latin": "Fabián Estay",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%BC%CF%80%CE%B9%CE%AC%CE%BD_%CE%95%CF%83%CF%84%CE%AC%CE%B9",
+"wiki_lang": "el",
+"born": "1968-10-05",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Χιλή"
+],
+"spells": [
+[
+1993,
+1995
+]
+]
+},
+{
+"qid": "Q2454941",
+"name": "Γιώργος Σιδέρης",
+"latin": "Giorgos Sideris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CE%B9%CE%B4%CE%AD%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1938-04-05",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1959,
+1970
+],
+[
+1971,
+1972
+]
+]
+},
+{
+"qid": "Q2455284",
+"name": "Ζούλιο Σέζαρ Σάντος Κορέια",
+"latin": "Júlio César Santos Correa",
+"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CE%A3%CE%AD%CE%B6%CE%B1%CF%81_%CE%A3%CE%AC%CE%BD%CF%84%CE%BF%CF%82_%CE%9A%CE%BF%CF%81%CE%AD%CE%B9%CE%B1",
+"wiki_lang": "el",
+"born": "1978-11-17",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+2006,
+2008
+]
+]
+},
+{
+"qid": "Q2460408",
+"name": "Χουάν Χιλμπέρτο Φούνες",
+"latin": "Juan Gilberto Funes",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%AC%CE%BD_%CE%A7%CE%B9%CE%BB%CE%BC%CF%80%CE%AD%CF%81%CF%84%CE%BF_%CE%A6%CE%BF%CF%8D%CE%BD%CE%B5%CF%82",
+"wiki_lang": "el",
+"born": "1963-03-08",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": [
+[
+1988,
+1989
+]
+]
+},
+{
+"qid": "Q24631141",
+"name": "Βασίλης Τερκεσίδης",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A4%CE%B5%CF%81%CE%BA%CE%B5%CF%83%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1924-01-01",
+"pos": [
+"αμυντικός",
+"Αμυντικός μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q246488",
+"name": "Γιώργος Γκαλίτσιος",
+"latin": "Giorgos Galitsios",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CE%BA%CE%B1%CE%BB%CE%AF%CF%84%CF%83%CE%B9%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1986-07-06",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2008,
+2011
+]
+]
+},
+{
+"qid": "Q2469197",
+"name": "Φάνης Κατεργιαννάκης",
+"latin": "Fanis Katergiannakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%AC%CE%BD%CE%B7%CF%82_%CE%9A%CE%B1%CF%84%CE%B5%CF%81%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1974-02-16",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2002,
+2004
+]
+]
+},
+{
+"qid": "Q24701529",
+"name": "Fernando Kuyumchoglu",
+"latin": "",
+"wiki": "",
+"wiki_lang": "",
+"born": "1969-02-27",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": []
+},
+{
+"qid": "Q2508044",
+"name": "Γκαμπριέλ Άλβεζ",
+"latin": "Gabriel Álvez",
+"wiki": "https://en.wikipedia.org/wiki/Gabriel_%C3%81lvez",
+"wiki_lang": "en",
+"born": "1974-12-26",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ουρουγουάη"
+],
+"spells": [
+[
+2000,
+2002
+]
+]
+},
+{
+"qid": "Q25344233",
+"name": "Κώστας Μεσολογγίτης",
+"latin": "Kostas Mesologgitis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9C%CE%B5%CF%83%CE%BF%CE%BB%CE%BF%CE%B3%CE%B3%CE%AF%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1938-01-01",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q2535937",
+"name": "Γκάμπριελ Σούρερ",
+"latin": "Gabriel Schürrer",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%B1%CE%BC%CF%80%CF%81%CE%B9%CE%AD%CE%BB_%CE%A3%CE%BF%CF%8D%CF%81%CE%B5%CF%81",
+"wiki_lang": "el",
+"born": "1971-08-16",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": [
+[
+2004,
+2006
+]
+]
+},
+{
+"qid": "Q25362030",
+"name": "Γιώργος Γρυπαίος",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CF%81%CF%85%CF%80%CE%B1%CE%AF%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1944-01-01",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q2546619",
+"name": "Γρηγόρης Γεωργάτος",
+"latin": "Grigoris Georgatos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B7%CE%B3%CF%8C%CF%81%CE%B7%CF%82_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AC%CF%84%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1972-10-31",
+"pos": [
+"αμυντικός",
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1996,
+1999
+],
+[
+2000,
+2001
+],
+[
+2004,
+2007
+]
+]
+},
+{
+"qid": "Q2548141",
+"name": "Edu Coimbra",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Edu_Coimbra",
+"wiki_lang": "en",
+"born": "1947-02-05",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Βραζιλία"
+],
+"spells": [
+[
+2009,
+2010
+]
+]
+},
+{
+"qid": "Q2568410",
+"name": "Δημήτρης Διαμαντάκος",
+"latin": "Dimitris Diamantakos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B1%CE%BC%CE%B1%CE%BD%CF%84%CE%AC%CE%BA%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1993-03-05",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2012,
+2016
+]
+]
+},
+{
+"qid": "Q257295",
+"name": "Τάσος Αυλωνίτης",
+"latin": "Tasos Avlonitis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%91%CF%85%CE%BB%CF%89%CE%BD%CE%AF%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1990-01-01",
+"pos": [
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2014,
+2016
+]
+]
+},
+{
+"qid": "Q258132",
+"name": "Πέταρ Γκρμπιτς",
+"latin": "Petar Grbić",
+"wiki": "https://en.wikipedia.org/wiki/Petar_Grbi%C4%87",
+"wiki_lang": "en",
+"born": "1988-08-07",
+"pos": [
+"Πλάγιος μέσος",
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Μαυροβούνιο"
+],
+"spells": [
+[
+2011,
+2014
+]
+]
+},
+{
+"qid": "Q2583266",
+"name": "Χόρχε Μπερμούδες",
+"latin": "Jorge Bermúdez",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%8C%CF%81%CF%87%CE%B5_%CE%9C%CF%80%CE%B5%CF%81%CE%BC%CE%BF%CF%8D%CE%B4%CE%B5%CF%82",
+"wiki_lang": "el",
+"born": "1971-06-18",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Κολομβία"
+],
+"spells": [
+[
+2001,
+2003
+]
+]
+},
+{
+"qid": "Q258824",
+"name": "Ρόι Κάρολ",
+"latin": "Roy Carroll",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CF%8C%CE%B9_%CE%9A%CE%AC%CF%81%CE%BF%CE%BB",
+"wiki_lang": "el",
+"born": "1977-09-30",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Βόρεια Ιρλανδία"
+],
+"spells": [
+[
+2012,
+2014
+]
+]
+},
+{
+"qid": "Q25915762",
+"name": "Konstantinos Vlachos",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Konstantinos_Vlachos",
+"wiki_lang": "en",
+"born": "1995-02-06",
+"pos": [
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q25915891",
+"name": "Λευτέρης Χουτεσιώτης",
+"latin": "Lefteris Choutesiotis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%85%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A7%CE%BF%CF%85%CF%84%CE%B5%CF%83%CE%B9%CF%8E%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1994-07-20",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q25999770",
+"name": "Γιώργος Στρέζος",
+"latin": "Giorgos Strezos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CF%84%CF%81%CE%AD%CE%B6%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1995-07-06",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q2604465",
+"name": "Ρολάν Κουρμπίς",
+"latin": "Rolland Courbis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CE%BB%CE%AC%CE%BD_%CE%9A%CE%BF%CF%85%CF%81%CE%BC%CF%80%CE%AF%CF%82",
+"wiki_lang": "el",
+"born": "1953-08-12",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Γαλλία"
+],
+"spells": [
+[
+1973,
+1974
+]
+]
+},
+{
+"qid": "Q26129292",
+"name": "Επαμεινώνδας Παντελάκης",
+"latin": "Epaminondas Pantelakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B1%CE%BC%CE%B5%CE%B9%CE%BD%CF%8E%CE%BD%CE%B4%CE%B1%CF%82_%CE%A0%CE%B1%CE%BD%CF%84%CE%B5%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1995-02-10",
+"pos": [
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q2616204",
+"name": "Έμιλ Κρεμενλίεφ",
+"latin": "Emil Kremenliev",
+"wiki": "https://el.wikipedia.org/wiki/%CE%88%CE%BC%CE%B9%CE%BB_%CE%9A%CF%81%CE%B5%CE%BC%CE%B5%CE%BD%CE%BB%CE%AF%CE%B5%CF%86",
+"wiki_lang": "el",
+"born": "1969-08-13",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Βουλγαρία"
+],
+"spells": [
+[
+1996,
+1996
+]
+]
+},
+{
+"qid": "Q262619",
+"name": "Νίκος Αναστόπουλος",
+"latin": "Nikos Anastopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1958-01-22",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1980,
+1987
+],
+[
+1989,
+1992
+],
+[
+1993,
+1994
+]
+]
+},
+{
+"qid": "Q2626617",
+"name": "Σάββας Κωφίδης",
+"latin": "Savvas Kofidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%9A%CF%89%CF%86%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1961-02-05",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1988,
+1992
+]
+]
+},
+{
+"qid": "Q2626636",
+"name": "Ευθύμης Κουλουχέρης",
+"latin": "Efthimis Kouloucheris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%85%CE%B8%CF%8D%CE%BC%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CE%BB%CE%BF%CF%85%CF%87%CE%AD%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1981-03-10",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2003,
+2006
+]
+]
+},
+{
+"qid": "Q2626646",
+"name": "Κυριάκος Καραταΐδης",
+"latin": "Kyriakos Karataidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CF%84%CE%B1%CE%90%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1965-07-04",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1988,
+2001
+]
+]
+},
+{
+"qid": "Q2626745",
+"name": "Αλέξης Αλεξίου",
+"latin": "Alexis Alexiou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B7%CF%82_%CE%91%CE%BB%CE%B5%CE%BE%CE%AF%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1963-09-08",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1986,
+1990
+]
+]
+},
+{
+"qid": "Q2627084",
+"name": "Niels Sørensen",
+"latin": "",
+"wiki": "",
+"wiki_lang": "",
+"born": "1951-11-12",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Δανία"
+],
+"spells": []
+},
+{
+"qid": "Q2630459",
+"name": "Νίκος Τσιαντάκης",
+"latin": "Nikos Tsiantakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%A4%CF%83%CE%B9%CE%B1%CE%BD%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1963-10-20",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1987,
+1994
+]
+]
+},
+{
+"qid": "Q263828",
+"name": "Ηλίας Ρωσίδης",
+"latin": "Ilias Rosidis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A1%CF%89%CF%83%CE%AF%CE%B4%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1927-02-09",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1948,
+1961
+]
+]
+},
+{
+"qid": "Q26405648",
+"name": "Θανάσης Ανδρούτσος",
+"latin": "Thanasis Androutsos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1997-05-06",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2016,
+2025
+]
+]
+},
+{
+"qid": "Q266436",
+"name": "Μπράουν Ιντέγε",
+"latin": "Brown Ideye",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%AC%CE%BF%CF%85%CE%BD_%CE%99%CE%BD%CF%84%CE%AD%CE%B3%CE%B5",
+"wiki_lang": "el",
+"born": "1988-10-10",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Νιγηρία"
+],
+"spells": [
+[
+2015,
+2017
+]
+]
+},
+{
+"qid": "Q2700164",
+"name": "Γιάγια Μπανανά",
+"latin": "Banana Yaya",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%B3%CE%B9%CE%B1_%CE%9C%CF%80%CE%B1%CE%BD%CE%B1%CE%BD%CE%AC",
+"wiki_lang": "el",
+"born": "1991-07-29",
+"pos": [
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Καμερούν"
+],
+"spells": [
+[
+2017,
+2019
+]
+]
+},
+{
+"qid": "Q27048846",
+"name": "Γιώργος Μανθάτης",
+"latin": "Giorgos Manthatis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CE%B1%CE%BD%CE%B8%CE%AC%CF%84%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1997-05-11",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q27048847",
+"name": "Παναγιώτης Ρέτσος",
+"latin": "Panagiotis Retsos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82_%CE%A1%CE%AD%CF%84%CF%83%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1998-08-09",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q27048849",
+"name": "Giorgos Xydas",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Georgios_Xydas",
+"wiki_lang": "en",
+"born": "1997-04-14",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [],
+"spells": []
+},
+{
+"qid": "Q27048985",
+"name": "Δημήτρης Νικολάου",
+"latin": "Dimitris Nikolaou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1998-08-13",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2016,
+2019
+]
+]
+},
+{
+"qid": "Q27048989",
+"name": "Ardit Toli",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Ardit_Toli",
+"wiki_lang": "en",
+"born": "1997-07-12",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Αλβανία"
+],
+"spells": []
+},
+{
+"qid": "Q2705127",
+"name": "Γιάννης Ζαραδούκας",
+"latin": "Yannis Zaradoukas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%96%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%8D%CE%BA%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1985-12-12",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2011,
+2013
+]
+]
+},
+{
+"qid": "Q2712151",
+"name": "Τάσος Μητρόπουλος",
+"latin": "Tasos Mitropoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1957-08-23",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1981,
+1992
+],
+[
+1997,
+1997
+]
+]
+},
+{
+"qid": "Q2713817",
+"name": "Μίρνες Σίσιτς",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CF%81%CE%BD%CE%B5%CF%82_%CE%A3%CE%AF%CF%83%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1981-08-08",
+"pos": [
+"wing half"
+],
+"country": [
+"Σλοβενία"
+],
+"spells": [
+[
+2008,
+2009
+]
+]
+},
+{
+"qid": "Q27181240",
+"name": "Λάκης Σοφιανός",
+"latin": "",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%AC%CE%BA%CE%B7%CF%82_%CE%A3%CE%BF%CF%86%CE%B9%CE%B1%CE%BD%CF%8C%CF%82",
+"wiki_lang": "el",
+"born": "1932-00-00",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1960,
+1961
+]
+]
+},
+{
+"qid": "Q27528",
+"name": "Σαμπού Γιαταμπαρέ",
+"latin": "Sambou Yatabaré",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%B1%CE%BC%CF%80%CE%BF%CF%8D_%CE%93%CE%B9%CE%B1%CF%84%CE%B1%CE%BC%CF%80%CE%B1%CF%81%CE%AD",
+"wiki_lang": "el",
+"born": "1989-03-02",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Γαλλία",
+"Μάλι"
+],
+"spells": [
+[
+2013,
+2016
+]
+]
+},
+{
+"qid": "Q277772",
+"name": "Βίτορ Ούγκο Γκόμες Πάσος",
+"latin": "Pelé",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%BB%CE%AD_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%2C_%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CE%B8%CE%B5%CE%AF%CF%82_1987%29",
+"wiki_lang": "el",
+"born": "1987-09-14",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Πορτογαλία"
+],
+"spells": [
+[
+2014,
+2015
+]
+]
+},
+{
+"qid": "Q27881288",
+"name": "Δημήτρης Καλογεράκος",
+"latin": "Dimitris Kalogerakos",
+"wiki": "",
+"wiki_lang": "",
+"born": "1996-06-07",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q28474622",
+"name": "Στέφανος Ευαγγέλου",
+"latin": "Stefanos Evangelou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1998-05-12",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q28529844",
+"name": "Angelos Georgiou",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Angelos_Georgiou",
+"wiki_lang": "en",
+"born": "1974-08-27",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [],
+"spells": []
+},
+{
+"qid": "Q285986",
+"name": "Ιβάν Μαρκάνο",
+"latin": "Iván Marcano",
+"wiki": "https://el.wikipedia.org/wiki/%CE%99%CE%B2%CE%AC%CE%BD_%CE%9C%CE%B1%CF%81%CE%BA%CE%AC%CE%BD%CE%BF",
+"wiki_lang": "el",
+"born": "1987-06-23",
+"pos": [
+"Κεντρικός αμυντικός"
+],
+"country": [
+"Ισπανία"
+],
+"spells": [
+[
+2011,
+2012
+],
+[
+2014,
+2014
+]
+]
+},
+{
+"qid": "Q286511",
+"name": "Κριστιάν Καρεμπέ",
+"latin": "Christian Karembeu",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%AC%CE%BD_%CE%9A%CE%B1%CF%81%CE%B5%CE%BC%CF%80%CE%AD",
+"wiki_lang": "el",
+"born": "1970-12-03",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Γαλλία"
+],
+"spells": [
+[
+2001,
+2004
+]
+]
+},
+{
+"qid": "Q28654858",
+"name": "Nikos Katharios",
+"latin": "",
+"wiki": "",
+"wiki_lang": "",
+"born": "1994-10-07",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [],
+"spells": []
+},
+{
+"qid": "Q28911729",
+"name": "Αλέξανδρος Πασχαλάκης",
+"latin": "Alexandros Paschalakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%A0%CE%B1%CF%83%CF%87%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1989-07-28",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2022,
+2026
+]
+]
+},
+{
+"qid": "Q28935419",
+"name": "Άλεξ Γκόγκιτς",
+"latin": "Alex Gogić",
+"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%B5%CE%BE_%CE%93%CE%BA%CF%8C%CE%B3%CE%BA%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1994-04-13",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Κύπρος"
+],
+"spells": []
+},
+{
+"qid": "Q289967",
+"name": "Γιούρι Σάβιτσεφ",
+"latin": "Yuri Savichev",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%BF%CF%8D%CF%81%CE%B9_%CE%A3%CE%AC%CE%B2%CE%B9%CF%84%CF%83%CE%B5%CF%86",
+"wiki_lang": "el",
+"born": "1965-02-13",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Σοβιετική Ένωση",
+"Ρωσία"
+],
+"spells": [
+[
+1990,
+1992
+]
+]
+},
+{
+"qid": "Q293379",
+"name": "Óscar González Marcos",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/%C3%93scar_Gonz%C3%A1lez_%28Spanish_footballer%29",
+"wiki_lang": "en",
+"born": "1982-11-12",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Ισπανία"
+],
+"spells": [
+[
+2008,
+2010
+]
+]
+},
+{
+"qid": "Q294541",
+"name": "Στέβαν Γιόβετιτς",
+"latin": "Stevan Jovetić",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%B2%CE%B1%CE%BD_%CE%93%CE%B9%CF%8C%CE%B2%CE%B5%CF%84%CE%B9%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1989-11-02",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Μαυροβούνιο"
+],
+"spells": [
+[
+2023,
+2024
+]
+]
+},
+{
+"qid": "Q295002",
+"name": "Αβραάμ Παπαδόπουλος",
+"latin": "Avraam Papadopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%B2%CF%81%CE%B1%CE%AC%CE%BC_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1984-12-03",
+"pos": [
+"Κεντρικός αμυντικός",
+"Πλάγιος Αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2008,
+2014
+],
+[
+2019,
+2022
+]
+]
+},
+{
+"qid": "Q2961319",
+"name": "Μπάμπης Λυκογιάννης",
+"latin": "Charalampos Lykogiannis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%9B%CF%85%CE%BA%CE%BF%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1993-10-22",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+2011,
+2015
+]
+]
+},
+{
+"qid": "Q2977301",
+"name": "Claude Dielna",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Claude_Dielna",
+"wiki_lang": "en",
+"born": "1987-12-14",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Γαλλία"
+],
+"spells": [
+[
+2012,
+2014
+]
+]
+},
+{
+"qid": "Q30122316",
+"name": "Μαντί Καμαρά",
+"latin": "Mohamed Camara",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%84%CE%AF_%CE%9A%CE%B1%CE%BC%CE%B1%CF%81%CE%AC",
+"wiki_lang": "el",
+"born": "1997-02-28",
+"pos": [
+"αμυντικός"
+],
+"country": [
+"Γουινέα"
+],
+"spells": [
+[
+2018,
+2024
+]
+]
+},
+{
+"qid": "Q3013722",
+"name": "Ντανιέλ Μπατίστα Λίμα",
+"latin": "Daniel Batista Lima",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B1%CE%BD%CE%B9%CE%AD%CE%BB_%CE%9C%CF%80%CE%B1%CF%84%CE%AF%CF%83%CF%84%CE%B1_%CE%9B%CE%AF%CE%BC%CE%B1",
+"wiki_lang": "el",
+"born": "1964-09-09",
+"pos": [
+"Κεντρικός επιθετικός"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": [
+[
+1992,
+1995
+]
+]
+},
+{
+"qid": "Q303220",
+"name": "Γιουράι Μπούτσεκ",
+"latin": "Juraj Buček",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%BF%CF%85%CF%81%CE%AC%CE%B9_%CE%9C%CF%80%CE%BF%CF%8D%CF%84%CF%83%CE%B5%CE%BA",
+"wiki_lang": "el",
+"born": "1973-09-15",
+"pos": [
+"τερματοφύλακας"
+],
+"country": [
+"Σλοβακία"
+],
+"spells": [
+[
+2003,
+2005
+]
+]
+},
+{
+"qid": "Q3049854",
+"name": "Μοχάμεντ Μπεν",
+"latin": "El Fardou Ben Nabouhane",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CF%87%CE%AC%CE%BC%CE%B5%CE%BD%CF%84_%CE%9C%CF%80%CE%B5%CE%BD",
+"wiki_lang": "el",
+"born": "1989-06-10",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Κομόρες"
+],
+"spells": [
+[
+2015,
+2016
+]
+]
+},
+{
+"qid": "Q308030",
+"name": "Abder Ramdane",
+"latin": "",
+"wiki": "https://en.wikipedia.org/wiki/Abder_Ramdane",
+"wiki_lang": "en",
+"born": "1974-02-23",
+"pos": [
+"Πλάγιος μέσος"
+],
+"country": [
+"Γαλλία"
+],
+"spells": [
+[
+1994,
+1996
+]
+]
+},
+{
 "qid": "Q470415",
 "name": "Αλμπέρτο Μποτία",
 "latin": "Alberto Botía",
@@ -5202,1749 +6945,6 @@ null
 [
 2013,
 2015
-]
-]
-},
-{
-"qid": "Q21066359",
-"name": "Μανώλης Σάλιακας",
-"latin": "Manolis Saliakas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%8E%CE%BB%CE%B7%CF%82_%CE%A3%CE%AC%CE%BB%CE%B9%CE%B1%CE%BA%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1996-09-12",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2014,
-2019
-]
-]
-},
-{
-"qid": "Q212491",
-"name": "Ζε Ελίας",
-"latin": "Zé Elias",
-"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%B5_%CE%95%CE%BB%CE%AF%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1976-09-25",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-2000,
-2003
-]
-]
-},
-{
-"qid": "Q213119",
-"name": "Ζαν Μακούν",
-"latin": "Jean Makoun",
-"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%B1%CE%BD_%CE%9C%CE%B1%CE%BA%CE%BF%CF%8D%CE%BD",
-"wiki_lang": "el",
-"born": "1983-05-29",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Καμερούν"
-],
-"spells": [
-[
-2011,
-2012
-]
-]
-},
-{
-"qid": "Q213437",
-"name": "Όσκαρ Καρντόσο",
-"latin": "Óscar Cardozo",
-"wiki": "https://el.wikipedia.org/wiki/%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CF%81%CE%BD%CF%84%CF%8C%CF%83%CE%BF",
-"wiki_lang": "el",
-"born": "1983-05-20",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Παραγουάη"
-],
-"spells": [
-[
-2016,
-2017
-]
-]
-},
-{
-"qid": "Q215435",
-"name": "Άλμπερτ Ριέρα",
-"latin": "Albert Riera",
-"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%BC%CF%80%CE%B5%CF%81%CF%84_%CE%A1%CE%B9%CE%AD%CF%81%CE%B1",
-"wiki_lang": "el",
-"born": "1982-04-15",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ισπανία"
-],
-"spells": [
-[
-2010,
-2011
-]
-]
-},
-{
-"qid": "Q217507",
-"name": "Βλάντιμιρ Βάις",
-"latin": "Vladimír Weiss",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%BB%CE%AC%CE%BD%CF%84%CE%B9%CE%BC%CE%B9%CF%81_%CE%92%CE%AC%CE%B9%CF%82",
-"wiki_lang": "el",
-"born": "1989-11-30",
-"pos": [
-"wing half"
-],
-"country": [
-"Σλοβακία"
-],
-"spells": [
-[
-2013,
-2014
-]
-]
-},
-{
-"qid": "Q22005877",
-"name": "Κώστας Τσιμίκας",
-"latin": "Kostas Tsimikas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%A4%CF%83%CE%B9%CE%BC%CE%AF%CE%BA%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1996-05-12",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2014,
-2020
-]
-]
-},
-{
-"qid": "Q22007007",
-"name": "Εμρέ Μορ",
-"latin": "Emre Mor",
-"wiki": "https://el.wikipedia.org/wiki/%CE%95%CE%BC%CF%81%CE%AD_%CE%9C%CE%BF%CF%81",
-"wiki_lang": "el",
-"born": "1997-07-24",
-"pos": [
-"wing half"
-],
-"country": [
-"Δανία",
-"Τουρκία"
-],
-"spells": [
-[
-2020,
-2020
-]
-]
-},
-{
-"qid": "Q221138",
-"name": "Αντώνης Νικοπολίδης",
-"latin": "Antonios Nikopolidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%9D%CE%B9%CE%BA%CE%BF%CF%80%CE%BF%CE%BB%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1971-01-14",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2004,
-2011
-]
-]
-},
-{
-"qid": "Q2248973",
-"name": "Λιονέλ Χόρχε Νούνιες",
-"latin": "Leonel Núñez",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%BF%CE%BD%CE%AD%CE%BB_%CE%A7%CF%8C%CF%81%CF%87%CE%B5_%CE%9D%CE%BF%CF%8D%CE%BD%CE%B9%CE%B5%CF%82",
-"wiki_lang": "el",
-"born": "1984-10-13",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": [
-[
-2007,
-2008
-]
-]
-},
-{
-"qid": "Q2263432",
-"name": "Στέλιος Βενετίδης",
-"latin": "Stelios Venetidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%B9%CE%BF%CF%82_%CE%92%CE%B5%CE%BD%CE%B5%CF%84%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1976-11-19",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2001,
-2006
-]
-]
-},
-{
-"qid": "Q227358",
-"name": "Zsolt Laczkó",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Zsolt_Laczk%C3%B3",
-"wiki_lang": "en",
-"born": "1986-12-18",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ουγγαρία"
-],
-"spells": [
-[
-2007,
-2008
-]
-]
-},
-{
-"qid": "Q2306993",
-"name": "Τζόνι Νόβακ",
-"latin": "Džoni Novak",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CF%8C%CE%BD%CE%B9_%CE%9D%CF%8C%CE%B2%CE%B1%CE%BA",
-"wiki_lang": "el",
-"born": "1969-09-04",
-"pos": [
-"wing half"
-],
-"country": [
-"Γιουγκοσλαβία",
-"Σλοβενία"
-],
-"spells": [
-[
-2002,
-2003
-]
-]
-},
-{
-"qid": "Q2308085",
-"name": "Μάρκο Νε",
-"latin": "Marco Né",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AC%CF%81%CE%BA%CE%BF_%CE%9D%CE%B5",
-"wiki_lang": "el",
-"born": "1983-07-17",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ακτή Ελεφαντοστού"
-],
-"spells": [
-[
-2006,
-2008
-]
-]
-},
-{
-"qid": "Q2345884",
-"name": "Σίνισα Γκόγκιτς",
-"latin": "Siniša Gogić",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AF%CE%BD%CE%B9%CF%83%CE%B1_%CE%93%CE%BA%CF%8C%CE%B3%CE%BA%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1963-10-20",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Κύπρος"
-],
-"spells": [
-[
-1997,
-2000
-]
-]
-},
-{
-"qid": "Q2358297",
-"name": "Γιώργος Ανατολάκης",
-"latin": "Giorgos Anatolakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1974-03-16",
-"pos": [
-"αμυντικός",
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1997,
-2007
-]
-]
-},
-{
-"qid": "Q2371532",
-"name": "Αλέξανδρος Κακλαμάνος",
-"latin": "Alexandros Kaklamanos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%9A%CE%B1%CE%BA%CE%BB%CE%B1%CE%BC%CE%AC%CE%BD%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1974-05-20",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1995,
-1997
-]
-]
-},
-{
-"qid": "Q23771614",
-"name": "Μανώλης Σιώπης",
-"latin": "Manolis Siopis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%8E%CE%BB%CE%B7%CF%82_%CE%A3%CE%B9%CF%8E%CF%80%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1994-05-14",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2013,
-2014
-],
-[
-2017,
-2018
-]
-]
-},
-{
-"qid": "Q23817864",
-"name": "Ούγκο Κάιπερς",
-"latin": "Hugo Cuypers",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9F%CF%8D%CE%B3%CE%BA%CE%BF_%CE%9A%CE%AC%CE%B9%CF%80%CE%B5%CF%81%CF%82",
-"wiki_lang": "el",
-"born": "1997-02-07",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Βέλγιο"
-],
-"spells": [
-[
-2019,
-2021
-]
-]
-},
-{
-"qid": "Q2392947",
-"name": "Λουτσιάνο ντε Σόουζα",
-"latin": "Luciano de Souza",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CF%84%CF%83%CE%B9%CE%AC%CE%BD%CE%BF_%CE%BD%CF%84%CE%B5_%CE%A3%CF%8C%CE%BF%CF%85%CE%B6%CE%B1",
-"wiki_lang": "el",
-"born": "1972-08-21",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-1998,
-2001
-]
-]
-},
-{
-"qid": "Q2397480",
-"name": "Τάσος Πάντος",
-"latin": "Tasos Pantos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%A0%CE%AC%CE%BD%CF%84%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1976-05-05",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2003,
-2010
-]
-]
-},
-{
-"qid": "Q24262943",
-"name": "Ηλίας Σαπάνης",
-"latin": "Ilias Sapanis",
-"wiki": "https://en.wikipedia.org/wiki/Ilias_Sapanis",
-"wiki_lang": "en",
-"born": "1973-12-29",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [],
-"spells": [
-[
-1994,
-1996
-]
-]
-},
-{
-"qid": "Q2426899",
-"name": "Thomas Rohrbach",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Thomas_Rohrbach",
-"wiki_lang": "en",
-"born": "1949-04-04",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Γερμανία"
-],
-"spells": [
-[
-1978,
-1980
-]
-]
-},
-{
-"qid": "Q2444387",
-"name": "Ράφικ Σαμπανάντζοβιτς",
-"latin": "Refik Šabanadžović",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%AD%CF%86%CE%B9%CE%BA_%CE%A3%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%AC%CF%84%CE%B6%CE%BF%CE%B2%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1965-08-02",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Γιουγκοσλαβία"
-],
-"spells": [
-[
-1996,
-1998
-]
-]
-},
-{
-"qid": "Q2454389",
-"name": "Φαμπιάν Εστάι",
-"latin": "Fabián Estay",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%BC%CF%80%CE%B9%CE%AC%CE%BD_%CE%95%CF%83%CF%84%CE%AC%CE%B9",
-"wiki_lang": "el",
-"born": "1968-10-05",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Χιλή"
-],
-"spells": [
-[
-1993,
-1995
-]
-]
-},
-{
-"qid": "Q2454941",
-"name": "Γιώργος Σιδέρης",
-"latin": "Giorgos Sideris",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CE%B9%CE%B4%CE%AD%CF%81%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1938-04-05",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1959,
-1970
-],
-[
-1971,
-1972
-]
-]
-},
-{
-"qid": "Q2455284",
-"name": "Ζούλιο Σέζαρ Σάντος Κορέια",
-"latin": "Júlio César Santos Correa",
-"wiki": "https://el.wikipedia.org/wiki/%CE%96%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CE%A3%CE%AD%CE%B6%CE%B1%CF%81_%CE%A3%CE%AC%CE%BD%CF%84%CE%BF%CF%82_%CE%9A%CE%BF%CF%81%CE%AD%CE%B9%CE%B1",
-"wiki_lang": "el",
-"born": "1978-11-17",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-2006,
-2008
-]
-]
-},
-{
-"qid": "Q2460408",
-"name": "Χουάν Χιλμπέρτο Φούνες",
-"latin": "Juan Gilberto Funes",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%BF%CF%85%CE%AC%CE%BD_%CE%A7%CE%B9%CE%BB%CE%BC%CF%80%CE%AD%CF%81%CF%84%CE%BF_%CE%A6%CE%BF%CF%8D%CE%BD%CE%B5%CF%82",
-"wiki_lang": "el",
-"born": "1963-03-08",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": [
-[
-1988,
-1989
-]
-]
-},
-{
-"qid": "Q24631141",
-"name": "Βασίλης Τερκεσίδης",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A4%CE%B5%CF%81%CE%BA%CE%B5%CF%83%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1924-01-01",
-"pos": [
-"αμυντικός",
-"Αμυντικός μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q246488",
-"name": "Γιώργος Γκαλίτσιος",
-"latin": "Giorgos Galitsios",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CE%BA%CE%B1%CE%BB%CE%AF%CF%84%CF%83%CE%B9%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1986-07-06",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2008,
-2011
-]
-]
-},
-{
-"qid": "Q2469197",
-"name": "Φάνης Κατεργιαννάκης",
-"latin": "Fanis Katergiannakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%AC%CE%BD%CE%B7%CF%82_%CE%9A%CE%B1%CF%84%CE%B5%CF%81%CE%B3%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1974-02-16",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2002,
-2004
-]
-]
-},
-{
-"qid": "Q24701529",
-"name": "Fernando Kuyumchoglu",
-"latin": "",
-"wiki": "",
-"wiki_lang": "",
-"born": "1969-02-27",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": []
-},
-{
-"qid": "Q2508044",
-"name": "Γκαμπριέλ Άλβεζ",
-"latin": "Gabriel Álvez",
-"wiki": "https://en.wikipedia.org/wiki/Gabriel_%C3%81lvez",
-"wiki_lang": "en",
-"born": "1974-12-26",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ουρουγουάη"
-],
-"spells": [
-[
-2000,
-2002
-]
-]
-},
-{
-"qid": "Q25344233",
-"name": "Κώστας Μεσολογγίτης",
-"latin": "Kostas Mesologgitis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9C%CE%B5%CF%83%CE%BF%CE%BB%CE%BF%CE%B3%CE%B3%CE%AF%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1938-01-01",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q2535937",
-"name": "Γκάμπριελ Σούρερ",
-"latin": "Gabriel Schürrer",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%B1%CE%BC%CF%80%CF%81%CE%B9%CE%AD%CE%BB_%CE%A3%CE%BF%CF%8D%CF%81%CE%B5%CF%81",
-"wiki_lang": "el",
-"born": "1971-08-16",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Αργεντινή"
-],
-"spells": [
-[
-2004,
-2006
-]
-]
-},
-{
-"qid": "Q25362030",
-"name": "Γιώργος Γρυπαίος",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CF%81%CF%85%CF%80%CE%B1%CE%AF%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1944-01-01",
-"pos": [],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q2546619",
-"name": "Γρηγόρης Γεωργάτος",
-"latin": "Grigoris Georgatos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%B7%CE%B3%CF%8C%CF%81%CE%B7%CF%82_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AC%CF%84%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1972-10-31",
-"pos": [
-"αμυντικός",
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1996,
-1999
-],
-[
-2000,
-2001
-],
-[
-2004,
-2007
-]
-]
-},
-{
-"qid": "Q2548141",
-"name": "Edu Coimbra",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Edu_Coimbra",
-"wiki_lang": "en",
-"born": "1947-02-05",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Βραζιλία"
-],
-"spells": [
-[
-2009,
-2010
-]
-]
-},
-{
-"qid": "Q2568410",
-"name": "Δημήτρης Διαμαντάκος",
-"latin": "Dimitris Diamantakos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B1%CE%BC%CE%B1%CE%BD%CF%84%CE%AC%CE%BA%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1993-03-05",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2012,
-2016
-]
-]
-},
-{
-"qid": "Q257295",
-"name": "Τάσος Αυλωνίτης",
-"latin": "Tasos Avlonitis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%91%CF%85%CE%BB%CF%89%CE%BD%CE%AF%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1990-01-01",
-"pos": [
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2014,
-2016
-]
-]
-},
-{
-"qid": "Q258132",
-"name": "Πέταρ Γκρμπιτς",
-"latin": "Petar Grbić",
-"wiki": "https://en.wikipedia.org/wiki/Petar_Grbi%C4%87",
-"wiki_lang": "en",
-"born": "1988-08-07",
-"pos": [
-"Πλάγιος μέσος",
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Μαυροβούνιο"
-],
-"spells": [
-[
-2011,
-2014
-]
-]
-},
-{
-"qid": "Q2583266",
-"name": "Χόρχε Μπερμούδες",
-"latin": "Jorge Bermúdez",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%8C%CF%81%CF%87%CE%B5_%CE%9C%CF%80%CE%B5%CF%81%CE%BC%CE%BF%CF%8D%CE%B4%CE%B5%CF%82",
-"wiki_lang": "el",
-"born": "1971-06-18",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Κολομβία"
-],
-"spells": [
-[
-2001,
-2003
-]
-]
-},
-{
-"qid": "Q258824",
-"name": "Ρόι Κάρολ",
-"latin": "Roy Carroll",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CF%8C%CE%B9_%CE%9A%CE%AC%CF%81%CE%BF%CE%BB",
-"wiki_lang": "el",
-"born": "1977-09-30",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Βόρεια Ιρλανδία"
-],
-"spells": [
-[
-2012,
-2014
-]
-]
-},
-{
-"qid": "Q25915762",
-"name": "Konstantinos Vlachos",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Konstantinos_Vlachos",
-"wiki_lang": "en",
-"born": "1995-02-06",
-"pos": [
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q25915891",
-"name": "Λευτέρης Χουτεσιώτης",
-"latin": "Lefteris Choutesiotis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B5%CF%85%CF%84%CE%AD%CF%81%CE%B7%CF%82_%CE%A7%CE%BF%CF%85%CF%84%CE%B5%CF%83%CE%B9%CF%8E%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1994-07-20",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q25999770",
-"name": "Γιώργος Στρέζος",
-"latin": "Giorgos Strezos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A3%CF%84%CF%81%CE%AD%CE%B6%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1995-07-06",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q2604465",
-"name": "Ρολάν Κουρμπίς",
-"latin": "Rolland Courbis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CE%BB%CE%AC%CE%BD_%CE%9A%CE%BF%CF%85%CF%81%CE%BC%CF%80%CE%AF%CF%82",
-"wiki_lang": "el",
-"born": "1953-08-12",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Γαλλία"
-],
-"spells": [
-[
-1973,
-1974
-]
-]
-},
-{
-"qid": "Q26129292",
-"name": "Επαμεινώνδας Παντελάκης",
-"latin": "Epaminondas Pantelakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B1%CE%BC%CE%B5%CE%B9%CE%BD%CF%8E%CE%BD%CE%B4%CE%B1%CF%82_%CE%A0%CE%B1%CE%BD%CF%84%CE%B5%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1995-02-10",
-"pos": [
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q2616204",
-"name": "Έμιλ Κρεμενλίεφ",
-"latin": "Emil Kremenliev",
-"wiki": "https://el.wikipedia.org/wiki/%CE%88%CE%BC%CE%B9%CE%BB_%CE%9A%CF%81%CE%B5%CE%BC%CE%B5%CE%BD%CE%BB%CE%AF%CE%B5%CF%86",
-"wiki_lang": "el",
-"born": "1969-08-13",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Βουλγαρία"
-],
-"spells": [
-[
-1996,
-1996
-]
-]
-},
-{
-"qid": "Q262619",
-"name": "Νίκος Αναστόπουλος",
-"latin": "Nikos Anastopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1958-01-22",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1980,
-1987
-],
-[
-1989,
-1992
-],
-[
-1993,
-1994
-]
-]
-},
-{
-"qid": "Q2626617",
-"name": "Σάββας Κωφίδης",
-"latin": "Savvas Kofidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AC%CE%B2%CE%B2%CE%B1%CF%82_%CE%9A%CF%89%CF%86%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1961-02-05",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1988,
-1992
-]
-]
-},
-{
-"qid": "Q2626636",
-"name": "Ευθύμης Κουλουχέρης",
-"latin": "Efthimis Kouloucheris",
-"wiki": "https://el.wikipedia.org/wiki/%CE%95%CF%85%CE%B8%CF%8D%CE%BC%CE%B7%CF%82_%CE%9A%CE%BF%CF%85%CE%BB%CE%BF%CF%85%CF%87%CE%AD%CF%81%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1981-03-10",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2003,
-2006
-]
-]
-},
-{
-"qid": "Q2626646",
-"name": "Κυριάκος Καραταΐδης",
-"latin": "Kyriakos Karataidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%85%CF%81%CE%B9%CE%AC%CE%BA%CE%BF%CF%82_%CE%9A%CE%B1%CF%81%CE%B1%CF%84%CE%B1%CE%90%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1965-07-04",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1988,
-2001
-]
-]
-},
-{
-"qid": "Q2626745",
-"name": "Αλέξης Αλεξίου",
-"latin": "Alexis Alexiou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B7%CF%82_%CE%91%CE%BB%CE%B5%CE%BE%CE%AF%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1963-09-08",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1986,
-1990
-]
-]
-},
-{
-"qid": "Q2627084",
-"name": "Niels Sørensen",
-"latin": "",
-"wiki": "",
-"wiki_lang": "",
-"born": "1951-11-12",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Δανία"
-],
-"spells": []
-},
-{
-"qid": "Q2630459",
-"name": "Νίκος Τσιαντάκης",
-"latin": "Nikos Tsiantakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%A4%CF%83%CE%B9%CE%B1%CE%BD%CF%84%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1963-10-20",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1987,
-1994
-]
-]
-},
-{
-"qid": "Q263828",
-"name": "Ηλίας Ρωσίδης",
-"latin": "Ilias Rosidis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%97%CE%BB%CE%AF%CE%B1%CF%82_%CE%A1%CF%89%CF%83%CE%AF%CE%B4%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1927-02-09",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1948,
-1961
-]
-]
-},
-{
-"qid": "Q26405648",
-"name": "Θανάσης Ανδρούτσος",
-"latin": "Thanasis Androutsos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%98%CE%B1%CE%BD%CE%AC%CF%83%CE%B7%CF%82_%CE%91%CE%BD%CE%B4%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1997-05-06",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2016,
-2025
-]
-]
-},
-{
-"qid": "Q266436",
-"name": "Μπράουν Ιντέγε",
-"latin": "Brown Ideye",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%AC%CE%BF%CF%85%CE%BD_%CE%99%CE%BD%CF%84%CE%AD%CE%B3%CE%B5",
-"wiki_lang": "el",
-"born": "1988-10-10",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Νιγηρία"
-],
-"spells": [
-[
-2015,
-2017
-]
-]
-},
-{
-"qid": "Q2700164",
-"name": "Γιάγια Μπανανά",
-"latin": "Banana Yaya",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%B3%CE%B9%CE%B1_%CE%9C%CF%80%CE%B1%CE%BD%CE%B1%CE%BD%CE%AC",
-"wiki_lang": "el",
-"born": "1991-07-29",
-"pos": [
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Καμερούν"
-],
-"spells": [
-[
-2017,
-2019
-]
-]
-},
-{
-"qid": "Q27048846",
-"name": "Γιώργος Μανθάτης",
-"latin": "Giorgos Manthatis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CE%B1%CE%BD%CE%B8%CE%AC%CF%84%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1997-05-11",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q27048847",
-"name": "Παναγιώτης Ρέτσος",
-"latin": "Panagiotis Retsos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82_%CE%A1%CE%AD%CF%84%CF%83%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1998-08-09",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q27048849",
-"name": "Giorgos Xydas",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Georgios_Xydas",
-"wiki_lang": "en",
-"born": "1997-04-14",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [],
-"spells": []
-},
-{
-"qid": "Q27048985",
-"name": "Δημήτρης Νικολάου",
-"latin": "Dimitris Nikolaou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%AC%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1998-08-13",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2016,
-2019
-]
-]
-},
-{
-"qid": "Q27048989",
-"name": "Ardit Toli",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Ardit_Toli",
-"wiki_lang": "en",
-"born": "1997-07-12",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Αλβανία"
-],
-"spells": []
-},
-{
-"qid": "Q2705127",
-"name": "Γιάννης Ζαραδούκας",
-"latin": "Yannis Zaradoukas",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%96%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%8D%CE%BA%CE%B1%CF%82",
-"wiki_lang": "el",
-"born": "1985-12-12",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2011,
-2013
-]
-]
-},
-{
-"qid": "Q2712151",
-"name": "Τάσος Μητρόπουλος",
-"latin": "Tasos Mitropoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%83%CE%BF%CF%82_%CE%9C%CE%B7%CF%84%CF%81%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1957-08-23",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1981,
-1992
-],
-[
-1997,
-1997
-]
-]
-},
-{
-"qid": "Q2713817",
-"name": "Μίρνες Σίσιτς",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%AF%CF%81%CE%BD%CE%B5%CF%82_%CE%A3%CE%AF%CF%83%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1981-08-08",
-"pos": [
-"wing half"
-],
-"country": [
-"Σλοβενία"
-],
-"spells": [
-[
-2008,
-2009
-]
-]
-},
-{
-"qid": "Q27181240",
-"name": "Λάκης Σοφιανός",
-"latin": "",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%AC%CE%BA%CE%B7%CF%82_%CE%A3%CE%BF%CF%86%CE%B9%CE%B1%CE%BD%CF%8C%CF%82",
-"wiki_lang": "el",
-"born": "1932-00-00",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1960,
-1961
-]
-]
-},
-{
-"qid": "Q27528",
-"name": "Σαμπού Γιαταμπαρέ",
-"latin": "Sambou Yatabaré",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%B1%CE%BC%CF%80%CE%BF%CF%8D_%CE%93%CE%B9%CE%B1%CF%84%CE%B1%CE%BC%CF%80%CE%B1%CF%81%CE%AD",
-"wiki_lang": "el",
-"born": "1989-03-02",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Γαλλία",
-"Μάλι"
-],
-"spells": [
-[
-2013,
-2016
-]
-]
-},
-{
-"qid": "Q277772",
-"name": "Βίτορ Ούγκο Γκόμες Πάσος",
-"latin": "Pelé",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%BB%CE%AD_%28%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%2C_%CE%B3%CE%B5%CE%BD%CE%BD%CE%B7%CE%B8%CE%B5%CE%AF%CF%82_1987%29",
-"wiki_lang": "el",
-"born": "1987-09-14",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Πορτογαλία"
-],
-"spells": [
-[
-2014,
-2015
-]
-]
-},
-{
-"qid": "Q27881288",
-"name": "Δημήτρης Καλογεράκος",
-"latin": "Dimitris Kalogerakos",
-"wiki": "",
-"wiki_lang": "",
-"born": "1996-06-07",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q28474622",
-"name": "Στέφανος Ευαγγέλου",
-"latin": "Stefanos Evangelou",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CF%86%CE%B1%CE%BD%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%BF%CF%85",
-"wiki_lang": "el",
-"born": "1998-05-12",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": []
-},
-{
-"qid": "Q28529844",
-"name": "Angelos Georgiou",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Angelos_Georgiou",
-"wiki_lang": "en",
-"born": "1974-08-27",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [],
-"spells": []
-},
-{
-"qid": "Q285986",
-"name": "Ιβάν Μαρκάνο",
-"latin": "Iván Marcano",
-"wiki": "https://el.wikipedia.org/wiki/%CE%99%CE%B2%CE%AC%CE%BD_%CE%9C%CE%B1%CF%81%CE%BA%CE%AC%CE%BD%CE%BF",
-"wiki_lang": "el",
-"born": "1987-06-23",
-"pos": [
-"Κεντρικός αμυντικός"
-],
-"country": [
-"Ισπανία"
-],
-"spells": [
-[
-2011,
-2012
-],
-[
-2014,
-2014
-]
-]
-},
-{
-"qid": "Q286511",
-"name": "Κριστιάν Καρεμπέ",
-"latin": "Christian Karembeu",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%81%CE%B9%CF%83%CF%84%CE%B9%CE%AC%CE%BD_%CE%9A%CE%B1%CF%81%CE%B5%CE%BC%CF%80%CE%AD",
-"wiki_lang": "el",
-"born": "1970-12-03",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Γαλλία"
-],
-"spells": [
-[
-2001,
-2004
-]
-]
-},
-{
-"qid": "Q28654858",
-"name": "Nikos Katharios",
-"latin": "",
-"wiki": "",
-"wiki_lang": "",
-"born": "1994-10-07",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [],
-"spells": []
-},
-{
-"qid": "Q28911729",
-"name": "Αλέξανδρος Πασχαλάκης",
-"latin": "Alexandros Paschalakis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%A0%CE%B1%CF%83%CF%87%CE%B1%CE%BB%CE%AC%CE%BA%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1989-07-28",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2022,
-2026
-]
-]
-},
-{
-"qid": "Q28935419",
-"name": "Άλεξ Γκόγκιτς",
-"latin": "Alex Gogić",
-"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%BB%CE%B5%CE%BE_%CE%93%CE%BA%CF%8C%CE%B3%CE%BA%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1994-04-13",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Κύπρος"
-],
-"spells": []
-},
-{
-"qid": "Q289967",
-"name": "Γιούρι Σάβιτσεφ",
-"latin": "Yuri Savichev",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%BF%CF%8D%CF%81%CE%B9_%CE%A3%CE%AC%CE%B2%CE%B9%CF%84%CF%83%CE%B5%CF%86",
-"wiki_lang": "el",
-"born": "1965-02-13",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Σοβιετική Ένωση",
-"Ρωσία"
-],
-"spells": [
-[
-1990,
-1992
-]
-]
-},
-{
-"qid": "Q293379",
-"name": "Óscar González Marcos",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/%C3%93scar_Gonz%C3%A1lez_%28Spanish_footballer%29",
-"wiki_lang": "en",
-"born": "1982-11-12",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Ισπανία"
-],
-"spells": [
-[
-2008,
-2010
-]
-]
-},
-{
-"qid": "Q294541",
-"name": "Στέβαν Γιόβετιτς",
-"latin": "Stevan Jovetić",
-"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%B2%CE%B1%CE%BD_%CE%93%CE%B9%CF%8C%CE%B2%CE%B5%CF%84%CE%B9%CF%84%CF%82",
-"wiki_lang": "el",
-"born": "1989-11-02",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Μαυροβούνιο"
-],
-"spells": [
-[
-2023,
-2024
-]
-]
-},
-{
-"qid": "Q295002",
-"name": "Αβραάμ Παπαδόπουλος",
-"latin": "Avraam Papadopoulos",
-"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%B2%CF%81%CE%B1%CE%AC%CE%BC_%CE%A0%CE%B1%CF%80%CE%B1%CE%B4%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
-"wiki_lang": "el",
-"born": "1984-12-03",
-"pos": [
-"Κεντρικός αμυντικός",
-"Πλάγιος Αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2008,
-2014
-],
-[
-2019,
-2022
-]
-]
-},
-{
-"qid": "Q2961319",
-"name": "Μπάμπης Λυκογιάννης",
-"latin": "Charalampos Lykogiannis",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CE%AC%CE%BC%CF%80%CE%B7%CF%82_%CE%9B%CF%85%CE%BA%CE%BF%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82",
-"wiki_lang": "el",
-"born": "1993-10-22",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-2011,
-2015
-]
-]
-},
-{
-"qid": "Q2977301",
-"name": "Claude Dielna",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Claude_Dielna",
-"wiki_lang": "en",
-"born": "1987-12-14",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Γαλλία"
-],
-"spells": [
-[
-2012,
-2014
-]
-]
-},
-{
-"qid": "Q30122316",
-"name": "Μαντί Καμαρά",
-"latin": "Mohamed Camara",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD%CF%84%CE%AF_%CE%9A%CE%B1%CE%BC%CE%B1%CF%81%CE%AC",
-"wiki_lang": "el",
-"born": "1997-02-28",
-"pos": [
-"αμυντικός"
-],
-"country": [
-"Γουινέα"
-],
-"spells": [
-[
-2018,
-2024
-]
-]
-},
-{
-"qid": "Q3013722",
-"name": "Ντανιέλ Μπατίστα Λίμα",
-"latin": "Daniel Batista Lima",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B1%CE%BD%CE%B9%CE%AD%CE%BB_%CE%9C%CF%80%CE%B1%CF%84%CE%AF%CF%83%CF%84%CE%B1_%CE%9B%CE%AF%CE%BC%CE%B1",
-"wiki_lang": "el",
-"born": "1964-09-09",
-"pos": [
-"Κεντρικός επιθετικός"
-],
-"country": [
-"Ελλάδα"
-],
-"spells": [
-[
-1992,
-1995
-]
-]
-},
-{
-"qid": "Q303220",
-"name": "Γιουράι Μπούτσεκ",
-"latin": "Juraj Buček",
-"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%BF%CF%85%CF%81%CE%AC%CE%B9_%CE%9C%CF%80%CE%BF%CF%8D%CF%84%CF%83%CE%B5%CE%BA",
-"wiki_lang": "el",
-"born": "1973-09-15",
-"pos": [
-"τερματοφύλακας"
-],
-"country": [
-"Σλοβακία"
-],
-"spells": [
-[
-2003,
-2005
-]
-]
-},
-{
-"qid": "Q3049854",
-"name": "Μοχάμεντ Μπεν",
-"latin": "El Fardou Ben Nabouhane",
-"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CF%87%CE%AC%CE%BC%CE%B5%CE%BD%CF%84_%CE%9C%CF%80%CE%B5%CE%BD",
-"wiki_lang": "el",
-"born": "1989-06-10",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Κομόρες"
-],
-"spells": [
-[
-2015,
-2016
-]
-]
-},
-{
-"qid": "Q308030",
-"name": "Abder Ramdane",
-"latin": "",
-"wiki": "https://en.wikipedia.org/wiki/Abder_Ramdane",
-"wiki_lang": "en",
-"born": "1974-02-23",
-"pos": [
-"Πλάγιος μέσος"
-],
-"country": [
-"Γαλλία"
-],
-"spells": [
-[
-1994,
-1996
 ]
 ]
 },
@@ -14470,6 +14470,783 @@ null
 2002
 ]
 ]
+},
+{
+"qid": "Q100715582",
+"name": "Νέιθαν Μενσά",
+"latin": "Nathan Mensah",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AD%CE%B9%CE%B8%CE%B1%CE%BD_%CE%9C%CE%AD%CE%BD%CF%83%CE%B1",
+"wiki_lang": "el",
+"born": "1998-04-09",
+"pos": [
+"πάουερ φόργουορντ",
+"σέντερ"
+],
+"country": [
+"Γκάνα"
+],
+"spells": []
+},
+{
+"qid": "Q100895737",
+"name": "Τζορτζ Πάπας",
+"latin": "George Papas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CF%81%CF%84%CE%B6_%CE%A0%CE%AC%CF%80%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1998-04-15",
+"pos": [],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q100963161",
+"name": "Μόουζες Ράιτ",
+"latin": "Moses Wright",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%8C%CE%BF%CF%85%CE%B6%CE%B5%CF%82_%CE%A1%CE%AC%CE%B9%CF%84",
+"wiki_lang": "el",
+"born": "1998-12-23",
+"pos": [],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q10345591",
+"name": "Έρικ Γκριν",
+"latin": "Erick Green",
+"wiki": "https://el.wikipedia.org/wiki/%CE%88%CF%81%CE%B9%CE%BA_%CE%93%CE%BA%CF%81%CE%B9%CE%BD",
+"wiki_lang": "el",
+"born": "1991-05-09",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q106627405",
+"name": "Γεώργιος Τανούλης",
+"latin": "Georgios Tanoulis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%A4%CE%B1%CE%BD%CE%BF%CF%8D%CE%BB%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "2002-07-27",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q1264436",
+"name": "Χακίμ Γουόρικ",
+"latin": "Hakim Warrick",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%B1%CE%BA%CE%AF%CE%BC_%CE%93%CE%BF%CF%85%CF%8C%CF%81%CE%B9%CE%BA",
+"wiki_lang": "el",
+"born": "1982-07-08",
+"pos": [
+"πάουερ φόργουορντ",
+"σμολ φόργουορντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q13876407",
+"name": "Γιάννης Παπαπέτρου",
+"latin": "Ioannis Papapetrou",
+"wiki": "https://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CF%80%CE%AD%CF%84%CF%81%CE%BF%CF%85",
+"wiki_lang": "el",
+"born": "1994-03-30",
+"pos": [
+"σμολ φόργουορντ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q1400962",
+"name": "Τέιλορ Ρότσεστι",
+"latin": "Taylor Rochestie",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AD%CE%B9%CE%BB%CE%BF%CF%81_%CE%A1%CF%8C%CF%84%CF%83%CE%B5%CF%83%CF%84%CE%B9",
+"wiki_lang": "el",
+"born": "1985-07-01",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής",
+"Μαυροβούνιο"
+],
+"spells": []
+},
+{
+"qid": "Q14327036",
+"name": "Γουίλι Ριντ",
+"latin": "Willie Reed",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CE%AF%CE%BB%CE%B9_%CE%A1%CE%B9%CE%BD%CF%84",
+"wiki_lang": "el",
+"born": "1990-05-16",
+"pos": [
+"πάουερ φόργουορντ",
+"σέντερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q14327391",
+"name": "Ογκάστιν Ρούμπιτ",
+"latin": "Augustine Rubit",
+"wiki": "https://el.wikipedia.org/wiki/%CE%8C%CE%B3%CE%BA%CE%BF%CF%85%CF%83%CF%84%CE%B9%CE%BD_%CE%A1%CE%BF%CF%8D%CE%BC%CF%80%CE%B9%CF%84",
+"wiki_lang": "el",
+"born": "1989-08-14",
+"pos": [
+"πάουερ φόργουορντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q14469653",
+"name": "Άαρον Χάρισον",
+"latin": "Aaron Harrison",
+"wiki": "https://el.wikipedia.org/wiki/%CE%86%CE%B1%CF%81%CE%BF%CE%BD_%CE%A7%CE%AC%CF%81%CE%B9%CF%83%CE%BF%CE%BD",
+"wiki_lang": "el",
+"born": "1994-10-28",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q16032267",
+"name": "Πάτρικ Γιανγκ",
+"latin": "Patric Young",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CF%84%CF%81%CE%B9%CE%BA_%CE%93%CE%B9%CE%B1%CE%BD%CE%B3%CE%BA",
+"wiki_lang": "el",
+"born": "1992-02-01",
+"pos": [
+"πάουερ φόργουορντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q16302469",
+"name": "Λούκα Βιλντόζα",
+"latin": "Luca Vildoza",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%8D%CE%BA%CE%B1_%CE%92%CE%B9%CE%BB%CE%BD%CF%84%CF%8C%CE%B6%CE%B1",
+"wiki_lang": "el",
+"born": "1995-08-11",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Αργεντινή"
+],
+"spells": []
+},
+{
+"qid": "Q17305698",
+"name": "Κεμ Μπιρτς",
+"latin": "Khem Birch",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CE%B5%CE%BC_%CE%9C%CF%80%CE%B9%CF%81%CF%84%CF%82",
+"wiki_lang": "el",
+"born": "1992-09-28",
+"pos": [
+"πάουερ φόργουορντ"
+],
+"country": [
+"Καναδάς"
+],
+"spells": []
+},
+{
+"qid": "Q17403363",
+"name": "Αντώνης Κόνιαρης",
+"latin": "Antonis Koniaris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%9A%CF%8C%CE%BD%CE%B9%CE%B1%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1997-09-30",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q17411260",
+"name": "Μιχάλης Λούντζης",
+"latin": "Michalis Lountzis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CF%87%CE%AC%CE%BB%CE%B7%CF%82_%CE%9B%CE%BF%CF%8D%CE%BD%CF%84%CE%B6%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1998-08-04",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q17418404",
+"name": "Γουίλ Τσέρι",
+"latin": "Will Cherry",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%BF%CF%85%CE%AF%CE%BB_%CE%A4%CF%83%CE%AD%CF%81%CE%B9",
+"wiki_lang": "el",
+"born": "1991-02-08",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q17708734",
+"name": "Τάρικ Μπλακ",
+"latin": "Tarik Black",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CF%81%CE%B9%CE%BA_%CE%9C%CF%80%CE%BB%CE%B1%CE%BA",
+"wiki_lang": "el",
+"born": "1991-11-22",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q1777682",
+"name": "Μιντάουγκας Κουζμίνσκας",
+"latin": "Mindaugas Kuzminskas",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%B9%CE%BD%CF%84%CE%AC%CE%BF%CF%85%CE%B3%CE%BA%CE%B1%CF%82_%CE%9A%CE%BF%CF%85%CE%B6%CE%BC%CE%AF%CE%BD%CF%83%CE%BA%CE%B1%CF%82",
+"wiki_lang": "el",
+"born": "1989-10-19",
+"pos": [
+"σμολ φόργουορντ"
+],
+"country": [
+"Λιθουανία"
+],
+"spells": []
+},
+{
+"qid": "Q18157421",
+"name": "Μπριάντε Γουέμπερ",
+"latin": "Briante Weber",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%81%CE%B9%CE%AC%CE%BD%CF%84%CE%B5_%CE%93%CE%BF%CF%85%CE%AD%CE%BC%CF%80%CE%B5%CF%81",
+"wiki_lang": "el",
+"born": "1992-12-29",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q19881847",
+"name": "Νάιτζελ Γουίλιαμς-Γκος",
+"latin": "Nigel Williams-Goss",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AC%CE%B9%CF%84%CE%B6%CE%B5%CE%BB_%CE%93%CE%BF%CF%85%CE%AF%CE%BB%CE%B9%CE%B1%CE%BC%CF%82-%CE%93%CE%BA%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1994-09-16",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q19973713",
+"name": "Βασίλης Τολιόπουλος",
+"latin": "Vasilis Toliopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A4%CE%BF%CE%BB%CE%B9%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82",
+"wiki_lang": "el",
+"born": "1996-06-15",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q2054315",
+"name": "Βαγγέλης Μάντζαρης",
+"latin": "Vangelis Mantzaris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CE%B3%CE%B3%CE%AD%CE%BB%CE%B7%CF%82_%CE%9C%CE%AC%CE%BD%CF%84%CE%B6%CE%B1%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1990-04-16",
+"pos": [
+"πλέι μέικερ",
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q21063206",
+"name": "Τόμας Γουόκαπ",
+"latin": "Thomas Walkup",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%8C%CE%BC%CE%B1%CF%82_%CE%93%CE%BF%CF%85%CF%8C%CE%BA%CE%B1%CF%80",
+"wiki_lang": "el",
+"born": "1992-12-30",
+"pos": [
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής",
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q23007630",
+"name": "Ουέιντ Μπάλντουιν",
+"latin": "Wade Baldwin",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9F%CF%85%CE%AD%CE%B9%CE%BD%CF%84_%CE%9C%CF%80%CE%AC%CE%BB%CE%BD%CF%84%CE%BF%CF%85%CE%B9%CE%BD",
+"wiki_lang": "el",
+"born": "1996-03-29",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q23302736",
+"name": "Τζοέλ Μπολομπόι",
+"latin": "Joel Bolomboy",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%B6%CE%BF%CE%AD%CE%BB_%CE%9C%CF%80%CE%BF%CE%BB%CE%BF%CE%BC%CF%80%CF%8C%CE%B9",
+"wiki_lang": "el",
+"born": "1994-01-28",
+"pos": [
+"πάουερ φόργουορντ"
+],
+"country": [
+"Ουκρανία",
+"Ρωσία"
+],
+"spells": []
+},
+{
+"qid": "Q23771345",
+"name": "Τάιλερ Ντόρσεϊ",
+"latin": "Tyler Dorsey",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CE%AC%CE%B9%CE%BB%CE%B5%CF%81_%CE%9D%CF%84%CF%8C%CF%81%CF%83%CE%B5%CF%8A",
+"wiki_lang": "el",
+"born": "1996-02-14",
+"pos": [
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q23771618",
+"name": "Ίθαν Χαπ",
+"latin": "Ethan Happ",
+"wiki": "https://el.wikipedia.org/wiki/%CE%8A%CE%B8%CE%B1%CE%BD_%CE%A7%CE%B1%CF%80",
+"wiki_lang": "el",
+"born": "1996-05-07",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Βόρεια Μακεδονία"
+],
+"spells": []
+},
+{
+"qid": "Q2445101",
+"name": "Τσαρλς Τ. Τζένκινς",
+"latin": "Charles Jenkins",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A4%CF%83%CE%B1%CF%81%CE%BB%CF%82_%CE%A4._%CE%A4%CE%B6%CE%AD%CE%BD%CE%BA%CE%B9%CE%BD%CF%82",
+"wiki_lang": "el",
+"born": "1989-02-28",
+"pos": [
+"πλέι μέικερ",
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q2504840",
+"name": "Εβάν Φουρνιέ",
+"latin": "Evan Fournier",
+"wiki": "https://el.wikipedia.org/wiki/%CE%95%CE%B2%CE%AC%CE%BD_%CE%A6%CE%BF%CF%85%CF%81%CE%BD%CE%B9%CE%AD",
+"wiki_lang": "el",
+"born": "1992-10-29",
+"pos": [
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Γαλλία"
+],
+"spells": []
+},
+{
+"qid": "Q2566761",
+"name": "Ντι Τζέι Στρόμπερι",
+"latin": "D. J. Strawberry",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B9_%CE%A4%CE%B6%CE%AD%CE%B9_%CE%A3%CF%84%CF%81%CF%8C%CE%BC%CF%80%CE%B5%CF%81%CE%B9",
+"wiki_lang": "el",
+"born": "1985-06-15",
+"pos": [
+"πλέι μέικερ",
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής",
+"Καμερούν"
+],
+"spells": []
+},
+{
+"qid": "Q27070244",
+"name": "Οκτάβιους Έλις",
+"latin": "Octavius Ellis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9F%CE%BA%CF%84%CE%AC%CE%B2%CE%B9%CE%BF%CF%85%CF%82_%CE%88%CE%BB%CE%B9%CF%82",
+"wiki_lang": "el",
+"born": "1993-03-10",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q2874765",
+"name": "Αξέλ Τουπάν",
+"latin": "Axel Toupane",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CE%BE%CE%AD%CE%BB_%CE%A4%CE%BF%CF%85%CF%80%CE%AC%CE%BD",
+"wiki_lang": "el",
+"born": "1992-07-23",
+"pos": [
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Γαλλία"
+],
+"spells": []
+},
+{
+"qid": "Q3208805",
+"name": "Γιάνις Στρέλνιεκς",
+"latin": "Jānis Strēlnieks",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%B9%CF%82_%CE%A3%CF%84%CF%81%CE%AD%CE%BB%CE%BD%CE%B9%CE%B5%CE%BA%CF%82",
+"wiki_lang": "el",
+"born": "1989-09-01",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Λετονία"
+],
+"spells": []
+},
+{
+"qid": "Q3257162",
+"name": "Λιβιό Ζαν-Σαρλ",
+"latin": "Livio Jean-Charles",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9B%CE%B9%CE%B2%CE%B9%CF%8C_%CE%96%CE%B1%CE%BD-%CE%A3%CE%B1%CF%81%CE%BB",
+"wiki_lang": "el",
+"born": "1993-11-08",
+"pos": [
+"σμολ φόργουορντ"
+],
+"country": [
+"Γαλλία"
+],
+"spells": []
+},
+{
+"qid": "Q448029",
+"name": "Γιώργος Μπόγρης",
+"latin": "Giorgos Bogris",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9C%CF%80%CF%8C%CE%B3%CF%81%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1989-02-19",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q47468334",
+"name": "Φίλιπ Πετρούσεφ",
+"latin": "Filip Petrušev",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A6%CE%AF%CE%BB%CE%B9%CF%80_%CE%A0%CE%B5%CF%84%CF%81%CE%BF%CF%8D%CF%83%CE%B5%CF%86",
+"wiki_lang": "el",
+"born": "2000-04-15",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Σερβία"
+],
+"spells": []
+},
+{
+"qid": "Q48860",
+"name": "Ντάριους Τζόνσον-Όντομ",
+"latin": "Darius Johnson-Odom",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%AC%CF%81%CE%B9%CE%BF%CF%85%CF%82_%CE%A4%CE%B6%CF%8C%CE%BD%CF%83%CE%BF%CE%BD-%CE%8C%CE%BD%CF%84%CE%BF%CE%BC",
+"wiki_lang": "el",
+"born": "1989-09-28",
+"pos": [
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q48872151",
+"name": "Χασάν Μάρτιν",
+"latin": "Hassan Martin",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CE%B1%CF%83%CE%AC%CE%BD_%CE%9C%CE%AC%CF%81%CF%84%CE%B9%CE%BD",
+"wiki_lang": "el",
+"born": "1995-11-22",
+"pos": [
+"σέντερ",
+"πάουερ φόργουορντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q51247599",
+"name": "Ίγκνας Μπραζντέικις",
+"latin": "Ignas Brazdeikis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%8A%CE%B3%CE%BA%CE%BD%CE%B1%CF%82_%CE%9C%CF%80%CF%81%CE%B1%CE%B6%CE%BD%CF%84%CE%AD%CE%B9%CE%BA%CE%B9%CF%82",
+"wiki_lang": "el",
+"born": "1999-01-08",
+"pos": [
+"σμολ φόργουορντ"
+],
+"country": [
+"Καναδάς",
+"Λιθουανία"
+],
+"spells": []
+},
+{
+"qid": "Q521872",
+"name": "Κώστας Κουφός",
+"latin": "Kosta Koufos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CE%BF%CF%85%CF%86%CF%8C%CF%82",
+"wiki_lang": "el",
+"born": "1989-02-24",
+"pos": [
+"πάουερ φόργουορντ",
+"σέντερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής",
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q557194",
+"name": "Κουίνσι Έισι",
+"latin": "Quincy Acy",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9A%CE%BF%CF%85%CE%AF%CE%BD%CF%83%CE%B9_%CE%88%CE%B9%CF%83%CE%B9",
+"wiki_lang": "el",
+"born": "1990-10-06",
+"pos": [
+"πάουερ φόργουορντ",
+"σμολ φόργουορντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q5881607",
+"name": "Χόλις Τόμπσον",
+"latin": "Hollis Thompson",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A7%CF%8C%CE%BB%CE%B9%CF%82_%CE%A4%CF%8C%CE%BC%CF%80%CF%83%CE%BF%CE%BD",
+"wiki_lang": "el",
+"born": "1991-04-03",
+"pos": [
+"σμολ φόργουορντ",
+"σούτινγκ γκαρντ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q6078481",
+"name": "Αϊζάια Κάνααν",
+"latin": "Isaiah Canaan",
+"wiki": "https://el.wikipedia.org/wiki/%CE%91%CF%8A%CE%B6%CE%AC%CE%B9%CE%B1_%CE%9A%CE%AC%CE%BD%CE%B1%CE%B1%CE%BD",
+"wiki_lang": "el",
+"born": "1991-05-02",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q6926282",
+"name": "Μουσταφά Φαλ",
+"latin": "Moustapha Fall",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CF%85%CF%83%CF%84%CE%B1%CF%86%CE%AC_%CE%A6%CE%B1%CE%BB",
+"wiki_lang": "el",
+"born": "1992-02-23",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Γαλλία"
+],
+"spells": []
+},
+{
+"qid": "Q7035595",
+"name": "Νίκολα Μιλουτίνοφ",
+"latin": "Nikola Milutinov",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CE%BB%CE%B1_%CE%9C%CE%B9%CE%BB%CE%BF%CF%85%CF%84%CE%AF%CE%BD%CE%BF%CF%86",
+"wiki_lang": "el",
+"born": "1994-12-30",
+"pos": [
+"σέντερ"
+],
+"country": [
+"Σερβία"
+],
+"spells": []
+},
+{
+"qid": "Q7916658",
+"name": "Βασίλης Χαραλαμπόπουλος",
+"latin": "Vasileios Charalampopoulos",
+"wiki": "https://el.wikipedia.org/wiki/%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B7%CF%82_%CE%A7%CE%B1%CF%81%CE%B1%CE%BB%CE%B1%CE%BC%CF%80%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82_%28%CE%BA%CE%B1%CE%BB%CE%B1%CE%B8%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CF%84%CE%AE%CF%82%29",
+"wiki_lang": "el",
+"born": "1997-01-06",
+"pos": [
+"σμολ φόργουορντ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
+},
+{
+"qid": "Q82004",
+"name": "Μπόμπι Μπράουν",
+"latin": "Bobby Brown",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9C%CF%80%CF%8C%CE%BC%CF%80%CE%B9_%CE%9C%CF%80%CF%81%CE%AC%CE%BF%CF%85%CE%BD",
+"wiki_lang": "el",
+"born": "1984-09-24",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q83554",
+"name": "Ντουάιτ Μπάικς",
+"latin": "Dwight Buycks",
+"wiki": "https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%BF%CF%85%CE%AC%CE%B9%CF%84_%CE%9C%CF%80%CE%AC%CE%B9%CE%BA%CF%82",
+"wiki_lang": "el",
+"born": "1989-03-06",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q88964138",
+"name": "Σέιμπεν Λι",
+"latin": "Saben Lee",
+"wiki": "https://el.wikipedia.org/wiki/%CE%A3%CE%AD%CE%B9%CE%BC%CF%80%CE%B5%CE%BD_%CE%9B%CE%B9",
+"wiki_lang": "el",
+"born": "1999-06-23",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ηνωμένες Πολιτείες Αμερικής"
+],
+"spells": []
+},
+{
+"qid": "Q8990943",
+"name": "Γιαννούλης Λαρεντζάκης",
+"latin": "Giannoulis Larentzakis",
+"wiki": "https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%BF%CF%8D%CE%BB%CE%B7%CF%82_%CE%9B%CE%B1%CF%81%CE%B5%CE%BD%CF%84%CE%B6%CE%AC%CE%BA%CE%B7%CF%82",
+"wiki_lang": "el",
+"born": "1993-09-22",
+"pos": [
+"πλέι μέικερ"
+],
+"country": [
+"Ελλάδα"
+],
+"spells": []
 }
 ]
 },
