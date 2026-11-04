@@ -1,7 +1,359 @@
 {
-"generated_at": "2026-11-04T10:38:08+00:00",
-"count": 142,
+"generated_at": "2026-11-04T14:57:09+00:00",
+"count": 170,
 "items": [
+{
+"title": "Ολυμπιακός: Με Μπέιλι η ενδεκάδα!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15212241/olympiakos-me-mpeili-i-endekada/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T14:50+00:00",
+"sport": "football",
+"snippet": "Ο Βάσκος τεχνικός του Ολυμπιακού παρατάσσει τους “ερυθρόλευκους” με καποιες αλλαγές στο αρχικό σχήμα φρεσκάροντας την ενδεκάδα του για τον αγώνα με τη Ρεν…",
+"also": [],
+"id": "c330958590e7"
+},
+{
+"title": "Ρεν – Ολυμπιακός: Τα πάνω – κάτω απ’ τον Ιμανόλ!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15212237/ren-olympiakos-ta-pano-kato-ap-ton-imanol/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T14:50+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ρεν για την 4η αγωνιστική της League Phase του UEFA Europa League στο Roahzon Park και ο Ιμανόλ Αλγκουαθίλ τάραξε τα νερά με τις…",
+"also": [],
+"id": "c112e7e039d7"
+},
+{
+"title": "Ολυμπιακός: Με οκτώ αλλαγές η ενδεκάδα κόντρα στη Ρεν",
+"url": "https://sportime.gr/podosfairo/olimpiakos-to-ipe-ke-to-ekane-o-algouathil-okto-allages-me-ren?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T14:36+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ προχώρησε σε οκτώ αλλαγές στην ενδεκάδα του Ολυμπιακού για την αναμέτρηση με τη Ρεν στη Γαλλία, επιβεβαιώνοντας το ρεπορτάζ.",
+"also": [],
+"id": "acfebed78a65"
+},
+{
+"title": "Βιλντόζα: «Ήταν πιο εύκολο να πάω από τον Παναθηναϊκό στον Ολυμπιακό»",
+"url": "https://www.sdna.gr/mpasket/1483450_bilntoza-itan-pio-eykolo-na-pao-apo-ton-panathinaiko-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-04T14:30+00:00",
+"sport": "basket",
+"snippet": "Ο Λούκα Βιλντόζα αναφέρθηκε στην κατάσταση του να παίρνει ένας παίκτης μεταγραφή στον «αιώνιο» αντίπαλο, μιας και έχει περάσει από τον Παναθηναϊκό...",
+"also": [],
+"id": "12a4ce8503b6"
+},
+{
+"title": "Με Μπέιλι και εκπλήξεις ο Ολυμπιακός - Η 11άδα της Ρεν",
+"url": "https://www.sdna.gr/podosfairo/1483445_me-mpeili-kai-ekplixeis-o-olympiakos-i-11ada-tis-ren",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-04T14:21+00:00",
+"sport": "football",
+"snippet": "Γνωστές έγιναν οι 11άδες στο Ρεν - Ολυμπιακός, με τον Ιμανόλ Αλγουαθίλ να κατεβάζει τους «ερυθρόλευκους» με αρκετές εκπλήξεις.",
+"also": [],
+"id": "538af223f324"
+},
+{
+"title": "Ρεν - Ολυμπιακός: Με Μπέιλι και Γκονζάλες η ενδεκάδα",
+"url": "https://www.gazzetta.gr/football/europa-league/2583547/ren-olympiakos-me-mpeili-kai-gkonzales-i-endekada",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T14:21+00:00",
+"sport": "football",
+"snippet": "Οι επιλογές του Ιμανόλ Αλγκουαθίλ για την αρχική ενδεκάδα του Ολυμπιακού στην εκτός έδρας αναμέτρηση με τη Ρεν.",
+"also": [],
+"id": "6a4f98346289"
+},
+{
+"title": "Η ενδεκάδα του Ολυμπιακού απέναντι στη Ρεν",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/i-endekada-tou-olympiakou-apenanti-sti-ren/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-04T14:18+00:00",
+"sport": "football",
+"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αρχική σύνθεση του Ολυμπιακού στην εκτός έδρας αναμέτρηση με τη Ρεν στη Γαλλία (17:30, ΕΡΑ ΣΠΟΡ), στο…",
+"also": [],
+"id": "cf934302f316"
+},
+{
+"title": "Ολυμπιακός: Η ενδεκάδα για το «4/4» κόντρα στη Ρεν! – Βασικός ο Μπέιλι",
+"url": "https://sportday.gr/podosfairo/364220_olympiakos-i-endekada-gia-to-4-4-kontra-sti-ren-vasikos-o-mpeili.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-04T14:17+00:00",
+"sport": "football",
+"snippet": "Με αυτή την ενδεκάδα θα παραταχθεί ο Ολυμπιακός κόντρα στη Ρεν...",
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5158800",
+"title": "Με πολλές εκπλήξεις και Μπέιλι η ενδεκάδα του Ολυμπιακού κόντρα στη Ρεν",
+"published": "2026-11-04T14:21+00:00"
+}
+],
+"id": "465e0c2a5d3a"
+},
+{
+"title": "Ολυμπιακός: Η πρώτη εικόνα του Μοντέρο με την... μπότα μετά το χειρουργείο",
+"url": "https://www.metrosport.gr/olympiakos-i-proti-eikona-toy-montero-meta-to-cheiroyrgeio-1332353",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-04T14:00+00:00",
+"sport": "basket",
+"snippet": "Τον μακρύ δρόμο της αποκατάστασης έχει ξεκινήσει ο Γιάν Μοντέρο, μετά την επέμβαση στην οποία υποβλήθηκε στο αριστερό γόνατο. Η Ομοσπονδία Μπάσκετ ...",
+"also": [],
+"id": "97b462e46be2"
+},
+{
+"title": "ΠΑΟΚ: Ξεκίνησε η προετοιμασία για το ντέρμπι με τον Ολυμπιακό – Τα δεδομένα για τους τραυματίες",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15212177/paok-ksekinise-i-proetoimasia-gia-to-ntermpi-me-ton-olympiako-ta-dedomena-gia-tous-traymaties/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T13:57+00:00",
+"sport": "football",
+"snippet": "Το πρόγραμμα της ημέρας περιελάμβανε αρχικά προθέρμανση, ασκήσεις κυκλοφορίας της μπάλας (rondo) και παιχνίδι ένας εναντίον ενός (1v1). Στη συνέχεια, η…",
+"also": [],
+"id": "45f5ecc3e676"
+},
+{
+"title": "Ασπρόμαυρο πολυβόλο στο μπάσκετ, τα πλάνα του Λίσι για Ολυμπιακό | ΠΑΟΚ Q&A by Interwetten",
+"url": "https://www.gazzetta.gr/football/2583485/aspromayro-polybolo-sto-mpasket-ta-plana-toy-lisi-gia-olympiako-paok-qa",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T13:40+00:00",
+"sport": "football",
+"snippet": "Τι συμβαίνει στον ΠΑΟΚ και ποια θέματα ξεχωρίζουν στην ασπρόμαυρη επικαιρότητα; Ο Σάββας Τζιομπάνογλου και ο Νίκος Μοσχοβίτης συναντούν τους φιλάθλους στο ΠΑΟΚ…",
+"also": [],
+"id": "0754bdfe044e"
+},
+{
+"title": "ΠΑΟΚ: Επιστροφή Λουσέ στη Νέα Μεσημβρία – Τα δεδομένα ενόψει Ολυμπιακού",
+"url": "https://www.gazzetta.gr/football/superleague/2583531/paok-epistrofi-loyse-sti-nea-mesimbria-ta-dedomena-enopsei-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T13:38+00:00",
+"sport": "football",
+"snippet": "Ο ΠΑΟΚ επέστρεψε στις προπονήσεις μετά το χθεσινό ρεπό, με τον Τομ Λουσέ να συμμετέχει σε μέρος του προγράμματος ενόψει του ντέρμπι με τον Ολυμπιακό.",
+"also": [],
+"id": "b4f64be7ca7e"
+},
+{
+"title": "Ολυμπιακός: Στο ΣΕΦ Αγγελόπουλοι και Μπαρτζώκας – Ποια η σημαντιική νέα εξέλιξη",
+"url": "https://sportday.gr/basket/364212_olympiakos-sto-sef-angelopouloi-kai-mpartzokas-poia-i-simantiiki-nea-ekseliksi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-04T13:14+00:00",
+"sport": "basket",
+"snippet": "Οι ιδιοκτήτες της ΚΑΕ Ολυμπιακός, αδερφοί Αγγελόπουλοι είδαν από κοντά τις εργασίες στο ΣΕΦ μαζί με τον Γιώργο Μπαρτζώκα",
+"also": [],
+"id": "16350adf1001"
+},
+{
+"title": "Τι ισχύει με Ντόρσεϊ: Πότε εκπνέει η τιμωρία του και οι σκέψεις του Ολυμπιακού για guard",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2583520/ti-ishyei-me-ntorsei-pote-ekpneei-i-timoria-toy-kai-oi-skepseis-toy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T13:06+00:00",
+"sport": "basket",
+"snippet": "To Gazzetta ανοίγει τον φάκελο του 30χρονου διεθνούς Ελληνοαμερικανού άσου και καταγράφει όλες τις σημαντικές λεπτομέρειες που θα καθορίσουν το μέλλον του με…",
+"also": [],
+"id": "a4462aa7301d"
+},
+{
+"title": "Μακάμπι: Νέα έδρα στη Λεμεσό, όπου περιμένει τον Ολυμπιακό στις 17/11",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2030537/makampi-nea-edra-sti-lemeso-perimeni-olimpiako-stis-17-noemvriou/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-04T13:03+00:00",
+"sport": "basket",
+"snippet": "Η Μακάμπι Τελ Αβίβ μετακομίσει στη Λεμεσό της Κύπρου για τα παιχνίδια της στην Ευρωλίγκα... The post Μακάμπι: Νέα έδρα στη Λεμεσό, όπου περιμένει τον Ολυμπιακό…",
+"also": [],
+"id": "d70e4dcf91ac"
+},
+{
+"title": "Νουόρα ενόψει Ολυμπιακού: «Θα υπάρξουν… εντάσεις στο γήπεδο – Ο ΜακΙντάιρ είναι αδερφός μου»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15212152/nouora-enopsei-olympiakou-tha-yparksoun-entaseis-sto-gipedo-o-makintair-einai-aderfos-mou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T13:02+00:00",
+"sport": "basket",
+"snippet": "Ο Τζόρνταν Νουόρα αναφέρθηκε στη φιλία του με τον Κόντι Μίλερ-ΜακΙντάιρ, την ατμόσφαιρα του αγώνα, την αγωνιστική κατάσταση του συνόλου του Ίμπον Ναβάρο και…",
+"also": [],
+"id": "8329aa79539f"
+},
+{
+"title": "Επίσκεψη Αγγελόπουλων και Μπαρτζώκα στο εργοτάξιο του ΣΕΦ – Έρχονται οι πρώτες μακέτες",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15212118/episkepsi-aggelopoulon-kai-mpartzoka-sto-ergotaksio-tou-sef-erxontai-oi-protes-maketes/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T12:40+00:00",
+"sport": "basket",
+"snippet": "Τα στελέχη των «ερυθρολεύκων» ξεναγήθηκαν στους χώρους του σταδίου και ενημερώθηκαν αναλυτικά για την πορεία και την εξέλιξη των κατασκευαστικών εργασιών…",
+"also": [],
+"id": "314927641fac"
+},
+{
+"title": "Ολυμπιακός και το ρίσκο οκτώ αλλαγών με τη Ρεν",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-algouathil-theli-to-4-sta-4-me-eos-okto-allages-apenanti-sti-ren-pou-den-kerdise-oute-i-pari?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T12:38+00:00",
+"sport": "general",
+"snippet": "Ο Αλγουαθίλ θέλει τέταρτη ευρωπαϊκή νίκη με τον Ολυμπιακό, αλλά εξετάζει έως οκτώ αλλαγές απέναντι στη Ρεν, που δεν έχει χάσει στην έδρα της.",
+"also": [],
+"id": "07bc329b9450"
+},
+{
+"title": "Αγγελόπουλοι και Μπαρτζώκας στο ΣΕΦ, έρχονται οι πρώτες μακέτες από τον Ολυμπιακό για το νέο γήπεδο",
+"url": "https://www.ertsports.gr/mpasket/aggelopouloi-kai-mpartzokas-sto-sef-erxontai-oi-protes-maketes-apo-ton-olympiako-gia-to-neo-gipedo/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-04T12:18+00:00",
+"sport": "basket",
+"snippet": "Οι ιδιοκτήτες της ΚΑΕ Ολυμπιακός, Παναγιώτης και Γιώργος Αγγελόπουλος, βρέθηκαν στο Στάδιο Ειρήνης και Φιλίας μαζί με τον προπονητή της ομάδας, Γιώργο…",
+"also": [],
+"id": "c38e59730894"
+},
+{
+"title": "Ολυμπιακός: Αγγελόπουλοι και Μπαρτζώκας στο εργοτάξιο του νέου ΣΕΦ (pics)",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2030531/olimpiakos-angelopouli-bartzokas-sto-ergotaxio-tou-sef-pics/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-04T12:17+00:00",
+"sport": "basket",
+"snippet": "Οι αδελφοί Αγγελόπουλοι και ο Γιώργος Μπαρτζώκας βρέθηκαν στο εργοτάξιο του Σταδίου Ειρήνης και Φιλίας... The post Ολυμπιακός: Αγγελόπουλοι και Μπαρτζώκας στο…",
+"also": [],
+"id": "66ed9b46d918"
+},
+{
+"title": "Ολυμπιακός: Στο ΣΕΦ οι αδερφοί Αγγελόπουλοι και ο Μπαρτζώκας - Οι μεγάλες αλλαγές στο γήπεδο",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2583512/olympiakos-sto-sef-oi-proedroi-toy-olympiakoy-kai-o-mpartzokas-oi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T12:08+00:00",
+"sport": "basket",
+"snippet": "Παναγιώτης και Γιώργος Αγγελόπουλος, αλλά και ο Γιώργος Μπαρτζώκας βρέθηκαν στο εργοτάξιο του ΣΕΦ και ενημερώθηκαν για τις εργασίες που συνεχίζονται.",
+"also": [],
+"id": "dbd0fc106db2"
+},
+{
+"title": "Pamestoixima.gr προσφορές για ΑΕΚ, Ολυμπιακό και ΠΑΟ",
+"url": "https://sportime.gr/sportime-bet/souper-prosfora-apo-to-pamestoiximagr-gia-tis-evropaikes-maches-tis-aek-ke-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T11:56+00:00",
+"sport": "basket",
+"snippet": "Το Pamestoixima.gr παρουσιάζει ενισχυμένες αποδόσεις για ΑΕΚ–Ρεάλ και Ρεν–Ολυμπιακός, Score More–Win More για EuroLeague και προσφορά γνωριμίας. 21+.",
+"also": [],
+"id": "b580de2dea9e"
+},
+{
+"title": "Ρεν - Ολυμπιακός: Εκτός Λεπόλ, μέσα Ντιά και Τααμαρί",
+"url": "https://sportime.gr/olimpiakos/o-olimpiakos-vriski-ti-ren-choris-lepol-alla-me-to-didimo-pou-pligose-ti-giouventous?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T11:48+00:00",
+"sport": "general",
+"snippet": "Η Ρεν δεν έχει Λεπόλ και Φρανκόφσκι, αλλά Ντιά και Αλ Τααμαρί βρίσκονται στην αποστολή. Το σχέδιο με τρεις στόπερ που δυσκόλεψε τη Γιουβέντους.",
+"also": [],
+"id": "af376e0e6236"
+},
+{
+"title": "Αντίδραση Καραπαπά για τον ορισμό του Μαρτίνεθ στο Ολυμπιακός – ΠΑΟΚ",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15212075/antidrasi-karapapa-gia-ton-orismo-tou-martineth-sto-olympiakos-paok/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-04T11:45+00:00",
+"sport": "football",
+"snippet": "Με ανάρτησή του στα μέσα κοινωνικής δικτύωσης, ο διοικητικός παράγοντας των «ερυθρολεύκων» σχολίασε τις επιλογές της ΚΕΔ, αναφερόμενος τόσο στην παρουσία του…",
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/olympiakos-paok-gkrinia-karapapa-gia-ton-orismo-martineth-1332389",
+"title": "Ολυμπιακός-ΠΑΟΚ: Γκρίνια Καραπαπά για τον ορισμό Μαρτίνεθ",
+"published": "2026-11-04T12:10+00:00"
+}
+],
+"id": "a92d50d45fc6"
+},
+{
+"title": "Νικολακόπουλος: «Η αλήθεια για τον δρόμο του Ολυμπιακού προς την οκτάδα»",
+"url": "http://www.sport-fm.gr/article/5158776",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-04T11:39+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο.",
+"also": [],
+"id": "afea94caad06"
+},
+{
+"title": "Ολυμπιακός: Ο Ιμανόλ έχει νίκες αλλά λίγα γκολ",
+"url": "https://sportime.gr/olimpiakos/o-olimpiakos-nikai-alla-o-marinakis-echi-kathe-logo-na-zitisi-perissotera-gkol-apo-ton-imanol?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-04T11:28+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός έχει τρεις νίκες στην Ευρώπη αλλά μόλις τέσσερα γκολ. Γιατί ο Μαρινάκης δικαιούται να ζητά περισσότερα από τον Ιμανόλ στη μάχη της οκτάδας.",
+"also": [],
+"id": "16c55a82ced5"
+},
+{
+"title": "Καραπαπάς: «ΕΠΟ και ΚΕΔ επιλέγουν διαιτητή που έχει παράπονα ο Ολυμπιακός»",
+"url": "https://www.gazzetta.gr/football/superleague/2583500/karapapas-epo-kai-ked-epilegoyn-diaititi-poy-ehei-parapona-o",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-04T11:22+00:00",
+"sport": "football",
+"snippet": "Η ανάρτηση του Κώστα Καραπαπά για τον ορισμό του Σάντσεθ Μαρτίνεθ στο ντέρμπι του Ολυμπιακού με τον ΠΑΟΚ (8/11).",
+"also": [],
+"id": "0484d10090a7"
+},
+{
+"title": "Ολυμπιακός: Νέο σημείο συνάντησης για το παιχνίδι με τη Ρεν",
+"url": "https://www.ertsports.gr/podosfairo/olympiakos-neo-simeio-synantisis-gia-to-paixnidi-me-ti-ren/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-04T11:00+00:00",
+"sport": "football",
+"snippet": "Η ΠΑΕ Ολυμπιακός, μέσω ανακοίνωσης, ενημέρωσε τους φίλους της ομάδας που θα βρεθούν στο γήπεδο για την αναμέτρηση με τη Ρεν, για νέο σημείο συνάντησης. The…",
+"also": [],
+"id": "585f28cc9f05"
+},
 {
 "title": "Ρεν: Η... μπασκετική γκάφα για το ματς με Ολυμπιακό",
 "url": "https://www.gazzetta.gr/football/europa-league/2583487/ren-i-mpasketiki-gkafa-gia-mats-me-olympiako",
@@ -35,7 +387,15 @@
 "published": "2026-11-04T09:58+00:00",
 "sport": "football",
 "snippet": "Ποιο το πλάνο του Ιμανόλ Αλγουαθίλ για τη «μάχη» με τη Ρεν, όπου ο Ολυμπιακός στοχεύει στο «τέσσερα στα τέσσερα» στο Europa League",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5158802",
+"title": "Η ενδεκάδα της Ρεν κόντρα στον Ολυμπιακό",
+"published": "2026-11-04T14:28+00:00"
+}
+],
 "id": "96e02c52ce43"
 },
 {
