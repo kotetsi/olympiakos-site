@@ -1,7 +1,139 @@
 {
-"generated_at": "2026-11-05T08:35:48+00:00",
-"count": 231,
+"generated_at": "2026-11-05T10:39:16+00:00",
+"count": 243,
 "items": [
+{
+"title": "Κατάπιε χιλιόμετρα: Ο Πουέρτα έτρεξε περισσότερο από κάθε άλλον στο Ρεν-Ολυμπιακός!",
+"url": "http://www.sport-fm.gr/article/5159032",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-05T10:34+00:00",
+"sport": "football",
+"snippet": "Ο Γκουστάβο Πουέρτα διένυσε τη μεγαλύτερη απόσταση συνολικά από κάθε άλλον ποδοσφαιριστή που πάτησε το χορτάρι του «Ραζόν Παρκ».",
+"also": [],
+"id": "81d33bf32d06"
+},
+{
+"title": "Ανακοίνωση θέσεων ΑμεΑ για τον αγώνα Ολυμπιακός – ΠΑΟΚ",
+"url": "https://www.olympiacos.org/2026/11/05/anakoinosi-theseon-amea-gia-ton-agona-olympiakos-paok-9/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-05T10:31+00:00",
+"sport": "football",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "1eff7dc8689c"
+},
+{
+"title": "Ολυμπιακός: Φουρνιέ, Κόντσαρ και το κενό του Μοντέρο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fournie-ferni-pontous-o-kontsar-amina-alla-o-montero-afini-keno?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-05T09:34+00:00",
+"sport": "general",
+"snippet": "Ολυμπιακός : Ο Φουρνιέ πλησιάζει στην επιστροφή, ο Κόντσαρ κυνηγά το ντεμπούτο του και ο Μπαρτζώκας μοιράζει από την αρχή τα λεπτά συμμετοχής χωρίς τον Μοντέρο.",
+"also": [],
+"id": "3b51f62714e1"
+},
+{
+"title": "«Μόνο με τη νίκη θα είναι ευχαριστημένος ο ΠΑΟΚ στο ματς με τον Ολυμπιακό» (audio)",
+"url": "https://www.ertsports.gr/era-spor/mono-me-ti-niki-tha-einai-eyxaristimenos-o-paok-sto-mats-me-ton-olympiako-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-05T09:30+00:00",
+"sport": "football",
+"snippet": "O σύλλογος της Θεσσαλονίκης συνεχίζει την προετοιμασία του για το ντέρμπι της 10ης αγωνιστικής στη Super League απέναντι στον Ολυμπιακό (08/11, 21:00, ΕΡΑ…",
+"also": [],
+"id": "8d3fc0205dd8"
+},
+{
+"title": "Ολυμπιακός: Σταμάτησε ένα εντυπωσιακό σερί της Ρεν μέσα στη Γαλλία",
+"url": "https://www.sdna.gr/podosfairo/1483747_olympiakos-stamatise-ena-entyposiako-seri-tis-ren-mesa-sti-gallia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-05T09:27+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός έφυγε με τον βαθμό της ισοπαλίας (0-0) από την έδρα της Ρεν, βάζοντας τέλος σε ένα εντυπωσιακό σερί των Γάλλων. Οι «ερυθρόλευκοι» έγιναν...",
+"also": [],
+"id": "915c8db1649b"
+},
+{
+"title": "Ολυμπιακός: Μόνο μην μας κοψοχολιάσεις άλλη φορά Στέφανε!",
+"url": "https://www.gazzetta.gr/football/2583841/olympiakos-mono-min-mas-kopsoholiaseis-alli-fora-stefane",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T09:25+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta το παιχνίδι του Ολυμπιακού στη Γαλλία επικεντρώνοντας σε τρία πράγματα.",
+"also": [],
+"id": "775213d39f11"
+},
+{
+"title": "ΑΧΑΣΤΟΣ Ολυμπιακός για 8άδα, ο Φουριέ & ο αντι-Μοντέρο! | Ολυμπιακός Q&A by Interwetten",
+"url": "https://www.gazzetta.gr/football/2583837/ahastos-olympiakos-gia-8ada-o-foyrie-o-anti-montero-olympiakos-qa-interwetten",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T09:20+00:00",
+"sport": "football",
+"snippet": "Η ερυθρόλευκη επικαιρότητα ανοίγει τη συζήτηση στο Ολυμπιακός Q&A by Interwetten του Gazzetta. Ο Δημήτρης Τομαράς και ο Παναγιώτης Ραμαντάνης μεταφέρουν το…",
+"also": [],
+"id": "824a0eea6910"
+},
+{
+"title": "Αντύπας: «Τρομερά τα αποτελέσματα του Ολυμπιακού με τον νέο προπονητή και ενώ χτίζεται ακόμα»",
+"url": "http://www.sport-fm.gr/article/5159013",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-05T09:19+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Ηρακλή Αντύπα.",
+"also": [],
+"id": "719281c07e89"
+},
+{
+"title": "Τόσο αουτσάιντερ είναι ο ΠΑΟΚ στο Καραϊσκάκη;",
+"url": "https://www.gazzetta.gr/football/2583833/toso-aoytsainter-einai-o-paok-sto-karaiskaki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T09:12+00:00",
+"sport": "football",
+"snippet": "Ο Δημήτρης Τσορμπατζόγλου αφουγκράζεται το κλίμα που δημιουργείται πριν το Ολυμπιακός-ΠΑΟΚ και καταγράφει όλα τα δεδομένα.",
+"also": [],
+"id": "e8717fd155ed"
+},
+{
+"title": "Ο Ολυμπιακός κράτησε τη Ρεν στο μηδέν μετά από 8 μήνες!",
+"url": "http://www.sport-fm.gr/article/5159006",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-05T08:59+00:00",
+"sport": "general",
+"snippet": "Από τον περασμένο Μάρτιο είχε η Ρεν να μείνει στο μηδέν σε εντός έδρας παιχνίδι της, με τον Ολυμπιακό να φεύγει αλώβητος από το «Ραζόν Παρκ».",
+"also": [],
+"id": "c813be4303a5"
+},
+{
+"title": "ΠΑΟΚ: Σκέφτεται μια νέα διάταξη ο Λίσι",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15214177/paok-skeftetai-mia-nea-diataksi-o-lisi/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-05T08:36+00:00",
+"sport": "football",
+"snippet": "Ο Ιταλός τεχνικός φέρεται να εξετάζει το ενδεχόμενο να παρατάξει τον «Δικέφαλο» του Βορρά με 3-5-2 στην επικείμενη αναμέτρηση με τον Ολυμπιακό στο γήπεδο «Γ…",
+"also": [],
+"id": "e543443505d2"
+},
 {
 "title": "Ολυμπιακός: Ορίστηκαν οι διαιτητές για το παιχνίδι με τον Ερυθρό Αστέρα",
 "url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-oristikan-oi-diaitites-gia-to-paixnidi-me-ton-erythro-astera/",
@@ -13,6 +145,18 @@
 "snippet": "Ανακοινώθηκαν οι ρέφερι που θα έχουν την ευθύνη της αναμέτρησης ανάμεσα στον Ολυμπιακό και τον Ερυθρό Αστέρα, στο πλαίσιο της 10ης αγωνιστικής της EuroLeague…",
 "also": [],
 "id": "913a508272bc"
+},
+{
+"title": "Ολυμπιακός: Ο Φορτούνης απέναντι στο κενό του Κένι",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fortounis-prepi-na-simadepsi-ton-antikatastati-tou-keni?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-05T08:35+00:00",
+"sport": "general",
+"snippet": "Ο ΠΑΟΚ θα παίξει χωρίς τον Κένι και ο Ολυμπιακός μπορεί να επιτεθεί από αριστερά. Ο ρόλος του Φορτούνη και ο κίνδυνος που φέρνει ο Ζίβκοβιτς.",
+"also": [],
+"id": "d58a712d3499"
 },
 {
 "title": "Ολυμπιακός: Οι διαιτητές του αγώνα με τον Ερυθρό Αστέρα",
@@ -57,6 +201,18 @@
 "snippet": "Ο ρυθμός που επέβαλλε ο Ολυμπιακός στο Roahzon Park στο ματς της 4ης αγωνιστικής κόντρα στη Ρεν, ειδικά στα πρώτα κρίσιμα 20-25 λεπτά φάνηκε σαν μια ακόμα……",
 "also": [],
 "id": "2ddf16d2d778"
+},
+{
+"title": "Ολυμπιακός-Ερυθρός Αστέρας: Οι διαιτητές του αγώνα",
+"url": "http://www.sport-fm.gr/article/5158993",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-05T08:06+00:00",
+"sport": "general",
+"snippet": "Δείτε ποιοι διαιτητές ορίστηκαν να διευθύνουν το Ολυμπιακός-Ερυθρός Αστέρας την Παρασκευή.",
+"also": [],
+"id": "bbb805421b1a"
 },
 {
 "title": "Στο σημερινό Center Fox o 7άστερος θεός στη Μαδρίτη, τα παλικάρια της ΑΕΚ κόντρα στη Ρεάλ και ο άχαστος Ολυμπιακός στην Ευρώπη",
@@ -2954,18 +3110,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τα εισιτήρια του εντός έδρας αγώνα απέναντι στον ΠΑΟΚ.",
 "also": [],
 "id": "ab840837efcf"
-},
-{
-"title": "Τα εισιτήρια του αγώνα Stade Rennais – Ολυμπιακός",
-"url": "https://www.olympiacos.org/2026/10/29/ta-eisitiria-tou-agona-stade-rennais-olympiakos/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-10-29T09:32+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τα εισιτήρια του εκτός έδρας αγώνα απέναντι στην Stade Rennais.",
-"also": [],
-"id": "8f766a9ac56c"
 }
 ]
 }
