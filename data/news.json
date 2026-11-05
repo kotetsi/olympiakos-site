@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-05T13:25:42+00:00",
-"count": 245,
+"generated_at": "2026-11-05T13:40:50+00:00",
+"count": 250,
 "items": [
+{
+"title": "Ολυμπιακός: Στο προσκήνιο ο Κόουλ Άντονι για την ενίσχυση της περιφέρειας – Η πρώτη επαφή και το buyout",
+"url": "https://sportday.gr/basket/364342_olympiakos-sto-proskinio-o-kooul-antoni-gia-tin-enischysi-tis-perifereias-i-proti-epafi-kai-to-buyout.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-05T13:39+00:00",
+"sport": "basket",
+"snippet": "Την περίπτωση του Κόουλ Άντονι φέρεται να εξετάζει ο Ολυμπιακός, σύμφωνα με δημοσίευμα από την Ιταλία, καθώς οι «ερυθρόλευκοι» αναζητούν τον παίκτη που θα…",
+"also": [],
+"id": "f23a22206c26"
+},
+{
+"title": "Μπαρτζώκας: «Το νέο ΣΕΦ θα είναι ό,τι πιο μοντέρνο»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2583871/mpartzokas-neo-sef-tha-einai-oti-pio-monterno",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T13:35+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας μίλησε στη media day του Ολυμπιακού ενόψει Ερυθρού Αστέρα σχετικά με τις εντυπώσεις του για το νέο ΣΕΦ.",
+"also": [],
+"id": "81de467d6bd1"
+},
+{
+"title": "Ολυμπιακός: Ορίστηκε η αναμέτρηση με την Τσέλιε (pic)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15214301/olympiakos-oristike-i-anametrisi-me-tin-tselie-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-05T13:35+00:00",
+"sport": "football",
+"snippet": "Ο αγώνας θα διεξαχθεί στις 10 Δεκεμβρίου και θα ξεκινήσει στις 19:45 ώρα Ελλάδος. Η αναμέτρηση είναι για την έκτη αγωνιστική της LeaguePhase της διοργάνωσης…",
+"also": [],
+"id": "09bdaf352d19"
+},
+{
+"title": "Μπαρτζώκας: «Δεν ψάχνουμε έναν άλλον Μοντέρο – Θέλουμε έναν καλό παίκτη»",
+"url": "https://www.ertsports.gr/mpasket/euroleague/mpartzokas-den-psaxnoume-enan-allon-montero-theloume-enan-kalo-paikti/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-05T13:33+00:00",
+"sport": "basket",
+"snippet": "Τις δυσκολίες που περιμένουν τον Ολυμπιακό στην αναμέτρηση με τον Ερυθρό Αστέρα, αλλά και τα ζητήματα που απασχολούν τους \"ερυθρόλευκους\" αναφορικά με το…",
+"also": [],
+"id": "3303cd5e80a9"
+},
+{
+"title": "Μπαρτζώκας: “Το ΣΕΦ θα είναι τεχνολογικά ότι πιο μοντέρνο υπάρχει. Θα γίνει μία καθαρά μπασκετική αρένα”",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2031013/bartzokas-to-sef-tha-ine-technologika-oti-pio-monterno-iparchi-tha-gini-mia-kathara-basketiki-arena/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-05T13:30+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας έκανε δηλώσεις για τον αυριανό αγώνα του Ολυμπιακού κατά του Ερυθρού Αστέρα στη Sunel Arena (6/11, 21:15, Novasports Prime), αλλά και το…",
+"also": [],
+"id": "33763da7a346"
+},
 {
 "title": "Αλλαγή ώρας στο NK Celje – Ολυμπιακός",
 "url": "https://www.olympiacos.org/2026/11/05/allagi-oras-sto-nk-celje-olympiakos/",
@@ -23,7 +83,15 @@
 "published": "2026-11-05T12:32+00:00",
 "sport": "general",
 "snippet": "Άλλαξε ώρα η αναμέτρηση του Ολυμπιακού με την Τσέλιε στη Σλοβενία.",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/europa-league/2583879/olympiakos-allagi-oras-sto-mats-me-tin-tselie",
+"title": "Ολυμπιακός: Αλλαγή ώρας στο ματς με την Τσέλιε",
+"published": "2026-11-05T13:30+00:00"
+}
+],
 "id": "ef0954d0e3ed"
 },
 {
