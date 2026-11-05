@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-05T13:40:50+00:00",
-"count": 250,
+"generated_at": "2026-11-05T13:55:58+00:00",
+"count": 253,
 "items": [
+{
+"title": "Πλώτας: «Ο Ερυθρός Αστέρας είναι πολύ φορμαρισμένος, σημαντικό να είμαστε όλοι έτοιμοι»",
+"url": "https://www.ertsports.gr/mpasket/euroleague/plotas-o-erythros-asteras-einai-poly-formarismenos-simantiko-na-eimaste-oloi-etoimoi/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-05T13:55+00:00",
+"sport": "basket",
+"snippet": "Κατά τη διάρκεια της καθιερωμένης media day, ο Νίκος Πλώτας μίλησε στους εκπρόσωπους του Τύπου, εστιάζοντας κυρίως στο τι πρέπει να προσέξει η ομάδα με τους…",
+"also": [],
+"id": "34a5bf562412"
+},
+{
+"title": "Υπάρχει κίνδυνος για τον Ορτέγκα και τον Ολυμπιακό;",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1483775_yparhei-kindynos-gia-ton-ortegka-kai-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-05T13:49+00:00",
+"sport": "general",
+"snippet": "Τι συμβαίνει με το συμβόλαιό του τερματοφύλακα των ερυθρολεύκων…",
+"also": [],
+"id": "908701c2637d"
+},
 {
 "title": "Ολυμπιακός: Στο προσκήνιο ο Κόουλ Άντονι για την ενίσχυση της περιφέρειας – Η πρώτη επαφή και το buyout",
 "url": "https://sportday.gr/basket/364342_olympiakos-sto-proskinio-o-kooul-antoni-gia-tin-enischysi-tis-perifereias-i-proti-epafi-kai-to-buyout.html",
@@ -13,6 +37,18 @@
 "snippet": "Την περίπτωση του Κόουλ Άντονι φέρεται να εξετάζει ο Ολυμπιακός, σύμφωνα με δημοσίευμα από την Ιταλία, καθώς οι «ερυθρόλευκοι» αναζητούν τον παίκτη που θα…",
 "also": [],
 "id": "f23a22206c26"
+},
+{
+"title": "Ολυμπιακός: Αλλαγή ώρας στην αναμέτρηση με την Τσέλιε",
+"url": "https://www.sdna.gr/podosfairo/1483772_olympiakos-allagi-oras-stin-anametrisi-me-tin-tselie",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-05T13:39+00:00",
+"sport": "football",
+"snippet": "Αλλαγή στην ώρα διεξαγωγής του εκτός έδρας αγώνα του Ολυμπιακού με την Τσέλιε στη Σλοβενία, για την 6η αγωνιστική της League Phase του Europa League,...",
+"also": [],
+"id": "60597f27e819"
 },
 {
 "title": "Μπαρτζώκας: «Το νέο ΣΕΦ θα είναι ό,τι πιο μοντέρνο»",
