@@ -491,6 +491,7 @@ def eleague():
 
     body = f"""<h1>Αρχείο Μπάσκετ <span class="sub">Ολυμπιακός στην Euroleague</span></h1>
 <p class="lead">Όλοι οι αγώνες του Ολυμπιακού στην Euroleague από το 2000: <b>{T['P']}</b> ματς, με σκορ ανά δεκάλεπτο και box score παικτών από το 2010-11.</p>
+<p><b><a href="/istoria/mpasket/4-euroleague/">🏆 Οι 4 Euroleague του Ολυμπιακού →</a></b></p>
 {kpis([("Νίκες", T['W']), ("Ήττες", T['L']), ("% νικών", pct(T['W'], T['P'])), ("Τίτλοι", len(titles)), ("Final Four", len(ffs)), ("Μ.Ο. θεατών ΣΕΦ", f"{sum(a for a,_ in att)//len(att):,}".replace(",", ".") if att else "–")])}
 {table(["", "Αγ.", "Ν-Η", "% νικών"], [["Εντός έδρας", home['P'], wdl(home, False), pct(home['W'], home['P'])], ["Εκτός έδρας", away['P'], wdl(away, False), pct(away['W'], away['P'])]])}
 {shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague", "Προϊόντα ΚΑΕ Ολυμπιακός")}
@@ -927,6 +928,7 @@ def stigmes():
 <table class="facts">{''.join(f'<tr><th>{esc(a)}</th><td>{esc(b)}</td></tr>' for a, b in x['facts'])}</table>
 <div class="story">{''.join(f'<p>{esc(t)}</p>' for t in x['body'])}</div>
 {('<h2>Στο αρχείο μας</h2><ul class="list">' + ''.join(f'<li><a href="{u}">{esc(t)} →</a></li>' for u, t in links) + '</ul>') if links else ''}
+{'<p><b><a href="/istoria/mpasket/4-euroleague/">Οι 4 Euroleague του Ολυμπιακού: 1997, 2012, 2013, 2026 →</a></b></p>' if x['slug'] in ('mpasket-1997-roma', 'mpasket-2012-konstantinoupoli', 'mpasket-2013-londino', 'mpasket-2026-athina') else ''}
 {shop_box(TEAM[x['shop']], 'stigmes', 'Η ιστορία στη φανέλα σου', 'Εμφανίσεις και αναμνηστικά του Ολυμπιακού, με αποστολή σε όλη την Ελλάδα.') if x.get('shop') in TEAM else ''}
 <div class="pager">{f'<a href="/stigmes/{prv["slug"]}.html">‹ {prv["date"][:4]}</a>' if prv else '<span></span>'}<a href="/stigmes/">Όλες οι στιγμές</a>{f'<a href="/stigmes/{nxt["slug"]}.html">{nxt["date"][:4]} ›</a>' if nxt else '<span></span>'}</div>
 <p class="note">Πηγές: {' · '.join(f'<a href="{esc(u)}" target="_blank" rel="noopener">{esc(t)}</a>' for t, u in x['sources'])}</p>"""
@@ -942,7 +944,8 @@ def stigmes():
     js = """<script>document.getElementById('sf').addEventListener('click',e=>{const s=e.target.dataset&&e.target.dataset.s;if(s===undefined)return;
 document.querySelectorAll('#sf button').forEach(b=>b.classList.toggle('on',b===e.target));document.querySelectorAll('.stig').forEach(c=>c.style.display=!s||c.dataset.sp===s?'':'none');});</script>"""
     body = f"""<h1>Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού</h1>
-<p class="lead">{esc(STIG['intro'])}</p>{tabs}<div class="cards stigs">{cards}</div>{js}"""
+<p class="lead">{esc(STIG['intro'])}</p>
+<p><b><a href="/istoria/mpasket/4-euroleague/">🏆 Οι 4 Euroleague του Ολυμπιακού: Ρώμη, Κωνσταντινούπολη, Λονδίνο, Αθήνα →</a></b></p>{tabs}<div class="cards stigs">{cards}</div>{js}"""
     write_root("stigmes/index.html", page("Οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού | Red Madness",
                "Ρώμη 1997, Κωνσταντινούπολη 2012, Λονδίνο 2013, Conference League 2024, Αθήνα 2026: οι μεγαλύτερες ευρωπαϊκές στιγμές του Ολυμπιακού σε ποδόσφαιρο, μπάσκετ, βόλεϊ και πόλο, ανδρών και γυναικών.",
                body, "", [("/arxeio/", "Αρχείο"), ("", "Ευρωπαϊκές στιγμές")], "/stigmes/"))
@@ -1518,6 +1521,45 @@ def eshop():
     os.makedirs(os.path.join(ROOT, "eshop"), exist_ok=True)
     open(os.path.join(ROOT, "eshop", "index.html"), "w", encoding="utf-8").write(html_text)
 
+# ================================================================== Ιστορία (σελίδες από data/istoria/*.json)
+def istoria():
+    """Ιστορικές σελίδες: κείμενο, πίνακες, FAQ, πηγές και schema (Article, FAQPage, BreadcrumbList, SportsEvent)."""
+    import glob
+    from datetime import date as _d
+    urls = []
+    for f in sorted(glob.glob(os.path.join(ROOT, "data", "istoria", "*.json"))):
+        d = json.load(open(f, encoding="utf-8"))
+        url = "/" + d["path"].strip("/") + "/"
+        secs = "".join(f'<h2>{esc(x["h2"])}</h2>{x["html"]}' for x in d["sections"])
+        faq = "<h2>Συχνές ερωτήσεις</h2>" + "".join(f'<h3>{esc(q["q"])}</h3><p>{esc(q["a"])}</p>' for q in d.get("faq", [])) if d.get("faq") else ""
+        src = ("<h2>Πηγές</h2><ul class=\"facts\">" + "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{esc(t)}</a></li>' for t, u in d.get("sources", [])) + "</ul>") if d.get("sources") else ""
+        rel = " · ".join(f'<a href="{u}">{esc(t)} →</a>' for u, t in d.get("related", []))
+        cta = "".join(f'<p><b><a href="{u}">{esc(t)} →</a></b></p>' for u, t in d.get("cta", []))
+        body = f"""<h1>{esc(d["h1"])}</h1>
+<div class="prose">{d["lead"]}{secs}</div>
+{faq}
+{shop_box(TEAM["olympiakos-bc"], "istoria", "Προϊόντα ΚΑΕ Ολυμπιακός")}
+<p>{rel}</p>
+{cta}
+{src}"""
+        ld = [{"@context": "https://schema.org", "@type": "Article", "headline": d["title"], "description": d["description"], "inLanguage": "el",
+               "datePublished": d.get("published"), "dateModified": d.get("modified", d.get("published")), "mainEntityOfPage": SITE + url,
+               "author": OLY_ORG, "publisher": OLY_ORG, "about": {"@type": "SportsTeam", "name": "Ολυμπιακός", "sport": "Basketball"}}]
+        if d.get("faq"):
+            ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["a"]}} for q in d["faq"]]})
+        for e in d.get("events", []):
+            ev = {"@context": "https://schema.org", "@type": "SportsEvent", "name": e["name"], "startDate": e["date"], "sport": "Basketball",
+                  "eventStatus": "https://schema.org/EventScheduled",
+                  "location": {"@type": "Place", "name": e["place"], "address": {"@type": "PostalAddress", "addressLocality": e["city"], "addressCountry": e["country"]}},
+                  "competitor": [{"@type": "SportsTeam", "name": "Ολυμπιακός"}, {"@type": "SportsTeam", "name": e["opp"]}]}
+            if e.get("url"): ev["url"] = SITE + e["url"]
+            ld.append(ev)
+        write_root(url.strip("/") + "/index.html", page(d["title"] + (" | Red Madness" if len(d["title"]) <= 46 else ""), d["description"], body, "",
+                   [tuple(c) for c in d.get("crumbs", [])], url, ld=ld, og_type="article"))
+        urls.append(url)
+    return urls
+
 # ================================================================== κεντρική αρχείου + sitemap
 def main():
     if os.path.isdir(OUT): shutil.rmtree(OUT)
@@ -1537,7 +1579,8 @@ def main():
           "Το ιστορικό αρχείο του Ολυμπιακού: όλα τα αποτελέσματα στη Super League και στην Euroleague, ρεκόρ, ντέρμπι, παίκτες και box scores.",
           body, "", [("", "Αρχείο")], "/arxeio/"))
     eshop(); videos(); tv(); days = san_simera(); stg = stigmes(); apl = all_players(); prev = previews(); simera(); home(); calendar_ics()
-    urls = ["/", "/simera/", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
+    ist = istoria()
+    urls = ["/", "/simera/", "/tv/", "/videos/", "/eshop/", "/san-simera/"] + ist + prev + stg + apl + [f"/san-simera/{d}.html" for d in days] + PAGES
     today = date.today().isoformat()
     # lastmod = η μέρα που άλλαξε πραγματικά το περιεχόμενο της σελίδας (όχι σήμερα για όλες),
     # ώστε το Google να ξαναδιαβάζει πρώτα όσες άλλαξαν (π.χ. βγήκε κανάλι ή αποτέλεσμα)
