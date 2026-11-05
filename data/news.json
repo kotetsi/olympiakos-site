@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-05T13:55:58+00:00",
-"count": 253,
+"generated_at": "2026-11-05T14:11:06+00:00",
+"count": 254,
 "items": [
+{
+"title": "Η ψυχή της ΑΕΚ και η καλή νοοτροπία του Ολυμπιακού",
+"url": "https://www.gazzetta.gr/football/2583892/i-psyhi-tis-aek-kai-i-kali-nootropia-toy-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T14:01+00:00",
+"sport": "football",
+"snippet": "Ο Αντώνης Καρπετόπουλος γράφει για τα χθεσινά (4/11) ματς των δυο ελληνικών ομάδων υπογραμμίζοντας την κατάθεση ψυχής της ΑΕΚ και την τόλμη του Ιμανόλ…",
+"also": [],
+"id": "ce9c0308689a"
+},
 {
 "title": "Πλώτας: «Ο Ερυθρός Αστέρας είναι πολύ φορμαρισμένος, σημαντικό να είμαστε όλοι έτοιμοι»",
 "url": "https://www.ertsports.gr/mpasket/euroleague/plotas-o-erythros-asteras-einai-poly-formarismenos-simantiko-na-eimaste-oloi-etoimoi/",
@@ -47,7 +59,15 @@
 "published": "2026-11-05T13:39+00:00",
 "sport": "football",
 "snippet": "Αλλαγή στην ώρα διεξαγωγής του εκτός έδρας αγώνα του Ολυμπιακού με την Τσέλιε στη Σλοβενία, για την 6η αγωνιστική της League Phase του Europa League,...",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/allagi-oras-stin-anametrisi-tou-olympiakou-me-tin-tselie/",
+"title": "Αλλαγή ώρας στην αναμέτρηση του Ολυμπιακού με την Τσέλιε",
+"published": "2026-11-05T14:00+00:00"
+}
+],
 "id": "60597f27e819"
 },
 {
