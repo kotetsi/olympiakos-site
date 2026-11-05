@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-05T21:11:51+00:00",
+ "checked_at": "2026-11-05T21:26:59+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-05T21:05"
+     "newest": "2026-11-05T21:12"
     }
    ]
   },
@@ -36,13 +36,13 @@
    "feeds": [
     "https://www.gazzetta.gr/rss"
    ],
-   "items": 3,
+   "items": 2,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-05T21:02"
+     "newest": "2026-11-05T21:20"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-05T20:39"
+     "newest": "2026-11-05T21:17"
     }
    ]
   },
@@ -79,7 +79,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
      "raw": 20,
-     "newest": "2026-11-05T19:31"
+     "newest": "2026-11-05T20:55"
     },
     {
      "feed": "https://www.sport-fm.gr/list/3.feed",
@@ -109,18 +109,18 @@
     "https://sportime.gr/feed",
     "https://sportime.gr/feed/news"
    ],
-   "items": 5,
+   "items": 6,
    "errors": [],
    "diag": [
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-05T20:50"
+     "newest": "2026-11-05T21:19"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-05T20:50"
+     "newest": "2026-11-05T21:19"
     }
    ]
   },
@@ -136,7 +136,7 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-05T21:05"
+     "newest": "2026-11-05T21:20"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
@@ -150,13 +150,13 @@
    "feeds": [
     "https://www.ertsports.gr/feed/"
    ],
-   "items": 9,
+   "items": 8,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-05T20:50"
+     "newest": "2026-11-05T21:16"
     }
    ]
   },
