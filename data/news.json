@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-05T15:26:54+00:00",
-"count": 261,
+"generated_at": "2026-11-05T15:42:03+00:00",
+"count": 262,
 "items": [
+{
+"title": "Ολυμπιακός: Τι του έλειψε για τη νίκη στη Ρεν",
+"url": "https://sportime.gr/podosfairo/olimpiakos-i-emfanisi-sti-ren-afise-iposchesis-alla-ke-ena-megalo-giati?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-05T15:28+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός είχε τον έλεγχο και τις ευκαιρίες απέναντι στη Ρεν, όμως δεν κατάφερε να πάρει τη νίκη. Τι κρατά και τι πρέπει να διορθώσει ο Αλγουαθίλ.",
+"also": [],
+"id": "d0f4dc01cde1"
+},
 {
 "title": "Ερυθρός Αστέρας: Χωρίς Μότλεϊ με Ολυμπιακό",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15214793/erythros-asteras-xoris-motlei-me-olympiako/",
@@ -11,7 +23,15 @@
 "published": "2026-11-05T15:07+00:00",
 "sport": "basket",
 "snippet": "Ο Ολυμπιακός ετοιμάζεται να υποδεχθεί τον Ερυθρό Αστέρα στη Sunel Arena, την Παρασκευή (06/11, 21:15), με στόχο να πανηγυρίσει την όγδοη νίκη του στην εφετινή…",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/euroleague/xoris-motlei-o-erythros-asteras-gia-tin-anametrisi-me-ton-olympiako/",
+"title": "Χωρίς Μότλεϊ ο Ερυθρός Αστέρας για την αναμέτρηση με τον Ολυμπιακό",
+"published": "2026-11-05T15:33+00:00"
+}
+],
 "id": "241d6502228a"
 },
 {
@@ -35,7 +55,15 @@
 "published": "2026-11-05T15:03+00:00",
 "sport": "basket",
 "snippet": "Ο Τζόναθαν Μότλεϊ δεν ταξίδεψε με την αποστολή του Ερυθρού Αστέρα και αναμένεται να μείνει εκτός από την αναμέτρηση κόντρα στον Ολυμπιακό.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1483806_erythros-asteras-den-paizei-me-olympiako-o-motlei",
+"title": "Ερυθρός Αστέρας: Δεν παίζει με Ολυμπιακό ο Μότλεϊ",
+"published": "2026-11-05T15:30+00:00"
+}
+],
 "id": "a66217433f4d"
 },
 {
