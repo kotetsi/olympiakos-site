@@ -148,6 +148,39 @@ def streaks(rows, ok):
         else: cur = 0
     return best, s, e
 
+# ------------------------------------------------------------------ χειρόγραφα κείμενα αντιπάλων
+def load_hand(kind, key, rows):
+    """data/opponents/<kind>/<key>.json, μόνο αν τα νούμερα στα οποία βασίζεται ισχύουν ακόμα.
+    checked_until (σεζόν) + checked_games: μετράμε μόνο τους αγώνες έως εκείνη τη σεζόν,
+    ώστε οι φετινοί αγώνες να μην «χαλάνε» το κείμενο."""
+    p = os.path.join(ROOT, "data", "opponents", kind, key + ".json")
+    if not os.path.exists(p): return None
+    d = json.load(open(p, encoding="utf-8"))
+    sk = "season" if kind == "podosfairo" else "season_label"
+    n = sum(1 for r in rows if not d.get("checked_until") or r[sk] <= d["checked_until"])
+    if n != d.get("checked_games"):
+        print(f"προσοχή: το κείμενο {p} γράφτηκε για {d.get('checked_games')} αγώνες, τώρα είναι {n}: χρησιμοποιώ το αυτόματο")
+        return None
+    return d
+
+def hand_body(d, stats, games_tbl, shops, extra=""):
+    """Σώμα σελίδας από χειρόγραφο κείμενο: h1, νούμερα, κείμενο, πίνακας αγώνων, FAQ (και FAQPage JSON-LD)."""
+    secs = "".join(f'<h2>{esc(x["h2"])}</h2>{x["html"]}' for x in d["sections"])
+    faq, ld = "", []
+    if d.get("faq"):
+        faq = "<h2>Συχνές ερωτήσεις</h2>" + "".join(f'<h3>{esc(f["q"])}</h3><p>{esc(f["a"])}</p>' for f in d["faq"])
+        ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+            {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in d["faq"]]})
+    rel = " · ".join(f'<a href="{u}">{esc(t)} →</a>' for u, t in d.get("related", []))
+    body = f"""<h1>{esc(d["h1"])}</h1>
+{stats}{extra}
+<div class="prose">{d["lead"]}{secs}</div>
+{games_tbl}{faq}
+{shops}
+<p>{rel}</p>
+<p><b><a href="/tv/">Δες τι ώρα και σε ποιο κανάλι είναι ο επόμενος αγώνας του Ολυμπιακού →</a></b></p>"""
+    return body, ld
+
 # ================================================================== ΠΟΔΟΣΦΑΙΡΟ
 def current_block(oslug):
     """Βαθμολογία και επόμενοι αγώνες της φετινής Super League (από scripts/update_football.py)."""
@@ -255,22 +288,59 @@ def football():
               body, "fb", [("/arxeio/", "Αρχείο"), ("/arxeio/podosfairo/", "Ποδόσφαιρο"), ("", s)], f"/arxeio/podosfairo/{s}.html"))
 
     # σελίδα αντιπάλου
+    def fb_opp_text(o, rs):
+        """Κείμενο ιστορικού από τα δεδομένα (μοναδικό ανά αντίπαλο)."""
+        r = rec(rs); oe = esc(o)
+        hm = [x for x in rs if x["venue"] == "Εντός"]; aw = [x for x in rs if x["venue"] == "Εκτός"]
+        out = [f"Στο αρχείο μας (πρωτάθλημα από το 1994-95), Ολυμπιακός και {oe} έχουν παίξει {plur(r['P'], 'φορά', 'φορές')}: "
+               f"{wdl_text(r)}, με γκολ {r['F']}-{r['A']}."]
+        if hm and aw:
+            h, a = rec(hm), rec(aw)
+            out.append(f"Εντός έδρας ο Ολυμπιακός μετράει {wdl(h)} (νίκες-ισοπαλίες-ήττες) και εκτός {wdl(a)}.")
+        ws = [x for x in rs if x["result"] == "Ν"]; ls = [x for x in rs if x["result"] == "Η"]
+        if ws:
+            b = max(ws, key=lambda x: (x["f"] - x["a"], x["f"]))
+            out.append(f"Η μεγαλύτερη νίκη είναι το {b['score']} ({'εντός' if b['venue'] == 'Εντός' else 'εκτός'} έδρας, {d_gr(b['date'])}).")
+        if ls:
+            b = min(ls, key=lambda x: (x["f"] - x["a"], -x["a"]))
+            out.append(f"Η βαρύτερη ήττα είναι το {b['score']} ({'εντός' if b['venue'] == 'Εντός' else 'εκτός'} έδρας, {d_gr(b['date'])}).")
+        ub = streaks(rs, lambda x: x["result"] != "Η")
+        if ub[0] >= 4: out.append(f"Το μεγαλύτερο αήττητο σερί του Ολυμπιακού είναι {ub[0]} αγώνες ({d_gr(ub[1])} – {d_gr(ub[2])}).")
+        if len(rs) > 1:
+            first, last = rs[0], rs[-1]
+            out.append(f"Η πρώτη αναμέτρηση στο αρχείο είναι στις {d_gr(first['date'])} ({first['score']}) και η πιο πρόσφατη στις {d_gr(last['date'])} ({last['score']}).")
+        return "<p>" + " ".join(out[:2]) + "</p>" + ("<p>" + " ".join(out[2:]) + "</p>" if out[2:] else "")
+
     for o, rs in opps.items():
         r = rec(rs); hw = rec([x for x in rs if x["venue"] == "Εντός"]); aw = rec([x for x in rs if x["venue"] == "Εκτός"])
-        bw = max(rs, key=lambda x: (x["f"] - x["a"], x["f"])); bl = min(rs, key=lambda x: (x["f"] - x["a"], -x["a"]))
-        facts = f'<li>Μεγαλύτερη νίκη: <b>{bw["score"]}</b> ({bw["venue"].lower()}, {d_gr(bw["date"])})</li>' if bw["result"] == "Ν" else ""
-        facts += f'<li>Βαρύτερη ήττα: <b>{bl["score"]}</b> ({bl["venue"].lower()}, {d_gr(bl["date"])})</li>' if bl["result"] == "Η" else ""
-        last = rs[-1]
-        facts += f'<li>Τελευταίο ματς: <b>{last["score"]}</b> ({last["venue"].lower()}, {d_gr(last["date"])})</li>'
-        body = f"""<h1>Ολυμπιακός – {esc(o)} <span class="sub">όλα τα ματς στο πρωτάθλημα</span></h1>
-{kpis([("Αγώνες", r['P']), ("Νίκες", r['W']), ("Ισοπαλίες", r['D']), ("Ήττες", r['L']), ("Γκολ", f"{r['F']}-{r['A']}")])}
-{table(["", "Αγ.", "Ν-Ι-Η", "Γκολ"], [["Εντός έδρας", hw['P'], wdl(hw), f"{hw['F']}-{hw['A']}"], ["Εκτός έδρας", aw['P'], wdl(aw), f"{aw['F']}-{aw['A']}"]])}
-<ul class="facts">{facts}</ul>
-<div class="shops">{shop_box(TEAM["olympiakos"], "arxeio-antipalos", "Φανέλες Ολυμπιακού 2026/27")}{shop_box(FB_TEAM[o], "arxeio-antipalos") if o in FB_TEAM else ""}</div>
-<h2>Όλοι οι αγώνες</h2>{table(["Ημ/νία", "Σεζόν", "Έδρα", "Αντίπαλος", "Σκορ", "", "Ημίχρ.", "Φάση"], match_rows(list(reversed(rs)), True))}"""
-        write(f"podosfairo/antipaloi/{oslug[o]}.html", page(f"Ολυμπιακός – {o}: ιστορικό αγώνων στο πρωτάθλημα | Red Madness",
-              f"Ολυμπιακός – {o} στο πρωτάθλημα: {r['P']} αγώνες, {r['W']} νίκες, {r['D']} ισοπαλίες, {r['L']} ήττες. Όλα τα αποτελέσματα.",
-              body, "fb", [("/arxeio/", "Αρχείο"), ("/arxeio/podosfairo/", "Ποδόσφαιρο"), ("", o)], f"/arxeio/podosfairo/antipaloi/{oslug[o]}.html"))
+        url = f"/arxeio/podosfairo/antipaloi/{oslug[o]}.html"
+        stats = f"""{kpis([("Αγώνες", r['P']), ("Νίκες", r['W']), ("Ισοπαλίες", r['D']), ("Ήττες", r['L']), ("Γκολ", f"{r['F']}-{r['A']}")])}
+{table(["", "Αγ.", "Ν-Ι-Η", "Γκολ"], [["Εντός έδρας", hw['P'], wdl(hw), f"{hw['F']}-{hw['A']}"], ["Εκτός έδρας", aw['P'], wdl(aw), f"{aw['F']}-{aw['A']}"]])}"""
+        shops = f"""<div class="shops">{shop_box(TEAM["olympiakos"], "arxeio-antipalos", "Φανέλες Ολυμπιακού 2026/27")}{shop_box(FB_TEAM[o], "arxeio-antipalos") if o in FB_TEAM else ""}</div>"""
+        games_tbl = f"""<h2>Όλα τα ματς Ολυμπιακού – {esc(o)}</h2>{table(["Ημ/νία", "Σεζόν", "Έδρα", "Αντίπαλος", "Σκορ", "", "Ημίχρ.", "Φάση"], match_rows(list(reversed(rs)), True))}"""
+        hand = load_hand("podosfairo", oslug[o], rs)
+        ld = []
+        if hand:
+            cur = [x for x in rs if x["season"] > hand["checked_until"]]
+            extra = ""
+            if cur:  # οι αγώνες μετά το χειρόγραφο κείμενο (π.χ. φετινή σεζόν), αυτόματα
+                extra = "<p class=\"lead\">Μετά τη σεζόν " + hand["checked_until"] + ": " + ", ".join(
+                    f"{d_gr(x['date'])} {'εντός' if x['venue'] == 'Εντός' else 'εκτός'} {x['score']} {res_badge(x['result'])}" for x in cur) + ".</p>"
+            body, ld = hand_body(hand, stats, games_tbl, shops, extra)
+            title, desc = hand["title"], hand["description"]
+        else:
+            body = f"""<h1>Ολυμπιακός – {esc(o)}: ιστορικό στο πρωτάθλημα</h1>
+{stats}
+<h2>Το ιστορικό Ολυμπιακού – {esc(o)} σε αριθμούς</h2>{fb_opp_text(o, rs)}
+{shops}
+{games_tbl}
+<p><a href="/arxeio/podosfairo/">Όλο το αρχείο Super League →</a> · <a href="/tv/">Πού θα δεις τον επόμενο αγώνα →</a></p>"""
+            title = f"Ολυμπιακός – {o}: ιστορικό και αποτελέσματα"
+            if len(title) > 60: title = f"Ολυμπιακός – {o}: ιστορικό αγώνων"
+            desc = (f"Ολυμπιακός – {o} ιστορικό στο πρωτάθλημα: {plur(r['P'], 'αγώνας', 'αγώνες')}, {plur(r['W'], 'νίκη', 'νίκες')}, "
+                    f"{plur(r['D'], 'ισοπαλία', 'ισοπαλίες')}, {plur(r['L'], 'ήττα', 'ήττες')}, γκολ {r['F']}-{r['A']}. Όλα τα αποτελέσματα.")
+        write(f"podosfairo/antipaloi/{oslug[o]}.html", page(title + (" | Red Madness" if len(title) <= 46 else ""), desc,
+              body, "fb", [("/arxeio/", "Αρχείο"), ("/arxeio/podosfairo/", "Ποδόσφαιρο"), ("", o)], url, ld=ld))
     return T, len(seasons), rows
 
 # ================================================================== EUROLEAGUE
@@ -447,19 +517,12 @@ def eleague():
                        f"και η πιο πρόσφατη στις {d_gr(last['date'])} ({gl(last, last['score'])}, {'νίκη' if last['result'] == 'Ν' else 'ήττα'}).")
         return "<p>" + " ".join(out[:3]) + "</p>" + ("<p>" + " ".join(out[3:]) + "</p>" if out[3:] else "")
 
-    OPP_DIR = os.path.join(ROOT, "data", "opponents", "euroleague")
     for c, gs in opps.items():
         r = rec(gs); hw = rec([g for g in gs if g["venue"] == "Εντός"])
         aw = rec([g for g in gs if g["venue"] == "Εκτός" and g["phase"] != F4]); nw = rec([g for g in gs if g["phase"] == F4])
         names = sorted({g["opponent"] for g in gs})
         url = f"/arxeio/euroleague/antipaloi/{c.lower()}.html"
-        # χειρόγραφο κείμενο (data/opponents/euroleague/<κωδ>.json), μόνο αν τα νούμερά του ισχύουν ακόμα
-        hand = None; hp = os.path.join(OPP_DIR, c.lower() + ".json")
-        if os.path.exists(hp):
-            hand = json.load(open(hp, encoding="utf-8"))
-            if hand.get("checked_games") != r["P"]:
-                print(f"προσοχή: το κείμενο {hp} γράφτηκε για {hand.get('checked_games')} αγώνες, τώρα είναι {r['P']}: χρησιμοποιώ το αυτόματο")
-                hand = None
+        hand = load_hand("euroleague", c.lower(), gs)
         venue_rows = [["Εντός έδρας", hw['P'], wdl(hw, False)], ["Εκτός έδρας", aw['P'], wdl(aw, False)]] + ([["Final Four", nw['P'], wdl(nw, False)]] if nw["P"] else [])
         stats = f"""{kpis([("Αγώνες", r['P']), ("Νίκες", r['W']), ("Ήττες", r['L']), ("% νικών", pct(r['W'], r['P']))])}
 {table(["", "Αγ.", "Ν-Η"], venue_rows)}"""
@@ -468,20 +531,7 @@ def eleague():
 <p class="note">Ονομασίες στο αρχείο: {esc(", ".join(names))}</p>"""
         ld = []
         if hand:
-            secs = "".join(f'<h2>{esc(s["h2"])}</h2>{s["html"]}' for s in hand["sections"])
-            faq = ""
-            if hand.get("faq"):
-                faq = "<h2>Συχνές ερωτήσεις</h2>" + "".join(f'<h3>{esc(f["q"])}</h3><p>{esc(f["a"])}</p>' for f in hand["faq"])
-                ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-                    {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in hand["faq"]]})
-            rel = " · ".join(f'<a href="{u}">{esc(t)} →</a>' for u, t in hand.get("related", []))
-            body = f"""<h1>{esc(hand["h1"])}</h1>
-{stats}
-<div class="prose">{hand["lead"]}{secs}</div>
-{games_tbl}{faq}
-{shops}
-<p>{rel}</p>
-<p><b><a href="/tv/">Δες τι ώρα και σε ποιο κανάλι είναι ο επόμενος αγώνας του Ολυμπιακού →</a></b></p>"""
+            body, ld = hand_body(hand, stats, games_tbl, shops)
             title, desc = hand["title"], hand["description"]
         else:
             body = f"""<h1>Ολυμπιακός – {esc(oname(c))}: ιστορικό στην Euroleague</h1>
