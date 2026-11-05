@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-05T22:12:22+00:00",
+"generated_at": "2026-11-05T22:27:30+00:00",
 "count": 298,
 "items": [
 {
@@ -12,6 +12,13 @@
 "sport": "football",
 "snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
 "also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/podosfairo/europa-league-i-vathmologia-olimpiakou-ke-ofi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Europa League: Βαθμολογία Ολυμπιακού και ΟΦΗ",
+"published": "2026-11-05T22:01+00:00"
+},
 {
 "source": "gazzetta",
 "source_name": "Gazzetta",
