@@ -1,12 +1,16 @@
 name: Ειδήσεις Ολυμπιακού
 
 on:
+  # Η ανανέωση γίνεται με «αλυσίδα»: κάθε run ξεκινά μόνο του το επόμενο 15 λεπτά μετά την έναρξή του
+  # (βήμα «Επόμενη ανανέωση» στο τέλος). Το GitHub αργεί ή παραλείπει τα προγραμματισμένα runs
+  # (στην πράξη έτρεχαν κάθε 4-7 ώρες), οπότε το schedule μένει μόνο ως εφεδρεία αν σπάσει η αλυσίδα.
   schedule:
-    - cron: "*/15 * * * *"     # κάθε 15 λεπτά (το GitHub μπορεί να καθυστερήσει λίγα λεπτά)
-  workflow_dispatch: {}          # και χειροκίνητα από την καρτέλα Actions
+    - cron: "7 * * * *"          # εφεδρεία: μία φορά την ώρα
+  workflow_dispatch: {}          # η αλυσίδα, και χειροκίνητα από την καρτέλα Actions
 
 permissions:
   contents: write
+  actions: write                 # για να ξεκινά το επόμενο run της αλυσίδας
 
 concurrency:
   group: news
@@ -15,8 +19,10 @@ concurrency:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
+      - name: Ώρα έναρξης
+        run: echo "RUN_START=$(date +%s)" >> "$GITHUB_ENV"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -54,3 +60,15 @@ jobs:
             echo "η αποθήκευση απέτυχε, ξαναδοκιμάζω σε 20 δευτερόλεπτα"; sleep 20
           done
           exit 1
+      - name: Επόμενη ανανέωση σε 15 λεπτά (αλυσίδα)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Περιμένουμε ώστε το επόμενο run να ξεκινήσει ~15 λεπτά μετά την έναρξη αυτού.
+          # Αν υπάρχει ήδη run σε αναμονή (π.χ. από την εφεδρεία), το GitHub κρατά μόνο ένα, άρα δεν διπλασιάζεται.
+          WAIT=$(( 900 - ( $(date +%s) - RUN_START ) ))
+          if [ "$WAIT" -gt 0 ]; then echo "αναμονή ${WAIT}s"; sleep "$WAIT"; fi
+          curl -fsS -X POST -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/news.yml/dispatches" \
+            -d '{"ref":"main"}' && echo "το επόμενο run ξεκίνησε"
