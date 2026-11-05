@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-05T16:12:26+00:00",
-"count": 269,
+"generated_at": "2026-11-05T16:27:35+00:00",
+"count": 274,
 "items": [
+{
+"title": "Νόουρα: «Ο Ολυμπιακός διαθέτει πολύ μεγάλο βάθος στο ρόστερ»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2583938/nooyra-o-olympiakos-diathetei-poly-megalo-bathos-sto-roster",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-05T16:22+00:00",
+"sport": "basket",
+"snippet": "Ο Τζόρνταν Νόουρα αναφέρθηκε στα στοιχεία που θα παίξουν καθοριστικό ρόλο στην αναμέτρηση του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα.",
+"also": [],
+"id": "d9c983fccdc8"
+},
+{
+"title": "Ναβάρο εν όψει Ολυμπιακού: «Αντιμετωπίζουμε τον πρωταθλητή – Πρόκληση για εμάς»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15214864/navaro-en-opsei-olympiakou-antimetopizoume-ton-protathliti-proklisi-gia-emas/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-05T16:18+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται να υποδεχθεί τον Ερυθρό Αστέρα την Παρασκευή (06/11, 21:15 Novasports) στη Sunel Arena, στο πλαίσιο της 10ης αγωνιστικής της…",
+"also": [],
+"id": "c528fafca0a5"
+},
+{
+"title": "Ευρωλίγκα: Κορυφαία φάση του Οκτωβρίου το buzzer beater τρίποντο του Καρ κόντρα στον Ολυμπιακό!",
+"url": "http://www.sport-fm.gr/article/5159086",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-05T16:15+00:00",
+"sport": "basket",
+"snippet": "Η Ευρωλίγκα δημοσίευσε τις δέκα καλύτερες φάσεις της διοργάνωσης για τον μήνα Οκτώβριο, με το νικητήριο τρίποντο του Μάρκους Καρ κόντρα στον Ολυμπιακό να…",
+"also": [],
+"id": "9d5fe13a90dd"
+},
+{
+"title": "Μόνο ΝΙΚΗ κόντρα στον Ολυμπιακό!",
+"url": "https://www.metrosport.gr/mono-niki-kontra-ston-olympiako-1332499",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-05T16:05+00:00",
+"sport": "general",
+"snippet": "Η Κυριακή που έρχεται αποτελεί «κομβικό σημείο» τόσο για την θετική συνέχεια της ομάδος του ΠΑΟΚ όσο και για την αύξηση ή μείωση των πιθανοτήτων ...",
+"also": [],
+"id": "dcf8407e6c9b"
+},
 {
 "title": "Ερασιτέχνης Ολυμπιακός: «Πήραμε λοιπόν τις απαντήσεις μας – Ζήτω η ισονομία!»",
 "url": "https://www.novasports.gr/sport/bolei/event/volleyleague/article/15214838/erasitexnis-olympiakos-pirame-loipon-tis-apantiseis-mas-zito-i-isonomia/",
@@ -11,7 +59,15 @@
 "published": "2026-11-05T16:02+00:00",
 "sport": "volley",
 "snippet": "Ειρωνική ανακοίνωση από τον Ερασιτέχνη Ολυμπιακό, οι Πειραιώτες τοποθετήθηκαν για τα ζητήματα περί οικονομική ενίσχυσης που έλαβε ο Παναθηναϊκός. Αναλυτικά η…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/volleyball/volley-league/2583936/erasitehnis-olympiakos-pirame-tis-apantiseis-mas-giname-sofoteroi",
+"title": "Ερασιτέχνης Ολυμπιακός: «Πήραμε τις απαντήσεις μας, γίναμε σοφότεροι, ζήτω η ισονομία!»",
+"published": "2026-11-05T16:21+00:00"
+}
+],
 "id": "da8a05b625ff"
 },
 {
@@ -25,6 +81,18 @@
 "snippet": "Ο Ιμπόν Ναβάρο στις δηλώσεις του ενόψει της αναμέτρησης του Ερυθρού Αστέρα κόντρα στον Ολυμπιακό αναφέρθηκε στα στοιχεία που πρέπει να προσέξει η ομάδα του…",
 "also": [],
 "id": "bf49a5f7a917"
+},
+{
+"title": "Ολυμπιακός: Ολοταχώς για νέο sold out στο ντέρμπι με τον ΠΑΟΚ",
+"url": "https://www.ertsports.gr/super-league/olympiakos-olotaxos-gia-neo-sold-out-sto-ntermpi-me-ton-paok/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-05T16:00+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται να υποδεχθεί τον ΠΑΟΚ την Κυριακή (8/11, 21:00) για τη 10η αγωνιστική της Super League, και το «Γεώργιος Καραϊσκάκης» να αναμένεται να…",
+"also": [],
+"id": "ba573f87f42d"
 },
 {
 "title": "Ολυμπιακός: Κοντά στο sold out με ΠΑΟΚ – Τα τελευταία εισιτήρια!",
