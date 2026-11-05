@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:27:42+00:00",
+ "generated_at": "2026-11-05T08:35:52+00:00",
  "count": 3,
  "items": [
   {
@@ -34,7 +34,7 @@
   }
  ],
  "checked": {
-  "programs": 3404,
+  "programs": 3376,
   "errors": []
  }
 }
