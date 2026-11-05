@@ -148,12 +148,50 @@ def streaks(rows, ok):
         else: cur = 0
     return best, s, e
 
+# ------------------------------------------------------------------ basketballstats.eu
+_BSP = os.path.join(ROOT, "data", "bstats_oly.json")
+BS = json.load(open(_BSP, encoding="utf-8")) if os.path.exists(_BSP) else {"games": [], "standings": {}, "finals": {}, "current": [], "team_slugs": {}}
+BS_SITE = BS.get("source", "https://basketballstats.eu")
+BS_PHASE = {"RS": "Κανονική περίοδος", "PO": "Playoffs", "FF": "Final Four", "PI": "Play-in"}
+def bs_team_url(c):
+    sl = BS.get("team_slugs", {}).get(c)
+    return f"{BS_SITE}/omada/{sl}/" if sl else None
+def bs_hist_url(season): return f"{BS_SITE}/istoriko/{season}/"
+def bs_game_url(g):
+    """Σελίδα αγώνα στο basketballstats.eu: υπάρχει μόνο για τη φετινή σεζόν."""
+    sl = BS.get("team_slugs", {})
+    if g["season"] != BS.get("season") or g["home"] not in sl or g["away"] not in sl: return None
+    return f"{BS_SITE}/agonas/{sl[g['home']]}-{sl[g['away']]}-{g['round']}/"
+def bs_score(g):  # σκορ με τη σειρά γηπεδούχος-φιλοξενούμενος, όπως στο αρχείο (Ολυμπιακός πρώτος)
+    return f"{g['pf']}-{g['pa']}"
+def bs_avgs(gs, side):
+    """Μέσοι όροι ομάδας από τα box scores: side = "oly" ή "opp_box"."""
+    n = len(gs); S = lambda k: sum(g[side][k] for g in gs)
+    if not n: return None
+    pc = lambda m, a: f"{100 * S(m) / S(a):.1f}%" if S(a) else "–"
+    return dict(pts=S("pts") / n, reb=(S("oreb") + S("dreb")) / n, ast=S("ast") / n, tov=S("tov") / n, stl=S("stl") / n,
+                p2=pc("fgm2", "fga2"), p3=pc("fgm3", "fga3"), ft=pc("ftm", "fta"), tpm=S("fgm3") / n)
+def bs_compare_table(gs, opp_name):
+    o, p = bs_avgs(gs, "oly"), bs_avgs(gs, "opp_box")
+    f1 = lambda x: f"{x:.1f}"
+    rows = [["Πόντοι", f1(o["pts"]), f1(p["pts"])], ["Ριμπάουντ", f1(o["reb"]), f1(p["reb"])], ["Ασίστ", f1(o["ast"]), f1(p["ast"])],
+            ["Λάθη", f1(o["tov"]), f1(p["tov"])], ["Κλεψίματα", f1(o["stl"]), f1(p["stl"])], ["Δίποντα", o["p2"], p["p2"]],
+            ["Τρίποντα", o["p3"], p["p3"]], ["Βολές", o["ft"], p["ft"]]]
+    return table(["Μέσος όρος ανά αγώνα", "Ολυμπιακός", esc(opp_name)], rows), o, p
+def bs_sources(items):
+    """Πλαίσιο «Πηγές στατιστικών» με links στο basketballstats.eu."""
+    items = [(u, t) for u, t in dict.fromkeys(items) if u]
+    if not items: return ""
+    return ('<h2>Πηγές στατιστικών</h2><ul class="facts">' + "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{esc(t)}</a></li>' for u, t in items)
+            + '</ul><p class="note">Τα box scores ομάδων από το 2023-24 και οι βαθμολογίες από το 2016-17 προέρχονται από το basketballstats.eu. '
+            'Τα αποτελέσματα και τα box scores παικτών έως το 2024-25 από το αρχείο του Red Madness.</p>')
+
 # ------------------------------------------------------------------ χειρόγραφα κείμενα αντιπάλων
-def load_hand(kind, key, rows):
+def load_hand(kind, key, rows, base="opponents"):
     """data/opponents/<kind>/<key>.json, μόνο αν τα νούμερα στα οποία βασίζεται ισχύουν ακόμα.
     checked_until (σεζόν) + checked_games: μετράμε μόνο τους αγώνες έως εκείνη τη σεζόν,
     ώστε οι φετινοί αγώνες να μην «χαλάνε» το κείμενο."""
-    p = os.path.join(ROOT, "data", "opponents", kind, key + ".json")
+    p = os.path.join(ROOT, "data", base, kind, key + ".json")
     if not os.path.exists(p): return None
     d = json.load(open(p, encoding="utf-8"))
     sk = "season" if kind == "podosfairo" else "season_label"
@@ -163,7 +201,7 @@ def load_hand(kind, key, rows):
         return None
     return d
 
-def hand_body(d, stats, games_tbl, shops, extra=""):
+def hand_body(d, stats, games_tbl, shops, extra="", after=""):
     """Σώμα σελίδας από χειρόγραφο κείμενο: h1, νούμερα, κείμενο, πίνακας αγώνων, FAQ (και FAQPage JSON-LD)."""
     secs = "".join(f'<h2>{esc(x["h2"])}</h2>{x["html"]}' for x in d["sections"])
     faq, ld = "", []
@@ -175,6 +213,7 @@ def hand_body(d, stats, games_tbl, shops, extra=""):
     body = f"""<h1>{esc(d["h1"])}</h1>
 {stats}{extra}
 <div class="prose">{d["lead"]}{secs}</div>
+{after}
 {games_tbl}{faq}
 {shops}
 <p>{rel}</p>
@@ -412,6 +451,19 @@ def eleague():
     ffs = [s for s, gs in seasons.items() if reached(gs) != "Playoffs" and ("Final" in reached(gs) or "Φιναλ" in reached(gs) or "🏆" in reached(gs))]
     srows = [[season_link(s), rec(gs)["P"], wdl(rec(gs), False), pct(rec(gs)["W"], rec(gs)["P"]), f'{rec(gs)["F"]/len(gs):.1f}-{rec(gs)["A"]/len(gs):.1f}', reached(gs)]
              for s, gs in sorted(seasons.items(), reverse=True)]
+    # σεζόν που υπάρχουν μόνο στο basketballstats.eu (μπαίνουν πρώτες στον πίνακα)
+    _bsx = defaultdict(list)
+    for g in BS.get("games", []):
+        if g["season"] not in seasons: _bsx[g["season"]].append(g)
+    def _rch(bg):
+        ff = [g for g in bg if g["phase"] == "FF"]
+        if len(ff) >= 2:
+            sw, fw = ff[0]["pf"] > ff[0]["pa"], ff[1]["pf"] > ff[1]["pa"]
+            return ("🏆 Πρωταθλητής" if fw else "Φιναλίστ") if sw else ("Final Four (3η θέση)" if fw else "Final Four (4η θέση)")
+        return "Playoffs" if any(g["phase"] == "PO" for g in bg) else ("σε εξέλιξη" if bg[0]["season"] == BS.get("season") else "Κανονική περίοδος")
+    srows = [[season_link(x), len(bg), f'{sum(g["pf"] > g["pa"] for g in bg)}-{sum(g["pf"] < g["pa"] for g in bg)}', pct(sum(g["pf"] > g["pa"] for g in bg), len(bg)),
+              f'{sum(g["pf"] for g in bg)/len(bg):.1f}-{sum(g["pa"] for g in bg)/len(bg):.1f}', _rch(bg) + " *"] for x, bg in sorted(_bsx.items(), reverse=True)] + srows
+    titles = titles + [x for x, bg in _bsx.items() if _rch(bg).startswith("🏆")]
     crows = [[esc(name(c)), rec(gs)["P"], wdl(rec(gs), False), pct(rec(gs)["W"], rec(gs)["P"]), f'{gs[0]["season_label"]} – {gs[-1]["season_label"]}']
              for c, gs in sorted(coaches.items(), key=lambda kv: -len(kv[1])) if c][:12]
     orows = [[opp_link(c), rec(gs)["P"], wdl(rec(gs), False), pct(rec(gs)["W"], rec(gs)["P"])] for c, gs in sorted(opps.items(), key=lambda kv: -len(kv[1]))]
@@ -444,6 +496,7 @@ def eleague():
 {shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague", "Προϊόντα ΚΑΕ Ολυμπιακός")}
 <h2>Πορεία ανά σεζόν</h2>
 {table(["Σεζόν", "Αγ.", "Ν-Η", "% νικών", "Πόντοι (Μ.Ο.)", "Έφτασε"], srows)}
+{'<p class="note">* Σεζόν από το basketballstats.eu, που δεν έχουν μπει ακόμα στο αρχείο (τα σύνολα στην κορυφή αφορούν το αρχείο).</p>' if _bsx else ''}
 <h2>Ρεκόρ</h2>
 <div class="cols">
 <div><h3>Μεγαλύτερες νίκες</h3>{table(["Ημ/νία", "Έδρα", "Αντίπαλος", "Σκορ"], [[d_gr(g['date']), g['venue'], opp_link(g['opponent_code']), game_link(g, f"<b>{g['score']}</b>")] for g in big_w])}</div>
@@ -463,11 +516,98 @@ def eleague():
           f"Όλοι οι αγώνες του Ολυμπιακού στην Euroleague από το 2000: {T['P']} ματς, πορεία ανά σεζόν, Final Four, προπονητές, κορυφαίοι παίκτες και box scores.",
           body, "bk", [("/arxeio/", "Αρχείο"), ("", "Μπάσκετ")], "/arxeio/euroleague/"))
 
-    keys = sorted(seasons)
-    for i, s in enumerate(keys):
-        gs = seasons[s]; r = rec(gs)
+    ARCH = {(g["date"], g["opponent_code"]) for g in games}
+    def bs_oname(c):
+        if c == "OLY": return "Ολυμπιακός"
+        if c in latest: return oname(c)
+        for st in BS.get("standings", {}).values():
+            if c in st: return EL_GR.get(c, st[c]["name"])
+        return c
+    def bs_opp_link(c): return opp_link(c) if c in opps else esc(bs_oname(c))
+    bs_seasons = sorted({g["season"] for g in BS.get("games", [])} - set(seasons))
+    keys = sorted(set(seasons) | set(bs_seasons))
+    def pager(i):
         prev = f'<a href="/arxeio/euroleague/{keys[i-1]}.html">‹ {keys[i-1]}</a>' if i else "<span></span>"
         nxt = f'<a href="/arxeio/euroleague/{keys[i+1]}.html">{keys[i+1]} ›</a>' if i + 1 < len(keys) else "<span></span>"
+        return f'<div class="pager">{prev}{nxt}</div>'
+    def bs_reached(bg):
+        ff = [g for g in bg if g["phase"] == "FF"]; po = [g for g in bg if g["phase"] == "PO"]
+        if len(ff) >= 2:
+            sw, fw = ff[0]["pf"] > ff[0]["pa"], ff[1]["pf"] > ff[1]["pa"]
+            if sw: return "🏆 Πρωταθλητής" if fw else "Φιναλίστ"
+            return "Final Four (3η θέση)" if fw else "Final Four (4η θέση)"
+        if po: return "Playoffs"
+        return "Κανονική περίοδος"
+    def season_bs_block(s, players=True):
+        """Στατιστικά της σεζόν από το basketballstats.eu: βαθμολογία, μέσοι όροι ομάδας και αντιπάλων, παίκτες."""
+        out, src = "", []
+        st = BS.get("standings", {}).get(s, {}); fin = BS.get("finals", {}).get(s); mv = BS.get("mvp", {}).get(s)
+        if "OLY" in st:
+            o = st["OLY"]; n = len(st)
+            ranks = dict(off=sorted(st, key=lambda c: -st[c]["pf"]).index("OLY") + 1, deff=sorted(st, key=lambda c: st[c]["pa"]).index("OLY") + 1,
+                         diff=sorted(st, key=lambda c: -(st[c]["pf"] - st[c]["pa"])).index("OLY") + 1)
+            champ = (fin["a"] if fin["as_"] > fin["bs"] else fin["b"]) if fin else None
+            line = (f"Στην κανονική περίοδο ο Ολυμπιακός τερμάτισε <b>{o['pos']}ος σε {n} ομάδες</b> με {o['w']}-{o['l']} "
+                    f"και διαφορά πόντων {o['pf'] - o['pa']:+d} ({o['pf']}-{o['pa']}): {ranks['off']}ος σε πόντους που πέτυχε, {ranks['deff']}ος σε πόντους που δέχτηκε.")
+            if fin: line += f" Πρωταθλητής Ευρώπης: {esc(bs_oname(champ))}." if champ != "OLY" else " Τον τίτλο τον πήρε ο Ολυμπιακός."
+            elif s == "2019-20": line += " Η σεζόν δεν ολοκληρώθηκε λόγω της πανδημίας."
+            if mv and mv.get("mvp"): line += f" MVP της σεζόν: {esc(mv['mvp'])}" + (f", MVP του Final Four: {esc(mv['ff_mvp'])}." if mv.get("ff_mvp") else ".")
+            top = sorted(st.items(), key=lambda kv: kv[1]["pos"])[:6]
+            out += (f"<h2>Η βαθμολογία της κανονικής περιόδου {s}</h2><p>{line}</p>"
+                    + table(["#", "Ομάδα", "Ν-Η", "Πόντοι"], [[v["pos"], f'<b>{esc(bs_oname(c))}</b>' if c == "OLY" else bs_opp_link(c), f'{v["w"]}-{v["l"]}', f'{v["pf"]}-{v["pa"]}'] for c, v in top]
+                            + ([["…", "", "", ""], [o["pos"], "<b>Ολυμπιακός</b>", f'{o["w"]}-{o["l"]}', f'{o["pf"]}-{o["pa"]}']] if o["pos"] > 6 else [])))
+            src.append((bs_hist_url(s), f"basketballstats.eu: Euroleague {s}, βαθμολογία και κορυφαίοι παίκτες"))
+        bg = [g for g in BS.get("games", []) if g["season"] == s]
+        if bg:
+            tbl, a, b = bs_compare_table(bg, "Αντίπαλοι")
+            out += (f'<h2>Ολυμπιακός και αντίπαλοι: μέσοι όροι ανά αγώνα <span class="sub">{len(bg)} αγώνες, box scores από το basketballstats.eu</span></h2>{tbl}')
+            src.append((bs_team_url("OLY"), "basketballstats.eu: Ολυμπιακός"))
+        if players:
+            ld = sorted(BS.get("leaders", {}).get(s, []), key=lambda x: -x["pts"])
+            if s == BS.get("season") and BS.get("current"): ld = BS["current"]
+            if ld:
+                out += (f'<h2>Οι παίκτες του Ολυμπιακού στο basketballstats.eu <span class="sub">μέσοι όροι ανά αγώνα</span></h2>'
+                        + table(["Παίκτης", "Αγ.", "Λεπτά", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR"], [[esc(name(x["name"])), x["g"], f'{x["min"]:.1f}', f'<b>{x["pts"]:.1f}</b>', f'{x["reb"]:.1f}', f'{x["ast"]:.1f}', f'{x["pir"]:.1f}'] for x in ld], "num"))
+        return out, src
+    def bs_games_table(bg):
+        def sc(g):
+            u = bs_game_url(g); t = f"<b>{bs_score(g)}</b>"
+            return f'<a href="{u}" target="_blank" rel="noopener">{t}</a>' if u else t
+        return table(["Ημ/νία", "Φάση", "Γύρος", "Έδρα", "Αντίπαλος", "Σκορ", ""], [[d_gr(g["date"]), BS_PHASE.get(g["phase"], g["phase"]), g["round"],
+                     "Final Four" if g["phase"] == "FF" else g["venue"], bs_opp_link(g["opp"]), sc(g), res_badge("Ν" if g["pf"] > g["pa"] else "Η")] for g in bg])
+
+    for i, s in enumerate(keys):
+        if s in bs_seasons:  # σεζόν που υπάρχει μόνο στο basketballstats.eu
+            bg = [g for g in BS["games"] if g["season"] == s]
+            W = sum(g["pf"] > g["pa"] for g in bg); Lr = len(bg) - W; rch = bs_reached(bg)
+            st = BS.get("standings", {}).get(s, {}).get("OLY")
+            live = s == BS.get("season")
+            coach = name(bg[-1]["coach"]) if bg[-1].get("coach") else ""
+            lead = (f"Ο Ολυμπιακός στην Euroleague {s}" + (" (σε εξέλιξη)" if live else "") + f": <b>{len(bg)} αγώνες, {W} νίκες και {Lr} ήττες</b>"
+                    + (f", {st['pos']}η θέση στην κανονική περίοδο με {st['w']}-{st['l']}" if st and not live else "")
+                    + (". <b>Πρωταθλητής Ευρώπης</b>, με νίκη στον τελικό του Final Four" if rch.startswith("🏆") else "") + "."
+                    + (f" Προπονητής: <b>{esc(coach)}</b>." if coach else ""))
+            ff = [g for g in bg if g["phase"] == "FF"]
+            fft = ""
+            if ff:
+                fft = ("<h2>Το Final Four</h2>" + table(["Φάση", "Αντίπαλος", "Σκορ"], [["Ημιτελικός" if k == 0 else ("Τελικός" if ff[0]["pf"] > ff[0]["pa"] else "Μικρός τελικός"),
+                        bs_opp_link(g["opp"]), f"<b>{bs_score(g)}</b>"] for k, g in enumerate(ff)]))
+                if rch.startswith("🏆"): fft += '<p><a href="/stigmes/">Οι μεγάλες ευρωπαϊκές στιγμές του Ολυμπιακού →</a></p>'
+            blk, src = season_bs_block(s)
+            body = f"""{pager(i)}
+<h1>Ολυμπιακός Euroleague {s} <span class="sub">{"σε εξέλιξη" if live else rch}</span></h1>
+{kpis([("Αγώνες", len(bg)), ("Ν-Η", f"{W}-{Lr}"), ("% νικών", pct(W, len(bg))), ("Θέση", f"{st['pos']}η" if st and not live else "–"), ("Έφτασε", "σε εξέλιξη" if live else rch)])}
+<p class="lead">{lead}</p>
+{fft}{blk}
+<h2>Όλοι οι αγώνες</h2>{bs_games_table(bg)}
+<p class="note">Η σεζόν δεν έχει μπει ακόμα στο αρχείο του Red Madness. Τα αποτελέσματα και τα στατιστικά προέρχονται από το basketballstats.eu και ενημερώνονται αυτόματα.</p>
+{bs_sources(src)}
+{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-sezon", "Προϊόντα ΚΑΕ Ολυμπιακός")}"""
+            write(f"euroleague/{s}.html", page(f"Ολυμπιακός Euroleague {s}: αποτελέσματα και στατιστικά",
+                  f"Ο Ολυμπιακός στην Euroleague {s}: {W}-{Lr} (Ν-Η)" + (", πρωταθλητής Ευρώπης" if rch.startswith("🏆") else "") + ". Όλοι οι αγώνες, βαθμολογία, μέσοι όροι ομάδας και παίκτες.",
+                  body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("", s)], f"/arxeio/euroleague/{s}.html"))
+            continue
+        gs = seasons[s]; r = rec(gs)
         sb = [p for g in gs for p in box.get((g["date"], g["opponent"]), [])]
         leaders = ""
         if sb:
@@ -478,15 +618,47 @@ def eleague():
             leaders = "<h2>Παίκτες της σεζόν</h2>" + table(["Παίκτης", "Αγ.", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR"],
                 [[plink(x["id"], x["n"]), x["g"], f'{x["pts"]/x["g"]:.1f}', f'{x["reb"]/x["g"]:.1f}', f'{x["ast"]/x["g"]:.1f}', f'{x["pir"]/x["g"]:.1f}'] for x in sorted(agg.values(), key=lambda x: -x["pts"])], "num")
         coach = ", ".join(dict.fromkeys(name(g["coach_oly"]) for g in gs if g["coach_oly"].strip()))
-        body = f"""<div class="pager">{prev}{nxt}</div>
-<h1>Ολυμπιακός {s} <span class="sub">Euroleague</span></h1>
-{kpis([("Αγώνες", r['P']), ("Ν-Η", wdl(r, False)), ("% νικών", pct(r['W'], r['P'])), ("Έφτασε", reached(gs))])}
+        blk, src = season_bs_block(s, players=not sb)
+        if sb and BS.get("leaders", {}).get(s): src.append((bs_hist_url(s), f"basketballstats.eu: Euroleague {s}"))
+        nobox = [g for g in gs if not box.get((g["date"], g["opponent"]))]
+        boxnote = (f'<p class="note">Για {plur(len(nobox), "αγώνα", "αγώνες")} της σεζόν δεν υπάρχει box score παικτών στο αρχείο, οπότε οι μέσοι όροι των παικτών αφορούν τους υπόλοιπους.</p>'
+                   if sb and nobox else "")
+        hand = load_hand("euroleague", s, gs, base="seasons")
+        kp = kpis([("Αγώνες", r['P']), ("Ν-Η", wdl(r, False)), ("% νικών", pct(r['W'], r['P'])), ("Έφτασε", reached(gs))])
+        ld = []
+        if hand:
+            secs = "".join(f'<h2>{esc(x["h2"])}</h2>{x["html"]}' for x in hand["sections"])
+            faq = ""
+            if hand.get("faq"):
+                faq = "<h2>Συχνές ερωτήσεις</h2>" + "".join(f'<h3>{esc(f["q"])}</h3><p>{esc(f["a"])}</p>' for f in hand["faq"])
+                ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in hand["faq"]]})
+            rel = " · ".join(f'<a href="{u}">{esc(t)} →</a>' for u, t in hand.get("related", []))
+            body = f"""{pager(i)}
+<h1>{esc(hand["h1"])}</h1>
+{kp}
 <p>Προπονητής: <b>{esc(coach)}</b></p>
-<h2>Αγώνες</h2>{table(GHEAD, grow(gs))}{leaders}
+<div class="prose">{hand["lead"]}{secs}</div>
+{blk}
+<h2>Όλοι οι αγώνες της σεζόν</h2>{table(GHEAD, grow(gs))}{leaders}{boxnote}{faq}
+{bs_sources(src)}
+<p>{rel}</p>
+{shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-sezon", "Προϊόντα ΚΑΕ Ολυμπιακός")}
+<p><b><a href="/tv/">Δες τι ώρα και σε ποιο κανάλι είναι ο επόμενος αγώνας του Ολυμπιακού →</a></b></p>"""
+            title, desc = hand["title"], hand["description"]
+        else:
+            body = f"""{pager(i)}
+<h1>Ολυμπιακός {s} <span class="sub">Euroleague</span></h1>
+{kp}
+<p>Προπονητής: <b>{esc(coach)}</b></p>
+{blk}
+<h2>Αγώνες</h2>{table(GHEAD, grow(gs))}{leaders}{boxnote}
+{bs_sources(src)}
 {shop_box(TEAM["olympiakos-bc"], "arxeio-euroleague-sezon", "Προϊόντα ΚΑΕ Ολυμπιακός")}"""
-        write(f"euroleague/{s}.html", page(f"Ολυμπιακός Euroleague {s}: αποτελέσματα και στατιστικά | Red Madness",
-              f"Ο Ολυμπιακός στην Euroleague {s}: {wdl(r, False)} (Ν-Η), {reached(gs)}. Όλοι οι αγώνες και οι παίκτες της σεζόν.",
-              body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("", s)], f"/arxeio/euroleague/{s}.html"))
+            title = f"Ολυμπιακός Euroleague {s}: αποτελέσματα και στατιστικά"
+            desc = f"Ο Ολυμπιακός στην Euroleague {s}: {wdl(r, False)} (Ν-Η), {reached(gs)}. Όλοι οι αγώνες και οι παίκτες της σεζόν."
+        write(f"euroleague/{s}.html", page(title + (" | Red Madness" if len(title) <= 46 else ""), desc,
+              body, "bk", [("/arxeio/", "Αρχείο"), ("/arxeio/euroleague/", "Μπάσκετ"), ("", s)], f"/arxeio/euroleague/{s}.html", ld=ld))
 
     F4 = "Final Four"
     def el_opp_text(c, gs):
@@ -517,6 +689,65 @@ def eleague():
                        f"και η πιο πρόσφατη στις {d_gr(last['date'])} ({gl(last, last['score'])}, {'νίκη' if last['result'] == 'Ν' else 'ήττα'}).")
         return "<p>" + " ".join(out[:3]) + "</p>" + ("<p>" + " ".join(out[3:]) + "</p>" if out[3:] else "")
 
+    def players_vs(c):
+        """Κορυφαίοι παίκτες του Ολυμπιακού απέναντι σε έναν αντίπαλο (box scores αρχείου, 2010-11 έως 2024-25)."""
+        agg = defaultdict(lambda: dict(g=0, pts=0, reb=0, ast=0, pir=0))
+        for g in opps.get(c, []):
+            for p in box.get((g["date"], g["opponent"]), []):
+                if p["minutes"] in ("", "0", "00:00", "DNP") and not int(float(p["pts"] or 0)): continue
+                x = agg[p["player_id"]]; x["n"] = name(p["player"]); x["id"] = p["player_id"]; x["g"] += 1
+                for k in ("pts", "reb", "ast", "pir"): x[k] += int(float(p[k] or 0))
+        top = sorted([x for x in agg.values() if x["g"] >= 2], key=lambda x: -x["pts"])[:8]
+        if not top: return "", None
+        return (f'<h2>Οι κορυφαίοι παίκτες του Ολυμπιακού απέναντι σε {esc(bs_oname(c))} <span class="sub">2010-11 έως 2024-25</span></h2>'
+                + table(["Παίκτης", "Αγ.", "Πόντοι (σύνολο)", "Πόντοι", "Ριμπ.", "Ασίστ", "PIR"],
+                        [[plink(x["id"], x["n"]), x["g"], f'<b>{x["pts"]}</b>', f'{x["pts"]/x["g"]:.1f}', f'{x["reb"]/x["g"]:.1f}', f'{x["ast"]/x["g"]:.1f}', f'{x["pir"]/x["g"]:.1f}'] for x in top], "num")
+                + '<p class="note">Μέσοι όροι ανά αγώνα, για όσους έπαιξαν τουλάχιστον 2 φορές απέναντι στον αντίπαλο. Μόνο αγώνες Euroleague.</p>'), top[0]
+    def el_bs_block(c):
+        """Ενότητα με τα στατιστικά του basketballstats.eu για έναν αντίπαλο."""
+        on = bs_oname(c); out = ""; src = []
+        bg = [g for g in BS.get("games", []) if g["opp"] == c]
+        if bg:
+            r = dict(P=len(bg), W=sum(g["pf"] > g["pa"] for g in bg)); r["L"] = r["P"] - r["W"]
+            hm = [g for g in bg if g["venue"] == "Εντός" and g["phase"] != "FF"]; aw = [g for g in bg if g["venue"] == "Εκτός" and g["phase"] != "FF"]; ff = [g for g in bg if g["phase"] == "FF"]
+            W = lambda x: sum(g["pf"] > g["pa"] for g in x)
+            tbl, o, q = bs_compare_table(bg, on)
+            s1, s2 = bg[0]["season"], bg[-1]["season"]
+            parts = [f"στην έδρα του {W(hm)}-{len(hm) - W(hm)}" if hm else "", f"εκτός έδρας {W(aw)}-{len(aw) - W(aw)}" if aw else "", f"στα Final Four {W(ff)}-{len(ff) - W(ff)}" if ff else ""]
+            parts = [x for x in parts if x]
+            txt = (f"Από τη σεζόν {s1}{' έως και τη σεζόν ' + s2 if s2 != s1 else ''}, Ολυμπιακός και {esc(on)} έχουν παίξει {plur(r['P'], 'φορά', 'φορές')} στην Euroleague: "
+                   f"{plur(r['W'], 'νίκη', 'νίκες')} του Ολυμπιακού και {plur(r['L'], 'ήττα', 'ήττες')}"
+                   + (" (" + (", ".join(parts[:-1]) + " και " + parts[-1] if len(parts) > 1 else parts[0]) + ")" if parts else "") + ". ")
+            txt += (f"Σε αυτούς τους αγώνες ο Ολυμπιακός πετυχαίνει κατά μέσο όρο {o['pts']:.1f} πόντους και δέχεται {q['pts']:.1f}, "
+                    f"με {o['reb']:.1f} ριμπάουντ έναντι {q['reb']:.1f}, {o['ast']:.1f} ασίστ έναντι {q['ast']:.1f} και {o['tov']:.1f} λάθη έναντι {q['tov']:.1f}. "
+                    f"Στο τρίποντο σουτάρει με {o['p3']}, απέναντι σε {q['p3']} του αντιπάλου.")
+            new = [g for g in bg if (g["date"], c) not in ARCH]
+            newt = ""
+            if new:
+                def sc(g):
+                    u = bs_game_url(g); t = f"<b>{bs_score(g)}</b>"
+                    return f'<a href="{u}" target="_blank" rel="noopener">{t}</a>' if u else t
+                newt = ('<h3>Οι πιο πρόσφατοι αγώνες <span class="sub">από το basketballstats.eu, δεν είναι ακόμα στο αρχείο</span></h3>'
+                        + table(["Ημ/νία", "Σεζόν", "Φάση", "Έδρα", "Σκορ", ""], [[d_gr(g["date"]), g["season"], BS_PHASE.get(g["phase"], g["phase"]),
+                          "Final Four" if g["phase"] == "FF" else g["venue"], sc(g), res_badge("Ν" if g["pf"] > g["pa"] else "Η")] for g in reversed(new)]))
+            out += (f'<h2>Ολυμπιακός – {esc(on)} από το {s1[:4]}: τα στατιστικά της αναμέτρησης</h2><p>{txt}</p>{tbl}{newt}')
+            src += [(bs_team_url("OLY"), "basketballstats.eu: Ολυμπιακός, στατιστικά σεζόν"), (bs_team_url(c), f"basketballstats.eu: {on}, στατιστικά σεζόν")]
+            src += [(bs_hist_url(x), f"basketballstats.eu: Euroleague {x}") for x in sorted({g["season"] for g in bg}) if x in BS.get("standings", {})]
+        st = [(x, v["OLY"], v[c]) for x, v in sorted(BS.get("standings", {}).items()) if "OLY" in v and c in v]
+        if st:
+            fin = BS.get("finals", {})
+            out += (f'<h2>Ολυμπιακός και {esc(on)} στη βαθμολογία <span class="sub">κανονική περίοδος, από το 2016-17</span></h2>'
+                    + table(["Σεζόν", "Ολυμπιακός", esc(on), "Πρωταθλητής"], [[f'<a href="{bs_hist_url(x)}" target="_blank" rel="noopener">{x}</a>',
+                      f'{a["pos"]}η ({a["w"]}-{a["l"]})', f'{b["pos"]}η ({b["w"]}-{b["l"]})',
+                      esc(bs_oname((fin[x]["a"] if fin[x]["as_"] > fin[x]["bs"] else fin[x]["b"]))) if x in fin else "Δεν ολοκληρώθηκε"] for x, a, b in reversed(st)]))
+            above = sum(a["pos"] < b["pos"] for _, a, b in st)
+            out += (f'<p>Στις {len(st)} σεζόν που έπαιξαν και οι δύο, ο Ολυμπιακός τερμάτισε ψηλότερα στη βαθμολογία {plur(above, "φορά", "φορές")}.</p>' if above
+                    else f'<p>Στις {len(st)} σεζόν που έπαιξαν και οι δύο, ο Ολυμπιακός δεν τερμάτισε ποτέ ψηλότερα από {esc(on)} στην κανονική περίοδο.</p>')
+            src += [(bs_hist_url(x), f"basketballstats.eu: Euroleague {x}") for x, _, _ in st]
+        pv, top = players_vs(c)
+        out += pv
+        return out + bs_sources(src)
+
     for c, gs in opps.items():
         r = rec(gs); hw = rec([g for g in gs if g["venue"] == "Εντός"])
         aw = rec([g for g in gs if g["venue"] == "Εκτός" and g["phase"] != F4]); nw = rec([g for g in gs if g["phase"] == F4])
@@ -530,13 +761,15 @@ def eleague():
         games_tbl = f"""<h2>Όλοι οι αγώνες Ολυμπιακού – {esc(oname(c))}</h2>{table(["Ημ/νία", "Σεζόν", "Γύρος", "Έδρα", "Αντίπαλος", "Σκορ", ""], grow(list(reversed(gs)), True))}
 <p class="note">Ονομασίες στο αρχείο: {esc(", ".join(names))}</p>"""
         ld = []
+        bsb = el_bs_block(c)
         if hand:
-            body, ld = hand_body(hand, stats, games_tbl, shops)
+            body, ld = hand_body(hand, stats, games_tbl, shops, after=bsb)
             title, desc = hand["title"], hand["description"]
         else:
             body = f"""<h1>Ολυμπιακός – {esc(oname(c))}: ιστορικό στην Euroleague</h1>
 {stats}
 <h2>Το ιστορικό Ολυμπιακού – {esc(oname(c))} σε αριθμούς</h2>{el_opp_text(c, gs)}
+{bsb}
 {shops}
 {games_tbl}
 <p><a href="/arxeio/euroleague/">Όλο το αρχείο Euroleague →</a> · <a href="/tv/">Πού θα δεις τον επόμενο αγώνα →</a></p>"""

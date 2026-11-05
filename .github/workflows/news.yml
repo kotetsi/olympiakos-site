@@ -33,6 +33,8 @@ jobs:
         run: python3 scripts/fetch_player_names.py || echo "τα ονόματα απέτυχαν, συνεχίζουμε"
       - name: Παίκτες όλων των εποχών (Wikidata, μία φορά την εβδομάδα)
         run: python3 scripts/fetch_all_players.py || echo "οι παίκτες απέτυχαν, συνεχίζουμε"
+      - name: Στατιστικά Euroleague από το basketballstats.eu (κάθε 6 ώρες)
+        run: python3 scripts/fetch_bstats.py || echo "το basketballstats απέτυχε, συνεχίζουμε"
       - name: Δημιουργία σελίδων (αρχείο, προεπισκοπήσεις, sitemap)
         run: python3 scripts/build_archive.py
       - name: Εικόνες κοινοποίησης αγώνων
