@@ -1,7 +1,70 @@
 {
-"generated_at": "2026-11-06T18:39:09+00:00",
+"generated_at": "2026-11-06T18:54:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μεταγραφικά σενάρια για 4 παίκτες της Κραϊόβα",
+"url": "https://www.gazzetta.gr/football/superleague/2584310/olympiakos-metagrafika-senaria-gia-4-paiktes-tis-kraioba",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T18:49+00:00",
+"sport": "football",
+"snippet": "Με βάση πληροφορίες από ξένο ρεπόρτερ ο Ολυμπιακός και η Μπρεστ τσεκάρουν και φέρονται να ενδιαφέρονται για 4 παίκτες της Κραϊόβα.",
+"also": [],
+"id": "9d9c63b083cd"
+},
+{
+"title": "Live: Ολυμπιακός - Ερυθρός Αστέρας (Euroleague 2026-27)",
+"url": "https://www.sdna.gr/mpasket/1484136_live-olympiakos-erythros-asteras-euroleague-2026-27",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T18:45+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "425507a6b3ff"
+},
+{
+"title": "Ολυμπιακός: Με Φουρνιέ & Κόντσαρ η 12άδα κόντρα στον Ερυθρό Αστέρα",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2031475/olimpiakos-me-fournie-kontsar-i-12ada-me-erithro-astera/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-06T18:39+00:00",
+"sport": "basket",
+"snippet": "Με τους Εβάν Φουρνιέ & Τζον Κόντσαρ η 12άδα του Ολυμπιακού (7-2) για το παιχνίδι με τον Ερυθρό Αστέρα (6-3) στη SUNEL Arena (6/11, 21:15/Novasports Prime) για…",
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1484200_me-kontsar-kai-foyrnie-kontra-ston-erythro-o-olympiakos",
+"title": "Με Κόντσαρ και Φουρνιέ κόντρα στον Ερυθρό ο Ολυμπιακός",
+"published": "2026-11-06T18:45+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216836/me-fournie-kai-kontsar-i-dodekada-tou-olympiakou-kontra-ston-erythro-astera/",
+"title": "Με Φουρνιέ και Κόντσαρ η δωδεκάδα του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα",
+"published": "2026-11-06T18:46+00:00"
+}
+],
+"id": "feb662595390"
+},
+{
+"title": "Ολυμπιακός: Αυτή η ενδεκάδα με ΠΑΟΚ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-afti-i-endekada-me-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T18:38+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός ετοιμάζει την ενδεκάδα του για το ντέρμπι με τον ΠΑΟΚ. Οι επιλογές του Ιμανόλ Αλγουαθίλ και το ερωτηματικό με τον Μανώλη Σάλιακα.",
+"also": [],
+"id": "df15fe2b1999"
+},
 {
 "title": "Eπική τούμπα για φίλη του Ολυμπιακού, όταν ο Άνγκιαλ «εκτέλεσε» τον Παναθηναϊκό",
 "url": "https://www.gazzetta.gr/polo/a1-andron/2584306/epiki-toympa-gia-fili-toy-olympiakoy-otan-o-angkial-ektelese-ton",
@@ -5093,54 +5156,6 @@
 "snippet": "Οι ώρες των συνεντεύξεων Τύπου και των προπονήσεων Stade Rennais - Ολυμπιακού, ενόψει του αγώνα της Τετάρτης (4/11).",
 "also": [],
 "id": "0bb583f7f7a5"
-},
-{
-"title": "Ανακοίνωση θέσεων για άτομα με οπτική αναπηρία στον αγώνα με τον ΠΑΟΚ",
-"url": "https://www.olympiacos.org/2026/11/02/anakoinosi-theseon-gia-atoma-me-optiki-anapiria-ston-agona-me-ton-paok-8/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-02T13:32+00:00",
-"sport": "football",
-"snippet": "Ενημέρωση για τις θέσεις ατόμων με οπτική αναπηρία στο ματς Ολυμπιακός – ΠΑΟΚ στο «Γ. Καραϊσκάκης».",
-"also": [],
-"id": "7a02494c8743"
-},
-{
-"title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα με τον ΠΑΟΚ",
-"url": "https://www.olympiacos.org/2026/11/02/diapisteyseis-mme-gia-ton-agona-me-ton-paok-12/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-02T13:30+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στον ΠΑΟΚ.",
-"also": [],
-"id": "85ca972e43f5"
-},
-{
-"title": "Οδηγίες προς τους φιλάθλους μας για το Stade Rennais – Ολυμπιακός",
-"url": "https://www.olympiacos.org/2026/11/02/odigies-pros-tous-filathlous-mas-gia-to-stade-rennais-olympiakos/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-02T13:05+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τους φιλάθλους της ενόψει του αγώνα με την Stade Rennais.",
-"also": [],
-"id": "8a603c76339e"
-},
-{
-"title": "Ρούμπιο: «Μας αξίζει περισσότερος σεβασμός»",
-"url": "https://www.olympiacos.org/2026/11/01/roumpio-mas-aksizei-perissoteros-sevasmos/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-01T15:07+00:00",
-"sport": "general",
-"snippet": "Η δήλωση του Άλβαρο Ρούμπιο μετά τον αγώνα με την ΑΕΛ.",
-"also": [],
-"id": "a58236800cbf"
 }
 ]
 }
