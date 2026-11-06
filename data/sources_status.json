@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-06T07:02:08+00:00",
+ "checked_at": "2026-11-06T07:17:14+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-06T06:50"
+     "newest": "2026-11-06T07:10"
     }
    ]
   },
@@ -36,13 +36,13 @@
    "feeds": [
     "https://www.gazzetta.gr/rss"
    ],
-   "items": 4,
+   "items": 5,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-06T07:00"
+     "newest": "2026-11-06T07:15"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-06T07:01"
+     "newest": "2026-11-06T07:11"
     }
    ]
   },
@@ -74,7 +74,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/1.feed",
      "raw": 20,
-     "newest": "2026-11-06T06:49"
+     "newest": "2026-11-06T07:02"
     },
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
@@ -115,12 +115,12 @@
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-06T06:36"
+     "newest": "2026-11-06T06:59"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-06T06:36"
+     "newest": "2026-11-06T06:59"
     }
    ]
   },
@@ -136,12 +136,12 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-06T06:50"
+     "newest": "2026-11-06T06:05"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-06T06:50"
+     "newest": "2026-11-06T06:05"
     }
    ]
   },
@@ -156,7 +156,7 @@
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-06T06:59"
+     "newest": "2026-11-06T07:11"
     }
    ]
   },
@@ -165,13 +165,13 @@
    "feeds": [
     "https://www.eurohoops.net/el/feed/"
    ],
-   "items": 4,
+   "items": 3,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.eurohoops.net/el/feed/",
      "raw": 20,
-     "newest": "2026-11-06T06:42"
+     "newest": "2026-11-06T07:07"
     }
    ]
   }
