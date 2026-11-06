@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-06T20:10:03+00:00",
+"generated_at": "2026-11-06T20:25:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Ερυθρός Αστέρας: Δεύτερη χειρότερη επίδοση στην ιστορία των Πειραιωτών",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T20:21+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός έκανε ένα πολύ κακό πρώτο ημίχρονο και μαζί τη δεύτερη χειρότερη επίδοση της ιστορίας του.",
+"also": [],
+"id": "e7ed4f56e3c3"
+},
+{
+"title": "Ολυμπιακός: Πότε παίζει ξανά στη EuroLeague",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-pote-pezi-xana-sti-euroleague?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T20:16+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ντουμπάι στις 12 Νοεμβρίου για τη EuroLeague. Δείτε την ώρα του αγώνα και το πρόγραμμα που ακολουθεί για τους «ερυθρόλευκους».",
+"also": [],
+"id": "12ec5f52c590"
+},
+{
+"title": "Ολυμπιακός: Εφιαλτικό πρώτο ημίχρονο με 22 πόντους και 1/16 τρίποντα!",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2031540/olimpiakos-efialtiko-proto-imichrono-me-22-pontous-ke-1-16-triponta/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-06T20:15+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός πραγματοποίησε τραγικό πρώτο ημίχρονο κόντρα στον Ερυθρό Αστέρα, από τον οποίο και χάνει με 18 πόντους διαφορά. The post Ολυμπιακός: Εφιαλτικό…",
+"also": [],
+"id": "af237b12b786"
+},
 {
 "title": "Ολυμπιακός: Από συμπαίκτες αντίπαλοι οι Γκονζάλες και Μπέιλι!",
 "url": "https://www.novasports.gr/sport/podosfairo/event/diethneis-pagkosmio-podosfairo/article/15216958/olympiakos-apo-sympaiktes-antipaloi-oi-gkonzales-kai-mpeili/",
@@ -13,6 +49,18 @@
 "snippet": "Μια ξεχωριστή ιστορία με πρωταγωνιστές δύο ποδοσφαιριστές του Ολυμπιακού αναδεικνύει η μεξικανική Marca, εν όψει των αναμετρήσεων του Μεξικού με την Τζαμάικα…",
 "also": [],
 "id": "53964fbd1f85"
+},
+{
+"title": "Ολυμπιακός: Κίνδυνος ιστορικής συντριβής!",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-kindinos-istorikis-sintrivis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T20:06+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός βρίσκεται πίσω με 22-40 από τον Ερυθρό Αστέρα στο ημίχρονο, με μόλις 1/16 τρίποντα και σοβαρό επιθετικό πρόβλημα που απειλεί με βαριά ήττα.",
+"also": [],
+"id": "40625545fe61"
 },
 {
 "title": "Αποθεώθηκαν οι Τόμιτς και Τεόντοσιτς από τον κόσμο του Ολυμπιακού στη SUNEL Arena!",
@@ -186,7 +234,7 @@
 "id": "2fc29f408061"
 },
 {
-"title": "Extra Time LIVE μετά το παιχνίδι του Ολυμπιακού με τον Ερυθρό Αστέρα",
+"title": "Τι γίνεται με Ντόρσεϊ και Κόουλ Άντονι – Extra Time LIVE μετά το παιχνίδι του Ολυμπιακού με τον Ερυθρό Αστέρα",
 "url": "https://www.eurohoops.net/el/trademarks-el/2031415/extra-time-live-meta-to-pechnidi-tou-olimpiakou-me-ton-erithro-astera/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
@@ -5153,54 +5201,6 @@
 "snippet": "Στις 20:30, η ομάδα του Βύρωνα θα αντιμετωπίσει τη Γλυφάδα την Κιμπίρκστις, με στόχο την πρώτη της νίκη στη φετινή Euroleague. Η ελληνική ομάδα μετράει τρεις…",
 "also": [],
 "id": "8a047d3ac53f"
-},
-{
-"title": "Ολυμπιακός: Η δεύτερη μάχη του Ιμανόλ με τον προπονητή της Ρεν…",
-"url": "https://www.gazzetta.gr/football/europa-league/2583221/olympiakos-i-deyteri-mahi-toy-imanol-me-ton-proponiti-tis-ren",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T11:30+00:00",
-"sport": "football",
-"snippet": "Ο Κ. Νικολακόπουλος γράφει στο blog του στο gazzetta για τον προπονητή του Ολυμπιακού επί…γαλλικού εδάφους!",
-"also": [],
-"id": "cf9c90238565"
-},
-{
-"title": "Κίλιαν Χέιζ: Θετικός στην επιστροφή του στην Ευρώπη – Στο προσκήνιο το ενδιαφέρον του Ολυμπιακού",
-"url": "https://sportday.gr/basket/364105_kilian-cheiz-thetikos-stin-epistrofi-tou-stin-evropi-sto-proskinio-to-endiaferon-tou-olympiakou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-03T11:21+00:00",
-"sport": "basket",
-"snippet": "Το ενδεχόμενο να επιστρέψει στα ευρωπαϊκά παρκέ φαίνεται πως εξετάζει σοβαρά ο Κίλιαν Χέιζ, με τον Γάλλο γκαρντ να βρίσκεται στο επίκεντρο των μεταγραφικών…",
-"also": [],
-"id": "214b3138091f"
-},
-{
-"title": "Ρεν – Ολυμπιακός: Χωρίς διακριτικά στα 75 ευρώ",
-"url": "https://sportime.gr/olimpiakos/ren-olimpiakos-i-filathli-ton-75-evro-kalounte-na-pane-choris-diakritika-tis-omadas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T11:15+00:00",
-"sport": "general",
-"snippet": "Ρεν – Ολυμπιακός: Άλλες οδηγίες για τα εισιτήρια των 22 και 75 ευρώ. Τι ισχύει για voucher, αστυνομική συνοδεία, διακριτικά και πρόσβαση στο γήπεδο.",
-"also": [],
-"id": "bc21d42e23e4"
-},
-{
-"title": "League Cup: Ανοίγει η αυλαία στου Ρέντη",
-"url": "https://www.novasports.gr/sport/bolei/event/greece-volei-league-cup/article/15210460/league-cup-anoigei-i-aylaia-stou-renti/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-03T11:01+00:00",
-"sport": "football",
-"snippet": "Οι δυο ομάδες θα προσπαθήσουν να πάρουν το εισιτήριο της πρόκρισης, για την επόμενη φάση της διοργάνωσης. Οι αναμετρήσεις της προημιτελικής φάσης είναι…",
-"also": [],
-"id": "257190ec6f36"
 }
 ]
 }
