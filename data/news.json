@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-06T11:34:33+00:00",
-"count": 349,
+"generated_at": "2026-11-06T11:49:42+00:00",
+"count": 353,
 "items": [
+{
+"title": "Ένας θρύλος γίνεται συλλεκτικός – Πόσο κοστίζει στην Ελλάδα;",
+"url": "https://www.sdna.gr/auto-moto/1484094_enas-thrylos-ginetai-syllektikos-poso-kostizei-stin-ellada",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T11:39+00:00",
+"sport": "general",
+"snippet": "Έξι δεκαετίες, 12 γενιές και περισσότερα από 57 εκατομμύρια αυτοκίνητα. Η Toyota Corolla γιορτάζει τα 60 χρόνια της με μια επετειακή έκδοση που...",
+"also": [],
+"id": "449f29187744"
+},
+{
+"title": "Ολυμπιακός: Η εικόνα Μπέιλι, Σα και Κάρμο!",
+"url": "https://www.gazzetta.gr/football/2584181/olympiakos-i-eikona-mpeili-sa-kai-karmo",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T11:39+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta την παρουσία τριών παικτών που τους εμπιστεύθηκε για πρώτη φορά στο Europa League ο Ιμανόλ.",
+"also": [],
+"id": "29aa92c64977"
+},
+{
+"title": "ΠΑΟΚ: Εκτός μάχης και ο Λουσέ για το ντέρμπι στο Καραϊσκάκη",
+"url": "https://www.gazzetta.gr/football/superleague/2584179/paok-ektos-mahis-kai-o-loyse-gia-ntermpi-sto-karaiskaki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T11:34+00:00",
+"sport": "football",
+"snippet": "Δεν μπόρεσε να μπει ούτε σήμερα στο full πρόγραμμα ο Λουσέ και μένει εκτός πλάνων για το έδρας ντέρμπι του ΠΑΟΚ με τον Ολυμπιακό στο Φάληρο",
+"also": [],
+"id": "0af1cc6451c5"
+},
+{
+"title": "ΠΑΟΚ: Αγώνας δρόμου για Λουσέ ενόψει Ολυμπιακού - Θεραπεία για Πέλκα και Μιχαηλίδη",
+"url": "http://www.sport-fm.gr/article/5159287",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-06T11:23+00:00",
+"sport": "football",
+"snippet": "Ο Τομ Λουσέ συμμετείχε στο μεγαλύτερο μέρος της προπόνησης και κάνει αγώνα δρόμου για να προλάβει το ντέρμπι του ΠΑΟΚ με τον Ολυμπιακό στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "c5d5b76e88a9"
+},
 {
 "title": "Εξάντληση θέσεων ΑμεΑ για τον αγώνα Ολυμπιακός – ΠΑΟΚ",
 "url": "https://www.olympiacos.org/2026/11/06/eksantlisi-theseon-amea-gia-ton-agona-olympiakos-paok-9/",
@@ -155,7 +203,7 @@
 "id": "f2651f386ac5"
 },
 {
-"title": "Ολυμπιακός: “Παίρνω θέση στην κερκίδα” στην όμορφη διαφήμιση της Superbet (Video)",
+"title": "Ολυμπιακός: “Παίρνω θέση στην κερκίδα” στην όμορφη διαφήμιση της Superbet (video)",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2031334/olimpiakos-perno-thesi-stin-kerkida-stin-omorfi-diafimisi-tis-superbet-video/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
