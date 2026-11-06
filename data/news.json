@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-06T23:11:31+00:00",
+"generated_at": "2026-11-06T23:26:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Ερυθρός Αστέρας 57-62: Τα highlights του αγώνα",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584358/olympiakos-erythros-asteras-57-62-ta-highlights-toy-agona",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T23:16+00:00",
+"sport": "basket",
+"snippet": "Δείτε τα highlights από τη νίκη του Ερυθρού Αστέρα με 62-57 εις βάρος του Ολυμπιακού στη SUNEL Arena.",
+"also": [],
+"id": "f1178f702898"
+},
 {
 "title": "Ολυμπιακός στη... σφαίρα του ανεξήγητου - Χρήσιμο «καμπανάκι» με ένα κέρδος εξ Αμερικής",
 "url": "http://www.sport-fm.gr/article/5159384",
@@ -143,7 +155,15 @@
 "published": "2026-11-06T21:57+00:00",
 "sport": "basket",
 "snippet": "",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1484249_ta-highlights-tis-ittas-toy-olympiakoy-apo-ton-erythro-astera-vid",
+"title": "Τα highlights της ήττας του Ολυμπιακού από τον Ερυθρό Αστέρα (vid)",
+"published": "2026-11-06T23:14+00:00"
+}
+],
 "id": "1037d88a9442"
 },
 {
@@ -5121,33 +5141,6 @@
 "snippet": "Ο ΠΑΟΚ για εντυπωσιακό... all in.",
 "also": [],
 "id": "9455bafcf6fb"
-},
-{
-"title": "ΚΑΕ Ολυμπιακός: «Πειθαρχική διαδικασία κατά του Δ. Γιαννακόπουλου»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2583360/kae-olympiakos-peitharhiki-diadikasia-kata-toy-d-giannakopoyloy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T18:59+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Ολυμπιακός ενημέρωσε τους φιλάθλους του πως στις 29/10 η ΚΑΕ Παναθηναϊκός τιμωρήθηκε από τον Πειθαρχικό Δικαστή EuroLeague, ενώ επίσης έχει κινηθεί με…",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5158620",
-"title": "Ολυμπιακός: «Πειθαρχική διαδικασία κατά Γιαννακόπουλου από την Ευρωλίγκα»",
-"published": "2026-11-03T19:01+00:00"
-},
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/kae-olympiakos-xekinise-peitharchiki-diadikasia-kata-toy-dimitri-giannakopoyloy-1332313",
-"title": "ΚΑΕ Ολυμπιακός: «Ξεκίνησε πειθαρχική διαδικασία κατά του Δημήτρη Γιαννακόπουλου»",
-"published": "2026-11-03T20:50+00:00"
-}
-],
-"id": "9daf24aa0837"
 }
 ]
 }
