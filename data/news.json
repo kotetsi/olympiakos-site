@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-06T10:18:52+00:00",
-"count": 339,
+"generated_at": "2026-11-06T10:33:59+00:00",
+"count": 341,
 "items": [
+{
+"title": "Μπάτλερ: «Δεν έχω κάποιο επιπλέον κίνητρο απέναντι στον Ολυμπιακό»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584160/mpatler-den-eho-kapoio-epipleon-kinitro-apenanti-ston-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T10:31+00:00",
+"sport": "basket",
+"snippet": "Ο Τζάρεντ Μπάτλερ δεν βλέπει την αναμέτρηση του Ερυθρού Αστέρα με τον Ολυμπιακό ως μια προσωπική ευκαιρία να αποδείξει κάτι, όπως ξεκαθάρισε σε συνέντευξή του…",
+"also": [],
+"id": "7dbd302c4324"
+},
+{
+"title": "Ολυμπιακός – Ερυθρός Αστέρας: Οι 100άρες και το 69",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-erithros-asteras-i-100ares-ton-servon-ke-to-69-tis-aminas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T10:21+00:00",
+"sport": "general",
+"snippet": "Ολυμπιακός – Ερυθρός Αστέρας με διαφορετική πρόβλεψη. Οι Σέρβοι έρχονται από δύο 100άρες, όμως ο Ολυμπιακός στα Λιόσια δέχεται μόλις 69,3 πόντους.",
+"also": [],
+"id": "3ef6383ddca8"
+},
 {
 "title": "«Ερυθρόλευκη» μάχη με Ενισχυμένες Αποδόσεις* μέχρι 4.00 και Βεζένκοφ μπροστάρη!",
 "url": "https://www.sdna.gr/stoihima/1484067_erythroleyki-mahi-me-enishymenes-apodoseis-mehri-400-kai-bezenkof-mprostari",
@@ -11,7 +35,15 @@
 "published": "2026-11-06T10:15+00:00",
 "sport": "general",
 "snippet": "Ο Ολυμπιακός υποδέχεται τον Ερυθρό Αστέρα στις 21:15, σε μία αναμέτρηση με ξεχωριστό ενδιαφέρον. Η μάχη για τη νίκη και...",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/category/every-day-bet/article/15216086/me-vezenkof-mprostari-o-olympiakos-paei-gia-ti-niki-me-enisxymenes-apodoseis-mexri-4-00/",
+"title": "Με Βεζένκοφ μπροστάρη, ο Ολυμπιακός πάει για τη νίκη, με Ενισχυμένες Αποδόσεις* μέχρι 4.00!",
+"published": "2026-11-06T10:17+00:00"
+}
+],
 "id": "bdbabd2f4e8d"
 },
 {
