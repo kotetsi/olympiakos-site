@@ -1,26 +1,18 @@
 {
-"generated_at": "2026-11-06T19:24:35+00:00",
+"generated_at": "2026-11-06T19:39:44+00:00",
 "count": 400,
 "items": [
 {
-"title": "Στην Sunel Arena για το Ολυμπιακός - Ερυθρός ο Νόβακ Τζόκοβιτς",
-"url": "https://www.sdna.gr/mpasket/1484210_stin-sunel-arena-gia-olympiakos-erythros-o-nobak-tzokobits",
-"source": "sdna",
-"source_name": "SDNA",
+"title": "ΠΑΟΚ: Με τρία στόπερ κόντρα στον Ολυμπιακό",
+"url": "https://sportime.gr/paok/paok-me-tria-stoper-kontra-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
 "official": false,
-"published": "2026-11-06T19:20+00:00",
-"sport": "basket",
-"snippet": "Ο Νόβακ Τζόκοβιτς δίνει το παρών στην Sunel Arena για να παρακολουθήσει από κοντά την αναμέτρηση του Ολυμπιακού με τον Ερυθρό Αστέρα.",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584320/olympiakos-erythros-asteras-sti-sunel-arena-o-nobak-tzokobits",
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Στη Sunel Arena ο Νόβακ Τζόκοβιτς!",
-"published": "2026-11-06T19:23+00:00"
-}
-],
-"id": "e46a40a7fe3a"
+"published": "2026-11-06T19:21+00:00",
+"sport": "general",
+"snippet": "Ο ΠΑΟΚ εξετάζει σχηματισμό 3-5-2 απέναντι στον Ολυμπιακό, με τρεις στόπερ, τον Αντρίγια Ζίβκοβιτς σε ρόλο φουλ μπακ και δύο επιθετικούς.",
+"also": [],
+"id": "365ff713b18f"
 },
 {
 "title": "Ολυμπιακός: Στο στόχαστρο ο Βλαντιμίρ Σκρέτσιου",
@@ -57,6 +49,33 @@
 "snippet": "Ο Ολυμπιακός φιλοξενεί τον Ερυθρό Αστέρα στην \"SUNEL Arena\" για την 10η αγωνιστική της Euroleague (06/11, 21:15, ΕΡΑ ΣΠΟΡ). The post Live: Ολυμπιακός – Ερυθρός…",
 "also": [],
 "id": "32fe196238f9"
+},
+{
+"title": "Ολυμπιακός – Ερυθρός Αστέρας: Στη Sunel Arena ο Τζόκοβιτς! (video)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216818/olympiakos-erythros-asteras-sti-sunel-arena-o-tzokovits-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T19:15+00:00",
+"sport": "basket",
+"snippet": "Οι Πειραιώτες φιλοξενούν τον Ερυθρό Αστέρα (21:15, Novasports Prime) στη Sunel Arena για τη 10η αγωνιστική της EuroLeague και στο γήπεδο βρίσκεται ο Νόβακ…",
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1484210_stin-sunel-arena-gia-olympiakos-erythros-o-nobak-tzokobits",
+"title": "Στην Sunel Arena για το Ολυμπιακός - Ερυθρός ο Νόβακ Τζόκοβιτς",
+"published": "2026-11-06T19:20+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584320/olympiakos-erythros-asteras-sti-sunel-arena-o-nobak-tzokobits",
+"title": "Ολυμπιακός - Ερυθρός Αστέρας: Στη Sunel Arena ο Νόβακ Τζόκοβιτς!",
+"published": "2026-11-06T19:23+00:00"
+}
+],
+"id": "31d1b6d34830"
 },
 {
 "title": "Διαμαντίδης: “Υπήρχε ενδιαφέρον από τον Ολυμπιακό – Σάρας, το 13 είναι δικό μου”",
@@ -5182,18 +5201,6 @@
 "snippet": "Ο Βάσκος τεχνικός του Ολυμπιακού θέλει να φρεσκάρει την ενδεκάδα της ομάδας του στην αναμέτρηση της Τετάρτης, προκειμένου να παρουσιάσει καλύτερο αγωνιστικό…",
 "also": [],
 "id": "a2e59455dcb3"
-},
-{
-"title": "Ολυμπιακός: Η αποστολή για το ματς με τη Ρεν",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/olympiakos-i-apostoli-gia-to-mats-me-ti-ren/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-03T08:10+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός αναχώρησε για τη Γαλλία, με αποστολή 23 ποδοσφαιριστών, ενόψει της αναμέτρησης με τη Ρεν (04/11, 17:30, ΕΡΑ ΣΠΟΡ) στη Βρετάνη, στο πλαίσιο της 4ης…",
-"also": [],
-"id": "d632f3991bd8"
 }
 ]
 }
