@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-06T10:33:59+00:00",
-"count": 341,
+"generated_at": "2026-11-06T10:49:08+00:00",
+"count": 342,
 "items": [
+{
+"title": "Μπάτλερ: «Δεν έχω έξτρα κίνητρο κόντρα στον Ολυμπιακό»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216077/mpatler-den-exo-ekstra-kinitro-kontra-ston-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T10:42+00:00",
+"sport": "basket",
+"snippet": "Ο Αμερικανός γκαρντ τόνισε πως το ενδιαφέρον του Ολυμπιακού δεν αποτελεί για εκείνον κάποια παραπάνω ώθηση, για να αποδείξει την αξία του στον αγώνα των Άνω…",
+"also": [],
+"id": "b28c73cee0fd"
+},
 {
 "title": "Μπάτλερ: «Δεν έχω κάποιο επιπλέον κίνητρο απέναντι στον Ολυμπιακό»",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584160/mpatler-den-eho-kapoio-epipleon-kinitro-apenanti-ston-olympiako",
@@ -255,7 +267,15 @@
 "published": "2026-11-06T08:00+00:00",
 "sport": "football",
 "snippet": "Τα ντέρμπι συνεχίζονται στη Super League. Την Κυριακή, στις 21:00, στο γήπεδο «Γεώργιος Καραϊσκάκης» ο Ολυμπιακός αντιμετωπίζει τον ΠΑΟΚ στο μεγάλο ματς της…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/2584163/ntermpi-olympiakos-paok-sti-super-league-me-enishymenes-apodoseis-apo-pame",
+"title": "Ντέρμπι Ολυμπιακός-ΠΑΟΚ στη Super League με ενισχυμένες αποδόσεις από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+"published": "2026-11-06T10:37+00:00"
+}
+],
 "id": "9d1d421d53b7"
 },
 {
