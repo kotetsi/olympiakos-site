@@ -66,5 +66,19 @@
   "sport": "football",
   "b_team": false,
   "no_time": false
+ },
+ "2026-11-12-olympiakos-ntoympai": {
+  "title": "Ολυμπιακός - Ντουμπάι",
+  "home": "Ολυμπιακός",
+  "away": "Ντουμπάι",
+  "opp": "Ντουμπάι",
+  "oly_home": true,
+  "start": "2026-11-12T19:15+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  }
 }
