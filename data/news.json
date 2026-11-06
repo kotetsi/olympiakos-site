@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-06T08:32:53+00:00",
-"count": 325,
+"generated_at": "2026-11-06T08:48:02+00:00",
+"count": 327,
 "items": [
+{
+"title": "Ολυμπιακός-Ερυθρός Αστέρας με ενισχυμένες αποδόσεις και «20 & Kάρφωσες»* από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2031320/olimpiakos-erithros-asteras-me-enischimenes-apodosis-ke-20-karfoses-apo-to-pame-stichima/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-06T08:40+00:00",
+"sport": "basket",
+"snippet": "Στη Euroleague ολοκληρώνεται σήμερα η 11η αγωνιστική. Στις 21:15 ο Ολυμπιακός υποδέχεται τον Ερυθρό Αστέρα με στόχο την νίκη που θα τον ανεβάσει στην κορυφή…",
+"also": [],
+"id": "5e2a7e708fe6"
+},
+{
+"title": "Ολυμπιακός: Με επιστροφή και ντεμπούτο κόντρα στον Ερυθρό Αστέρα",
+"url": "https://www.metrosport.gr/olympiakos-me-epistrofi-kai-ntempoyto-kontra-ston-erythro-astera-1332576",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-06T08:35+00:00",
+"sport": "basket",
+"snippet": "Πέφτει σήμερα (6/11) η αυλαία της 10ης αγωνιστικής της Euroleague με συνολικά τέσσερις αναμετρήσεις και τον Ολυμπιακό να περιμένει στα Άνω Λιόσια τον ...",
+"also": [],
+"id": "43db991bce82"
+},
 {
 "title": "ΠΑΟΚ: Το ντέρμπι με τον Ολυμπιακό μπορεί να αλλάξει την ψυχολογία και τα δεδομένα (audio)",
 "url": "https://www.ertsports.gr/super-league/paok-to-ntermpi-me-ton-olympiako-mporei-na-allaksei-tin-psyxologia-kai-ta-dedomena-audio/",
@@ -203,7 +227,15 @@
 "published": "2026-11-06T06:15+00:00",
 "sport": "football",
 "snippet": "Οι πιθανότητες του Ολυμπιακού να βρεθεί στην πρώτη οκτάδα και του ΟΦΗ να πάρει την πρόκριση στον επόμενο γύρο του Europa League.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/europa-league-ti-pithanotites-echoyn-gia-prokrisi-olympiakos-kai-ofi-gia-prokrisi-1332572",
+"title": "Europa League: Τι πιθανότητες έχουν για πρόκριση Ολυμπιακός και ΟΦΗ για πρόκριση",
+"published": "2026-11-06T08:21+00:00"
+}
+],
 "id": "a0ea4d0fbe53"
 },
 {
