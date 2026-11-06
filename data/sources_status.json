@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-06T18:24:01+00:00",
+ "checked_at": "2026-11-06T18:39:09+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -21,13 +21,13 @@
    "feeds": [
     "https://www.sdna.gr/latest.xml"
    ],
-   "items": 3,
+   "items": 2,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-06T18:20"
+     "newest": "2026-11-06T18:35"
     }
    ]
   },
@@ -36,13 +36,13 @@
    "feeds": [
     "https://www.gazzetta.gr/rss"
    ],
-   "items": 6,
+   "items": 8,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-06T18:19"
+     "newest": "2026-11-06T18:38"
     }
    ]
   },
@@ -51,13 +51,13 @@
    "feeds": [
     "https://www.novasports.gr/feed"
    ],
-   "items": 8,
+   "items": 9,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-06T18:16"
+     "newest": "2026-11-06T18:25"
     }
    ]
   },
@@ -79,7 +79,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
      "raw": 20,
-     "newest": "2026-11-06T18:18"
+     "newest": "2026-11-06T18:26"
     },
     {
      "feed": "https://www.sport-fm.gr/list/3.feed",
@@ -130,18 +130,18 @@
     "https://www.metrosport.gr/feed",
     "https://www.metrosport.gr/feed/atom"
    ],
-   "items": 7,
+   "items": 6,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-06T18:00"
+     "newest": "2026-11-06T18:30"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-06T18:00"
+     "newest": "2026-11-06T18:30"
     }
    ]
   },
@@ -150,13 +150,13 @@
    "feeds": [
     "https://www.ertsports.gr/feed/"
    ],
-   "items": 3,
+   "items": 4,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-06T18:03"
+     "newest": "2026-11-06T18:19"
     }
    ]
   },
