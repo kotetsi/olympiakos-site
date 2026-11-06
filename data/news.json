@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-06T19:54:54+00:00",
+"generated_at": "2026-11-06T20:10:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Από συμπαίκτες αντίπαλοι οι Γκονζάλες και Μπέιλι!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/diethneis-pagkosmio-podosfairo/article/15216958/olympiakos-apo-sympaiktes-antipaloi-oi-gkonzales-kai-mpeili/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T20:08+00:00",
+"sport": "football",
+"snippet": "Μια ξεχωριστή ιστορία με πρωταγωνιστές δύο ποδοσφαιριστές του Ολυμπιακού αναδεικνύει η μεξικανική Marca, εν όψει των αναμετρήσεων του Μεξικού με την Τζαμάικα…",
+"also": [],
+"id": "53964fbd1f85"
+},
+{
+"title": "Αποθεώθηκαν οι Τόμιτς και Τεόντοσιτς από τον κόσμο του Ολυμπιακού στη SUNEL Arena!",
+"url": "http://www.sport-fm.gr/article/5159374",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-06T19:50+00:00",
+"sport": "general",
+"snippet": "Οι Μίλαν Τόμιτς και Μίλος Τεόντοσιτς γνώρισαν την αποθέωση στη SUNEL Arena από τους φίλους του Ολυμπιακού.",
+"also": [],
+"id": "63a0f06a721c"
+},
 {
 "title": "Ολυμπιακός - Ερυθρός Αστέρας: Το άστοχο πρώτο δεκάλεπτο των Πειραιωτών",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584323/olympiakos-erythros-asteras-astoho-proto-dekalepto-ton-peiraioton",
@@ -39,7 +63,7 @@
 "id": "fcb74d565881"
 },
 {
-"title": "Παρών στη Sunel Arena ο Τζόκοβιτς για το Ολυμπιακός - Ερυθρός Αστέρας – Φωτογραφήθηκε με τους Αγγελόπουλους",
+"title": "Παρών στη Sunel Arena ο Τζόκοβιτς για το Ολυμπιακός-Ερυθρός Αστέρας, φωτογραφήθηκε με τους Αγγελόπουλους",
 "url": "http://www.sport-fm.gr/article/5159372",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -5177,30 +5201,6 @@
 "snippet": "Οι δυο ομάδες θα προσπαθήσουν να πάρουν το εισιτήριο της πρόκρισης, για την επόμενη φάση της διοργάνωσης. Οι αναμετρήσεις της προημιτελικής φάσης είναι…",
 "also": [],
 "id": "257190ec6f36"
-},
-{
-"title": "Ρεν: Το πέναλτι που μπορεί να αξιοποιήσει ο Ολυμπιακός",
-"url": "https://sportime.gr/europa-league/ren-i-dio-amfivoli-ke-to-penalti-pou-dichni-tin-efkeria-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T10:51+00:00",
-"sport": "football",
-"snippet": "Ο Σαμπά και ο Λεπόλ παραμένουν αμφίβολοι για τη Ρεν. Το πέναλτι του Λεμέτρ στη Νίκαια δείχνει την ευκαιρία που μπορεί να αναζητήσει ο Ολυμπιακός.",
-"also": [],
-"id": "37f925361a04"
-},
-{
-"title": "Ολυμπιακός: Οι δύο φορ που κρίνουν τις επιλογές Ιμανόλ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-apostoli-gia-ren-ekrive-to-megalitero-dilimma-tou-imanol-stin-epithesi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T10:28+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ταξιδεύει στη Ρεν με 23 παίκτες, αλλά μόνο δύο καθαρούς φορ. Οι Γκονσάλες και Γιάρεμτσουκ έχουν πετύχει τρία από τα τέσσερα ευρωπαϊκά γκολ.",
-"also": [],
-"id": "b8e5c178d3dd"
 }
 ]
 }
