@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-06T18:54:17+00:00",
+"generated_at": "2026-11-06T19:09:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι Φρόιλερ, Πόποβιτς και Κορδόν στο γήπεδο για το ματς με Ερυθρό Αστέρα",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584315/olympiakos-oi-froiler-popobits-kai-kordon-sto-gipedo-gia-mats-me",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T19:06+00:00",
+"sport": "basket",
+"snippet": "Οι 2 παίκτες του ποδοσφαιρικού Ολυμπιακού και το στέλεχος της πειραϊκής ΠΑΕ είναι παρόντες στο γήπεδο για το παιχνίδι με τον Ερυθρό Αστέρα.",
+"also": [],
+"id": "42ff66d82283"
+},
+{
+"title": "Extra Time LIVE μετά το παιχνίδι του Ολυμπιακού με τον Ερυθρό Αστέρα",
+"url": "https://www.eurohoops.net/el/trademarks-el/2031415/extra-time-live-meta-to-pechnidi-tou-olimpiakou-me-ton-erithro-astera/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-06T18:56+00:00",
+"sport": "basket",
+"snippet": "Παιχνίδι ελληνικής ομάδας στην Ευρωλίγκα σημαίνει... Extra Time, αμέσως μετά τη λήξη της αναμέτρησης, με σχολιασμό, ανάλυση, ρεπορτάζ και συνδέσεις με το…",
+"also": [],
+"id": "8b21c3414afb"
+},
+{
+"title": "Ολυμπιακός: Τι λένε… τα κομπιούτερ κι οι αριθμοί για τις πιθανότητές του στο Europa League",
+"url": "https://sportday.gr/podosfairo/364455_olympiakos-ti-lene-ta-kompiouter-ki-oi-arithmoi-gia-tis-pithanotites-tou-sto-europa-league.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-06T18:55+00:00",
+"sport": "football",
+"snippet": "Τι αναφέρουν οι πιθανότητες του Football Meets Data για τον Ολυμπιακό στο Europa League μετά το εξαιρετικό του ξεκίνημα.",
+"also": [],
+"id": "61b3d2ab6dad"
+},
+{
+"title": "Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός»",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15216845/thanou-pseydetai-i-kae-olympiakos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T18:54+00:00",
+"sport": "basket",
+"snippet": "Η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός, Μαργαρίτα Θάνου, απάντησε στους ισχυρισμούς της ΚΑΕ Ολυμπιακός σχετικά με τις δηλώσεις της για τα πρόσωπα που…",
+"also": [],
+"id": "ea45d312e0fb"
+},
 {
 "title": "Ολυμπιακός: Μεταγραφικά σενάρια για 4 παίκτες της Κραϊόβα",
 "url": "https://www.gazzetta.gr/football/superleague/2584310/olympiakos-metagrafika-senaria-gia-4-paiktes-tis-kraioba",
@@ -13,6 +61,26 @@
 "snippet": "Με βάση πληροφορίες από ξένο ρεπόρτερ ο Ολυμπιακός και η Μπρεστ τσεκάρουν και φέρονται να ενδιαφέρονται για 4 παίκτες της Κραϊόβα.",
 "also": [],
 "id": "9d9c63b083cd"
+},
+{
+"title": "Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός, επανέλαβα κατά λέξη τις δηλώσεις μου και αθωώθηκα»",
+"url": "http://www.sport-fm.gr/article/5159363",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-06T18:49+00:00",
+"sport": "basket",
+"snippet": "Η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός, Μαργαρίτα Θάνου, απάντησε στους ισχυρισμούς της ΚΑΕ Ολυμπιακός για τη φράση της περί των εμπλεκομένων στο σκάνδαλο…",
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1484206_thanoy-pseydetai-i-kae-olympiakos-epanelaba-kata-lexi-tis-diloseis-moy-kai",
+"title": "Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός, επανέλαβα κατά λέξη τις δηλώσεις μου και αθωώθηκα»",
+"published": "2026-11-06T19:00+00:00"
+}
+],
+"id": "96bc764981b1"
 },
 {
 "title": "Live: Ολυμπιακός - Ερυθρός Αστέρας (Euroleague 2026-27)",
@@ -49,6 +117,13 @@
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216836/me-fournie-kai-kontsar-i-dodekada-tou-olympiakou-kontra-ston-erythro-astera/",
 "title": "Με Φουρνιέ και Κόντσαρ η δωδεκάδα του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα",
 "published": "2026-11-06T18:46+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5159366",
+"title": "Ολυμπιακός: Στη 12άδα Φουρνιέ και Κόντσαρ με Ερυθρό Αστέρα",
+"published": "2026-11-06T18:57+00:00"
 }
 ],
 "id": "feb662595390"
@@ -5096,66 +5171,6 @@
 "snippet": "Είναι αυτές οι λεπτομέρειες που κάνουν τη διαφορά και έχουν δώσει το αήττητο σερί στον Ολυμπιακό με τον Ιμανόλ στον πάγκο.",
 "also": [],
 "id": "67f2d74c94d0"
-},
-{
-"title": "Ολυμπιακός: Τα διλήμματα Ιμανόλ στην προπόνηση στη Ρεν",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-simerini-proponisi-sti-ren-tha-dixi-tis-epiloges-tou-imanol?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T06:35+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός προπονείται απόψε στη Ρεν. Η ευρωπαϊκή λίστα, οι απουσίες και οι θέσεις που εξετάζει ο Ιμανόλ πριν από τον αγώνα της Τετάρτης στη Γαλλία.",
-"also": [],
-"id": "22454f52e72f"
-},
-{
-"title": "Μπάσκετ Γυναικών: Για να κάνει σεφτέ ο Αθηναϊκός, μάχη στην Ισπανία ο Ολυμπιακός",
-"url": "http://www.sport-fm.gr/article/5158432",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-03T06:31+00:00",
-"sport": "basket",
-"snippet": "Ημέρα ευρωπαϊκών αναμετρήσεων η σημερινή (3/11) με τον Αθηναϊκό να υποδέχεται την Κιμπίρκστις στην Ευρωλίγκα (20:30) και τον Ολυμπιακό να δοκιμάζεται στην έδρα…",
-"also": [],
-"id": "dbeb6a723760"
-},
-{
-"title": "Ολυμπιακός: Η αποστολή Φουστέρ πέρα από τις μεταγραφές",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fouster-analamvani-ti-doulia-pou-den-fenete-stis-metagrafes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T05:53+00:00",
-"sport": "football",
-"snippet": "Ο Φουστέρ επιστρέφει στον Ολυμπιακό με στόχο να συνδέσει πρώτη και δεύτερη ομάδα. Οι 15 νέες υπογραφές και οι ευκαιρίες των νεαρών δείχνουν το στοίχημα.",
-"also": [],
-"id": "5b42b36c5e48"
-},
-{
-"title": "Ολυμπιακός: Η άμυνα καλύπτει τον Μοντέρο",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-amina-kalipti-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-02T21:29+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει την απουσία του Ζαν Μοντέρο με όπλο την άμυνα, καθώς τα στοιχεία της EuroLeague αναδεικνύουν την αμυντική αποτελεσματικότητά του.",
-"also": [],
-"id": "b65be79267f5"
-},
-{
-"title": "Το πρόγραμμα του αγώνα Stade Rennais – Ολυμπιακός",
-"url": "https://www.olympiacos.org/2026/11/02/to-programma-tou-agona-stade-rennais-olympiakos/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-02T14:53+00:00",
-"sport": "general",
-"snippet": "Οι ώρες των συνεντεύξεων Τύπου και των προπονήσεων Stade Rennais - Ολυμπιακού, ενόψει του αγώνα της Τετάρτης (4/11).",
-"also": [],
-"id": "0bb583f7f7a5"
 }
 ]
 }
