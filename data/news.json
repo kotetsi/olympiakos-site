@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-06T21:55:55+00:00",
+"generated_at": "2026-11-06T22:11:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τζόσεφ: «Άσχημο να σκοράρεις 22 πόντους - Στο 2ο ημίχρονο παίξαμε το μπάσκετ του Ολυμπιακού»",
+"url": "https://www.sdna.gr/mpasket/1484237_tzosef-ashimo-na-skorareis-22-pontoys-sto-2o-imihrono-paixame-mpasket-toy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T22:04+00:00",
+"sport": "basket",
+"snippet": "Μετά την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα, ο Κόρι Τζόσεφ στάθηκε στους 22 πόντους του πρώτο ημιχρόνου και στην βελτίωση στην επανάληψη.",
+"also": [],
+"id": "575738f09599"
+},
+{
+"title": "Το πανόραμα της Euroleague: Στην μοναξιά της κορυφής ο Παναθηναϊκός μετά την ήττα του Ολυμπιακού",
+"url": "https://www.sdna.gr/mpasket/1484236_panorama-tis-euroleague-stin-monaxia-tis-koryfis-o-panathinaikos-meta-tin-itta-toy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T22:03+00:00",
+"sport": "basket",
+"snippet": "Ολοκληρώθηκε η 10η αγωνιστική της Euroleague με τον Παναθηναϊκό να απολαμβάνει ξανά την μοναξιά της κορυφής με ρεκόρ 8-2.",
+"also": [],
+"id": "331a188b5ca6"
+},
+{
+"title": "Ολυμπιακός: Άγγιξε την ανατροπή",
+"url": "https://sportime.gr/protoselido-sportime/protoselido-sportime-711-o-olimpiakos-angixe-tin-anatropi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T22:01+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός επέστρεψε από το -22 απέναντι στον Ερυθρό Αστέρα και μείωσε στους δύο πόντους, αλλά γνώρισε την ήττα και έπεσε πέμπτος στη EuroLeague.",
+"also": [],
+"id": "a4f905ca83ac"
+},
+{
+"title": "VIDEO: Tα highlights της ήττας του Ολυμπιακού από τον Ερυθρό Αστέρα",
+"url": "https://sportday.gr/video/364500_video-ta-highlights-tis-ittas-tou-olympiakou-apo-ton-erythro-astera.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-06T21:57+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "1037d88a9442"
+},
+{
+"title": "Ολυμπιακός: O Σκρέτσιου και ο Παλαιστίνιος επιθετικός",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15217205/olympiakos-o-skretsiou-kai-o-palaistinios-epithetikos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T21:56+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός έχει στρέψει το βλέμμα του στην Κραϊόβα, καθώς, σύμφωνα με δημοσίευμα της ρουμανικής GSP, παρακολούθησε τον Βλαντιμίρ Σκρέτσιου, αλλά και άλλους…",
+"also": [],
+"id": "1e8395bb8bd9"
+},
+{
+"title": "“Διπλός” Νουόρα με career high απέναντι στον Ολυμπιακό, όμως: “Η άμυνα έκανε τη διαφορά”",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2031590/nouora-i-amina-ekane-ti-diafora-sto-finale/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-06T21:50+00:00",
+"sport": "basket",
+"snippet": "Ο Τζόρνταν Νουόρα με μία πολύ καλή εμφάνιση έδωσε την νίκη στον Ερυθρό Αστέρα με 62-57 επί του Ολυμπιακού. The post “Διπλός” Νουόρα με career high απέναντι…",
+"also": [],
+"id": "f3b9ff3f161e"
+},
 {
 "title": "Ναβάρο: «Απέναντι στον Ολυμπιακό το παιχνίδι δεν τελειώνει ποτέ»",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15217191/navaro-apenanti-ston-olympiako-to-paixnidi-den-teleionei-pote/",
@@ -13,6 +85,18 @@
 "snippet": "Παράλληλα, αναφέρθηκε στην επίδραση του Κολόκο στην ομάδα του, εκφράζοντας την απόλυτη ικανοποίησή του. Αναλυτικά όσα δήλωσε στη συνέντευξη Τύπου…",
 "also": [],
 "id": "c260faaad48d"
+},
+{
+"title": "Ολυμπιακός: Βάλε μέσα τον Τεόντοσιτς...",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584338/mpasket-poy-kanei-ta-matia-na-matonoyn",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T21:45+00:00",
+"sport": "basket",
+"snippet": "Ο Νίκος Παπαδογιάννης πιστεύει ότι το ηρωικό μπάσκετ δεν ταιριάζει καθόλου στον Ολυμπιακό.",
+"also": [],
+"id": "d981a819dfe0"
 },
 {
 "title": "Ναβάρο: «Όταν παίζεις με τον Ολυμπιακό το παιχνίδι δεν τελειώνει ποτέ - Απόλυτα ικανοποιημένοι με τον Κολόκο»",
@@ -5071,113 +5155,6 @@
 }
 ],
 "id": "d3329c7af90b"
-},
-{
-"title": "Ολυμπιακός – ΝΟΠΕΡ 3-0: Με άνεση στα ημιτελικά του Novibet League Cup οι «ερυθρόλευκοι»",
-"url": "https://www.gazzetta.gr/volleyball/league-cup/2583352/olympiakos-noper-3-0-me-anesi-sta-imitelika-toy-novibet-league-cup-oi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T17:54+00:00",
-"sport": "volley",
-"snippet": "Χωρίς να συναντήσει το παραμικρό πρόβλημα ο Ολυμπιακός επικράτησε του ΝΟΠΕΡ με 3-0 και προκρίθηκε στα ημιτελικά του Novibet League Cup όπου και θα…",
-"also": [],
-"id": "955d2771171e"
-},
-{
-"title": "Εύκολα στα ημιτελικά του Λιγκ Καπ “Νίκος Σαμαράς” ο Ολυμπιακός",
-"url": "https://www.ertsports.gr/bolei/eykola-sta-imitelika-tou-ligk-kap-nikos-samaras-o-olympiakos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-03T17:54+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Σ.Φ.Π. ΟΝΕΧ είναι η πρώτη ομάδα που προκρίθηκε στα ημιτελικά του Novibet L.C. Nikos Samaras 2026-27. Στον πρώτο νοκ άουτ προημιτελικό που έγινε…",
-"also": [],
-"id": "336351134424"
-},
-{
-"title": "Καμαβινγκά: «Δεν νομίζω να θέλει να φύγει ο Βινίσιους, ο Μουρίνιο είναι θρύλος»",
-"url": "https://www.ertsports.gr/omades/real-madritis/kamavingka-den-nomizo-na-thelei-na-fygei-o-vinisious-o-mourinio-einai-thrylos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-03T17:48+00:00",
-"sport": "football",
-"snippet": "Ο Εντουάρντο Καμαβινγκά τοποθετήθηκε γύρω από τα ζητήματα που αφορούν τη Ρεάλ Μαδρίτης, πριν το παιχνίδι με την ΑΕΚ για τη League Phase του Champions League…",
-"also": [],
-"id": "9a1672551c33"
-},
-{
-"title": "Ολυμπιακός: Είδηση αν δεν παίξει ο Γκονζάλες!",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-idisi-an-den-pexi-o-armanto-gkonzales?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T17:39+00:00",
-"sport": "general",
-"snippet": "Ο Ρόμαν Γιάρεμτσουκ προβληματίζει με τις εμφανίσεις του και ο Αρμάντο Γκονζάλες διεκδικεί θέση βασικού στον Ολυμπιακό απέναντι στη Ρεν.",
-"also": [],
-"id": "255a5870846e"
-},
-{
-"title": "Αλγουαθίλ: «Είμαστε ο Ολυμπιακός και ήρθαμε για το 4/4»",
-"url": "http://www.sport-fm.gr/article/5158608",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-03T17:37+00:00",
-"sport": "general",
-"snippet": "Διαβάστε τι δήλωσε ο Ιμανόλ Αλγουαθίλ ενόψει του Ρεν-Ολυμπιακός.",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/algouathil-eimaste-o-olympiakos-kai-irthame-gia-to-4-4/",
-"title": "Αλγουαθίλ: «Είμαστε ο Ολυμπιακός και ήρθαμε για το 4/4»",
-"published": "2026-11-03T17:59+00:00"
-}
-],
-"id": "a2a7b5428a45"
-},
-{
-"title": "Ολυμπιακός: Ο Αλγκουαθίλ έδωσε τα συλλυπητήριά του για τον Ντε Μιγκέλ",
-"url": "https://www.gazzetta.gr/football/europa-league/2583344/olympiakos-o-algkoyathil-edose-ta-syllypitiria-toy-gia-ton-nte",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T17:32+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ έστειλε μέσα από τη συνέντευξη Τύπου του Ολυμπιακού το δικό του μήνυμα μετά τον απροσδόκητο θάνατο του Χεσούς Ντε Μιγκέλ Αλαμέδα.",
-"also": [],
-"id": "266217cc4dd3"
-},
-{
-"title": "Αλγουαθίλ: «Ολυμπιακός είμαστε και έχουμε έρθει για το 4 στα 4»!",
-"url": "https://www.gazzetta.gr/football/europa-league/2583342/algoyathil-olympiakos-eimaste-kai-ehoyme-erthei-gia-4-sta-4",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T17:26+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός δίνει την Τετάρτη κόντρα στη Ρεν ένα απαιτητικό και σημαντικό παιχνίδι, με τον τεχνικό του Ιμανόλ Αλγκουαθίλ να τονίζει πως στόχος της ομάδας του…",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15210903/algkouathil-eimaste-olympiakos-kai-exoume-erthei-gia-to-4-sta-4/",
-"title": "Αλγκουαθίλ: «Είμαστε Ολυμπιακός και έχουμε έρθει για το 4 στα 4!»",
-"published": "2026-11-03T17:33+00:00"
-},
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/364153_imanol-algouathil-eimaste-olympiakos-echoume-erthei-gia-to-4-4.html",
-"title": "Ιμανόλ Αλγουαθίλ: «Είμαστε Ολυμπιακός, έχουμε έρθει για το 4/4»",
-"published": "2026-11-03T17:40+00:00"
-}
-],
-"id": "54439678c581"
 }
 ]
 }
