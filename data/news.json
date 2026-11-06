@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-06T22:41:17+00:00",
+"generated_at": "2026-11-06T22:56:25+00:00",
 "count": 400,
 "items": [
 {
@@ -10,7 +10,7 @@
 "official": false,
 "published": "2026-11-06T22:27+00:00",
 "sport": "general",
-"snippet": "..............",
+"snippet": "Ακούστε πώς σχολίασαν οι παραγωγοί του bwinΣΠΟΡ FM 94,6 την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα.",
 "also": [],
 "id": "991fc60c5369"
 },
@@ -51,7 +51,7 @@
 "id": "b0d4c05e7ed7"
 },
 {
-"title": "«Μονοδιάστατος ο Ολυμπιακός έχανε τα άχαστα, θετικό ντεμπούτο Κόντσαρ»: Το σχόλιο Ζέρβα από τη SUNEL Arena",
+"title": "«Μονοδιάστατος ο Ολυμπιακός, έχανε τα άχαστα, θετικό ντεμπούτο Κόντσαρ»: Το σχόλιο Ζέρβα από τη SUNEL Arena",
 "url": "http://www.sport-fm.gr/article/5159402",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -167,7 +167,15 @@
 "published": "2026-11-06T21:49+00:00",
 "sport": "basket",
 "snippet": "Παράλληλα, αναφέρθηκε στην επίδραση του Κολόκο στην ομάδα του, εκφράζοντας την απόλυτη ικανοποίησή του. Αναλυτικά όσα δήλωσε στη συνέντευξη Τύπου…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584354/nabaro-apenanti-ston-olympiako-tipota-den-teleionei-pote",
+"title": "Ναβάρο: «Απέναντι στον Ολυμπιακό τίποτα δεν τελειώνει ποτέ»",
+"published": "2026-11-06T22:50+00:00"
+}
+],
 "id": "c260faaad48d"
 },
 {
