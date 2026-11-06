@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-06T17:23:21+00:00",
-"count": 376,
+"generated_at": "2026-11-06T17:38:30+00:00",
+"count": 384,
 "items": [
+{
+"title": "Ολυμπιακός: Το αήττητο σερί συνεχίζεται κόντρα στον Παναθηναϊκό!",
+"url": "https://www.novasports.gr/roi-enimerosis/article/15216490/olympiakos-to-aittito-seri-synexizetai-kontra-ston-panathinaiko/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T17:36+00:00",
+"sport": "general",
+"snippet": "Οι «ερυθρόλευκοι» έχουν πάρει τον άερα του αιώνιου αντιπάλου τους, αφού παραμένουν αήττητοι για περισσότερο από 25 χρόνια. Συγκεκριμένα, τελευταία νίκη του…",
+"also": [],
+"id": "5e0c5ff6a6b9"
+},
+{
+"title": "Ολυμπιακός: Επιπλέον εισιτήρια για το ντέρμπι με τον ΠΑΟΚ",
+"url": "https://www.ertsports.gr/podosfairo/olympiakos-epipleon-eisitiria-gia-to-ntermpi-me-ton-paok/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-06T17:34+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός στρέφει την προσοχή του στη Super League, όπου την Κυριακή (8/11, 21:00) υποδέχεται τον ΠΑΟΚ στο «Γεώργιος Καραϊσκάκης» για τη 10η αγωνιστική του…",
+"also": [],
+"id": "e494283d856b"
+},
+{
+"title": "Τέλος χρόνου για Μπέιλι στον Ολυμπιακό",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1484182_telos-hronoy-gia-mpeili-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T17:23+00:00",
+"sport": "football",
+"snippet": "Το υπερόπλο της Ρεν που είχε απασχολήσει και μεταγραφικά τον Ολυμπιακό και η σύγκριση με τον Λέον Μπέιλι που ήρθε η ώρα να δώσει απαντήσεις.",
+"also": [],
+"id": "c6af2f0c6d98"
+},
+{
+"title": "Ολυμπιακός - Παναθηναϊκός 15-12: Στα «ερυθρόλευκα» ξανά το ντέρμπι «αιωνίων»",
+"url": "https://www.gazzetta.gr/polo/a1-andron/2584287/olympiakos-panathinaikos-15-12-sta-erythroleyka-xana-proto-ntermpi-aionion",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T17:22+00:00",
+"sport": "polo",
+"snippet": "Το πρώτο ντέρμπι «αιωνίων» στη σεζόν ήταν πραγματικό ντέρμπι και πάλι είχε χρώμα «ερυθρόλευκο», με τον Ολυμπιακό να νικά τον Παναθηναϊκό με 15-12 στον Πειραιά…",
+"also": [],
+"id": "185c0446d101"
+},
 {
 "title": "Ολυμπιακός - Παναθηναϊκός 15-13",
 "url": "https://www.sdna.gr/polo/1484181_olympiakos-panathinaikos-15-13",
@@ -27,6 +75,30 @@
 "id": "f089af16d1d6"
 },
 {
+"title": "Ολυμπιακός - Παναθηναϊκός 15-12",
+"url": "https://www.sdna.gr/polo/1484181_olympiakos-panathinaikos-15-12",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T17:20+00:00",
+"sport": "polo",
+"snippet": "Ο Παναθηναϊκός ήταν καλύτερος μόνο στο ξεκίνημα, όταν προηγήθηκε 1-5, ο Ολυμπιακός είχε άμεση αντίδραση και πήρε το πρώτο ντέρμπι της χρονιάς για το...",
+"also": [],
+"id": "aa2bda5e26d2"
+},
+{
+"title": "Ολυμπιακός: Οριακά ο Μανώλης Σάλιακας με ΠΑΟΚ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-oriaka-o-manolis-saliakas-me-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-06T17:19+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός περιμένει τον Μανώλη Σάλιακα ενόψει ΠΑΟΚ. Ο μυϊκός σπασμός στη μέση, οι πιθανότητες συμμετοχής και το προβάδισμα του Μάρκους Πέντερσεν.",
+"also": [],
+"id": "4ac971f47942"
+},
+{
 "title": "Παναθηναϊκός: Απαλλαγή της Μαργαρίτας Θάνου μετά από καταγγελία της ΚΑΕ Ολυμπιακός",
 "url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15216471/panathinaikos-apallagi-tis-margaritas-thanou-meta-apo-kataggelia-tis-kae-olympiakos/",
 "source": "novasports",
@@ -49,6 +121,30 @@
 "snippet": "Ο Ολυμπιακός υποδέχτηκε τον Παναθηναϊκό στο Παπαστράτειο, στο πλαίσιο της 7ης αγωνιστικής της Water Polo League, με την ατμόσφαιρα στις εξέδρες να έχει και το…",
 "also": [],
 "id": "37cad8066625"
+},
+{
+"title": "Ολυμπιακός – Παναθηναϊκός: Το «ερυθρόλευκο» πανό στο Παπαστράτειο",
+"url": "https://www.novasports.gr/sport/alla-spor/event/ellada/article/15216474/olympiakos-panathinaikos-to-erythroleyko-pano-sto-papastrateio/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-06T17:11+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός υποδέχτηκε τον Παναθηναϊκό στο Παπαστράτειο, στο πλαίσιο της 7ης αγωνιστικής της Water Polo League, με την ατμόσφαιρα στις εξέδρες να έχει και το…",
+"also": [],
+"id": "75019af76aa8"
+},
+{
+"title": "Απαλλάχθηκε από την καταγγελία του Ολυμπιακού η Μαργαρίτα Θάνου",
+"url": "http://www.sport-fm.gr/article/5159345",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-06T17:11+00:00",
+"sport": "general",
+"snippet": "Απαλλάχθηκε η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός AKTOR, Μαργαρίτα Θάνου από την καταγγελία που είχε κάνει εις βάρος της η ΚΑΕ Ολυμπιακός.",
+"also": [],
+"id": "ccdeaab062a3"
 },
 {
 "title": "Ολυμπιακός: Η ομιλία Αλγκουαθίλ για ΠΑΟΚ, έφερε ως παράδειγμα τον Φορτούνη",
