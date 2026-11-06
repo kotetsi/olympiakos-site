@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-06T12:35:06+00:00",
-"count": 355,
+"generated_at": "2026-11-06T12:50:17+00:00",
+"count": 356,
 "items": [
+{
+"title": "Ερυθρόλευκο αντάμωμα με φόντο τη κορυφή!",
+"url": "https://www.gazzetta.gr/basketball/2584196/erythroleyko-antamoma-me-fonto-ti-koryfi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-06T12:47+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται τον Ερυθρό Αστέρα στη Sunel Arena για τη 10η αγωνιστική της Euroleague.",
+"also": [],
+"id": "360fa82ab97d"
+},
 {
 "title": "Ολυμπιακός: Οι οδηγίες της ΚΑΕ προς τους φιλάθλους για το ματς απέναντι στον Ερυθρό Αστέρα",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584186/olympiakos-oi-odigies-tis-kae-pros-toys-filathloys-gia-mats-apenanti",
@@ -131,7 +143,15 @@
 "published": "2026-11-06T10:57+00:00",
 "sport": "basket",
 "snippet": "Ο Σέρβος πόιντ γκαρντ μιλάει για τους Ομπράντοβιτς, Ιτούδη, Γιασικεβίτσιους, Αταμάν και ξεχωρίζει τους κορυφαίους παίκτες της Euroleague.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/category/epikairotita/article/15216251/vasilie-misits-sto-alwyn-game-time-oi-stoxoi-me-ti-xapoel-kai-ta-atou-tou-panathinaikou-kai-tou-olympiakou/",
+"title": "Βασίλιε Μίσιτς στο Alwyn Game Time: Οι στόχοι με τη Χάποελ και τα ατού του Παναθηναϊκού και του Ολυμπιακού",
+"published": "2026-11-06T12:49+00:00"
+}
+],
 "id": "21a9dcf64106"
 },
 {
@@ -143,7 +163,15 @@
 "published": "2026-11-06T10:50+00:00",
 "sport": "general",
 "snippet": "Η νέα ταινία της Superbet για τον Ολυμπιακό, που μιλά στην καρδιά κάθε φιλάθλου!",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/category/epikairotita/article/15216202/superbet-x-olympiakos-na-to-pame-ligo-allios/",
+"title": "Superbet x Ολυμπιακός: «Να το πάμε λίγο αλλιώς;»",
+"published": "2026-11-06T12:42+00:00"
+}
+],
 "id": "c1886bb3c39a"
 },
 {
