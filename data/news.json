@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-06T11:19:25+00:00",
-"count": 347,
+"generated_at": "2026-11-06T11:34:33+00:00",
+"count": 349,
 "items": [
+{
+"title": "Εξάντληση θέσεων ΑμεΑ για τον αγώνα Ολυμπιακός – ΠΑΟΚ",
+"url": "https://www.olympiacos.org/2026/11/06/eksantlisi-theseon-amea-gia-ton-agona-olympiakos-paok-9/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-06T11:21+00:00",
+"sport": "football",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "a86f49e8a84f"
+},
+{
+"title": "Ολυμπιακός-Ερυθρός Αστέρας: Οι άμυνες τον πρώτο λόγο",
+"url": "https://www.sdna.gr/stoihima/1484084_olympiakos-erythros-asteras-oi-amynes-ton-proto-logo",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-06T11:20+00:00",
+"sport": "general",
+"snippet": "",
+"also": [],
+"id": "175e6bbe5246"
+},
 {
 "title": "Θετικά νέα για Λουσέ στον ΠΑΟΚ, αγώνας δρόμου για να προλάβει Ολυμπιακό",
 "url": "https://www.sdna.gr/podosfairo/1484087_thetika-nea-gia-loyse-ston-paok-agonas-dromoy-gia-na-prolabei-olympiako",
@@ -334,6 +358,13 @@
 "url": "https://www.gazzetta.gr/football/2584163/ntermpi-olympiakos-paok-sti-super-league-me-enishymenes-apodoseis-apo-pame",
 "title": "Ντέρμπι Ολυμπιακός-ΠΑΟΚ στη Super League με ενισχυμένες αποδόσεις από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
 "published": "2026-11-06T10:37+00:00"
+},
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/sportime-bet/ntermpi-olimpiakos-paok-sti-super-league-me-enischimenes-apodosis-apo-to-pame-stichima?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Ολυμπιακός ΠΑΟΚ και ντέρμπι στο ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+"published": "2026-11-06T11:26+00:00"
 }
 ],
 "id": "9d1d421d53b7"
