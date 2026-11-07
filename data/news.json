@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T16:20:19+00:00",
+"generated_at": "2026-11-07T16:35:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Μία κακή βραδιά δεν μας λυγίζει» - Η παρακάμερα του Ολυμπιακού με τον Ερυθρό Αστέρα (vid)",
+"url": "https://www.sdna.gr/mpasket/1484427_mia-kaki-bradia-den-mas-lygizei-i-parakamera-toy-olympiakoy-me-ton-erythro-astera",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T16:32+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός μπορεί να μην κατάφερε να ολοκληρώσει μία μεγάλη ανατροπή κόντρα στον Ερυθρό Αστέρα, όμως δεν δείχνει να πτοείται από το αποτέλεσμα. Η...",
+"also": [],
+"id": "09ec2ccdc209"
+},
 {
 "title": "ΠΑΟΚ: Μέσα ο Λούσε κόντρα στον Ολυμπιακό",
 "url": "https://sportday.gr/podosfairo/364548_paok-mesa-o-louse-kontra-ston-olympiako.html",
@@ -13,6 +25,18 @@
 "snippet": "Ανακοινώθηκε η αποστολή του ΠΑΟΚ για το ματς με τον Ολυμπιακό (8/11, 21:00) στο «Γ. Καραϊσκάκης» για τη 10η αγωνιστική της Stoiximan Super League, με τον Τομ…",
 "also": [],
 "id": "c4bfcf1dc7e7"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Το σχέδιο του Αλγουαθίλ",
+"url": "https://sportime.gr/podosfairo/olimpiakos-eki-theli-na-chtipisi-ton-paok-o-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-07T16:14+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ ετοιμάζει το πλάνο του Ολυμπιακού για τον ΠΑΟΚ, με την αριστερή πλευρά, την απουσία Κένι και τον Ζίβκοβιτς στο επίκεντρο.",
+"also": [],
+"id": "dbbe856a6adc"
 },
 {
 "title": "Με Ολυμπιακό Σαλαμίνας ο ΠΑΟΚ: Το πρόγραμμα της Futsal Super League",
@@ -5109,30 +5133,6 @@
 "snippet": "Η ΠΑΕ Ολυμπιακός, μέσω ανακοίνωσης, ενημέρωσε τους φίλους της ομάδας που θα βρεθούν στο γήπεδο για την αναμέτρηση με τη Ρεν, για νέο σημείο συνάντησης. The…",
 "also": [],
 "id": "585f28cc9f05"
-},
-{
-"title": "Ρεν: Η... μπασκετική γκάφα για το ματς με Ολυμπιακό",
-"url": "https://www.gazzetta.gr/football/europa-league/2583487/ren-i-mpasketiki-gkafa-gia-mats-me-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T10:14+00:00",
-"sport": "football",
-"snippet": "Οι άνθρωποι της Ρεν μπερδεύτηκαν και έβαλαν... μπασκετικό Ολυμπιακό, στο preview του αγώνα των δυο ομάδων για το Europa League.",
-"also": [],
-"id": "0be50ee3c22b"
-},
-{
-"title": "Ολυμπιακός: Αλλαγή στο σημείο συνάντησης των φιλάθλων στη Ρεν – Η νέα τοποθεσία",
-"url": "https://www.sdna.gr/podosfairo/1483363_olympiakos-allagi-sto-simeio-synantisis-ton-filathlon-sti-ren-i-nea-topothesia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-04T10:01+00:00",
-"sport": "football",
-"snippet": "Η ΠΑΕ Ολυμπιακός ανακοίνωσε αλλαγή στο σημείο συνάντησης των φιλάθλων της που βρίσκονται στη Γαλλία για την αναμέτρηση με τη Ρεν (4/11, 17:30), στο...",
-"also": [],
-"id": "5f797a47b170"
 }
 ]
 }
