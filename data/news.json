@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T10:32:20+00:00",
+"generated_at": "2026-11-07T10:47:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στο πρόγραμμα η αστοχία, όχι το άμυαλο μπάσκετ!",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584424/olympiakos-sto-programma-i-astohia-ohi-amyalo-mpasket",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T10:42+00:00",
+"sport": "basket",
+"snippet": "Ο Αντώνης Καλκαβούρας σχολιάζει τον ανορθόδοξο τρόπο με τον οποίο οι «ερυθρόλευκοι» επέλεξαν να ανατρέψουν το -22 απέναντι στον Ερυθρό Αστέρα και την…",
+"also": [],
+"id": "42940f2507ca"
+},
 {
 "title": "ΠΑΟΚ: Ο Ζίβκοβιτς «φτιάχνεται» απέναντι στον Ολυμπιακό",
 "url": "https://www.metrosport.gr/paok-o-zivkovits-ftiachnetai-apenanti-ston-olympiako-1332684",
@@ -5121,18 +5133,6 @@
 "snippet": "Τη Ρεν αντιμετωπίζει σήμερα ο Ολυμπιακός στη Γαλλία, για την 4η αγωνιστική της League Phase του Europa League.",
 "also": [],
 "id": "eabf46841b0e"
-},
-{
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (4/11): Πού θα δούμε τα ΑΕΚ-Ρεάλ, Ρεν-Ολυμπιακός και Ρεάλ-Παναθηναϊκός",
-"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1483291_oi-athlitikes-metadoseis-tis-imeras-4/11-poy-tha-doyme-ta-aek",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-04T05:14+00:00",
-"sport": "general",
-"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
-"also": [],
-"id": "2ff60775a86d"
 }
 ]
 }
