@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T14:04:09+00:00",
+"generated_at": "2026-11-07T14:19:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Ερυθρός Αστέρας: Η παρακάμερα των «ερυθρόλευκων»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584472/olympiakos-erythros-asteras-i-parakamera-ton-erythroleykon",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T14:10+00:00",
+"sport": "basket",
+"snippet": "Δείτε την παρακάμερα του Ολυμπιακού από την ήττα από τον Ερυθρό Αστέρα.",
+"also": [],
+"id": "eb65575c6df5"
+},
 {
 "title": "Ολυμπιακός: Εδώ ακριβώς είναι το «ζουμί»",
 "url": "https://sportday.gr/blogs/stavros-georgakopoulos/364534_olympiakos-edo-akrivos-einai-to-zoumi.html",
@@ -13,6 +25,18 @@
 "snippet": "Παρότι μπήκε τελευταίος στο χορό μεταξύ των ομάδων που διεκδικούν τον τίτλο ο Βάσκος τεχνικός δείχνει ότι μπορεί να διαχειριστεί καλύτερα απ’ όλους το ρόστερ…",
 "also": [],
 "id": "e0ca7e8a698b"
+},
+{
+"title": "Πώς τα αδέρφια Κωστούλα αγωνίστηκαν στον Ολυμπιακό και όχι στον ΠΑΟΚ",
+"url": "https://www.metrosport.gr/pos-ta-aderfia-kostoyla-agonistikan-ston-olympiako-kai-ochi-ston-paok-1332719",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-07T14:00+00:00",
+"sport": "general",
+"snippet": "Μία ενδιαφέρουσα ιστορία έρχεται στην επιφάνεια και αφορά τα αδέρφια Κωστούλα που πλέον διαπρέπουν σε Μπράιτον και ΟΦΗ αντίστοιχα. Τη διήγηση της ...",
+"also": [],
+"id": "8dfcca99db50"
 },
 {
 "title": "Ολυμπιακός: «Στη λίστα του ο Χόλιντεϊ» (pic)",
@@ -5117,30 +5141,6 @@
 "snippet": "Έγιναν γνωστοί οι ορισμοί της 10ης αγωνιστικής στην Stoiximan Superleague, από την οποία ξεχωρίζει το μεγάλο ντέρμπι ανάμεσα στον Ολυμπιακό και τον ...",
 "also": [],
 "id": "1eda1d9ef8ff"
-},
-{
-"title": "Σούπερ προσφορά* από το Pamestoixima.gr για τις ευρωπαϊκές μάχες της ΑΕΚ και του Ολυμπιακού",
-"url": "https://www.novasports.gr/category/every-day-bet/article/15211958/souper-prosfora-apo-to-pamestoixima-gr-gia-tis-eyropaikes-maxes-tis-aek-kai-tou-olympiakou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-04T08:31+00:00",
-"sport": "football",
-"snippet": "Η 4η αγωνιστική του Champions League ολοκληρώνεται με 9 παιχνίδια. Στην Allwyn Arena στις 19:45 αρχίζει ο μεγάλος αγώνας της ΑΕΚ με τη Ρεάλ Μαδρίτης. Νωρίτερα…",
-"also": [],
-"id": "804a3d24f657"
-},
-{
-"title": "Πάλι με Σάντσεθ Μαρτίνεθ το ντέρμπι Ολυμπιακός – ΠΑΟΚ",
-"url": "http://www.sport-fm.gr/article/5158733",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T08:25+00:00",
-"sport": "football",
-"snippet": "Ο Ισπανός Χοσέ Μαρία Σάντσεθ Μαρτίνεθ θα «σφυρίξει» άλλο ένα ντέρμπι Ολυμπιακού – ΠΑΟΚ. Οι ορισμοί των διαιτητών της 10ης αγωνιστικής της Stoiximan Super…",
-"also": [],
-"id": "6a467b5100df"
 }
 ]
 }
