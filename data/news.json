@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T12:48:30+00:00",
+"generated_at": "2026-11-07T13:03:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η διαφωνία Πετρόπουλου-Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
+"url": "https://www.gazzetta.gr/football/superleague/2584453/i-diafonia-petropoyloy-mpakaki-sto-gazzetta-magazino-gia-olympiakos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T13:00+00:00",
+"sport": "football",
+"snippet": "Ο Αντώνης Πετρόπουλος και ο Μιχάλης Μπακάκης μίλησαν στο Gazzetta Magazino σχετικά με την αναμέτρηση του Ολυμπιακού κόντρα στον ΠΑΟΚ (8/11).",
+"also": [],
+"id": "dd70f978a278"
+},
 {
 "title": "Ολυμπιακός – ΠΑΟΚ: Η αποστολή και οι επιστροφές",
 "url": "https://sportime.gr/podosfairo/olimpiakos-i-apofasis-algouathil-prin-apo-ton-paok-ti-allazi-stin-apostoli?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5121,18 +5133,6 @@
 "snippet": "Ο Ισπανός προπονητής του Ολυμπιακού ανέδειξε ξανά τον πρέποντα δρόμο σε μία εβδομάδα με αγώνες κόντρα στη Ρεν αλλά και τον ΠΑΟΚ. Γράφει ο Δημήτρης Τομαράς.",
 "also": [],
 "id": "52edd169cb22"
-},
-{
-"title": "ΑΕΚ – Ρεάλ και Ρεν – Ολυμπιακός με τη Novibet",
-"url": "https://sportime.gr/sportime-bet/evropaiki-vradia-pou-tha-mini-stin-istoria-me-enischimenes-apodosis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T07:06+00:00",
-"sport": "general",
-"snippet": "Η ΑΕΚ υποδέχεται τη Ρεάλ Μαδρίτης και ο Ολυμπιακός αντιμετωπίζει τη Ρεν. Οι μεγάλες ευρωπαϊκές μάχες και οι ειδικές προσφορές της Novibet.",
-"also": [],
-"id": "b15b71a5ed8f"
 }
 ]
 }
