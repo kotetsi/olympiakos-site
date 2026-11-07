@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T13:03:37+00:00",
+"generated_at": "2026-11-07T13:18:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Πριν» και «μετά» το σκάνδαλο: Η ανεξήγητη πτώση στις βολές του Ολυμπιακού στην Ευρωλίγκα και από το 5-1 στο 2-2",
+"url": "https://www.sdna.gr/mpasket/1484420_prin-kai-meta-skandalo-i-anexigiti-ptosi-stis-boles-toy-olympiakoy-stin-eyroligka",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T13:05+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός σουτάρει πολλές βολές τα τελευταία χρόνια στη EuroLeague. Κορυφαία ομάδα είναι, άρα αποτελεί δύσκολο task να την σταματήσεις. Για κάθε...",
+"also": [],
+"id": "bba9a7443caa"
+},
 {
 "title": "Η διαφωνία Πετρόπουλου-Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
 "url": "https://www.gazzetta.gr/football/superleague/2584453/i-diafonia-petropoyloy-mpakaki-sto-gazzetta-magazino-gia-olympiakos",
@@ -13,6 +25,18 @@
 "snippet": "Ο Αντώνης Πετρόπουλος και ο Μιχάλης Μπακάκης μίλησαν στο Gazzetta Magazino σχετικά με την αναμέτρηση του Ολυμπιακού κόντρα στον ΠΑΟΚ (8/11).",
 "also": [],
 "id": "dd70f978a278"
+},
+{
+"title": "Συνεχίζει απόλυτος ο Αθηναϊκός και απέναντι στον ΠΑΟΚ - Χτίζει δυνατό σερί ο Ολυμπιακός, καθαρίζοντας τον Άρη",
+"url": "http://www.sport-fm.gr/article/5159493",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-07T12:58+00:00",
+"sport": "basket",
+"snippet": "Ο Αθηναϊκός δείχνει ασταμάτητος στο πρωτάθλημα μπάσκετ γυναικών, διαλύοντας και τον ΠΑΟΚ με 99-63 για το 6/6, ενώ ο Ολυμπιακός δεν αντιμετώπισε κανένα απολύτως…",
+"also": [],
+"id": "70931be6f576"
 },
 {
 "title": "Ολυμπιακός – ΠΑΟΚ: Η αποστολή και οι επιστροφές",
@@ -5109,30 +5133,6 @@
 "snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr ορισμένα στοιχεία για τα δυνατά και τα... περίεργα χρονικά σημεία της Ρεν κατά τη διάρκεια του 90λέπτου.",
 "also": [],
 "id": "6d8ce9f12615"
-},
-{
-"title": "Ρεν – Ολυμπιακός: Τρεις νίκες με γκολ από κεφαλιά",
-"url": "https://sportime.gr/olimpiakos/ren-olimpiakos-ke-stis-tris-evropaikes-nikes-tou-o-olimpiakos-echi-skorari-me-kefalia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T07:29+00:00",
-"sport": "football",
-"snippet": "Σε καθεμία από τις τρεις νίκες του στο Europa League, ο Ολυμπιακός σκόραρε με κεφαλιά. Ο Γιάρεμτσουκ, ο Έσε και ο Γκονσάλες δείχνουν τον δρόμο στη Γαλλία.",
-"also": [],
-"id": "21912e48797d"
-},
-{
-"title": "Ολυμπιακός: Ο Αλγκουαθίλ έδειξε ξεκάθαρα τον δρόμο αλλά και τον τρόπο",
-"url": "https://www.gazzetta.gr/football/europa-league/2583414/olympiakos-o-algkoyathil-edeixe-xekathara-ton-dromo-alla-kai-ton",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T07:21+00:00",
-"sport": "football",
-"snippet": "Ο Ισπανός προπονητής του Ολυμπιακού ανέδειξε ξανά τον πρέποντα δρόμο σε μία εβδομάδα με αγώνες κόντρα στη Ρεν αλλά και τον ΠΑΟΚ. Γράφει ο Δημήτρης Τομαράς.",
-"also": [],
-"id": "52edd169cb22"
 }
 ]
 }
