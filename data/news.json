@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T07:00:33+00:00",
+"generated_at": "2026-11-07T07:15:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακρής στο Gazz Floor: «Μάτωνε για να σκοράρει ο Ολυμπιακός»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584388/makris-sto-gazz-floor-matone-gia-na-skorarei-o-olympiakos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T07:00+00:00",
+"sport": "basket",
+"snippet": "Ο Στέφανος Μακρής ανέλυσε στο Gazz Floor by Novibet την επιθετική λειτουργία του Ολυμπιακού απέναντι στον Ερυθρό Αστέρα και την εμφάνιση Φουρνιέ και Βεζένκοφ.",
+"also": [],
+"id": "c6cd3fbb7ba0"
+},
 {
 "title": "Παπαπέτρου στο Gazz Floor: «Πρέπει να καταλάβουμε τι είδους παίκτης είναι ο Κόντσαρ - Αποκτήθηκε με τον Μοντέρο να παίζει»",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584392/papapetroy-sto-gazz-floor-prepei-na-katalaboyme-ti-eidoys-paiktis",
@@ -5129,18 +5141,6 @@
 "snippet": "Ο Ολυμπιακός ανακοίνωσε ξεχωριστή πειθαρχική διαδικασία της EuroLeague για τον Δημήτρη Γιαννακόπουλο και γνωστοποίησε πρόστιμο στον Παναθηναϊκό.",
 "also": [],
 "id": "79f109b6f000"
-},
-{
-"title": "Νωρίτερα η σέντρα στο Τσέλιε – Ολυμπιακός",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/noritera-i-sentra-sto-tselie-olympiakos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-03T19:30+00:00",
-"sport": "football",
-"snippet": "Διαφορετική ώρα έναρξης θα έχει τελικά η ευρωπαϊκή αναμέτρηση του Ολυμπιακού με την Τσέλιε στη Σλοβενία, στο πλαίσιο της έκτης αγωνιστικής της League Phase του…",
-"also": [],
-"id": "c21a4718557e"
 }
 ]
 }
