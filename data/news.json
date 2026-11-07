@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T21:37:55+00:00",
+"generated_at": "2026-11-07T21:53:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Θα θέλατε τον Κόουλ Άντονι στον Ολυμπιακό;",
+"url": "https://sportime.gr/olympiakos-bc/den-afini-adiaforo-ton-olimpiako-o-kooul-antoni-eno-psachni-antikatastati-gia-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-07T21:35+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός αναζητά αντικαταστάτη του Ζαν Μοντέρο και ο Κόουλ Άντονι ξεχωρίζει με 32 πόντους και 13/14 σουτ στο NBL. Τα στοιχεία.",
+"also": [],
+"id": "b6274d53ba99"
+},
 {
 "title": "Οι τρεις μεταγραφές που ζήτησε ο Αλγκουαθίλ στον Ολυμπιακό - Χάντσον-Οντόι και... Πινέδα",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1484568_oi-treis-metagrafes-poy-zitise-o-algkoyathil-ston-olympiako",
@@ -5113,18 +5125,6 @@
 "snippet": "Τι συμβαίνει στον ΠΑΟΚ και ποια θέματα ξεχωρίζουν στην ασπρόμαυρη επικαιρότητα; Ο Σάββας Τζιομπάνογλου και ο Νίκος Μοσχοβίτης συναντούν τους φιλάθλους στο ΠΑΟΚ…",
 "also": [],
 "id": "0754bdfe044e"
-},
-{
-"title": "ΠΑΟΚ: Επιστροφή Λουσέ στη Νέα Μεσημβρία – Τα δεδομένα ενόψει Ολυμπιακού",
-"url": "https://www.gazzetta.gr/football/superleague/2583531/paok-epistrofi-loyse-sti-nea-mesimbria-ta-dedomena-enopsei-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T13:38+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ επέστρεψε στις προπονήσεις μετά το χθεσινό ρεπό, με τον Τομ Λουσέ να συμμετέχει σε μέρος του προγράμματος ενόψει του ντέρμπι με τον Ολυμπιακό.",
-"also": [],
-"id": "b4f64be7ca7e"
 }
 ]
 }
