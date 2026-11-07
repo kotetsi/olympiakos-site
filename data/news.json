@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T09:46:58+00:00",
+"generated_at": "2026-11-07T10:02:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ιμανόλ για τον ρέφερι στο Ολυμπιακός-ΠΑΟΚ, «δεν αξίζαμε τέτοια διαιτησία»...",
+"url": "https://www.gazzetta.gr/football/2584418/olympiakos-o-imanol-gia-ton-referi-sto-olympiakos-paok-den-axizame-tetoia",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T09:56+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta πολλά και διάφορα αναφορικά με το διαιτητή του αυριανού (8/11) ντέρμπι, θυμίζοντας και μία οδυνηρή…",
+"also": [],
+"id": "c92a7435c615"
+},
+{
+"title": "Ολυμπιακός: Επιτέλους ευχάριστος πονοκέφαλος σε ντέρμπι",
+"url": "https://sportday.gr/podosfairo/364503_olympiakos-epitelous-efcharistos-ponokefalos-se-ntermpi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-07T09:52+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται να αντιμετωπίσει τον ΠΑΟΚ με τον Ιμανόλ Αλγουαθίλ να σκέφτεται... ποιον θα πρωτοδιαλέξει.",
+"also": [],
+"id": "24434f4ab79f"
+},
 {
 "title": "Ολυμπιακός: Η χειρότερη επιθετική του επίδοση εδώ και σχεδόν τρία χρόνια",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2031768/olimpiakos-i-chiroteri-epithetiki-tou-epidosi-edo-ke-schedon-tria-chronia/",
@@ -5109,30 +5133,6 @@
 "snippet": "Ο Ολυμπιακός κερδίζει με 1-0 και ο Ιμανόλ Αλγουαθίλ έχει βρει ένα σημαντικό όπλο. Η δουλειά στις στατικές φάσεις και η διαφορά με τον Μεντιλίμπαρ.",
 "also": [],
 "id": "4e958b759b80"
-},
-{
-"title": "“Διπλό” πρόκρισης για τον Ολυμπιακό",
-"url": "https://www.ertsports.gr/mpasket/diplo-prokrisis-gia-ton-olympiako/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-03T21:11+00:00",
-"sport": "basket",
-"snippet": "Με την τρίτη νίκη του σε τέσσερις αγωνιστικές στον 4ο όμιλο συνέχισε την πορεία του στο EuroCup Γυναικών ο Ολυμπιακός, καθώς επικράτησε εκτός έδρας της Μπάξι…",
-"also": [],
-"id": "14ebe9ced036"
-},
-{
-"title": "Φερόλ (Γ) - Ολυμπιακός (Γ) 58-77: Μεγάλο «διπλό» με κυρίαρχη Χριστινάκη!",
-"url": "https://www.gazzetta.gr/basketball/eurocup/2583389/ferol-g-olympiakos-g-58-77-synehizei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T21:09+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός έκανε μεγάλο... διπλό στην έδρα της Φερόλ, καθώς επικράτησε με 77-58, έχοντας σε τρομερό βράδυ την Ελεάννα Χριστινάκη.",
-"also": [],
-"id": "40a89f638fa0"
 }
 ]
 }
