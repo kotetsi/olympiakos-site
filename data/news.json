@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-07T12:03:06+00:00",
+"generated_at": "2026-11-07T12:18:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Η αποστολή και οι επιστροφές",
+"url": "https://sportime.gr/podosfairo/olimpiakos-i-apofasis-algouathil-prin-apo-ton-paok-ti-allazi-stin-apostoli?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-07T12:11+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ανακοίνωσε την αποστολή για το ντέρμπι με τον ΠΑΟΚ, με τον Ιμανόλ Αλγουαθίλ να έχει ξανά στη διάθεσή του σημαντικές επιλογές.",
+"also": [],
+"id": "c29adc3d325b"
+},
+{
+"title": "Η ανάλυση του Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
+"url": "https://www.gazzetta.gr/football/2584444/i-analysi-toy-mpakaki-sto-gazzetta-magazino-gia-olympiakos-paok",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T12:09+00:00",
+"sport": "football",
+"snippet": "Ο Μιχάλης Μπακάκης ανέλυσε στο Gazzetta Magazino τα δυνατά σημεία, τόσο του Ολυμπιακού όσο και του ΠΑΟΚ, δίνοντας λίγες περισσότερες πιθανότητες στους…",
+"also": [],
+"id": "bbed8bae2b63"
+},
+{
+"title": "Ολυμπιακός: Με 25 παίκτες και τέσσερις επιστροφές η αποστολή ενόψει ΠΑΟΚ",
+"url": "https://sportday.gr/podosfairo/364524_olympiakos-me-25-paiktes-kai-tesseris-epistrofes-i-apostoli-enopsei-paok.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-07T12:04+00:00",
+"sport": "football",
+"snippet": "Οι «ερυθρόλευκοι», μετά την εκτός έδρας ισοπαλία με τη Ρεν στη Γαλλία, ολοκλήρωσαν την προετοιμασία τους για την αναμέτρηση του Φαλήρου, με τον Ιμανόλ…",
+"also": [],
+"id": "f0fb3a9de7be"
+},
 {
 "title": "Gazz Floor ανάλυση: Πόσο κακό έκανε στον Ολυμπιακό ο Ερυθρός Αστέρας;",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584395/gazz-floor-analysi-poso-kako-ekane-ston-olympiako-o-erythros-asteras",
@@ -5097,42 +5133,6 @@
 "snippet": "Η ΑΕΚ υποδέχεται τη Ρεάλ Μαδρίτης και ο Ολυμπιακός αντιμετωπίζει τη Ρεν. Οι μεγάλες ευρωπαϊκές μάχες και οι ειδικές προσφορές της Novibet.",
 "also": [],
 "id": "b15b71a5ed8f"
-},
-{
-"title": "Αθλητικές μεταδόσεις σήμερα: Το ΑΕΚ-Ρεάλ Μαδρίτης, το Ρεν-Ολυμπιακός και οι σημαντικότερες αναμετρήσεις της ημέρας",
-"url": "https://www.gazzetta.gr/football/champions-league/2583451/athlitikes-metadoseis-simera-aek-real-madritis-ren-olympiakos-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T07:05+00:00",
-"sport": "football",
-"snippet": "Δείτε την ώρα και το κανάλι μετάδοσης των εκπομπών του Gazzetta, αλλά και των σημαντικότερων αναμετρήσεων της ημέρας.",
-"also": [],
-"id": "5f961818aabc"
-},
-{
-"title": "Δύσκολη αποστολή στη Βρετάνη για τον Ολυμπιακό",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/dyskoli-apostoli-sti-vretani-gia-ton-olympiako/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-04T07:02+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός των εννέα συνεχόμενων νικών σε όλες τις διοργανώσεις φιλοξενείται στη Βρετάνη από τη Ρεν με στόχο να πάρει ακόμα ένα θετικό αποτέλεσμα και να…",
-"also": [],
-"id": "2df858462024"
-},
-{
-"title": "Ακάθεκτος στο έργο του ο Ολυμπιακός!",
-"url": "https://www.gazzetta.gr/football/2583373/akathektos-sto-ergo-toy-o-olympiakos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T07:00+00:00",
-"sport": "football",
-"snippet": "Νέα αποστολή στη Γαλλία για τον Ολυμπιακό που δοκιμάζεται στο «Roazhon Park» απέναντι στη Ρεν (17:30) για την 4η αγωνιστική του Europa League.",
-"also": [],
-"id": "4c9e8897dfb1"
 }
 ]
 }
