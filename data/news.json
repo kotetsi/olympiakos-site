@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-07T15:34:54+00:00",
+"generated_at": "2026-11-07T15:50:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ντιμιτρίεβιτς: «Απίστευτος ο κόσμος, ανυπομονούμε για τα παιχνίδια με Ολυμπιακό και ΠΑΟΚ»",
+"url": "https://www.metrosport.gr/ntimitrievits-apisteytos-o-kosmos-anypomonoyme-gia-ta-paichnidia-me-olympiako-kai-paok-1332733",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-07T15:40+00:00",
+"sport": "basket",
+"snippet": "Την πέμπτη διαδοχική νίκη του στη Stoiximan GBL πανηγύρισε ο Άρης, ο οποίος πέρασε νικηφόρα από τη Λευκάδα, επικρατώντας της Δόξας με 88-77, στο ...",
+"also": [],
+"id": "68ce94139009"
+},
+{
+"title": "Χωρίς Πέλκα και Μιχαηλίδη, αλλά με Λουσέ η αποστολή του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
+"url": "https://www.ertsports.gr/super-league/xoris-pelka-kai-mixailidi-alla-me-louse-i-apostoli-tou-paok-gia-to-ntermpi-me-ton-olympiako/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-07T15:38+00:00",
+"sport": "football",
+"snippet": "Ολοκληρώθηκε χωρίς απρόοπτα η προετοιμασία του ΠΑΟΚ για το μεγάλο ντέρμπι με τον Ολυμπιακό, που θα διεξαχθεί το Σάββατο (8/11, 21:00, ΕΡΑ ΣΠΟΡ) στο «Γεώργιος…",
+"also": [],
+"id": "13de20476fe1"
+},
+{
+"title": "Ντιμιτρίεβιτς: Άχαστος με 6/6 τρίποντα κι ανυπόμονος “για τα ντέρμπι με Ολυμπιακό & ΠΑΟΚ”",
+"url": "https://www.eurohoops.net/el/heba-el/2031916/ntimitrievits-apolitos-me-6-6-triponta-anipomonos-gia-ta-ntermpi-me-olimpiako-paok/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-07T15:36+00:00",
+"sport": "basket",
+"snippet": "Ο Νέναντ Ντιμιτρίεβιτς ήταν ο απόλυτος πρωταγωνιστής του Άρη με 6/6 τρίποντα! The post Ντιμιτρίεβιτς: Άχαστος με 6/6 τρίποντα κι ανυπόμονος “για τα ντέρμπι με…",
+"also": [],
+"id": "2c3f57e92867"
+},
 {
 "title": "ΑΝΟ Γλυφάδας - Ολυμπιακός 8-19",
 "url": "https://www.sdna.gr/polo/1484469_ano-glyfadas-olympiakos-8-19",
@@ -5120,42 +5156,6 @@
 }
 ],
 "id": "f73bd49d7dee"
-},
-{
-"title": "Αντύπας: «Κομβικό να προηγηθεί ο Ολυμπιακός – Η δοκιμή με Ρέτσο και Κάρμο…»",
-"url": "http://www.sport-fm.gr/article/5158746",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T09:22+00:00",
-"sport": "general",
-"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Ηρακλή Αντύπα στον bwinΣΠΟΡ FM 94,6.",
-"also": [],
-"id": "537f0fd5eab1"
-},
-{
-"title": "Galacticos by Elabet: ΑΕΚ για το στέμμα της Ρεάλ, η δύσκολη πίστα του Ολυμπιακού & ο Παναθηναϊκός της διάρκειας",
-"url": "https://www.gazzetta.gr/football/2583476/galacticos-elabet-aek-gia-stemma-tis-real-i-dyskoli-pista-toy-olympiakoy-o",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T09:17+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος, ο Γιώργος Τσακίρης και ο Νίκος Αθανασίου μεταφέρουν καθημερινά τις εξελίξεις από τον κόσμο του ποδοσφαίρου, με τον Παύλο Κουστέρη να…",
-"also": [],
-"id": "41787b404de0"
-},
-{
-"title": "Stade Rennais – Ολυμπιακός: Αλλαγή του meeting point για τους φιλάθλους μας",
-"url": "https://www.olympiacos.org/2026/11/04/stade-rennais-olympiakos-allagi-tou-meeting-point-gia-tous-filathlous-mas/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-04T09:15+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τους φιλάθλους μας ενόψει του αγώνα με την Stade Rennais.",
-"also": [],
-"id": "26cb0f37835a"
 }
 ]
 }
