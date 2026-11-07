@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T06:30:15+00:00",
+"generated_at": "2026-11-07T06:45:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στραβός ο γιαλός, στραβό και το αρμένισμα",
+"url": "https://sportday.gr/blogs/depollas/364502_olympiakos-stravos-o-gialos-stravo-kai-to-armenisma.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-07T06:30+00:00",
+"sport": "basket",
+"snippet": "Η δύσκολη συγκυρία για τον Ολυμπιακό και τα λειτουργικά/αγωνιστικά του προβλήματα. Δεν αρκεί να βγάζει αντίδραση, ψάχνει περισσότερες λύσεις στην περιφέρεια…",
+"also": [],
+"id": "a28e9912dfc2"
+},
 {
 "title": "Με 57 πόντους στην επίθεση, Τάιλερ, ώρα να επιστρέψεις!",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584357/me-57-pontoys-stin-epithesi-tailer-ora-na-epistrepseis",
@@ -13,6 +25,18 @@
 "snippet": "Η ήττα από τον Ερυθρό Αστέρα με 62-57 στη Sunel Arena για τη 10η αγωνιστική της Euroleague ανέδειξε το επιθετικό πρόβλημα των «ερυθρόλευκων», όταν επιλέγουν…",
 "also": [],
 "id": "d0d71ce4bee7"
+},
+{
+"title": "Ολυμπιακός: Οι σκέψεις Αλγουαθίλ για τον ΠΑΟΚ",
+"url": "http://www.sport-fm.gr/article/5159414",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-07T06:25+00:00",
+"sport": "general",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ καταλήγει στις επιλογές του για το αυριανό ντέρμπι Ολυμπιακού-ΠΑΟΚ, με ανοιχτές θέσεις στην ενδεκάδα και ιδιαίτερη δουλειά στις στατικές…",
+"also": [],
+"id": "3a2299d3eb93"
 },
 {
 "title": "Τα highlights από την ήττα του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα",
@@ -5117,30 +5141,6 @@
 "snippet": "",
 "also": [],
 "id": "85521c54636e"
-},
-{
-"title": "ΚΑΕ Ολυμπιακός: Νέα καταγγελία κατά Γιαννακόπουλου – «Η Euroleague τιμώρησε τον Παναθηναϊκό»",
-"url": "https://sportday.gr/basket/364159_kae-olympiakos-nea-katangelia-kata-giannakopoulou-i-euroleague-timorise-ton-panathinaiko.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-03T19:07+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ενημέρωσε για τις νομικές εξελίξεις...",
-"also": [],
-"id": "cab1cbd27b9f"
-},
-{
-"title": "Ολυμπιακός: “Πρόστιμο της EuroLeague στον Παναθηναϊκό, ξεχωριστή πειθαρχική διαδικασία για Γιαννακόπουλο”",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2030310/olimpiakos-prostimo-tis-euroleague-ston-panathinaiko-xechoristi-pitharchiki-diadikasia-gia-giannakopoulo/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-03T19:07+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ενημέρωσε ότι ο Παναθηναϊκός έχει τιμωρηθεί με πρόστιμο από την Ευρωλίγκα και ότι έχει κινηθεί ξεχωριστή πειθαρχική διαδικασία κατά του Δημήτρη…",
-"also": [],
-"id": "5dace5398a8b"
 }
 ]
 }
