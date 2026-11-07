@@ -1,18 +1,78 @@
 {
-"generated_at": "2026-11-07T11:02:37+00:00",
+"generated_at": "2026-11-07T11:17:44+00:00",
 "count": 400,
 "items": [
 {
-"title": "Live streaming: Άρης - Ολυμπιακός",
-"url": "https://www.sdna.gr/mpasket/1484372_live-streaming-aris-olympiakos",
+"title": "Ολυμπιακός: Πάνοπλος στο ματς με τον ΠΑΟΚ (pic)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15217914/olympiakos-panoplos-sto-mats-me-ton-paok-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-07T11:10+00:00",
+"sport": "football",
+"snippet": "Η προετοιμασία των Πειραιωτών για τη συγκεκριμένη αναμέτρηση ολοκληρώθηκε το Σάββατο, με τον Ιμανόλ Αλγουαθίλ να ανακοινώνει την αποστολή της ομάδας του και να…",
+"also": [],
+"id": "c15ed627eaed"
+},
+{
+"title": "Νικολακόπουλος: «Ο Ολυμπιακός θέλει να κλείσει τον κύκλο όπως τον άρχισε…»",
+"url": "http://www.sport-fm.gr/article/5159479",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-07T11:06+00:00",
+"sport": "general",
+"snippet": "Ακούστε το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο στον bwinΣΠΟΡ FM 94,6.",
+"also": [],
+"id": "3ba7caa3312e"
+},
+{
+"title": "Ολυμπιακός: Η αποστολή του για το ματς με τον ΠΑΟΚ",
+"url": "https://www.gazzetta.gr/football/superleague/2584429/olympiakos-i-apostoli-toy-gia-mats-me-ton-paok",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T11:05+00:00",
+"sport": "football",
+"snippet": "Μετά την ολοκλήρωση της προετοιμασίας του Ολυμπιακού, ο Αλγκουαθίλ ανακοίνωσε τους παίκτες που θα έχει στη διάθεσή του για το παιχνίδι με τον ΠΑΟΚ (8/11,21:00).",
+"also": [],
+"id": "c506d05494f7"
+},
+{
+"title": "Η αποστολή του Ολυμπιακού κόντρα στον ΠΑΟΚ",
+"url": "http://www.sport-fm.gr/article/5159481",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-07T11:02+00:00",
+"sport": "general",
+"snippet": "Δείτε την αποστολή του Ολυμπιακού για το ματς με τον ΠΑΟΚ.",
+"also": [],
+"id": "33b48f334f92"
+},
+{
+"title": "Interwetten: Ολυμπιακός – ΠΑΟΚ με απόδοση 12.00",
+"url": "https://sportime.gr/sportime-bet/souper-ntermpi-souper-12ari-stin-interwetten?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-07T11:02+00:00",
+"sport": "football",
+"snippet": "Ολυμπιακός και ΠΑΟΚ αναμετρώνται την Κυριακή 8 Νοεμβρίου στις 21:00 για τη Super League. Η Interwetten παρουσιάζει Bet Builder με συνολική απόδοση 12.00.",
+"also": [],
+"id": "2bf7ac68d4a0"
+},
+{
+"title": "Ολυμπιακός: Χωρίς απουσίες στο ντέρμπι με τον ΠΑΟΚ",
+"url": "https://www.sdna.gr/podosfairo/1484387_olympiakos-horis-apoysies-sto-ntermpi-me-ton-paok",
 "source": "sdna",
 "source_name": "SDNA",
 "official": false,
-"published": "2026-11-07T10:55+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης αντιμετωπίζει τον Ολυμπιακό για την 6η αγωνιστική της Allwyn WBL1.",
+"published": "2026-11-07T11:01+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγκουαθίλ ανακοίνωσε την αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ, συμπεριλαμβάνοντας 25 παίκτες.",
 "also": [],
-"id": "06c4fd2bfa2e"
+"id": "8c212401bcc3"
 },
 {
 "title": "Ολυμπιακός blog: Από τη Βαλένθια στα Άνω Λιόσια ένας… Μοντέρο δρόμος",
@@ -25,6 +85,26 @@
 "snippet": "Ο Ολυμπιακός ηττήθηκε από τον Ερυθρό Αστέρα στη Sunel Arena, σε ένα παιχνίδι με πολλές ομοιότητες με εκείνο της τεράστιας ανατροπής στη Βαλένθια από το -28…",
 "also": [],
 "id": "6f4082ad3c0f"
+},
+{
+"title": "Live Streaming: Άρης (Γ) - Ολυμπιακός (Γ)",
+"url": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2584430/live-streaming-aris-g-olympiakos-g",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T10:50+00:00",
+"sport": "basket",
+"snippet": "Παρακολουθήστε σε LIVE Streaming την εκτός έδρας αναμέτρηση του Ολυμπιακού κόντρα στον Άρη κόντρα για την 6η αγωνιστική της WBL1.",
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1484372_live-streaming-aris-olympiakos",
+"title": "Live streaming: Άρης - Ολυμπιακός",
+"published": "2026-11-07T10:55+00:00"
+}
+],
+"id": "b9c8e5f9fe4c"
 },
 {
 "title": "Ολυμπιακός: Στο πρόγραμμα η αστοχία, όχι το άμυαλο μπάσκετ!",
@@ -5053,86 +5133,6 @@
 "snippet": "Ο Ολυμπιακός ετοιμάζεται για ακόμη μία αποστολή στη Γαλλία και έχει πίσω του 18 εκτός έδρας αναμετρήσεις με γαλλικές ομάδες, με απολογισμό πέντε νίκες, μία…",
 "also": [],
 "id": "ebcb6a126cc7"
-},
-{
-"title": "Ολυμπιακός: Έχει καλή γνώση των καταστάσεων",
-"url": "https://sportday.gr/podosfairo/364172_olympiakos-echei-kali-gnosi-ton-katastaseon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T06:27+00:00",
-"sport": "football",
-"snippet": "Ιμανόλ και Φρόιλερ μίλησαν στη συνέντευξη Τύπου ενόψει του αγώνα με τη Ρεν ακριβώς όπως έπρεπε…",
-"also": [],
-"id": "1f9c3b027866"
-},
-{
-"title": "Ολυμπιακός κατά Παναθηναϊκού για δηλώσεις Θάνου",
-"url": "https://sportime.gr/basket/olimpiakos-katingile-ton-panathinaiko-ke-ti-thanou-gia-osa-ipe-stin-ert-schetika-me-stimena-protathlimata?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T06:27+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός κατήγγειλε τον Παναθηναϊκό και τη Μαργαρίτα Θάνου για δηλώσεις περί στημένων πρωταθλημάτων. Τι θα εξετάσει ο αθλητικός δικαστής.",
-"also": [],
-"id": "f781760a8547"
-},
-{
-"title": "ΠΑΟΚ: «Σταυρόλεξο» για τον Λίσι ο αντικαταστάτης του Κένι ενόψει Ολυμπιακού",
-"url": "http://www.sport-fm.gr/article/5158689",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T06:22+00:00",
-"sport": "general",
-"snippet": "Ο Αλέσιο Λίσι αναζητά τη λύση για το δεξί άκρο της άμυνας του ΠΑΟΚ απέναντι στον Ολυμπιακό, με τον τιμωρημένο Κένι να αφήνει ανοιχτό το δίλημμα για τον…",
-"also": [],
-"id": "e9e6771ac18c"
-},
-{
-"title": "Ρεν - Ολυμπιακός: Η ώρα και το κανάλι μετάδοσης του αγώνα",
-"url": "https://www.gazzetta.gr/football/europa-league/2583301/ren-olympiakos-i-ora-kai-kanali-metadosis-toy-agona",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T06:09+00:00",
-"sport": "football",
-"snippet": "Η ώρα και το κανάλι μετάδοσης του εκτός έδρας αγώνα του Ολυμπιακού με τη Ρεν (4/11) για την 4η αγωνιστική του Europa League.",
-"also": [
-{
-"source": "sportime",
-"source_name": "Sportime",
-"url": "https://sportime.gr/podosfairo/ren-olimpiakos-ti-ora-pezoun-simera-ke-se-pio-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"title": "Ρεν – Ολυμπιακός: Ώρα και κανάλι μετάδοσης",
-"published": "2026-11-04T15:10+00:00"
-}
-],
-"id": "fc28b5c6abf2"
-},
-{
-"title": "Ρεν-Ολυμπιακός: Για το 10 το καλό οι Πειραιώτες",
-"url": "http://www.sport-fm.gr/article/5158660",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T06:00+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός δοκιμάζεται στην έδρα της Ρεν με στόχο να διατηρήσει το απόλυτο στο Europa League.",
-"also": [],
-"id": "8518b853c303"
-},
-{
-"title": "Αθλητικές μεταδόσεις: Που θα δείτε το ΑΕΚ-Ρεάλ, το Ρεν Ολυμπιακός και το ΠΑΟ-Ρεάλ για την Euroleague",
-"url": "https://sportday.gr/epikairotita/364170_athlitikes-metadoseis-pou-tha-deite-to-aek-real-to-ren-olympiakos-kai-to-pao-real-gia-tin-euroleague.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T06:00+00:00",
-"sport": "football",
-"snippet": "Ξεχωρίζουν σήμερα Τετάρτη (04/11) στις αθλητικές μεταδόσεις το σπουδαίο ματς της ΑΕΚ κόντρα στη Ρεάλ για το Champions League, ο αγώνας του Ολυμπιακού με τη Ρεν…",
-"also": [],
-"id": "28c024f1ac2a"
 }
 ]
 }
