@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T13:33:53+00:00",
+"generated_at": "2026-11-07T13:49:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Στη λίστα του ο Χόλιντεϊ» (pic)",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15218041/olympiakos-sti-lista-tou-o-xolintei-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-07T13:33+00:00",
+"sport": "basket",
+"snippet": "Ο Αμερικανός παίκτης αγωνίζεται στη Μαξίμα Ρόμα και φέρεται να έχει συμπεριληφθεί στη λίστα των «ερυθρόλευκων». Ο Χόλιντεϊ έχει στο συμβόλαιό του ρήτρα…",
+"also": [],
+"id": "503e1dc54363"
+},
 {
 "title": "Άρης - Ολυμπιακός 58-95: Εντυπωσιακό διπλό οι ερυθρόλευκες",
 "url": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2584463/aris-olympiakos-58-95-entyposiako-diplo-oi-erythroleykes",
@@ -5129,18 +5141,6 @@
 "snippet": "Ενόψει του αγώνα της ΑΕΚ με τη Ρέαλ Μαδρίτης, ο Χουάνκαρ μίλησε στην «SPORT», τόσο για την βασίλισσα που ξέρει όσο κανείς άλλος, όσο και για την καριέρα του…",
 "also": [],
 "id": "4b860ba4847b"
-},
-{
-"title": "Europa League: Στη Γαλλία για το 4/4 ο Ολυμπιακός",
-"url": "https://www.metrosport.gr/europa-league-sti-gallia-gia-to-4-4-o-olympiakos-1332351",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-04T08:15+00:00",
-"sport": "football",
-"snippet": "Μετά τις Γιαγκελόνια, Μαρσέιγ και Σπάρτα Πράγας, ο Ολυμπιακός φιλοδοξεί να κερδίσει και την Ρεν (17:30/MagentaSport 3), για την 4η αγωνιστική της ...",
-"also": [],
-"id": "eac849d2fa64"
 }
 ]
 }
