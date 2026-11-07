@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-07T04:14:06+00:00",
+ "checked_at": "2026-11-07T04:29:14+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
@@ -18,9 +18,9 @@
   "euroleague": {
    "name": "EuroLeague",
    "channel_id": "UCGr3nR_XH9r6E5b09ZJAT9w",
-   "ok": true,
-   "items": 2,
-   "error": ""
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 404: Not Found"
   },
   "superleague": {
    "name": "Super League",
