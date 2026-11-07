@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-07T13:18:44+00:00",
+"generated_at": "2026-11-07T13:33:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης - Ολυμπιακός 58-95: Εντυπωσιακό διπλό οι ερυθρόλευκες",
+"url": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2584463/aris-olympiakos-58-95-entyposiako-diplo-oi-erythroleykes",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T13:31+00:00",
+"sport": "basket",
+"snippet": "O Oλυμπιακός επικράτησε εύκολα του Άρη με 58-95 και ανέβηκε στο 5-1 στην WBL 1.",
+"also": [],
+"id": "f6359bd81335"
+},
+{
+"title": "Allwyn WBL1: Άνετες νίκες για Ολυμπιακό και Αμύντα",
+"url": "https://www.sdna.gr/mpasket/1484431_allwyn-wbl1-anetes-nikes-gia-olympiako-kai-amynta",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T13:23+00:00",
+"sport": "basket",
+"snippet": "Δράση στην 6η αγωνιστική του Allwyn WBL1 είχε σήμερα το πρόγραμμα, με τον Ολυμπιακό και τον Αμύντα να κερδίζουν τον Άρη και τον Πανσερραϊκό...",
+"also": [],
+"id": "fbc430ddc1db"
+},
+{
+"title": "Άνετες νίκες για Αθηναϊκό, Ολυμπιακό και Αμύντα",
+"url": "https://www.ertsports.gr/mpasket/a1-gynaikon-mpasket/anetes-nikes-gia-athinaiko-olympiako-kai-amynta/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-07T13:20+00:00",
+"sport": "basket",
+"snippet": "Με ιδιαίτερα σημαντικά παιχνίδια συνεχίζεται σήμερα Σάββατο το πρωτάθλημα της Women’s Basketball League 1 με τη διεξαγωγή της 6ης Αγωνιστικής. The post Άνετες…",
+"also": [],
+"id": "b314090f0811"
+},
+{
+"title": "Άρης-Ολυμπιακός 58-95: «Ερυθρόλευκος περίπατος» στη Θεσσαλονίκη",
+"url": "https://www.novasports.gr/sport/mpasket/event/ellada-basketball-a1-women/article/15218025/aris-olympiakos-58-95-erythroleykos-peripatos-sti-thessaloniki/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-07T13:19+00:00",
+"sport": "basket",
+"snippet": "Οι «ερυθρόλευκες» πανηγύρισαν την πέμπτη φετινή τους νίκη σε έξι ματς και βρίσκονται στη δεύτερη θέση της βαθμολογίας. Από την άλλη πλευρά, οι «κίτρινες»…",
+"also": [],
+"id": "e1f4dbb29d41"
+},
 {
 "title": "«Πριν» και «μετά» το σκάνδαλο: Η ανεξήγητη πτώση στις βολές του Ολυμπιακού στην Ευρωλίγκα και από το 5-1 στο 2-2",
 "url": "https://www.sdna.gr/mpasket/1484420_prin-kai-meta-skandalo-i-anexigiti-ptosi-stis-boles-toy-olympiakoy-stin-eyroligka",
@@ -475,7 +523,15 @@
 "published": "2026-11-07T06:25+00:00",
 "sport": "general",
 "snippet": "Ο Ιμανόλ Αλγουαθίλ καταλήγει στις επιλογές του για το αυριανό ντέρμπι Ολυμπιακού-ΠΑΟΚ, με ανοιχτές θέσεις στην ενδεκάδα και ιδιαίτερη δουλειά στις στατικές…",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/olympiakos-oi-skepseis-kai-oi-sigoyroi-toy-algoyathil-enopsei-paok-1332680",
+"title": "Ολυμπιακός: Οι σκέψεις και οι «σίγουροι» του Αλγουαθίλ ενόψει ΠΑΟΚ",
+"published": "2026-11-07T13:30+00:00"
+}
+],
 "id": "3a2299d3eb93"
 },
 {
@@ -5085,54 +5141,6 @@
 "snippet": "Μετά τις Γιαγκελόνια, Μαρσέιγ και Σπάρτα Πράγας, ο Ολυμπιακός φιλοδοξεί να κερδίσει και την Ρεν (17:30/MagentaSport 3), για την 4η αγωνιστική της ...",
 "also": [],
 "id": "eac849d2fa64"
-},
-{
-"title": "ΠΑΟΚ: Με το βλέμμα στο ντέρμπι με τον Ολυμπιακό – Οι επιλογές του Λίσι και τα αγωνιστικά ζητήματα (audio)",
-"url": "https://www.ertsports.gr/super-league/paok-me-to-vlemma-sto-ntermpi-me-ton-olympiako-oi-epiloges-tou-lisi-kai-ta-agonistika-zitimata-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-04T08:02+00:00",
-"sport": "football",
-"snippet": "Την προετοιμασία του για το μεγάλο ντέρμπι της Κυριακής με τον Ολυμπιακό συνεχίζει ο ΠΑΟΚ, με στόχο τη νίκη που θα τον διατηρήσει στη διεκδίκηση της κορυφής. Ο…",
-"also": [],
-"id": "9583f99dede7"
-},
-{
-"title": "ΠΑΟΚ: «Πονοκέφαλος» για τον Λίσι ενόψει Ολυμπιακού",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15211911/paok-ponokefalos-gia-ton-lisi-enopsei-olympiakou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-04T07:43+00:00",
-"sport": "football",
-"snippet": "Η νίκη επί του Astera AKTOR προσέφερε βαθμολογική και ψυχολογική ενίσχυση στον ΠΑΟΚ, ωστόσο δημιούργησε παράλληλα ένα σημαντικό πρόβλημα στον Αλέσιο Λίσι…",
-"also": [],
-"id": "6a38d9b97a48"
-},
-{
-"title": "Ολυμπιακός: Με στόχο το 4/4 στη Βρετάνη – Τα πλάνα του Αλγουαθίλ και τα ερωτηματικά της ενδεκάδας (audio)",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/olympiakos-me-stoxo-to-4-4-sti-vretani-ta-plana-tou-algouathil-kai-ta-erotimatika-tis-endekadas-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-04T07:39+00:00",
-"sport": "football",
-"snippet": "Στη Γαλλία και συγκεκριμένα στη Βρετάνη βρίσκεται ο Ολυμπιακός, ενόψει της αναμέτρησης με τη Ρεν, με στόχο να διευρύνει το νικηφόρο σερί του και να κάνει το 4…",
-"also": [],
-"id": "5fc3b413d88f"
-},
-{
-"title": "Ολυμπιακός: Σε ποια λεπτά σκοράρει η Ρεν και σε ποια δέχεται γκολ",
-"url": "https://www.gazzetta.gr/football/europa-league/2583296/olympiakos-se-poia-lepta-skorarei-i-ren-kai-se-poia-dehetai-gkol",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T07:30+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr ορισμένα στοιχεία για τα δυνατά και τα... περίεργα χρονικά σημεία της Ρεν κατά τη διάρκεια του 90λέπτου.",
-"also": [],
-"id": "6d8ce9f12615"
 }
 ]
 }
