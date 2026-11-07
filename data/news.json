@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T14:49:31+00:00",
+"generated_at": "2026-11-07T15:04:40+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ: Με Λουσέ η αποστολή για Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5159510",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-07T14:56+00:00",
+"sport": "football",
+"snippet": "Γνωστή έγινε η αποστολή του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό στο Καραϊσκάκη.",
+"also": [],
+"id": "5c26c485e131"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Με πλήρη αποστολή στο «Γ. Καραϊσκάκης» ο «Δικέφαλος»",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15218140/olympiakos-paok-me-pliri-apostoli-sto-g-karaiskakis-o-dikefalos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-07T14:55+00:00",
+"sport": "football",
+"snippet": "Με την προπόνηση του Σαββάτου (07.11) στις εγκαταστάσεις της Νέας Μεσημβρίας, η οποία επικεντρώθηκε στην τακτική και τις στατικές φάσεις, ολοκληρώθηκε η…",
+"also": [],
+"id": "bc4702e6ebcc"
+},
 {
 "title": "Ολυμπιακός: Ιταλικές πηγές αποκαλύπτουν νέο μεταγραφικό ενδιαφέρον!",
 "url": "https://sportday.gr/basket/364541_olympiakos-italikes-piges-apokalyptoun-neo-metagrafiko-endiaferon.html",
@@ -227,7 +251,15 @@
 "published": "2026-11-07T11:15+00:00",
 "sport": "football",
 "snippet": "Ο Ολυμπιακός είναι έτοιμος να υποδεχθεί τον ΠΑΟΚ το βράδυ της Κυριακής (08/11, 21:00) στο “Γεώργιος Καραϊσκάκης” για την 10η αγωνιστική της Stoiximan ...",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1484455_mesa-o-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
+"title": "«Μέσα» ο Λουσέ - Η αποστολή του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
+"published": "2026-11-07T14:48+00:00"
+}
+],
 "id": "bf22cd6b84a7"
 },
 {
@@ -5117,30 +5149,6 @@
 "snippet": "Ο Κ. Νικολακόπουλος στέκεται μέσα από το blog του στο Gazzetta σε ένα πολύ σοβαρό θέμα για τον Ολυμπιακό ενόψει των αγώνων του με τη Ρεν, αλλά και τον ΠΑΟΚ.",
 "also": [],
 "id": "cfc48a47f897"
-},
-{
-"title": "Elite Ισπανός διαιτητής στο Ολυμπιακός – ΠΑΟΚ",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15211983/elite-ispanos-diaititis-sto-olympiakos-paok/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-04T09:00+00:00",
-"sport": "football",
-"snippet": "Αυτή θα είναι η τέταρτη φορά στην καριέρα του που θα σφυρίξει σε παιχνίδι ανάμεσα στις δύο ομάδες, με τις τρεις προηγούμενες να έχουν διεξαχθεί επίσης στην…",
-"also": [],
-"id": "e3dc8cdda4b2"
-},
-{
-"title": "Ξανά στην Ελλάδα ο Elite Σάντσεθ Μαρτίνεθ για ντέρμπι Ολυμπιακός - ΠΑΟΚ",
-"url": "https://www.gazzetta.gr/football/superleague/2583469/xana-stin-ellada-o-elite-santseth-martineth-gia-ntermpi-olympiakos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T08:39+00:00",
-"sport": "football",
-"snippet": "Ο Χοσέ Μαρία Σάντσεθ Μαρτίνεθ ορίστηκε από την ΚΕΔ για το ντέρμπι του Ολυμπιακού με τον ΠΑΟΚ, κάτι συμβαίνει για τέταρτη φορά.",
-"also": [],
-"id": "2bf3ce232c75"
 }
 ]
 }
