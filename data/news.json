@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T06:45:24+00:00",
+"generated_at": "2026-11-07T07:00:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Παπαπέτρου στο Gazz Floor: «Πρέπει να καταλάβουμε τι είδους παίκτης είναι ο Κόντσαρ - Αποκτήθηκε με τον Μοντέρο να παίζει»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584392/papapetroy-sto-gazz-floor-prepei-na-katalaboyme-ti-eidoys-paiktis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T06:47+00:00",
+"sport": "basket",
+"snippet": "Ο Ιωάννης Παπαπέτρου σχολίασε στο Gazz Floor by Novibet την ήττα του Ολυμπιακού απέναντι στον Ερυθρό Αστέρα, αλλά και το ερυθρόλευκο ντεμπούτο του Τζον Κόντσαρ.",
+"also": [],
+"id": "4bbbd5a3a1ac"
+},
+{
+"title": "Α1 Γυναικών: Υποδέχεται τον Πρωτέα ο Παναθηναϊκός - Στην Θεσσαλονίκη ο Ολυμπιακός",
+"url": "https://www.sdna.gr/mpasket/1484158_a1-gynaikon-ypodehetai-ton-protea-o-panathinaikos-stin-thessaloniki-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T06:45+00:00",
+"sport": "basket",
+"snippet": "Η 6η αγωνιστική της Α1 Γυναικών θα πραγματοποιηθεί σήμερα, με τον Παναθηναϊκό να φιλοξενεί τον Πρωτέα Βούλας και τον Ολυμπιακό να κοντράρεται εκτός...",
+"also": [],
+"id": "608159008980"
+},
 {
 "title": "Ολυμπιακός: Στραβός ο γιαλός, στραβό και το αρμένισμα",
 "url": "https://sportday.gr/blogs/depollas/364502_olympiakos-stravos-o-gialos-stravo-kai-to-armenisma.html",
@@ -5117,30 +5141,6 @@
 "snippet": "Διαφορετική ώρα έναρξης θα έχει τελικά η ευρωπαϊκή αναμέτρηση του Ολυμπιακού με την Τσέλιε στη Σλοβενία, στο πλαίσιο της έκτης αγωνιστικής της League Phase του…",
 "also": [],
 "id": "c21a4718557e"
-},
-{
-"title": "Αστοχία της Ρεν εν όψει Ολυμπιακού: Αφιέρωμα με Πίτερς και τρόπαιο EuroLeague!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15211083/astoxia-tis-ren-en-opsei-olympiakou-afieroma-me-piters-kai-tropaio-euroleague/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-03T19:13+00:00",
-"sport": "football",
-"snippet": "Στη Γαλλία ο Ολυμπιακός αντιμετωπίζει τη Ρεν, εν όψει της 4ης Αγωνιστικής για τη League Phase του Europa League. Η αναμέτρηση των Πειραιωτών είναι…",
-"also": [],
-"id": "e7a367ca5cb6"
-},
-{
-"title": "Live streaming: Μπάξι Φερόλ - Ολυμπιακός (Eurocup Women 2026-27)",
-"url": "https://www.sdna.gr/mpasket/1483134_live-streaming-mpaxi-ferol-olympiakos-eurocup-women-2026-27",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-03T19:10+00:00",
-"sport": "basket",
-"snippet": "",
-"also": [],
-"id": "85521c54636e"
 }
 ]
 }
