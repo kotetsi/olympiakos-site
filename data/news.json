@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T07:30:48+00:00",
+"generated_at": "2026-11-07T07:45:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακρής στο Gazz Floor: «Ο Ολυμπιακός έπαιζε παράλληλο μπάσκετ και όχι κάθετο»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584402/makris-sto-gazz-floor-o-olympiakos-epaize-parallilo-mpasket-kai-ohi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T07:34+00:00",
+"sport": "basket",
+"snippet": "Ο Στέφανος Μακρής σχολίασε στο Gazz Floor by Novibet την ήττα του Ολυμπιακού απέναντι στον Ερυθρό Αστέρα, αναλύοντας παράλληλα τον τρόπο παιχνιδιού των…",
+"also": [],
+"id": "110f614ea7d3"
+},
 {
 "title": "Ολυμπιακός: Η εκτίμηση της 11άδας για ΠΑΟΚ και οι θέσεις που παίζονται",
 "url": "https://www.gazzetta.gr/football/superleague/2584303/olympiakos-i-ektimisi-tis-11adas-gia-paok-kai-oi-theseis-poy-paizontai",
@@ -5129,18 +5141,6 @@
 "snippet": "Ο Τζαρόν Μπλόσομγκεϊμ και ο Τσίμα Μονέκε σχολιάζουν τον Κέβιν Πόρτερ Τζούνιορ και εξηγούν γιατί δεν ταιριάζει στο αγωνιστικό σύστημα του Ολυμπιακού.",
 "also": [],
 "id": "ae3f48b7dfd2"
-},
-{
-"title": "Τσορμπατζόγλου: «Με πολλούς απόντες ξεκίνησε η προετοιμασία του ΠΑΟΚ για το ντέρμπι με Ολυμπιακό»",
-"url": "http://www.sport-fm.gr/article/5158626",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-03T19:43+00:00",
-"sport": "general",
-"snippet": "Τα τελευταία νέα του ΠΑΟΚ, όπως τα μετέφερε στον bwinΣΠΟΡ FM 94,6 ο Δημήτρης Τσορμπατζόγλου.",
-"also": [],
-"id": "d3cdd1a4636c"
 }
 ]
 }
