@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T07:15:41+00:00",
+"generated_at": "2026-11-07T07:30:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η εκτίμηση της 11άδας για ΠΑΟΚ και οι θέσεις που παίζονται",
+"url": "https://www.gazzetta.gr/football/superleague/2584303/olympiakos-i-ektimisi-tis-11adas-gia-paok-kai-oi-theseis-poy-paizontai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T07:21+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ολοκληρώνει την προετοιμασία του για το παιχνίδι με τον ΠΑΟΚ και ο Βάσκος προπονητής ετοιμάζει τα πλάνα του για την Κυριακή.",
+"also": [],
+"id": "37172ed6b68a"
+},
 {
 "title": "Μακρής στο Gazz Floor: «Μάτωνε για να σκοράρει ο Ολυμπιακός»",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584388/makris-sto-gazz-floor-matone-gia-na-skorarei-o-olympiakos",
@@ -5129,18 +5141,6 @@
 "snippet": "Τα τελευταία νέα του ΠΑΟΚ, όπως τα μετέφερε στον bwinΣΠΟΡ FM 94,6 ο Δημήτρης Τσορμπατζόγλου.",
 "also": [],
 "id": "d3cdd1a4636c"
-},
-{
-"title": "Ολυμπιακός: Στο πειθαρχικό ο Δημήτρης Γιαννακόπουλος",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-sto-pitharchiko-o-dimitris-giannakopoulos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T19:41+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε ξεχωριστή πειθαρχική διαδικασία της EuroLeague για τον Δημήτρη Γιαννακόπουλο και γνωστοποίησε πρόστιμο στον Παναθηναϊκό.",
-"also": [],
-"id": "79f109b6f000"
 }
 ]
 }
