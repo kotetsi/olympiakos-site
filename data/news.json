@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T11:17:44+00:00",
+"generated_at": "2026-11-07T11:32:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ",
+"url": "https://www.metrosport.gr/i-apostoli-toy-olympiakoy-gia-to-ntermpi-me-ton-paok-1332704",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-07T11:15+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός είναι έτοιμος να υποδεχθεί τον ΠΑΟΚ το βράδυ της Κυριακής (08/11, 21:00) στο “Γεώργιος Καραϊσκάκης” για την 10η αγωνιστική της Stoiximan ...",
+"also": [],
+"id": "bf22cd6b84a7"
+},
 {
 "title": "Ολυμπιακός: Πάνοπλος στο ματς με τον ΠΑΟΚ (pic)",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15217914/olympiakos-panoplos-sto-mats-me-ton-paok-pic/",
@@ -37,6 +49,18 @@
 "snippet": "Μετά την ολοκλήρωση της προετοιμασίας του Ολυμπιακού, ο Αλγκουαθίλ ανακοίνωσε τους παίκτες που θα έχει στη διάθεσή του για το παιχνίδι με τον ΠΑΟΚ (8/11,21:00).",
 "also": [],
 "id": "c506d05494f7"
+},
+{
+"title": "Ολυμπιακός: Ο Αλγουαθίλ ανακοίνωσε αποστολή με 25 παίκτες ενόψει ΠΑΟΚ",
+"url": "https://www.ertsports.gr/super-league/olympiakos-o-algouathil-anakoinose-apostoli-me-25-paiktes-enopsei-paok/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-07T11:04+00:00",
+"sport": "football",
+"snippet": "Από την ΠΑΕ Ολυμπιακός γνωστοποίησαν τα ονόματα των παικτών που επέλεξε να έχει μαζί του ο Ιμανόλ Αλγουαθίλ στην αποστολή των Πειραιωτών για τον αυριανό (8/11…",
+"also": [],
+"id": "59aaf55cd8f2"
 },
 {
 "title": "Η αποστολή του Ολυμπιακού κόντρα στον ΠΑΟΚ",
@@ -5109,30 +5133,6 @@
 "snippet": "Ο Ολυμπιακός μιλά για 250 εκατ. στον Βοτανικό. Οι επίσημες συμβάσεις δείχνουν ποια έργα πληρώνει το κράτος, ποια οι τράπεζες και τι ισχύει για το ΣΕΦ.",
 "also": [],
 "id": "a5285f32b5a7"
-},
-{
-"title": "Γουόρεν Μπάφετ: Ο θρύλος των επενδύσεων παίρνει σύνταξη στα… 96 του – Ο μεγιστάνας που τον απέρριψε το Χάρβαντ, απεχθάνεται τα crypto και τρώει πρωινό $3,17",
-"url": "https://www.gazzetta.gr/plus/2583439/goyoren-mpafet-o-thrylos-ton-ependyseon-pairnei-syntaxi-sta-96-toy-o-megistanas-poy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T06:35+00:00",
-"sport": "general",
-"snippet": "wdefd",
-"also": [],
-"id": "c23bad665af5"
-},
-{
-"title": "Ολυμπιακός στη Γαλλία: Οι 18 εκτός έδρας μάχες και το 5-1-12 πριν από τη Ρεν",
-"url": "http://www.sport-fm.gr/article/5158690",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T06:33+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός ετοιμάζεται για ακόμη μία αποστολή στη Γαλλία και έχει πίσω του 18 εκτός έδρας αναμετρήσεις με γαλλικές ομάδες, με απολογισμό πέντε νίκες, μία…",
-"also": [],
-"id": "ebcb6a126cc7"
 }
 ]
 }
