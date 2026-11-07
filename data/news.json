@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T21:07:40+00:00",
+"generated_at": "2026-11-07T21:22:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι τρεις μεταγραφές που ζήτησε ο Αλγκουαθίλ στον Ολυμπιακό - Χάντσον-Οντόι και... Πινέδα",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1484568_oi-treis-metagrafes-poy-zitise-o-algkoyathil-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T21:16+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγκουαθίλ χτίζει τον δικό του Ολυμπιακό και τον Ιανουάριο έχει ζητήσει συγκεκριμένες κινήσεις για την ενίσχυση του ρόστερ. Ποιοι έρχονται...",
+"also": [],
+"id": "d0ff9ccf0fb0"
+},
 {
 "title": "Ξεκούραστες νίκες για Ολυμπιακό και Πανιώνιο",
 "url": "https://www.ertsports.gr/bolei/ksekourastes-nikes-gia-olympiako-kai-panionio/",
@@ -5113,18 +5125,6 @@
 "snippet": "Ο ΠΑΟΚ επέστρεψε στις προπονήσεις μετά το χθεσινό ρεπό, με τον Τομ Λουσέ να συμμετέχει σε μέρος του προγράμματος ενόψει του ντέρμπι με τον Ολυμπιακό.",
 "also": [],
 "id": "b4f64be7ca7e"
-},
-{
-"title": "Ολυμπιακός: Στο ΣΕΦ Αγγελόπουλοι και Μπαρτζώκας – Ποια η σημαντιική νέα εξέλιξη",
-"url": "https://sportday.gr/basket/364212_olympiakos-sto-sef-angelopouloi-kai-mpartzokas-poia-i-simantiiki-nea-ekseliksi.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T13:14+00:00",
-"sport": "basket",
-"snippet": "Οι ιδιοκτήτες της ΚΑΕ Ολυμπιακός, αδερφοί Αγγελόπουλοι είδαν από κοντά τις εργασίες στο ΣΕΦ μαζί με τον Γιώργο Μπαρτζώκα",
-"also": [],
-"id": "16350adf1001"
 }
 ]
 }
