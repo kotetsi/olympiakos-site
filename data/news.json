@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T16:05:12+00:00",
+"generated_at": "2026-11-07T16:20:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ: Μέσα ο Λούσε κόντρα στον Ολυμπιακό",
+"url": "https://sportday.gr/podosfairo/364548_paok-mesa-o-louse-kontra-ston-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-07T16:19+00:00",
+"sport": "football",
+"snippet": "Ανακοινώθηκε η αποστολή του ΠΑΟΚ για το ματς με τον Ολυμπιακό (8/11, 21:00) στο «Γ. Καραϊσκάκης» για τη 10η αγωνιστική της Stoiximan Super League, με τον Τομ…",
+"also": [],
+"id": "c4bfcf1dc7e7"
+},
+{
+"title": "Με Ολυμπιακό Σαλαμίνας ο ΠΑΟΚ: Το πρόγραμμα της Futsal Super League",
+"url": "https://www.metrosport.gr/ssssssssss-1332562",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-07T16:09+00:00",
+"sport": "football",
+"snippet": "Στο πλαίσιο της 8ης αγωνιστικής της Futsal Super League ο ΠΑΟΚ αντιμετωπίζει την Κυριακή εκτός έδρας τον Ολυμπιακό Σαλαμίνας, ενώ το πρόγραμμα ...",
+"also": [],
+"id": "13187b918f57"
+},
 {
 "title": "Ολυμπιακός: Το σενάριο για τον Άντονι και τα «όργια» στην Αυστραλία (video)",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15218300/olympiakos-to-senario-gia-ton-antoni-kai-ta-orgia-stin-aystralia-video/",
@@ -5109,38 +5133,6 @@
 "snippet": "Η ΠΑΕ Ολυμπιακός ανακοίνωσε αλλαγή στο σημείο συνάντησης των φιλάθλων της που βρίσκονται στη Γαλλία για την αναμέτρηση με τη Ρεν (4/11, 17:30), στο...",
 "also": [],
 "id": "5f797a47b170"
-},
-{
-"title": "Ολυμπιακός: Η ενδεκάδα που θα παρατάξει ο Ιμανόλ κόντρα στη Ρεν",
-"url": "https://sportday.gr/podosfairo/364195_olympiakos-aftin-tin-endekada-tha-parataksei-o-imanol-kontra-sti-ren.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T09:58+00:00",
-"sport": "football",
-"snippet": "Ποιο το πλάνο του Ιμανόλ Αλγουαθίλ για τη «μάχη» με τη Ρεν, όπου ο Ολυμπιακός στοχεύει στο «τέσσερα στα τέσσερα» στο Europa League",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5158802",
-"title": "Η ενδεκάδα της Ρεν κόντρα στον Ολυμπιακό",
-"published": "2026-11-04T14:28+00:00"
-}
-],
-"id": "96e02c52ce43"
-},
-{
-"title": "Ολυμπιακός: Αλλαγή του meeting point των φιλάθλων για την αναμέτρηση με τη Ρεν",
-"url": "https://www.gazzetta.gr/football/europa-league/2583481/olympiakos-allagi-toy-meeting-point-ton-filathlon-gia-tin-anametrisi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T09:45+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΕ Ολυμπιακός ανακοινώνει την αλλαγή του meeting point όσων φιλάθλων θα βρεθούν στην Γαλλία για την αναμέτρηση με τη Ρεν.",
-"also": [],
-"id": "6eb885ac148d"
 }
 ]
 }
