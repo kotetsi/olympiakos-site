@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T15:50:03+00:00",
+"generated_at": "2026-11-07T16:05:12+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το σενάριο για τον Άντονι και τα «όργια» στην Αυστραλία (video)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15218300/olympiakos-to-senario-gia-ton-antoni-kai-ta-orgia-stin-aystralia-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-07T16:03+00:00",
+"sport": "basket",
+"snippet": "Δεδομένα οι επιλογές παικτών αυτή την περίοδο είναι περιορισμένες, κάτι που κάνει το έργο του Ολυμπιακού δυσκολότερο, στην προσπάθεια να καλύψει το κενό που…",
+"also": [],
+"id": "76c6306ddfbc"
+},
+{
+"title": "Water Polo League Γυναικών: Ασταμάτητος ο Ολυμπιακός στη Γλυφάδα",
+"url": "https://www.gazzetta.gr/polo/a1-gynaikon/2584504/water-polo-league-gynaikon-astamatitos-o-olympiakos-sti-glyfada",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T15:53+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός καθάρισε και την Γλυφάδα και συνεχίζει αήττητος, σημαντικές νίκες για Εθνικό και ΠΑΟΚ για τη συνέχεια της Waterpolo League γυναικών.",
+"also": [],
+"id": "722e4e22617d"
+},
 {
 "title": "Ντιμιτρίεβιτς: «Απίστευτος ο κόσμος, ανυπομονούμε για τα παιχνίδια με Ολυμπιακό και ΠΑΟΚ»",
 "url": "https://www.metrosport.gr/ntimitrievits-apisteytos-o-kosmos-anypomonoyme-gia-ta-paichnidia-me-olympiako-kai-paok-1332733",
@@ -5117,45 +5141,6 @@
 "snippet": "Ο ΠΑΕ Ολυμπιακός ανακοινώνει την αλλαγή του meeting point όσων φιλάθλων θα βρεθούν στην Γαλλία για την αναμέτρηση με τη Ρεν.",
 "also": [],
 "id": "6eb885ac148d"
-},
-{
-"title": "O Μαρτίνεθ ορίστηκε για το Ολυμπιακός – ΠΑΟΚ",
-"url": "https://www.ertsports.gr/super-league/o-martineth-oristike-gia-to-olympiakos-paok/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-04T09:42+00:00",
-"sport": "football",
-"snippet": "Ο Ισπανός διαιτητής Χοσέ Μαρία Σάντσεθ Μαρτίνεθ έχει οριστεί για να διευθύνει το μεγάλο παιχνίδι ανάμεσα σε Ολυμπιακό και ΠΑΟΚ στο πλαίσιο της 10ης αγωνιστικής…",
-"also": [],
-"id": "16bc5d33e36c"
-},
-{
-"title": "Ολυμπιακός: Άλλαξε το σημείο συνάντησης των φιλάθλων στη Ρεν",
-"url": "http://www.sport-fm.gr/article/5158751",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-04T09:32+00:00",
-"sport": "general",
-"snippet": "Η ΠΑΕ Ολυμπιακός ενημέρωσε τους φιλάθλους που θα ταξιδέψουν στη Ρεν για την αλλαγή του meeting point, την παραλαβή εισιτηρίων και τα μέτρα ασφαλείας.",
-"also": [
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/364203_olympiakos-prosochi-allakse-to-simeio-synantisis-ton-filathlon-sti-ren.html",
-"title": "Ολυμπιακός: Προσοχή, άλλαξε το σημείο συνάντησης των φιλάθλων στη Ρεν",
-"published": "2026-11-04T10:20+00:00"
-},
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15212015/olympiakos-allagi-sto-simeio-synantisis-ton-filathlon-gia-tin-anametrisi-me-ti-ren/",
-"title": "Ολυμπιακός: Αλλαγή στο σημείο συνάντησης των φιλάθλων για την αναμέτρηση με τη Ρεν",
-"published": "2026-11-04T10:27+00:00"
-}
-],
-"id": "f73bd49d7dee"
 }
 ]
 }
