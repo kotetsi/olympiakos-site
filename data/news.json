@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T08:16:12+00:00",
+"generated_at": "2026-11-07T08:31:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η ιστορία έχει και πιο κάτω",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-istoria-echi-ke-pio-kato-ke-den-ine-aparetita-kako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-07T08:23+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός έχει γνωρίσει χειρότερες βραδιές με τον Γιώργο Μπαρτζώκα. Η ιστορία του 2012 και του 2023-24 δείχνει γιατί μια κρίση δεν σημαίνει αποτυχία.",
+"also": [],
+"id": "34dabdeb7485"
+},
+{
+"title": "Ολυμπιακός - Ερυθρός Αστέρας: Τα 163 δευτερόλεπτα του τρόμου, το «ερυθρόλευκο» έλλειμμα δημιουργίας και τα άστοχα τρίποντα",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2584396/olympiakos-erythros-asteras-ta-163-deyterolepta-toy-tromoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-07T08:20+00:00",
+"sport": "basket",
+"snippet": "Ο Στέφανος Μακρής αναλύει με την βοήθεια του Hudl Instat την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα. Τα 163 δευτερόλεπτα που έγειραν την πλάστιγγα προς τους…",
+"also": [],
+"id": "c6548cbe5073"
+},
 {
 "title": "Μακρής στο Gazz Floor: «Ο Ολυμπιακός έπαιζε παράλληλο μπάσκετ και όχι κάθετο»",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2584402/makris-sto-gazz-floor-o-olympiakos-epaize-parallilo-mpasket-kai-ohi",
@@ -5117,30 +5141,6 @@
 "snippet": "Η ΚΑΕ Παναθηναϊκός απάντησε στην ΚΑΕ Ολυμπιακός με ανακοίνωση της. «Τα τηλέφωνα αργούν, να ανοίξουν;», αναφέρει μεταξύ άλλων.",
 "also": [],
 "id": "8e5a366e3d82"
-},
-{
-"title": "Ολυμπιακός: Οι τελευταίες δοκιμές του Αλγκουαθίλ πριν τη Ρεν",
-"url": "https://www.gazzetta.gr/football/superleague/2583372/olympiakos-oi-teleytaies-dokimes-toy-algkoyathil-prin-ti-ren",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-03T19:49+00:00",
-"sport": "football",
-"snippet": "Ο Βάσκος τεχνικός έκανε τις δοκιμές του στο περιθώριο της τελευταίας προπόνησης πριν από το Ρεν - Ολυμπιακός. Ρεν - αποστολή: Δημήτρης Τομαράς.",
-"also": [],
-"id": "3467655ad5c3"
-},
-{
-"title": "Ολυμπιακός: «Όχι» στον Κέβιν Πόρτερ Τζούνιορ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-ochi-ston-kevin-porter-tzounior?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-03T19:49+00:00",
-"sport": "general",
-"snippet": "Ο Τζαρόν Μπλόσομγκεϊμ και ο Τσίμα Μονέκε σχολιάζουν τον Κέβιν Πόρτερ Τζούνιορ και εξηγούν γιατί δεν ταιριάζει στο αγωνιστικό σύστημα του Ολυμπιακού.",
-"also": [],
-"id": "ae3f48b7dfd2"
 }
 ]
 }
