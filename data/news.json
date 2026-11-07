@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-07T15:19:47+00:00",
+"generated_at": "2026-11-07T15:34:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΑΝΟ Γλυφάδας - Ολυμπιακός 8-19",
+"url": "https://www.sdna.gr/polo/1484469_ano-glyfadas-olympiakos-8-19",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T15:31+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός επικράτησε εκτός έδρας του ΑΝΟ Γλυφάδας με 19-8, ανεβάζοντας την απόδοσή του στο δεύτερο ημίχρονο και διατηρώντας το αήττητό του στη...",
+"also": [],
+"id": "a4eb9405ddb4"
+},
+{
+"title": "Το… τρίποντο σόου του Ντιμιτρίεβιτς και η ανυπομονησία για Ολυμπιακό και ΠΑΟΚ (vid)",
+"url": "https://www.sdna.gr/mpasket/1484466_triponto-sooy-toy-ntimitriebits-kai-i-anypomonisia-gia-olympiako-kai-paok-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-07T15:27+00:00",
+"sport": "basket",
+"snippet": "O Νέναντ Ντιμιτρίεβιτς ήταν ο απόλυτος πρωταγωνιστής στη νίκη του Άρη μέσα στη Λευκάδα (77-88).",
+"also": [],
+"id": "f1315fdcfee4"
+},
 {
 "title": "Ολυμπιακός – ΠΑΟΚ: Το μοτίβο με τον διαιτητή",
 "url": "https://sportime.gr/podosfairo/dietitis-giati-echoume-motivo-ston-referi-tou-olimpiakos-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -270,6 +294,13 @@
 "url": "https://www.sdna.gr/podosfairo/1484455_mesa-o-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
 "title": "«Μέσα» ο Λουσέ - Η αποστολή του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
 "published": "2026-11-07T14:48+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2584493/paok-me-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
+"title": "ΠΑΟΚ:Με Λουσέ η αποστολή του Δικεφάλου για το ντέρμπι με τον Ολυμπιακό",
+"published": "2026-11-07T15:19+00:00"
 }
 ],
 "id": "bf22cd6b84a7"
@@ -5125,30 +5156,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τους φιλάθλους μας ενόψει του αγώνα με την Stade Rennais.",
 "also": [],
 "id": "26cb0f37835a"
-},
-{
-"title": "Πρωινός Τύπος (4/11): «Να δείξει ότι έχει σφυγμό η ΑΕΚ - Έχει αποδείξει ότι μπορεί ο Ολυμπιακός»",
-"url": "https://www.sdna.gr/podosfairo/1483329_proinos-typos-4/11-na-deixei-oti-ehei-sfygmo-i-aek-ehei-apodeixei-oti-mporei-o",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-04T09:15+00:00",
-"sport": "football",
-"snippet": "Ευρωπαϊκή διάθεση έχει σήμερα ο Τύπος αναλύοντας τα αποψινά παιχνίδια της ΑΕΚ με τη Ρεάλ και του Ολυμπιακού με τη Ρεν.",
-"also": [],
-"id": "6826146ef3c7"
-},
-{
-"title": "Διαιτησία: Ο Χοσέ Μαρία Σάντσεθ Μαρτίνεθ στο Ολυμπιακός – ΠΑΟΚ",
-"url": "https://sportday.gr/podosfairo/364188_diaitisia-o-chose-maria-santseth-martineth-sto-olympiakos-paok.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T09:05+00:00",
-"sport": "football",
-"snippet": "Η ΕΠΟ ανακοίνωσε τους διαιτητές της 10ης αγωνιστικής της Stoiximan Super League. O Ισπανός, κατηγορίας elite ορίστηκε στο Ολυμπιακός - ΠΑΟΚ (8/11, 21:00).",
-"also": [],
-"id": "e00ee0258b6d"
 }
 ]
 }
