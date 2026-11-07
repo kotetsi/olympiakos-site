@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-07T13:49:02+00:00",
+"generated_at": "2026-11-07T14:04:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Εδώ ακριβώς είναι το «ζουμί»",
+"url": "https://sportday.gr/blogs/stavros-georgakopoulos/364534_olympiakos-edo-akrivos-einai-to-zoumi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-07T14:00+00:00",
+"sport": "football",
+"snippet": "Παρότι μπήκε τελευταίος στο χορό μεταξύ των ομάδων που διεκδικούν τον τίτλο ο Βάσκος τεχνικός δείχνει ότι μπορεί να διαχειριστεί καλύτερα απ’ όλους το ρόστερ…",
+"also": [],
+"id": "e0ca7e8a698b"
+},
 {
 "title": "Ολυμπιακός: «Στη λίστα του ο Χόλιντεϊ» (pic)",
 "url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15218041/olympiakos-sti-lista-tou-o-xolintei-pic/",
@@ -5129,18 +5141,6 @@
 "snippet": "Ο Ισπανός Χοσέ Μαρία Σάντσεθ Μαρτίνεθ θα «σφυρίξει» άλλο ένα ντέρμπι Ολυμπιακού – ΠΑΟΚ. Οι ορισμοί των διαιτητών της 10ης αγωνιστικής της Stoiximan Super…",
 "also": [],
 "id": "6a467b5100df"
-},
-{
-"title": "Χουάνκαρ: «Τρόμαξα με την απώλεια ακοής στο Καραϊσκάκης, αλλά πλέον είμαι απολύτως καλά»",
-"url": "https://www.gazzetta.gr/football/superleague/2583467/hoyankar-tromaxa-me-tin-apoleia-akois-sto-karaiskakis-alla-pleon-eimai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T08:20+00:00",
-"sport": "football",
-"snippet": "Ενόψει του αγώνα της ΑΕΚ με τη Ρέαλ Μαδρίτης, ο Χουάνκαρ μίλησε στην «SPORT», τόσο για την βασίλισσα που ξέρει όσο κανείς άλλος, όσο και για την καριέρα του…",
-"also": [],
-"id": "4b860ba4847b"
 }
 ]
 }
