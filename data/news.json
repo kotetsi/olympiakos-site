@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-08T21:04:17+00:00",
+"generated_at": "2026-11-08T21:19:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Λίσι: «Μου άρεσε πολύ η ομάδα σήμερα»",
+"url": "https://www.ertsports.gr/omades/paok/lisi-mou-arese-poly-i-omada-simera/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T21:18+00:00",
+"sport": "football",
+"snippet": "Ο προπονητής του ΠΑΟΚ, Αλέσιο Λίσι, παραχώρησε δηλώσεις λίγο μετά το φινάλε του βαθμολογικού ντέρμπι με τον Ολυμπιακό στο \"Γεώργιος Καραϊσκάκης\" για την 10η…",
+"also": [],
+"id": "5a718b4fd66e"
+},
+{
+"title": "Μπάμπης Χριστόγλου: Ο Ολυμπιακός ανέστησε τον ΠΑΟΚ",
+"url": "https://sportday.gr/video/364706_mpampis-christoglou-o-olympiakos-anestise-ton-paok.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-08T21:10+00:00",
+"sport": "football",
+"snippet": "",
+"also": [],
+"id": "4fb2fffd6449"
+},
+{
+"title": "Νικολακόπουλος: «Ο Ολυμπιακός έκανε δώρο στον ΠΑΟΚ και στον Παναθηναϊκό»",
+"url": "http://www.sport-fm.gr/article/5159878",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T21:09+00:00",
+"sport": "general",
+"snippet": "Ο Κώστας Νικολακόπουλος αναφέρθηκε στην αυτοκαταστροφική τάση του Ολυμπιακού στο ντέρμπι με τον ΠΑΟΚ.",
+"also": [],
+"id": "7401fb6413d1"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Χοσέ Μαρία Σάντσεθ Μαρτίνεθ, ο διαιτητής των ισοπαλιών",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15221443/olympiakos-paok-xose-maria-santseth-martineth-o-diaititis-ton-isopalion/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T21:08+00:00",
+"sport": "football",
+"snippet": "Ολυμπιακός και ΠΑΟΚ ήρθαν ισόπαλοι 1-1 στο «Γ. Καραϊσκάκης» για τη 10η αγωνιστική της Super League, ένα παιχνίδι που διεύθυνε ο Ισπανός διαιτητής, Χοσέ Μαρία…",
+"also": [],
+"id": "74111426b6d2"
+},
+{
+"title": "ΠΑΟΚ: Ο καλύτερος γιατρός ο Ολυμπιακός!",
+"url": "https://sportime.gr/olimpiakos/paok-o-kaliteros-giatros-ine-o-olimpiakos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T21:03+00:00",
+"sport": "general",
+"snippet": "Ο Αλέσιο Λίσι πήρε πολύτιμη ανάσα από το ντέρμπι με τον Ολυμπιακό. Η ισοπαλία στον Πειραιά και το μέλλον του Ιταλού προπονητή στον ΠΑΟΚ.",
+"also": [],
+"id": "728501a93271"
+},
 {
 "title": "Ολυμπιακός – ΠΑΟΚ 1-1: Ορθιος ο Δικέφαλος στο Φάληρο, έχασαν έδαφος οι Ερυθρόλευκοι",
 "url": "https://www.gazzetta.gr/football/superleague/2584932/olympiakos-paok-1-1-orthios-o-dikefalos-sto-faliro-ehasan-edafos-oi",
@@ -5010,66 +5070,6 @@
 "snippet": "Ο Εβάν Φουρνιέ επιστρέφει στο ροτέισον του Ολυμπιακού μετά τον τραυματισμό του στον ώμο και το γόνατο... The post Ολυμπιακός: Ο Εβάν Φουρνιέ θέλει να συνεχίσει…",
 "also": [],
 "id": "4a3789696fdc"
-},
-{
-"title": "ΠΑΟΚ: Ο γρίφος του Καραϊσκάκη και οι επιλογές του Λίσι για το ντέρμπι",
-"url": "https://www.gazzetta.gr/football/superleague/2584012/paok-o-grifos-toy-karaiskaki-kai-oi-epiloges-toy-lisi-gia-ntermpi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T07:12+00:00",
-"sport": "football",
-"snippet": "Οι εναλλακτικές του Αλέσιο Λίσι για το δεξί άκρο της άμυνας του μετά την τιμωρία του Κένι, οι δυσκολίες των επιλογών και το σενάριο με τρεις κεντρικούς…",
-"also": [],
-"id": "02332c4ca8bd"
-},
-{
-"title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός-Ερυθρός Αστέρας, οι Galacticos, το Gazz Floor και το Gazzetta Magazino",
-"url": "https://www.gazzetta.gr/football/euroleague/2584092/athlitikes-metadoseis-simera-olympiakos-erythros-asteras-oi-galacticos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T07:04+00:00",
-"sport": "basket",
-"snippet": "Δείτε την ώρα και το κανάλι των αθλητικών μεταδόσεων της ημέρας, καθώς και των εκπομπών του Gazzetta.",
-"also": [],
-"id": "c9cbf64aa4e3"
-},
-{
-"title": "Ολυμπιακός: Η απειλή της Φερεντσβάρος και ο... δρόμος για την πρώτη 25άδα στον ευρωπαϊκό συντελεστή",
-"url": "https://www.gazzetta.gr/football/europa-league/2584089/olympiakos-i-apeili-tis-ferentsbaros-kai-o-dromos-gia-tin-proti",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T06:54+00:00",
-"sport": "football",
-"snippet": "Το σπουδαίο διπλό της Φερεντσβάρος στην έδρα της Μίλαν, την έφερε ακόμα πιο κοντά στον Ολυμπιακό με φόντο το rebalancing ενόψει της νέας χρονιάς.",
-"also": [],
-"id": "4452c43f84ec"
-},
-{
-"title": "Ολυμπιακός, Παναθηναϊκός: Αν το πρωτάθλημα κριθεί στο βάθος, έχουμε ντερμπάρα για δύο!",
-"url": "https://sportday.gr/podosfairo/364416_olympiakos-panathinaikos-an-to-protathlima-krithei-sto-vathos-echoume-ntermpara-gia-dyo.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T06:48+00:00",
-"sport": "football",
-"snippet": "Ο Ράστοντερ απάντησε μια μέρα μετά στον... Φορτούνη και οι δύο αιώνιοι πήραν τα αποτελέσματα που ήθελαν σα δύο μεγάλες ευρωπαϊκές ομάδες: με αλλαγές…",
-"also": [],
-"id": "d436c44b2a88"
-},
-{
-"title": "Ολυμπιακός: Με Ερυθρό Αστέρα για την τρίτη συνεχόμενη νίκη και την κορυφή",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2031295/olimpiakos-me-erithro-astera-gia-tin-triti-sinechomeni-niki-ke-tin-korifi/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-06T06:42+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός περιμένει απόψε τον Ερυθρό Αστέρα στη Sunel Arena (21:15, Novasports Prime). The post Ολυμπιακός: Με Ερυθρό Αστέρα για την τρίτη συνεχόμενη νίκη…",
-"also": [],
-"id": "04cded4032d1"
 }
 ]
 }
