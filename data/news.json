@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T10:44:16+00:00",
+"generated_at": "2026-11-08T10:59:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ Κ15 - Ολυμπιακός Κ15 0-0",
+"url": "https://www.sdna.gr/podosfairo/1484679_paok-k15-olympiakos-k15-0-0",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T10:49+00:00",
+"sport": "football",
+"snippet": "Ντερμπάρα με τα όλα της στη Σουρωτή, με τον ΠΑΟΚ να είναι ελαφρώς καλύτερος και τον Ολυμπιακό να διατηρεί το «μηδέν» και το αήττητο (0-0) στη Super...",
+"also": [],
+"id": "c4b08fbe0867"
+},
 {
 "title": "Ολυμπιακός Β - Ελλάς Σύρου",
 "url": "https://www.sdna.gr/podosfairo/1484655_olympiakos-b-ellas-syroy",
@@ -25,6 +37,18 @@
 "snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
 "also": [],
 "id": "735d03a1993a"
+},
+{
+"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 1-1",
+"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-1-1/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T10:20+00:00",
+"sport": "football",
+"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
+"also": [],
+"id": "cfbf5eb21ed5"
 },
 {
 "title": "Ολυμπιακός: Νικολακόπουλος για Αλ Ταμάρι και Πάλμα",
@@ -5047,30 +5071,6 @@
 "snippet": "Η Ελλάδα έχει λόγο να χαμογελά σε ευρωπαϊκό επίπεδο, καθώς μετά την ισοπαλία του Ολυμπιακού με τη Ρεν (0-0) στη Γαλλία, δύο ελληνικές ομάδες βρίσκονται στην…",
 "also": [],
 "id": "7f165230fde7"
-},
-{
-"title": "Ολυμπιακός: Η αντίδραση Βερβελέ στο αυτογκόλ Μπρούνο",
-"url": "https://sportime.gr/podosfairo/emvrontitos-o-verveles-apo-to-aftogkol-tou-brouno?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T17:44+00:00",
-"sport": "football",
-"snippet": "Ο Διονύσης Βερβελές έμεινε άφωνος με το αυτογκόλ του Μπρούνο που δεν μέτρησε στο παιχνίδι του Ολυμπιακού, πριν αρχίσει να διακωμωδεί τη φάση.",
-"also": [],
-"id": "1ecdfa6f5224"
-},
-{
-"title": "Βαθμολογία UEFA: Αύξησε τη διαφορά ο Ολυμπιακός!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15212529/vathmologia-uefa-ayksise-ti-diafora-o-olympiakos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-04T17:38+00:00",
-"sport": "football",
-"snippet": "Σημαντική βαθμολογική ώθηση στην Ελλάδα έδωσε ο Ολυμπιακός μετά την ισοπαλία απέναντι στη Ρεν στο «Ροαζόν Παρκ», στο πλαίσιο της 4ης αγωνιστικής του Europa…",
-"also": [],
-"id": "225df71db95a"
 }
 ]
 }
