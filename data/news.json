@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-08T12:14:56+00:00",
+"generated_at": "2026-11-08T12:30:04+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός Β – Ελλάς Σύρου 2-4: Οι νησιώτες πέρασαν με ανατροπή από του Ρέντη",
+"url": "https://www.ertsports.gr/podosfairo/super-league-2/olympiakos-v-ellas-syrou-2-4-oi-nisiotes-perasan-me-anatropi-apo-tou-renti/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T12:28+00:00",
+"sport": "football",
+"snippet": "Η Ελλάς Σύρου έδωσε συνέχεια στη μεγάλη της νίκη την προηγούμενη αγωνιστική απέναντι στην Athens Kallithea επικρατώντας εκτός έδρας με 4-2 του Ολυμπιακού Β'…",
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-2/article/15219884/olympiakos-v-ellas-syrou-2-4-perasan-apo-tou-renti-oi-nisiotes/",
+"title": "Ολυμπιακός Β’-Ελλάς Σύρου 2-4: Πέρασαν από του Ρέντη οι νησιώτες",
+"published": "2026-11-08T12:29+00:00"
+}
+],
+"id": "56bdb698f652"
+},
+{
+"title": "Ολυμπιακός Β' - Ελλάς Σύρου 2-4: Σπουδαίο διπλό για τους νησιώτες με Μπουλάρι-Οτσοβέτσι",
+"url": "https://www.gazzetta.gr/football/superleague-2/2584717/olympiakos-b-ellas-syroy-2-4-spoydaio-diplo-gia-toys-nisiotes",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T12:25+00:00",
+"sport": "football",
+"snippet": "Με πρωταγωνιστές τους Μπουλάρι και Οτσοβέτσι που πέτυχε δυο γκολ, η Ελλάς Σύρου πήρε μεγάλο διπλό στο Ρέντη επί του Ολυμπιακού Β' με 2-4.",
+"also": [],
+"id": "88a62047a750"
+},
 {
 "title": "Σέρβοι για Ζίβκοβιτς: «Κανείς δεν έχει ταλαιπωρήσει τόσο τον Ολυμπιακό!»",
 "url": "https://www.sdna.gr/podosfairo/1484702_serboi-gia-zibkobits-kaneis-den-ehei-talaiporisei-toso-ton-olympiako",
@@ -82,7 +114,7 @@
 "official": false,
 "published": "2026-11-08T11:35+00:00",
 "sport": "football",
-"snippet": "Χωρίς νικητή και χωρίς τέρματα (0-0) έληξε το μεγάλο ντέρμπι της 10ης αγωνιστικής του πρωταθλήματος Super League Κ15, ανάμεσα στον ΠΑΟΚ και τον ...",
+"snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος με αντίπαλο τον Ολυμπιακό, στην αναμέτρηση των ομάδων Νέων Κ15, η οποία διεξήχθη στις εγκαταστάσεις της Σουρωτής. ...",
 "also": [],
 "id": "7e6cebc59827"
 },
@@ -217,6 +249,18 @@
 "snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
 "also": [],
 "id": "bceb058c5c27"
+},
+{
+"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 2-4",
+"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-2-4/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T10:20+00:00",
+"sport": "football",
+"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
+"also": [],
+"id": "af30d00336c2"
 },
 {
 "title": "Ολυμπιακός: Νικολακόπουλος για Αλ Ταμάρι και Πάλμα",
@@ -5035,42 +5079,6 @@
 "snippet": "Ο Ολυμπιακός χάρισε 41 πόντους στην Μπενφίκα από λάθη, αλλά νίκησε 3-2 και προκρίθηκε στους «32». Η Μπάνιστερ πέτυχε 66 πόντους σε δύο παιχνίδια.",
 "also": [],
 "id": "06e64b049015"
-},
-{
-"title": "Ολυμπιακός: Αγωνία για Σάλιακα και διαχείριση από Αλγουαθίλ",
-"url": "http://www.sport-fm.gr/article/5158940",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T05:34+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός άφησε πίσω του το 0-0 με τη Ρεν και στρέφεται στο ντέρμπι με τον ΠΑΟΚ, με τον Ιμανόλ Αλγουαθίλ να περιμένει νέα για την κατάσταση του Μανώλη…",
-"also": [],
-"id": "1f616f419654"
-},
-{
-"title": "Challenge Cup γυναικών: Ο Ολυμπιακός νίκησε σε νέο “θρίλερ” την Μπενφίκα και πέρασε στους “32”",
-"url": "https://www.ertsports.gr/bolei/challenge-cup-gynaikon-o-olympiakos-nikise-se-neo-thriler-tin-mpenfika-kai-perase-stous-32/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-05T00:09+00:00",
-"sport": "general",
-"snippet": "Μετά από έναν απίστευτο αγώνα που ολοκληρώθηκε σχεδόν στις 2 τα μεσάνυχτα ώρα Ελλάδας, ο Ολυμπιακός νίκησε για δεύτερη φορά τη Μπενφίκα και συνεχίζει την…",
-"also": [],
-"id": "e5d5ca00d5a8"
-},
-{
-"title": "Μπενφίκα - Ολυμπιακός 2-3: Επική «ερυθρόλευκη» πρόκριση μέσα στην Πορτογαλία",
-"url": "https://www.gazzetta.gr/volleyball/challenge-cup/2583768/mpenfika-olympiakos-2-3-epiki-erythroleyki-prokrisi-mesa-stin",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T23:50+00:00",
-"sport": "volley",
-"snippet": "Ένας φοβερός Ολυμπιακός παρότι έχανε με 2-1 και 10-7 και 11-8 στα τάι μπρέικ κατάφερε να επικρατήσει της Μπενφίκα με 3-2 και με δύο νίκες προκρίθηκε στους «32»…",
-"also": [],
-"id": "3878ecb09919"
 }
 ]
 }
