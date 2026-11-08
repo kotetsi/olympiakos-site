@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-08T20:03:45+00:00",
+"generated_at": "2026-11-08T20:18:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Χάνει Ντουμπάι ο Παπανικολάου",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15221327/olympiakos-xanei-ntoumpai-o-papanikolaou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T20:14+00:00",
+"sport": "basket",
+"snippet": "Ο διεθνής φόργουορντ ταλαιπωρείται από τενοντίτιδα καταφυτικού τένοντα ορθού κοιλιακού, πρόβλημα που του στέρησε την παρουσία από το ματς πρωταθλήματος με το…",
+"also": [],
+"id": "74fe73eec7a0"
+},
+{
+"title": "Ολυμπιακός: Χάνει Ντουμπάι και Άρη ο Παπανικολάου - Τι είπε ο Μπαρτζώκας",
+"url": "https://www.sdna.gr/mpasket/1484846_olympiakos-hanei-ntoympai-kai-ari-o-papanikolaoy-ti-eipe-o-mpartzokas",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T20:06+00:00",
+"sport": "basket",
+"snippet": "Εκτός δράσης για μία εβδομάδα αναμένεται να μείνει ο Κώστας Παπανικολάου, όπως ανέφερε ο Γιώργος Μπαρτζώκας.",
+"also": [],
+"id": "fd369dfe5e56"
+},
+{
+"title": "Ολυμπιακός: Μόνο τα μπακ κάνουν ντρίπλα!",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-mono-ta-bak-kanoun-ntripla?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T20:03+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός δυσκολεύεται στο ένας εναντίον ενός απέναντι στον ΠΑΟΚ. Σάλιακας και Τικνιζιάν ξεχωρίζουν για τις ατομικές τους ενέργειες στο πρώτο ημίχρονο.",
+"also": [],
+"id": "dbaa6ea7dccb"
+},
 {
 "title": "ΠΑΟΚ-Ανησυχία για Γιάκιτς: Αποχώρησε τραυματίας και κλαίγοντας με λυγμούς!",
 "url": "https://www.metrosport.gr/paok-anisychia-gia-giakits-apochorise-traymatias-kai-klaigontas-me-lygmoys-1332866",
@@ -5058,42 +5094,6 @@
 "snippet": "Ο Λίον Μπέιλι πήρε την ευκαιρία από τον Αλγουαθίλ κόντρα στη Ρεν, αλλά έδειξε πως χρειάζεται ακόμα χρόνο για να ανταποκριθεί στις απαιτήσεις του Ολυμπιακού.",
 "also": [],
 "id": "284ab3aa201a"
-},
-{
-"title": "Ολυμπιακός: Ο ηγέτης Φορτούνης επέστρεψε στο ματς με τη Ρεν – Oι εντυπωσιακοί αριθμοί του",
-"url": "https://sportday.gr/podosfairo/364383_olympiakos-o-igetis-fortounis-epestrepse-sto-mats-me-ti-ren-oi-entyposiakoi-arithmoi-tou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-05T19:45+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Φορτούνης έκανε την καλύτερή του εμφάνιση μετά την επιστροφή του στον Ολυμπιακό και έδωσε μήνυμα ενόψει της συνέχειας.",
-"also": [],
-"id": "d014d39b6752"
-},
-{
-"title": "Χαστούκι στη Μίλαν από τη Φερεντσβάρος πριν από τον Ολυμπιακό, κατέρρευσε η Ομόνοια - Η βαθμολογία του Europa",
-"url": "http://www.sport-fm.gr/article/5159123",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T19:43+00:00",
-"sport": "football",
-"snippet": "Τρομερή Φερεντσβάρος σόκαρε τη Μίλαν στο «Σαν Σίρο» με 2-0 και έκανε το 4/4 στο Europa League. Ήττα με ανατροπή για Ομόνοια στο Ναϊμέγκεν (3-1). Σούπερ…",
-"also": [],
-"id": "ece344d80262"
-},
-{
-"title": "Ζέρβας: «Δεν θα βιαστεί για την απόκτηση γκαρντ ο Ολυμπιακός - Πάντα ψηλά στη λίστα ο Τζόουνς Γκαρσία»",
-"url": "http://www.sport-fm.gr/article/5159120",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T19:18+00:00",
-"sport": "general",
-"snippet": "Ο Νίκος Ζέρβας μετέφερε τα τελευταία νέα του Ολυμπιακού στον αέρα του bwinΣΠΟΡ FM 94,6.",
-"also": [],
-"id": "1512a3acb662"
 }
 ]
 }
