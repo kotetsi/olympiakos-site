@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-08T19:33:30+00:00",
+"generated_at": "2026-11-08T19:48:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Ο Ζαφείρης αστόχησε σε τετ α τετ με τον Ορτέγκα!",
+"url": "https://www.gazzetta.gr/football/superleague/2584868/olympiakos-paok-o-zafeiris-astohise-se-tet-tet-me-ton-ortegka",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T19:44+00:00",
+"sport": "football",
+"snippet": "Ο Ζαφείρης στο 31' δεν κατάφερε να δώσει το προβάδισμα στον ΠΑΟΚ εναντίον του Ολυμπιακού.",
+"also": [],
+"id": "df9ef4951651"
+},
+{
+"title": "Κλέβει ο Ολυμπιακός έξω από την περιοχή του ΠΑΟΚ, αστοχεί από πλεονετική θέση ο Μάριους",
+"url": "http://www.sport-fm.gr/article/5159847",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T19:42+00:00",
+"sport": "general",
+"snippet": "Μια πολύ μεγάλη ευκαιρία είχε ο Ολυμπιακός στο 28ο λεπτό, όταν μετά από κλέψιμο έξω από την περιοχή του ΠΑΟΚ, ο Μάριους αστόχησε από πλεονεκτική θέση.",
+"also": [],
+"id": "c59a61723269"
+},
+{
+"title": "Απείλησε με κεφαλιά του Μάριους ο Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5159846",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T19:41+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός απείλησε την εστία του ΠΑΟΚ με κεφαλιά του Μάριους, την οποία αντιμετώπισε πάντως χωρίς δυσκολία ο Μοναστηρλής.",
+"also": [],
+"id": "ae1c8b9f8aa2"
+},
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Η φάση που ζήτησε πέναλτι ο Δικέφαλος",
+"url": "https://www.gazzetta.gr/football/superleague/2584864/olympiakos-paok-i-fasi-poy-zitise-penalti-o-dikefalos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T19:36+00:00",
+"sport": "football",
+"snippet": "Στο 3' οι Θεσσαλονικείς ζήτησαν πέναλτι για χέρι του Τικνιζιάν.",
+"also": [],
+"id": "8ada995d2174"
+},
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Πρώτες επιθέσεις για τον Δικέφαλο με Ζίβκοβιτς-Εντιαγέ (vids)",
+"url": "https://www.sdna.gr/podosfairo/1484840_olympiakos-paok-protes-epitheseis-gia-ton-dikefalo-me-zibkobits-entiage-vids",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T19:33+00:00",
+"sport": "football",
+"snippet": "Ο ΠΑΟΚ με εκφραστές τους Αντρίγια Ζίβκοβιτς και Σερίφ Εντιαγέ, ψάχνει τρόπο να ανοίξει το σκορ μέσα στο Φάληρο",
+"also": [],
+"id": "7550c4043e90"
+},
 {
 "title": "Ολυμπιακός - ΠΑΟΚ: Τραυματίστηκε στο γόνατο και έφυγε υποβασταζόμενος ο Γιάκιτς",
 "url": "https://www.gazzetta.gr/football/superleague/2584861/olympiakos-paok-traymatistike-sto-gonato-kai-efyge-ypobastazomenos-o",
@@ -5034,66 +5094,6 @@
 "snippet": "Ο Γιώργος Τσανάκας μίλησε στον bwinΣΠΟΡ FM 94,6 για την αναμέτρηση του Ολυμπιακού με τη Ρεν, αλλά και για το επερχόμενο εντός έδρας ντέρμπι του με τον ΠΑΟΚ.",
 "also": [],
 "id": "56ee22e7ecdb"
-},
-{
-"title": "Νουόρα: «Ο Ολυμπιακός έχει μια εξαιρετικά ποιοτική ομάδα»",
-"url": "https://www.sdna.gr/mpasket/1483799_noyora-o-olympiakos-ehei-mia-exairetika-poiotiki-omada",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T18:46+00:00",
-"sport": "basket",
-"snippet": "Ο Τζόρνταν Νουόρα μίλησε πριν το ματς του Ολυμπιακού με τον Ερυθρό Αστέρα για την ποιότητα των Πρωταθλητών Ευρώπης.",
-"also": [],
-"id": "c1c3e7e69879"
-},
-{
-"title": "Ερυθρός Αστέρας: Η απειλή του Νουόρα, η δύναμη του Μονέκε και οι παγίδες για τον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2583985/erythros-asteras-i-apeili-toy-noyora-i-dynami-toy-moneke-kai-oi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-05T18:21+00:00",
-"sport": "basket",
-"snippet": "Με τον Κρις Τζόουνς στην οργάνωση, τον Τζόρνταν Νουόρα σε ρόλο εκτελεστή και τον Τσίμα Μονέκε να προσφέρει ενέργεια όταν είναι στο παρκέ, ο Ερυθρός Αστέρας…",
-"also": [],
-"id": "78494916972d"
-},
-{
-"title": "Η μεγάλη μεταγραφή που «έκανε» ο Ολυμπιακός στη Ρεν",
-"url": "https://www.sdna.gr/podosfairo/1483855_i-megali-metagrafi-poy-ekane-o-olympiakos-sti-ren",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T18:15+00:00",
-"sport": "football",
-"snippet": "Ήρθε σε επαφή με τη μπάλα 101 φορές. Είχε 6 (!) τάκλιν, 12 (!) ανακτήσεις μπάλας και 5 αμυντικά «καθαρίσματα». Έτρεξε 10.17χλμ. με κορυφαίο σπριντ...",
-"also": [],
-"id": "741e2e2b7dae"
-},
-{
-"title": "Ολυμπιακός: Οι πιθανότητες κατάκτησης του Europa League!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15214965/olympiakos-oi-pithanotites-kataktisis-tou-europa-league/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-05T18:04+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός επέστρεψε από τη Γαλλία μετά την ισοπαλία χωρίς γκολ απέναντι στη Ρεν για την 4η Αγωνιστική της League Phase του Europa League και παραμένει…",
-"also": [],
-"id": "2f354fca0428"
-},
-{
-"title": "Ναβάρο: «Αποτελεί μεγάλη πρόκληση για εμάς το παιχνίδι με τον Ολυμπιακό»",
-"url": "https://www.ertsports.gr/mpasket/euroleague/navaro-apotelei-megali-proklisi-gia-emas-to-paixnidi-me-ton-olympiako/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-05T17:56+00:00",
-"sport": "basket",
-"snippet": "Ο Ιμπόν Ναβάρο έκανε δηλώσεις ενόψει της εκτός έδρας αναμέτρησης του Ερυθρού Αστέρα απέναντι στον Ολυμπιακό (6/11, 21:15, ΕΡΑ ΣΠΟΡ) για την 10η αγωνιστική της…",
-"also": [],
-"id": "91d95b1a98bc"
 }
 ]
 }
