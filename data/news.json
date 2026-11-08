@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T14:46:07+00:00",
+"generated_at": "2026-11-08T15:01:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Live: Μαρούσι - Ολυμπιακός (Stoiximan GBL 2026-27)",
+"url": "https://www.sdna.gr/mpasket/1484673_live-maroysi-olympiakos-stoiximan-gbl-2026-27",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T15:00+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "a29e3c9a6400"
+},
 {
 "title": "Μαρούσι – Ολυμπιακός: Δείτε ΕΔΩ το ματς LIVE",
 "url": "https://sportime.gr/basket/marousi-olimpiakos-dite-edo-zontana-to-mats-ora-ke-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5089,18 +5101,6 @@
 "snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Ηρακλή Αντύπα.",
 "also": [],
 "id": "719281c07e89"
-},
-{
-"title": "Τόσο αουτσάιντερ είναι ο ΠΑΟΚ στο Καραϊσκάκη;",
-"url": "https://www.gazzetta.gr/football/2583833/toso-aoytsainter-einai-o-paok-sto-karaiskaki",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-05T09:12+00:00",
-"sport": "football",
-"snippet": "Ο Δημήτρης Τσορμπατζόγλου αφουγκράζεται το κλίμα που δημιουργείται πριν το Ολυμπιακός-ΠΑΟΚ και καταγράφει όλα τα δεδομένα.",
-"also": [],
-"id": "e8717fd155ed"
 }
 ]
 }
