@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-08T20:18:53+00:00",
+"generated_at": "2026-11-08T20:34:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Ο Γκονζάλες ήρθε από τον πάγκο, χρειάστηκε 2 λεπτά για το 1-0 και πανηγύρισε α λα... Κριστιάνο",
+"url": "https://www.gazzetta.gr/football/superleague/2584903/olympiakos-paok-o-gkonzales-irthe-apo-ton-pagko-hreiastike-2-lepta-gia",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T20:28+00:00",
+"sport": "football",
+"snippet": "Ο Αρμάντο Γκονζάλες άνοιξε το σκορ στο 58ο λεπτό του αγώνα του Ολυμπιακού με τον ΠΑΟΚ στο Φάληρο, 2 λεπτά μετά την είσοδο του στο ματς και πανηγύρισε με το…",
+"also": [],
+"id": "c824348ca939"
+},
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Ο Έσε αποχώρησε τραυματίας",
+"url": "https://www.gazzetta.gr/football/superleague/2584902/olympiakos-paok-o-ese-apohorise-traymatias",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T20:27+00:00",
+"sport": "football",
+"snippet": "Ο Έσε βγήκε στο 56' με πρόβλημα τραυματισμού.",
+"also": [],
+"id": "29daf18d4df1"
+},
+{
+"title": "Αγωνία στον Ολυμπιακό: Αναγκαστική αλλαγή ο Έσε",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15221335/agonia-ston-olympiako-anagkastiki-allagi-o-ese/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T20:27+00:00",
+"sport": "football",
+"snippet": "Αγωνία επικρατεί στον Ολυμπιακό για τον Σαντιάγκο Έσε, ο οποίος αποχώρησε με πρόβλημα στο 56ο λεπτό του αγώνα με τον ΠΑΟΚ. Ολυμπιακός – ΠΑΟΚ: Γκολ στην πρώτη…",
+"also": [],
+"id": "1e18b5726fc9"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ 1-0: Ο Γκονσάλες άνοιξε το σκορ στο 58ο λεπτό",
+"url": "https://www.metrosport.gr/olympiakos-paok-1-0-o-gkonsales-anoixe-to-skor-sto-58o-lepto-1332870",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-08T20:26+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός πήρε το προβάδισμα απέναντι στον ΠΑΟΚ, με τον Γκονσάλες να βρίσκει δίχτυα στο 58ο λεπτό και να βάζει τους «ερυθρόλευκους» μπροστά στο ...",
+"also": [],
+"id": "c28c2cc1e932"
+},
+{
+"title": "Ολυμπιακός – ΠΑΟΚ: Γκολ στην πρώτη επαφή ο Γκονζάλες – Πανηγυρισμός α λα Κριστιάνο Ρονάλντο! (video)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15221344/olympiakos-paok-gkol-stin-proti-epafi-o-gkonzales-panigyrismos-a-la-kristiano-ronalnto-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T20:19+00:00",
+"sport": "football",
+"snippet": "Προβάδισμα για τον Ολυμπιακό απέναντι στον ΠΑΟΚ στο 58ο λεπτό της αναμέτρησης με τον Αρμάντο Γκονζάλες να ανοίγει το σκορ στην πρώτη του επαφή με την μπάλα! Το…",
+"also": [],
+"id": "c8f0a3a507f8"
+},
 {
 "title": "Ολυμπιακός: Χάνει Ντουμπάι ο Παπανικολάου",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15221327/olympiakos-xanei-ntoumpai-o-papanikolaou/",
@@ -241,6 +301,13 @@
 "source_name": "ERT Sports",
 "url": "https://www.ertsports.gr/super-league/live-olympiakos-paok-0-0-audio/",
 "title": "LIVE: Ολυμπιακός – ΠΑΟΚ 0-0 (audio)",
+"published": "2026-11-08T18:50+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/super-league/live-olympiakos-paok-1-1-audio/",
+"title": "LIVE: Ολυμπιακός – ΠΑΟΚ 1-1 (audio)",
 "published": "2026-11-08T18:50+00:00"
 }
 ],
@@ -5034,66 +5101,6 @@
 "snippet": "Βαλένθια, Φενέρμπαχτσε & Μπαρτσελόνα έφτασαν στις εφτά νίκες σε δέκα παιχνίδια στην Ευρωλίγκα, όσες έχει κι ο Ολυμπιακός, αλλά με ένα λιγότερο, που ίσως τον…",
 "also": [],
 "id": "30cbcb5e14a9"
-},
-{
-"title": "Ολυμπιακός: Πρόταση εκατομμυρίου για Ντόρσεϊ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-protasi-enos-ekatommiriou-gia-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T21:29+00:00",
-"sport": "general",
-"snippet": "Η Χάποελ Τελ Αβίβ κινείται για την απόκτηση του Τάιλερ Ντόρσεϊ από τον Ολυμπιακό, με πρόταση που μπορεί να φτάσει το ένα εκατομμύριο ευρώ.",
-"also": [],
-"id": "d0270e63e05f"
-},
-{
-"title": "Ολυμπιακός: Γιατί χάθηκε ο Ουνάι Λόπεθ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-giati-chathike-o-ounai-lopeth?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T21:08+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός είχε πλησιάσει στην απόκτηση του Ουνάι Λόπεθ με εισήγηση Μεντιλίμπαρ. Ο προσωπικός λόγος που ανέτρεψε τη συμφωνία και η ανανέωση έως το 2029.",
-"also": [],
-"id": "ca64fa7e1006"
-},
-{
-"title": "Κόμο: Το 9-0 του Ολυμπιακού ξανά στο προσκήνιο",
-"url": "https://sportime.gr/olimpiakos/komo-to-9-0-tou-olimpiakou-xana-stin-epikerotita?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T20:50+00:00",
-"sport": "football",
-"snippet": "Η Κόμο πέτυχε εννέα γκολ στην έδρα της Λανς και έφερε ξανά στην επικαιρότητα το ιστορικό 9-0 της Φέγενορντ απέναντι στον Ολυμπιακό το 1971.",
-"also": [],
-"id": "e18514517dff"
-},
-{
-"title": "Ολυμπιακός: Μόνος Έλληνας που νίκησε τη Ρεάλ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-monadiki-elliniki-omada-pou-nikise-ti-real-madritis-sto-champions-league?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T20:48+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός παραμένει η μοναδική ελληνική ομάδα με νίκη επί της Ρεάλ Μαδρίτης στο Champions League. Το ιστορικό 2-1 του 2005 με Μπουλούτ και Ριβάλντο.",
-"also": [],
-"id": "da9afbe04a24"
-},
-{
-"title": "Ολυμπιακός: Έχει ακόμα δρόμο ο Λίον Μπέιλι",
-"url": "https://sportime.gr/podosfairo/olimpiakos-den-bori-na-voithisi-o-beili?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T20:20+00:00",
-"sport": "football",
-"snippet": "Ο Λίον Μπέιλι πήρε την ευκαιρία από τον Αλγουαθίλ κόντρα στη Ρεν, αλλά έδειξε πως χρειάζεται ακόμα χρόνο για να ανταποκριθεί στις απαιτήσεις του Ολυμπιακού.",
-"also": [],
-"id": "284ab3aa201a"
 }
 ]
 }
