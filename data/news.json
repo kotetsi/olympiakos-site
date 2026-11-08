@@ -1,14 +1,26 @@
 {
-"generated_at": "2026-11-08T09:13:34+00:00",
+"generated_at": "2026-11-08T09:28:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αρέσει στους Πειραιώτες ο Σκρέτσιου",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15219677/olympiakos-aresei-stous-peiraiotes-o-skretsiou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T09:19+00:00",
+"sport": "football",
+"snippet": "Σύμφωνα με δημοσιεύματα του ρουμανικού Τύπου, ο ποδοσφαιριστής της Κραϊόβα βρίσκεται στο μεταγραφικό στόχαστρο των Πειραιωτών, οι οποίοι εξετάζουν το…",
+"also": [],
+"id": "3ca06f865de5"
+},
 {
 "title": "Superbet League 2: Κυριακή με ντέρμπι κορυφής, ερυθρόλευκες μάχες και πέντε δυνατές αναμετρήσεις!",
 "url": "https://www.sdna.gr/stoihima/1484657_superbet-league-2-kyriaki-me-ntermpi-koryfis-erythroleykes-mahes-kai-pente-dynates",
 "source": "sdna",
 "source_name": "SDNA",
 "official": false,
-"published": "2026-11-08T09:04+00:00",
+"published": "2026-11-08T09:10+00:00",
 "sport": "general",
 "snippet": "Το πρωτάθλημα της",
 "also": [],
@@ -5059,18 +5071,6 @@
 "snippet": "Ο Ολυμπιακός κυνήγησε το τρίποντο κόντρα στη Ρεν, ωστόσο επιστρέφει στην Ελλάδα με τον βαθμό της ισοπαλίας μετά το “λευκό” 0-0. Οι Πειραιώτες είχαν σημαντικές…",
 "also": [],
 "id": "fef6e9cc6171"
-},
-{
-"title": "Ολυμπιακός: Ιστορική πρωτιά στο Europa League",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-istoriki-protia-stin-evropi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T17:23+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός βρέθηκε προσωρινά στην κορυφή της βαθμολογίας του Europa League με 10 βαθμούς, αφήνοντας πίσω του Μπενφίκα, Λεβερκούζεν και Μπόρνμουθ.",
-"also": [],
-"id": "77e64922f0a9"
 }
 ]
 }
