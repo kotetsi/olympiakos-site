@@ -1,14 +1,26 @@
 {
-"generated_at": "2026-11-08T12:45:10+00:00",
+"generated_at": "2026-11-08T13:00:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ισόπαλοι στη Θεσσαλονίκη οι Παίδες",
+"url": "https://www.olympiacos.org/2026/11/08/isopaloi-sti-thessaloniki-oi-paides/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-08T12:52+00:00",
+"sport": "general",
+"snippet": "Η Κ15 του Ολυμπιακού ήρθε ισόπαλη 0-0 με τον ΠΑΟΚ εκτός έδρας.",
+"also": [],
+"id": "77b66de80a18"
+},
 {
 "title": "Καταρρέει ο Ολυμπιακός Β, ανατροπή με τεσσάρα η Ελλάς Σύρου στο Ρέντη",
 "url": "https://www.sdna.gr/podosfairo/1484711_katarreei-o-olympiakos-b-anatropi-me-tessara-i-ellas-syroy-sto-renti",
 "source": "sdna",
 "source_name": "SDNA",
 "official": false,
-"published": "2026-11-08T12:42+00:00",
+"published": "2026-11-08T12:46+00:00",
 "sport": "football",
 "snippet": "Για όγδοο ματς χωρίς νίκη ο Ολυμπιακός Β, με την Ελλάς Σύρου να επικρατεί με 2-4 - Τα γκολ: 15' Σαντής, 74' Μπιλάλ - 22', 96' Μπουλάρρι, 49', 59'...",
 "also": [],
@@ -42,9 +54,28 @@
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-2/article/15219884/olympiakos-v-ellas-syrou-2-4-perasan-apo-tou-renti-oi-nisiotes/",
 "title": "Ολυμπιακός Β’-Ελλάς Σύρου 2-4: Πέρασαν από του Ρέντη οι νησιώτες",
 "published": "2026-11-08T12:29+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-2/article/15219884/olympiakos-v-ellas-syrou-2-4-perasan-apo-tou-renti-oi-nisiotes-video/",
+"title": "Ολυμπιακός Β’-Ελλάς Σύρου 2-4: Πέρασαν από του Ρέντη οι νησιώτες (video)",
+"published": "2026-11-08T12:29+00:00"
 }
 ],
 "id": "56bdb698f652"
+},
+{
+"title": "Ολυμπιακός Β’ – Ελλάς Σύρου 2-4: Οι νησιώτες πέρασαν με ανατροπή από του Ρέντη (highlights)",
+"url": "https://www.ertsports.gr/podosfairo/super-league-2/olympiakos-v-ellas-syrou-2-4-oi-nisiotes-perasan-me-anatropi-apo-tou-renti-highlights/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T12:28+00:00",
+"sport": "football",
+"snippet": "Η Ελλάς Σύρου έδωσε συνέχεια στη μεγάλη της νίκη την προηγούμενη αγωνιστική απέναντι στην Athens Kallithea επικρατώντας εκτός έδρας με 4-2 του Ολυμπιακού Β'…",
+"also": [],
+"id": "fd2c864b04f2"
 },
 {
 "title": "Πέρασε εμφατικά από του Ρέντη η Ελλάς Σύρου!",
@@ -5055,30 +5086,6 @@
 "snippet": "Δείτε στη σημερινή εκπομπή με τους Βασίλη Βέργη και Γιάννη Σερέτη, το μεγάλο διπλό του Παναθηναϊκού στη Μαδρίτη, την παλικαρίσια εμφάνιση της ΑΕΚ...",
 "also": [],
 "id": "dd20cf343c3e"
-},
-{
-"title": "Ο Ολυμπιακός ζόρισε την Ρεν περισσότερο από την Παρί Σεν Ζερμέν!",
-"url": "https://www.gazzetta.gr/football/europa-league/2583790/o-olympiakos-zorise-tin-ren-perissotero-apo-tin-pari-sen-zermen",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-05T07:47+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr τους λόγους που στην Ρεν έλεγαν ότι το ματς απέναντι στον Ολυμπιακό ήταν το πιο δύσκολο φετινό στην έδρα…",
-"also": [],
-"id": "17fc834d9d38"
-},
-{
-"title": "Ολυμπιακός: Αναμονή για τον Σάλιακα στο λιμάνι",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15214121/olympiakos-anamoni-gia-ton-saliaka-sto-limani/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-05T07:39+00:00",
-"sport": "football",
-"snippet": "Ο Έλληνας μπακ αποχώρησε με πρόβλημα τραυματισμού από τη συγκεκριμένη αναμέτρηση και την Πέμπτη θα φανεί το κατά πόσο θα είναι έτοιμος να αγωνιστεί στο…",
-"also": [],
-"id": "142d6fe0328c"
 }
 ]
 }
