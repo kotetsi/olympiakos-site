@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T08:13:01+00:00",
+"generated_at": "2026-11-08T08:28:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Έτοιμος να δώσει συνέχεια στο σερί του",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15219619/olympiakos-etoimos-na-dosei-synexeia-sto-seri-tou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T08:21+00:00",
+"sport": "football",
+"snippet": "Οι «ερυθρόλευκοι» θέλουν να παρουσιάσουν το καλό τους αγωνιστικό πρόσωπο στον αγώνα του γηπέδου «Γ. Καραϊσκάκης» και να πάρει το τρίποντο. Ο Ιμανόλ Αλγουαθίλ…",
+"also": [],
+"id": "fafa832edb7c"
+},
 {
 "title": "Ολυμπιακός, η επόμενη μέρα",
 "url": "https://www.novasports.gr/category/the-experts/article/15219644/olympiakos-i-epomeni-mera/",
@@ -61,6 +73,18 @@
 "snippet": "Αν ο Παναθηναϊκός νικήσει τον Ηρακλή και το Ολυμπιακός–ΠΑΟΚ λήξει Χ, θα βρεθεί στο +4 από τον Ολυμπιακό και στο +8 από τον ΠΑΟΚ. Ο Άρης καραδοκεί.",
 "also": [],
 "id": "72749a140286"
+},
+{
+"title": "Μαρούσι-Ολυμπιακός: Για το απόλυτο των νικών οι «ερυθρόλευκοι» στο Κλειστό του Αγίου Θωμά",
+"url": "http://www.sport-fm.gr/article/5159563",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T07:56+00:00",
+"sport": "basket",
+"snippet": "Το Μαρούσι υποδέχεται τον Ολυμπιακό στο Κλειστό του Αγίου Θωμά (17:30) για την έκτη αγωνιστική της Stoiximan GBL.",
+"also": [],
+"id": "a4ce488f3e76"
 },
 {
 "title": "Stoiximan Super League: Με προϋποθέσεις θεάματος το Ολυμπιακός – ΠΑΟΚ, ζόρικη έξοδος για τον Παναθηναϊκό, ανάγκη αντίδρασης για την ΑΕΚ",
@@ -5047,45 +5071,6 @@
 "snippet": "Ρεν - Ολυμπιακός 0-0. Οι μεγάλες ευκαιρίες των ερυθρόλευκων, το ακυρωθέν αυτογκόλ μέσω VAR και οι αλλαγές του Ιμανόλ Αλγουαθίλ στο Europa League.",
 "also": [],
 "id": "b63adae3c41c"
-},
-{
-"title": "Υπόκλιση Ναβάρο σε Ολυμπιακό: “Βρίσκει πάντα τρόπο να είναι ανταγωνιστικός και να νικά ανεξαρτήτως προβλημάτων",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2030618/ipoklisi-navaro-se-olimpiako-vriski-panta-tropo-na-ine-antagonistikos-ke-na-nika-anexartitos-provlimaton/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-04T17:22+00:00",
-"sport": "basket",
-"snippet": "Ο Ιμπόν Ναβάρο μίλησε με τα καλύτερα για τον Ολυμπιακό εν όψει επίσκεψης του Ερυθρού Αστέρα στη SUNEL Arena (6/11, 21:15/Novasports Prime) για τη δέκατη…",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5158841",
-"title": "Ναβάρο: «Ο Ολυμπιακός ανεξαρτήτως προβλημάτων βρίσκει πάντα τον τρόπο να νικά»",
-"published": "2026-11-04T18:01+00:00"
-},
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/euroleague/navaro-o-olympiakos-aneksartitos-provlimaton-vriskei-panta-ton-tropo-na-einai-antagonistikos-kai-na-nika/",
-"title": "Ναβάρο: «Ο Ολυμπιακός ανεξαρτήτως προβλημάτων βρίσκει πάντα τον τρόπο να είναι ανταγωνιστικός και να νικά»",
-"published": "2026-11-04T18:01+00:00"
-}
-],
-"id": "dfe3693edbf3"
-},
-{
-"title": "Ολυμπιακός: Πότε παίζει ξανά στο Europa League",
-"url": "https://sportime.gr/podosfairo/pote-pezi-xana-o-olimpiakos-sto-europa-league-meta-ti-ren-ora-ke-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T17:17+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός συνεχίζει στο Europa League μετά τη Ρεν, με μεγάλο παιχνίδι κόντρα στη Μίλαν. Δείτε την ημερομηνία, την ώρα και τα της τηλεοπτικής μετάδοσης.",
-"also": [],
-"id": "26bfd3c4b66c"
 }
 ]
 }
