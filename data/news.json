@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T13:45:40+00:00",
+"generated_at": "2026-11-08T14:00:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η 12άδα του Ολυμπιακού απέναντι στο Μαρούσι",
+"url": "https://www.ertsports.gr/mpasket/i-12ada-tou-olympiakou-apenanti-sto-marousi/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T13:57+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός θα αντιμετωπίσει το Μαρούσι χωρίς τον Κωνσταντίνο Παπανικολάου με τον αρχηγό των \"ερυθρολεύκων\" να ταλαιπωρείται από τενοντίτιδα καταφυτικού…",
+"also": [],
+"id": "9a366a61efc7"
+},
 {
 "title": "ΠΑΟΚ Κ17 - Ολυμπιακός Κ17 0-0",
 "url": "https://www.sdna.gr/podosfairo/1484729_paok-k17-olympiakos-k17-0-0",
@@ -5089,18 +5101,6 @@
 "snippet": "Ανακοινώθηκαν οι ρέφερι που θα έχουν την ευθύνη της αναμέτρησης ανάμεσα στον Ολυμπιακό και τον Ερυθρό Αστέρα, στο πλαίσιο της 10ης αγωνιστικής της EuroLeague…",
 "also": [],
 "id": "913a508272bc"
-},
-{
-"title": "Ολυμπιακός: Ο Φορτούνης απέναντι στο κενό του Κένι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fortounis-prepi-na-simadepsi-ton-antikatastati-tou-keni?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-05T08:35+00:00",
-"sport": "general",
-"snippet": "Ο ΠΑΟΚ θα παίξει χωρίς τον Κένι και ο Ολυμπιακός μπορεί να επιτεθεί από αριστερά. Ο ρόλος του Φορτούνη και ο κίνδυνος που φέρνει ο Ζίβκοβιτς.",
-"also": [],
-"id": "d58a712d3499"
 }
 ]
 }
