@@ -80,5 +80,19 @@
   "sport": "basket",
   "b_team": false,
   "comp": "EuroLeague 2026/27"
+ },
+ "2026-11-14-panathinaikos-olympiakos": {
+  "title": "Παναθηναϊκός - Ολυμπιακός",
+  "home": "Παναθηναϊκός",
+  "away": "Ολυμπιακός",
+  "opp": "Παναθηναϊκός",
+  "oly_home": false,
+  "start": "2026-11-14T19:15+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "volley",
+  "b_team": false,
+  "comp": "Volley League Ανδρών 2026-27"
  }
 }
