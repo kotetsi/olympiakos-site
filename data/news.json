@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T16:32:00+00:00",
+"generated_at": "2026-11-08T16:47:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μαρούσι - Ολυμπιακός : Φοβερό τρίποντο ο Κόνιαρης λίγο πριν το ημίχρονο",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2584789/maroysi-olympiakos-fobero-triponto-o-koniaris-ligo-prin-imihrono",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T16:45+00:00",
+"sport": "basket",
+"snippet": "O Aντώνης Κόνιαρης βρήκε στόχο λίγο πριν το τέλος του πρώτου ημιχρόνου, σε ένα φοβερό τρίποντο.",
+"also": [],
+"id": "da1b0a2d83d1"
+},
 {
 "title": "Ρούμπιο: «Επηρεαστήκαμε υπερβολικά από το πέναλτι»",
 "url": "https://www.olympiacos.org/2026/11/08/roumpio-epireastikame-ypervolika-apo-to-penalti/",
@@ -5097,18 +5109,6 @@
 }
 ],
 "id": "ef0954d0e3ed"
-},
-{
-"title": "Κατάπιε χιλιόμετρα: Ο Πουέρτα έτρεξε περισσότερο από κάθε άλλον στο Ρεν-Ολυμπιακός!",
-"url": "http://www.sport-fm.gr/article/5159032",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T10:34+00:00",
-"sport": "football",
-"snippet": "Ο Γκουστάβο Πουέρτα διένυσε τη μεγαλύτερη απόσταση συνολικά από κάθε άλλον ποδοσφαιριστή που πάτησε το χορτάρι του «Ραζόν Παρκ».",
-"also": [],
-"id": "81d33bf32d06"
 }
 ]
 }
