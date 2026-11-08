@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-08T17:32:28+00:00",
+"generated_at": "2026-11-08T17:47:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το νικητήριο καλάθι του Ουόρντ κόντρα στο Μαρούσι (video)",
+"url": "https://www.eurohoops.net/el/heba-el/2032438/olimpiakos-to-nikitirio-kalathi-tou-ouornt-kontra-sto-marousi-video/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-08T17:46+00:00",
+"sport": "basket",
+"snippet": "Η προσωπική ενέργεια του Ουόρντ που... λύτρωσε τους Πειραίωτες. The post Ολυμπιακός: Το νικητήριο καλάθι του Ουόρντ κόντρα στο Μαρούσι (video) appeared first…",
+"also": [],
+"id": "1bca1089c415"
+},
+{
+"title": "Ηρακλής: Ο επόμενος αντίπαλος είναι ο Ολυμπιακός",
+"url": "https://sportime.gr/podosfairo/iraklis-o-epomenos-antipalos-meta-ton-panathinaiko?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T17:41+00:00",
+"sport": "football",
+"snippet": "Ο Ηρακλής έχει δύσκολη εκτός έδρας αποστολή μετά το παιχνίδι με τον Παναθηναϊκό. Δείτε πότε αντιμετωπίζει τον Ολυμπιακό στη Super League.",
+"also": [],
+"id": "1b575ceb8d35"
+},
+{
+"title": "Μαρούσι - Ολυμπιακός: 81-83",
+"url": "https://www.sdna.gr/mpasket/1484798_maroysi-olympiakos-81-83",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T17:33+00:00",
+"sport": "basket",
+"snippet": "Το Μαρούσι έκανε ματσάρα απέναντι στην ομάδα του coach Μπαρτζώκα, όμως το τρίποντο νίκης από τα 10 μέτρα του Λούντζη βρήκε στεφάνι και οι...",
+"also": [],
+"id": "0b3d247cf3d2"
+},
+{
+"title": "Μαρούσι – Ολυμπιακός 81-83: «Κίτρινοι» για φίλημα του έβγαλαν την ψυχή, ο Γουόρντ έσωσε στο τέλος την παρτίδα",
+"url": "https://sportday.gr/basket/364653_marousi-olympiakos-81-83-kitrinoi-gia-filima-tou-evgalan-tin-psychi-o-gouornt-esose-sto-telos-tin-partida.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-08T17:33+00:00",
+"sport": "basket",
+"snippet": "Το εκπληκτικό Μαρούσι έβαλε δύσκολα στον αγνώριστο Ολυμπιακό, ο οποίος όμως απέδρασε με καλάθι του Τάισον Γουόρντ στα τρία δευτερόελεπτα!",
+"also": [],
+"id": "3899c1e0742d"
+},
+{
+"title": "Μαρούσι – Ολυμπιακός 81-83: Με ήρωα Ουόρντ γλύτωσε το… σοκ",
+"url": "https://www.eurohoops.net/el/heba-el/2032381/marousi-olimpiakos-81-83-ton-glitose-o-ouornt-sta-3/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-08T17:32+00:00",
+"sport": "basket",
+"snippet": "Ο Τάισον Ουόρντ πέτυχε το καλάθι της νίκης και ο Ολυμπιακός δεν πλήρωσε τα κακώς κείμενα του κόντρα στο εξαιρετικά αξιόμαχο Μαρούσι. The post Μαρούσι …",
+"also": [],
+"id": "fd9703a8b053"
+},
 {
 "title": "GBL: Η βαθμολογία μετά και τις νίκες Παναθηναϊκού και Ολυμπιακού",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2584724/gbl-pos-diamorfothike-i-bathmologia-meta-ti-niki-toy-panathinaikoy",
@@ -11,11 +71,19 @@
 "published": "2026-11-08T17:31+00:00",
 "sport": "basket",
 "snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της GBL μετά τις νίκες του Παναθηναϊκού και του Ολυμπιακού απέναντι σε ΑΕΚ και Μαρούσι αντίστοιχα εκτός έδρας.",
-"also": [],
+"also": [
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/heba-el/2032444/stoiximan-gbl-h-vathmologia-meta-tis-nikes-tou-panathinaikou-ke-tou-olimpiakou/",
+"title": "Stoiximan GBL: H βαθμολογία μετά τις νίκες του Παναθηναϊκού και του Ολυμπιακού",
+"published": "2026-11-08T17:43+00:00"
+}
+],
 "id": "34c076ffcdb2"
 },
 {
-"title": "Μαρούσι - Ολυμπιακός : Ο «clutch» Γουόρντ έσωσε τους πρωταθλητές",
+"title": "Μαρούσι - Ολυμπιακός 81-83: Ο «clutch» Γουόρντ έσωσε τους πρωταθλητές",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2584804/maroysi-olympiakos-o-clutch-goyornt-esose-toys-protathlites",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -27,6 +95,18 @@
 "id": "5c5491747f69"
 },
 {
+"title": "Γλίτωσε από του Αμαρουσίου τα δόντια ο αδιόρθωτος Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5159784",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T17:30+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός δυσκολεύτηκε μέχρι το τελευταίο δευτερόλεπτο της αναμέτρησής του με το εξαιρετικό Μαρούσι, όμως τελικά κατάφερε να πάρει την αγχωτική νίκη με…",
+"also": [],
+"id": "8b52dc245f46"
+},
+{
 "title": "Μαρούσι – Ολυμπιακός 81 – 83: «Απόδραση»!",
 "url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15220555/marousi-olympiakos-81-83-apodrasi/",
 "source": "novasports",
@@ -34,7 +114,7 @@
 "official": false,
 "published": "2026-11-08T17:29+00:00",
 "sport": "basket",
-"snippet": "",
+"snippet": "Με τον Γουόρντ να ευστοχεί στο νικητήριο καλάθι με 3” για τη λήξη του αγώνα ο Ολυμπιακός πέρασε από την έδρα του Αμαρουσίου με 83-81, στο πλαίσιο της 6ης…",
 "also": [],
 "id": "893c29e180c2"
 },
@@ -61,6 +141,18 @@
 "snippet": "Ο Παναθηναϊκός... απέδρασε από το Καυτανζόγλειο με το πέναλτι του Καλάμπρια στις καθυστερήσεις και πλέον είναι στο +5 από τον δεύτερο Ολυμπιακό που υποδέχεται…",
 "also": [],
 "id": "076f1d36bd5f"
+},
+{
+"title": "Ολυμπιακός: Θρίλερ στο Μαρούσι",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-thriler-sto-marousi-81-83?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T17:28+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός βρέθηκε σε μεγάλη δοκιμασία απέναντι στο Μαρούσι για τη Stoiximan GBL. Η εξέλιξη του αγώνα, οι ανατροπές και η μάχη μέχρι το φινάλε.",
+"also": [],
+"id": "179565c10966"
 },
 {
 "title": "Ολυμπιακός: Οι επόμενοι αντίπαλοι σε Euroleague και GBL",
@@ -5009,90 +5101,6 @@
 "snippet": "Οι επιλογές του προπονητή του Ερυθρού Αστέρα (6-3), Ιμπόν Ναβάρο, στη θέση \"5\" για το παιχνίδι με τον Ολυμπιακό (7-2) στη SUNEL Arena (6/11, 21:15/Novasports…",
 "also": [],
 "id": "1fd84dc7cf08"
-},
-{
-"title": "Ολυμπιακός: Στην αποστολή της Ελβετίας ο Φρόιλερ",
-"url": "https://www.novasports.gr/sport/podosfairo/event/nations-league/article/15214650/olympiakos-stin-apostoli-tis-elvetias-o-froiler/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-05T14:36+00:00",
-"sport": "football",
-"snippet": "Στα πλάνα του Μουράτ Γιακίν για τις δύο προσεχείς αναμετρήσεις της Ελβετίας βρίσκεται ο Ρέμο Φρόιλερ, με τον μέσο του Ολυμπιακού να διατηρεί τη θέση του στις…",
-"also": [],
-"id": "8694a3b50ca8"
-},
-{
-"title": "«Ανεβαίνει» ο Λουσέ ενόψει Ολυμπιακού: Μπάρμπεκιου με πρωτοβουλία Λίσι μετά την προπόνηση του ΠΑΟΚ",
-"url": "https://www.sdna.gr/podosfairo/1483793_anebainei-o-loyse-enopsei-olympiakoy-mparmpekioy-me-protoboylia-lisi-meta-tin",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T14:31+00:00",
-"sport": "football",
-"snippet": "Ξεχωριστή η σημερινή (5/11) προπόνηση του ΠΑΟΚ, με τον Αλέσιο Λίσι να «διοργανώνει» μπάρμπεκιου στους παίκτες - Ανεβάζει... στροφές ο Τομ Λουσέ...",
-"also": [],
-"id": "7d30cce840a1"
-},
-{
-"title": "Ολυμπιακός: Ξανά στο προσκήνιο ο Ντέιβιντ Τζόουνς Γκαρσία!",
-"url": "https://www.novasports.gr/sport/mpasket/event/nba/article/15214552/olympiakos-ksana-sto-proskinio-o-nteivint-tzoouns-gkarsia/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-05T14:19+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός συνεχίζει να εξετάζει λύσεις για την ενίσχυση του ρόστερ του μετά τον τραυματισμό του Γιαν Μοντέρο, έχοντας στη λίστα του δύο περιπτώσεις από το…",
-"also": [],
-"id": "af582674adef"
-},
-{
-"title": "Η ψυχή της ΑΕΚ και η καλή νοοτροπία του Ολυμπιακού",
-"url": "https://www.gazzetta.gr/football/2583892/i-psyhi-tis-aek-kai-i-kali-nootropia-toy-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-05T14:01+00:00",
-"sport": "football",
-"snippet": "Ο Αντώνης Καρπετόπουλος γράφει για τα χθεσινά (4/11) ματς των δυο ελληνικών ομάδων υπογραμμίζοντας την κατάθεση ψυχής της ΑΕΚ και την τόλμη του Ιμανόλ…",
-"also": [],
-"id": "ce9c0308689a"
-},
-{
-"title": "Πλώτας: «Ο Ερυθρός Αστέρας είναι πολύ φορμαρισμένος, σημαντικό να είμαστε όλοι έτοιμοι»",
-"url": "https://www.ertsports.gr/mpasket/euroleague/plotas-o-erythros-asteras-einai-poly-formarismenos-simantiko-na-eimaste-oloi-etoimoi/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-05T13:55+00:00",
-"sport": "basket",
-"snippet": "Κατά τη διάρκεια της καθιερωμένης media day, ο Νίκος Πλώτας μίλησε στους εκπρόσωπους του Τύπου, εστιάζοντας κυρίως στο τι πρέπει να προσέξει η ομάδα με τους…",
-"also": [],
-"id": "34a5bf562412"
-},
-{
-"title": "Υπάρχει κίνδυνος για τον Ορτέγκα και τον Ολυμπιακό;",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1483775_yparhei-kindynos-gia-ton-ortegka-kai-ton-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T13:49+00:00",
-"sport": "general",
-"snippet": "Τι συμβαίνει με το συμβόλαιό του τερματοφύλακα των ερυθρολεύκων…",
-"also": [],
-"id": "908701c2637d"
-},
-{
-"title": "Ολυμπιακός: Στο προσκήνιο ο Κόουλ Άντονι για την ενίσχυση της περιφέρειας – Η πρώτη επαφή και το buyout",
-"url": "https://sportday.gr/basket/364342_olympiakos-sto-proskinio-o-kooul-antoni-gia-tin-enischysi-tis-perifereias-i-proti-epafi-kai-to-buyout.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-05T13:39+00:00",
-"sport": "basket",
-"snippet": "Την περίπτωση του Κόουλ Άντονι φέρεται να εξετάζει ο Ολυμπιακός, σύμφωνα με δημοσίευμα από την Ιταλία, καθώς οι «ερυθρόλευκοι» αναζητούν τον παίκτη που θα…",
-"also": [],
-"id": "f23a22206c26"
 }
 ]
 }
