@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T17:02:14+00:00",
+"generated_at": "2026-11-08T17:17:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Νέα δεδομένα για Μάρκο Γκούντουριτς",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-allazoun-ta-dedomena-gia-marko-gkountourits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T16:59+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός εξετάζει την περίπτωση του Μάρκο Γκούντουριτς, αλλά η άφιξη του Λούκα Μπάνκι στην Αρμάνι Μιλάνο επηρεάζει τις εξελίξεις και το μέλλον του Σέρβου.",
+"also": [],
+"id": "e55606efde60"
+},
 {
 "title": "Μαρούσι - Ολυμπιακός : Φοβερό τρίποντο ο Κόνιαρης λίγο πριν το ημίχρονο",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2584789/maroysi-olympiakos-fobero-triponto-o-koniaris-ligo-prin-imihrono",
@@ -5089,26 +5101,6 @@
 "snippet": "Η εκτός έδρας αναμέτρηση του Ολυμπιακού με τη NK Celje θα αρχίσει στις 19:45.",
 "also": [],
 "id": "294776a8e6cb"
-},
-{
-"title": "Αλλαγή ώρας στο εκτός έδρας ματς του Ολυμπιακού με την Τσέλιε",
-"url": "http://www.sport-fm.gr/article/5159055",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T12:32+00:00",
-"sport": "general",
-"snippet": "Άλλαξε ώρα η αναμέτρηση του Ολυμπιακού με την Τσέλιε στη Σλοβενία.",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/europa-league/2583879/olympiakos-allagi-oras-sto-mats-me-tin-tselie",
-"title": "Ολυμπιακός: Αλλαγή ώρας στο ματς με την Τσέλιε",
-"published": "2026-11-05T13:30+00:00"
-}
-],
-"id": "ef0954d0e3ed"
 }
 ]
 }
