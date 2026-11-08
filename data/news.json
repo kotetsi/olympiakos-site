@@ -1,9 +1,9 @@
 {
-"generated_at": "2026-11-08T07:42:45+00:00",
+"generated_at": "2026-11-08T07:57:54+00:00",
 "count": 400,
 "items": [
 {
-"title": "Stoiximan Super League: Με κίνητρο και προϋποθέσεις θεάματος το Ολυμπιακός – ΠΑΟΚ, ζόρικη έξοδος για τον Παναθηναϊκό, ανάγκη αντίδρασης για την ΑΕΚ",
+"title": "Stoiximan Super League: Με προϋποθέσεις θεάματος το Ολυμπιακός – ΠΑΟΚ, ζόρικη έξοδος για τον Παναθηναϊκό, ανάγκη αντίδρασης για την ΑΕΚ",
 "url": "https://www.sdna.gr/stoihima/1484641_stoiximan-super-league-me-proypotheseis-theamatos-olympiakos-paok-zoriki-exodos",
 "source": "sdna",
 "source_name": "SDNA",
@@ -25,6 +25,18 @@
 "snippet": "Ο ΠΑΟΚ ετοιμάζει συμβόλαιο ζωής για τον Ζίβκοβιτς, με τη χρονική στιγμή της είδησης πριν από το ντέρμπι με τον Ολυμπιακό να έχει ιδιαίτερη σημασία.",
 "also": [],
 "id": "8306e1811d4a"
+},
+{
+"title": "Ο Παναθηναϊκός πηγαίνει στην έδρα της ΑΕΚ και ο Ολυμπιακός στο Μαρούσι",
+"url": "https://www.ertsports.gr/mpasket/o-panathinaikos-pigainei-stin-edra-tis-aek-kai-o-olympiakos-sto-marousi/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T07:19+00:00",
+"sport": "basket",
+"snippet": "Ολοκληρώνεται σήμερα (8/11) η 6η αγωνιστική της Greek Basketball League και το πρόγραμμα περιλαμβάνει δύο αναμετρήσεις στην Αθήνα, με τον Παναθηναϊκό και τον…",
+"also": [],
+"id": "95225d4d9c7b"
 },
 {
 "title": "Novibet: Ολυμπιακός – ΠΑΟΚ και οι αποδόσεις",
@@ -5074,18 +5086,6 @@
 "snippet": "Ο Μανώλης Σάλιακας στο ημίχρονο άφησε τη θέση του στον Πέντερσεν.",
 "also": [],
 "id": "569d710450db"
-},
-{
-"title": "Ολυμπιακός: Σενάρια για τον Κόουλ Άντονι για να αναπληρώσει τον Μοντέρο",
-"url": "https://sportday.gr/basket/364246_olympiakos-senaria-gia-ton-kooul-antoni-gia-na-anaplirosei-ton-montero.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-04T16:47+00:00",
-"sport": "basket",
-"snippet": "Δημοσιεύματα από το εξωτερικό αναφέρουν, ότι ο Κόουλ Άντονι ακούγεται ότι μπορεί να είναι ο εκλεκτός του Γιώργου Μπαρτζώκα, για να καλύψει το κενό του Γιαν…",
-"also": [],
-"id": "1222d0bdd102"
 }
 ]
 }
