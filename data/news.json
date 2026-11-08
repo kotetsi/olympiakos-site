@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-08T13:15:23+00:00",
+"generated_at": "2026-11-08T13:30:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η 12άδα ενόψει Αμαρουσίου",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2584729/olympiakos-i-12ada-enopsei-amaroysioy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T13:22+00:00",
+"sport": "basket",
+"snippet": "Η δωδεκάδα του Ολυμπιακού για την αναμέτρηση με το Μαρούσι (08/11, 17:30, LIVE στο Gazzetta). Εκτός οι Παπανικολάου και Χολ.",
+"also": [],
+"id": "4010141327a2"
+},
+{
+"title": "Ολυμπιακός: Πρόβλημα με Παπανικολάου, εκτός 12άδας και ο Χολ",
+"url": "http://www.sport-fm.gr/article/5159735",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T13:15+00:00",
+"sport": "general",
+"snippet": "Δίχως τον Παπανικολάου και τον Χολ απέναντι στο Μαρούσι ο Ολυμπιακός.",
+"also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-dio-apousies-sto-marousi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Ολυμπιακός: Εκτός Παπανικολάου και Χολ",
+"published": "2026-11-08T13:16+00:00"
+}
+],
+"id": "31ad86e38143"
+},
 {
 "title": "Χωρίς Χολ και Παπανικολάου ο Ολυμπιακός κόντρα στο Μαρούσι",
 "url": "https://www.sdna.gr/mpasket/1484719_horis-hol-kai-papanikolaoy-o-olympiakos-kontra-sto-maroysi",
@@ -11,7 +43,15 @@
 "published": "2026-11-08T13:10+00:00",
 "sport": "basket",
 "snippet": "Χωρίς τον Ντόντα Χολ και Κώστα Παπανικολάου θα παραταχθεί ο Ολυμπιακός στην αναμέτρηση με το Μαρούσι (17:30).",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15219950/olympiakos-xoris-ton-papanikolaou-sto-marousi/",
+"title": "Ολυμπιακός: Χωρίς τον Παπανικολάου στο Μαρούσι",
+"published": "2026-11-08T13:23+00:00"
+}
+],
 "id": "ec638fd68bf6"
 },
 {
@@ -5062,30 +5102,6 @@
 }
 ],
 "id": "5966ae93434d"
-},
-{
-"title": "Με Ρίζικ και Περούγκα το Ολυμπιακός - Ερυθρός Αστέρας",
-"url": "https://www.sdna.gr/mpasket/1483730_me-rizik-kai-peroygka-olympiakos-erythros-asteras",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T08:23+00:00",
-"sport": "basket",
-"snippet": "Γνωστοί έγιναν οι διαιτητές της αναμέτρησης του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα για την 10η αγωνιστική της Euroleague (6/11, 21:15).",
-"also": [],
-"id": "77e43235730c"
-},
-{
-"title": "Ολυμπιακός: Κι όμως ο Φορτούνης ήταν ο γηραιότερος στο χορτάρι! (videos)",
-"url": "https://www.novasports.gr/category/the-experts/article/15214168/olympiakos-ki-omos-o-fortounis-itan-o-giraioteros-sto-xortari-videos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-05T08:13+00:00",
-"sport": "general",
-"snippet": "Ο ρυθμός που επέβαλλε ο Ολυμπιακός στο Roahzon Park στο ματς της 4ης αγωνιστικής κόντρα στη Ρεν, ειδικά στα πρώτα κρίσιμα 20-25 λεπτά φάνηκε σαν μια ακόμα……",
-"also": [],
-"id": "2ddf16d2d778"
 }
 ]
 }
