@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T19:18:23+00:00",
+"generated_at": "2026-11-08T19:33:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Τραυματίστηκε στο γόνατο και έφυγε υποβασταζόμενος ο Γιάκιτς",
+"url": "https://www.gazzetta.gr/football/superleague/2584861/olympiakos-paok-traymatistike-sto-gonato-kai-efyge-ypobastazomenos-o",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T19:28+00:00",
+"sport": "football",
+"snippet": "Ο Κρίστιαν Γιάκιτς τραυματίστηκε στο γόνατο στο 20ο λεπτό του αγώνα του ΠΑΟΚ με τον Ολυμπιακό στο Φάληρο και έφυγε υποβασταζόμενος.",
+"also": [],
+"id": "a913acdb9d8e"
+},
 {
 "title": "Ολυμπιακός - ΠΑΟΚ: Μαρινάκης και Καμαρά είχαν χειραψία",
 "url": "https://www.gazzetta.gr/football/superleague/2584857/olympiakos-paok-marinakis-kai-kamara-eihan-heirapsia",
@@ -5082,18 +5094,6 @@
 "snippet": "Ο Ιμπόν Ναβάρο έκανε δηλώσεις ενόψει της εκτός έδρας αναμέτρησης του Ερυθρού Αστέρα απέναντι στον Ολυμπιακό (6/11, 21:15, ΕΡΑ ΣΠΟΡ) για την 10η αγωνιστική της…",
 "also": [],
 "id": "91d95b1a98bc"
-},
-{
-"title": "Το game winner του Καρ απέναντι στον Ολυμπιακό κορυφαία φάση του Οκτωβρίου στην EuroLeague (vid)",
-"url": "https://www.sdna.gr/mpasket/1483835_game-winner-toy-kar-apenanti-ston-olympiako-koryfaia-fasi-toy-oktobrioy-stin",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T17:19+00:00",
-"sport": "basket",
-"snippet": "Η EuroLeague δημοσίευσε σήμερα τις κορυφαίες φάσεις του Οκτωβρίου, με τον Μάρκους Καρ να κατακτά την κορυφή.",
-"also": [],
-"id": "dac9dc188331"
 }
 ]
 }
