@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T15:01:15+00:00",
+"generated_at": "2026-11-08T15:16:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τα Facts & Figures του Ολυμπιακός - ΠΑΟΚ",
+"url": "https://www.sdna.gr/podosfairo/1484756_ta-facts-figures-toy-olympiakos-paok",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T15:13+00:00",
+"sport": "football",
+"snippet": "Ενδιαφέροντα στατιστικά ενόψει του ντέρμπι του ΠΑΟΚ μέσα στην έδρα του Ολυμπιακού (8/11 21:00).",
+"also": [],
+"id": "f5e85ee0f311"
+},
 {
 "title": "Live: Μαρούσι - Ολυμπιακός (Stoiximan GBL 2026-27)",
 "url": "https://www.sdna.gr/mpasket/1484673_live-maroysi-olympiakos-stoiximan-gbl-2026-27",
@@ -5089,18 +5101,6 @@
 "snippet": "Η ερυθρόλευκη επικαιρότητα ανοίγει τη συζήτηση στο Ολυμπιακός Q&A by Interwetten του Gazzetta. Ο Δημήτρης Τομαράς και ο Παναγιώτης Ραμαντάνης μεταφέρουν το…",
 "also": [],
 "id": "824a0eea6910"
-},
-{
-"title": "Αντύπας: «Τρομερά τα αποτελέσματα του Ολυμπιακού με τον νέο προπονητή και ενώ χτίζεται ακόμα»",
-"url": "http://www.sport-fm.gr/article/5159013",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T09:19+00:00",
-"sport": "general",
-"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Ηρακλή Αντύπα.",
-"also": [],
-"id": "719281c07e89"
 }
 ]
 }
