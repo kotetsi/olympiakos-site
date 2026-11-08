@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T22:50:08+00:00",
+"generated_at": "2026-11-08T23:05:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η πρώτη εκτίμηση για Έσε",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15221806/olympiakos-i-proti-ektimisi-gia-ese/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-08T22:51+00:00",
+"sport": "football",
+"snippet": "Ο Αργεντινός μέσος αποχώρησε κουτσαίνοντας από τον αγωνιστικό χώρο, με τις πρώτες εκτιμήσεις του ιατρικού επιτελείου να κάνουν λόγο για κάκωση έσω πλαγίου…",
+"also": [],
+"id": "f3744b95d9e0"
+},
 {
 "title": "Αλγουαθίλ: «Ήμασταν η ομάδα με τις καλύτερες στιγμές…»",
 "url": "https://www.ertsports.gr/omades/olympiakos/algouathil-imastan-i-omada-me-tis-kalyteres-stigmes/",
@@ -13,6 +25,18 @@
 "snippet": "Ο προπονητής του Ολυμπιακού, Ιμανόλ Αλγουαθίλ, μίλησε στους εκπροσώπους των Μέσων Μαζικής Ενημέρωσης, λίγο μετά το φινάλε του βαθμολογικού ντέρμπι με τον ΠΑΟΚ…",
 "also": [],
 "id": "54c7c7e9a721"
+},
+{
+"title": "Σπάθας: Πέναλτι σε ΑΕΚ, Παναθηναϊκό, όχι σε Ολυμπιακό",
+"url": "https://sportime.gr/epo-diaitisia/ilias-spathas-panathinaikos-ke-aek-piran-penalti-pou-den-itan-eno-o-olimpiakos-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T22:46+00:00",
+"sport": "general",
+"snippet": "Ο Ηλίας Σπάθας σχολίασε στο MEGA τη διαιτησία της αγωνιστικής, υποστηρίζοντας πως αδικήθηκε ο Ολυμπιακός και ευνοήθηκαν Παναθηναϊκός και ΑΕΚ.",
+"also": [],
+"id": "c9e63c73cc96"
 },
 {
 "title": "Λίσι: «Είχαμε ευκαιρίες για τη νίκη, στόχος μας να κατακτήσουμε το πρωτάθλημα»",
@@ -4984,30 +5008,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
 "also": [],
 "id": "a86f49e8a84f"
-},
-{
-"title": "Ολυμπιακός-Ερυθρός Αστέρας: Οι άμυνες τον πρώτο λόγο",
-"url": "https://www.sdna.gr/stoihima/1484084_olympiakos-erythros-asteras-oi-amynes-ton-proto-logo",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T11:20+00:00",
-"sport": "general",
-"snippet": "",
-"also": [],
-"id": "175e6bbe5246"
-},
-{
-"title": "Θετικά νέα για Λουσέ στον ΠΑΟΚ, αγώνας δρόμου για να προλάβει Ολυμπιακό",
-"url": "https://www.sdna.gr/podosfairo/1484087_thetika-nea-gia-loyse-ston-paok-agonas-dromoy-gia-na-prolabei-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T11:13+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ ολοκληρώνει την προετοιμασία του για το μεγάλο ντέρμπι με τον Ολυμπιακό, με τους Πέλκα και Μιχαηλίδη να συνεχίζουν με θεραπεία, ενώ ο Τομ...",
-"also": [],
-"id": "829596075226"
 }
 ]
 }
