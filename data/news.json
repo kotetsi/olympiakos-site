@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-08T13:00:16+00:00",
+"generated_at": "2026-11-08T13:15:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Χωρίς Χολ και Παπανικολάου ο Ολυμπιακός κόντρα στο Μαρούσι",
+"url": "https://www.sdna.gr/mpasket/1484719_horis-hol-kai-papanikolaoy-o-olympiakos-kontra-sto-maroysi",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T13:10+00:00",
+"sport": "basket",
+"snippet": "Χωρίς τον Ντόντα Χολ και Κώστα Παπανικολάου θα παραταχθεί ο Ολυμπιακός στην αναμέτρηση με το Μαρούσι (17:30).",
+"also": [],
+"id": "ec638fd68bf6"
+},
+{
+"title": "Αποθεώνουν Ζίβκοβιτς στη Σερβία: «Κανείς δεν έχει ταλαιπωρήσει τόσο τον Ολυμπιακό όσο εκείνος»",
+"url": "http://www.sport-fm.gr/article/5159730",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-08T12:55+00:00",
+"sport": "general",
+"snippet": "Το αφιέρωμα της σερβικής Mozzart Sport στον Αντρίγια Ζίβκοβιτς ενόψει του ντέρμπι του ΠΑΟΚ με τον Ολυμπιακό στο Φάληρο.",
+"also": [],
+"id": "38279425dc6e"
+},
 {
 "title": "Ισόπαλοι στη Θεσσαλονίκη οι Παίδες",
 "url": "https://www.olympiacos.org/2026/11/08/isopaloi-sti-thessaloniki-oi-paides/",
@@ -5062,30 +5086,6 @@
 "snippet": "Ο ρυθμός που επέβαλλε ο Ολυμπιακός στο Roahzon Park στο ματς της 4ης αγωνιστικής κόντρα στη Ρεν, ειδικά στα πρώτα κρίσιμα 20-25 λεπτά φάνηκε σαν μια ακόμα……",
 "also": [],
 "id": "2ddf16d2d778"
-},
-{
-"title": "Ολυμπιακός-Ερυθρός Αστέρας: Οι διαιτητές του αγώνα",
-"url": "http://www.sport-fm.gr/article/5158993",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-05T08:06+00:00",
-"sport": "general",
-"snippet": "Δείτε ποιοι διαιτητές ορίστηκαν να διευθύνουν το Ολυμπιακός-Ερυθρός Αστέρας την Παρασκευή.",
-"also": [],
-"id": "bbb805421b1a"
-},
-{
-"title": "Στο σημερινό Center Fox o 7άστερος θεός στη Μαδρίτη, τα παλικάρια της ΑΕΚ κόντρα στη Ρεάλ και ο άχαστος Ολυμπιακός στην Ευρώπη",
-"url": "https://www.sdna.gr/genikes-eidiseis/1483716_sto-simerino-center-fox-o-7asteros-theos-sti-madriti-ta-palikaria-tis-aek",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T07:55+00:00",
-"sport": "general",
-"snippet": "Δείτε στη σημερινή εκπομπή με τους Βασίλη Βέργη και Γιάννη Σερέτη, το μεγάλο διπλό του Παναθηναϊκού στη Μαδρίτη, την παλικαρίσια εμφάνιση της ΑΕΚ...",
-"also": [],
-"id": "dd20cf343c3e"
 }
 ]
 }
