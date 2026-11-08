@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-08T05:56:56+00:00",
+"generated_at": "2026-11-08T06:12:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Η ώρα και το κανάλι μετάδοσης του αγώνα",
+"url": "https://www.gazzetta.gr/football/superleague/2584221/olympiakos-paok-i-ora-kai-kanali-metadosis-toy-agona",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T06:07+00:00",
+"sport": "football",
+"snippet": "Η ώρα και το κανάλι μετάδοσης του αποψινού (8/11) ντέρμπι του Ολυμπιακού με τον ΠΑΟΚ για τη Superleague.",
+"also": [],
+"id": "a9f1e819d3f1"
+},
+{
+"title": "ΠΑΟΚ: Να κρατήσει επαφή με την κορυφή",
+"url": "https://www.metrosport.gr/paok-na-kratisei-epafi-me-tin-koryfi-1332770",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-08T06:00+00:00",
+"sport": "football",
+"snippet": "Ο ΠΑΟΚ σήμερα στις 21:00 (Metropolis 95.5-metrosport.gr) κοντράρεται στο Γ. Καραϊσκάκης με τον Ολυμπιακό και αν δει κανείς τη βαθμολογία θα καταλάβει ...",
+"also": [],
+"id": "3a6369d466f6"
+},
 {
 "title": "Οι αθλητικές μεταδόσεις της ημέρας (8/11): Πού θα δούμε Ολυμπιακός-ΠΑΟΚ, Ηρακλής-Παναθηναϊκός, ΑΕΚ-Λεβαδειακός και ντέρμπι σε μπάσκετ, βόλεϊ",
 "url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1484631_oi-athlitikes-metadoseis-tis-imeras-8/11-poy-tha-doyme",
@@ -5093,30 +5117,6 @@
 "snippet": "Γνωστές έγιναν οι 11άδες στο Ρεν - Ολυμπιακός, με τον Ιμανόλ Αλγουαθίλ να κατεβάζει τους «ερυθρόλευκους» με αρκετές εκπλήξεις.",
 "also": [],
 "id": "538af223f324"
-},
-{
-"title": "Ρεν - Ολυμπιακός: Με Μπέιλι και Γκονζάλες η ενδεκάδα",
-"url": "https://www.gazzetta.gr/football/europa-league/2583547/ren-olympiakos-me-mpeili-kai-gkonzales-i-endekada",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-04T14:21+00:00",
-"sport": "football",
-"snippet": "Οι επιλογές του Ιμανόλ Αλγκουαθίλ για την αρχική ενδεκάδα του Ολυμπιακού στην εκτός έδρας αναμέτρηση με τη Ρεν.",
-"also": [],
-"id": "6a4f98346289"
-},
-{
-"title": "Η ενδεκάδα του Ολυμπιακού απέναντι στη Ρεν",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/i-endekada-tou-olympiakou-apenanti-sti-ren/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-04T14:18+00:00",
-"sport": "football",
-"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αρχική σύνθεση του Ολυμπιακού στην εκτός έδρας αναμέτρηση με τη Ρεν στη Γαλλία (17:30, ΕΡΑ ΣΠΟΡ), στο…",
-"also": [],
-"id": "cf934302f316"
 }
 ]
 }
