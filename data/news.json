@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-08T15:31:29+00:00",
+"generated_at": "2026-11-08T15:46:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μαρούσι - Ολυμπιακός: Οι γηπεδούχοι βράβευσαν τον Μπαρτζώκα",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2584769/maroysi-olympiakos-oi-gipedoyhoi-brabeysan-ton-mpartzoka",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T15:36+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας βραβεύτηκε από το Μαρούσι, για την κατάκτηση της EuroLeague.",
+"also": [],
+"id": "abc84d92953f"
+},
+{
+"title": "Το Μαρούσι βράβευσε Ολυμπιακό και Μπαρτζώκα (vid)",
+"url": "https://www.sdna.gr/mpasket/1484766_maroysi-brabeyse-olympiako-kai-mpartzoka-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-08T15:34+00:00",
+"sport": "basket",
+"snippet": "Το Μαρούσι πριν τον τζάμπολ της αναμέτρησης με τον Ολυμπιακό βράβευσε την «ερυθρόλευκη» ΚΑΕ για την κατάκτηση της Euroleague και τον Γιώργο Μπαρτζώκα...",
+"also": [],
+"id": "c95bdece52b9"
+},
 {
 "title": "Χαλαρή εξόρμηση στο Ρέθυμνο για τον Παναθηναϊκό και τώρα Ολυμπιακός",
 "url": "https://www.sdna.gr/bolei/1484761_halari-exormisi-sto-rethymno-gia-ton-panathinaiko-kai-tora-olympiakos",
@@ -34,7 +58,7 @@
 "official": false,
 "published": "2026-11-08T15:00+00:00",
 "sport": "basket",
-"snippet": "",
+"snippet": "Προχωρημένες οι συζητήσεις...",
 "also": [],
 "id": "a29e3c9a6400"
 },
@@ -5077,30 +5101,6 @@
 "snippet": "O σύλλογος της Θεσσαλονίκης συνεχίζει την προετοιμασία του για το ντέρμπι της 10ης αγωνιστικής στη Super League απέναντι στον Ολυμπιακό (08/11, 21:00, ΕΡΑ…",
 "also": [],
 "id": "8d3fc0205dd8"
-},
-{
-"title": "Ολυμπιακός: Σταμάτησε ένα εντυπωσιακό σερί της Ρεν μέσα στη Γαλλία",
-"url": "https://www.sdna.gr/podosfairo/1483747_olympiakos-stamatise-ena-entyposiako-seri-tis-ren-mesa-sti-gallia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T09:27+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έφυγε με τον βαθμό της ισοπαλίας (0-0) από την έδρα της Ρεν, βάζοντας τέλος σε ένα εντυπωσιακό σερί των Γάλλων. Οι «ερυθρόλευκοι» έγιναν...",
-"also": [],
-"id": "915c8db1649b"
-},
-{
-"title": "Ολυμπιακός: Μόνο μην μας κοψοχολιάσεις άλλη φορά Στέφανε!",
-"url": "https://www.gazzetta.gr/football/2583841/olympiakos-mono-min-mas-kopsoholiaseis-alli-fora-stefane",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-05T09:25+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta το παιχνίδι του Ολυμπιακού στη Γαλλία επικεντρώνοντας σε τρία πράγματα.",
-"also": [],
-"id": "775213d39f11"
 }
 ]
 }
