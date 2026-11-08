@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-08T10:14:03+00:00",
+"generated_at": "2026-11-08T10:29:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 0-0",
+"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-0-0/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-08T10:20+00:00",
+"sport": "football",
+"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
+"also": [],
+"id": "735d03a1993a"
+},
+{
+"title": "Ολυμπιακός: Νικολακόπουλος για Αλ Ταμάρι και Πάλμα",
+"url": "https://sportime.gr/podosfairo/olimpiakos-metagrafes-i-apokalipsi-nikolakopoulou-gia-al-tamari-ke-i-alithia-pou-den-ipe?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-08T10:10+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος αποκάλυψε γιατί ο Ολυμπιακός δεν απέκτησε τον Αλ Ταμάρι. Τι δεν ανέφερε για τον Μεντιλίμπαρ και την περίπτωση Πάλμα.",
+"also": [],
+"id": "3c929df57817"
+},
 {
 "title": "Ζίβκοβιτς: Ο «δήμιος» του Ολυμπιακού με 8 γκολ και 10 ασίστ για τον ΠΑΟΚ",
 "url": "https://www.gazzetta.gr/football/superleague/2584646/zibkobits-o-dimios-toy-olympiakoy-me-8-gkol-kai-0-asist-gia-ton-paok",
@@ -5047,30 +5071,6 @@
 "snippet": "Ένας πολύ έμπειρος διαιτητής που έχει σφυρίξει – και εξακολουθεί να σφυρίζει – σε υψηλό επίπεδο, έρχεται την Κυριακή στην Ελλάδα, για το μεγάλο ...",
 "also": [],
 "id": "5d3ed6b1cb89"
-},
-{
-"title": "Ολυμπιακός: Τα 4 ματς για την οκτάδα",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-tessera-mats-gia-tin-8ada?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T17:34+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός έχει 10 βαθμούς μετά το 0-0 με τη Ρεν και τέσσερα παιχνίδια μπροστά του. Δείτε το πρόγραμμα και τι χρειάζεται για την απευθείας πρόκριση.",
-"also": [],
-"id": "930744e84863"
-},
-{
-"title": "Ολυμπιακός: Πάνω από 14 εκατ. ευρώ από την UEFA",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-ta-chrimata-pou-pire-ke-pos-xeperase-ta-14-ekat-evro?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-04T17:30+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξασφάλισε ακόμη 150.000 ευρώ από την ισοπαλία με τη Ρεν και έφτασε τα 14,223 εκατομμύρια ευρώ σε εγγυημένα έσοδα από την UEFA.",
-"also": [],
-"id": "6a9d15ab061d"
 }
 ]
 }
