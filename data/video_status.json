@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-11-08T01:39:58+00:00",
+ "checked_at": "2026-11-08T01:55:06+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
    "channel_id": "UCLf7YXb-0PWEeq59Z_q318A",
    "ok": false,
    "items": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   "olympiacos-bc": {
    "name": "Olympiacos BC",
@@ -20,7 +20,7 @@
    "channel_id": "UCGr3nR_XH9r6E5b09ZJAT9w",
    "ok": false,
    "items": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   "superleague": {
    "name": "Super League",
