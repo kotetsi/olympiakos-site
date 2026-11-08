@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-08T19:03:15+00:00",
+"generated_at": "2026-11-08T19:18:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΠΑΟΚ: Μαρινάκης και Καμαρά είχαν χειραψία",
+"url": "https://www.gazzetta.gr/football/superleague/2584857/olympiakos-paok-marinakis-kai-kamara-eihan-heirapsia",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-08T19:16+00:00",
+"sport": "football",
+"snippet": "Το τετ α τετ του Βαγγέλη Μαρινάκη με τον Μαντί Καμαρά.",
+"also": [],
+"id": "2376c7095308"
+},
 {
 "title": "Μαρούσι - Ολυμπιακός 81-83: Τα highlights του αγώνα",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2584824/maroysi-olympiakos-81-83-ta-highlights-toy-agona",
@@ -5082,18 +5094,6 @@
 "snippet": "Η EuroLeague δημοσίευσε σήμερα τις κορυφαίες φάσεις του Οκτωβρίου, με τον Μάρκους Καρ να κατακτά την κορυφή.",
 "also": [],
 "id": "dac9dc188331"
-},
-{
-"title": "Ολυμπιακός Σ.Φ.Π.: «Γίναμε πιο σοφοί... ζήτω η ισονομία!»",
-"url": "https://www.sdna.gr/bolei/1483843_olympiakos-sfp-giname-pio-sofoi-zito-i-isonomia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-05T17:05+00:00",
-"sport": "general",
-"snippet": "Ο Ερασιτέχνης Ολυμπιακός επανήλθε με νέα ανακοίνωση, συνεχίζοντας την αντιπαράθεση γύρω από τις επιχορηγήσεις, τη φορολογία και την παραχώρηση...",
-"also": [],
-"id": "0128ae08ca0b"
 }
 ]
 }
