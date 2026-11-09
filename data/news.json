@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T17:14:42+00:00",
+"generated_at": "2026-11-09T17:29:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα 24 τρίποντα του Φουρνιέ και ο Ντόρσεϊ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fournie-soutare-24-triponta-se-dio-mats-ke-o-ntorsei-den-arki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T17:20+00:00",
+"sport": "general",
+"snippet": "Ο Φουρνιέ επιχείρησε 24 τρίποντα σε δύο αγώνες του Ολυμπιακού. Γιατί η επιστροφή Ντόρσεϊ δεν καλύπτει από μόνη της το κενό του Μοντέρο στην περιφέρεια.",
+"also": [],
+"id": "f0557d15a818"
+},
+{
+"title": "Ολυμπιακός: Η αντίδραση Βερβελέ στο γκολ του ΠΑΟΚ",
+"url": "https://sportime.gr/podosfairo/den-ixere-ti-na-pi-o-verveles-sto-gkol-tou-paok-re-ti-ekanan-afti?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T17:11+00:00",
+"sport": "football",
+"snippet": "Ο Διονύσης Βερβελές δεν μπορούσε να πιστέψει την αντίδραση Τικνιζιάν και Ορτέγκα στη φάση της ισοφάρισης του ΠΑΟΚ απέναντι στον Ολυμπιακό.",
+"also": [],
+"id": "e024b3d015c0"
+},
 {
 "title": "Ολυμπιακός: Συνεχίζει τη δουλειά με ειδική μπότα ο Μοντέρο (pic)",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15222608/olympiakos-synexizei-ti-douleia-me-eidiki-mpota-o-montero-pic/",
@@ -66,6 +90,13 @@
 "url": "https://sportday.gr/podosfairo/364814_olympiakos-ta-eisitiria-gia-to-mats-me-ton-irakli.html",
 "title": "Ολυμπιακός: Τα εισιτήρια για το ματς με τον Ηρακλή",
 "published": "2026-11-09T17:09+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2585168/olympiakos-ta-eisitiria-gia-irakli-kai-pos-tha-diatethoyn",
+"title": "Ολυμπιακός: Τα εισιτήρια για Ηρακλή και πώς θα διατεθούν",
+"published": "2026-11-09T17:25+00:00"
 }
 ],
 "id": "ce836ca0a030"
@@ -4948,30 +4979,6 @@
 "snippet": "Τι αναφέρει η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός",
 "also": [],
 "id": "3584b97fd33f"
-},
-{
-"title": "Ολυμπιακός: Μόλις τέσσερα εύστοχα σουτ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-molis-tessera-efstocha-sout?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T19:40+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός αντιμετώπισε έντονο επιθετικό πρόβλημα απέναντι στον Ερυθρό Αστέρα, με μόλις τέσσερα εύστοχα σουτ στην πρώτη περίοδο της αναμέτρησης.",
-"also": [],
-"id": "fcb74d565881"
-},
-{
-"title": "Παρών στη Sunel Arena ο Τζόκοβιτς για το Ολυμπιακός-Ερυθρός Αστέρας, φωτογραφήθηκε με τους Αγγελόπουλους",
-"url": "http://www.sport-fm.gr/article/5159372",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T19:37+00:00",
-"sport": "general",
-"snippet": "Στη Sunel Arena για να παρακολουθήσει την αναμέτρηση του Ολυμπιακού με τον Ερυθρό Αστέρα, βρίσκεται ο Νόβακ Τζόκοβιτς",
-"also": [],
-"id": "18b44ec7206f"
 }
 ]
 }
