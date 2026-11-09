@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T13:42:50+00:00",
+"generated_at": "2026-11-09T13:57:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Έσε: Πλήγμα στον Ολυμπιακό με τον Αργεντινό - Ποια ματς χάνει",
+"url": "https://www.gazzetta.gr/football/superleague/2585104/ese-pligma-ston-olympiako-me-ton-argentino-poia-mats-hanei",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T13:51+00:00",
+"sport": "football",
+"snippet": "Εκτός δράσης για τον επόμενο 1,5 μήνα τίθεται ο Σαντιάγκο Έσε, καθώς η μαγνητική του έδειξε κάκωση στον έσω πλάγιο σύνδεσμο του γόνατος.",
+"also": [],
+"id": "2448e23d8b1d"
+},
+{
+"title": "Ολυμπιακός: Πλήγμα με Έσε – Αυτός είναι ο τραυματισμός του",
+"url": "https://sportday.gr/podosfairo/364771_olympiakos-pligma-me-ese-aftos-einai-o-travmatismos-tou.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-09T13:46+00:00",
+"sport": "football",
+"snippet": "Δυσάρεστα τα νέα με τον Αργεντινό χαφ",
+"also": [],
+"id": "f6934b59fa61"
+},
 {
 "title": "Γιώργος Χελάκης: Ο Ολυμπιακός επιβεβαίωσε μια γνώριμη αδυναμία",
 "url": "https://sportday.gr/podosfairo/364726_giorgos-chelakis-o-olympiakos-epivevaiose-mia-gnorimi-adynamia.html",
@@ -4984,30 +5008,6 @@
 "snippet": "",
 "also": [],
 "id": "c645500a679a"
-},
-{
-"title": "Ολυμπιακός – Παναθηναϊκός 15-12: Τα highlights της «ερυθρόλευκης» νίκης στο ντέρμπι του πόλο",
-"url": "https://sportday.gr/video/364481_olympiakos-panathinaikos-15-12-ta-highlights-tis-erythrolefkis-nikis-sto-ntermpi-tou-polo.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T18:01+00:00",
-"sport": "polo",
-"snippet": "",
-"also": [],
-"id": "6147a1e009c9"
-},
-{
-"title": "Ολυμπιακός: Η θέση της ΚΑΕ για την τιμωρία του Γιαννακόπουλου",
-"url": "https://sportday.gr/basket/364480_olympiakos-i-thesi-tis-kae-gia-tin-timoria-tou-giannakopoulou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T17:55+00:00",
-"sport": "basket",
-"snippet": "Τι αναφέρουν οι «ερυθρόλευκοι»",
-"also": [],
-"id": "5679c4c8b2f5"
 }
 ]
 }
