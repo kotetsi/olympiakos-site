@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T16:44:26+00:00",
+"generated_at": "2026-11-09T16:59:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Συνεχίζει τη δουλειά με ειδική μπότα ο Μοντέρο (pic)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15222608/olympiakos-synexizei-ti-douleia-me-eidiki-mpota-o-montero-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-09T16:54+00:00",
+"sport": "basket",
+"snippet": "Ο Δομινικανός γκαρντ υποβλήθηκε πρόσφατα σε χειρουργική επέμβαση στην Ισπανία, προκειμένου να αποκαταστήσει τη ζημιά που υπέστη στον μηνίσκο. Το διάστημα της…",
+"also": [],
+"id": "5e864e0ec7b0"
+},
+{
+"title": "Μαρινάκης: Τι είπε στον διαιτητή του Ολυμπιακός – ΠΑΟΚ",
+"url": "https://sportime.gr/parafootball/ironia-vangeli-marinaki-ston-ispano-dietiti-tou-olimpiakos-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T16:46+00:00",
+"sport": "football",
+"snippet": "Ο Βαγγέλης Μαρινάκης έκανε ένα σχόλιο στον Ισπανό διαιτητή του Ολυμπιακός – ΠΑΟΚ, το οποίο ο Σάντσεθ Μαρτίνεθ θεώρησε ειρωνικό και κατέγραψε στο φύλλο αγώνα.",
+"also": [],
+"id": "33f1e54202bc"
+},
 {
 "title": "Παπαθεοδώρου: Αιχμές για τη διαιτησία του Ολυμπιακού",
 "url": "https://sportime.gr/basket/vasilis-papatheodorou-epitelous-i-dietites-sfirizoun-oti-vlepoun-kontra-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4940,30 +4964,6 @@
 "snippet": "Στη Sunel Arena για να παρακολουθήσει την αναμέτρηση του Ολυμπιακού με τον Ερυθρό Αστέρα, βρίσκεται ο Νόβακ Τζόκοβιτς",
 "also": [],
 "id": "18b44ec7206f"
-},
-{
-"title": "ΠΑΟΚ: Με τρία στόπερ κόντρα στον Ολυμπιακό",
-"url": "https://sportime.gr/paok/paok-me-tria-stoper-kontra-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T19:21+00:00",
-"sport": "general",
-"snippet": "Ο ΠΑΟΚ εξετάζει σχηματισμό 3-5-2 απέναντι στον Ολυμπιακό, με τρεις στόπερ, τον Αντρίγια Ζίβκοβιτς σε ρόλο φουλ μπακ και δύο επιθετικούς.",
-"also": [],
-"id": "365ff713b18f"
-},
-{
-"title": "Ολυμπιακός: Στο στόχαστρο ο Βλαντιμίρ Σκρέτσιου",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-sto-stochastro-o-vlantimir-skretsiou-theli-stoper-o-imanol?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T19:18+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός παρακολουθεί τον Βλαντιμίρ Σκρέτσιου της Κραϊόβα. Ο 26χρονος Ρουμάνος αμυντικός ενδιαφέρει και την Μπρεστ, με αξία 2,5 εκατ. ευρώ.",
-"also": [],
-"id": "3765c1ec014c"
 }
 ]
 }
