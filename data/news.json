@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T08:25:00+00:00",
+"generated_at": "2026-11-09T08:40:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ: Η πρώτη εκτίμηση για τον τραυματισμό του Γιάκιτς",
+"url": "https://sportday.gr/podosfairo/364746_paok-i-proti-ektimisi-gia-ton-travmatismo-tou-giakits.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-09T08:28+00:00",
+"sport": "football",
+"snippet": "Ο Κρίστιαν Γιάκιτς ήταν ο μεγάλος άτυχος για τον ΠΑΟΚ στην αναμέτρηση κόντρα στον Ολυμπιακό στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "2567f11ed6dd"
+},
+{
+"title": "Ολυμπιακός: Απροετοίμαστος στο ντέρμπι, χάνει Έσε και διεθνείς!",
+"url": "https://www.novasports.gr/category/the-experts/article/15222149/olympiakos-aproetoimastos-sto-ntermpi-xanei-ese-kai-diethneis/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-09T08:25+00:00",
+"sport": "football",
+"snippet": "H εκδοχή του Ολυμπιακού που εμφανίστηκε απέναντι στον ΠΑΟΚ δεν είχε την πνευματική ετοιμότητα που απαιτεί ένα ντέρμπι. Η εικόνα γίνεται ακόμη πιο σαφής αν η…",
+"also": [],
+"id": "4705e8e0e079"
+},
 {
 "title": "Ενώ ο πολύ καλός ΠΑΟΚ «βούλιαξε» τον θρύλο στον «βάλτο» του Φαλήρου, το πρωτάθλημα (λόγω διαιτησίας) είναι για τα σκουπίδια!",
 "url": "https://www.metrosport.gr/eno-o-poly-kalos-paok-voyliaxe-ton-thrylo-ston-valto-toy-faliroy-to-protathlima-logo-diaitisias-einai-gia-ta-skoypidia-1332884",
@@ -4984,30 +5008,6 @@
 "snippet": "Ο Ολυμπιακός καταλαμβάνει την όγδοη θέση στην αξιολόγηση απόδοσης του Europa League με 54,0, αφήνοντας πίσω του Γιουβέντους, Μπενφίκα και Ρεν.",
 "also": [],
 "id": "44b761df0c63"
-},
-{
-"title": "Ολυμπιακός: 76% για την οκτάδα του Europa League",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-76-gia-tin-oktada?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T16:24+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός συγκεντρώνει 76,1% πιθανότητες για την πρώτη οκτάδα του Europa League, ξεπερνώντας τη Λεβερκούζεν στις προβλέψεις του Football Rankings.",
-"also": [],
-"id": "77cce98f3807"
-},
-{
-"title": "Υπεράνω Όλων: Αλλάζει η Ιστορία του Ολυμπιακού",
-"url": "https://sportday.gr/podosfairo/364472_yperano-olon-allazei-i-istoria-tou-olympiakou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T16:13+00:00",
-"sport": "football",
-"snippet": "Θα είμαστε ιδιοκτήτες για 49 χρόνια, και το κόστος για την Πολιτεία θα είναι ελάχιστο μπροστά σε αυτά που έχουν χορηγηθεί σε «άλλους τσαμπατζήδες»",
-"also": [],
-"id": "78bf8f4ce0e2"
 }
 ]
 }
