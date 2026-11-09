@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T13:57:56+00:00",
+"generated_at": "2026-11-09T14:13:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σοκ με Έσε, νοκ άουτ για 1,5 μήνα",
+"url": "https://www.sdna.gr/taxonomy/term/1485056_olympiakos-sok-me-ese-nok-aoyt-gia-15-mina",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T14:04+00:00",
+"sport": "general",
+"snippet": "Επιβεβαιώθηκαν οι φόβοι στον Ολυμπιακό για τον Σαντιάγκο Έσε.",
+"also": [],
+"id": "e6ab3d2ea10e"
+},
+{
+"title": "Ολυμπιακός: Εκτός για 4-6 εβδομάδες ο Έσε",
+"url": "https://www.ertsports.gr/omades/olympiakos/olympiakos-ektos-gia-4-6-evdomades-o-ese/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-09T13:52+00:00",
+"sport": "football",
+"snippet": "Τις υπηρεσίες του Σαντιάγκο Έσε θα στερηθεί ο Ολυμπιακός για τουλάχιστον έναν μήνα, αφού ο Αργεντινός μέσος υπέστη κάκωση στον έσω πλάγιο σύνδεσμο στο ντέρμπι…",
+"also": [],
+"id": "83723ce86b08"
+},
 {
 "title": "Έσε: Πλήγμα στον Ολυμπιακό με τον Αργεντινό - Ποια ματς χάνει",
 "url": "https://www.gazzetta.gr/football/superleague/2585104/ese-pligma-ston-olympiako-me-ton-argentino-poia-mats-hanei",
@@ -4984,30 +5008,6 @@
 "snippet": "Ολυμπιακός - Ερυθρός Αστέρας σήμερα 6 Νοεμβρίου για τη EuroLeague. Δείτε σε ποιο κανάλι μεταδίδεται ο αγώνας, την ώρα έναρξης και τα τελευταία νέα.",
 "also": [],
 "id": "6f9c423e95e8"
-},
-{
-"title": "Ολυμπιακός: Στελέχη ολλανδικών ομάδων και της Ομοσπονδίας εντυπωσιάστηκαν από τα σχέδια του νέου Καραϊσκάκη",
-"url": "https://www.gazzetta.gr/football/superleague/2584300/olympiakos-stelehi-ollandikon-omadon-kai-tis-omospondias",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T18:07+00:00",
-"sport": "football",
-"snippet": "Πάνω από 20 στελέχη ολλανδικών ομάδων αλλά της ολλανδικής Oμοσπονδίας επισκέφθηκαν το Καραϊσκάκη και το μουσείο του Ολυμπιακού. Τα σχόλια θαυμασμού για τον…",
-"also": [],
-"id": "6b37698e158b"
-},
-{
-"title": "Ολυμπιακός – Παναθηναϊκός: Ερυθρόλευκο πάρτι στο ”Παπαστράτειο” μετά τη νίκη στο ντέρμπι",
-"url": "https://sportday.gr/video/364482_olympiakos-panathinaikos-erythrolefko-parti-sto-papastrateio-meta-ti-niki-sto-ntermpi.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T18:02+00:00",
-"sport": "polo",
-"snippet": "",
-"also": [],
-"id": "c645500a679a"
 }
 ]
 }
