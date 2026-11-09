@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T20:58:02+00:00",
+"generated_at": "2026-11-09T21:13:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ντουμπάι: Στο… ρελαντί την Μέγκα πριν τον Ολυμπιακό",
+"url": "https://www.eurohoops.net/el/aba-el/2032846/ntoumpai-sto-relanti-tin-megka-prin-ton-olimpiako/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-09T21:09+00:00",
+"sport": "basket",
+"snippet": "Η Ντουμπάι δεν αντιμετώπισε κανένα πρόβλημα κόντρα στην Μέγκα (87-98) και έρχεται στην Αθήνα με ρυθμό και... χαμόγελα. The post Ντουμπάι: Στο… ρελαντί την…",
+"also": [],
+"id": "ee8467dcd6e7"
+},
 {
 "title": "Μέγκα Μπάσκετ - Ντουμπάι BC 87-98: Εύκολα η Ντουμπάι πριν τον Ολυμπιακό στην ABA League",
 "url": "https://www.gazzetta.gr/basketball/aba-liga/2585203/megka-mpasket-ntoympai-bc-87-98-eykola-i-ntoympai-prin-ton-olympiako",
@@ -11,7 +23,15 @@
 "published": "2026-11-09T20:56+00:00",
 "sport": "basket",
 "snippet": "Η Ντουμπάι BC επικράτησε με 87-98 της Μέγκα Μπάσκετ παραμένοντας αήττητη στην ABA League πριν αντιμετωπίσει τον Ολυμπιακό στη EuroLeague.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1485181_eykola-tin-megka-prin-ton-olympiako-i-ntoympai",
+"title": "Εύκολα την Μέγκα πριν τον Ολυμπιακό η Ντουμπάι",
+"published": "2026-11-09T20:57+00:00"
+}
+],
 "id": "178da3fddeac"
 },
 {
@@ -4982,18 +5002,6 @@
 "snippet": "Ο Ολυμπιακός παρά τη μεγάλη του προσπάθεια για ανατροπή (μείωσε στο καλάθι 01:30 πριν το φινάλε), «πλήρωσε» το πολύ κακό πρώτο ημίχρονο και γνώρισε την ήττα…",
 "also": [],
 "id": "80871bec45f8"
-},
-{
-"title": "Ολυμπιακός-Ερυθρός Αστέρας 57-62: Πήγε για μια (ακόμη) τεράστια ανατροπή, δεν άντεξε στο τέλος…",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15217053/olympiakos-erythros-asteras-57-62-pige-gia-mia-akomi-terastia-anatropi-den-antekse-sto-telos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T21:11+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός στη Βαλένθια είχε γυρίσει παιχνίδι από 28 πόντους διαφορά. Τότε το σκορ ήταν στο 62-34 στο 21ο λεπτό. Τώρα με αντίπαλο τον Ερυθρό Αστέρα, στο…",
-"also": [],
-"id": "da89408eea28"
 }
 ]
 }
