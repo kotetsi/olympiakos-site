@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T18:41:44+00:00",
+"generated_at": "2026-11-09T18:56:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΚΕΔ προς διαιτητές: «Η λάθος κίτρινη του ΠΑΟΚ, το πέναλτι της ΑΕΚ, οι 9 του Ολυμπιακού και ο Αντίνο»",
+"url": "https://www.sdna.gr/podosfairo/1485159_ked-pros-diaitites-i-lathos-kitrini-toy-paok-penalti-tis-aek-oi-9-toy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T18:42+00:00",
+"sport": "football",
+"snippet": "Λάθη σε διάφορα παιχνίδια του πρώτου γύρου επισήμανε ο Βάλερι της ΚΕΔ στους διαιτητές. Σχεδόν σε όλες τις περιπτώσεις που τέθηκαν προς ανάλυση...",
+"also": [],
+"id": "d81ea0c3f193"
+},
 {
 "title": "Αποδυτήρια: Ζίβκοβιτς, Ολυμπιακός, Αϊτόρ Γρηγορίου, Νίστρουπ",
 "url": "https://sportime.gr/parafootball/apoditiria-i-agkalia-zivkovits-se-lisi-i-apogoitefsi-ston-olimpiako-o-koresmos-stin-aek-o-aitor-ke-to-paramithi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -207,6 +219,13 @@
 "sport": "basket",
 "snippet": "Ο Αμερικανός γκαρντ ταλαιπωρείται από ενοχλήσεις, με αποτέλεσμα ο τεχνικός της ομάδας, Τσάβι Πασκουάλ, να μην μπορεί να υπολογίζει στις υπηρεσίες του για το…",
 "also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/xoris-ton-gouokap-i-ntoumpai-apenanti-ston-olympiako/",
+"title": "Χωρίς τον Γουόκαπ η Ντουμπάι απέναντι στον Ολυμπιακό",
+"published": "2026-11-09T15:52+00:00"
+},
 {
 "source": "sportday",
 "source_name": "Sportday",
@@ -4975,18 +4994,6 @@
 "snippet": "Μια ξεχωριστή ιστορία με πρωταγωνιστές δύο ποδοσφαιριστές του Ολυμπιακού αναδεικνύει η μεξικανική Marca, εν όψει των αναμετρήσεων του Μεξικού με την Τζαμάικα…",
 "also": [],
 "id": "53964fbd1f85"
-},
-{
-"title": "Ολυμπιακός: Κίνδυνος ιστορικής συντριβής!",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-kindinos-istorikis-sintrivis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T20:06+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός βρίσκεται πίσω με 22-40 από τον Ερυθρό Αστέρα στο ημίχρονο, με μόλις 1/16 τρίποντα και σοβαρό επιθετικό πρόβλημα που απειλεί με βαριά ήττα.",
-"also": [],
-"id": "40625545fe61"
 }
 ]
 }
