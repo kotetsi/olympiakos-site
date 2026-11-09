@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-09T19:57:25+00:00",
+"generated_at": "2026-11-09T20:12:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Θέμα με τον Τσικίνιο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-thema-ke-me-ton-tsikinio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T20:03+00:00",
+"sport": "general",
+"snippet": "Ο Τσικίνιο προβλημάτισε στο Ολυμπιακός - ΠΑΟΚ 1-1, με 14 χαμένες κατοχές και μόλις 0,05 xA. Τα στατιστικά που ανοίγουν συζήτηση για τη θέση του.",
+"also": [],
+"id": "98a4f0b28cab"
+},
+{
+"title": "Νικολακόπουλος: «Το ρεπό του Ιμανόλ και η πρόβλεψη για Έσε στον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5160079",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-09T19:54+00:00",
+"sport": "general",
+"snippet": "Ακούστε το ρεπορτάζ του Κώστα Νικολακόπουλου στον bwinΣΠΟΡ FM 94,6 για τον Ολυμπιακό.",
+"also": [],
+"id": "2e868c0eac09"
+},
+{
+"title": "ΠΑΟΚ-Γιάκιτς: Ο Μπίλιτς τον αποθέωσε και μία ημέρα μετά τραυματίστηκε!",
+"url": "https://www.metrosport.gr/paok-giakits-o-mpilits-ton-apotheose-kai-mia-imera-meta-traymatistike-1332982",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-09T19:50+00:00",
+"sport": "football",
+"snippet": "Άτυχος στάθηκε ο Κρίστιαν Γιάκιτς, καθώς ο τραυματισμός του στο μεγάλο ντέρμπι του ΠΑΟΚ με τον Ολυμπιακό στο «Γ. Καραϊσκάκης» ήρθε σε μία ιδιαίτερα ...",
+"also": [],
+"id": "f7e53449f6b6"
+},
 {
 "title": "Ολυμπιακός: Το πρόβλημα με τον Ζοέλ Ρόκα",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-roka-den-pithi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4958,42 +4994,6 @@
 "snippet": "Ο Ολυμπιακός ηττήθηκε με 62-57 από τον Ερυθρό Αστέρα στη Sunel Arena, παρά την επιστροφή του από το -22, με αποτέλεσμα να γνωρίσει την τρίτη του ήττα σε 10…",
 "also": [],
 "id": "5b14c8bd77d6"
-},
-{
-"title": "Ολυμπιακός: Το χειρότερό του πρώτο ημίχρονο εντός έδρας στην Ευρωλίγκα (pic)",
-"url": "https://www.sdna.gr/mpasket/1484218_olympiakos-heirotero-toy-proto-imihrono-entos-edras-stin-eyroligka-pic",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T20:33+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός πέτυχε μόλις 22 πόντους στο πρώτο ημίχρονο απέναντι στον Ερυθρό Αστέρα, πραγματοποιώντας την χειρότερή του εμφάνιση σε εντός έδρας ματς...",
-"also": [],
-"id": "16d654b413c9"
-},
-{
-"title": "Ολυμπιακός: Μία ανάσα από αρνητικό ρεκόρ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-mia-anasa-apo-arnitiko-rekor?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T20:30+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός πέτυχε μόλις 22 πόντους στο πρώτο ημίχρονο με τον Ερυθρό Αστέρα, ισοφαρίζοντας τη δεύτερη χειρότερη επιθετική επίδοσή του στη EuroLeague.",
-"also": [],
-"id": "254f901ec210"
-},
-{
-"title": "Ολυμπιακός: Η αρνητική επίδοση του πρώτου ημιχρόνου",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216989/olympiakos-i-arnitiki-epidosi-tou-protou-imixronou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T20:24+00:00",
-"sport": "basket",
-"snippet": "Οι Πειραιώτες τα… έσπασαν στο πρώτο ημίχρονο του αγώνα με τον Αστέρα στη Sunel Arena, αγγίζοντας ιστορικό αρνητικό ρεκόρ. Για την ακρίβεια σκόραραν 22 πόντους…",
-"also": [],
-"id": "d567f02d6df7"
 }
 ]
 }
