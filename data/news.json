@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T13:12:34+00:00",
+"generated_at": "2026-11-09T13:27:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Γιώργος Χελάκης: Ο Ολυμπιακός επιβεβαίωσε μια γνώριμη αδυναμία",
+"url": "https://sportday.gr/podosfairo/364726_giorgos-chelakis-o-olympiakos-epivevaiose-mia-gnorimi-adynamia.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-09T13:17+00:00",
+"sport": "football",
+"snippet": "Όσο η αναποτελεσματικότητα παραμένει, τόσο θα χάνονται βαθμοί ακόμη και σε παιχνίδια στα οποία έχει τον πρώτο λόγο.",
+"also": [],
+"id": "e5f4d5219248"
+},
 {
 "title": "Ποιος είναι φαβορί για το πρωτάθλημα σύμφωνα με το Football Meets Data",
 "url": "https://www.metrosport.gr/poios-einai-favori-gia-to-protathlima-symfona-me-to-football-meets-data-1332921",
@@ -4996,18 +5008,6 @@
 "snippet": "Τι αναφέρουν οι «ερυθρόλευκοι»",
 "also": [],
 "id": "5679c4c8b2f5"
-},
-{
-"title": "ΠΑΟΚ: Απαραίτητες διευκρινίσεις για τους κατόχους διαρκείας εν όψει του αγώνα με την Παρτίζαν",
-"url": "https://www.metrosport.gr/paok-aparaitites-dieykriniseis-gia-toys-katochoys-diarkeias-en-opsei-toy-agona-me-tin-partizan-1332654",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-06T17:55+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ προετοιμάζεται για το σπουδαίο παιχνίδι με αντίπαλο τον Ολυμπιακό στο Γεώργιος Καραϊσκάκης το βράδυ της Κυριακής και δικαιολογημένα το ...",
-"also": [],
-"id": "19b74351d8de"
 }
 ]
 }
