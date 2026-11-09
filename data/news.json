@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T21:43:27+00:00",
+"generated_at": "2026-11-09T21:58:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το επίμονο «Μυρμήγκι» είναι ο πιο παραγωγικός φορ του",
+"url": "https://www.gazzetta.gr/football/superleague/2585182/olympiakos-epimono-myrmigki-einai-o-pio-paragogikos-toy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T21:47+00:00",
+"sport": "football",
+"snippet": "Ο Αρμάντο Γκονζάλες των 6 γκολ στον Ολυμπιακό στην πρώτη του επαφή με τη μπάλα στο ντέρμπι με τον ΠΑΟΚ (που τελείωσε στο 1-1) έβαλε γκολ.",
+"also": [],
+"id": "72eb47399664"
+},
 {
 "title": "Η Dubai BC νίκησε τη Μέγκα και πλέον στρέφεται στον Ολυμπιακό",
 "url": "https://www.ertsports.gr/mpasket/diethni-mpasket/i-dubai-bc-nikise-ti-megka-kai-pleon-strefetai-ston-olympiako/",
@@ -13,6 +25,18 @@
 "snippet": "Με θετικό αποτέλεσμα ολοκλήρωσε τις υποχρεώσεις της στην Αδριατική Λίγκα η Dubai BC, καθώς επικράτησε εκτός έδρας της Μέγκα με 98-87, λίγες ημέρες πριν από την…",
 "also": [],
 "id": "0376f0a49832"
+},
+{
+"title": "50.000 Ευρώ κόστισε στη Μαρσέιγ το πανό για τον Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5160091",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-09T21:38+00:00",
+"sport": "general",
+"snippet": "Η ΟΥΕΦΑ τιμώρησε τη Μαρσέιγ για τη συμπεριφορά των οπαδών της στον αγώνα με τον Ολυμπιακό στο Βελοντρόμ.",
+"also": [],
+"id": "0bd2b9fd053c"
 },
 {
 "title": "Άνετη νίκη για την Ντουμπάι πριν από τη συνάντησή της με τον Ολυμπιακό",
@@ -4978,30 +5002,6 @@
 "snippet": "Ο Ολυμπιακός έφτασε να κυνηγάει όσα δημιούργησε ο... χείριστος εαυτός του και γνώρισε πικρή ήττα (57-62) από τον Ερυθρό Αστέρα. The post Ολυμπιακός – Ερ…",
 "also": [],
 "id": "e34e5afbd8ae"
-},
-{
-"title": "Euroleague: Στην εξαπλή ισοβαθμία του 7-3 ο Ολυμπιακός, άφησε μόνο πρώτο τον Παναθηναϊκό",
-"url": "http://www.sport-fm.gr/article/5159387",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T21:13+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της Euroleague μετά την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα για τη 10η αγωνιστική της Euroleague.",
-"also": [],
-"id": "b7378e4f7a56"
-},
-{
-"title": "Ολυμπιακός – Ερυθρός Αστέρας 57-62: Η τρομερή προσπάθεια στο τέλος δεν ήταν αρκετή, οι Πειραιώτες λύγισαν από την αδιανόητη αστοχία τους",
-"url": "https://sportday.gr/basket/364488_olympiakos-erythros-asteras-57-62-i-tromeri-prospatheia-sto-telos-den-itan-arketi-oi-peiraiotes-lygisan-apo-tin-adianoiti-astochia-tous.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T21:12+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός «κατάφερε» να βάλει μόνο 22 πόντους στο πρώτο ημίχρονο, κατάφερε να κρατήσει σε αυτά τα επίπεδα τον Ερυθρό Αστέρα στο δεύτερο, όμως οι…",
-"also": [],
-"id": "50c87b402ba4"
 }
 ]
 }
