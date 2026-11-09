@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T14:28:13+00:00",
+"generated_at": "2026-11-09T14:43:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα έξι 1-0 και η γκέλα με τον ΠΑΟΚ",
+"url": "https://sportime.gr/olimpiakos/nikolakopoulos-olimpiakos-de-ginete-doulia-etsi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T14:30+00:00",
+"sport": "general",
+"snippet": "Ο Νικολακόπουλος στάθηκε στις έξι νίκες του Ολυμπιακού με 1-0 και εξήγησε γιατί η παθητική αντίδραση και το λάθος του Ορτέγκα κόστισαν με τον ΠΑΟΚ.",
+"also": [],
+"id": "f43b9b510646"
+},
+{
+"title": "ΠΑΟΚ-Γιάκιτς: Μαγνητική στο Ζάγκρεμπ και επιστρέφει στη Θεσσαλονίκη",
+"url": "https://www.metrosport.gr/paok-giakits-magnitiki-sto-zagkremp-kai-epistrefei-sti-thessaloniki-1332937",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-09T14:30+00:00",
+"sport": "football",
+"snippet": "Δεν μπορούσε να ακυρώσει το ταξίδι του, στο Ζάγκρεμπ, ο Κρίστιαν Γιάκιτς μετά τον αγώνα του ΠΑΟΚ με τον Ολυμπιακό στο στάδιο Καραϊσκάκη. Οι Κροάτες ...",
+"also": [],
+"id": "671054ade42b"
+},
 {
 "title": "Γι’ αυτό ο Ολυμπιακός δεν θα πάρει πρωτάθλημα…",
 "url": "https://sportime.gr/podosfairo/olimpiakos-gi-afto-den-tha-pari-to-protathlima-ta-dika-tou-lathi-ke-i-dietisia-ton-antipalon?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4984,30 +5008,6 @@
 "snippet": "Γνωστή έγινε η δωδεκάδα του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα, με τον Εβάν Φουρνιέ να είναι κανονικά διαθέσιμος.",
 "also": [],
 "id": "7515dca552d7"
-},
-{
-"title": "Ολυμπιακός: Επίσκεψη στελεχών ολλανδικών ομάδων στο «Γ. Καραϊσκάκης» – Εντυπωσιάστηκαν από το νέο γήπεδο",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15216805/olympiakos-episkepsi-stelexon-ollandikon-omadon-sto-g-karaiskakis-entyposiastikan-apo-to-neo-gipedo/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T18:23+00:00",
-"sport": "football",
-"snippet": "Σημαντική παρουσία από τον χώρο του ολλανδικού ποδοσφαίρου φιλοξένησε την Παρασκευή ο Ολυμπιακός, καθώς περισσότερα από 20 στελέχη ομάδων της Ολλανδίας…",
-"also": [],
-"id": "a9eb99145d04"
-},
-{
-"title": "Ολυμπιακός: Το ζέσταμα του Φουρνιέ αλά... γαλλικά (vid)",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584301/olympiakos-zestama-toy-foyrnie-ala-gallika-vid",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T18:19+00:00",
-"sport": "basket",
-"snippet": "Ο Εβάν Φουρνιέ προετοιμάζεται για τον αγώνα του Ολυμπιακού με τον Ερυθρό Αστέρα, με άκρως γαλλικό τρόπο.",
-"also": [],
-"id": "aba7fe92cf0a"
 }
 ]
 }
