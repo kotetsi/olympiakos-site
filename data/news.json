@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T11:56:53+00:00",
+"generated_at": "2026-11-09T12:12:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ: Ζίβκοβιτς για… πρώτος σκόρερ κόντρα στον Ολυμπιακό",
+"url": "https://www.metrosport.gr/paok-zivkovits-gia-protos-skorer-kontra-ston-olympiako-1332893",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-09T12:09+00:00",
+"sport": "football",
+"snippet": "Ο Αντρίγια Ζίβκοβιτς σκόραρε το γκολ της ισοφάρισης του ΠΑΟΚ στο «Γ. Καραϊσκάκης» κόντρα στον Ολυμπιακό, το 9ο του στα ντέρμπι των δύο ομάδων. Ο ...",
+"also": [],
+"id": "56c2bc8256c0"
+},
+{
+"title": "Στίβος: Ένα ιστορικό ολυμπιακό αγώνισμα κινδυνεύει με «έξωση» από τους Αγώνες του 2032!",
+"url": "https://sportday.gr/sports/stivos/364757_stivos-ena-istoriko-olympiako-agonisma-kindynevei-me-eksosi-apo-tous-agones-tou-2032.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-09T12:04+00:00",
+"sport": "general",
+"snippet": "Ένα από τα πιο ιστορικά αγωνίσματα του κλασικού αθλητισμού ενδέχεται να απουσιάσει από το πρόγραμμα των Ολυμπιακών Αγώνων του Μπρίσμπεϊν το 2032.",
+"also": [],
+"id": "5012cdc59f5f"
+},
 {
 "title": "Τα 9 γκολ του Ζίβκοβιτς με τον Ολυμπιακό και το νέο αήττητο ρεκόρ",
 "url": "https://www.ertsports.gr/super-league/ta-9-gkol-tou-zivkovits-me-ton-olympiako-kai-to-neo-aittito-rekor/",
@@ -4984,30 +5008,6 @@
 "snippet": "Ένα... περίεργο περιστατικό συνέβη στο «Παπαστράτειο» κολυμβητήριο, το οποίο έπιασαν οι τηλεοπτικές κάμερες, όταν ο Ολυμπιακός με μακρινό σουτ έδειξε...",
 "also": [],
 "id": "4ef739286eb2"
-},
-{
-"title": "Επισκέφτηκαν το «Γ. Καραϊσκάκης» στελέχη του ολλανδικού ποδοσφαίρου – Εντυπωσιάστηκαν από το σχέδιο για το νέο γήπεδο",
-"url": "http://www.sport-fm.gr/article/5159351",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T17:47+00:00",
-"sport": "football",
-"snippet": "Περισσότερα από 20 στελέχη ολλανδικών συλλόγων και της ποδοσφαιρικής ομοσπονδίας της χώρας βρέθηκαν στο «Γ. Καραϊσκάκης», όπου ενημερώθηκαν για τον σχεδιασμό…",
-"also": [],
-"id": "a723c098c68e"
-},
-{
-"title": "Ολυμπιακός – Παναθηναϊκός 15-12: “Ερυθρόλευκο” το πρώτο ντέρμπι της χρονιάς",
-"url": "https://www.ertsports.gr/alla-spor/polo/water-polo-league/olympiakos-panathinaikos-15-12-erythroleyko-to-proto-ntermpi-tis-xronias/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-06T17:47+00:00",
-"sport": "polo",
-"snippet": "Οι «ερυθρόλευκοι» ξεπέρασαν το κακό ξεκίνημα και επικράτησαν 15-12 του Παναθηναϊκού στο κατάμεστο «Πέτρος Καπαγέρωφ» του Πειραιά, σε ένα συναρπαστικό παιχνίδι…",
-"also": [],
-"id": "d5720ec99aae"
 }
 ]
 }
