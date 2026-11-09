@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T10:10:57+00:00",
+"generated_at": "2026-11-09T10:26:04+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Εμφάνιση που γεμίζει με αισιοδοξία» (audio)",
+"url": "https://www.ertsports.gr/era-spor/emfanisi-pou-gemizei-me-aisiodoksia-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-09T10:18+00:00",
+"sport": "football",
+"snippet": "Ο ΠΑΟΚ τα τελευταία χρόνια έχει καταφέρει να χτίσει καλή παράδοση στο \"Γ.Καραϊσκάκης\", παίρνοντας τον βαθμό της ισοπαλίας από τον Ολυμπιακό με 1-1, απέναντι σε…",
+"also": [],
+"id": "d6062b83efeb"
+},
 {
 "title": "Ολυμπιακός: Του έλειπε η… ροκιά",
 "url": "https://sportday.gr/podosfairo/364709_olympiakos-tou-eleipe-i-rokia.html",
@@ -4996,18 +5008,6 @@
 "snippet": "Η προσφυγή των «ερυθρολεύκων» αφορούσε τη δημόσια τοποθέτηση της κ. Θάνου και συγκεκριμένα τη φράση «στημένοι διαιτητές = στημένα πρωταθλήματα», η οποία…",
 "also": [],
 "id": "a44db732dfd6"
-},
-{
-"title": "Ολυμπιακός – Παναθηναϊκός: «Φέρτε πίσω τα κλεμμένα, εκτός από το πόλο που δεν έχετε κανένα»",
-"url": "https://www.novasports.gr/sport/alla-spor/event/ellada/article/15216474/olympiakos-panathinaikos-ferte-piso-ta-klemmena-ektos-apo-to-polo-pou-den-exete-kanena/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T17:11+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός υποδέχτηκε τον Παναθηναϊκό στο Παπαστράτειο, στο πλαίσιο της 7ης αγωνιστικής της Water Polo League, με την ατμόσφαιρα στις εξέδρες να έχει και το…",
-"also": [],
-"id": "37cad8066625"
 }
 ]
 }
