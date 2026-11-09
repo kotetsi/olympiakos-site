@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T19:42:18+00:00",
+"generated_at": "2026-11-09T19:57:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το πρόβλημα με τον Ζοέλ Ρόκα",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-roka-den-pithi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T19:42+00:00",
+"sport": "general",
+"snippet": "Η εμφάνιση του Ζοέλ Ρόκα στο ντέρμπι Ολυμπιακός - ΠΑΟΚ, οι δυσκολίες απέναντι στον Άριτς Ελουστόντο και η χαμένη ευκαιρία μπροστά στην εστία.",
+"also": [],
+"id": "d3dd77db9df3"
+},
 {
 "title": "Ολυμπιακός: Πώς μπορεί να καλυφθεί το κενό του Έσε",
 "url": "https://www.gazzetta.gr/football/superleague/2585140/olympiakos-pos-mporei-na-kalyfthei-keno-toy-ese",
@@ -4982,18 +4994,6 @@
 "snippet": "Οι Πειραιώτες τα… έσπασαν στο πρώτο ημίχρονο του αγώνα με τον Αστέρα στη Sunel Arena, αγγίζοντας ιστορικό αρνητικό ρεκόρ. Για την ακρίβεια σκόραραν 22 πόντους…",
 "also": [],
 "id": "d567f02d6df7"
-},
-{
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Δεύτερη χειρότερη επίδοση στην ιστορία των Πειραιωτών",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584328/olympiakos-erythros-asteras-deyteri-heiroteri-epidosi-stin-istoria",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T20:21+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός έκανε ένα πολύ κακό πρώτο ημίχρονο και μαζί τη δεύτερη χειρότερη επίδοση της ιστορίας του.",
-"also": [],
-"id": "e7ed4f56e3c3"
 }
 ]
 }
