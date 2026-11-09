@@ -1,16 +1,28 @@
 {
-"generated_at": "2026-11-09T06:08:52+00:00",
+"generated_at": "2026-11-09T06:23:58+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός: «Αδειάζει» το Ρέντη μετά τον ΠΑΟΚ – Δώδεκα διεθνείς σε τρεις ηπείρους",
+"title": "Superleague: Το φαβορί τίτλου μετά την ισοπαλία στο «Καραϊσκάκη» και τις νίκες Παναθηναϊκού,ΑΕΚ",
+"url": "https://www.gazzetta.gr/football/superleague/2584972/superleague-fabori-titloy-meta-tin-isopalia-sto-karaiskaki-kai-tis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T06:10+00:00",
+"sport": "football",
+"snippet": "Το φαβορί για τον τίτλο της Superleague μετά την ισοπαλία Ολυμπιακού-ΠΑΟΚ και τις νίκες Παναθηναϊκού και ΑΕΚ.",
+"also": [],
+"id": "93d48b5af9cf"
+},
+{
+"title": "Ολυμπιακός: «Αδειάζει» το Ρέντη μετά τον ΠΑΟΚ – Έντεκα διεθνείς σε τρεις ηπείρους",
 "url": "http://www.sport-fm.gr/article/5159917",
 "source": "sport-fm",
 "source_name": "Sport FM",
 "official": false,
 "published": "2026-11-09T05:55+00:00",
 "sport": "football",
-"snippet": "Μετά το 1-1 με τον ΠΑΟΚ, δώδεκα παίκτες του Ολυμπιακού αναχωρούν για τις εθνικές τους ομάδες, με το Ρέντη να αδειάζει στη διακοπή της Stoiximan Super League.",
+"snippet": "Μετά το 1-1 με τον ΠΑΟΚ, έντεκα παίκτες του Ολυμπιακού αναχωρούν για τις εθνικές τους ομάδες, με το Ρέντη να αδειάζει στη διακοπή της Stoiximan Super League.",
 "also": [],
 "id": "8b1a6d5482e1"
 },
@@ -4996,18 +5008,6 @@
 "snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr, για ποιο λόγο ο Ιμανόλ Αλγκουαθίλ «ταλαιπωρείται» για τον παρτενέρ του Ρέμο Φρόιλερ στο παιχνίδι του…",
 "also": [],
 "id": "b0cb9c35ad2c"
-},
-{
-"title": "Ερυθρόλευκο αντάμωμα με φόντο τη κορυφή!",
-"url": "https://www.gazzetta.gr/basketball/2584196/erythroleyko-antamoma-me-fonto-ti-koryfi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T12:47+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός υποδέχεται τον Ερυθρό Αστέρα στη Sunel Arena για τη 10η αγωνιστική της Euroleague.",
-"also": [],
-"id": "360fa82ab97d"
 }
 ]
 }
