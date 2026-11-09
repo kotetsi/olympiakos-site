@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T15:43:53+00:00",
+"generated_at": "2026-11-09T15:59:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Χωρίς τον Γουόκαμπ η Ντουμπάι απέναντι στον Ολυμπιακό",
+"url": "https://www.ertsports.gr/mpasket/xoris-ton-gouokamp-i-ntoumpai-apenanti-ston-olympiako/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-09T15:52+00:00",
+"sport": "basket",
+"snippet": "Μία σημαντική απουσία θα έχει η Ντουμπάι στην αναμέτρηση με τον Ολυμπιακό, καθώς ο Τόμας Γουόκαμπ δεν θα ταξιδέψει στην Ελλάδα για το παιχνίδι της 11ης…",
+"also": [],
+"id": "49b00179cdde"
+},
+{
+"title": "ΠΑΟΚ: Νέο ιστορικό ρεκόρ απέναντι στον Ολυμπιακό!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15222533/paok-neo-istoriko-rekor-apenanti-ston-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-09T15:43+00:00",
+"sport": "football",
+"snippet": "Ιστορικό ρεκόρ στις αναμετρήσεις του με τον Ολυμπιακό στο πρωτάθλημα πέτυχε ο ΠΑΟΚ, καθώς κατάφερε να παραμείνει αήττητος για πέμπτο σερί παιχνίδι απέναντι…",
+"also": [],
+"id": "fc7b9983eec1"
+},
 {
 "title": "Ολυμπιακός: Παράπονα για τη διαιτησία με το Μαρούσι – Το βίντεο με τα «άλλα highlights»",
 "url": "https://sportday.gr/basket/364791_olympiakos-parapona-gia-ti-diaitisia-me-to-marousi-to-vinteo-me-ta-alla-highlights.html",
@@ -4955,30 +4979,6 @@
 "snippet": "Οι 2 παίκτες του ποδοσφαιρικού Ολυμπιακού και το στέλεχος της πειραϊκής ΠΑΕ είναι παρόντες στο γήπεδο για το παιχνίδι με τον Ερυθρό Αστέρα.",
 "also": [],
 "id": "42ff66d82283"
-},
-{
-"title": "Έκλεψε την παράσταση στο Παπαπαστράτειο: Το γκολ του Ολυμπιακού έφερε... επική τούμπα!",
-"url": "https://www.metrosport.gr/eklepse-tin-parastasi-sto-papapastrateio-to-gkol-toy-olympiakoy-efere-epiki-toympa-1332661",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-06T19:00+00:00",
-"sport": "football",
-"snippet": "Μια απρόσμενη και άκρως χιουμοριστική στιγμή σημειώθηκε στο Παπαπαστράτειο, κατά τη διάρκεια του μεγάλου αγώνα ανάμεσα στον Ολυμπιακό και τον ...",
-"also": [],
-"id": "2fc29f408061"
-},
-{
-"title": "Τι γίνεται με Ντόρσεϊ και Κόουλ Άντονι: Extra Time μετά την ήττα του Ολυμπιακού από τον Ερ. Αστέρα",
-"url": "https://www.eurohoops.net/el/trademarks-el/2031415/extra-time-live-meta-to-pechnidi-tou-olimpiakou-me-ton-erithro-astera/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-06T18:56+00:00",
-"sport": "basket",
-"snippet": "Παιχνίδι ελληνικής ομάδας στην Ευρωλίγκα σημαίνει... Extra Time, αμέσως μετά τη λήξη της αναμέτρησης, με σχολιασμό, ανάλυση, ρεπορτάζ και συνδέσεις με το…",
-"also": [],
-"id": "8b21c3414afb"
 }
 ]
 }
