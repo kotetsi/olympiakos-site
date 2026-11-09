@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T19:27:08+00:00",
+"generated_at": "2026-11-09T19:42:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πώς μπορεί να καλυφθεί το κενό του Έσε",
+"url": "https://www.gazzetta.gr/football/superleague/2585140/olympiakos-pos-mporei-na-kalyfthei-keno-toy-ese",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T19:35+00:00",
+"sport": "football",
+"snippet": "Ο Αργεντίνος χαφ πολύ δύσκολα θα προλάβει άλλο ματς μέσα στο 2026 και έτσι ο Ολυμπιακός θα καλύψει εκ των έσω το κενό του.",
+"also": [],
+"id": "d9fbda08cf1e"
+},
 {
 "title": "Ολυμπιακός: Τεράστιο πλήγμα με Έσε-Χάνει και Άρη",
 "url": "https://www.metrosport.gr/olympiakos-terastio-pligma-me-ese-1332955",
@@ -4982,18 +4994,6 @@
 "snippet": "Ο Ολυμπιακός έκανε ένα πολύ κακό πρώτο ημίχρονο και μαζί τη δεύτερη χειρότερη επίδοση της ιστορίας του.",
 "also": [],
 "id": "e7ed4f56e3c3"
-},
-{
-"title": "Το χειρότερο... ever πρώτο ημίχρονο του Ολυμπιακού σε εντός έδρας ματς Ευρωλίγκας!",
-"url": "http://www.sport-fm.gr/article/5159381",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T20:20+00:00",
-"sport": "basket",
-"snippet": "Κόντρα στον Ερυθρό Αστέρα ο Ολυμπιακός πραγματοποίησε το χειρότερο πρώτο του ημίχρονο σε εντός έδρας παιχνίδι σε επίπεδο Ευρωλίγκας με μόλις 22 πόντους.",
-"also": [],
-"id": "f26ab09b86e4"
 }
 ]
 }
