@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T08:40:08+00:00",
+"generated_at": "2026-11-09T08:55:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Water Polo League Γυναικών: Ασταμάτητος ο Ολυμπιακός, νίκες για ΠΑΟΚ και Εθνικό – Αποτελέσματα και βαθμολογία",
+"url": "https://www.sdna.gr/polo/1484953_water-polo-league-gynaikon-astamatitos-o-olympiakos-nikes-gia-paok-kai-ethniko",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T08:51+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός συνέχισε την αήττητη πορεία του στη Water Polo League Γυναικών, διατηρώντας το απόλυτο των νικών, ενώ ΠΑΟΚ και Εθνικός πήραν σημαντικά...",
+"also": [],
+"id": "c085b86cd851"
+},
+{
+"title": "O Θρύλος με τα δώρα, ο γκαρντ & παίκτες που είναι στα όριά τους | Ολυμπιακός Q&A by Interwetten",
+"url": "https://www.gazzetta.gr/football/2585009/o-thrylos-me-ta-dora-o-gkarnt-paiktes-poy-einai-sta-oria-toys-olympiakos-qa",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T08:41+00:00",
+"sport": "football",
+"snippet": "Η ερυθρόλευκη επικαιρότητα στο Q&A by Interwetten του Gazzetta. Ο Αλέξης Βιρβίλης και ο Παναγιώτης Ραμαντάνης μεταφέρουν το ρεπορτάζ κι απαντούν στις ερωτήσεις…",
+"also": [],
+"id": "b56b84ed2302"
+},
 {
 "title": "ΠΑΟΚ: Η πρώτη εκτίμηση για τον τραυματισμό του Γιάκιτς",
 "url": "https://sportday.gr/podosfairo/364746_paok-i-proti-ektimisi-gia-ton-travmatismo-tou-giakits.html",
@@ -4984,30 +5008,6 @@
 "snippet": "Ο Λέον Μπέιλι δεν περιλαμβάνεται στις κλήσεις της Τζαμάικας για τα παιχνίδια με το Μεξικό στις 14 και 17 Νοεμβρίου, αποφεύγοντας νέο ταξίδι.",
 "also": [],
 "id": "a262aab5e97c"
-},
-{
-"title": "Ολυμπιακός: Οδηγίες για τον Ερυθρό Αστέρα",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-odigies-gia-ton-erithro-astera?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T16:32+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε οδηγίες για τους φιλάθλους που θα βρεθούν στη SUNEL Arena για τον αγώνα με τον Ερυθρό Αστέρα στις 6 Νοεμβρίου.",
-"also": [],
-"id": "ba9df3c0c2d1"
-},
-{
-"title": "Ολυμπιακός: Στην 8άδα της UEFA",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-mesi-vathmologia-tou-ana-agona?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T16:29+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός καταλαμβάνει την όγδοη θέση στην αξιολόγηση απόδοσης του Europa League με 54,0, αφήνοντας πίσω του Γιουβέντους, Μπενφίκα και Ρεν.",
-"also": [],
-"id": "44b761df0c63"
 }
 ]
 }
