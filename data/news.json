@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T09:55:49+00:00",
+"generated_at": "2026-11-09T10:10:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Του έλειπε η… ροκιά",
+"url": "https://sportday.gr/podosfairo/364709_olympiakos-tou-eleipe-i-rokia.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-09T10:02+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός άξιζε μεν τη νίκη κόντρα στον ΠΑΟΚ, όμως απείχε πολύ από τον καλό του εαυτό σε ντέρμπι...",
+"also": [],
+"id": "6089242e1227"
+},
 {
 "title": "«Τεράστια χαμένη ευκαιρία για τον Ολυμπιακό με δεδομένη την κατάσταση του ΠΑΟΚ – Φόβοι για Έσε, μπορεί να μείνει έξω 1 μήνα» (audio)",
 "url": "https://www.ertsports.gr/era-spor/terastia-xameni-eykairia-gia-ton-olympiako-me-dedomeni-tin-katastasi-tou-paok-fovoi-gia-ese-mporei-na-meinei-ekso-1-mina-audio/",
@@ -4996,18 +5008,6 @@
 "snippet": "Ο Ολυμπιακός υποδέχτηκε τον Παναθηναϊκό στο Παπαστράτειο, στο πλαίσιο της 7ης αγωνιστικής της Water Polo League, με την ατμόσφαιρα στις εξέδρες να έχει και το…",
 "also": [],
 "id": "37cad8066625"
-},
-{
-"title": "Ολυμπιακός – Παναθηναϊκός: Το «ερυθρόλευκο» πανό στο Παπαστράτειο",
-"url": "https://www.novasports.gr/sport/alla-spor/event/ellada/article/15216474/olympiakos-panathinaikos-to-erythroleyko-pano-sto-papastrateio/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T17:11+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός υποδέχτηκε τον Παναθηναϊκό στο Παπαστράτειο, στο πλαίσιο της 7ης αγωνιστικής της Water Polo League, με την ατμόσφαιρα στις εξέδρες να έχει και το…",
-"also": [],
-"id": "75019af76aa8"
 }
 ]
 }
