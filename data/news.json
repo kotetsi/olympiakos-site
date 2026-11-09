@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T17:44:57+00:00",
+"generated_at": "2026-11-09T18:41:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αποδυτήρια: Ζίβκοβιτς, Ολυμπιακός, Αϊτόρ Γρηγορίου, Νίστρουπ",
+"url": "https://sportime.gr/parafootball/apoditiria-i-agkalia-zivkovits-se-lisi-i-apogoitefsi-ston-olimpiako-o-koresmos-stin-aek-o-aitor-ke-to-paramithi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T17:59+00:00",
+"sport": "football",
+"snippet": "Η κίνηση Ζίβκοβιτς στον ΠΑΟΚ, η αντίδραση Αλγουαθίλ στον Ολυμπιακό, ο κορεσμός στην ΑΕΚ και όσα συμβαίνουν σε Άρη, Παναθηναϊκό και ΟΦΗ.",
+"also": [],
+"id": "1bc0ea3abf45"
+},
+{
+"title": "Ολυμπιακός: Ο Ζότα έδειξε τι εξτρέμ χρειάζεται ο Ιμανόλ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-zota-edixe-ti-extrem-chriazete-o-imanol-ke-giati-den-arki-mia-kali-fasi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T17:44+00:00",
+"sport": "football",
+"snippet": "Ο Ζότα δημιούργησε το γκολ απέναντι στον ΠΑΟΚ, όμως το 1-1 άφησε ανοιχτό το ερώτημα για τα εξτρέμ. Τι χρειάζεται ο Ιμανόλ και τι ισχύει για μεταγραφή;",
+"also": [],
+"id": "56b3b5028353"
+},
 {
 "title": "Oλυμπιακός-Ντόρσεϊ: Κοινό συμφέρον η επιστροφή του ομογενή παίκτη στο ρόστερ άνευ συμβιβασμών",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15222473/olympiakos-ntorsei-koino-symferon-i-epistrofi-tou-omogeni-paikti-sto-roster-aney-symvivasmon/",
@@ -182,7 +206,15 @@
 "published": "2026-11-09T15:27+00:00",
 "sport": "basket",
 "snippet": "Ο Αμερικανός γκαρντ ταλαιπωρείται από ενοχλήσεις, με αποτέλεσμα ο τεχνικός της ομάδας, Τσάβι Πασκουάλ, να μην μπορεί να υπολογίζει στις υπηρεσίες του για το…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/basket/364801_olympiakos-choris-gouokap-i-ntoumpai-kontra-stous-erythrolefkous.html",
+"title": "Ολυμπιακός: Χωρίς Γουόκαπ η Ντουμπάι κόντρα στους «ερυθρόλευκους»",
+"published": "2026-11-09T18:34+00:00"
+}
+],
 "id": "b800cc7d176f"
 },
 {
@@ -4955,30 +4987,6 @@
 "snippet": "Ο Ολυμπιακός βρίσκεται πίσω με 22-40 από τον Ερυθρό Αστέρα στο ημίχρονο, με μόλις 1/16 τρίποντα και σοβαρό επιθετικό πρόβλημα που απειλεί με βαριά ήττα.",
 "also": [],
 "id": "40625545fe61"
-},
-{
-"title": "Αποθεώθηκαν οι Τόμιτς και Τεόντοσιτς από τον κόσμο του Ολυμπιακού στη SUNEL Arena!",
-"url": "http://www.sport-fm.gr/article/5159374",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T19:50+00:00",
-"sport": "general",
-"snippet": "Οι Μίλαν Τόμιτς και Μίλος Τεόντοσιτς γνώρισαν την αποθέωση στη SUNEL Arena από τους φίλους του Ολυμπιακού.",
-"also": [],
-"id": "63a0f06a721c"
-},
-{
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Το άστοχο πρώτο δεκάλεπτο των Πειραιωτών",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584323/olympiakos-erythros-asteras-astoho-proto-dekalepto-ton-peiraioton",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T19:44+00:00",
-"sport": "basket",
-"snippet": "Πολύ κακό πρώτο δεκάλεπτο από τον Ολυμπιακό επιθετικά, κόντρα στον Ερυθρό Αστέρα.",
-"also": [],
-"id": "cbfd77b20928"
 }
 ]
 }
