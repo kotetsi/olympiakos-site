@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T15:13:38+00:00",
+"generated_at": "2026-11-09T15:28:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ξανά θέμα Ζέλσον Μάρτινς",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-xana-thema-zelson-martins?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-09T15:13+00:00",
+"sport": "general",
+"snippet": "Ο Ζέλσον Μάρτινς προβληματίζεται για τον ρόλο του στον Ολυμπιακό μετά την αλλαγή προπονητή. Η πρόταση της Κράσνονταρ και το ενδεχόμενο αποχώρησης τον Ιανουάριο.",
+"also": [],
+"id": "2e1ae3af2b21"
+},
+{
+"title": "Ο Ολυμπιακός δημοσίευσε βίντεο με δύο φάσεις από την αναμέτρηση με το Μαρούσι",
+"url": "http://www.sport-fm.gr/article/5160039",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-09T15:08+00:00",
+"sport": "general",
+"snippet": "Η ΚΑΕ Ολυμπιακός δημοσίευσε ένα βίντεο στα social media της ομάδας, παρουσιάζοντας δύο φάσεις από τα τελευταία λεπτά της αναμέτρησης με το Μαρούσι.",
+"also": [],
+"id": "36e5ca3baa12"
+},
 {
 "title": "Ολυμπιακός: Δημοσίευσε video για τη διαιτησία από φάσεις στον αγώνα με το Μαρούσι",
 "url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15222495/olympiakos-dimosieyse-video-gia-ti-diaitisia-apo-faseis-ston-agona-me-to-marousi/",
@@ -23,7 +47,15 @@
 "published": "2026-11-09T14:47+00:00",
 "sport": "basket",
 "snippet": "Δύο εβδομάδες μετά τις προφυλακίσεις, και πέντε χρόνια μετά την τελευταία φορά που ασχολήθηκε δημόσια με τη διαιτησία, η ΚΑΕ Ολυμπιακός πόσταρε...",
-"also": [],
+"also": [
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/heba-el/2032690/olimpiakos-postare-vinteo-me-dietitikes-apofasis-sto-marousi/",
+"title": "Ολυμπιακός: Πόσταρε βίντεο με διαιτητικές αποφάσεις στο Μαρούσι",
+"published": "2026-11-09T15:12+00:00"
+}
+],
 "id": "08a51c8df2dc"
 },
 {
@@ -4947,45 +4979,6 @@
 "snippet": "Με βάση πληροφορίες από ξένο ρεπόρτερ ο Ολυμπιακός και η Μπρεστ τσεκάρουν και φέρονται να ενδιαφέρονται για 4 παίκτες της Κραϊόβα.",
 "also": [],
 "id": "9d9c63b083cd"
-},
-{
-"title": "Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός, επανέλαβα κατά λέξη τις δηλώσεις μου και αθωώθηκα»",
-"url": "http://www.sport-fm.gr/article/5159363",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T18:49+00:00",
-"sport": "basket",
-"snippet": "Η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός, Μαργαρίτα Θάνου, απάντησε στους ισχυρισμούς της ΚΑΕ Ολυμπιακός για τη φράση της περί των εμπλεκομένων στο σκάνδαλο…",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1484206_thanoy-pseydetai-i-kae-olympiakos-epanelaba-kata-lexi-tis-diloseis-moy-kai",
-"title": "Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός, επανέλαβα κατά λέξη τις δηλώσεις μου και αθωώθηκα»",
-"published": "2026-11-06T19:00+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2584318/i-apantisi-tis-thanoy-pseydetai-i-kae-olympiakos-epanelaba-kata",
-"title": "Η απάντηση της Θάνου: «Ψεύδεται η ΚΑΕ Ολυμπιακός, επανέλαβα κατά λέξη όλες τις δηλώσεις μου και απαλλάχθηκα»",
-"published": "2026-11-06T19:13+00:00"
-}
-],
-"id": "96bc764981b1"
-},
-{
-"title": "Live: Ολυμπιακός - Ερυθρός Αστέρας (Euroleague 2026-27)",
-"url": "https://www.sdna.gr/mpasket/1484136_live-olympiakos-erythros-asteras-euroleague-2026-27",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T18:45+00:00",
-"sport": "basket",
-"snippet": "",
-"also": [],
-"id": "425507a6b3ff"
 }
 ]
 }
