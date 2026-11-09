@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T12:12:01+00:00",
+"generated_at": "2026-11-09T12:27:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σε ιστορικά χαμηλά όλων των εποχών η επίθεση (stats)",
+"url": "https://www.sdna.gr/podosfairo/1484991_olympiakos-se-istorika-hamila-olon-ton-epohon-i-epithesi-stats",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T12:10+00:00",
+"sport": "football",
+"snippet": "Τα 16 γκολ συνιστούν την 3η χειρότερη επιθετική επίδοση στα τελευταία 30 χρόνια",
+"also": [],
+"id": "8f5820e27327"
+},
 {
 "title": "ΠΑΟΚ: Ζίβκοβιτς για… πρώτος σκόρερ κόντρα στον Ολυμπιακό",
 "url": "https://www.metrosport.gr/paok-zivkovits-gia-protos-skorer-kontra-ston-olympiako-1332893",
@@ -4996,18 +5008,6 @@
 "snippet": "Με δέκα μήνες απαγόρευση εισόδου στα γήπεδα τιμωρήθηκε από τον Αθλητικό Δικαστή ο ιδιοκτήτης της ΚΑΕ Παναθηναϊκός, Δημήτρης Γιαννακόπουλος μετά την ...",
 "also": [],
 "id": "db4436fe7508"
-},
-{
-"title": "Φίλη του Ολυμπιακού... εξαφανίστηκε από το πλάνο με επική τούμπα μετά από κρίσιμο γκολ (vid)",
-"url": "https://www.sdna.gr/polo/1484188_fili-toy-olympiakoy-exafanistike-apo-plano-me-epiki-toympa-meta-apo-krisimo-gkol-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T17:49+00:00",
-"sport": "polo",
-"snippet": "Ένα... περίεργο περιστατικό συνέβη στο «Παπαστράτειο» κολυμβητήριο, το οποίο έπιασαν οι τηλεοπτικές κάμερες, όταν ο Ολυμπιακός με μακρινό σουτ έδειξε...",
-"also": [],
-"id": "4ef739286eb2"
 }
 ]
 }
