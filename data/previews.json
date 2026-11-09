@@ -94,5 +94,33 @@
   "sport": "volley",
   "b_team": false,
   "comp": "Volley League Ανδρών 2026-27"
+ },
+ "2026-11-15-panionios-olympiakos-v": {
+  "title": "Πανιώνιος - Ολυμπιακός Β'",
+  "home": "Πανιώνιος",
+  "away": "Ολυμπιακός Β'",
+  "opp": "Πανιώνιος",
+  "oly_home": false,
+  "start": "2026-11-15T12:45+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "football",
+  "b_team": true,
+  "comp": ""
+ },
+ "2026-11-15-aris-olympiakos": {
+  "title": "Άρης - Ολυμπιακός",
+  "home": "Άρης",
+  "away": "Ολυμπιακός",
+  "opp": "Άρης",
+  "oly_home": false,
+  "start": "2026-11-15T15:30+00:00",
+  "channels": [
+   "ΣΚΑΪ"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "Stoiximan GBL 2026-27"
  }
 }

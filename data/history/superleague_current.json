@@ -1,6 +1,6 @@
 {
  "season": "2026-27",
- "updated": "2026-11-08T21:19:57+00:00",
+ "updated": "2026-11-09T03:23:06+00:00",
  "source": "football-data.co.uk",
  "table": [
   {
@@ -258,13 +258,6 @@
  ],
  "upcoming": [
   {
-   "date": "2026-11-08",
-   "time": "21:00",
-   "venue": "Εντός",
-   "opponent": "ΠΑΟΚ",
-   "round": "Regular Season - 10"
-  },
-  {
    "date": "2026-11-22",
    "time": "",
    "venue": "Εντός",
@@ -291,6 +284,13 @@
    "venue": "Εκτός",
    "opponent": "Ατρόμητος",
    "round": "Regular Season - 14"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "17:00",
+   "venue": "Εντός",
+   "opponent": "Παναιτωλικός",
+   "round": "Regular Season - 15"
   }
  ],
  "played": 62,
