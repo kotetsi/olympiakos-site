@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T09:10:23+00:00",
+"generated_at": "2026-11-09T09:25:32+00:00",
 "count": 400,
 "items": [
+{
+"title": "Water Polo League Ανδρών: Πήρε το ντέρμπι ο Ολυμπιακός, νίκες για Πανιώνιο και Βουλιαγμένη",
+"url": "https://www.sdna.gr/polo/1484954_water-polo-league-andron-pire-ntermpi-o-olympiakos-nikes-gia-panionio-kai-boyliagmeni",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T09:23+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός διατήρησε το απόλυτο των νικών στη Water Polo League Ανδρών, ολοκληρώνοντας την 7η αγωνιστική στην κορυφή της βαθμολογίας. Σημαντικές...",
+"also": [],
+"id": "0045417be113"
+},
+{
+"title": "Σταματέλος: «Χαμένη ευκαιρία για τον Ολυμπιακό το 1-1 με τον ΠΑΟΚ»",
+"url": "http://www.sport-fm.gr/article/5159974",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-09T09:20+00:00",
+"sport": "general",
+"snippet": "Ακούστε το σχόλιο του Νίκου Σταματέλου στον bwinΣΠΟΡ FM 94,6 για την ισοπαλία του Ολυμπιακού με τον ΠΑΟΚ και τα προβλήματα στη δημιουργία.",
+"also": [],
+"id": "9772e83aaa70"
+},
 {
 "title": "Πρωινός Τύπος (9/11): «Διαβασμένος Λίσι, Άι Βασίλης Ολυμπιακός - Προβληματικός Παναθηναϊκός»",
 "url": "https://www.sdna.gr/podosfairo/1484966_proinos-typos-9/11-diabasmenos-lisi-ai-basilis-olympiakos-problimatikos",
@@ -4984,30 +5008,6 @@
 "snippet": "Απαλλάχθηκε η νομική εκπρόσωπος της ΚΑΕ Παναθηναϊκός AKTOR, Μαργαρίτα Θάνου από την καταγγελία που είχε κάνει εις βάρος της η ΚΑΕ Ολυμπιακός.",
 "also": [],
 "id": "ccdeaab062a3"
-},
-{
-"title": "Ολυμπιακός: Η ομιλία Αλγκουαθίλ για ΠΑΟΚ, έφερε ως παράδειγμα τον Φορτούνη",
-"url": "https://www.gazzetta.gr/football/superleague/2584282/olympiakos-i-omilia-algkoyathil-gia-paok-efere-os-paradeigma-ton",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T17:03+00:00",
-"sport": "football",
-"snippet": "Ο Ισπανός προπονητής του Ολυμπιακού, Ιμανόλ Αλγκουαθίλ, μίλησε στους παίκτες του πριν το ντέρμπι με τον ΠΑΟΚ και στάθηκε και στον Φορτούνη.",
-"also": [],
-"id": "21ba5d197557"
-},
-{
-"title": "SPORT EXPERT LIVE Ολυμπιακός-ΠΑΟΚ: Οι 11άδες, οι τακτικές και η μεγάλη ανάλυση του ντέρμπι",
-"url": "https://www.metrosport.gr/sport-expert-live-olympiakos-paok-oi-11ades-oi-taktikes-kai-i-megali-analysi-toy-ntermpi-1332632",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-06T17:00+00:00",
-"sport": "football",
-"snippet": "Το ντέρμπι του «Γ. Καραϊσκάκης» την Κυριακή (8/11) ανάμεσα στον Ολυμπιακό και τον ΠΑΟΚ δεσπόζει από το πρόγραμμα της 10ης αγωνιστικής της ...",
-"also": [],
-"id": "ee357ac8656d"
 }
 ]
 }
