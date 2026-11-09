@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T06:39:06+00:00",
+"generated_at": "2026-11-09T06:54:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σύμπτωση επαναλαμβανόμενη...",
+"url": "https://www.gazzetta.gr/football/superleague/2584952/olympiakos-symptosi-epanalambanomeni",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T06:45+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr, ότι όπως την πάτησε με τον ΠΑΟΚ στο Καραϊσκάκη, εύκολα μπορούσε να την πατήσει και σε άλλα παιχνίδια που…",
+"also": [],
+"id": "2c11643d4b8b"
+},
+{
+"title": "Ο ΠΑΟΚ γκέλαρε φυσιολογικά και τώρα φυσιολογικά ρολάρει",
+"url": "https://www.metrosport.gr/o-paok-gkelare-fysiologika-kai-tora-fysiologika-rolarei-1332890",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-09T06:35+00:00",
+"sport": "football",
+"snippet": "Δεν προξενεί έκπληξη πλέον σε κανένα που ο ΠΑΟΚ φεύγει αλώβητος σε ένα παιχνίδι κόντρα στον Ολυμπιακό στο Καραϊσκάκη. Έχει αποδειχθεί ξανά και ξανά ...",
+"also": [],
+"id": "eb56bbbe0a40"
+},
 {
 "title": "Superleague: Το φαβορί τίτλου μετά την ισοπαλία στο «Καραϊσκάκη» και τις νίκες Παναθηναϊκού,ΑΕΚ",
 "url": "https://www.gazzetta.gr/football/superleague/2584972/superleague-fabori-titloy-meta-tin-isopalia-sto-karaiskaki-kai-tis",
@@ -4984,30 +5008,6 @@
 "snippet": "Ο Ολυμπιακός πρέπει να είναι πολύ προσεκτικός κόντρα στον Ερυθρό Αστέρα, καθώς πετυχαίνει τη σερβική ομάδα στα καλύτερά της, από την αρχή της σεζόν.",
 "also": [],
 "id": "57d422d3c70c"
-},
-{
-"title": "Ολυμπιακός: Ο «πονοκέφαλος» από την Ουγγαρία που απειλεί το όνειρο του Champions League",
-"url": "https://www.metrosport.gr/olympiakos-o-ponokefalos-apo-tin-oyggaria-poy-apeilei-to-oneiro-toy-champions-league-1332585",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-06T14:45+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έχει μπροστά του ένα μεγάλο στόχο για την επόμενη αγωνιστική περίοδο: την απευθείας παρουσία στην League Phase του Champions Leaugue. ...",
-"also": [],
-"id": "6f8c0f6be381"
-},
-{
-"title": "Ολυμπιακός: Ποιον να πρωτοβάλει δίπλα στον Φρόιλερ με τον ΠΑΟΚ;",
-"url": "https://www.gazzetta.gr/football/superleague/2584195/olympiakos-poion-na-protobalei-dipla-ston-froiler-me-ton-paok",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T13:34+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr, για ποιο λόγο ο Ιμανόλ Αλγκουαθίλ «ταλαιπωρείται» για τον παρτενέρ του Ρέμο Φρόιλερ στο παιχνίδι του…",
-"also": [],
-"id": "b0cb9c35ad2c"
 }
 ]
 }
