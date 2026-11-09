@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T16:14:09+00:00",
+"generated_at": "2026-11-09T16:29:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Γυμνάζεται με την ειδική μπότα ο Μοντέρο",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2585154/olympiakos-gymnazetai-me-tin-eidiki-mpota-o-montero",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T16:24+00:00",
+"sport": "basket",
+"snippet": "Ο Γιαν Μοντέρο δεν το βάζει και γυμνάζεται με την ειδική μπότα στο πόδι του.",
+"also": [],
+"id": "7bc4129c80ff"
+},
+{
+"title": "Ολυμπιακός: Τα εισιτήρια με Ηρακλή",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15222595/olympiakos-ta-eisitiria-me-irakli/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-09T16:20+00:00",
+"sport": "football",
+"snippet": "Ανακοίνωση για τα εισιτήρια με τον Ηρακλή εξέδωσε ο Ολυμπιακός το απόγευμα της Δευτέρας (09/11). Αναλυτικά: H ΠΑΕ Ολυμπιακός, για τον αγώνα της 11ης…",
+"also": [],
+"id": "ce836ca0a030"
+},
 {
 "title": "Τα εισιτήρια του αγώνα Ολυμπιακός – Ηρακλής",
 "url": "https://www.olympiacos.org/2026/11/09/ta-eisitiria-tou-agona-olympiakos-iraklis/",
@@ -4940,45 +4964,6 @@
 "snippet": "Για μία ακόμα φορά, ο Νόβακ Τζόκοβιτς βρέθηκε στο γήπεδο για να παρακολουθήσει έναν αγώνα του Ολυμπιακού. The post Τζόκοβιτς: Ξανά στο γήπεδο για το…",
 "also": [],
 "id": "411ab2ff48f7"
-},
-{
-"title": "Live: Ολυμπιακός – Ερυθρός Αστέρας (audio)",
-"url": "https://www.ertsports.gr/mpasket/euroleague/live-olympiakos-erythros-asteras-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-06T19:15+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός φιλοξενεί τον Ερυθρό Αστέρα στην \"SUNEL Arena\" για την 10η αγωνιστική της Euroleague (06/11, 21:15, ΕΡΑ ΣΠΟΡ). The post Live: Ολυμπιακός – Ερυθρός…",
-"also": [],
-"id": "32fe196238f9"
-},
-{
-"title": "Ολυμπιακός – Ερυθρός Αστέρας: Στη Sunel Arena ο Τζόκοβιτς! (video)",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15216818/olympiakos-erythros-asteras-sti-sunel-arena-o-tzokovits-video/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T19:15+00:00",
-"sport": "basket",
-"snippet": "Οι Πειραιώτες φιλοξενούν τον Ερυθρό Αστέρα (21:15, Novasports Prime) στη Sunel Arena για τη 10η αγωνιστική της EuroLeague και στο γήπεδο βρίσκεται ο Νόβακ…",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1484210_stin-sunel-arena-gia-olympiakos-erythros-o-nobak-tzokobits",
-"title": "Στην Sunel Arena για το Ολυμπιακός - Ερυθρός ο Νόβακ Τζόκοβιτς",
-"published": "2026-11-06T19:20+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584320/olympiakos-erythros-asteras-sti-sunel-arena-o-nobak-tzokobits",
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Στη Sunel Arena ο Νόβακ Τζόκοβιτς!",
-"published": "2026-11-06T19:23+00:00"
-}
-],
-"id": "31d1b6d34830"
 }
 ]
 }
