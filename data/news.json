@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-09T08:55:14+00:00",
+"generated_at": "2026-11-09T09:10:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πρωινός Τύπος (9/11): «Διαβασμένος Λίσι, Άι Βασίλης Ολυμπιακός - Προβληματικός Παναθηναϊκός»",
+"url": "https://www.sdna.gr/podosfairo/1484966_proinos-typos-9/11-diabasmenos-lisi-ai-basilis-olympiakos-problimatikos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-09T09:00+00:00",
+"sport": "football",
+"snippet": "Το ισόπαλο ντέρμπι του Ολυμπιακού με τον ΠΑΟΚ περνά από τις ακτίνες Χ του Τύπου, όπως και οι δύσκολες νίκες των Παναθηναϊκού και ΑΕΚ.",
+"also": [],
+"id": "3f402f899bcb"
+},
 {
 "title": "Water Polo League Γυναικών: Ασταμάτητος ο Ολυμπιακός, νίκες για ΠΑΟΚ και Εθνικό – Αποτελέσματα και βαθμολογία",
 "url": "https://www.sdna.gr/polo/1484953_water-polo-league-gynaikon-astamatitos-o-olympiakos-nikes-gia-paok-kai-ethniko",
@@ -4996,18 +5008,6 @@
 "snippet": "Το ντέρμπι του «Γ. Καραϊσκάκης» την Κυριακή (8/11) ανάμεσα στον Ολυμπιακό και τον ΠΑΟΚ δεσπόζει από το πρόγραμμα της 10ης αγωνιστικής της ...",
 "also": [],
 "id": "ee357ac8656d"
-},
-{
-"title": "Ολυμπιακός: Εκτός Τζαμάικας ο Λέον Μπέιλι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-ektos-tzamaikas-o-leon-beili?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T16:48+00:00",
-"sport": "general",
-"snippet": "Ο Λέον Μπέιλι δεν περιλαμβάνεται στις κλήσεις της Τζαμάικας για τα παιχνίδια με το Μεξικό στις 14 και 17 Νοεμβρίου, αποφεύγοντας νέο ταξίδι.",
-"also": [],
-"id": "a262aab5e97c"
 }
 ]
 }
