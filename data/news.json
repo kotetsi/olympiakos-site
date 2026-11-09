@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-09T11:41:46+00:00",
+"generated_at": "2026-11-09T11:56:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τα 9 γκολ του Ζίβκοβιτς με τον Ολυμπιακό και το νέο αήττητο ρεκόρ",
+"url": "https://www.ertsports.gr/super-league/ta-9-gkol-tou-zivkovits-me-ton-olympiako-kai-to-neo-aittito-rekor/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-09T11:55+00:00",
+"sport": "football",
+"snippet": "Ο Αντρίγια Ζίβκοβιτς σκόραρε για τέταρτη φορά σε εκτός έδρας αναμέτρηση για το πρωτάθλημα απέναντι στον Ολυμπιακό, έφτασε τα εννέα γκολ στις αναμετρήσεις τους…",
+"also": [],
+"id": "fcef91b77b2a"
+},
+{
+"title": "Το Καραϊσκάκη ατσάλωσε το γκρουπ του ΠΑΟΚ",
+"url": "https://www.gazzetta.gr/football/2584992/karaiskaki-atsalose-gkroyp-toy-paok",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-09T11:45+00:00",
+"sport": "football",
+"snippet": "Ο Δημήτρης Τσορμπατζόγλου γράφει για την ισοπαλία του Δικεφάλου με τον Ολυμπιακό και τα τεράστια κέρδη της ομάδας στην προσπάθεια να γίνει και γκρουπ.",
+"also": [],
+"id": "96f2b3884789"
+},
 {
 "title": "Sofascore: Κορυφαίος της Ligue 1 ο Κάσερες που ήταν κοντά στον Ολυμπιακό",
 "url": "https://www.gazzetta.gr/football/ligue-1/2585066/sofascore-koryfaios-tis-ligue-1-o-kaseres-poy-itan-konta-ston-olympiako",
@@ -3471,6 +3495,18 @@
 "id": "0ad7b16f404b"
 },
 {
+"title": "Ο 712ος αγώνας των Βετεράνων του Θρύλου",
+"url": "https://www.olympiacos.org/2026/11/07/o-712os-agonas-ton-veteranon-tou-thrylou/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-07T11:41+00:00",
+"sport": "general",
+"snippet": "Οι Βετεράνοι του Ολυμπιακού θα αντιμετωπίσουν τον ΑΟ Τερψιθέας Γλυφάδας τη Δευτέρα σε φιλικό αγώνα.",
+"also": [],
+"id": "7ca87264f431"
+},
+{
 "title": "Η αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ",
 "url": "https://www.metrosport.gr/i-apostoli-toy-olympiakoy-gia-to-ntermpi-me-ton-paok-1332704",
 "source": "metrosport",
@@ -4972,42 +5008,6 @@
 "snippet": "Οι «ερυθρόλευκοι» ξεπέρασαν το κακό ξεκίνημα και επικράτησαν 15-12 του Παναθηναϊκού στο κατάμεστο «Πέτρος Καπαγέρωφ» του Πειραιά, σε ένα συναρπαστικό παιχνίδι…",
 "also": [],
 "id": "d5720ec99aae"
-},
-{
-"title": "ΚΑΕ Ολυμπιακός: «Ο Δημήτρης Γιαννακόπουλος συμπληρώνει 29 μήνες τιμωρίας»",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15216623/kae-olympiakos-o-dimitris-giannakopoulos-symplironei-29-mines-timorias/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T17:43+00:00",
-"sport": "basket",
-"snippet": "Όπως σημειώνει η «ερυθρόλευκη» ΚΑΕ, η ποινή 10μηνου αποκλεισμού και το πρόστιμο των 60.000 ευρώ στον διοικητικό ηγέτη του Παναθηναϊκού (καθώς και των 30.000…",
-"also": [],
-"id": "394f84810de1"
-},
-{
-"title": "ΚΑΕ Ολυμπιακός: Η ενημέρωση για την τιμωρία Γιαννακόπουλου - Παναθηναϊκού",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584293/kae-olympiakos-i-enimerosi-gia-tin-timoria-giannakopoyloy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T17:37+00:00",
-"sport": "basket",
-"snippet": "Ο ιδιοκτήτης της ΚΑΕ Παναθηναϊκός, Δημήτρης Γιαννακόπουλος, θα μπορέσει να επιστρέψει στα γήπεδα τον Νοέμβριο του 2028.",
-"also": [],
-"id": "5533a102ab51"
-},
-{
-"title": "Ολυμπιακός: Το αήττητο σερί συνεχίζεται κόντρα στον Παναθηναϊκό!",
-"url": "https://www.novasports.gr/roi-enimerosis/article/15216490/olympiakos-to-aittito-seri-synexizetai-kontra-ston-panathinaiko/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T17:36+00:00",
-"sport": "general",
-"snippet": "Οι «ερυθρόλευκοι» έχουν πάρει τον άερα του αιώνιου αντιπάλου τους, αφού παραμένουν αήττητοι για περισσότερο από 25 χρόνια. Συγκεκριμένα, τελευταία νίκη του…",
-"also": [],
-"id": "5e0c5ff6a6b9"
 }
 ]
 }
