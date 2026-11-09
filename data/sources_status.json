@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-09T03:37:36+00:00",
+ "checked_at": "2026-11-09T03:52:43+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-09T03:29"
+     "newest": "2026-11-09T03:43"
     }
    ]
   },
