@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T08:49:52+00:00",
+"generated_at": "2026-11-10T09:05:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με Σαμπαντέλ για να παραμείνει αήττητος στο Champions League",
+"url": "https://www.gazzetta.gr/polo/len-champions-league/2585181/olympiakos-me-sampantel-gia-na-parameinei-aittitos-sto-champions",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T09:00+00:00",
+"sport": "polo",
+"snippet": "O Ολυμπιακός υποδέχεται στο Πειραιά και το «Πέτρος Καπαγέρωφ» την ισπανική Σαμπαντέλ την Τρίτη (10/11, 19:30) για την 3η αγωνιστική του LEN Champions League…",
+"also": [],
+"id": "b141e2130e61"
+},
 {
 "title": "Σε απολογία κλήθηκαν Ολυμπιακός και ΑΕΚ",
 "url": "https://www.ertsports.gr/xwris-katigoria/se-apologia-klithikan-olympiakos-kai-aek/",
@@ -11,7 +23,15 @@
 "published": "2026-11-10T08:49+00:00",
 "sport": "football",
 "snippet": "Ενώπιον του αθλητικού δικαστή θα βρεθούν δύο ομάδες της Super League για παραβάσεις που καταγράφηκαν στα παιχνίδια της 10ης αγωνιστικής του πρωταθλήματος. The…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2585273/super-league-klithikan-se-apologia-aek-kai-olympiakos",
+"title": "Super League: Κλήθηκαν σε απολογία ΑΕΚ και Ολυμπιακός",
+"published": "2026-11-10T09:01+00:00"
+}
+],
 "id": "b9fceeceb219"
 },
 {
@@ -25,6 +45,18 @@
 "snippet": "Το Πρωτοβάθμιο Μονομελές Πειθαρχικό Όργανο κάλεσε σε απολογία την ΑΕΚ και τον Ολυμπιακό για συμβάντα που σημειώθηκαν κατά τη διάρκεια της 10ης αγωνιστικής της…",
 "also": [],
 "id": "28da391f7223"
+},
+{
+"title": "Λέτο: «Θα ήθελα να ξαναζήσω στιγμές με τον Παναθηναϊκό» - Τι είπε για το ματς με τον Ολυμπιακό",
+"url": "https://www.sdna.gr/podosfairo/1485321_leto-tha-ithela-na-xanaziso-stigmes-me-ton-panathinaiko-ti-eipe-gia-mats-me-ton",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T08:42+00:00",
+"sport": "football",
+"snippet": "Μεγάλη συνέντευξη του προπονητή της Κηφισιάς στον ΣΚΑΪ, μιλώντας για τους στόχους του στους πάγκους, τον παίκτη -από τον Παναθηναϊκό- που θα διάλεγε,...",
+"also": [],
+"id": "ead96372bbbf"
 },
 {
 "title": "Ολυμπιακός: Τι συμβαίνει τελικά με τον Μπέιλι;",
@@ -4977,30 +5009,6 @@
 "snippet": "Το σχόλιο του Νίκου Ζέρβα μετά την εντός έδρας ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα στη SUNEL Arena.",
 "also": [],
 "id": "b871051f07c5"
-},
-{
-"title": "Ολυμπιακός: Ένταση και αυτοκριτική μετά την ήττα",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-entasi-aftokritiki-ke-provlimatismos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T22:11+00:00",
-"sport": "basket",
-"snippet": "Ένταση Μπαρτζώκα - Τζόουνς στον Ολυμπιακό, αυτοκριτική Φουρνιέ και δηλώσεις Κόντσαρ μετά την ήττα με 57-62 από τον Ερυθρό Αστέρα στη EuroLeague.",
-"also": [],
-"id": "c6147309299c"
-},
-{
-"title": "Τζόσεφ: «Άσχημο να σκοράρεις 22 πόντους - Στο 2ο ημίχρονο παίξαμε το μπάσκετ του Ολυμπιακού»",
-"url": "https://www.sdna.gr/mpasket/1484237_tzosef-ashimo-na-skorareis-22-pontoys-sto-2o-imihrono-paixame-mpasket-toy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T22:04+00:00",
-"sport": "basket",
-"snippet": "Μετά την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα, ο Κόρι Τζόσεφ στάθηκε στους 22 πόντους του πρώτο ημιχρόνου και στην βελτίωση στην επανάληψη.",
-"also": [],
-"id": "575738f09599"
 }
 ]
 }
