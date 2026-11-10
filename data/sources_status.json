@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-10T23:43:46+00:00",
+ "checked_at": "2026-11-10T23:58:55+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -115,12 +115,12 @@
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-10T22:56"
+     "newest": "2026-11-10T23:47"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-10T22:56"
+     "newest": "2026-11-10T23:47"
     }
    ]
   },
