@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T07:34:12+00:00",
+"generated_at": "2026-11-10T07:49:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μαρσέιγ: Δέχθηκε βαρύ πρόστιμο από την UEFA για το πανό κόντρα στον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/football/europa-league/2585258/marseig-dehthike-bary-prostimo-apo-tin-uefa-gia-pano-kontra-ston",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T07:43+00:00",
+"sport": "football",
+"snippet": "Η UEFA τιμώρησε τη Μαρσέιγ με «τσουχτερό» πρόστιμο για το πανό που σήκωσαν οι οπαδοί της στο Βελοντρόμ στο ματς του Europa League με τον Ολυμπιακό.",
+"also": [],
+"id": "23674cc5cb02"
+},
 {
 "title": "Πρόταση-βόμβα στη Σερβία: «Η λύση είναι πρωτάθλημα με Παναθηναϊκό, Ολυμπιακό, ΠΑΟΚ, ΑΕΚ, Ούγγρους και Κροάτες»!",
 "url": "https://www.sdna.gr/podosfairo/1485291_protasi-bomba-sti-serbia-i-lysi-einai-protathlima-me-panathinaiko-olympiako-paok",
@@ -10,7 +22,7 @@
 "official": false,
 "published": "2026-11-10T07:26+00:00",
 "sport": "football",
-"snippet": "Ο ομοσπονδιακός προπονητής της Σερβίας, Βέικο Παούνοβιτς κατέθεσε δημόσια μία πρόταση που προκάλεσε αίσθηση, για την άνοδο του εγχώριου...",
+"snippet": "Ο ομοσπονδιακός προπονητής της Σερβίας, Βέλικο Παούνοβιτς κατέθεσε δημόσια μία πρόταση που προκάλεσε αίσθηση, για την άνοδο του εγχώριου...",
 "also": [],
 "id": "259b934d6d16"
 },
@@ -4989,18 +5001,6 @@
 }
 ],
 "id": "1037d88a9442"
-},
-{
-"title": "Ολυμπιακός: O Σκρέτσιου και ο Παλαιστίνιος επιθετικός",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15217205/olympiakos-o-skretsiou-kai-o-palaistinios-epithetikos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-06T21:56+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έχει στρέψει το βλέμμα του στην Κραϊόβα, καθώς, σύμφωνα με δημοσίευμα της ρουμανικής GSP, παρακολούθησε τον Βλαντιμίρ Σκρέτσιου, αλλά και άλλους…",
-"also": [],
-"id": "1e8395bb8bd9"
 }
 ]
 }
