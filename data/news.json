@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T20:57:19+00:00",
+"generated_at": "2026-11-10T21:12:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τι είπε ο Μέλε για το μέλλον του",
+"url": "https://www.gazzetta.gr/football/superleague/2585501/olympiakos-ti-eipe-o-mele-gia-mellon-toy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T21:09+00:00",
+"sport": "football",
+"snippet": "Ο Δανός μπακ - που συνδέθηκε ξανά με Ολυμπιακό - μίλησε στον Τύπο της χώρας του για την επόμενή του μέρα στο ποδόσφαιρο και σε σχέση με το μέλλον του στη…",
+"also": [],
+"id": "b0a8a9f9fd93"
+},
+{
+"title": "«Σκασμένος» ο Αλγκουαθίλ στου Ρέντη λόγω... Ζίβκοβιτς - Ζημιά 1.5 εκατ. η ΑΕΚ",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1485487_skasmenos-o-algkoyathil-stoy-renti-logo-zibkobits-zimia-15-ekat-i",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T21:02+00:00",
+"sport": "football",
+"snippet": "Η οδηγία Ιμανόλ Αλκγουαθίλ που δεν... τήρησαν οι παίκτες του Ολυμπιακού στο παιχνίδι με τον ΠΑΟΚ και πώς ο Μάριος Ηλιόπουλος έχασε σε λίγους μήνες...",
+"also": [],
+"id": "337613c52192"
+},
 {
 "title": "Ολυμπιακός: Στις 15 Νοεμβρίου επιστρέφει ο Ντόρσεϊ",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-epistrefi-o-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5001,30 +5025,6 @@
 "snippet": "Δείτε την παρακάμερα του Ολυμπιακού από την ήττα από τον Ερυθρό Αστέρα.",
 "also": [],
 "id": "eb65575c6df5"
-},
-{
-"title": "Ολυμπιακός: Εδώ ακριβώς είναι το «ζουμί»",
-"url": "https://sportday.gr/blogs/stavros-georgakopoulos/364534_olympiakos-edo-akrivos-einai-to-zoumi.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-07T14:00+00:00",
-"sport": "football",
-"snippet": "Παρότι μπήκε τελευταίος στο χορό μεταξύ των ομάδων που διεκδικούν τον τίτλο ο Βάσκος τεχνικός δείχνει ότι μπορεί να διαχειριστεί καλύτερα απ’ όλους το ρόστερ…",
-"also": [],
-"id": "e0ca7e8a698b"
-},
-{
-"title": "Πώς τα αδέρφια Κωστούλα αγωνίστηκαν στον Ολυμπιακό και όχι στον ΠΑΟΚ",
-"url": "https://www.metrosport.gr/pos-ta-aderfia-kostoyla-agonistikan-ston-olympiako-kai-ochi-ston-paok-1332719",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-07T14:00+00:00",
-"sport": "general",
-"snippet": "Μία ενδιαφέρουσα ιστορία έρχεται στην επιφάνεια και αφορά τα αδέρφια Κωστούλα που πλέον διαπρέπουν σε Μπράιτον και ΟΦΗ αντίστοιχα. Τη διήγηση της ...",
-"also": [],
-"id": "8dfcca99db50"
 }
 ]
 }
