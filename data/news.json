@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T16:24:38+00:00",
+"generated_at": "2026-11-10T16:39:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Φουστέρ αρμόδιος και για τους δανεικούς, τι δανεικούς έχουν οι Πειραιώτες",
+"url": "https://www.gazzetta.gr/football/superleague/2585403/olympiakos-o-foyster-armodios-kai-gia-toys-daneikoys-ti-daneikoys",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T16:24+00:00",
+"sport": "football",
+"snippet": "Ο Ισπανός που βρίσκεται εδώ και μέρες στην Ελλάδα θα είναι αρμόδιος και για το τσεκάρισμα των δανεικών της ομάδας του Ολυμπιακού.",
+"also": [],
+"id": "80c7176e6b19"
+},
 {
 "title": "Τσέλιε - Ολυμπιακός: Παρουσία Τσέφεριν ο αγώνας",
 "url": "https://www.gazzetta.gr/football/europa-league/2585401/tselie-olympiakos-paroysia-tseferin-o-agonas",
@@ -4989,33 +5001,6 @@
 "snippet": "Οι Βετεράνοι του Ολυμπιακού θα αντιμετωπίσουν τον ΑΟ Τερψιθέας Γλυφάδας τη Δευτέρα σε φιλικό αγώνα.",
 "also": [],
 "id": "7ca87264f431"
-},
-{
-"title": "Η αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ",
-"url": "https://www.metrosport.gr/i-apostoli-toy-olympiakoy-gia-to-ntermpi-me-ton-paok-1332704",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-07T11:15+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός είναι έτοιμος να υποδεχθεί τον ΠΑΟΚ το βράδυ της Κυριακής (08/11, 21:00) στο “Γεώργιος Καραϊσκάκης” για την 10η αγωνιστική της Stoiximan ...",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/podosfairo/1484455_mesa-o-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
-"title": "«Μέσα» ο Λουσέ - Η αποστολή του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
-"published": "2026-11-07T14:48+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/superleague/2584493/paok-me-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
-"title": "ΠΑΟΚ:Με Λουσέ η αποστολή του Δικεφάλου για το ντέρμπι με τον Ολυμπιακό",
-"published": "2026-11-07T15:19+00:00"
-}
-],
-"id": "bf22cd6b84a7"
 }
 ]
 }
