@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T18:10:40+00:00",
+"generated_at": "2026-11-10T18:25:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το πρόγραμμα της 4ης αγωνιστικής, στην ΕΡΤ τα ντέρμπι Παναθηναϊκός-Ολυμπιακός και ΠΑΟΚ-Άρης",
+"url": "https://www.ertsports.gr/bolei/volley-league/to-programma-tis-4is-agonistikis-stin-ert-ta-ntermpi-panathinaikos-olympiakos-kai-paok-aris/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-10T18:25+00:00",
+"sport": "volley",
+"snippet": "Η ΕΡΤ θα μεταδώσει το μεγάλο ντέρμπι \"αιωνίων\" ανάμεσα σε Παναθηναϊκό και Ολυμπιακό, καθώς και το παιχνίδι ανάμεσα σε ΠΑΟΚ και Άρη, για την 4η αγωνιστική της…",
+"also": [],
+"id": "2ef0e0688564"
+},
 {
 "title": "Υπεράνω Όλων: Μόνο ο Ολυμπιακός μπορεί να σταθεί εμπόδιο στα σχέδια τους",
 "url": "https://sportday.gr/podosfairo/364888_yperano-olon-mono-o-olympiakos-mporei-na-stathei-empodio-sta-schedia-tous.html",
@@ -5005,18 +5017,6 @@
 "snippet": "Ο Μιχάλης Μπακάκης ανέλυσε στο Gazzetta Magazino τα δυνατά σημεία, τόσο του Ολυμπιακού όσο και του ΠΑΟΚ, δίνοντας λίγες περισσότερες πιθανότητες στους…",
 "also": [],
 "id": "bbed8bae2b63"
-},
-{
-"title": "Ολυμπιακός: Με 25 παίκτες και τέσσερις επιστροφές η αποστολή ενόψει ΠΑΟΚ",
-"url": "https://sportday.gr/podosfairo/364524_olympiakos-me-25-paiktes-kai-tesseris-epistrofes-i-apostoli-enopsei-paok.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-07T12:04+00:00",
-"sport": "football",
-"snippet": "Οι «ερυθρόλευκοι», μετά την εκτός έδρας ισοπαλία με τη Ρεν στη Γαλλία, ολοκλήρωσαν την προετοιμασία τους για την αναμέτρηση του Φαλήρου, με τον Ιμανόλ…",
-"also": [],
-"id": "f0fb3a9de7be"
 }
 ]
 }
