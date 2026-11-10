@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-10T16:54:58+00:00",
+"generated_at": "2026-11-10T17:10:06+00:00",
 "count": 400,
 "items": [
 {
@@ -115,7 +115,15 @@
 "published": "2026-11-10T15:11+00:00",
 "sport": "football",
 "snippet": "Σκέψεις εντός του Ολυμπιακού να ζητήσουν αναβολή του ντέρμπι με την ΑΕΚ, στο πλαίσιο της 13ης αγωνιστικής της Stoiximan Super League.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/pithani-i-anavoli-toy-olympiakos-aek-1333097",
+"title": "Πιθανή η αναβολή του Ολυμπιακός - ΑΕΚ!",
+"published": "2026-11-10T17:05+00:00"
+}
+],
 "id": "ef10b2213023"
 },
 {
