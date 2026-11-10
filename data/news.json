@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-10T10:51:06+00:00",
+"generated_at": "2026-11-10T11:06:17+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,26 @@
 "snippet": "Ήταν η 10η Σεπτεμβρίου όταν ο Ολυμπιακός ανακοίνωσε την πρόσληψη του Ιμανόλ Αλγουαθίλ στον πάγκο του, ο οποίος ανέλαβε την βαριά κληρονομιά που άφησε πίσω του…",
 "also": [],
 "id": "a4dc27ebb020"
+},
+{
+"title": "Βούτσεβιτς: «Θα ήθελα Ερ. Αστέρα Ρεάλ ή Ολυμπιακό-Σπουδαίος ο Μπαρτζώκας»",
+"url": "http://www.sport-fm.gr/article/5160172",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-10T10:35+00:00",
+"sport": "general",
+"snippet": "Ο Νίκολα Βούτσεβιτς δεν κλείνει την πόρτα επιστροφής στην Ευρώπη και βάζει τον Ολυμπιακό ανάμεσα στους επιθυμητούς προορισμούς του.",
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15223755/voutsevits-tha-ithela-erythro-astera-real-madritis-i-olympiako-spoudaios-o-mpartzokas/",
+"title": "Βούτσεβιτς: «Θα ήθελα Ερυθρό Αστέρα, Ρεάλ Μαδρίτης ή Ολυμπιακό – Σπουδαίος ο Μπαρτζώκας!»",
+"published": "2026-11-10T11:03+00:00"
+}
+],
+"id": "a775dbfb98da"
 },
 {
 "title": "Ο Ολυμπιακός λοιπόν δεν έχει εξτρέμ!",
@@ -5004,18 +5024,6 @@
 }
 ],
 "id": "3a2299d3eb93"
-},
-{
-"title": "Τα highlights από την ήττα του Ολυμπιακού κόντρα στον Ερυθρό Αστέρα",
-"url": "http://www.sport-fm.gr/article/5159410",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T23:28+00:00",
-"sport": "general",
-"snippet": "Δείτε τα καλύτερα στιγμιότυπα από την αναμέτρηση του Ολυμπιακού και του Ερυθρού Αστέρα στη SUNEL Arena και την ήττα της ομάδας του Γιώργου Μπαρτζώκα.",
-"also": [],
-"id": "737c50145efe"
 }
 ]
 }
