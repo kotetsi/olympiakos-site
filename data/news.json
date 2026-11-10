@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T08:34:44+00:00",
+"generated_at": "2026-11-10T08:49:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Σε απολογία κλήθηκαν Ολυμπιακός και ΑΕΚ",
+"url": "https://www.ertsports.gr/xwris-katigoria/se-apologia-klithikan-olympiakos-kai-aek/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-10T08:49+00:00",
+"sport": "football",
+"snippet": "Ενώπιον του αθλητικού δικαστή θα βρεθούν δύο ομάδες της Super League για παραβάσεις που καταγράφηκαν στα παιχνίδια της 10ης αγωνιστικής του πρωταθλήματος. The…",
+"also": [],
+"id": "b9fceeceb219"
+},
+{
+"title": "Κλήση σε απολογία για ΑΕΚ και Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5160153",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-10T08:43+00:00",
+"sport": "football",
+"snippet": "Το Πρωτοβάθμιο Μονομελές Πειθαρχικό Όργανο κάλεσε σε απολογία την ΑΕΚ και τον Ολυμπιακό για συμβάντα που σημειώθηκαν κατά τη διάρκεια της 10ης αγωνιστικής της…",
+"also": [],
+"id": "28da391f7223"
+},
 {
 "title": "Ολυμπιακός: Τι συμβαίνει τελικά με τον Μπέιλι;",
 "url": "https://www.gazzetta.gr/football/superleague/2585266/olympiakos-ti-symbainei-telika-me-ton-mpeili",
@@ -4977,30 +5001,6 @@
 "snippet": "Μετά την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα, ο Κόρι Τζόσεφ στάθηκε στους 22 πόντους του πρώτο ημιχρόνου και στην βελτίωση στην επανάληψη.",
 "also": [],
 "id": "575738f09599"
-},
-{
-"title": "Κόντσαρ μετά το ντεμπούτο του: “Πρέπει να είμαι καλύτερος στην επίθεση, ήταν γραφτό να έρθω στον Ολυμπιακό”",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2031654/kontsar-gia-to-ntempouto-tou-prepi-na-ime-kaliteros-stin-epithesi-itan-grafto-na-ertho-ston-olimpiako/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-06T22:04+00:00",
-"sport": "basket",
-"snippet": "Ο Τζον Κόντσαρ μίλησε για το ντεμπούτο του, με τον Ολυμπιακό, με αντίπαλο τον Ερυθρό Αστέρα και δήλωσε ότι θέλει να είναι καλύτερος στο επιθετικό σκέλος στη…",
-"also": [],
-"id": "7a6df58b843c"
-},
-{
-"title": "Το πανόραμα της Euroleague: Στην μοναξιά της κορυφής ο Παναθηναϊκός μετά την ήττα του Ολυμπιακού",
-"url": "https://www.sdna.gr/mpasket/1484236_panorama-tis-euroleague-stin-monaxia-tis-koryfis-o-panathinaikos-meta-tin-itta-toy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-06T22:03+00:00",
-"sport": "basket",
-"snippet": "Ολοκληρώθηκε η 10η αγωνιστική της Euroleague με τον Παναθηναϊκό να απολαμβάνει ξανά την μοναξιά της κορυφής με ρεκόρ 8-2.",
-"also": [],
-"id": "331a188b5ca6"
 }
 ]
 }
