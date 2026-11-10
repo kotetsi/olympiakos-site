@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T20:11:54+00:00",
+"generated_at": "2026-11-10T20:27:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δεν έφταιγε ο Ορτέγκα;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ke-omos-den-eftege-o-ortegka?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T20:10+00:00",
+"sport": "general",
+"snippet": "Η πάσα του Ορτέγκα στο Ολυμπιακός - ΠΑΟΚ έχει και διαφορετική τακτική ερμηνεία. Ο ρόλος του Τικνιζιάν και οι τέσσερις παίκτες που έμεναν εκτός φάσης.",
+"also": [],
+"id": "e2cc878a0181"
+},
 {
 "title": "Ολυμπιακός: Επιστρέφει για τον Γιοακίμ Μέλε",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-epistrefi-gia-ton-gioakim-mele?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5005,18 +5017,6 @@
 "snippet": "O Oλυμπιακός επικράτησε εύκολα του Άρη με 58-95 και ανέβηκε στο 5-1 στην WBL 1.",
 "also": [],
 "id": "f6359bd81335"
-},
-{
-"title": "Allwyn WBL1: Άνετες νίκες για Ολυμπιακό και Αμύντα",
-"url": "https://www.sdna.gr/mpasket/1484431_allwyn-wbl1-anetes-nikes-gia-olympiako-kai-amynta",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T13:23+00:00",
-"sport": "basket",
-"snippet": "Δράση στην 6η αγωνιστική του Allwyn WBL1 είχε σήμερα το πρόγραμμα, με τον Ολυμπιακό και τον Αμύντα να κερδίζουν τον Άρη και τον Πανσερραϊκό...",
-"also": [],
-"id": "fbc430ddc1db"
 }
 ]
 }
