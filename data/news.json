@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T05:48:01+00:00",
+"generated_at": "2026-11-10T06:03:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές μεταδόσεις: Που θα δείτε το Μπότεβγκραντ – ΠΑΟΚ και το Ολυμπιακός – Σαμπαντέλ",
+"url": "https://sportday.gr/epikairotita/364839_athlitikes-metadoseis-pou-tha-deite-to-mpotevgkrant-paok-kai-to-olympiakos-sampantel.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-10T06:00+00:00",
+"sport": "polo",
+"snippet": "Ξεχωρίζουν σήμερα Τρίτη (10/11) στις αθλητικές μεταδόσεις, το Μπότεβγκραντ - ΠΑΟΚ για το Eurocup και το Ολυμπιακός - Σαμπαντέλ για το Champions League πόλο…",
+"also": [],
+"id": "0e159bf18c52"
+},
+{
+"title": "Ολυμπιακός: Οι πρώτες σκέψεις ενίσχυσης για Ιανουάριο",
+"url": "http://www.sport-fm.gr/article/5160115",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-10T05:55+00:00",
+"sport": "general",
+"snippet": "Σε ποιες θέσεις φέρεται να «ψάχνεται» ο Ολυμπιακός για ενίσχυση του ρόστερ εν όψει Ιανουαρίου.",
+"also": [],
+"id": "6db06504390f"
+},
 {
 "title": "Euroleague: Πρώτος ο Παναθηναϊκός στα μπάτζετ-Σε ποια θέση βρίσκεται ο Ολυμπιακός",
 "url": "https://www.metrosport.gr/33-1794217784-5wjjubfv6f-1332919",
@@ -4985,30 +5009,6 @@
 "snippet": "Ντεμπούτο για τον Τζον Κόντσαρ με τη φανέλα του Ολυμπιακού, με τον Αμερικανό να παίρνει χρόνο συμμετοχής κόντρα στον Ερυθρό Αστέρα.",
 "also": [],
 "id": "dcfe69aa3b48"
-},
-{
-"title": "EuroLeague: Πρώτος Παναθηναϊκός, 5ος Ολυμπιακός",
-"url": "https://sportime.gr/euroleague/euroleague-protos-o-panathinaikos-5os-o-olimpiakos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T21:22+00:00",
-"sport": "basket",
-"snippet": "Η βαθμολογία της EuroLeague μετά τη 10η αγωνιστική. Ο Παναθηναϊκός βρίσκεται μόνος στην κορυφή με 8-2 και ο Ολυμπιακός στην πέμπτη θέση με 7-3.",
-"also": [],
-"id": "4a2a2031f1a3"
-},
-{
-"title": "Βαθμολογία Ευρωλίγκα: Ο Ολυμπιακός άφησε ξανά μόνο πρώτο τον Παναθηναϊκό",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2031565/vathmologia-evroligka-o-olimpiakos-afise-xana-mono-proto-ton-panathinaiko/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-06T21:19+00:00",
-"sport": "basket",
-"snippet": "Ξανά μόνος στην κορυφή της Ευρωλίγκας ο Παναθηναϊκός, σε εξαπλή ισοβαθμία στη δεύτερη θέση ο Ολυμπιακός. The post Βαθμολογία Ευρωλίγκα: Ο Ολυμπιακός άφησε ξανά…",
-"also": [],
-"id": "0704daa04993"
 }
 ]
 }
