@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T22:13:00+00:00",
+"generated_at": "2026-11-10T22:28:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πότε θα ξεκαθαρίσει το θέμα του Ντόρσεϊ",
+"url": "https://sportday.gr/basket/364887_olympiakos-pote-tha-ksekatharisei-to-thema-tou-ntorsei.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-10T22:13+00:00",
+"sport": "basket",
+"snippet": "Κρίσιμη εβδομάδα η τρέχουσα αναφορικά με την υπόθεση του Τάιλερ Ντόρσεϊ - Πότε αναμένεται να επιστρέψει στη δράση.",
+"also": [],
+"id": "d528d4e1d754"
+},
 {
 "title": "Ολυμπιακός: Ποιος πληρώνει τον Νίκολα Βούτσεβιτς;",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-pios-tha-plironi-ton-nikola-voutsevits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5021,18 +5033,6 @@
 "snippet": "Ο Νέναντ Ντιμιτρίεβιτς ήταν ο απόλυτος πρωταγωνιστής του Άρη με 6/6 τρίποντα! The post Ντιμιτρίεβιτς: Άχαστος με 6/6 τρίποντα κι ανυπόμονος “για τα ντέρμπι με…",
 "also": [],
 "id": "2c3f57e92867"
-},
-{
-"title": "ΑΝΟ Γλυφάδας - Ολυμπιακός 8-19",
-"url": "https://www.sdna.gr/polo/1484469_ano-glyfadas-olympiakos-8-19",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T15:31+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός επικράτησε εκτός έδρας του ΑΝΟ Γλυφάδας με 19-8, ανεβάζοντας την απόδοσή του στο δεύτερο ημίχρονο και διατηρώντας το αήττητό του στη...",
-"also": [],
-"id": "a4eb9405ddb4"
 }
 ]
 }
