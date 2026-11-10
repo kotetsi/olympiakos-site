@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-10T11:06:17+00:00",
+"generated_at": "2026-11-10T11:21:25+00:00",
 "count": 400,
 "items": [
 {
@@ -79,7 +79,15 @@
 "published": "2026-11-10T09:41+00:00",
 "sport": "football",
 "snippet": "Μια ενδιαφέρουσα πρόταση, που ενδέχεται να πυροδοτήσει ευρύτερες συζητήσεις για το μέλλον του ποδοσφαίρου στα Βαλκάνια, κατέθεσε ο Βέλικο Παούνοβιτς σε…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/364861_paounovits-protasi-gia-koino-protathlima-me-paok-olympiako-panathinaiko-aek-kai-ari.html",
+"title": "Παούνοβιτς: Πρόταση για κοινό πρωτάθλημα με ΠΑΟΚ, Ολυμπιακό, Παναθηναϊκό, ΑΕΚ και Άρη",
+"published": "2026-11-10T11:09+00:00"
+}
+],
 "id": "5161d1add653"
 },
 {
