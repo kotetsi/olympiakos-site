@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T21:42:42+00:00",
+"generated_at": "2026-11-10T21:57:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μόνη ελπίδα ο Αγιούμπ Ελ Κααμπί",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-moni-elpida-o-agioub-el-kaampi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T21:45+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός περιμένει τον Αγιούμπ Ελ Κααμπί, καθώς η κατάταξη των επιθετικών με βάση τα αναμενόμενα γκολ αποκαλύπτει το πρόβλημα των ερυθρόλευκων.",
+"also": [],
+"id": "26e5ad0c866e"
+},
+{
+"title": "Θρύλος της Μάντσεστερ Γ.: «Πάρτε τον Κωστούλα»",
+"url": "https://sportday.gr/podosfairo/364910_thrylos-tis-mantsester-g-parte-ton-kostoula.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-10T21:41+00:00",
+"sport": "football",
+"snippet": "O παλαίμαχος διεθνής Άγγλος επιθετικός θεωρεί ότι οι «κόκκινοι διάβολοι» θα πρέπει να κινηθούν για την απόκτησή του τον Ιανουάριο",
+"also": [],
+"id": "f3303e6759af"
+},
 {
 "title": "Ολυμπιακός - Παναθηναϊκός: 30 εκατ. και από τον Μυστακίδη!",
 "url": "https://sportime.gr/paok-bc/olimpiakos-panathinaikos-30-ekat-ke-apo-ton-mistakidi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5009,30 +5033,6 @@
 "snippet": "Με την προπόνηση του Σαββάτου (07.11) στις εγκαταστάσεις της Νέας Μεσημβρίας, η οποία επικεντρώθηκε στην τακτική και τις στατικές φάσεις, ολοκληρώθηκε η…",
 "also": [],
 "id": "bc4702e6ebcc"
-},
-{
-"title": "Ολυμπιακός: Ιταλικές πηγές αποκαλύπτουν νέο μεταγραφικό ενδιαφέρον!",
-"url": "https://sportday.gr/basket/364541_olympiakos-italikes-piges-apokalyptoun-neo-metagrafiko-endiaferon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-07T14:39+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός εξετάζει την αγόρα για νέο παίκτη στα γκαρντ και ρεπορτάζ από την Ιταλία αναφέρουν έντονο ενδιαφέρον των «ερυθρολεύκων» για τον Άρον Χόλιντεϊ",
-"also": [],
-"id": "31c509c0cd75"
-},
-{
-"title": "Σταμολάμπρου: «Μετά την ήττα από τον Ολυμπιακό έπρεπε η ομάδα να βγάλει αντίδραση»",
-"url": "https://www.sdna.gr/mpasket/1484444_stamolamproy-meta-tin-itta-apo-ton-olympiako-eprepe-i-omada-na-bgalei-antidrasi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T14:18+00:00",
-"sport": "basket",
-"snippet": "Μετά την άνετη νίκη του Παναθηναϊκού απέναντι στον Πρωτέα Βούλας, η Άννα Νίκη Σταμολάμπρου τόνισε πως το «τριφύλλι» ήθελε να αντιδράσει μετά την ήττα...",
-"also": [],
-"id": "2ba96b70647e"
 }
 ]
 }
