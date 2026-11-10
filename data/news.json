@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-10T22:43:16+00:00",
+"generated_at": "2026-11-10T22:58:24+00:00",
 "count": 400,
 "items": [
 {
@@ -914,7 +914,15 @@
 "published": "2026-11-10T07:43+00:00",
 "sport": "football",
 "snippet": "Η UEFA τιμώρησε τη Μαρσέιγ με «τσουχτερό» πρόστιμο για το πανό που σήκωσαν οι οπαδοί της στο Βελοντρόμ στο ματς του Europa League με τον Ολυμπιακό.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/marseig-vary-prostimo-logo-toy-yvristikoy-pano-ston-olympiako-1333027",
+"title": "Μαρσέιγ: Βαρύ πρόστιμο λόγω του υβριστικού πανό κόντρα στον Ολυμπιακό",
+"published": "2026-11-10T22:50+00:00"
+}
+],
 "id": "23674cc5cb02"
 },
 {
