@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T15:54:24+00:00",
+"generated_at": "2026-11-10T16:09:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι σκέψεις για αναβολή λόγω Ευρώπης",
+"url": "https://www.gazzetta.gr/football/superleague/2585394/olympiakos-oi-skepseis-gia-anaboli-logo-eyropis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T16:09+00:00",
+"sport": "football",
+"snippet": "Στον Ολυμπιακό βάζουν κάτω τα δεδομένα και σκέφτονται το ενδεχόμενο να προχωρήσουν σε αίτημα αναβολής για ένα εκ των επερχόμενων παιχνιδιών στη Λίγκα.",
+"also": [],
+"id": "4958452d3f72"
+},
+{
+"title": "Νίκη για τους Βετεράνους στη Γλυφάδα",
+"url": "https://www.olympiacos.org/2026/11/10/niki-gia-tous-veteranous-sti-glyfada/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-10T16:02+00:00",
+"sport": "general",
+"snippet": "Οι «ερυθρόλευκοι» Βετεράνοι νίκησαν με 4-2 τον ΑΟ Τερψιθέας Γλυφάδας σε φιλικό ματς.",
+"also": [],
+"id": "694547639d70"
+},
 {
 "title": "Ολυμπιακός: Σκέψεις αναβολής του νέρμπι με την ΑΕΚ",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15223998/olympiakos-skepseis-anavolis-tou-nermpi-me-tin-aek/",
@@ -4992,30 +5016,6 @@
 "snippet": "Ακούστε το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο στον bwinΣΠΟΡ FM 94,6.",
 "also": [],
 "id": "3ba7caa3312e"
-},
-{
-"title": "Ολυμπιακός: Η αποστολή του για το ματς με τον ΠΑΟΚ",
-"url": "https://www.gazzetta.gr/football/superleague/2584429/olympiakos-i-apostoli-toy-gia-mats-me-ton-paok",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T11:05+00:00",
-"sport": "football",
-"snippet": "Μετά την ολοκλήρωση της προετοιμασίας του Ολυμπιακού, ο Αλγκουαθίλ ανακοίνωσε τους παίκτες που θα έχει στη διάθεσή του για το παιχνίδι με τον ΠΑΟΚ (8/11,21:00).",
-"also": [],
-"id": "c506d05494f7"
-},
-{
-"title": "Ολυμπιακός: Ο Αλγουαθίλ ανακοίνωσε αποστολή με 25 παίκτες ενόψει ΠΑΟΚ",
-"url": "https://www.ertsports.gr/super-league/olympiakos-o-algouathil-anakoinose-apostoli-me-25-paiktes-enopsei-paok/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-07T11:04+00:00",
-"sport": "football",
-"snippet": "Από την ΠΑΕ Ολυμπιακός γνωστοποίησαν τα ονόματα των παικτών που επέλεξε να έχει μαζί του ο Ιμανόλ Αλγουαθίλ στην αποστολή των Πειραιωτών για τον αυριανό (8/11…",
-"also": [],
-"id": "59aaf55cd8f2"
 }
 ]
 }
