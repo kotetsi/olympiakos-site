@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T20:27:02+00:00",
+"generated_at": "2026-11-10T20:42:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Να πάει η ΚΑΕ Ολυμπιακός για παράσταση υπέρ της κατηγορίας αν έχει παράπονα από τη διαιτησία",
+"url": "https://www.sdna.gr/mpasket/1485391_na-paei-i-kae-olympiakos-gia-parastasi-yper-tis-katigorias-ehei-parapona-apo-ti",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T20:37+00:00",
+"sport": "basket",
+"snippet": "Το video που έβγαλε η ΚΑΕ Ολυμπιακός, η διοίκηση της ΕΟΚ που παραμένει στα χέρια ανθρώπων του Λιόλιου, η ΚΕΔ, οι διαιτητές που ήταν τα τελευταία...",
+"also": [],
+"id": "e015630cb382"
+},
 {
 "title": "Ολυμπιακός: Δεν έφταιγε ο Ορτέγκα;",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-ke-omos-den-eftege-o-ortegka?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -199,7 +211,15 @@
 "published": "2026-11-10T16:02+00:00",
 "sport": "general",
 "snippet": "Οι «ερυθρόλευκοι» Βετεράνοι νίκησαν με 4-2 τον ΑΟ Τερψιθέας Γλυφάδας σε φιλικό ματς.",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2585486/olympiakos-niki-gia-toys-beteranoys-sti-glyfada",
+"title": "Ολυμπιακός: Νίκη για τους Βετεράνους στη Γλυφάδα",
+"published": "2026-11-10T20:37+00:00"
+}
+],
 "id": "694547639d70"
 },
 {
@@ -5005,18 +5025,6 @@
 "snippet": "Ο Αμερικανός παίκτης αγωνίζεται στη Μαξίμα Ρόμα και φέρεται να έχει συμπεριληφθεί στη λίστα των «ερυθρόλευκων». Ο Χόλιντεϊ έχει στο συμβόλαιό του ρήτρα…",
 "also": [],
 "id": "503e1dc54363"
-},
-{
-"title": "Άρης - Ολυμπιακός 58-95: Εντυπωσιακό διπλό οι ερυθρόλευκες",
-"url": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2584463/aris-olympiakos-58-95-entyposiako-diplo-oi-erythroleykes",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T13:31+00:00",
-"sport": "basket",
-"snippet": "O Oλυμπιακός επικράτησε εύκολα του Άρη με 58-95 και ανέβηκε στο 5-1 στην WBL 1.",
-"also": [],
-"id": "f6359bd81335"
 }
 ]
 }
