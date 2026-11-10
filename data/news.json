@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T18:56:07+00:00",
+"generated_at": "2026-11-10T19:11:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Νίκησε την Σαμπαντέλ και έκανε το 3/3 ο Ολυμπιακός",
+"url": "https://www.sdna.gr/polo/1485462_nikise-tin-sampantel-kai-ekane-3/3-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T18:59+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός επικράτησε με 15-10 της Σαμπαντέλ και πήρε την τρίτη του διαδοχική νίκη στου LEN Champions League.",
+"also": [],
+"id": "a270d9f34d6c"
+},
 {
 "title": "Απόλυτος Ολυμπιακός, 15-10 τη Σαμπαντέλ",
 "url": "https://www.novasports.gr/sport/alla-spor/event/europi-alla-spor/article/15224518/apolytos-olympiakos-15-10-ti-sampantel/",
@@ -5005,18 +5017,6 @@
 "snippet": "Οι «ερυθρόλευκες» πανηγύρισαν την πέμπτη φετινή τους νίκη σε έξι ματς και βρίσκονται στη δεύτερη θέση της βαθμολογίας. Από την άλλη πλευρά, οι «κίτρινες»…",
 "also": [],
 "id": "e1f4dbb29d41"
-},
-{
-"title": "«Πριν» και «μετά» το σκάνδαλο: Η ανεξήγητη πτώση στις βολές του Ολυμπιακού στην Ευρωλίγκα και από το 5-1 στο 2-2",
-"url": "https://www.sdna.gr/mpasket/1484420_prin-kai-meta-skandalo-i-anexigiti-ptosi-stis-boles-toy-olympiakoy-stin-eyroligka",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T13:05+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός σουτάρει πολλές βολές τα τελευταία χρόνια στη EuroLeague. Κορυφαία ομάδα είναι, άρα αποτελεί δύσκολο task να την σταματήσεις. Για κάθε...",
-"also": [],
-"id": "bba9a7443caa"
 }
 ]
 }
