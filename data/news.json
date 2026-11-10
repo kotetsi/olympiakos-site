@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T09:20:09+00:00",
+"generated_at": "2026-11-10T09:35:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πρωινός Τύπος (10/11): «Μήνυμα τίτλου από τον Παναθηναϊκό - Λάθος του Ολυμπιακού με Ζίβκοβιτς»",
+"url": "https://www.sdna.gr/podosfairo/1485302_proinos-typos-10/11-minyma-titloy-apo-ton-panathinaiko-lathos-toy-olympiakoy-me",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T09:32+00:00",
+"sport": "football",
+"snippet": "Τη νοοτροπία πρωταθλητισμού που βγάζει ο Παναθηναϊκός αναλύει ο Τύπος, μαζί με το λάθος που έκανε ο Ολυμπιακός με τον Ζίβκοβιτς.",
+"also": [],
+"id": "bd24f513cd07"
+},
 {
 "title": "Ολυμπιακός: Με Σαμπαντέλ για να παραμείνει αήττητος στο Champions League",
 "url": "https://www.gazzetta.gr/polo/len-champions-league/2585181/olympiakos-me-sampantel-gia-na-parameinei-aittitos-sto-champions",
@@ -150,7 +162,7 @@
 "id": "0ba3dabfcf95"
 },
 {
-"title": "Ολυμπιακός-Παναθηναϊκός: Τι διαφορετικό θα δούμε με Ντουμπάι και Μπάρτσα; | Gazz Floor by Novibet",
+"title": "Τι θα γίνει με το -2 σε Ολυμπιακό και Παναθηναϊκό | Gazz Floor by Novibet",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2585247/olympiakos-panathinaikos-ti-diaforetiko-tha-doyme-me-ntoympai-kai",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -5004,18 +5016,6 @@
 "snippet": "Η κακή εμφάνιση του Ολυμπιακού και ήττα από τον Ερυθρό Αστέρα σχολιάστηκε από τον Γιώργο Μπαρτζώκα, ο οποίος δεν έβγαλε τον εαυτό του από το κάδρο των ευθυνών.",
 "also": [],
 "id": "f3500d6a4e4d"
-},
-{
-"title": "Κόντσαρ: «Έπρεπε να παίξω καλύτερα στην επίθεση, να φέρνω ενέργεια στην ομάδα»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584350/kontsar-eprepe-na-paixo-kalytera-stin-epithesi-na-ferno-energeia-stin",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T22:14+00:00",
-"sport": "basket",
-"snippet": "Ο Τζον Κόντσαρ, που έκανε το ντεμπούτο με τον Ολυμπιακό, μίλησε αμέσως μετά την ήττα των ερυθρόλευκων από τον Ερυθρό Αστέρα στη SUNEL Arena.",
-"also": [],
-"id": "b0d4c05e7ed7"
 }
 ]
 }
