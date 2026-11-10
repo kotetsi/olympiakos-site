@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T08:19:36+00:00",
+"generated_at": "2026-11-10T08:34:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τι συμβαίνει τελικά με τον Μπέιλι;",
+"url": "https://www.gazzetta.gr/football/superleague/2585266/olympiakos-ti-symbainei-telika-me-ton-mpeili",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T08:30+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr τους λόγους που δεν προτιμήθηκε ο Λίον Μπέιλι έστω και ένα λεπτό στο παιχνίδι με τον ΠΑΟΚ.",
+"also": [],
+"id": "24b4330ef884"
+},
+{
+"title": "Πρόστιμο 80.500 ευρώ στη Μαρσέιγ από την UEFA για το υβριστικό πανό στο παιχνίδι με τον Ολυμπιακό",
+"url": "https://www.ertsports.gr/podosfairo/prostimo-80-500-eyro-sti-marseig-apo-tin-uefa-gia-to-yvristiko-pano-sto-paixnidi-me-ton-olympiako/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-10T08:27+00:00",
+"sport": "football",
+"snippet": "Η UEFA επέβαλε χρηματική ποινή ύψους 80.500 ευρώ στη Μαρσέιγ, εξαιτίας της συμπεριφοράς των οπαδών της στην αναμέτρηση με τον Ολυμπιακό για το Europa League…",
+"also": [],
+"id": "1cbae3e0c6e1"
+},
 {
 "title": "Μαρσέιγ: Δέχθηκε βαρύ πρόστιμο από την UEFA για το πανό κόντρα στον Ολυμπιακό",
 "url": "https://www.gazzetta.gr/football/europa-league/2585258/marseig-dehthike-bary-prostimo-apo-tin-uefa-gia-pano-kontra-ston",
@@ -179,7 +203,15 @@
 "published": "2026-11-09T22:16+00:00",
 "sport": "football",
 "snippet": "Η UEFA τιμώρησε με βαρύ χρηματικό πρόστιμο τη Μαρσέιγ για το υβριστικό πανό που είχαν αναρτήσει οι ultras της στο παιχνίδι απέναντι στον Ολυμπιακό...",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15223634/marseig-vary-prostimo-gia-pano-kontra-ston-olympiako/",
+"title": "Μαρσέιγ: Βαρύ πρόστιμο για πανό κόντρα στον Ολυμπιακό",
+"published": "2026-11-10T08:30+00:00"
+}
+],
 "id": "4e4321279c1c"
 },
 {
@@ -4969,38 +5001,6 @@
 "snippet": "Ολοκληρώθηκε η 10η αγωνιστική της Euroleague με τον Παναθηναϊκό να απολαμβάνει ξανά την μοναξιά της κορυφής με ρεκόρ 8-2.",
 "also": [],
 "id": "331a188b5ca6"
-},
-{
-"title": "Ολυμπιακός: Άγγιξε την ανατροπή",
-"url": "https://sportime.gr/protoselido-sportime/protoselido-sportime-711-o-olimpiakos-angixe-tin-anatropi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-06T22:01+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός επέστρεψε από το -22 απέναντι στον Ερυθρό Αστέρα και μείωσε στους δύο πόντους, αλλά γνώρισε την ήττα και έπεσε πέμπτος στη EuroLeague.",
-"also": [],
-"id": "a4f905ca83ac"
-},
-{
-"title": "VIDEO: Tα highlights της ήττας του Ολυμπιακού από τον Ερυθρό Αστέρα",
-"url": "https://sportday.gr/video/364500_video-ta-highlights-tis-ittas-tou-olympiakou-apo-ton-erythro-astera.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-06T21:57+00:00",
-"sport": "basket",
-"snippet": "",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1484249_ta-highlights-tis-ittas-toy-olympiakoy-apo-ton-erythro-astera-vid",
-"title": "Τα highlights της ήττας του Ολυμπιακού από τον Ερυθρό Αστέρα (vid)",
-"published": "2026-11-06T23:14+00:00"
-}
-],
-"id": "1037d88a9442"
 }
 ]
 }
