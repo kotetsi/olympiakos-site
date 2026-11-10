@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T19:41:36+00:00",
+"generated_at": "2026-11-10T19:56:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Επιστρέφει για τον Γιοακίμ Μέλε",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-epistrefi-gia-ton-gioakim-mele?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T19:37+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός εξετάζει ξανά τον Γιοακίμ Μέλε της Βόλφσμπουργκ για τον Ιανουάριο. Η πρόταση του καλοκαιριού και οι ανάγκες στα άκρα της άμυνας.",
+"also": [],
+"id": "3624314db2bc"
+},
 {
 "title": "Ολυμπιακός – Σαμπαντέλ 15-10: Τα highlights της νίκης των «ερυθρολεύκων»",
 "url": "https://sportday.gr/video/364903_olympiakos-sampantel-15-10-ta-highlights-tis-nikis-ton-erythrolefkon.html",
@@ -5005,18 +5017,6 @@
 "snippet": "Δράση στην 6η αγωνιστική του Allwyn WBL1 είχε σήμερα το πρόγραμμα, με τον Ολυμπιακό και τον Αμύντα να κερδίζουν τον Άρη και τον Πανσερραϊκό...",
 "also": [],
 "id": "fbc430ddc1db"
-},
-{
-"title": "Άνετες νίκες για Αθηναϊκό, Ολυμπιακό και Αμύντα",
-"url": "https://www.ertsports.gr/mpasket/a1-gynaikon-mpasket/anetes-nikes-gia-athinaiko-olympiako-kai-amynta/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-07T13:20+00:00",
-"sport": "basket",
-"snippet": "Με ιδιαίτερα σημαντικά παιχνίδια συνεχίζεται σήμερα Σάββατο το πρωτάθλημα της Women’s Basketball League 1 με τη διεξαγωγή της 6ης Αγωνιστικής. The post Άνετες…",
-"also": [],
-"id": "b314090f0811"
 }
 ]
 }
