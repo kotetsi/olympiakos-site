@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T10:35:57+00:00",
+"generated_at": "2026-11-10T10:51:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι 60 ημέρες του Ιμανόλ Αλγουαθίλ στον πάγκο!",
+"url": "https://sportday.gr/podosfairo/364854_olympiakos-oi-60-imeres-tou-imanol-algouathil-ston-pagko.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-10T10:38+00:00",
+"sport": "football",
+"snippet": "Ήταν η 10η Σεπτεμβρίου όταν ο Ολυμπιακός ανακοίνωσε την πρόσληψη του Ιμανόλ Αλγουαθίλ στον πάγκο του, ο οποίος ανέλαβε την βαριά κληρονομιά που άφησε πίσω του…",
+"also": [],
+"id": "a4dc27ebb020"
+},
 {
 "title": "Ο Ολυμπιακός λοιπόν δεν έχει εξτρέμ!",
 "url": "https://www.gazzetta.gr/football/superleague/2585296/o-olympiakos-loipon-den-ehei-extrem",
@@ -5004,18 +5016,6 @@
 "snippet": "Δείτε τα καλύτερα στιγμιότυπα από την αναμέτρηση του Ολυμπιακού και του Ερυθρού Αστέρα στη SUNEL Arena και την ήττα της ομάδας του Γιώργου Μπαρτζώκα.",
 "also": [],
 "id": "737c50145efe"
-},
-{
-"title": "Ολυμπιακός - Ερυθρός Αστέρας 57-62: Τα highlights του αγώνα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584358/olympiakos-erythros-asteras-57-62-ta-highlights-toy-agona",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-06T23:16+00:00",
-"sport": "basket",
-"snippet": "Δείτε τα highlights από τη νίκη του Ερυθρού Αστέρα με 62-57 εις βάρος του Ολυμπιακού στη SUNEL Arena.",
-"also": [],
-"id": "f1178f702898"
 }
 ]
 }
