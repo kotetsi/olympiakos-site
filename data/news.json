@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T16:09:30+00:00",
+"generated_at": "2026-11-10T16:24:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τσέλιε - Ολυμπιακός: Παρουσία Τσέφεριν ο αγώνας",
+"url": "https://www.gazzetta.gr/football/europa-league/2585401/tselie-olympiakos-paroysia-tseferin-o-agonas",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T16:17+00:00",
+"sport": "football",
+"snippet": "Η Τσέλιε με ανακοίνωσή της ευχαρίστησε τον πρόεδρο της UEFA, που αναμένεται να δώσει το παρών στο παιχνίδι της 10ης Δεκεμβρίου με τον Ολυμπιακό.",
+"also": [],
+"id": "1f4290c7be26"
+},
 {
 "title": "Ολυμπιακός: Οι σκέψεις για αναβολή λόγω Ευρώπης",
 "url": "https://www.gazzetta.gr/football/superleague/2585394/olympiakos-oi-skepseis-gia-anaboli-logo-eyropis",
@@ -13,6 +25,18 @@
 "snippet": "Στον Ολυμπιακό βάζουν κάτω τα δεδομένα και σκέφτονται το ενδεχόμενο να προχωρήσουν σε αίτημα αναβολής για ένα εκ των επερχόμενων παιχνιδιών στη Λίγκα.",
 "also": [],
 "id": "4958452d3f72"
+},
+{
+"title": "Τι παίζει με το δικαίωμα του Ολυμπιακού να αναβάλει παιχνίδι του",
+"url": "http://www.sport-fm.gr/article/5160238",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-10T16:07+00:00",
+"sport": "general",
+"snippet": "Οι σκέψεις στον Ολυμπιακό για αναβολή ενός αγώνα τους.",
+"also": [],
+"id": "1d883f00445e"
 },
 {
 "title": "Νίκη για τους Βετεράνους στη Γλυφάδα",
@@ -4992,30 +5016,6 @@
 }
 ],
 "id": "bf22cd6b84a7"
-},
-{
-"title": "Ολυμπιακός: Πάνοπλος στο ματς με τον ΠΑΟΚ (pic)",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15217914/olympiakos-panoplos-sto-mats-me-ton-paok-pic/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-07T11:10+00:00",
-"sport": "football",
-"snippet": "Η προετοιμασία των Πειραιωτών για τη συγκεκριμένη αναμέτρηση ολοκληρώθηκε το Σάββατο, με τον Ιμανόλ Αλγουαθίλ να ανακοινώνει την αποστολή της ομάδας του και να…",
-"also": [],
-"id": "c15ed627eaed"
-},
-{
-"title": "Νικολακόπουλος: «Ο Ολυμπιακός θέλει να κλείσει τον κύκλο όπως τον άρχισε…»",
-"url": "http://www.sport-fm.gr/article/5159479",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-07T11:06+00:00",
-"sport": "general",
-"snippet": "Ακούστε το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο στον bwinΣΠΟΡ FM 94,6.",
-"also": [],
-"id": "3ba7caa3312e"
 }
 ]
 }
