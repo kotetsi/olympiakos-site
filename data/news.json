@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T12:06:58+00:00",
+"generated_at": "2026-11-10T12:21:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το πρόγραμμα της 11ης στροφής - Στην Τρίπολη το Πανιώνιος-Ολυμπιακός Β",
+"url": "https://www.sdna.gr/podosfairo/1485380_programma-tis-11is-strofis-stin-tripoli-panionios-olympiakos-b",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T12:08+00:00",
+"sport": "football",
+"snippet": "Γνωστό έγινε το πρόγραμμα της 11ης αγωνιστικής της Superbet League 2, όπως το ποια παιχνίδια θα έχουν μετάδοση.",
+"also": [],
+"id": "81e595ee62a0"
+},
 {
 "title": "Νικολακόπουλος: «Ο Σιπιόνι, ο Τσικίνιο και οι άλλες λύσεις στον Ολυμπιακό μετά τον Έσε»",
 "url": "http://www.sport-fm.gr/article/5160191",
@@ -5012,18 +5024,6 @@
 "snippet": "Ο Ολυμπιακός έχει γνωρίσει χειρότερες βραδιές με τον Γιώργο Μπαρτζώκα. Η ιστορία του 2012 και του 2023-24 δείχνει γιατί μια κρίση δεν σημαίνει αποτυχία.",
 "also": [],
 "id": "34dabdeb7485"
-},
-{
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Τα 163 δευτερόλεπτα του τρόμου, το «ερυθρόλευκο» έλλειμμα δημιουργίας και τα άστοχα τρίποντα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584396/olympiakos-erythros-asteras-ta-163-deyterolepta-toy-tromoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T08:20+00:00",
-"sport": "basket",
-"snippet": "Ο Στέφανος Μακρής αναλύει με την βοήθεια του Hudl Instat την ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα. Τα 163 δευτερόλεπτα που έγειραν την πλάστιγγα προς τους…",
-"also": [],
-"id": "c6548cbe5073"
 }
 ]
 }
