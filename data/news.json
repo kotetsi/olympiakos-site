@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T12:52:16+00:00",
+"generated_at": "2026-11-10T13:07:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Βούτσεβιτς «ψηφίζει» και Ολυμπιακό εάν επιστρέψει στην Ευρώπη: «Ο Μπαρτζώκας είναι σπουδαίος προπονητής»",
+"url": "https://www.gazzetta.gr/basketball/nba/2585333/o-boytsebis-psifizei-kai-olympiako-ean-epistrepsei-stin-eyropi-o-mpartzokas",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T12:58+00:00",
+"sport": "basket",
+"snippet": "Ο Νίκολα Βούτσεβιτς παραχώρησε συνέντευξη σε ισπανικό Μέσο και μεταξύ άλλων έκανε ειδική αναφορά στον Ολυμπιακό στο ενδεχόμενο της επιστροφής στην Ευρώπη.",
+"also": [],
+"id": "b00ef223f3ac"
+},
+{
+"title": "Ολυμπιακός: Με την Ντουμπάι χρειάζεται ο ΜακΙντάιρ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-i-ntoumpai-den-ine-marousi-o-bartzokas-chriazete-xana-ton-kalo-makintair?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T12:51+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός περιμένει την Ντουμπάι και ο Μπαρτζώκας χρειάζεται ξανά τον ΜακΙντάιρ. Γιατί οι επτά ασίστ του Τζόζεφ στο Μαρούσι δεν αρκούν ως απάντηση.",
+"also": [],
+"id": "c94b3f07e23e"
+},
 {
 "title": "UEFA Ranking: Ο Ολυμπιακός έχει τη μεγαλύτερη συνεισφορά στην Ελλάδα",
 "url": "https://sportday.gr/podosfairo/364868_uefa-ranking-o-olympiakos-echei-ti-megalyteri-syneisfora-stin-ellada.html",
@@ -5000,30 +5024,6 @@
 "snippet": "Η αναγέννηση του Ταμπόρδα, η ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα, η αξιοποίηση του ρόστερ της ΑΕΚ. Τίποτα δεν αφήνει ασχολίαστο ο Τύπος.",
 "also": [],
 "id": "7c92d22801de"
-},
-{
-"title": "Ολυμπιακός: Πάλι θα «αναστήσει» τον ΠΑΟΚ;",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-pali-tha-anastisi-ton-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T09:03+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός υποδέχεται τον ΠΑΟΚ με την παράδοση να προβληματίζει. Οι αποδόσεις δείχνουν φαβορί τους Πειραιώτες, αλλά τα τελευταία ντέρμπι λένε άλλα.",
-"also": [],
-"id": "d593552e8371"
-},
-{
-"title": "Ολυμπιακός: Χρειάζεται έναν Ρόμπινσον-Ερλ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-chriazete-enan-rompinson-erl?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T08:43+00:00",
-"sport": "general",
-"snippet": "Ο Τζερεμάια Ρόμπινσον-Ερλ εντυπωσιάζει στον Άρη. Γιατί ο Ολυμπιακός χρειάζεται περισσότερους σκόρερ και δεν μπορεί να εξαρτάται μόνο από τον Σάσα Βεζένκοφ.",
-"also": [],
-"id": "8dfe033297f8"
 }
 ]
 }
