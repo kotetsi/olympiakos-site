@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T17:10:06+00:00",
+"generated_at": "2026-11-10T17:25:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ήδη… κερδίζει ο Ορμίγκα",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15224144/olympiakos-idi-kerdizei-o-ormigka/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-10T17:21+00:00",
+"sport": "football",
+"snippet": "Ο Ορμίγκα Γκονζάλες έχει ήδη προκαλέσει συζητήσεις για την εκτελεστική του ικανότητα και το γεγονός πως έχει σκοράρει, με μία μόλις επαφή, 6 γκολ με τη φανέλα…",
+"also": [],
+"id": "8e6b0ca7026f"
+},
 {
 "title": "Ολυμπιακός: Ο Φουστέρ αρμόδιος και για τους δανεικούς, τι δανεικούς έχουν οι Πειραιώτες",
 "url": "https://www.gazzetta.gr/football/superleague/2585403/olympiakos-o-foyster-armodios-kai-gia-toys-daneikoys-ti-daneikoys",
@@ -5005,18 +5017,6 @@
 "snippet": "Ο Ολυμπιακός έχασε το παιχνίδι με τον Ερυθρό Αστέρα, αλλά το αφήνει πίσω του και συνεχίζει με τις υποχρεώσεις του σε Ευρώπη & Ελλάδα... The post Ολυμπιακός…",
 "also": [],
 "id": "0ad7b16f404b"
-},
-{
-"title": "Ο 712ος αγώνας των Βετεράνων του Θρύλου",
-"url": "https://www.olympiacos.org/2026/11/07/o-712os-agonas-ton-veteranon-tou-thrylou/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-07T11:41+00:00",
-"sport": "general",
-"snippet": "Οι Βετεράνοι του Ολυμπιακού θα αντιμετωπίσουν τον ΑΟ Τερψιθέας Γλυφάδας τη Δευτέρα σε φιλικό αγώνα.",
-"also": [],
-"id": "7ca87264f431"
 }
 ]
 }
