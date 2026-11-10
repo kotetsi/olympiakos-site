@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-10T09:05:00+00:00",
+"generated_at": "2026-11-10T09:20:09+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "O Ολυμπιακός υποδέχεται στο Πειραιά και το «Πέτρος Καπαγέρωφ» την ισπανική Σαμπαντέλ την Τρίτη (10/11, 19:30) για την 3η αγωνιστική του LEN Champions League…",
 "also": [],
 "id": "b141e2130e61"
+},
+{
+"title": "Ολυμπιακός: Η παγίδα με Έσε και Σιπιόνι πριν από τη Μίλαν",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-sipioni-den-bori-na-kalipsi-to-keno-tou-ese-sti-milan-i-kinisi-me-el-kaampi-pou-peripleki-ta-panta?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T08:58+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός χάνει τον Έσε πριν από τη Μίλαν, ενώ ο Σιπιόνι είναι εκτός λίστας UEFA. Ο κανόνας των 60 ημερών και η ήδη καταγεγραμμένη αλλαγή Ελ Κααμπί.",
+"also": [],
+"id": "ebb803d4b09c"
 },
 {
 "title": "Σε απολογία κλήθηκαν Ολυμπιακός και ΑΕΚ",
@@ -30,6 +42,13 @@
 "url": "https://www.gazzetta.gr/football/superleague/2585273/super-league-klithikan-se-apologia-aek-kai-olympiakos",
 "title": "Super League: Κλήθηκαν σε απολογία ΑΕΚ και Ολυμπιακός",
 "published": "2026-11-10T09:01+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15223667/super-league-klithikan-se-apologia-aek-kai-olympiakos/",
+"title": "Super League: Κλήθηκαν σε απολογία ΑΕΚ και Ολυμπιακός",
+"published": "2026-11-10T09:11+00:00"
 }
 ],
 "id": "b9fceeceb219"
@@ -4997,18 +5016,6 @@
 "snippet": "Ο Τζον Κόντσαρ, που έκανε το ντεμπούτο με τον Ολυμπιακό, μίλησε αμέσως μετά την ήττα των ερυθρόλευκων από τον Ερυθρό Αστέρα στη SUNEL Arena.",
 "also": [],
 "id": "b0d4c05e7ed7"
-},
-{
-"title": "«Μονοδιάστατος ο Ολυμπιακός, έχανε τα άχαστα, θετικό ντεμπούτο Κόντσαρ»: Το σχόλιο Ζέρβα από τη SUNEL Arena",
-"url": "http://www.sport-fm.gr/article/5159402",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T22:12+00:00",
-"sport": "general",
-"snippet": "Το σχόλιο του Νίκου Ζέρβα μετά την εντός έδρας ήττα του Ολυμπιακού από τον Ερυθρό Αστέρα στη SUNEL Arena.",
-"also": [],
-"id": "b871051f07c5"
 }
 ]
 }
