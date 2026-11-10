@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-10T15:23:48+00:00",
+"generated_at": "2026-11-10T15:39:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το ρεπό και ο προβληματισμός Αλγουαθίλ",
+"url": "https://sportime.gr/podosfairo/olimpiakos-triimero-repo-apo-ton-algouathil-alla-o-provlimatismos-sto-renti-parameni?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T15:33+00:00",
+"sport": "football",
+"snippet": "Ο Αλγουαθίλ έδωσε τριήμερο ρεπό στους παίκτες του Ολυμπιακού, αλλά η εμφάνιση με τον ΠΑΟΚ και η διαχείριση απέναντι στη Ρεν τον προβλημάτισαν.",
+"also": [],
+"id": "c407570a4b13"
+},
+{
+"title": "Ολυμπιακός: Οι αμφιβολίες Στεφάνου για Ντόρσεϊ",
+"url": "https://sportime.gr/basket/olimpiakos-katholou-sigouros-o-stefanou-gia-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T15:18+00:00",
+"sport": "basket",
+"snippet": "Η τιμωρία του Τάιλερ Ντόρσεϊ ολοκληρώνεται την Κυριακή, όμως η επιστροφή του στον Ολυμπιακό παραμένει αβέβαιη. Τι ανέφερε ο Μιχάλης Στεφάνου.",
+"also": [],
+"id": "9d1b3500e35b"
+},
 {
 "title": "Πιθανή η αναβολή του Ολυμπιακός - ΑΕΚ!",
 "url": "https://www.sdna.gr/podosfairo/1485423_pithani-i-anaboli-toy-olympiakos-aek",
@@ -4992,30 +5016,6 @@
 "snippet": "Δείτε την αποστολή του Ολυμπιακού για το ματς με τον ΠΑΟΚ.",
 "also": [],
 "id": "33b48f334f92"
-},
-{
-"title": "Interwetten: Ολυμπιακός – ΠΑΟΚ με απόδοση 12.00",
-"url": "https://sportime.gr/sportime-bet/souper-ntermpi-souper-12ari-stin-interwetten?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T11:02+00:00",
-"sport": "football",
-"snippet": "Ολυμπιακός και ΠΑΟΚ αναμετρώνται την Κυριακή 8 Νοεμβρίου στις 21:00 για τη Super League. Η Interwetten παρουσιάζει Bet Builder με συνολική απόδοση 12.00.",
-"also": [],
-"id": "2bf7ac68d4a0"
-},
-{
-"title": "Ολυμπιακός: Χωρίς απουσίες στο ντέρμπι με τον ΠΑΟΚ",
-"url": "https://www.sdna.gr/podosfairo/1484387_olympiakos-horis-apoysies-sto-ntermpi-me-ton-paok",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T11:01+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ ανακοίνωσε την αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ, συμπεριλαμβάνοντας 25 παίκτες.",
-"also": [],
-"id": "8c212401bcc3"
 }
 ]
 }
