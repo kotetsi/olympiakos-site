@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T10:20:47+00:00",
+"generated_at": "2026-11-10T10:35:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Ολυμπιακός λοιπόν δεν έχει εξτρέμ!",
+"url": "https://www.gazzetta.gr/football/superleague/2585296/o-olympiakos-loipon-den-ehei-extrem",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T10:33+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος κάνει στο blog του στο Gazzetta το δικό του σχόλιο αναφορικά με όσα ακούγονται για το θέμα εξτρέμ στον Ολυμπιακό.",
+"also": [],
+"id": "56467aec9f61"
+},
 {
 "title": "Ολυμπιακός: Τιμωρήθηκε η Μαρσειγ για το πανό κατά των ερυθρολεύκων",
 "url": "https://sportday.gr/podosfairo/364859_olympiakos-timorithike-i-marseig-gia-to-pano-kata-ton-erythrolefkon.html",
@@ -5004,18 +5016,6 @@
 "snippet": "Δείτε τα highlights από τη νίκη του Ερυθρού Αστέρα με 62-57 εις βάρος του Ολυμπιακού στη SUNEL Arena.",
 "also": [],
 "id": "f1178f702898"
-},
-{
-"title": "Ολυμπιακός στη... σφαίρα του ανεξήγητου - Χρήσιμο «καμπανάκι» με ένα κέρδος εξ Αμερικής",
-"url": "http://www.sport-fm.gr/article/5159384",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T22:30+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός πραγματοποίησε το χειρότερό του πρώτο ημίχρονο εντός έδρας, γύρισε από την κόλαση, αλλά η ήττα από τον Ερυθρό Αστέρα ήρθε με πολλά λάθη…",
-"also": [],
-"id": "39ddc78e45d2"
 }
 ]
 }
