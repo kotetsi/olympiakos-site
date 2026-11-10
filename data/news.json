@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T06:18:18+00:00",
+"generated_at": "2026-11-10T06:33:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Σάλιακας φαίνεται και στη στραβή",
+"url": "https://sportday.gr/podosfairo/364836_olympiakos-o-saliakas-fainetai-kai-sti-stravi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-10T06:27+00:00",
+"sport": "football",
+"snippet": "Δύο κουβέντες για τον Μανώλη Σάλιακα μετά από ένα παιχνίδι στο οποίο δεν έκλεψε τους τίτλους.",
+"also": [],
+"id": "4febd53eab1b"
+},
 {
 "title": "Αθλητικές μεταδόσεις: Που θα δείτε το Μπότεβγκραντ – ΠΑΟΚ και το Ολυμπιακός – Σαμπαντέλ",
 "url": "https://sportday.gr/epikairotita/364839_athlitikes-metadoseis-pou-tha-deite-to-mpotevgkrant-paok-kai-to-olympiakos-sampantel.html",
@@ -4997,18 +5009,6 @@
 "snippet": "Ο Σάσα Βεζένκοφ ήταν απίθανος, αλλά μόνος: ο Ολυμπιακός παρουσίασε κάκιστο πρόσωπο και ηττήθηκε από τον Ερυθρό Αστέρα (57-62), σε ένα ματς που......",
 "also": [],
 "id": "59ad159af38d"
-},
-{
-"title": "Θετικό δείγμα από τον Κόντσαρ στο ντεμπούτο του με τον Ολυμπιακό",
-"url": "http://www.sport-fm.gr/article/5159388",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-06T21:23+00:00",
-"sport": "general",
-"snippet": "Ο Τζον Κόντσαρ πραγματοποίησε το ντεμπούτο του με τη φανέλα του Ολυμπιακού, αφήνοντας θετικές εντυπώσεις παρά την ήττα, με τη μαχητικότητα και την αμυντική του…",
-"also": [],
-"id": "29ebc9a13906"
 }
 ]
 }
