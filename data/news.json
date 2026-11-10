@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-10T21:27:34+00:00",
+"generated_at": "2026-11-10T21:42:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Παναθηναϊκός: 30 εκατ. και από τον Μυστακίδη!",
+"url": "https://sportime.gr/paok-bc/olimpiakos-panathinaikos-30-ekat-ke-apo-ton-mistakidi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-10T21:25+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός και ο Παναθηναϊκός ενδέχεται να εισπράξουν από 30 εκατ. ευρώ μέσω των νέων franchises της EuroLeague, στα οποία σχεδιάζει να ενταχθεί ο ΠΑΟΚ.",
+"also": [],
+"id": "3e063e09bc2a"
+},
 {
 "title": "Ολυμπιακός: Τι είπε ο Μέλε για το μέλλον του",
 "url": "https://www.gazzetta.gr/football/superleague/2585501/olympiakos-ti-eipe-o-mele-gia-mellon-toy",
@@ -11,7 +23,15 @@
 "published": "2026-11-10T21:09+00:00",
 "sport": "football",
 "snippet": "Ο Δανός μπακ - που συνδέθηκε ξανά με Ολυμπιακό - μίλησε στον Τύπο της χώρας του για την επόμενή του μέρα στο ποδόσφαιρο και σε σχέση με το μέλλον του στη…",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/2-bundesliga/article/15224704/o-mele-kai-to-mellon-tou/",
+"title": "Ο Μέλε και το μέλλον του!",
+"published": "2026-11-10T21:38+00:00"
+}
+],
 "id": "b0a8a9f9fd93"
 },
 {
@@ -5013,18 +5033,6 @@
 "snippet": "Μετά την άνετη νίκη του Παναθηναϊκού απέναντι στον Πρωτέα Βούλας, η Άννα Νίκη Σταμολάμπρου τόνισε πως το «τριφύλλι» ήθελε να αντιδράσει μετά την ήττα...",
 "also": [],
 "id": "2ba96b70647e"
-},
-{
-"title": "Ολυμπιακός - Ερυθρός Αστέρας: Η παρακάμερα των «ερυθρόλευκων»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2584472/olympiakos-erythros-asteras-i-parakamera-ton-erythroleykon",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T14:10+00:00",
-"sport": "basket",
-"snippet": "Δείτε την παρακάμερα του Ολυμπιακού από την ήττα από τον Ερυθρό Αστέρα.",
-"also": [],
-"id": "eb65575c6df5"
 }
 ]
 }

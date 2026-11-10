@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-10T21:27:34+00:00",
+ "checked_at": "2026-11-10T21:42:42+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-10T21:10"
+     "newest": "2026-11-10T21:38"
     }
    ]
   },
@@ -42,7 +42,7 @@
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-10T21:21"
+     "newest": "2026-11-10T21:41"
     }
    ]
   },
@@ -51,13 +51,13 @@
    "feeds": [
     "https://www.novasports.gr/feed"
    ],
-   "items": 3,
+   "items": 4,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-10T21:23"
+     "newest": "2026-11-10T21:38"
     }
    ]
   },
@@ -109,18 +109,18 @@
     "https://sportime.gr/feed",
     "https://sportime.gr/feed/news"
    ],
-   "items": 11,
+   "items": 12,
    "errors": [],
    "diag": [
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-10T21:05"
+     "newest": "2026-11-10T21:25"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-10T21:05"
+     "newest": "2026-11-10T21:25"
     }
    ]
   },
@@ -136,7 +136,7 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-10T21:05"
+     "newest": "2026-11-10T21:35"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
