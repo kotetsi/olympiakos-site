@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-10T18:40:59+00:00",
+"generated_at": "2026-11-10T18:56:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Απόλυτος Ολυμπιακός, 15-10 τη Σαμπαντέλ",
+"url": "https://www.novasports.gr/sport/alla-spor/event/europi-alla-spor/article/15224518/apolytos-olympiakos-15-10-ti-sampantel/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-10T18:54+00:00",
+"sport": "polo",
+"snippet": "Εντυπωσιακός σε άμυνα και επίθεση για δύο οκτάλεπτα, ο Ολυμπιακός επιβλήθηκε ευκολότερα απ΄όσο δείχνει το τελικό 15-10 της Σαμπαντέλ στο κολυμβητήριο “Πέτρος…",
+"also": [],
+"id": "9c181dfb8c0d"
+},
+{
+"title": "Ολυμπιακός: Ο νέος ρόλος του Φουστέρ, οι δανεικοί και η εμπειρία που φέρνει από την Ισπανία",
+"url": "https://www.sdna.gr/podosfairo/1485460_olympiakos-o-neos-rolos-toy-foyster-oi-daneikoi-kai-i-empeiria-poy-fernei-apo",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-10T18:51+00:00",
+"sport": "football",
+"snippet": "Ο Νταβίντ Φουστέρ επέστρεψε στον Ολυμπιακό, αυτή τη φορά σε διαφορετικό ρόλο, με αντικείμενο την ανάπτυξη νεαρών ποδοσφαιριστών και την παρακολούθηση...",
+"also": [],
+"id": "1079ce3fb5dd"
+},
+{
+"title": "Ο Ολυμπιακός παρέμεινε “απόλυτος” και πάτησε κορυφή στο LEN Champions League",
+"url": "https://www.ertsports.gr/alla-spor/polo/o-olympiakos-paremeine-apolytos-kai-patise-koryfi-sto-len-champions-league/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-10T18:50+00:00",
+"sport": "polo",
+"snippet": "Εντυπωσιακός σε άμυνα και επίθεση για δύο οκτάλεπτα, ο Ολυμπιακός επιβλήθηκε ευκολότερα απ΄όσο δείχνει το τελικό 15-10 της Σαμπαντέλ στο κολυμβητήριο “Πέτρος…",
+"also": [],
+"id": "0b347a063d8f"
+},
+{
+"title": "Ολυμπιακός - Σαμπαντέλ 15-10: Εντυπωσιακοί οι «ερυθρόλευκοι» και κορυφή στο Champions League",
+"url": "https://www.gazzetta.gr/polo/len-champions-league/2585427/olympiakos-sampantel-15-10-entyposiakoi-oi-erythroleykoi-kai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-10T18:43+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός για ένα οκτάλεπτο προβληματίστηκε με αντίπαλο τη Σαμπαντέλ, μετά πάτησε... γκάζι επικράτησε με 15-10 στον Πειραιά και ξεπέρασε την ισπανική ομάδα…",
+"also": [],
+"id": "06c64f649bd1"
+},
 {
 "title": "Το πρόγραμμα της 4ης αγωνιστικής, στην ΕΡΤ τα ντέρμπι Παναθηναϊκός-Ολυμπιακός και ΠΑΟΚ-Άρης",
 "url": "https://www.ertsports.gr/bolei/volley-league/to-programma-tis-4is-agonistikis-stin-ert-ta-ntermpi-panathinaikos-olympiakos-kai-paok-aris/",
@@ -4969,54 +5017,6 @@
 "snippet": "Ο Ολυμπιακός σουτάρει πολλές βολές τα τελευταία χρόνια στη EuroLeague. Κορυφαία ομάδα είναι, άρα αποτελεί δύσκολο task να την σταματήσεις. Για κάθε...",
 "also": [],
 "id": "bba9a7443caa"
-},
-{
-"title": "Η διαφωνία Πετρόπουλου-Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
-"url": "https://www.gazzetta.gr/football/superleague/2584453/i-diafonia-petropoyloy-mpakaki-sto-gazzetta-magazino-gia-olympiakos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T13:00+00:00",
-"sport": "football",
-"snippet": "Ο Αντώνης Πετρόπουλος και ο Μιχάλης Μπακάκης μίλησαν στο Gazzetta Magazino σχετικά με την αναμέτρηση του Ολυμπιακού κόντρα στον ΠΑΟΚ (8/11).",
-"also": [],
-"id": "dd70f978a278"
-},
-{
-"title": "Συνεχίζει απόλυτος ο Αθηναϊκός και απέναντι στον ΠΑΟΚ - Χτίζει δυνατό σερί ο Ολυμπιακός, καθαρίζοντας τον Άρη",
-"url": "http://www.sport-fm.gr/article/5159493",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-07T12:58+00:00",
-"sport": "basket",
-"snippet": "Ο Αθηναϊκός δείχνει ασταμάτητος στο πρωτάθλημα μπάσκετ γυναικών, διαλύοντας και τον ΠΑΟΚ με 99-63 για το 6/6, ενώ ο Ολυμπιακός δεν αντιμετώπισε κανένα απολύτως…",
-"also": [],
-"id": "70931be6f576"
-},
-{
-"title": "Ολυμπιακός – ΠΑΟΚ: Η αποστολή και οι επιστροφές",
-"url": "https://sportime.gr/podosfairo/olimpiakos-i-apofasis-algouathil-prin-apo-ton-paok-ti-allazi-stin-apostoli?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T12:11+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε την αποστολή για το ντέρμπι με τον ΠΑΟΚ, με τον Ιμανόλ Αλγουαθίλ να έχει ξανά στη διάθεσή του σημαντικές επιλογές.",
-"also": [],
-"id": "c29adc3d325b"
-},
-{
-"title": "Η ανάλυση του Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
-"url": "https://www.gazzetta.gr/football/2584444/i-analysi-toy-mpakaki-sto-gazzetta-magazino-gia-olympiakos-paok",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T12:09+00:00",
-"sport": "football",
-"snippet": "Ο Μιχάλης Μπακάκης ανέλυσε στο Gazzetta Magazino τα δυνατά σημεία, τόσο του Ολυμπιακού όσο και του ΠΑΟΚ, δίνοντας λίγες περισσότερες πιθανότητες στους…",
-"also": [],
-"id": "bbed8bae2b63"
 }
 ]
 }
