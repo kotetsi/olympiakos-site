@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T14:51:35+00:00",
+"generated_at": "2026-11-11T15:06:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ένα ναι ή ένα όχι: Ο Ολυμπιακός θέλει να ανοίξουν τα τηλέφωνα;",
+"url": "https://www.sdna.gr/mpasket/1485685_ena-nai-i-ena-ohi-o-olympiakos-thelei-na-anoixoyn-ta-tilefona",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-11T14:59+00:00",
+"sport": "basket",
+"snippet": "Επικοινωνιακά παιχνίδια, ανακοινώσεις, καταγγελίες, εκφραστές με κοινή ρητορική, φανέλες, όμως η πιο σοβαρή ερώτηση δεν απαντάται από κανέναν στον...",
+"also": [],
+"id": "a360c0ff2bab"
+},
+{
+"title": "Ολυμπιακός: Η UEFA αποθέωσε τον Φορτούνη (video)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15225406/olympiakos-i-uefa-apotheose-ton-fortouni-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T14:54+00:00",
+"sport": "football",
+"snippet": "Η UEFA αποθέωσε τον Κώστα Φορτούνη στα social media για μία κίνησή του στον εκτός έδρας αγώνα του Ολυμπιακού με τη Ρεν. Ματς στο οποίο οι «ερυθρόλευκοι» ήταν…",
+"also": [],
+"id": "e4dc77f8a835"
+},
 {
 "title": "Ολυμπιακός: Τα νεότερα για τον αντί-Μοντέρο",
 "url": "https://sportime.gr/basket/olimpiakos-pou-vriskete-to-thema-tou-anti-montero-i-dio-periptosis-pou-exetazonte?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5054,30 +5078,6 @@
 "snippet": "Το μεγάλο ντέρμπι Ολυμπιακού-ΠΑΟΚ δεσπόζει στο σημερινό πρόγραμμα της Stoiximan Super League, ενώ ο Παναθηναϊκός δοκιμάζεται κόντρα στον Ηρακλή για...",
 "also": [],
 "id": "b214e44073b1"
-},
-{
-"title": "Ολυμπιακός: Στο ραντάρ ο Βλαντιμίρ Σκρέτσιου",
-"url": "http://www.sport-fm.gr/article/5159645",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T06:55+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός παρακολουθεί την περίπτωση του Βλαντιμίρ Σκρέτσιου της Κραϊόβα, με τον 26χρονο Ρουμάνο να βρίσκεται στο μπλοκάκι των Πειραιωτών.",
-"also": [],
-"id": "9f8412bcc011"
-},
-{
-"title": "Η ΑΕΚ υποδέχεται τον Λεβαδειακό, δοκιμασία στο Καυτανζόγλειο για τον Παναθηναϊκό και φινάλε με ντέρμπι στο Φάληρο",
-"url": "https://www.ertsports.gr/super-league/i-aek-ypodexetai-ton-levadeiako-dokimasia-sto-kaytanzogleio-gia-ton-panathinaiko-kai-finale-me-ntermpi-sto-faliro/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T06:45+00:00",
-"sport": "football",
-"snippet": "Με πέντε αναμετρήσεις συνεχίζεται σήμερα, Κυριακή 8 Νοεμβρίου, η 10η αγωνιστική της Super League, με το ενδιαφέρον να κορυφώνεται το βράδυ στο \"Γ…",
-"also": [],
-"id": "47f5e6c6d7d4"
 }
 ]
 }
