@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T10:34:14+00:00",
+"generated_at": "2026-11-11T10:49:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τι είπε ο Μπαρτζώκας για Ντόρσεϊ και μεταγραφές ενόψει Ντουμπάι",
+"url": "https://www.sdna.gr/mpasket/1485610_olympiakos-ti-eipe-o-mpartzokas-gia-ntorsei-kai-metagrafes-enopsei-ntoympai",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-11T10:34+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει αύριο την Ντουμπάι (12/11, 21:15) στη SUNEL Arena, για την 11η αγωνιστική της Euroleague. Όταν ο Γιωργος Μπαρτζώκας...",
+"also": [],
+"id": "dc1afd5fbe44"
+},
 {
 "title": "Ολυμπιακός: Ο Βούτσεβιτς έπεσε στα 8,6 λεπτά",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-voutsevits-epese-sta-86-lepta-ti-simeni-afto-gia-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5045,18 +5057,6 @@
 "snippet": "Τα τελευταία νέα του ΠΑΟΚ ενόψει του ντέρμπι με τον Ολυμπιακό, όπως τα μετέφερε στον αέρα του bwinΣΠΟΡ FM 94,6 ο Δημήτρης Τσορμπατζόγλου.",
 "also": [],
 "id": "abd9ed209306"
-},
-{
-"title": "Ολυμπιακός: Δεν έπεισε ο Ασάντ Αλ Χαμλάουι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-den-epise-o-asant-al-chamlaoui?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T20:24+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός παρακολούθησε τον Ασάντ Αλ Χαμλάουι της Κραϊόβα, χωρίς να εντυπωσιαστεί από την απόδοσή του. Στο μικροσκόπιο είχε βρεθεί και ο Βλαντιμίρ Σκρέτσιου.",
-"also": [],
-"id": "d2389b87a18e"
 }
 ]
 }
