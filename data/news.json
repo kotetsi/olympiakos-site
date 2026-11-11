@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T19:09:44+00:00",
+"generated_at": "2026-11-11T19:24:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Επιστροφή του Γκουστάβο Σα στην Εθνική Ελπίδων της Πορτογαλίας",
+"url": "https://www.sdna.gr/podosfairo/1485739_olympiakos-epistrofi-toy-gkoystabo-sa-stin-ethniki-elpidon-tis-portogalias",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-11T19:13+00:00",
+"sport": "football",
+"snippet": "Στην Εθνική Ελπίδων της Πορτογαλίας επιστρέφει ο Γκουστάβο Σα, ο οποίος κλήθηκε εκτάκτως και θα απουσιάσει από τις προπονήσεις του Ολυμπιακού κατά τη...",
+"also": [],
+"id": "d0a0b59a4f96"
+},
 {
 "title": "Ολυμπιακός: Οι δοκιμές του Αλγουαθίλ στα χαφ και η ευκαιρία σε πέντε νεαρούς",
 "url": "https://www.sdna.gr/podosfairo/1485734_olympiakos-oi-dokimes-toy-algoyathil-sta-haf-kai-i-eykairia-se-pente-nearoys",
@@ -27,7 +39,7 @@
 "id": "c7481037fcb9"
 },
 {
-"title": "Τσανάκας: «Το χρονοδιάγραμμα και τι προβλέπεται για το νέο Καραϊσκάκης»",
+"title": "Τσανάκας: «Το χρονοδιάγραμμα και όσα προβλέπονται για το νέο Καραϊσκάκη»",
 "url": "http://www.sport-fm.gr/article/5160426",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -5066,18 +5078,6 @@
 "snippet": "Η ζωή του Ολυμπιακού για τρίτη σερί εβδομάδα ήταν κόντρα στα πάσης φύσεως προβλήματα. Δόκτωρ Τζέκιλ για πέντε ματς, κατοστάρες και jogo bonito, μαλθακή άμυνα…",
 "also": [],
 "id": "c12a50eee56f"
-},
-{
-"title": "Ολυμπιακός – ΠΑΟΚ: Ο Ιμανόλ, ο Λίσι και το «θρίλερ» της Ισπανίας που τους συνδέει!",
-"url": "https://www.gazzetta.gr/football/superleague/2584431/olympiakos-paok-o-imanol-o-lisi-kai-thriler-tis-ispanias-poy-toys",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T08:00+00:00",
-"sport": "football",
-"snippet": "Το αποψινό ντέρμπι ανάμεσα στον Ολυμπιακό και τον ΠΑΟΚ στο «Γ. Καραϊσκάκης» έχει μια ιδιαίτερη ισπανική ιστορία πίσω από τους δύο πάγκους. Ο Ιμανόλ Αλγουαθίλ…",
-"also": [],
-"id": "1c0f44fc6bd9"
 }
 ]
 }
