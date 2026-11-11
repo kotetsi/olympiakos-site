@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T14:36:26+00:00",
+"generated_at": "2026-11-11T14:51:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα νεότερα για τον αντί-Μοντέρο",
+"url": "https://sportime.gr/basket/olimpiakos-pou-vriskete-to-thema-tou-anti-montero-i-dio-periptosis-pou-exetazonte?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T14:33+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αναζητά τον αντικαταστάτη του Μοντέρο στη EuroLeague, με τους Τζόουνς και Μπάτλερ να βρίσκονται μεταξύ των περιπτώσεων που εξετάζονται.",
+"also": [],
+"id": "5881d189fd69"
+},
 {
 "title": "Ολυμπιακός: Ο Νικολακόπουλος υπέρ του Σα και οι αντιδράσεις",
 "url": "https://sportime.gr/podosfairo/olimpiakos-o-nikolakopoulos-iperaspistike-ton-sa-ke-i-opadi-tou-tin-epesan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -304,6 +316,13 @@
 "url": "https://www.sdna.gr/podosfairo/1485631_prostima-se-aek-olympiako-kai-panathinaiko",
 "title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
 "published": "2026-11-11T11:47+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2585635/super-league-prostima-se-aek-olympiako-kai-panathinaiko",
+"title": "Super League: Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
+"published": "2026-11-11T14:36+00:00"
 }
 ],
 "id": "11ae07d638b2"
@@ -5059,18 +5078,6 @@
 "snippet": "Με πέντε αναμετρήσεις συνεχίζεται σήμερα, Κυριακή 8 Νοεμβρίου, η 10η αγωνιστική της Super League, με το ενδιαφέρον να κορυφώνεται το βράδυ στο \"Γ…",
 "also": [],
 "id": "47f5e6c6d7d4"
-},
-{
-"title": "ΠΑΟΚ: Με «όπλο» το αήττητο σερί και τον Ζίβκοβιτς στο Καραϊσκάκη",
-"url": "http://www.sport-fm.gr/article/5159643",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T06:43+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ πηγαίνει στο αποψινό ντέρμπι με τον Ολυμπιακό έχοντας μείνει αήττητος στα πέντε τελευταία μεταξύ τους ματς και με τον Αντρίγια Ζίβκοβιτς να έχει…",
-"also": [],
-"id": "19a01a2bc5f4"
 }
 ]
 }
