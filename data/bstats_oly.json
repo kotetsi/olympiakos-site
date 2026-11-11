@@ -1,8 +1,8 @@
 {
 "source": "https://basketballstats.eu",
 "season": "2026-27",
-"fetched": "2026-11-11T06:01:58+00:00",
-"data_fetched": "2026-11-10T23:05:45.503Z",
+"fetched": "2026-11-11T12:05:08+00:00",
+"data_fetched": "2026-11-11T11:18:03.390Z",
 "last_round": 10,
 "team_slugs": {
 "OLY": "olympiakos",
@@ -7790,6 +7790,16 @@
 "slug": ""
 },
 {
+"name": "DORSEY, TYLER",
+"g": 5,
+"min": 18.4,
+"pts": 12.6,
+"reb": 1.6,
+"ast": 1.4,
+"pir": 12.0,
+"slug": ""
+},
+{
 "name": "FOURNIER, EVAN",
 "g": 7,
 "min": 24.8,
@@ -7850,6 +7860,16 @@
 "slug": ""
 },
 {
+"name": "DUNSTON, BRYANT",
+"g": 2,
+"min": 14.2,
+"pts": 4.0,
+"reb": 2.0,
+"ast": 1.5,
+"pir": 3.5,
+"slug": ""
+},
+{
 "name": "JOSEPH, CORY",
 "g": 9,
 "min": 16.1,
@@ -7877,6 +7897,36 @@
 "reb": 6.2,
 "ast": 0.8,
 "pir": 8.8,
+"slug": ""
+},
+{
+"name": "PLOTAS, NIKOLAOS",
+"g": 2,
+"min": 11.8,
+"pts": 1.0,
+"reb": 1.0,
+"ast": 0.0,
+"pir": 0.5,
+"slug": ""
+},
+{
+"name": "NETZIPOGLOU, OMIROS",
+"g": 2,
+"min": 7.1,
+"pts": 0.0,
+"reb": 1.5,
+"ast": 1.0,
+"pir": 0.0,
+"slug": ""
+},
+{
+"name": "KONCHAR, JOHN",
+"g": 1,
+"min": 19.8,
+"pts": 0.0,
+"reb": 3.0,
+"ast": 2.0,
+"pir": 1.0,
 "slug": ""
 }
 ],

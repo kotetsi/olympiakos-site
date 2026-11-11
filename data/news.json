@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T11:49:51+00:00",
+"generated_at": "2026-11-11T12:05:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Έτσι θα είναι το νέο ΣΕΦ!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15221304/olympiakos-etsi-tha-einai-to-neo-sef/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T12:00+00:00",
+"sport": "basket",
+"snippet": "Η παραχώρηση του Σταδίου Ειρήνης και Φιλίας στην ΚΑΕ Ολυμπιακός για τα επόμενα 49 χρόνια δεν συνιστά απλώς μια ιστορική δικαίωση και μια αγωνιστική …",
+"also": [],
+"id": "9299541c7855"
+},
+{
+"title": "Ολυμπιακός: Ο Γρηγορίου και η παγίδα της αναβολής",
+"url": "https://sportime.gr/olimpiakos/o-grigoriou-ke-i-pagida-tis-anavolis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T11:55+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός σκέφτεται την αναβολή με τον Άρη. Ο Γρηγορίου έχει κενό στα στόπερ και περιμένει ενίσχυση. Γιατί η μετάθεση ίσως αλλάξει τον αντίπαλο.",
+"also": [],
+"id": "1ddcc8d30e14"
+},
 {
 "title": "Ολυμπιακός: Το +4 του Νίστρουπ εξηγείται στο Καραϊσκάκη",
 "url": "https://sportime.gr/olimpiakos/to-4-tou-nistroup-exigite-sto-karaiskaki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -138,6 +162,13 @@
 "url": "http://www.sport-fm.gr/article/5160365",
 "title": "Πρόστιμα σε Παναθηναϊκό, Ολυμπιακό και ΑΕΚ για τη 10η αγωνιστική",
 "published": "2026-11-11T09:42+00:00"
+},
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1485631_prostima-se-aek-olympiako-kai-panathinaiko",
+"title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
+"published": "2026-11-11T11:47+00:00"
 }
 ],
 "id": "11ae07d638b2"
@@ -5033,30 +5064,6 @@
 "snippet": "Ο Κώστας Μανωλάς αποκαλύπτει το παρασκήνιο της αποχώρησής του από τον Ολυμπιακό, τη σχέση του με τον Βαγγέλη Μαρινάκη και τη στιγμή που, όπως λέει,...",
 "also": [],
 "id": "245735fb6509"
-},
-{
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (8/11): Πού θα δούμε Ολυμπιακός-ΠΑΟΚ, Ηρακλής-Παναθηναϊκός, ΑΕΚ-Λεβαδειακός και ντέρμπι σε μπάσκετ, βόλεϊ",
-"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1484631_oi-athlitikes-metadoseis-tis-imeras-8/11-poy-tha-doyme",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T05:33+00:00",
-"sport": "basket",
-"snippet": "Τα ματς για την 10η αγωνιστική στη Super League, με κορυφαίο το ντέρμπι Ολυμπιακός-ΠΑΟΚ, οι αναμετρήσεις της Greek Basketball League, ο 43ος...",
-"also": [],
-"id": "49715e818da7"
-},
-{
-"title": "Ολυμπιακός – ΠΑΟΚ: Εκπλήξεις στις ενδεκάδες",
-"url": "https://sportime.gr/protoselido-sportime/protoselido-sportime-811-olimpiakos-paok-erchonte-ekplixis-stis-endekades?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T22:37+00:00",
-"sport": "football",
-"snippet": "Ολυμπιακός – ΠΑΟΚ την Κυριακή στο Καραϊσκάκης. Οι επιστροφές του Αλγουαθίλ και το σχέδιο του Λίσι με τρεις στόπερ και τον Ζίβκοβιτς σε νέο ρόλο.",
-"also": [],
-"id": "293dc474e871"
 }
 ]
 }
