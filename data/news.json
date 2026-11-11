@@ -1,18 +1,18 @@
 {
-"generated_at": "2026-11-11T09:03:25+00:00",
+"generated_at": "2026-11-11T09:18:32+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός-Ντουμπάι BC: Οι διαιτητές του αγώνα",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15225125/olympiakos-ntoumpai-bc-oi-diaitites-tou-agona/",
-"source": "novasports",
-"source_name": "Novasports",
+"title": "Ανακοινώθηκαν οι διαιτητές του Ολυμπιακός - Ντουμπάι",
+"url": "https://www.sdna.gr/mpasket/1485585_anakoinothikan-oi-diaitites-toy-olympiakos-ntoympai",
+"source": "sdna",
+"source_name": "SDNA",
 "official": false,
-"published": "2026-11-11T08:57+00:00",
+"published": "2026-11-11T09:03+00:00",
 "sport": "basket",
-"snippet": "Γνωστοί έγιναν από τη EuroLeague οι διαιτητές που θα διευθύνουν την εντός έδρας αναμέτρηση του Ολυμπιακού απέναντι στην Ντουμπάι BC, στο πλαίσιο της 11ης…",
+"snippet": "Η EuroLeague ανακοίνωσε τους διαιτητές της αναμέτρησης Ολυμπιακός–Ντουμπάι BC, η οποία θα διεξαχθεί την Πέμπτη στη SUNEL Arena (21:15), στο πλαίσιο...",
 "also": [],
-"id": "de0c46f8045b"
+"id": "3821fe29e67e"
 },
 {
 "title": "Ολυμπιακός Μεταγραφές: Το νέο όνομα που ήρθε στην επιφάνεια",
@@ -25,6 +25,26 @@
 "snippet": "Ο Ολυμπιακός ψάχνει συνέχεια στην αγορά για παίκτες και προέκυψε ένα νέο όνομα",
 "also": [],
 "id": "5251e08fbc20"
+},
+{
+"title": "Ολυμπιακός-Ντουμπάι BC: Οι διαιτητές του αγώνα",
+"url": "http://www.sport-fm.gr/article/5160351",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-11T08:45+00:00",
+"sport": "general",
+"snippet": "Δείτε τους διαιτητές του αγώνα Ολυμπιακός-Ντουμπάι BC.",
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15225125/olympiakos-ntoumpai-bc-oi-diaitites-tou-agona/",
+"title": "Ολυμπιακός-Ντουμπάι BC: Οι διαιτητές του αγώνα",
+"published": "2026-11-11T08:57+00:00"
+}
+],
+"id": "c8195250460f"
 },
 {
 "title": "Βλάχος στο Gazzetta Magazino by Elabet: «Τον Βαρδινογιάννη δεν τον ένοιαζε τίποτα, μόνο να κερδίσει τον Ολυμπιακό!»",
@@ -5029,18 +5049,6 @@
 "snippet": "Η ομάδα του Παλαιού Φαλήρου σόκαρε τους «ερυθρόλευκους» και νίκησε με 3-0 μέσα στο «Μελίνα Μερκούρη», μια εβδομάδα πριν το ντέρμπι αιωνίων στο Μετς",
 "also": [],
 "id": "ea5ba3fc09f6"
-},
-{
-"title": "Μαρούσι: Χωρίς Ιορδάνου με Ολυμπιακό, τελευταία στιγμή για Τζάκσον - Γουόκερ: «Κανένα ματς δεν έχει κριθεί πριν γίνει»",
-"url": "http://www.sport-fm.gr/article/5159573",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-07T19:05+00:00",
-"sport": "general",
-"snippet": "Με μία σίγουρη απουσία και έναν αμφίβολο παίκτη θα παραταχθεί το Μαρούσι κόντρα στον Ολυμπιακό, με τον Τζόρνταν Γουόκερ να δηλώνει πως η ομάδα των βορείων…",
-"also": [],
-"id": "623c7e582e96"
 }
 ]
 }
