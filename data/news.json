@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T15:21:51+00:00",
+"generated_at": "2026-11-11T15:37:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στα 250 εκατ. ευρώ το νέο «Γ. Καραϊσκάκης» – Όλες οι λεπτομέρειες του μεγάλου έργου",
+"url": "https://www.metrosport.gr/olympiakos-sta-250-ekat-eyro-to-neo-g-karaiskakis-oles-oi-leptomereies-toy-megaloy-ergoy-1333190",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-11T15:35+00:00",
+"sport": "football",
+"snippet": "Ένα σημαντικό βήμα για τη ριζική ανακατασκευή του «Γεώργιος Καραϊσκάκης» έγινε την Τετάρτη (11/11), καθώς η Βουλή ενέκρινε τη νομοθετική διάταξη που ...",
+"also": [],
+"id": "028686d11d4a"
+},
+{
+"title": "Ολυμπιακός: Τα επόμενα βήματα για το νέο «Γ. Καραϊσκάκης»",
+"url": "https://www.gazzetta.gr/football/superleague/2585655/olympiakos-ta-epomena-bimata-gia-neo-karaiskaki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-11T15:23+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης εξηγεί ποια είναι τα επόμενα βήματα για το μεγάλο πρότζεκτ του Ολυμπιακού - Η περιβαλλοντική αδειοδότηση, η οικοδομική άδεια και η τυπική…",
+"also": [],
+"id": "cfe58b03536d"
+},
 {
 "title": "Ένα ναι ή ένα όχι: Ο Ολυμπιακός θέλει να ανοίξουν τα τηλέφωνα;",
 "url": "https://www.sdna.gr/mpasket/1485685_ena-nai-i-ena-ohi-o-olympiakos-thelei-na-anoixoyn-ta-tilefona",
@@ -5054,30 +5078,6 @@
 "snippet": "Ο Ολυμπιακός θέλει απόψε να σπάσει μία αρνητική επιθετική παράδοση στο Καραϊσκάκη απέναντι στον ΠΑΟΚ, ποντάροντας και στον ανεβασμένο Ζέλσον Μάρτινς.",
 "also": [],
 "id": "224797e2adf4"
-},
-{
-"title": "Σημαντικά παιχνίδια σε Ρέντη και Καλλιθέα από την ΕΡΤ2 ΣΠΟΡ, στην Καρδίτσα η πρωτοπόρος Μαρκό",
-"url": "https://www.ertsports.gr/podosfairo/super-league-2/simantika-paixnidia-se-renti-kai-kallithea-apo-tin-ert2-spor-stin-karditsa-i-protoporos-marko/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T07:04+00:00",
-"sport": "football",
-"snippet": "Πλούσιο το κυριακάτικο (8/11) πρόγραμμα για την 10η αγωνιστική του πρωταθλήματος της Super League 2. Η ΕΡΤ θα σας μεταφέρει ζωντανά τους αγώνες Ολυμπιακός Β' …",
-"also": [],
-"id": "1ac8ca84c8c2"
-},
-{
-"title": "Δυνατό crash test στο Καραϊσκάκη - Δοκιμασία στο Καυτανζόγλειο για τον Παναθηναϊκό",
-"url": "https://www.sdna.gr/podosfairo/1484638_dynato-crash-test-sto-karaiskaki-dokimasia-sto-kaytanzogleio-gia-ton",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T07:03+00:00",
-"sport": "football",
-"snippet": "Το μεγάλο ντέρμπι Ολυμπιακού-ΠΑΟΚ δεσπόζει στο σημερινό πρόγραμμα της Stoiximan Super League, ενώ ο Παναθηναϊκός δοκιμάζεται κόντρα στον Ηρακλή για...",
-"also": [],
-"id": "b214e44073b1"
 }
 ]
 }
