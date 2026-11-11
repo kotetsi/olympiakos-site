@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T08:33:07+00:00",
+"generated_at": "2026-11-11T08:48:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βλάχος στο Gazzetta Magazino by Elabet: «Τον Βαρδινογιάννη δεν τον ένοιαζε τίποτα, μόνο να κερδίσει τον Ολυμπιακό!»",
+"url": "https://www.gazzetta.gr/football/superleague/2585552/blahos-sto-gazzetta-magazino-elabet-ton-bardinogianni-den-ton-enoiaze",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-11T08:30+00:00",
+"sport": "football",
+"snippet": "Ο Βαγγέλης Βλάχος φιλοξενήθηκε στο Gazzetta Magazino by Elabet και μίλησε για τη σχέση του με τον «Καπετάνιο», σημειώνοντας πως το μόνο που τον ένοιαζε ήταν να…",
+"also": [],
+"id": "beddb81655f6"
+},
 {
 "title": "Άρης: Με Ρίγα στο “Παλέ” για την επιστροφή στις ευρωπαϊκές νίκες πριν το ντέρμπι με Ολυμπιακό",
 "url": "https://www.eurohoops.net/el/eurocup-el/2033297/aris-me-riga-sto-pale-gia-tin-epistrofi-stis-evropaikes-nikes-prin-to-ntermpi-me-olimpiako/",
@@ -5029,18 +5041,6 @@
 "snippet": "Ο Τζόρνταν Ουόκερ σε δηλώσεις του ενόψει της αναμέτρησης του Αμαρουσίου με τον Ολυμπιακό, τόνισε πως η ομάδα του πρέπει να παρουσιάσει την καλύτερη...",
 "also": [],
 "id": "faf96a3c0be4"
-},
-{
-"title": "Ολυμπιακός: «Όχι» της Αρμάνι για Γκούντουριτς",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-pai-na-trelani-kosmo-ochi-tis-armani-gia-marko-gkountourits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T17:49+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξετάζει τον Μάρκο Γκούντουριτς για την περιφέρειά του, αλλά ο Λούκα Μπάνκι θέλει να τον κρατήσει στην Αρμάνι Μιλάνο. Τα δεδομένα της υπόθεσης.",
-"also": [],
-"id": "6afd50b8179f"
 }
 ]
 }
