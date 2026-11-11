@@ -1,7 +1,27 @@
 {
-"generated_at": "2026-11-11T09:48:49+00:00",
+"generated_at": "2026-11-11T10:03:58+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
+"url": "https://www.ertsports.gr/super-league/prostima-se-aek-olympiako-kai-panathinaiko/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-11T09:40+00:00",
+"sport": "football",
+"snippet": "Ενώπιον του αθλητικού δικαστή βρέθηκαν σήμερα (11/11) οι ΠΑΕ ΑΕΚ και Ολυμπιακού για παραβάσεις που καταγράφηκαν στα παιχνίδια της 10ης αγωνιστικής του…",
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160365",
+"title": "Πρόστιμα σε Παναθηναϊκό, Ολυμπιακό και ΑΕΚ για τη 10η αγωνιστική",
+"published": "2026-11-11T09:42+00:00"
+}
+],
+"id": "11ae07d638b2"
+},
 {
 "title": "Ολυμπιακός: Και λίγος πάγκος καλό κάνει…",
 "url": "https://www.gazzetta.gr/football/superleague/2585565/olympiakos-kai-ligos-pagkos-kalo-kanei",
@@ -5037,18 +5057,6 @@
 "snippet": "Στο πλαίσιο της 8ης αγωνιστικής της Futsal Super League ο ΠΑΟΚ αντιμετωπίζει την Κυριακή εκτός έδρας τον Ολυμπιακό Σαλαμίνας, ενώ το πρόγραμμα ...",
 "also": [],
 "id": "13187b918f57"
-},
-{
-"title": "Έκανε το μπαμ ο Φλοίσβος απέναντι στον Ολυμπιακό (highlights)",
-"url": "https://www.ertsports.gr/bolei/ekane-to-mpam-o-floisvos-apenanti-ston-olympiako-highlights/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-07T19:53+00:00",
-"sport": "volley",
-"snippet": "Ο Φλοίσβος Παλαιού Φαλήρου ήταν καταιγιστικός απέναντι στον Ολυμπιακό επικρατώντας με το εμφατικό 3-0 (20-25, 21-25, 24-26) πετυχαίνοντας ιστορική νίκη στο…",
-"also": [],
-"id": "b87a371f1461"
 }
 ]
 }
