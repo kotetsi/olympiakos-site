@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T21:34:40+00:00",
+"generated_at": "2026-11-11T21:49:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Νέο Καραϊσκάκη: Πότε θα μπει στο υπερσύγχρονο γήπεδο ο Ολυμπιακός – Όλα όσα πρέπει να ξέρετε",
+"url": "https://sportday.gr/podosfairo/364959_neo-karaiskaki-pote-tha-mpei-sto-ypersygchrono-gipedo-o-olympiakos-ola-osa-prepei-na-kserete.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T21:43+00:00",
+"sport": "football",
+"snippet": "Η έγκριση της νομοθετικής ρύθμισης από τη Βουλή για την πλήρη αναμόρφωση του Καραϊσκάκη ανοίγει τον δρόμο για τη μεταφορά του Ολυμπιακού σε ένα υπερσύγχρονο…",
+"also": [],
+"id": "5d3f001c89be"
+},
+{
+"title": "Κωστούλας: Αποθέωση από θρύλο της Γιουνάιτεντ - «Τι παίκτης είναι αυτός!»",
+"url": "https://www.metrosport.gr/kostoylas-apotheosi-apo-thrylo-tis-gioynaitent-ti-paiktis-einai-aytos-1333142",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-11T21:35+00:00",
+"sport": "general",
+"snippet": "Αυτή τη φορά, τα εγκωμιαστικά σχόλια ήρθαν από ένα θρύλο της Μάντσεστερ Γιουνάιτεντ. Ο παλαίμαχος επιθετικός της αγγλικής ομάδας, Τέντι Σέριγχαμ, ...",
+"also": [],
+"id": "e068ee44816d"
+},
 {
 "title": "Ολυμπιακός: Αμοιβαίο ενδιαφέρον με Γιοακίμ Μέλε",
 "url": "https://sportime.gr/olimpiakos/o-olimpiakos-theli-ton-gioakim-mele-ke-ton-theli-ki-ekinos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5054,30 +5078,6 @@
 "snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
 "also": [],
 "id": "d9a23a37ddbd"
-},
-{
-"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 1-3",
-"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-1-3/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T10:20+00:00",
-"sport": "football",
-"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
-"also": [],
-"id": "a9cab9bab9a0"
-},
-{
-"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 2-3",
-"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-2-3/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T10:20+00:00",
-"sport": "football",
-"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
-"also": [],
-"id": "bceb058c5c27"
 }
 ]
 }
