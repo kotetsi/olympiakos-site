@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T06:16:58+00:00",
+"generated_at": "2026-11-11T06:32:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Άλλος στη θέση του θα είχε κλατάρει",
+"url": "https://sportday.gr/podosfairo/364914_olympiakos-allos-sti-thesi-tou-tha-eiche-klatarei.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T06:27+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ αναγέννησε μία πληγωμένη ομάδα και παρά τα εμπόδια και τα «δώρα» συνεχίζει με σθένος κόντρα σε όλους.",
+"also": [],
+"id": "06c959514ffe"
+},
+{
+"title": "ΑΕΚ, Ολυμπιακός, Παναθηναϊκός: Ποιες ποινές προβλέπονται",
+"url": "https://sportime.gr/super-league/aek-olimpiakos-panathinaikos-pies-pines-provleponte?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T06:23+00:00",
+"sport": "football",
+"snippet": "ΑΕΚ και Ολυμπιακός καλούνται με διάταξη υποτροπής για πυροτεχνικά, ενώ ο Παναθηναϊκός για ρίψη αντικειμένου. Τι χρηματικές ποινές προβλέπει η ΕΠΟ.",
+"also": [],
+"id": "4b9e76aba002"
+},
 {
 "title": "Αποθέωσε Κωστούλα θρύλος της Μάντσεστερ Γιουνάιτεντ: «Τι παίκτης είναι αυτός, τον λατρεύω - Πάρτε τον»!",
 "url": "https://www.sdna.gr/podosfairo/1485555_apotheose-kostoyla-thrylos-tis-mantsester-gioynaitent-ti-paiktis-einai-aytos-ton",
@@ -5017,30 +5041,6 @@
 "snippet": "Ανακοινώθηκε η αποστολή του ΠΑΟΚ για το ματς με τον Ολυμπιακό (8/11, 21:00) στο «Γ. Καραϊσκάκης» για τη 10η αγωνιστική της Stoiximan Super League, με τον Τομ…",
 "also": [],
 "id": "c4bfcf1dc7e7"
-},
-{
-"title": "Ολυμπιακός – ΠΑΟΚ: Το σχέδιο του Αλγουαθίλ",
-"url": "https://sportime.gr/podosfairo/olimpiakos-eki-theli-na-chtipisi-ton-paok-o-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-07T16:14+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ ετοιμάζει το πλάνο του Ολυμπιακού για τον ΠΑΟΚ, με την αριστερή πλευρά, την απουσία Κένι και τον Ζίβκοβιτς στο επίκεντρο.",
-"also": [],
-"id": "dbbe856a6adc"
-},
-{
-"title": "Ολυμπιακός: Το σενάριο για τον Άντονι και τα «όργια» στην Αυστραλία (video)",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15218300/olympiakos-to-senario-gia-ton-antoni-kai-ta-orgia-stin-aystralia-video/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-07T16:03+00:00",
-"sport": "basket",
-"snippet": "Δεδομένα οι επιλογές παικτών αυτή την περίοδο είναι περιορισμένες, κάτι που κάνει το έργο του Ολυμπιακού δυσκολότερο, στην προσπάθεια να καλύψει το κενό που…",
-"also": [],
-"id": "76c6306ddfbc"
 }
 ]
 }
