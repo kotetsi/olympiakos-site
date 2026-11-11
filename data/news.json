@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T10:49:21+00:00",
+"generated_at": "2026-11-11T11:04:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΑΕΚ, Ολυμπιακός, ΠΑΟ: Πρόστιμα 13.000, 5.000, 2.000",
+"url": "https://sportime.gr/super-league/aek-olimpiakos-panathinaikos-vgikan-i-pines?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T10:56+00:00",
+"sport": "football",
+"snippet": "ΑΕΚ, Ολυμπιακός και Παναθηναϊκός τιμωρήθηκαν με 13.000, 5.000 και 2.000 ευρώ. Ο κανόνας που εξηγεί γιατί τα ποσά δεν αθροίζονται όπως φαίνονται στην απόφαση.",
+"also": [],
+"id": "b9ec379f9875"
+},
 {
 "title": "Ολυμπιακός: Τι είπε ο Μπαρτζώκας για Ντόρσεϊ και μεταγραφές ενόψει Ντουμπάι",
 "url": "https://www.sdna.gr/mpasket/1485610_olympiakos-ti-eipe-o-mpartzokas-gia-ntorsei-kai-metagrafes-enopsei-ntoympai",
@@ -5045,18 +5057,6 @@
 "snippet": "Χωρίς να ιδρώσουν ιδιαίτερα συνέχισαν με νίκες Ολυμπιακός και Πανιώνιος στο πρωτάθλημα. Οι \"κυανέρυθρες\" επικράτησαν με 3-0 (15-25, 11-25, 13-25) του Άρη, ενώ…",
 "also": [],
 "id": "89705d4e30e5"
-},
-{
-"title": "Τσορμπατζόγλου: «Ιστορική η συμφωνία με Ζίβκοβιτς - Η πιθανή ενδεκάδα με Ολυμπιακό»",
-"url": "http://www.sport-fm.gr/article/5159592",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-07T20:41+00:00",
-"sport": "general",
-"snippet": "Τα τελευταία νέα του ΠΑΟΚ ενόψει του ντέρμπι με τον Ολυμπιακό, όπως τα μετέφερε στον αέρα του bwinΣΠΟΡ FM 94,6 ο Δημήτρης Τσορμπατζόγλου.",
-"also": [],
-"id": "abd9ed209306"
 }
 ]
 }
