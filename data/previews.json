@@ -136,5 +136,19 @@
   "sport": "basket",
   "b_team": false,
   "comp": "EuroLeague 2026/27"
+ },
+ "2026-11-16-panionios-olympiakos-v": {
+  "title": "Πανιώνιος - Ολυμπιακός Β'",
+  "home": "Πανιώνιος",
+  "away": "Ολυμπιακός Β'",
+  "opp": "Πανιώνιος",
+  "oly_home": false,
+  "start": "2026-11-16T12:45+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "football",
+  "b_team": true,
+  "comp": ""
  }
 }
