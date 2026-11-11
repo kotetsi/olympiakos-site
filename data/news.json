@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T09:18:32+00:00",
+"generated_at": "2026-11-11T09:33:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Και λίγος πάγκος καλό κάνει…",
+"url": "https://www.gazzetta.gr/football/superleague/2585565/olympiakos-kai-ligos-pagkos-kalo-kanei",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-11T09:30+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta πολλά και διάφορα, για τέσσερις παίκτες του Ολυμπιακού, με αφορμή τα τελευταία παιχνίδια.",
+"also": [],
+"id": "93441f244f33"
+},
+{
+"title": "Ολυμπιακός: 3 νίκες, 8 βαθμοί – Πού πήγε ο ένατος;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-3-nikes-8-vathmi-pou-pige-o-enatos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T09:15+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός νίκησε και στα τρία ματς του Champions League πόλο, αλλά έχει οκτώ βαθμούς. Πώς η Γιάντραν πήρε βαθμό και τι σημαίνει για την πρόκριση.",
+"also": [],
+"id": "155c31bcc052"
+},
 {
 "title": "Ανακοινώθηκαν οι διαιτητές του Ολυμπιακός - Ντουμπάι",
 "url": "https://www.sdna.gr/mpasket/1485585_anakoinothikan-oi-diaitites-toy-olympiakos-ntoympai",
@@ -5025,30 +5049,6 @@
 "snippet": "Η ανάγκη του Ολυμπιακού για άμεση ενίσχυση στην περιφέρεια, μετά τον σοβαρό τραυματισμό του Γιαν Μοντέρο και τη διαφαινόμενη “ρήξη” στις σχέσεις των Πειραιωτών…",
 "also": [],
 "id": "463e840231fc"
-},
-{
-"title": "Ολυμπιακός – Φλοίσβος Παλαιού Φαλήρου 0-3: «Κυανόλευκος» περίπατος και πρώτο μεγάλο μπαμ στο πρωτάθλημα",
-"url": "https://www.gazzetta.gr/volleyball/volley-league/2584597/olympiakos-floisbos-palaioy-faliroy-0-3-kyanoleykos-peripatos-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-07T19:26+00:00",
-"sport": "volley",
-"snippet": "Η πρώτη μεγάλη έκπληξη της φετινής Novibet Volley League είναι γεγονός, με τον εξαιρετικό Φλοίσβο Παλαιού Φαλήρου να περνάει από το Ρέντη επικρατώντας με το…",
-"also": [],
-"id": "5e797bb9a827"
-},
-{
-"title": "Μέγα κάζο για Ολυμπιακό: Τον κέρδισε 3-0 ο Φλοίσβος μέσα στο Ρέντη!",
-"url": "https://www.sdna.gr/bolei/1484543_mega-kazo-gia-olympiako-ton-kerdise-3-0-o-floisbos-mesa-sto-renti",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T19:14+00:00",
-"sport": "football",
-"snippet": "Η ομάδα του Παλαιού Φαλήρου σόκαρε τους «ερυθρόλευκους» και νίκησε με 3-0 μέσα στο «Μελίνα Μερκούρη», μια εβδομάδα πριν το ντέρμπι αιωνίων στο Μετς",
-"also": [],
-"id": "ea5ba3fc09f6"
 }
 ]
 }
