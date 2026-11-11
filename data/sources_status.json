@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-11T23:35:46+00:00",
+ "checked_at": "2026-11-11T23:50:54+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-11T23:28"
+     "newest": "2026-11-11T23:43"
     }
    ]
   },
@@ -42,7 +42,7 @@
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-11T23:21"
+     "newest": "2026-11-11T23:40"
     }
    ]
   },
@@ -136,12 +136,12 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-11T23:05"
+     "newest": "2026-11-11T22:50"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-11T23:05"
+     "newest": "2026-11-11T23:40"
     }
    ]
   },
