@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-11T08:48:15+00:00",
+"generated_at": "2026-11-11T09:03:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός-Ντουμπάι BC: Οι διαιτητές του αγώνα",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15225125/olympiakos-ntoumpai-bc-oi-diaitites-tou-agona/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T08:57+00:00",
+"sport": "basket",
+"snippet": "Γνωστοί έγιναν από τη EuroLeague οι διαιτητές που θα διευθύνουν την εντός έδρας αναμέτρηση του Ολυμπιακού απέναντι στην Ντουμπάι BC, στο πλαίσιο της 11ης…",
+"also": [],
+"id": "de0c46f8045b"
+},
+{
+"title": "Ολυμπιακός Μεταγραφές: Το νέο όνομα που ήρθε στην επιφάνεια",
+"url": "https://sportday.gr/podosfairo/364929_olympiakos-metagrafes-to-neo-onoma-pou-irthe-stin-epifaneia.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T08:53+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ψάχνει συνέχεια στην αγορά για παίκτες και προέκυψε ένα νέο όνομα",
+"also": [],
+"id": "5251e08fbc20"
+},
 {
 "title": "Βλάχος στο Gazzetta Magazino by Elabet: «Τον Βαρδινογιάννη δεν τον ένοιαζε τίποτα, μόνο να κερδίσει τον Ολυμπιακό!»",
 "url": "https://www.gazzetta.gr/football/superleague/2585552/blahos-sto-gazzetta-magazino-elabet-ton-bardinogianni-den-ton-enoiaze",
@@ -5017,30 +5041,6 @@
 "snippet": "Με μία σίγουρη απουσία και έναν αμφίβολο παίκτη θα παραταχθεί το Μαρούσι κόντρα στον Ολυμπιακό, με τον Τζόρνταν Γουόκερ να δηλώνει πως η ομάδα των βορείων…",
 "also": [],
 "id": "623c7e582e96"
-},
-{
-"title": "Απολλώνιος - Ολυμπιακός 0-3: Συνέχισε με νική το σύνολο του Κοβάσεβιτς, τις εντυπώσεις οι γηπεδούχες",
-"url": "https://www.sdna.gr/bolei/1484538_apollonios-olympiakos-0-3-synehise-me-niki-synolo-toy-kobasebits-tis-entyposeis-oi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T18:41+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός επικράτησε με 3-0 σετ (27-29, 14-25,22-25) του Απολλώνιου, κατακτώντας τη νίκη, με την ομάδα του Κερατσινίου όμως να έχει βάζει δύσκολα...",
-"also": [],
-"id": "361f88bcaaa3"
-},
-{
-"title": "Ουόκερ ενόψει Ολυμπιακού: «Να παρουσιάσουμε την καλύτερη εκδοχή μας»",
-"url": "https://www.sdna.gr/mpasket/1484528_oyoker-enopsei-olympiakoy-na-paroysiasoyme-tin-kalyteri-ekdohi-mas",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-07T18:13+00:00",
-"sport": "basket",
-"snippet": "Ο Τζόρνταν Ουόκερ σε δηλώσεις του ενόψει της αναμέτρησης του Αμαρουσίου με τον Ολυμπιακό, τόνισε πως η ομάδα του πρέπει να παρουσιάσει την καλύτερη...",
-"also": [],
-"id": "faf96a3c0be4"
 }
 ]
 }
