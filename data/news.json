@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T10:03:58+00:00",
+"generated_at": "2026-11-11T10:19:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η κουβέντα για τα μπακ!",
+"url": "https://sportday.gr/podosfairo/364938_olympiakos-i-kouventa-gia-ta-mpak.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T10:14+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός δεν έχει πάρει αυτά που θέλει από τους ακραίους αμυντικούς του, πέραν του Μανώλη Σάλιακα",
+"also": [],
+"id": "d6a40e46f425"
+},
 {
 "title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
 "url": "https://www.ertsports.gr/super-league/prostima-se-aek-olympiako-kai-panathinaiko/",
@@ -5045,18 +5057,6 @@
 "snippet": "Ο Ολυμπιακός επέστρεψε στις νίκες επικρατώντας στο Κερατσίνι του Απολλώνιου με 3-0. Ντέρμπι στο πρώτο σετ, περίπατος στα άλλα δύο για τις «ερυθρόλευκες».",
 "also": [],
 "id": "c177f6bf1bc2"
-},
-{
-"title": "Με Ολυμπιακό Σαλαμίνας ο ΠΑΟΚ: Το πρόγραμμα της Futsal Super League",
-"url": "https://www.metrosport.gr/ssssssssss-1332562",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-07T20:09+00:00",
-"sport": "football",
-"snippet": "Στο πλαίσιο της 8ης αγωνιστικής της Futsal Super League ο ΠΑΟΚ αντιμετωπίζει την Κυριακή εκτός έδρας τον Ολυμπιακό Σαλαμίνας, ενώ το πρόγραμμα ...",
-"also": [],
-"id": "13187b918f57"
 }
 ]
 }
