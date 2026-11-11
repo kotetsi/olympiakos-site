@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T07:02:22+00:00",
+"generated_at": "2026-11-11T07:17:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το πλάνο του Αλγκουαθίλ στη διακοπή",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15225073/olympiakos-to-plano-tou-algkouathil-sti-diakopi/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T07:03+00:00",
+"sport": "football",
+"snippet": "Παρά την απουσία έντεκα διεθνών ποδοσφαιριστών, ο Βάσκος τεχνικός εστιάζει στην ατομική βελτίωση των παικτών που παραμένουν στη βάση και στην αφομοίωση της…",
+"also": [],
+"id": "87253153683d"
+},
 {
 "title": "Ολυμπιακός: Άλλος στη θέση του θα είχε κλατάρει",
 "url": "https://sportday.gr/podosfairo/364914_olympiakos-allos-sti-thesi-tou-tha-eiche-klatarei.html",
@@ -5029,18 +5041,6 @@
 "snippet": "Ο Ολυμπιακός μπορεί να μην κατάφερε να ολοκληρώσει μία μεγάλη ανατροπή κόντρα στον Ερυθρό Αστέρα, όμως δεν δείχνει να πτοείται από το αποτέλεσμα. Η...",
 "also": [],
 "id": "09ec2ccdc209"
-},
-{
-"title": "ΠΑΟΚ: Μέσα ο Λούσε κόντρα στον Ολυμπιακό",
-"url": "https://sportday.gr/podosfairo/364548_paok-mesa-o-louse-kontra-ston-olympiako.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-07T16:19+00:00",
-"sport": "football",
-"snippet": "Ανακοινώθηκε η αποστολή του ΠΑΟΚ για το ματς με τον Ολυμπιακό (8/11, 21:00) στο «Γ. Καραϊσκάκης» για τη 10η αγωνιστική της Stoiximan Super League, με τον Τομ…",
-"also": [],
-"id": "c4bfcf1dc7e7"
 }
 ]
 }
