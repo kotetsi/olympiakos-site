@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T13:05:33+00:00",
+"generated_at": "2026-11-11T13:20:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Καθοριστική εξέλιξη για το νέο “Καραϊσκάκης”",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15225293/olympiakos-kathoristiki-ekseliksi-gia-to-neo-karaiskakis/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T13:13+00:00",
+"sport": "football",
+"snippet": "Στο σύνολό του ψηφίστηκε το νομοσχέδιο του Υπουργείου Περιβάλλοντος και Ενέργειας, στο οποίο περιλαμβάνεται το άρθρο 83 με τις ρυθμίσεις για την υλοποίηση του…",
+"also": [],
+"id": "81906946e207"
+},
 {
 "title": "Ολυμπιακός: Ψηφίστηκε η νομοθετική ρύθμιση για το Νέο Καραϊσκάκη",
 "url": "https://sportday.gr/podosfairo/364952_olympiakos-psifistike-i-nomothetiki-rythmisi-gia-to-neo-karaiskaki.html",
@@ -54,6 +66,13 @@
 "url": "https://www.ertsports.gr/podosfairo/olympiakos-yperpsifistike-i-rythmisi-gia-to-neo-g-karaiskakis/",
 "title": "Ολυμπιακός: Υπερψηφίστηκε η ρύθμιση για το νέο “Γ. Καραϊσκάκης”",
 "published": "2026-11-11T12:52+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2585621/olympiakos-psifistike-i-rythmisi-gia-neo-g-karaiskakis",
+"title": "Ολυμπιακός: Ψηφίστηκε η ρύθμιση για το νέο «Γ. Καραϊσκάκης»",
+"published": "2026-11-11T13:06+00:00"
 }
 ],
 "id": "2bf8f07508e8"
@@ -5052,18 +5071,6 @@
 "snippet": "O Παναγιώτης Φασούλας εξαπολύει νέα ολομέτωπη επίθεση στην ηγεσία της ΕΟΚ, περιγράφοντας ένα ελληνικό μπάσκετ βυθισμένο σε βαθιά κρίση αξιοπιστίας.",
 "also": [],
 "id": "0a43e0c85227"
-},
-{
-"title": "Ολυμπιακός-ΠΑΟΚ: Με φόρα οι «ερυθρόλευκοι» κόντρα στον λαβωμένο Δικέφαλο",
-"url": "http://www.sport-fm.gr/article/5159623",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T06:40+00:00",
-"sport": "general",
-"snippet": "Οι Πειραιώτες θέλουν να συνεχίσουν την ανοδική τους πορεία και να εκμεταλλευτούν την έδρα τους, την ώρα που ο ΠΑΟΚ έχει ταξιδέψει στο Φάληρο με αρκετές…",
-"also": [],
-"id": "d8bc50b17412"
 }
 ]
 }
