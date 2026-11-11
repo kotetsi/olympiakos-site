@@ -1,7 +1,103 @@
 {
-"generated_at": "2026-11-11T20:10:23+00:00",
+"generated_at": "2026-11-11T21:19:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Λιντέλ: «Σαν να παίζαμε σε... πρεμιέρα - Ανυπομονώ για το ματς κόντρα στον Ολυμπιακό»",
+"url": "https://www.gazzetta.gr/basketball/eurocup/2585744/lintel-san-na-paizame-se-premiera-anypomono-gia-mats-kontra-ston",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-11T21:14+00:00",
+"sport": "basket",
+"snippet": "Διαβάστε τις δηλώσεις του Ι Τζέι Λίντελ μετά την επικράτηση του Άρη κόντρα στη Ρίγα Ζέλι.",
+"also": [],
+"id": "894464661ea8"
+},
+{
+"title": "Μόργκαν: «Να αποδείξουμε ότι είμαστε πολύ καλή ομάδα κόντρα και στον Ολυμπιακό»",
+"url": "https://www.sdna.gr/mpasket/1485766_morgkan-na-apodeixoyme-oti-eimaste-poly-kali-omada-kontra-kai-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-11T21:04+00:00",
+"sport": "basket",
+"snippet": "O Ματ Μόργκαν μετά την νίκη του Άρη επί της Ρίγα Ζέλι μίλησε στην NOVA και δεν έκρυψε την ανυπομονησία του για την αναμέτρηση με τον Ολυμπιακό.",
+"also": [],
+"id": "13905d04f6e7"
+},
+{
+"title": "Ο Μοναστηρλής κέρδισε νέο συμβόλαιο στο Καραϊσκάκης",
+"url": "https://sportime.gr/paok/paok-o-dimitris-monastirlis-kerdise-neo-simvoleo-sto-karaiskakis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T21:00+00:00",
+"sport": "football",
+"snippet": "Ο ΠΑΟΚ σχεδιάζει να ανανεώσει το συμβόλαιο του Δημήτρη Μοναστηρλή με αυξημένες αποδοχές, μετά την εμφάνισή του στο Καραϊσκάκης απέναντι στον Ολυμπιακό.",
+"also": [],
+"id": "95e18cb507eb"
+},
+{
+"title": "Άρης: Η δήλωση Σπανούλη μετά τη Ρίγα και η ανυπομονησία του Λιντέλ για το ματς με τον Ολυμπιακό",
+"url": "https://sportday.gr/basket/364991_aris-i-dilosi-spanouli-meta-ti-riga-kai-i-anypomonisia-tou-lintel-gia-to-mats-me-ton-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T20:58+00:00",
+"sport": "basket",
+"snippet": "Τι δήλωσαν οι πρωταγωνιστές του Άρη...",
+"also": [],
+"id": "91630c039cb4"
+},
+{
+"title": "Μόργκαν: “Ανυπομονώ να παίξω απέναντι στον Ολυμπιακό” (video)",
+"url": "https://www.novasports.gr/sport/mpasket/event/diethneis-eurocup-mpasket/article/15225858/morgkan-anypomono-na-paikso-apenanti-ston-olympiako-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-11T20:33+00:00",
+"sport": "basket",
+"snippet": "Αναλυτικά όσα είπε ο Μόργκαν στον Ευγένη Δαδαλιάρα: Για τη νίκη επί της Ρίγα: «Ήταν μια σπουδαία νίκη. Νομίζω ότι ξεκινήσαμε δυναμικά, παίξαμε με ένταση και ως…",
+"also": [],
+"id": "7d54ca33e91b"
+},
+{
+"title": "Ολυμπιακός: Στη λίστα ο Ολεξάντρ Ρόμαντσουκ",
+"url": "https://sportime.gr/olimpiakos/olympiakos-oleksandr-romanchuk-kraiova?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T20:20+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός εξετάζει τον Ολεξάντρ Ρόμαντσουκ της Κραϊόβα. Το συμβόλαιο, η αξία των 2,5 εκατ. ευρώ και οι άλλοι ποδοσφαιριστές που παρακολουθεί.",
+"also": [],
+"id": "90f45974e408"
+},
+{
+"title": "Πετρούσεφ: «Δεν υπήρξε κάποια παρεξήγηση με τον Ολυμπιακό, γιατί να μην επιστρέψω;»",
+"url": "https://www.ertsports.gr/mpasket/euroleague/petrousef-den-ypirkse-kapoia-pareksigisi-me-ton-olympiako-giati-na-min-epistrepso/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-11T20:20+00:00",
+"sport": "basket",
+"snippet": "Σε συνέντευξη που παραχώρησε στο \"SKWEEK\", ο Φιλίπ Πετρούσεφ αναφέρθηκε στη θητεία του στον Ολυμπιακό και στον Γιώργο Μπαρτζώκα, αφήνοντας ανοιχτό το…",
+"also": [],
+"id": "24c255e6fe7f"
+},
+{
+"title": "Ολυμπιακός: Στο στόχαστρο ο Κάρλος Μόρα",
+"url": "https://sportime.gr/olimpiakos/olympiakos-carlos-mora-kraiova?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-11T20:09+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός παρακολουθεί ποδοσφαιριστές της Κραϊόβα, με τον Κάρλος Μόρα να ξεχωρίζει. Το συμβόλαιο, η αξία και οι επιδόσεις του Κοσταρικανού.",
+"also": [],
+"id": "be6ce781cd28"
+},
 {
 "title": "Πετρούσεφ για Μπαρτζώκα: «Είπε κάποια που δεν είναι αλήθεια- Γι' αυτό έφυγα από τον Ολυμπιακό!» (vid)",
 "url": "https://www.sdna.gr/mpasket/1485707_petroysef-gia-mpartzoka-eipe-kapoia-poy-den-einai-alitheia-gi-ayto-efyga-apo-ton",
@@ -4982,102 +5078,6 @@
 "snippet": "Ο Αντρίγια Ζίβκοβιτς επιστρέφει στο Καραϊσκάκης με 18 συμμετοχές σε γκολ απέναντι στον Ολυμπιακό και την ψυχολογία στα ύψη μετά τη συμφωνία για νέο συμβόλαιο…",
 "also": [],
 "id": "c450c76ffe79"
-},
-{
-"title": "Ολυμπιακός: Οι τρεις προειδοποιητικές «βολές» του ΠΑΟΚ μέσα σε 13 μήνες!",
-"url": "https://www.gazzetta.gr/football/superleague/2584685/olympiakos-oi-treis-proeidopoiitikes-boles-toy-paok-mesa-se-13-mines",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T09:38+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr με πρόσφατα παραδείγματα τους λόγους που στον Ολυμπιακό δεν πρέπει να αισθάνονται ήσυχοι ενόψει της…",
-"also": [],
-"id": "c4040642655d"
-},
-{
-"title": "Νικολακόπουλος: «Η πιθανή ενδεκάδα, το αβαντάζ και το ντεζαβαντάζ του Ολυμπιακού»",
-"url": "http://www.sport-fm.gr/article/5159699",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T09:33+00:00",
-"sport": "general",
-"snippet": "Ακούστε το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο στον bwinΣΠΟΡ FM 94,6.",
-"also": [],
-"id": "774027cdefcb"
-},
-{
-"title": "Ολυμπιακός: Αρέσει στους Πειραιώτες ο Σκρέτσιου",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15219677/olympiakos-aresei-stous-peiraiotes-o-skretsiou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-08T09:19+00:00",
-"sport": "football",
-"snippet": "Σύμφωνα με δημοσιεύματα του ρουμανικού Τύπου, ο ποδοσφαιριστής της Κραϊόβα βρίσκεται στο μεταγραφικό στόχαστρο των Πειραιωτών, οι οποίοι εξετάζουν το…",
-"also": [],
-"id": "3ca06f865de5"
-},
-{
-"title": "Superbet League 2: Κυριακή με ντέρμπι κορυφής, ερυθρόλευκες μάχες και πέντε δυνατές αναμετρήσεις!",
-"url": "https://www.sdna.gr/stoihima/1484657_superbet-league-2-kyriaki-me-ntermpi-koryfis-erythroleykes-mahes-kai-pente-dynates",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T09:10+00:00",
-"sport": "general",
-"snippet": "Το πρωτάθλημα της",
-"also": [],
-"id": "c47a1d56fce3"
-},
-{
-"title": "Πρωινός Τύπος (8/11): «Στον ρυθμό του... Νιστρουπισμού ο κόσμος του Παναθηναϊκού - Μεγάλο το διακύβευμα για Ολυμπιακό και ΠΑΟΚ»",
-"url": "https://www.sdna.gr/podosfairo/1484654_proinos-typos-8/11-ston-rythmo-toy-nistroypismoy-o-kosmos-toy-panathinaikoy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T09:00+00:00",
-"sport": "football",
-"snippet": "Το μεγάλο ντέρμπι Ολυμπιακού-ΠΑΟΚ δεσπόζει στον Πρωινό Τύπο, με αναλύσεις για τους δύο μονομάχους. Ακόμη, η κρίσιμη έξοδος του Παναθηναϊκού στο...",
-"also": [],
-"id": "6dc94daa0552"
-},
-{
-"title": "ΠΑΟΚ: Ο Ζίβκοβιτς έχει εξελιχθεί σε «πονοκέφαλο» για τον Ολυμπιακό!",
-"url": "https://sportday.gr/podosfairo/364597_paok-o-zivkovits-echei-ekselichthei-se-ponokefalo-gia-ton-olympiako.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-08T08:52+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ δοκιμάζεται απόψε (8/11, 21:00) απέναντι στον Ολυμπιακό στο «Γ. Καραϊσκάκης», στο μεγάλο ντέρμπι της 10ης αγωνιστικής της Stoiximan Super League, με τον…",
-"also": [],
-"id": "90c9594d0530"
-},
-{
-"title": "Ολυμπιακός: Ευχαριστημένος με τους παίκτες ο Αλγουαθίλ",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15219666/olympiakos-eyxaristimenos-me-tous-paiktes-o-algouathil/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-08T08:39+00:00",
-"sport": "football",
-"snippet": "Ο Βάσκος τεχνικός ζήτησε από τους ποδοσφαιριστές του να συνεχίσουν τη σκληρή δουλειά και να έχουν την ίδια νοοτροπία και στη συνέχεια των αγωνιστικών…",
-"also": [],
-"id": "1c4b92eba7b5"
-},
-{
-"title": "Ολυμπιακός: Έτοιμος να δώσει συνέχεια στο σερί του",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15219619/olympiakos-etoimos-na-dosei-synexeia-sto-seri-tou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-08T08:21+00:00",
-"sport": "football",
-"snippet": "Οι «ερυθρόλευκοι» θέλουν να παρουσιάσουν το καλό τους αγωνιστικό πρόσωπο στον αγώνα του γηπέδου «Γ. Καραϊσκάκης» και να πάρει το τρίποντο. Ο Ιμανόλ Αλγουαθίλ…",
-"also": [],
-"id": "fafa832edb7c"
 }
 ]
 }
