@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-11T12:05:01+00:00",
+"generated_at": "2026-11-11T12:20:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η δήλωση του Μπαρτζώκα για τον Ντόρσεϊ",
+"url": "https://sportday.gr/basket/364945_olympiakos-i-dilosi-tou-mpartzoka-gia-ton-ntorsei.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-11T12:10+00:00",
+"sport": "basket",
+"snippet": "Τι απάντησε ο Γιώργος Μπαρτζώκας όταν ρωτήθηκε για τον τιμωρημένο Τάιλερ Ντόρσεϊ",
+"also": [],
+"id": "f48f851ac6af"
+},
 {
 "title": "Ολυμπιακός: Έτσι θα είναι το νέο ΣΕΦ!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15221304/olympiakos-etsi-tha-einai-to-neo-sef/",
@@ -5052,18 +5064,6 @@
 "snippet": "Ο ΠΑΟΚ σήμερα στις 21:00 (Metropolis 95.5-metrosport.gr) κοντράρεται στο Γ. Καραϊσκάκης με τον Ολυμπιακό και αν δει κανείς τη βαθμολογία θα καταλάβει ...",
 "also": [],
 "id": "3a6369d466f6"
-},
-{
-"title": "Μανωλάς: «Έκανα τα πάντα για τον Ολυμπιακό, δεν άξιζα αυτό το τέλος» (vid)",
-"url": "https://www.sdna.gr/podosfairo/1484633_manolas-ekana-ta-panta-gia-ton-olympiako-den-axiza-ayto-telos-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T06:00+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Μανωλάς αποκαλύπτει το παρασκήνιο της αποχώρησής του από τον Ολυμπιακό, τη σχέση του με τον Βαγγέλη Μαρινάκη και τη στιγμή που, όπως λέει,...",
-"also": [],
-"id": "245735fb6509"
 }
 ]
 }
