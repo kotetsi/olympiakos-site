@@ -1,12 +1,12 @@
 {
- "checked_at": "2026-11-11T04:16:09+00:00",
+ "checked_at": "2026-11-11T04:31:14+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
    "channel_id": "UCLf7YXb-0PWEeq59Z_q318A",
    "ok": false,
    "items": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   "olympiacos-bc": {
    "name": "Olympiacos BC",
@@ -37,9 +37,9 @@
   "novasports": {
    "name": "Novasports",
    "channel_id": "UCFuua6kISqtOetefT0fkqzA",
-   "ok": true,
+   "ok": false,
    "items": 0,
-   "error": ""
+   "error": "HTTP Error 404: Not Found"
   }
  }
 }
