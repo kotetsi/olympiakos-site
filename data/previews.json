@@ -122,5 +122,19 @@
   "sport": "basket",
   "b_team": false,
   "comp": "Stoiximan GBL 2026-27"
+ },
+ "2026-11-17-makampi-tel-aviv-olympiakos": {
+  "title": "Μακάμπι Τελ Αβίβ - Ολυμπιακός",
+  "home": "Μακάμπι Τελ Αβίβ",
+  "away": "Ολυμπιακός",
+  "opp": "Μακάμπι Τελ Αβίβ",
+  "oly_home": false,
+  "start": "2026-11-17T17:00+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  }
 }
