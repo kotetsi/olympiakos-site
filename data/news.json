@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T08:10:15+00:00",
+"generated_at": "2026-11-12T08:25:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Επιστροφή στις νίκες για τον Ολυμπιακό!",
+"url": "https://www.gazzetta.gr/basketball/2585798/epistrofi-stis-nikes-gia-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T08:17+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι για την 11η αγωνιστική της Euroleague θέλοντας να επιστρέψει στα θετικά αποτελέσματα.",
+"also": [],
+"id": "0d57ecf437f3"
+},
+{
+"title": "Ολυμπιακός: Θέλει να επιστρέψει στις νίκες",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15226453/olympiakos-thelei-na-epistrepsei-stis-nikes-4/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T08:10+00:00",
+"sport": "basket",
+"snippet": "Οι Πειραιώτες προέρχονται από την ήττα 62-57 από τον Ερυθρό Αστέρα και μετρούν πλέον 7-3 τη φετινή σεζόν. Ο Γιώργος Μπαρτζώκας θέλει από τους παίκτες του να…",
+"also": [],
+"id": "b47448a63060"
+},
 {
 "title": "Ολυμπιακός: Τρία βήματα απομένουν για να αρχίσουν τα έργα στο Καραϊσκάκη των 52.000 θέσεων",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-tria-vimata-apomenoun-gia-na-archisoun-ta-erga-sto-karaiskaki-ton-52000-theseon?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5062,30 +5086,6 @@
 "snippet": "Η Ελλάς Σύρου έδωσε συνέχεια στη μεγάλη της νίκη την προηγούμενη αγωνιστική απέναντι στην Athens Kallithea επικρατώντας εκτός έδρας με 4-2 του Ολυμπιακού Β'…",
 "also": [],
 "id": "fd2c864b04f2"
-},
-{
-"title": "Πέρασε εμφατικά από του Ρέντη η Ελλάς Σύρου!",
-"url": "http://www.sport-fm.gr/article/5159720",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T12:26+00:00",
-"sport": "football",
-"snippet": "Επιστροφή στις νίκες για την Ελλάδα Σύρου, η οποία επικράτησε 4-2 του Ολυμπιακού Β.",
-"also": [],
-"id": "9dd83013ecbf"
-},
-{
-"title": "Ολυμπιακός Β' - Ελλάς Σύρου 2-4: Σπουδαίο διπλό για τους νησιώτες με Μπουλάρι-Οτσοβέτσι",
-"url": "https://www.gazzetta.gr/football/superleague-2/2584717/olympiakos-b-ellas-syroy-2-4-spoydaio-diplo-gia-toys-nisiotes",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T12:25+00:00",
-"sport": "football",
-"snippet": "Με πρωταγωνιστές τους Μπουλάρι και Οτσοβέτσι που πέτυχε δυο γκολ, η Ελλάς Σύρου πήρε μεγάλο διπλό στο Ρέντη επί του Ολυμπιακού Β' με 2-4.",
-"also": [],
-"id": "88a62047a750"
 }
 ]
 }
