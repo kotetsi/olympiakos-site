@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T09:41:06+00:00",
+"generated_at": "2026-11-12T09:56:13+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τσεκάρει από τώρα την αγορά",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15226521/olympiakos-tsekarei-apo-tora-tin-agora/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T09:51+00:00",
+"sport": "football",
+"snippet": "Οι Πειραιώτες φέρονται να έχουν θέσει ως προτεραιότητα την απόκτηση ενός πλάγιου μεσοεπιθετικού, ενώ υπάρχουν σκέψεις για την απόκτηση και ενός αριστερού μπακ…",
+"also": [],
+"id": "1e6f069b9a90"
+},
+{
+"title": "Post Game για τον Ολυμπιακό που θέλει να ξυπνήσει & στο μυαλό του Ντόρσεϊ | Gazz Floor by Novibet",
+"url": "https://www.gazzetta.gr/basketball/2585823/post-game-gia-ton-olympiako-poy-thelei-na-xypnisei-sto-myalo-toy-ntorsei-gazz",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T09:44+00:00",
+"sport": "basket",
+"snippet": "Ο Δ. Κωνσταντινίδης με τους Ι. Παπαπέτρου και Ν. Παπαδογιάννη από το στούντιο μαζί με τους Π. Μπούτσκο και Σ. Μακρή αναλύουν το ματς του Ολυμπιακού με την…",
+"also": [],
+"id": "8dd21d7f5fa3"
+},
 {
 "title": "Βάργκας ξανά για Ολυμπιακό & η μεταγραφική κουβέντα που άνοιξε για τα καλά | Galacticos by Elabet",
 "url": "https://www.gazzetta.gr/football/superleague/2585818/bargkas-xana-gia-olympiako-i-metagrafiki-koybenta-poy-anoixe-gia-ta",
@@ -5024,38 +5048,6 @@
 "snippet": "Ο Ολυμπιακός Κ23 δεν μπόρεσε να κρατήσει το υπέρ του προβάδισμα απέναντι στην Ελλάς Σύρου και ηττήθηκε με 2-4 στο Ρέντη.",
 "also": [],
 "id": "8c1fbc63db12"
-},
-{
-"title": "Η 12άδα του Ολυμπιακού απέναντι στο Μαρούσι",
-"url": "https://www.ertsports.gr/mpasket/i-12ada-tou-olympiakou-apenanti-sto-marousi/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T13:57+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός θα αντιμετωπίσει το Μαρούσι χωρίς τον Κωνσταντίνο Παπανικολάου με τον αρχηγό των \"ερυθρολεύκων\" να ταλαιπωρείται από τενοντίτιδα καταφυτικού…",
-"also": [],
-"id": "9a366a61efc7"
-},
-{
-"title": "ΠΑΟΚ Κ17 - Ολυμπιακός Κ17 0-0",
-"url": "https://www.sdna.gr/podosfairo/1484729_paok-k17-olympiakos-k17-0-0",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T13:32+00:00",
-"sport": "football",
-"snippet": "ΠΑΟΚ και Ολυμπιακός μοιράστηκαν από έναν βαθμό (και ένα δοκάρι) στο μεταξύ τους ντέρμπι για τη Super League K17 (0-0).",
-"also": [
-{
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"url": "https://www.olympiacos.org/2026/11/08/isopali-kai-i-k17-me-paok/",
-"title": "Ισόπαλη και η Κ17 με ΠΑΟΚ",
-"published": "2026-11-08T16:10+00:00"
-}
-],
-"id": "3630ad870ee1"
 }
 ]
 }
