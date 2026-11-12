@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-12T02:52:27+00:00",
+ "checked_at": "2026-11-12T03:07:34+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
@@ -11,9 +11,9 @@
   "olympiacos-bc": {
    "name": "Olympiacos BC",
    "channel_id": "UCbv8oofgvLZ1B24N6uJ9q6g",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "items": 15,
+   "error": ""
   },
   "euroleague": {
    "name": "EuroLeague",
