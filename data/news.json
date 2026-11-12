@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T19:16:38+00:00",
+"generated_at": "2026-11-12T19:31:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σημαντικό ρεκόρ για Βεζένκοβ ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ στην ιστορία της ομάδας στη EuroLeague",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586027/olympiakos-simantiko-rekor-gia-bezenkob-xeperase-ton-spanoyli-kai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T19:27+00:00",
+"sport": "basket",
+"snippet": "Σημαντικό ρεκόρ για τον Σάσα Βεζένκοβ, καθώς ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο πρώτος σκόρερ του Ολυμπιακού στην ιστορία της EuroLeague.",
+"also": [],
+"id": "6d6ce7dc955e"
+},
+{
+"title": "Ο Βεζένκοφ έγραψε ιστορία: Ξεπέρασε τον Σπανούλη και έγινε πρώτος σκόρερ του Ολυμπιακού στην Euroleague!",
+"url": "https://www.sdna.gr/mpasket/1486069_o-bezenkof-egrapse-istoria-xeperase-ton-spanoyli-kai-egine-protos-skorer-toy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T19:26+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ έγραψε ιστορία με την φανέλα του Ολυμπιακού: ο Βούλγαρος φόργουορντ με το πρώτο του καλάθι στην αναμέτρηση με την Ντουμπάι ξεπέρασε...",
+"also": [],
+"id": "f12bb6a5e863"
+},
 {
 "title": "LIVE: Ολυμπιακός – Ντουμπάι (audio)",
 "url": "https://www.ertsports.gr/mpasket/euroleague/live-olympiakos-ntoumpai-audio/",
@@ -34,7 +58,7 @@
 "official": false,
 "published": "2026-11-12T18:45+00:00",
 "sport": "basket",
-"snippet": "",
+"snippet": "Εύκολη εντός έδρας νίκη για τη Λαϊκή Δημοκρατία του Κονγκό (3-1) κόντρα στη Σιέρα Λεόνε, με τον Σιμόν Μπάνζα να αγωνίζεται για περίπου 10 λεπτά.",
 "also": [],
 "id": "563ca5633a70"
 },
@@ -4993,30 +5017,6 @@
 "snippet": "Μια πολύ μεγάλη ευκαιρία είχε ο Ολυμπιακός στο 28ο λεπτό, όταν μετά από κλέψιμο έξω από την περιοχή του ΠΑΟΚ, ο Μάριους αστόχησε από πλεονεκτική θέση.",
 "also": [],
 "id": "c59a61723269"
-},
-{
-"title": "Απείλησε με κεφαλιά του Μάριους ο Ολυμπιακός",
-"url": "http://www.sport-fm.gr/article/5159846",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T19:41+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός απείλησε την εστία του ΠΑΟΚ με κεφαλιά του Μάριους, την οποία αντιμετώπισε πάντως χωρίς δυσκολία ο Μοναστηρλής.",
-"also": [],
-"id": "ae1c8b9f8aa2"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Η φάση που ζήτησε πέναλτι ο Δικέφαλος",
-"url": "https://www.gazzetta.gr/football/superleague/2584864/olympiakos-paok-i-fasi-poy-zitise-penalti-o-dikefalos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T19:36+00:00",
-"sport": "football",
-"snippet": "Στο 3' οι Θεσσαλονικείς ζήτησαν πέναλτι για χέρι του Τικνιζιάν.",
-"also": [],
-"id": "8ada995d2174"
 }
 ]
 }
