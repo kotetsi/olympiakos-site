@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T05:08:35+00:00",
+"generated_at": "2026-11-12T05:23:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Νέο ισπανικό σενάριο για τον Ρούμπεν Βάργκας με απαιτήσεις 10 εκατομμυρίων ευρώ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-neo-ispaniko-senario-gia-ton-roumpen-vargkas-me-apetisis-10-ekatommirion-evro?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T05:12+00:00",
+"sport": "general",
+"snippet": "Ισπανικό δημοσίευμα συνδέει ξανά τον Ολυμπιακό με τον Ρούμπεν Βάργκας για τον Ιανουάριο. Η Σεβίλλη φέρεται να ζητά 10 εκατ. ευρώ για τον εξτρέμ.",
+"also": [],
+"id": "2c0ecf08b5a0"
+},
+{
+"title": "Ολυμπιακός: Το πλάνο στο Ρέντη και οι πρώτες κινήσεις για τον Ιανουάριο",
+"url": "http://www.sport-fm.gr/article/5160472",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-12T05:07+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός εκμεταλλεύεται τη διακοπή για ανάσες και δουλειά, περιμένει βελτίωση από τον Μπέιλι και την επιστροφή του Έσε, ενώ ήδη διαμορφώνει τις πρώτες…",
+"also": [],
+"id": "80e5312fb48d"
+},
 {
 "title": "Ισπανικά ΜΜΕ: «Ο Ολυμπιακός εξετάζει ξανά την περίπτωση του Ρούμπεν Βάργκας»",
 "url": "https://www.sdna.gr/podosfairo/1485816_ispanika-mme-o-olympiakos-exetazei-xana-tin-periptosi-toy-roympen-bargkas",
@@ -5054,30 +5078,6 @@
 "snippet": "Ο Νίκος Ζέρβας μετέφερε τα τελευταία νέα του Ολυμπιακού πριν από το Μαρούσι, αναφέρθηκε στις επιλογές ξένων και ανέλυσε τα δεδομένα στην υπόθεση του Τάιλερ…",
 "also": [],
 "id": "710de758ba39"
-},
-{
-"title": "ΠΑΟΚ Κ15 - Ολυμπιακός Κ15 0-0",
-"url": "https://www.sdna.gr/podosfairo/1484679_paok-k15-olympiakos-k15-0-0",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T10:49+00:00",
-"sport": "football",
-"snippet": "Ντερμπάρα με τα όλα της στη Σουρωτή, με τον ΠΑΟΚ να είναι ελαφρώς καλύτερος και τον Ολυμπιακό να διατηρεί το «μηδέν» και το αήττητο (0-0) στη Super...",
-"also": [],
-"id": "c4b08fbe0867"
-},
-{
-"title": "Ολυμπιακός Β - Ελλάς Σύρου",
-"url": "https://www.sdna.gr/podosfairo/1484655_olympiakos-b-ellas-syroy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T10:25+00:00",
-"sport": "football",
-"snippet": "",
-"also": [],
-"id": "e2c5e06a574f"
 }
 ]
 }
