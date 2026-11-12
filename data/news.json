@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-12T09:56:13+00:00",
+"generated_at": "2026-11-12T10:11:22+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Οι Πειραιώτες φέρονται να έχουν θέσει ως προτεραιότητα την απόκτηση ενός πλάγιου μεσοεπιθετικού, ενώ υπάρχουν σκέψεις για την απόκτηση και ενός αριστερού μπακ…",
 "also": [],
 "id": "1e6f069b9a90"
+},
+{
+"title": "Ο Ολυμπιακός προχωρά για το νέο “Γ. Καραϊσκάκης” – Το χρονοδιάγραμμα και οι μεγάλες αλλαγές (audio)",
+"url": "https://www.ertsports.gr/era-spor/o-olympiakos-proxora-gia-to-neo-g-karaiskakis-to-xronodiagramma-kai-oi-megales-allages-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-12T09:46+00:00",
+"sport": "football",
+"snippet": "Η ανακατασκευή του \"Γ. Καραϊσκάκης\" περνά στο επόμενο στάδιο, καθώς υπερψηφίστηκε η σχετική ρύθμιση, ανοίγοντας τον δρόμο για την υλοποίηση ενός έργου που…",
+"also": [],
+"id": "5ef0a1d1f3ec"
 },
 {
 "title": "Post Game για τον Ολυμπιακό που θέλει να ξυπνήσει & στο μυαλό του Ντόρσεϊ | Gazz Floor by Novibet",
@@ -4930,6 +4942,18 @@
 "id": "ab189ac9ba54"
 },
 {
+"title": "Ισόπαλη και η Κ17 με ΠΑΟΚ",
+"url": "https://www.olympiacos.org/2026/11/08/isopali-kai-i-k17-me-paok/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-08T16:10+00:00",
+"sport": "general",
+"snippet": "Οι Έφηβοι του Ολυμπιακού έμειναν στο 0-0 με τον ΠΑΟΚ εκτός έδρας.",
+"also": [],
+"id": "5f6d74d95e27"
+},
+{
 "title": "Η ΚΑΕ Αμαρουσίου βράβευσε τον Ολυμπιακό και τον Γιώργο Μπαρτζώκα",
 "url": "https://www.ertsports.gr/mpasket/gbl/i-kae-amarousiou-vraveyse-ton-olympiako-kai-ton-giorgo-mpartzoka/",
 "source": "ertsports",
@@ -5024,30 +5048,6 @@
 "snippet": "Μαρούσι – Ολυμπιακός για την 6η αγωνιστική της GBL. Δείτε τι ώρα αρχίζει ο αγώνας, ποιο κανάλι τον μεταδίδει και πού θα τον παρακολουθήσετε ζωντανά.",
 "also": [],
 "id": "846a2d008a2c"
-},
-{
-"title": "ΠΑΟΚ-Ολυμπιακός 0-0: Χωρίς νικητή και το ντέρμπι των Κ17",
-"url": "https://www.metrosport.gr/paok-olympiakos-0-0-choris-nikiti-kai-to-ntermpi-ton-k17-1332821",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T14:28+00:00",
-"sport": "football",
-"snippet": "Χωρίς γκολ και νικητή ολοκληρώθηκε το ντέρμπι ανάμεσα στον ΠΑΟΚ και τον Ολυμπιακό στη Σουρωτή, στο πλαίσιο της 10ης αγωνιστικής της Super League Κ17. ...",
-"also": [],
-"id": "437951c9104f"
-},
-{
-"title": "Προηγήθηκε, αλλά ηττήθηκε",
-"url": "https://www.olympiacos.org/2026/11/08/proigithike-alla-ittithike-2/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-08T14:11+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Κ23 δεν μπόρεσε να κρατήσει το υπέρ του προβάδισμα απέναντι στην Ελλάς Σύρου και ηττήθηκε με 2-4 στο Ρέντη.",
-"also": [],
-"id": "8c1fbc63db12"
 }
 ]
 }
