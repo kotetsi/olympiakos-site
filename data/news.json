@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-12T20:17:07+00:00",
+"generated_at": "2026-11-12T20:32:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "CIES: Στην κορυφή της Ευρώπης ο Παναθηναϊκός – Στο βάθρο ο Ολυμπιακός, στην επτάδα η ΑΕΚ!",
+"url": "https://www.sdna.gr/podosfairo/1486079_cies-stin-koryfi-tis-eyropis-o-panathinaikos-sto-bathro-o-olympiakos-stin-eptada",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T20:29+00:00",
+"sport": "football",
+"snippet": "Εντυπωσιακή τριπλή ελληνική παρουσία στην κατάταξη του CIES Football Observatory με τις καλύτερες άμυνες των δέκα κορυφαίων ευρωπαϊκών πρωταθλημάτων....",
+"also": [],
+"id": "a45a6284f8f8"
+},
 {
 "title": "Ολυμπιακός: Το βίντεο για το ρεκόρ του Σάσα Βεζένκοβ",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586033/olympiakos-binteo-gia-rekor-toy-sasa-bezenkob",
@@ -5013,18 +5025,6 @@
 "snippet": "Ο Έσε βγήκε στο 56' με πρόβλημα τραυματισμού.",
 "also": [],
 "id": "29daf18d4df1"
-},
-{
-"title": "Αγωνία στον Ολυμπιακό: Αναγκαστική αλλαγή ο Έσε",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15221335/agonia-ston-olympiako-anagkastiki-allagi-o-ese/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-08T20:27+00:00",
-"sport": "football",
-"snippet": "Αγωνία επικρατεί στον Ολυμπιακό για τον Σαντιάγκο Έσε, ο οποίος αποχώρησε με πρόβλημα στο 56ο λεπτό του αγώνα με τον ΠΑΟΚ. Ολυμπιακός – ΠΑΟΚ: Γκολ στην πρώτη…",
-"also": [],
-"id": "1e18b5726fc9"
 }
 ]
 }
