@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-12T19:46:53+00:00",
+"generated_at": "2026-11-12T20:01:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δυσκολεύει του Γκουστάβο Σα",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-diskolevi-tou-gkoustavo-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T19:47+00:00",
+"sport": "general",
+"snippet": "Ο Γκουστάβο Σα δεν έχει πείσει ακόμη στον Ολυμπιακό. Η Ρίο Άβε θα μπορούσε να αποτελέσει λύση για το μέλλον του, αντί της Νότιγχαμ Φόρεστ στην Αγγλία.",
+"also": [],
+"id": "b83977b9ae6a"
+},
 {
 "title": "Έγραψε ιστορία ο Βεζένκοφ: Πρώτος σκόρερ όλων των εποχών για τον Ολυμπιακό στην Euroleague (video)",
 "url": "https://www.ertsports.gr/mpasket/euroleague/egrapse-istoria-o-vezenkof-protos-skorer-olon-ton-epoxon-gia-ton-olympiako-stin-euroleague-video/",
@@ -61,6 +73,13 @@
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227342/protos-skorer-stin-istoria-tou-olympiakou-o-vezenkof-kseperase-ton-spanouli-video/",
 "title": "Πρώτος σκόρερ στην Ιστορία του Ολυμπιακού ο Βεζένκοφ – Ξεπέρασε τον Σπανούλη (video)",
 "published": "2026-11-12T19:38+00:00"
+},
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2034123/vezenkof-xeperase-ton-spanouli-ke-egine-o-protos-skorer-tou-olimpiakou-stin-evropi/",
+"title": "Βεζένκοφ: Ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ του Ολυμπιακού στην Ευρώπη",
+"published": "2026-11-12T19:44+00:00"
 }
 ],
 "id": "f12bb6a5e863"
@@ -5020,18 +5039,6 @@
 "snippet": "Νέο σημαντικό αγωνιστικό πρόβλημα προέκυψε στον ΠΑΟΚ κατά τη διάρκεια του αγώνα με τον Ολυμπιακό στο «Γ. Καραϊσκάκης».Με τη συμπλήρωση 18 λεπτών,...",
 "also": [],
 "id": "d6453dd5d45b"
-},
-{
-"title": "Ολυμπιακός-ΠΑΟΚ: Η ανεπανάληπτη ευκαιρία με Ζαφείρη για τον Δικέφαλο!",
-"url": "https://www.metrosport.gr/olympiakos-paok-i-anepanalipti-eykairia-me-zafeiri-gia-ton-dikefalo-1332867",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T19:51+00:00",
-"sport": "general",
-"snippet": "Μια σπουδαία ευκαιρία για να πάρει το προβάδισμα έχασε ο ΠΑΟΚ στο 30ο λεπτό της αναμέτρησης με τον Ολυμπιακό. Ο Ζίβκοβιτς έβγαλε εξαιρετική κάθετη ...",
-"also": [],
-"id": "2f4569a4f9d3"
 }
 ]
 }
