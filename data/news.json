@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-12T16:45:12+00:00",
+"generated_at": "2026-11-12T17:00:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στη μεταγραφική λίστα της Ρίβερ Πλέιτ ο Έσε",
+"url": "https://www.sdna.gr/podosfairo/1486036_olympiakos-sti-metagrafiki-lista-tis-riber-pleit-o-ese",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T16:58+00:00",
+"sport": "football",
+"snippet": "Στο μεταγραφικό προσκήνιο της Αργεντινής βρίσκεται ο Σαντιάγκο Έσε, με τη Ρίβερ Πλέιτ να εξετάζει την περίπτωση του μέσου του Ολυμπιακού, ο οποίος...",
+"also": [],
+"id": "e7f3a4460266"
+},
+{
+"title": "Ολυμπιακός: Τα ευχάριστα νέα για τον Έσε",
+"url": "https://www.gazzetta.gr/football/superleague/2585948/olympiakos-ta-eyharista-nea-gia-ton-ese",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T16:58+00:00",
+"sport": "football",
+"snippet": "Τα νεότερα για τον Αργεντίνο χσφ της ομάδας του Ολυμπιακού είναι ξεκάθαρα ευχάριστα.",
+"also": [],
+"id": "7adc50556c91"
+},
+{
+"title": "Η δωδεκάδα του Ολυμπιακού για το ματς με την Ντουμπάι",
+"url": "https://www.ertsports.gr/mpasket/euroleague/i-dodekada-tou-olympiakou-gia-to-mats-me-tin-ntoumpai/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-12T16:51+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας έκανε γνωστές τις επιλογές του για την δωδεκάδα με τον Κώστα Παπανικολάου να μην συμπεριλαμβάνεται, καθώς έχει υποστεί τενοντίτιδα…",
+"also": [],
+"id": "1926ecfdd6a0"
+},
+{
+"title": "Ολυμπιακός: Η 12άδα με Ντουμπάι",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2034081/olimpiakos-i-12ada-me-ntoumpai/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-12T16:49+00:00",
+"sport": "basket",
+"snippet": "Οι επιλογές του προπονητή του Ολυμπιακού (7-3), Γιώργου Μπαρτζώκα, για το παιχνίδι με τη Ντουμπάι (7-3) στη SUNEL Arena για την 11η αγωνιστική της Ευρωλίγκας…",
+"also": [],
+"id": "e2ddcc91798f"
+},
+{
+"title": "Χωρίς Παπανικολάου ο Ολυμπιακός κόντρα στην Ντουμπάι",
+"url": "https://www.sdna.gr/mpasket/1486035_horis-papanikolaoy-o-olympiakos-kontra-stin-ntoympai",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T16:48+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει την Ντουμπάι στη Sunel Arena, με τον Γιώργο Μπαρτζώκα να μην υπολογίζει στον αρχηγό των «ερυθρόλευκων», Κώστα...",
+"also": [],
+"id": "c25c1dc72066"
+},
+{
+"title": "Χωρίς εκπλήξεις η δωδεκάδα του Ολυμπιακού για Dubai BC - Σταθερά εκτός ο Ντόρσεϊ",
+"url": "http://www.sport-fm.gr/article/5160616",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-12T16:46+00:00",
+"sport": "basket",
+"snippet": "Με τις γνωστές απουσίες θα παραταχθεί απόψε το βράδυ ο Ολυμπιακός στη SYNEL Arena και στο παιχνίδι με την Dubai BC για την 11η αγωνιστική της Ευρωλίγκας.",
+"also": [],
+"id": "361910acba1a"
+},
 {
 "title": "Ολυμπιακός: Η Ρίβερ Πλέιτ εξετάζει τον Έσε!",
 "url": "https://www.gazzetta.gr/football/superleague/2585942/olympiakos-i-riber-pleit-exetazei-ton-ese",
@@ -11,7 +83,15 @@
 "published": "2026-11-12T16:38+00:00",
 "sport": "football",
 "snippet": "Στο μεταγραφικό κάδρο της Ρίβερ Πλέιτ βρίσκεται ο Σαντιάγκο Έσε, με τον Αργεντινό χαφ του Ολυμπιακού να αποτελεί μία από τις πέντε περιπτώσεις ποδοσφαιριστών…",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/argentini-primera-division/article/15227119/olympiakos-river-pleit-gia-ese-oi-apaitiseis/",
+"title": "Ολυμπιακός: Ρίβερ Πλέιτ για Έσε – Οι απαιτήσεις",
+"published": "2026-11-12T16:54+00:00"
+}
+],
 "id": "60dd441d8b99"
 },
 {
@@ -4953,86 +5033,6 @@
 "snippet": "Ο Ηλίας Παπαθεοδώρου στάθηκε στην εικόνα του Αμαρουσίου κόντρα στον Ολυμπιακό και έδειξε την απογοήτευση του από το τελικό αποτέλεσμα.",
 "also": [],
 "id": "91edbd16dce0"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Η Live ενημέρωση του αγώνα",
-"url": "https://www.metrosport.gr/olympiakos-paok-i-live-enimerosi-toy-agona-1332836",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T18:00+00:00",
-"sport": "football",
-"snippet": "Διαβάστε από το Metrosport.gr όλα όσα συμβαίνουν στο «Γεώργιος Καραϊσκάκης» στο ντέρμπι της 10ης αγωνιστικής",
-"also": [],
-"id": "1832d2aec690"
-},
-{
-"title": "Ολυμπιακός: Οι 11 του Αλγκουαθίλ για το ντέρμπι με τον ΠΑΟΚ",
-"url": "https://www.gazzetta.gr/football/superleague/2584317/olympiakos-oi-11-toy-algkoyathil-gia-ntermpi-me-ton-paok",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T17:59+00:00",
-"sport": "football",
-"snippet": "Ο Βάσκος τεχνικός, Ιμανόλ Αλγκουαθίλ, πήρε τις αποφάσεις του για τον καταρτισμό της βασικής 11άδας του Ολυμπιακού με αντίπαλο τον ΠΑΟΚ.",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/podosfairo/1484820_olympiakos-paok-i-endekada-toy-algkoyathil-gia-ntermpi",
-"title": "Ολυμπιακός – ΠΑΟΚ: Η ενδεκάδα του Αλγκουαθίλ για το ντέρμπι",
-"published": "2026-11-08T18:08+00:00"
-}
-],
-"id": "be1b9a715dca"
-},
-{
-"title": "Ουόρντ ο λυτρωτής για τον Ολυμπιακό: “Δεν φοβήθηκα ότι θα χάναμε, εμπιστεύομαι τους συμπαίκτες μου”",
-"url": "https://www.eurohoops.net/el/heba-el/2032461/ouornt-den-fovithika-oti-tha-chaname-empistevome-tous-simpektes-mou/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-08T17:59+00:00",
-"sport": "basket",
-"snippet": "Ο καταλυτικός Τάισον Ουόρντ στο Μαρούσι, εξήγησε ότι δεν σκέφτηκε ότι μπορεί ο Ολυμπιακός να ηττηθεί. The post Ουόρντ ο λυτρωτής για τον Ολυμπιακό: “Δεν…",
-"also": [],
-"id": "f137ab5a122a"
-},
-{
-"title": "Ολυμπιακός: Το σχόλιο του Καραπαπά για τη διαιτησία στο Ηρακλής - Παναθηναϊκός",
-"url": "https://www.gazzetta.gr/football/superleague/2584817/olympiakos-sholio-toy-karapapa-gia-ti-diaitisia-sto-iraklis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T17:58+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Καραπαπάς έκανε 2 αναρτήσεις που είχαν να κάνουν με το Ηρακλής - Πααθηναϊκός. Η μία εξ αυτών αφορούσε στη διαιτησία του ματς.",
-"also": [],
-"id": "e251254e80cd"
-},
-{
-"title": "Παπαθεοδώρου: «Μπορούσαμε να κερδίσουμε τον Ολυμπιακό»",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15220864/papatheodorou-mporousame-na-kerdisoume-ton-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-08T17:57+00:00",
-"sport": "basket",
-"snippet": "Στην ευκαιρία που είχε το Μαρούσι να κερδίσει τον Ολυμπιακό στάθηκε ο Ηλίας Παπαθεοδώρου, μετά την ήττα της ομάδας του. Μαρούσι – Ολυμπιακός 81 – 83…",
-"also": [],
-"id": "70b8d292aedb"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Οι ενδεκάδες του ντέρμπι",
-"url": "https://sportime.gr/olimpiakos/olympiakos-paok-endekada-olympiakou-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T17:56+00:00",
-"sport": "football",
-"snippet": "Ολυμπιακός και ΠΑΟΚ αναμετρώνται στο «Γεώργιος Καραϊσκάκης» για τη Stoiximan Super League. Δείτε τις αρχικές ενδεκάδες και τις επιλογές των δύο προπονητών.",
-"also": [],
-"id": "09350af38e68"
 }
 ]
 }
