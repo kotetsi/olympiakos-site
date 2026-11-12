@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-12T10:56:50+00:00",
+"generated_at": "2026-11-12T11:11:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καλαμάτα: Νοκ άουτ για έξι εβδομάδες ο Βάργκας - Χάνει ΑΕΚ, ΠΑΟΚ και Ολυμπιακό",
+"url": "https://www.sdna.gr/podosfairo/1485932_kalamata-nok-aoyt-gia-exi-ebdomades-o-bargkas-hanei-aek-paok-kai-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T11:03+00:00",
+"sport": "football",
+"snippet": "Σημαντική απώλεια για την Καλαμάτα, καθώς ο Κένεθ Βάργκας θα παραμείνει εκτός αγωνιστικής δράσης για τουλάχιστον έξι εβδομάδες",
+"also": [],
+"id": "dfb00c3662d9"
+},
+{
+"title": "Ολυμπιακός: Ένα ωραίο ρεκόρ του Ιμανόλ μοιάζει να… πιέζεται",
+"url": "https://www.gazzetta.gr/football/2585834/olympiakos-ena-oraio-rekor-toy-imanol-moiazei-napiezetai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T11:00+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta για μία εξαιρετική επίδοση του Ολυμπιακού του Ιμανόλ, που όμως δέχεται πιέσεις…",
+"also": [],
+"id": "968224431f94"
+},
+{
+"title": "Πρόστιμα από Ευρωλίγκα σε Παρτίζαν και Μπεσίκτας-Στη δεύτερη για εισβολή οπαδού με Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5160561",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-12T10:58+00:00",
+"sport": "basket",
+"snippet": "Τιμώρησε με πρόστιμα την Παρτίζαν και την Μπεσίκτας η Ευρωλίγκα.",
+"also": [],
+"id": "67d6df767e66"
+},
 {
 "title": "Άρης: Ο Μόργκαν γύρισε φουριόζος και βάζει τον Σπανούλη σε δίλημμα για τον Ολυμπιακό",
 "url": "https://sportime.gr/aris-fc/aris-o-morgkan-girise-fouriozos-ke-vazi-ton-spanouli-se-dilimma-gia-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5012,42 +5048,6 @@
 "snippet": "Η ΚΑΕ Αμαρουσίου βράβευσε τον Ολυμπιακό και τον Γιώργο Μπαρτζώκα για την κατάκτηση της περσινής Ευρωλίγκας.",
 "also": [],
 "id": "a267eef8d82f"
-},
-{
-"title": "Μαρούσι - Ολυμπιακός: Οι γηπεδούχοι βράβευσαν τον Μπαρτζώκα",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2584769/maroysi-olympiakos-oi-gipedoyhoi-brabeysan-ton-mpartzoka",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T15:36+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Μπαρτζώκας βραβεύτηκε από το Μαρούσι, για την κατάκτηση της EuroLeague.",
-"also": [],
-"id": "abc84d92953f"
-},
-{
-"title": "Το Μαρούσι βράβευσε Ολυμπιακό και Μπαρτζώκα (vid)",
-"url": "https://www.sdna.gr/mpasket/1484766_maroysi-brabeyse-olympiako-kai-mpartzoka-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T15:34+00:00",
-"sport": "basket",
-"snippet": "Το Μαρούσι πριν τον τζάμπολ της αναμέτρησης με τον Ολυμπιακό βράβευσε την «ερυθρόλευκη» ΚΑΕ για την κατάκτηση της Euroleague και τον Γιώργο Μπαρτζώκα...",
-"also": [],
-"id": "c95bdece52b9"
-},
-{
-"title": "Χαλαρή εξόρμηση στο Ρέθυμνο για τον Παναθηναϊκό και τώρα Ολυμπιακός",
-"url": "https://www.sdna.gr/bolei/1484761_halari-exormisi-sto-rethymno-gia-ton-panathinaiko-kai-tora-olympiakos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T15:24+00:00",
-"sport": "general",
-"snippet": "Οι πρωταθλητές Ελλάδος είχαν εύκολο έργο ενάντια στους νεοφώτιστους με 0-3 και πηγαίνουν στο ντέρμπι της άλλης εβδομάδας αήττητοι",
-"also": [],
-"id": "28da5c20bca9"
 }
 ]
 }
