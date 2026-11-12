@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T13:28:12+00:00",
+"generated_at": "2026-11-12T13:43:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Διατηρήθηκε το -2 από το ΑΣΕΑΔ",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15226761/olympiakos-diatirithike-to-2-apo-to-asead/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T13:34+00:00",
+"sport": "basket",
+"snippet": "Οι «ερυθρόλευκοι» είχαν τιμωρηθεί με -2 βαθμούς για τα όσα είχαν γίνει μετά το ματς των «αιωνίων» στο ΣΕΦ, στο οποίο κρίθηκε ο τίτλος. Η διοίκηση του…",
+"also": [],
+"id": "c92c7c757859"
+},
+{
+"title": "Ολυμπιακός: Απορρίφθηκε από ΑΣΕΑΔ η προσφυγή για το -2 και την τιμωρία του Τζόουνς",
+"url": "https://www.eurohoops.net/el/heba-el/2033965/olimpiakos-aporrifthike-apo-asead-i-prosfigi-gia-to-2-ke-tin-timoria-tou-tzoouns/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-12T13:32+00:00",
+"sport": "basket",
+"snippet": "Το ΑΣΕΑΔ απέρριψε την προσφυγή του Ολυμπιακού για την τιμωρία των -2 βαθμών από τα γεγονότα στον περσινό πέμπτο τελικό της Stoiximan GBL κατά του Παναθηναϊκού…",
+"also": [],
+"id": "fc8cba1e55aa"
+},
 {
 "title": "Κορυφαία άμυνα στα δέκα κορυφαία πρωταθλήματα της UEFA o Παναθηναϊκός, 3ος ο Ολυμπιακός, 7η η ΑΕΚ",
 "url": "https://www.gazzetta.gr/football/superleague/2585887/koryfaia-amyna-sta-deka-koryfaia-protathlimata-tis-uefa-o",
@@ -25,6 +49,18 @@
 "snippet": "Δύο αναμετρήσεις με διαφορετικό χαρακτήρα, αλλά μεγάλο ενδιαφέρον, ξεχωρίζουν στο αθλητικό πρόγραμμα της Πέμπτης.",
 "also": [],
 "id": "b2c09b417974"
+},
+{
+"title": "Συνεχίζει με -2 ο Ολυμπιακός: Απορρίφθηκε η έφεση στο ΑΣΕΑΔ",
+"url": "https://www.metrosport.gr/synexizei-me-2-o-olympiacos-aporrifthike-h-efesh-sto-asead-1333311",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-12T13:15+00:00",
+"sport": "basket",
+"snippet": "Ο επεισοδιακός 5ος περσινός τελικός της Stoiximan GBL, με πρωταγωνιστές τους Κέντρικ Ναν και Ταϊρίκ Τζόουνς επέβαλε ποινές σε Ολυμπιακό και ...",
+"also": [],
+"id": "78fb4ac940fc"
 },
 {
 "title": "Ολυμπιακός: Με οδηγό τον… Γουόκαπ",
@@ -71,7 +107,15 @@
 "published": "2026-11-12T12:51+00:00",
 "sport": "basket",
 "snippet": "Ο Ολυμπιακός θα συνεχίσε να... κουβαλα το -2 στη GBL, αφού η ποινή του δεν μειώθηκε στο ΑΣΕΑΔ.",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160581",
+"title": "Παραμένει το -2 για τον Ολυμπιακό με απόφαση ΑΣΕΑΔ",
+"published": "2026-11-12T13:29+00:00"
+}
+],
 "id": "a6daf5df0af9"
 },
 {
@@ -5004,50 +5048,6 @@
 "snippet": "Το εκπληκτικό Μαρούσι έβαλε δύσκολα στον αγνώριστο Ολυμπιακό, ο οποίος όμως απέδρασε με καλάθι του Τάισον Γουόρντ στα τρία δευτερόελεπτα!",
 "also": [],
 "id": "3899c1e0742d"
-},
-{
-"title": "Μαρούσι – Ολυμπιακός 81-83: Με ήρωα Ουόρντ γλύτωσε το… σοκ",
-"url": "https://www.eurohoops.net/el/heba-el/2032381/marousi-olimpiakos-81-83-ton-glitose-o-ouornt-sta-3/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-08T17:32+00:00",
-"sport": "basket",
-"snippet": "Ο Τάισον Ουόρντ πέτυχε το καλάθι της νίκης και ο Ολυμπιακός δεν πλήρωσε τα κακώς κείμενα του κόντρα στο εξαιρετικά αξιόμαχο Μαρούσι. The post Μαρούσι …",
-"also": [],
-"id": "fd9703a8b053"
-},
-{
-"title": "GBL: Η βαθμολογία μετά και τις νίκες Παναθηναϊκού και Ολυμπιακού",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2584724/gbl-pos-diamorfothike-i-bathmologia-meta-ti-niki-toy-panathinaikoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T17:31+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της GBL μετά τις νίκες του Παναθηναϊκού και του Ολυμπιακού απέναντι σε ΑΕΚ και Μαρούσι αντίστοιχα εκτός έδρας.",
-"also": [
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/heba-el/2032444/stoiximan-gbl-h-vathmologia-meta-tis-nikes-tou-panathinaikou-ke-tou-olimpiakou/",
-"title": "Stoiximan GBL: H βαθμολογία μετά τις νίκες του Παναθηναϊκού και του Ολυμπιακού",
-"published": "2026-11-08T17:43+00:00"
-}
-],
-"id": "34c076ffcdb2"
-},
-{
-"title": "Μαρούσι - Ολυμπιακός 81-83: Ο «clutch» Γουόρντ έσωσε τους πρωταθλητές",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2584804/maroysi-olympiakos-o-clutch-goyornt-esose-toys-protathlites",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T17:30+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ζορίστηκε πάρα πολύ κόντρα στο φανταστικό Μαρούσι, όμως χάρη σε καλάθι του Γουόρντ τρία δευτερόλεπτα πριν τη λήξη, πήρε τη νίκη με 83-81.",
-"also": [],
-"id": "5c5491747f69"
 }
 ]
 }
