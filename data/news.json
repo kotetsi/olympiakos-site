@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-12T08:40:31+00:00",
+"generated_at": "2026-11-12T08:55:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ξανά στο προσκήνιο ο Βάργκας",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15226481/olympiakos-ksana-sto-proskinio-o-vargkas/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T08:41+00:00",
+"sport": "football",
+"snippet": "Σύμφωνα με τον ισπανικό Τύπο, ο Ελβετός μεσοεπιθετικός αρέσει στους ιθύνοντες των Πειραιωτών, οι οποίοι θα κάνουν νέα προσπάθεια για την απόκτησή του τον…",
+"also": [],
+"id": "e04007ce7ba5"
+},
 {
 "title": "Ολυμπιακός-Ντουμπάι με Score More-Win More* για κάθε πόντο του Φουρνιέ από το Pamestoixima.gr",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2033872/olimpiakos-ntoumpai-me-score-more-win-more-gia-kathe-ponto-tou-fournie-apo-to-pamestoixima-gr/",
@@ -11,7 +23,15 @@
 "published": "2026-11-12T08:35+00:00",
 "sport": "basket",
 "snippet": "Πολλές σούπερ ενισχυμένες αποδόσεις για την 11η αγωνιστική της Euroleague από το Pamestoixima.gr. The post Ολυμπιακός-Ντουμπάι με Score More-Win More* για κάθε…",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/category/every-day-bet/article/15226478/olympiakos-ntoumpai-me-score-more-win-more-gia-kathe-ponto-tou-fournie-apo-to-pamestoixima-gr/",
+"title": "Ολυμπιακός-Ντουμπάι με Score More-Win More* για κάθε πόντο του Φουρνιέ από το Pamestoixima.gr",
+"published": "2026-11-12T08:40+00:00"
+}
+],
 "id": "1b05e4a2371b"
 },
 {
@@ -5059,18 +5079,6 @@
 "snippet": "Για όγδοο ματς χωρίς νίκη ο Ολυμπιακός Β, με την Ελλάς Σύρου να επικρατεί με 2-4 - Τα γκολ: 15' Σαντής, 74' Μπιλάλ - 22', 96' Μπουλάρρι, 49', 59'...",
 "also": [],
 "id": "e4e617e2e4e3"
-},
-{
-"title": "Ολυμπιακός Β: Νέα ήττα και κίνδυνος υποβιβασμού",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-v-ton-dialii-i-katrakila?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T12:36+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Β έχασε 4-2 από την Ελλάς Σύρου στον Ρέντη, έμεινε για όγδοο παιχνίδι χωρίς νίκη και βρίσκεται στη 15η θέση της Super League 2 με έξι βαθμούς.",
-"also": [],
-"id": "591a0108956d"
 }
 ]
 }
