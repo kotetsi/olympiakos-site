@@ -150,5 +150,18 @@
   "sport": "football",
   "b_team": true,
   "comp": ""
+ },
+ "2026-11-22-olympiakos-iraklis": {
+  "title": "Ολυμπιακός - Ηρακλής",
+  "home": "Ολυμπιακός",
+  "away": "Ηρακλής",
+  "opp": "Ηρακλής",
+  "oly_home": true,
+  "start": "2026-11-22T18:00+00:00",
+  "channels": [],
+  "sport": "football",
+  "b_team": false,
+  "no_time": true,
+  "comp": "Super League"
  }
 }
