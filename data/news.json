@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T22:03:07+00:00",
+"generated_at": "2026-11-12T22:18:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βεζένκοφ: «Κατόρθωμα ότι το όνομά μου είναι με θρύλους του Ολυμπιακού - Θέλω όσους περισσότερους τίτλους γίνεται»",
+"url": "https://www.sdna.gr/mpasket/1486106_bezenkof-katorthoma-oti-onoma-moy-einai-me-thryloys-toy-olympiakoy-thelo-osoys",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T22:05+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ μετά τη νίκη του Ολυμπιακού κόντρα στην Ντουμπάι μίλησε για το ρεκόρ του και τόνισε πως θέλει να πανηγυρίσει όσους περισσότερους...",
+"also": [],
+"id": "75163db82f69"
+},
+{
+"title": "Ολυμπιακός: Ο Μπαφές για την επιστροφή Ντόρσεϊ",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-toumpa-ola-epistrefi-amesa-o-tailer-ntorsei-ti-ipe-o-christos-bafes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T22:03+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ πλησιάζει στην επιστροφή του στον Ολυμπιακό μετά την πειθαρχική τιμωρία. Τα δεδομένα για τον Άρη και το επόμενο παιχνίδι με τη Μακάμπι.",
+"also": [],
+"id": "529ab4b57b4b"
+},
 {
 "title": "Ολυμπιακός: Μπαφές και Μπαρτζώκας αναφέρθηκαν στον Ντόρσεϊ – Πότε επιστρέφει στις προπονήσεις",
 "url": "https://sportday.gr/basket/365124_olympiakos-mpafes-kai-mpartzokas-anaferthikan-ston-ntorsei-pote-epistrefei-stis-proponiseis.html",
@@ -68,6 +92,13 @@
 "sport": "basket",
 "snippet": "Ο Γιώργος Μπαρτζώκας σε δηλώσεις του στην συνέντευξη Τύπου μετά την άνετη νίκη επί της Ντουμπάι στάθηκε στον Ντόρσεϊ λέγοντας πως ο παίκτης έκανε...",
 "also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160674",
+"title": "Μπαρτζώκας: «Ο Ντόρσεϊ έκανε παράπτωμα, όχι ο Ολυμπιακός - Να κερδίσει τη θέση του»",
+"published": "2026-11-12T21:51+00:00"
+},
 {
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -342,6 +373,13 @@
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227106/vathmologia-euroleague-i-thesi-tou-olympiakou-meta-ti-niki-epi-tis-ntoumpai/",
 "title": "Βαθμολογία EuroLeague: Η θέση του Ολυμπιακού μετά τη νίκη επί της Ντουμπάι",
 "published": "2026-11-12T20:59+00:00"
+},
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1486107_panorama-tis-euroleague-meta-ti-niki-toy-olympiakoy-epi-tis-ntoympai",
+"title": "Το πανόραμα της Euroleague μετά τη νίκη του Ολυμπιακού επί της Ντουμπάι",
+"published": "2026-11-12T22:14+00:00"
 }
 ],
 "id": "6c82f0118a01"
@@ -369,6 +407,18 @@
 "snippet": "Ήταν φανερό από την αρχή. Από το πρώτο δεκάλεπτο όταν ο Βεζένκοφ είχε ήδη 10 πόντους και ο Φουρνιέ είχε 7 πόντους με δύο ασίστ, σε μια περίοδο που ο Ολυμπιακός…",
 "also": [],
 "id": "f00f0cae25c3"
+},
+{
+"title": "Ολυμπιακός-Ντουμπάι 101-72: Με διαστημικούς Φουρνιέ-Βεζένκοφ, ερυθρόλευκο party (highlights)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227538/olympiakos-ntoumpai-101-72-me-diastimikous-fournie-vezenkof-erythroleyko-party-highlights/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T20:54+00:00",
+"sport": "basket",
+"snippet": "Ήταν φανερό από την αρχή. Από το πρώτο δεκάλεπτο όταν ο Βεζένκοφ είχε ήδη 10 πόντους και ο Φουρνιέ είχε 7 πόντους με δύο ασίστ, σε μια περίοδο που ο Ολυμπιακός…",
+"also": [],
+"id": "a7e2df40e278"
 },
 {
 "title": "Ολυμπιακός - Ντουμπάι BC 101-72: Έκανε... πάρτι με διαστημικούς Φουρνιέ και Βεζένκοβ",
@@ -5021,42 +5071,6 @@
 "snippet": "Ο Μάριους Μουαντιλμαντζί προβλημάτισε απέναντι στον ΠΑΟΚ. Η σύγκριση με τον Σερίφ Εντιαγέ και η κοινή τους παρουσία στη Σαμσουνσπόρ.",
 "also": [],
 "id": "5343985e9590"
-},
-{
-"title": "Zίβκοβιτς: «Ήταν δύσκολη περίοδος, αλλά όλοι μαζί την ξεπεράσαμε - Να μην τα παρατάμε ποτέ» - Τι είπε για ανανέωση",
-"url": "http://www.sport-fm.gr/article/5159894",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T22:14+00:00",
-"sport": "football",
-"snippet": "Όσα δήλωσε ο Αντρίγια Ζίβκοβιτς μετά την ισοπαλία του ΠΑΟΚ με τον Ολυμπιακό (1-1) στο Καραϊσκάκη.",
-"also": [],
-"id": "68b032da8eb6"
-},
-{
-"title": "Βαρούχας: Τι είπε για το Ολυμπιακός – ΠΑΟΚ",
-"url": "https://sportime.gr/podosfairo/varouchas-ti-ipe-gia-ti-dietisia-sto-olimpiakos-paok-ke-i-ataka-gia-ton-martineth?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T22:03+00:00",
-"sport": "football",
-"snippet": "Ο Παναγιώτης Βαρούχας σχολίασε στην Αθλητική Κυριακή τη διαιτησία στο Ολυμπιακός – ΠΑΟΚ, αναλύοντας δύο φάσεις και κάνοντας αναφορά στον Μαρτίνεθ.",
-"also": [],
-"id": "eac2c8282d71"
-},
-{
-"title": "Ελουστόντο: «Το 1-1 σε μια τέτοια έδρα είναι ικανοποιητικό – Μπορούσαμε και κάτι παραπάνω»",
-"url": "https://www.metrosport.gr/eloystonto-to-1-1-se-mia-tetoia-edra-einai-ikanopoiitiko-mporoysame-kai-kati-parapano-1332877",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T21:59+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος (1-1) απέναντι στον Ολυμπιακό στο «Γ. Καραϊσκάκης», σε μια αναμέτρηση στην οποία κλήθηκε να διαχειριστεί και τις ...",
-"also": [],
-"id": "a07f5d125642"
 }
 ]
 }
