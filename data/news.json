@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T14:28:48+00:00",
+"generated_at": "2026-11-12T14:43:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ιανουάριος των αποφάσεων – Βάργκας, Νους, Ρέτσος και νέες κινήσεις",
+"url": "https://www.sdna.gr/podosfairo/1485999_olympiakos-o-ianoyarios-ton-apofaseon-bargkas-noys-retsos-kai-nees-kiniseis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T14:34+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ σχεδιάζει τις επόμενες κινήσεις του Ολυμπιακού, με την ενίσχυση στα άκρα να βρίσκεται σε πρώτο πλάνο. Οι περιπτώσεις Βάργκας και...",
+"also": [],
+"id": "78bd96db6265"
+},
+{
+"title": "Ολυμπιακός: Ο Μπαρτζώκας έβγαλε τον Τζόουνς με νεύρα και τώρα τον χρειάζεται",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-evgale-ton-tzoouns-me-nevra-ke-tora-ton-chriazete?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T14:30+00:00",
+"sport": "general",
+"snippet": "Ο Μπαρτζώκας έβγαλε τον Τζόουνς μετά την ένταση με τον Ερυθρό Αστέρα. Τώρα η Ντουμπάι φέρνει μια δύσκολη επιλογή για τον πάγκο του Ολυμπιακού.",
+"also": [],
+"id": "ddb94ab25eea"
+},
 {
 "title": "Interwetten: Παναθηναϊκός και Ολυμπιακός με 4.51",
 "url": "https://sportime.gr/sportime-bet/vezenkof-eptasteros-ke-451-stin-interwetten?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5024,30 +5048,6 @@
 "snippet": "Η προσωπική ενέργεια του Ουόρντ που... λύτρωσε τους Πειραίωτες. The post Clutch Ουορντ: Το νικητήριο καλάθι για την απόδραση του Ολυμπιακού απ’ το Μαρούσι…",
 "also": [],
 "id": "1bca1089c415"
-},
-{
-"title": "Βαθμολογία Stoiximan GBL: Αγχώθηκε αλλά διεύρυνε το αήττητο σερί του Ολυμπιακός",
-"url": "http://www.sport-fm.gr/article/5159802",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T17:45+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της Stoiximan GBL, μετά από τη νίκη του Ολυμπιακού κόντρα στο Μαρούσι και την ολοκλήρωση της 6ης αγωνιστικής!",
-"also": [],
-"id": "97ed389d9f5d"
-},
-{
-"title": "Ηρακλής: Ο επόμενος αντίπαλος είναι ο Ολυμπιακός",
-"url": "https://sportime.gr/podosfairo/iraklis-o-epomenos-antipalos-meta-ton-panathinaiko?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T17:41+00:00",
-"sport": "football",
-"snippet": "Ο Ηρακλής έχει δύσκολη εκτός έδρας αποστολή μετά το παιχνίδι με τον Παναθηναϊκό. Δείτε πότε αντιμετωπίζει τον Ολυμπιακό στη Super League.",
-"also": [],
-"id": "1b575ceb8d35"
 }
 ]
 }
