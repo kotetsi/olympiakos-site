@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T06:54:34+00:00",
+"generated_at": "2026-11-12T07:09:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Θα σας πέσει το σαγόνι με το νέο Καραϊσκάκη!",
+"url": "https://sportday.gr/podosfairo/364997_olympiakos-tha-sas-pesei-to-sagoni-me-to-neo-karaiskaki.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-12T07:00+00:00",
+"sport": "football",
+"snippet": "Το όραμα του ηγέτη του Ολυμπιακού, Βαγγέλη Μαρινάκη, για το πρωτοποριακό και υπερσύγχρονο γήπεδο Καραϊσκάκη, το μεγαλύτερο ποδοσφαιρικό γήπεδο στην Ελλάδα…",
+"also": [],
+"id": "3e731fc0f1ed"
+},
+{
+"title": "Ολυμπιακός: Ντέρμπι με το Ντουμπάι για την επιστροφή στις ευρωπαϊκές νίκες",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2033850/olimpiakos-ntermpi-me-to-ntoumpai-gia-tin-epistrofi-stis-evropaikes-nikes/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-12T06:59+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός φιλοξενεί το Ντουμπάι απόψε στη Sunel Arena (12/11, 21:15, Novasports Prime). The post Ολυμπιακός: Ντέρμπι με το Ντουμπάι για την επιστροφή στις…",
+"also": [],
+"id": "5c370c70a0f6"
+},
 {
 "title": "Ολυμπιακός: Η Βόλφσμπουργκ απέρριψε δύο προτάσεις για τον Μέλε και τώρα κινδυνεύει να τον χάσει δωρεάν",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-i-volfsmpourgk-aperripse-dio-protasis-gia-ton-mele-ke-tora-kindinevi-na-ton-chasi-dorean?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5054,30 +5078,6 @@
 "snippet": "Διαβάστε το Matchday Programme της αναμέτρησης Ολυμπιακός – ΠΑΟΚ, της 10ης αγωνιστικής του πρωταθλήματος της Stoiximan Super League.",
 "also": [],
 "id": "fdb81c5527b5"
-},
-{
-"title": "Ολυμπιακός: Το μάθημα, η αδυναμία του ΠΑΟΚ και η καινούργια συνθήκη…",
-"url": "https://www.gazzetta.gr/football/superleague/2584705/olympiakos-mathima-i-adynamia-toy-paok-kai-i-kainoyrgia-synthiki",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T12:00+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος προσεγγίζει μέσα από το blog του στο Gazzetta το ντέρμπι του Ολυμπιακού με τον ΠΑΟΚ.",
-"also": [],
-"id": "af4db430fec7"
-},
-{
-"title": "ΠΑΟΚ - Ολυμπιακός: Ισόπαλο χωρίς γκολ, το ντέρμπι στην Κ15",
-"url": "https://www.metrosport.gr/paok-olympiakos-isopalo-choris-gkol-to-ntermpi-stin-k15-1332806",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T11:52+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος με αντίπαλο τον Ολυμπιακό, στην αναμέτρηση των ομάδων Νέων Κ15, η οποία διεξήχθη στις εγκαταστάσεις της ...",
-"also": [],
-"id": "657da6fcc08e"
 }
 ]
 }
