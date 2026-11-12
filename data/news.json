@@ -1,9 +1,21 @@
 {
-"generated_at": "2026-11-12T05:54:01+00:00",
+"generated_at": "2026-11-12T06:09:09+00:00",
 "count": 400,
 "items": [
 {
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (12/11): Ολυμπιακός-Ντουμπάι, η πρώτη μάχη της Εθνικής για το Euro U21, ματσάρα Ιταλία-Γαλλία",
+"title": "Ολυμπιακός-Ντουμπάι BC: Δύσκολη δοκιμασία και με στόχο την επιστροφή στις νίκες για τους «ερυθρόλευκους»",
+"url": "http://www.sport-fm.gr/article/5160455",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-12T06:00+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι BC (21:15) στη Sunel Arena για την 11η αγωνιστική της Ευρωλίγκας και ψάχνοντας την επιστροφή στις νίκες μετά την ήττα του…",
+"also": [],
+"id": "c956165fe4e1"
+},
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (12/11): Ολυμπιακός-Ντουμπάι, o πρώτος «τελικός» της Εθνικής U21, ματσάρα Ιταλία-Γαλλία",
 "url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1485863_oi-athlitikes-metadoseis-tis-imeras-12/11-olympiakos-ntoympai",
 "source": "sdna",
 "source_name": "SDNA",
@@ -5066,18 +5078,6 @@
 "snippet": "Ο Ολυμπιακός Β' φιλοξενεί την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη και άνθρωποι από την πρώτη ομάδα έδωσαν το παρών στις εξέδρες.",
 "also": [],
 "id": "e090f8272065"
-},
-{
-"title": "Ολυμπιακός Β': Η γκολάρα του Σαντή κόντρα στην Ελλάς Σύρου (vid)",
-"url": "https://www.gazzetta.gr/football/superleague-2/2584701/olympiakos-b-i-gkolara-toy-santi-kontra-stin-ellas-syroy-vid",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T11:07+00:00",
-"sport": "football",
-"snippet": "Ο Παναγιώτης Σαντής πέτυχε ένα πανέμορφο γκολ στο παιχνίδι του Ολυμπιακού Β' με την Ελλάς Σύρου για τη Superleague 2.",
-"also": [],
-"id": "6ed2470fc912"
 }
 ]
 }
