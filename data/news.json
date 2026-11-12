@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-12T00:06:03+00:00",
+"generated_at": "2026-11-12T00:21:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ισπανικά ΜΜΕ: «Ο Ολυμπιακός εξετάζει ξανά την περίπτωση του Ρούμπεν Βάργκας»",
+"url": "https://www.sdna.gr/podosfairo/1485816_ispanika-mme-o-olympiakos-exetazei-xana-tin-periptosi-toy-roympen-bargkas",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T00:14+00:00",
+"sport": "football",
+"snippet": "Δημοσιεύματα στην Ισπανία εμπλέκουν ξανά τον Ολυμπιακό με τον Ρούμπεν Βάργκας, μετά το αποτυχημένο... φλερτ που υπήρξε το καλοκαίρι.",
+"also": [],
+"id": "e1f2c974c7af"
+},
 {
 "title": "Ολυμπιακός: Θα επανέλθει για Βάργκας σύμφωνα με τους Ισπανούς",
 "url": "https://www.gazzetta.gr/football/superleague/2585755/olympiakos-tha-epanelthei-gia-bargkas-symfona-me-toys-ispanoys",
@@ -5066,18 +5078,6 @@
 "snippet": "",
 "also": [],
 "id": "e2c5e06a574f"
-},
-{
-"title": "Live Streaming: Ολυμπιακός Β’ – Ελλάς Σύρου 0-0",
-"url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-olympiakos-v-ellas-syrou-0-0/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T10:20+00:00",
-"sport": "football",
-"snippet": "Για την 10η αγωνιστική του πρωταθλήματος της Superbet League 2, η δεύτερη ομάδα του Ολυμπιακού υποδέχεται την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη. The…",
-"also": [],
-"id": "735d03a1993a"
 }
 ]
 }
