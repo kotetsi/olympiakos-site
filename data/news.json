@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T12:42:44+00:00",
+"generated_at": "2026-11-12T12:57:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΑΣΕΑΔ: Παραμένει το -2 σε Ολυμπιακό και Παναθηναϊκό",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2585873/asead-paramenei-2-se-olympiako-kai-panathinaiko",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T12:51+00:00",
+"sport": "basket",
+"snippet": "Ολυμπιακός και Παναθηναϊκός θα συνεχίσουν να... κουβαλούν το -2 στη GBL, αφού η ποινή τους δεν μειώθηκε στο ΑΣΕΑΔ.",
+"also": [],
+"id": "a6daf5df0af9"
+},
+{
+"title": "Απορρίφθηκαν οι εφέσεις του Ολυμπιακού στο ΑΣΕΑΔ: Παραμένει το -2 και η ποινή στον Τζόουνς",
+"url": "https://www.sdna.gr/mpasket/1485965_aporrifthikan-oi-efeseis-toy-olympiakoy-sto-asead-paramenei-2-kai-i-poini-ston",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T12:45+00:00",
+"sport": "basket",
+"snippet": "Οριστικά παραμένουν οι ποινές που επιβλήθηκαν στον Ολυμπιακό για τα γεγονότα μετά τον πέμπτο τελικό της Stoiximan GBL, εκτός από το ύψος του...",
+"also": [],
+"id": "a9e1308191ed"
+},
 {
 "title": "Άρης: Ο Σπανούλης έριξε τον Παναθηναϊκό και τώρα πάει να ρίξει και τον Ολυμπιακό",
 "url": "https://sportime.gr/aris-fc/aris-o-spanoulis-erixe-ton-panathinaiko-ke-tora-pai-na-rixi-ke-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5024,30 +5048,6 @@
 "snippet": "Ο Παναθηναϊκός... απέδρασε από το Καυτανζόγλειο με το πέναλτι του Καλάμπρια στις καθυστερήσεις και πλέον είναι στο +5 από τον δεύτερο Ολυμπιακό που υποδέχεται…",
 "also": [],
 "id": "076f1d36bd5f"
-},
-{
-"title": "Ολυμπιακός: Θρίλερ στο Μαρούσι",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-thriler-sto-marousi-81-83?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T17:28+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός βρέθηκε σε μεγάλη δοκιμασία απέναντι στο Μαρούσι για τη Stoiximan GBL. Η εξέλιξη του αγώνα, οι ανατροπές και η μάχη μέχρι το φινάλε.",
-"also": [],
-"id": "179565c10966"
-},
-{
-"title": "Ολυμπιακός: Οι επόμενοι αντίπαλοι σε Euroleague και GBL",
-"url": "https://sportime.gr/basket/olimpiakos-pios-ine-o-epomenos-antipalos-se-euroleague-ke-gbl?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-08T17:15+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός συνεχίζει με δύο απαιτητικές αναμετρήσεις μετά το Μαρούσι. Δείτε πότε παίζει με τη Ντουμπάι στη Euroleague και τον Άρη στην GBL.",
-"also": [],
-"id": "8f98193b31a7"
 }
 ]
 }
