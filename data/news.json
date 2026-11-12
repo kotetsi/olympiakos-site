@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T18:46:22+00:00",
+"generated_at": "2026-11-12T19:01:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "LIVE: Ολυμπιακός – Ντουμπάι (audio)",
+"url": "https://www.ertsports.gr/mpasket/euroleague/live-olympiakos-ntoumpai-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-12T19:00+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι στη \"SUNEL Arena\" των Άνω Λιοσίων για την 11η αγωνιστική της EuroLeague. Οι δύο ομάδες βρίσκονται στο 7-3 και οι…",
+"also": [],
+"id": "af7276e00c6e"
+},
+{
+"title": "Ολυμπιακός: Από τρεις σε πέντε ημέρες το ρεπό του Αλγκουαθίλ",
+"url": "https://www.sdna.gr/podosfairo/1486064_olympiakos-apo-treis-se-pente-imeres-repo-toy-algkoyathil",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T18:56+00:00",
+"sport": "football",
+"snippet": "Αλλαγή στο πρόγραμμα του Ολυμπιακού κατά τη διακοπή των εθνικών ομάδων, με τον Ιμανόλ Αλγκουαθίλ να αυξάνει τις ημέρες ξεκούρασης των ποδοσφαιριστών...",
+"also": [],
+"id": "e48d2f82d5af"
+},
 {
 "title": "Live: Ολυμπιακός - Ντουμπάι (Euroleague 2026-27)",
 "url": "https://www.sdna.gr/mpasket/1486010_live-olympiakos-ntoympai-euroleague-2026-27",
@@ -4993,30 +5017,6 @@
 "snippet": "Στο 3' οι Θεσσαλονικείς ζήτησαν πέναλτι για χέρι του Τικνιζιάν.",
 "also": [],
 "id": "8ada995d2174"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Πρώτες επιθέσεις για τον Δικέφαλο με Ζίβκοβιτς-Εντιαγέ (vids)",
-"url": "https://www.sdna.gr/podosfairo/1484840_olympiakos-paok-protes-epitheseis-gia-ton-dikefalo-me-zibkobits-entiage-vids",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T19:33+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ με εκφραστές τους Αντρίγια Ζίβκοβιτς και Σερίφ Εντιαγέ, ψάχνει τρόπο να ανοίξει το σκορ μέσα στο Φάληρο",
-"also": [],
-"id": "7550c4043e90"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Τραυματίστηκε στο γόνατο και έφυγε υποβασταζόμενος ο Γιάκιτς",
-"url": "https://www.gazzetta.gr/football/superleague/2584861/olympiakos-paok-traymatistike-sto-gonato-kai-efyge-ypobastazomenos-o",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T19:28+00:00",
-"sport": "football",
-"snippet": "Ο Κρίστιαν Γιάκιτς τραυματίστηκε στο γόνατο στο 20ο λεπτό του αγώνα του ΠΑΟΚ με τον Ολυμπιακό στο Φάληρο και έφυγε υποβασταζόμενος.",
-"also": [],
-"id": "a913acdb9d8e"
 }
 ]
 }
