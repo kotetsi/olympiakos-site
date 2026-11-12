@@ -1,9 +1,33 @@
 {
-"generated_at": "2026-11-12T19:31:44+00:00",
+"generated_at": "2026-11-12T19:46:53+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός: Σημαντικό ρεκόρ για Βεζένκοβ ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ στην ιστορία της ομάδας στη EuroLeague",
+"title": "Έγραψε ιστορία ο Βεζένκοφ: Πρώτος σκόρερ όλων των εποχών για τον Ολυμπιακό στην Euroleague (video)",
+"url": "https://www.ertsports.gr/mpasket/euroleague/egrapse-istoria-o-vezenkof-protos-skorer-olon-ton-epoxon-gia-ton-olympiako-stin-euroleague-video/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-12T19:43+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ κατάφερε στο πρώτο καλάθι που πέτυχε στην αναμέτρηση με την Ντουμπάι να γίνει ο πρώτος σκόρερ στην ιστορία του Ολυμπιακού στην Euroleague…",
+"also": [],
+"id": "c6f6f0c732c2"
+},
+{
+"title": "Ολυμπιακός: Πόσο δίκιο είχε ο Μεντιλίμπαρ!",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-poso-dikio-iche-o-chose-louis-mentilimpar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T19:31+00:00",
+"sport": "general",
+"snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ δέχθηκε κριτική για τις επιλογές του στον Ολυμπιακό, όμως ο Ιμανόλ Αλγουαθίλ ακολουθεί παρόμοια πορεία σε αρκετά ζητήματα.",
+"also": [],
+"id": "a0582d93ba1e"
+},
+{
+"title": "Ολυμπιακός: Σημαντικό ρεκόρ για Βεζένκοβ, ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ στην ιστορία της ομάδας στη EuroLeague",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586027/olympiakos-simantiko-rekor-gia-bezenkob-xeperase-ton-spanoyli-kai",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -23,7 +47,22 @@
 "published": "2026-11-12T19:26+00:00",
 "sport": "basket",
 "snippet": "Ο Σάσα Βεζένκοφ έγραψε ιστορία με την φανέλα του Ολυμπιακού: ο Βούλγαρος φόργουορντ με το πρώτο του καλάθι στην αναμέτρηση με την Ντουμπάι ξεπέρασε...",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160651",
+"title": "Ο Βεζένκοφ ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ στην ιστορία του Ολυμπιακού στην Ευρωλίγκα!",
+"published": "2026-11-12T19:30+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227342/protos-skorer-stin-istoria-tou-olympiakou-o-vezenkof-kseperase-ton-spanouli-video/",
+"title": "Πρώτος σκόρερ στην Ιστορία του Ολυμπιακού ο Βεζένκοφ – Ξεπέρασε τον Σπανούλη (video)",
+"published": "2026-11-12T19:38+00:00"
+}
+],
 "id": "f12bb6a5e863"
 },
 {
@@ -4993,30 +5032,6 @@
 "snippet": "Μια σπουδαία ευκαιρία για να πάρει το προβάδισμα έχασε ο ΠΑΟΚ στο 30ο λεπτό της αναμέτρησης με τον Ολυμπιακό. Ο Ζίβκοβιτς έβγαλε εξαιρετική κάθετη ...",
 "also": [],
 "id": "2f4569a4f9d3"
-},
-{
-"title": "Ολυμπιακός - ΠΑΟΚ: Ο Ζαφείρης αστόχησε σε τετ α τετ με τον Ορτέγκα!",
-"url": "https://www.gazzetta.gr/football/superleague/2584868/olympiakos-paok-o-zafeiris-astohise-se-tet-tet-me-ton-ortegka",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T19:44+00:00",
-"sport": "football",
-"snippet": "Ο Ζαφείρης στο 31' δεν κατάφερε να δώσει το προβάδισμα στον ΠΑΟΚ εναντίον του Ολυμπιακού.",
-"also": [],
-"id": "df9ef4951651"
-},
-{
-"title": "Κλέβει ο Ολυμπιακός έξω από την περιοχή του ΠΑΟΚ, αστοχεί από πλεονετική θέση ο Μάριους",
-"url": "http://www.sport-fm.gr/article/5159847",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T19:42+00:00",
-"sport": "general",
-"snippet": "Μια πολύ μεγάλη ευκαιρία είχε ο Ολυμπιακός στο 28ο λεπτό, όταν μετά από κλέψιμο έξω από την περιοχή του ΠΑΟΚ, ο Μάριους αστόχησε από πλεονεκτική θέση.",
-"also": [],
-"id": "c59a61723269"
 }
 ]
 }
