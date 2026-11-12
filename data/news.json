@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-12T06:09:09+00:00",
+"generated_at": "2026-11-12T06:24:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός - Ντουμπάι BC, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
+"url": "https://www.gazzetta.gr/football/euroleague/2585777/athlitikes-metadoseis-simera-olympiakos-ntoympai-bc-gazz-floor-oi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T06:21+00:00",
+"sport": "basket",
+"snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με τις εκπομπές του Gazzetta, το Ολυμπιακός - Ντουμπάι BC και τις αναμετρήσεις του Nations League.",
+"also": [],
+"id": "7070abc9ee77"
+},
+{
+"title": "Euroleague: Για την επιστροφή στις νίκες απέναντι στην Ντουμπάι ο Ολυμπιακός",
+"url": "https://www.sdna.gr/mpasket/1485687_euroleague-gia-tin-epistrofi-stis-nikes-apenanti-stin-ntoympai-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T06:15+00:00",
+"sport": "basket",
+"snippet": "Η 11η αγωνιστική της Euroleague συνεχίζεται και ο Ολυμπιακός θέλει να επιστρέψει στις νίκες απέναντι στην Ντουμπάι.",
+"also": [],
+"id": "4a25e26a20d4"
+},
+{
+"title": "Ολυμπιακός: Πού θα δείτε τη μάχη με τη Ντουμπάι",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2585666/olympiakos-poy-tha-deite-ti-mahi-me-ti-ntoympai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-12T06:15+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται τη Ντουμπάι BC (21:15, live Gazzetta, Novasports Prime) και θέλει να επιστρέψει στις νίκες.",
+"also": [],
+"id": "99a12aa18e76"
+},
 {
 "title": "Ολυμπιακός-Ντουμπάι BC: Δύσκολη δοκιμασία και με στόχο την επιστροφή στις νίκες για τους «ερυθρόλευκους»",
 "url": "http://www.sport-fm.gr/article/5160455",
@@ -5042,42 +5078,6 @@
 "snippet": "Ο Αλέξης Καλογερόπουλος καθιερώνεται στη Νυρεμβέργη ενώ ο Ολυμπιακός αναζητά στόπερ. Τα ερωτήματα για την αξιολόγηση και το scouting της ομάδας.",
 "also": [],
 "id": "80e89cda302e"
-},
-{
-"title": "Πρωτάθλημα Super League Κ-15: Στο μηδέν το ντέρμπι ΠΑΟΚ-Ολυμπιακός",
-"url": "https://www.metrosport.gr/protathlima-super-league-k-15-sto-miden-to-ntermpi-paok-olympiakos-1332805",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T11:35+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος με αντίπαλο τον Ολυμπιακό, στην αναμέτρηση των ομάδων Νέων Κ15, η οποία διεξήχθη στις εγκαταστάσεις της Σουρωτής. ...",
-"also": [],
-"id": "7e6cebc59827"
-},
-{
-"title": "Η αντίδραση του Τζόκοβιτς στο κρίσιμο τρίποντο του Κρις Τζόουνς απέναντι στον Ολυμπιακό",
-"url": "http://www.sport-fm.gr/article/5159716",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-08T11:28+00:00",
-"sport": "general",
-"snippet": "Τον ενθουσιασμό του Νόβακ Τζόκοβιτς προκάλεσε το καθοριστικό τρίποντο του Κρις Τζόουνς για τη νίκη του Ερυθρού Αστέρα κόντρα στον Ολυμπιακό στη SUNEL Arena.",
-"also": [],
-"id": "007c195f6116"
-},
-{
-"title": "Ολυμπιακός: Στο πλάι της Β' ομάδα μέλη της πρώτης - ποιοι ποδοσφαιριστές έδωσαν το παρών στις εξέδρες",
-"url": "https://www.gazzetta.gr/football/superleague-2/2584704/olympiakos-sto-plai-tis-b-omada-meli-tis-protis-poioi-podosfairistes",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T11:11+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Β' φιλοξενεί την Ελλάς Σύρου στο προπονητικό κέντρο του Ρέντη και άνθρωποι από την πρώτη ομάδα έδωσαν το παρών στις εξέδρες.",
-"also": [],
-"id": "e090f8272065"
 }
 ]
 }
