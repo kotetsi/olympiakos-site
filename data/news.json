@@ -1,7 +1,51 @@
 {
-"generated_at": "2026-11-12T21:47:59+00:00",
+"generated_at": "2026-11-12T22:03:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μπαφές και Μπαρτζώκας αναφέρθηκαν στον Ντόρσεϊ – Πότε επιστρέφει στις προπονήσεις",
+"url": "https://sportday.gr/basket/365124_olympiakos-mpafes-kai-mpartzokas-anaferthikan-ston-ntorsei-pote-epistrefei-stis-proponiseis.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-12T21:53+00:00",
+"sport": "basket",
+"snippet": "Από την Παρασκευή ο ομογενής γκαρντ μπαίνει ξανά στις προπονήσεις",
+"also": [],
+"id": "b7d4524fb1ee"
+},
+{
+"title": "Ολυμπιακός: Ο Μπαρτζώκας αλλάζει το παιχνίδι",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-o-bartzokas-allazi-to-pechnidi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T21:53+00:00",
+"sport": "general",
+"snippet": "Ο Γιώργος Μπαρτζώκας επενδύει στην άμυνα για να καλύψει το επιθετικό κενό του Ζαν Μοντέρο στον Ολυμπιακό. Τι έδειξε η νίκη με 101-72 επί της Ντουμπάι.",
+"also": [],
+"id": "e497d523c5e9"
+},
+{
+"title": "Ολυμπιακός: Επιστρέφει στις προπονήσεις ο Ντόρσεϊ!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227761/olympiakos-epistrefei-stis-proponiseis-o-ntorsei/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-12T21:48+00:00",
+"sport": "basket",
+"snippet": "Στις προπονήσεις του Ολυμπιακού επιστρέφει ο Τάιλερ Ντόρσεϊ από την Παρασκευή (13/11), όπως αποκάλυψε ο Γιώργος Μποζίκας στις δηλώσεις του στον Νικήτα Αυγουλή…",
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/omades/olympiakos/epistrefei-stis-proponiseis-tou-olympiakou-o-ntorsei/",
+"title": "Επιστρέφει στις προπονήσεις του Ολυμπιακού ο Ντόρσεϊ",
+"published": "2026-11-12T21:58+00:00"
+}
+],
+"id": "4fd5a9893e91"
+},
 {
 "title": "Βεζένκοφ: «Σημαντικότερο οι ομαδικοί τίτλοι» – Ο Κάρι, ο φίλαθλος, ο Τζόσεφ και ο… βολεϊμπολίστας Εντζάι!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227677/vezenkof-simantikotero-oi-omadikoi-titloi-o-kari-o-filathlos-o-tzosef-kai-o-voleimpolistas-entzai/",
@@ -23,7 +67,15 @@
 "published": "2026-11-12T21:45+00:00",
 "sport": "basket",
 "snippet": "Ο Γιώργος Μπαρτζώκας σε δηλώσεις του στην συνέντευξη Τύπου μετά την άνετη νίκη επί της Ντουμπάι στάθηκε στον Ντόρσεϊ λέγοντας πως ο παίκτης έκανε...",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586052/mpartzokas-gia-ntorsei-prepei-ki-aytos-na-einai-ikanopoiimenos-den",
+"title": "Μπαρτζώκας για Ντόρσεϊ: «Ο Ολυμπιακός δεν έκανε παράπτωμα, ο παίκτης έκανε παράπτωμα, αν δεν τα καταφέρει...»",
+"published": "2026-11-12T21:58+00:00"
+}
+],
 "id": "d9c5e588caf6"
 },
 {
@@ -5005,42 +5057,6 @@
 "snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος (1-1) απέναντι στον Ολυμπιακό στο «Γ. Καραϊσκάκης», σε μια αναμέτρηση στην οποία κλήθηκε να διαχειριστεί και τις ...",
 "also": [],
 "id": "a07f5d125642"
-},
-{
-"title": "Ολυμπιακός: Μία πολύ λάθος στιγμή έφερε ένα Χ που δεν τον ωφελεί",
-"url": "https://www.gazzetta.gr/football/superleague/2584941/olympiakos-mia-poly-lathos-stigmi-poy-efere-ena-h-poy-den-ton-ofelei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-08T21:52+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός δεν ήταν ότι δεν πάλεψε σκληρά με τον ΠΑΟΚ, πλην όμως ήταν άστοχος στην τελική προσπάθεια και ενώ πρακτικά με το λάθος δύο παικτών του σε μία…",
-"also": [],
-"id": "92441f4f88fb"
-},
-{
-"title": "PAOK VIEW: Πετρωτός και Ζαΐρης αναλύουν το Ολυμπιακός – ΠΑΟΚ",
-"url": "https://www.metrosport.gr/paok-view-petrotos-kai-zairis-analyoyn-to-olympiakos-paok-1332825",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T21:50+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Πετρωτός και ο Γιώργος Ζαΐρης σχολιάζουν στο PAOK VIEW όσα έγιναν στο μεγάλο ντέρμπι του «Γ. Καραϊσκάκης», βάζοντας στο μικροσκόπιο την ...",
-"also": [],
-"id": "e0da1b9bfba0"
-},
-{
-"title": "Μοναστηρλής: «Ξέρω ότι βοήθησα την ομάδα σήμερα»",
-"url": "https://www.metrosport.gr/monastirlis-xero-oti-voithisa-tin-omada-simera-1332876",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-08T21:48+00:00",
-"sport": "football",
-"snippet": "Στην παρουσία του και στη συμβολή του στην προσπάθεια του ΠΑΟΚ να αποσπάσει την ισοπαλία (1-1) απέναντι στον Ολυμπιακό στο «Γεώργιος Καραϊσκάκης» ...",
-"also": [],
-"id": "1a8f1d938457"
 }
 ]
 }
