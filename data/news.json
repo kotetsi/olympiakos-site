@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-12T07:09:42+00:00",
+"generated_at": "2026-11-12T07:24:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός – Ντουμπάι: Ο Μιλουτίνοφ καλείται να σταματήσει τον Καμπενγκέλε",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ntoumpai-o-miloutinof-kalite-na-stamatisi-ton-kampengkele?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-12T07:04+00:00",
+"sport": "general",
+"snippet": "Ο Μιλουτίνοφ καλείται να περιορίσει τον Καμπενγκέλε, που είχε 21 πόντους και 14 ριμπάουντ στην προηγούμενη νίκη της Ντουμπάι επί του Ολυμπιακού.",
+"also": [],
+"id": "b070fa5fcc53"
+},
+{
+"title": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι στα Λιόσια με στόχο την επιστροφή στις νίκες",
+"url": "https://www.ertsports.gr/mpasket/euroleague/o-olympiakos-ypodexetai-tin-ntoumpai-sta-liosia-me-stoxo-tin-epistrofi-stis-nikes/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-12T07:04+00:00",
+"sport": "basket",
+"snippet": "Για την 11η αγωνιστική της EuroLeague, ο Ολυμπιακός φιλοξενεί απόψε (21:15, ΕΡΑ ΣΠΟΡ) στη \"SUNEL Arena\" των Άνω Λιοσίων την ομάδα από το Ντουμπάι, σ' ένα…",
+"also": [],
+"id": "a98860b0b996"
+},
 {
 "title": "Ολυμπιακός: Θα σας πέσει το σαγόνι με το νέο Καραϊσκάκη!",
 "url": "https://sportday.gr/podosfairo/364997_olympiakos-tha-sas-pesei-to-sagoni-me-to-neo-karaiskaki.html",
@@ -71,7 +95,15 @@
 "published": "2026-11-12T06:20+00:00",
 "sport": "basket",
 "snippet": "Η 11η αγωνιστική της Euroleague συνεχίζεται και ο Ολυμπιακός θέλει να επιστρέψει στις νίκες απέναντι στην Ντουμπάι.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/me-stocho-tin-epistrofi-stis-nikes-o-olympiakos-apenanti-sti-ntoympai-1333259",
+"title": "EuroLeague: Με στόχο την επιστροφή στις νίκες ο Ολυμπιακός απέναντι στη Ντουμπάι",
+"published": "2026-11-12T07:20+00:00"
+}
+],
 "id": "4a25e26a20d4"
 },
 {
@@ -5054,30 +5086,6 @@
 "snippet": "«Κανείς δεν ταλαιπωρεί τον Ολυμπιακό όσο ο Αντρίγια Ζίβκοβιτς!» Με αυτόν τον άκρως εμφατικό τρόπο, η σερβική ιστοσελίδα Mozzart Sport αποθέωσε τον ...",
 "also": [],
 "id": "39bbcce84e52"
-},
-{
-"title": "Σέρβοι για Ζίβκοβιτς: «Κανείς δεν έχει ταλαιπωρήσει τόσο τον Ολυμπιακό!»",
-"url": "https://www.sdna.gr/podosfairo/1484702_serboi-gia-zibkobits-kaneis-den-ehei-talaiporisei-toso-ton-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-08T12:11+00:00",
-"sport": "football",
-"snippet": "Αποθεωτικά σχόλια των Σέρβων για τον Αντρίγια Ζίβκοβιτς, με αφορμή την ιδιαίτερη παράδοση που έχει δημιουργήσει απέναντι στον Ολυμπιακό, τον οποίο...",
-"also": [],
-"id": "bf24b27bb120"
-},
-{
-"title": "Το Matchday Programme του αγώνα Ολυμπιακός – ΠΑΟΚ",
-"url": "https://www.olympiacos.org/2026/11/08/to-matchday-programme-tou-agona-olympiakos-paok-4/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-08T12:00+00:00",
-"sport": "football",
-"snippet": "Διαβάστε το Matchday Programme της αναμέτρησης Ολυμπιακός – ΠΑΟΚ, της 10ης αγωνιστικής του πρωταθλήματος της Stoiximan Super League.",
-"also": [],
-"id": "fdb81c5527b5"
 }
 ]
 }
