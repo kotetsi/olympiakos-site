@@ -1,14 +1,26 @@
 {
-"generated_at": "2026-11-13T13:10:52+00:00",
+"generated_at": "2026-11-13T13:26:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ντόρσεϊ επέστρεψε στις προπονήσεις αλλά δεν παίζει με Άρη και Μακάμπι!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15228647/olympiakos-o-ntorsei-epestrepse-stis-proponiseis-alla-den-paizei-me-ari-kai-makampi/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-13T13:20+00:00",
+"sport": "basket",
+"snippet": "Ο General Manager του Ολυμπιακού, Χρήστος Μπαφές σε εκπομπή στο Youtube του «protothema», όταν ρωτήθηκε για την επιστροφή του Τάιλερ Ντόρσεϊ στις προπονήσεις…",
+"also": [],
+"id": "6b499236d51f"
+},
 {
 "title": "Ολυμπιακός: Ο Ντόρσεϊ επέστρεψε και απάντησε ειρωνικά σε οπαδική ανάρτηση",
 "url": "https://www.metrosport.gr/olympiakos-o-ntorsei-epestrepse-kai-apantise-eironika-se-opadiki-anartisi-1333443",
 "source": "metrosport",
 "source_name": "Metrosport",
 "official": false,
-"published": "2026-11-13T13:00+00:00",
+"published": "2026-11-13T13:05+00:00",
 "sport": "general",
 "snippet": "Ο Τάιλερ Ντόρσεϊ επέστρεψε στις προπονήσεις του Ολυμπιακού έπειτα από την τιμωρία που του είχε επιβληθεί από τους Πειραιώτες και αντέδρασε ...",
 "also": [],
@@ -5134,18 +5146,6 @@
 "snippet": "Επιβεβαιώθηκαν οι φόβοι στον Ολυμπιακό για τον Σαντιάγκο Έσε.",
 "also": [],
 "id": "e6ab3d2ea10e"
-},
-{
-"title": "Ολυμπιακός: Εκτός για 4-6 εβδομάδες ο Έσε",
-"url": "https://www.ertsports.gr/omades/olympiakos/olympiakos-ektos-gia-4-6-evdomades-o-ese/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-09T13:52+00:00",
-"sport": "football",
-"snippet": "Τις υπηρεσίες του Σαντιάγκο Έσε θα στερηθεί ο Ολυμπιακός για τουλάχιστον έναν μήνα, αφού ο Αργεντινός μέσος υπέστη κάκωση στον έσω πλάγιο σύνδεσμο στο ντέρμπι…",
-"also": [],
-"id": "83723ce86b08"
 }
 ]
 }
