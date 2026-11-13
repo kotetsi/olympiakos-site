@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T18:14:15+00:00",
+"generated_at": "2026-11-13T18:29:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Γαλλικά ΜΜΕ: «Επαφή του Ολυμπιακού για τον Μπουνταουί»",
+"url": "https://www.gazzetta.gr/football/superleague/2586304/gallika-mme-epafi-toy-olympiakoy-gia-ton-mpoyntaoyi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T18:16+00:00",
+"sport": "football",
+"snippet": "Με την περίπτωση του διεθνούς μέσου από την Αλγερία, του Χιτσάμ Μπουνταουί, φέρεται να ασχολείται ο Ολυμπιακός ενόψει Γενάρη.",
+"also": [],
+"id": "b5cad57ac392"
+},
 {
 "title": "Ολυμπιακός: Τα εισιτήρια κόντρα στη Μίλαν – Όλα όσα πρέπει να γνωρίζετε",
 "url": "https://sportday.gr/podosfairo/365191_olympiakos-ta-eisitiria-kontra-sti-milan-ola-osa-prepei-na-gnorizete.html",
@@ -5134,18 +5146,6 @@
 "snippet": "O μηνιαίος αποκλεισμός του Τάιλερ Ντόρσεϊ, βάση της ποινής που του επιβλήθηκε από την ΚΑΕ Ολυμπιακός για πειθαρχικό παράπτωμα, βάση του εσωτερικού κανονισμού…",
 "also": [],
 "id": "8d51ca10e9b1"
-},
-{
-"title": "Ολυμπιακός: Τα 24 τρίποντα του Φουρνιέ και ο Ντόρσεϊ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fournie-soutare-24-triponta-se-dio-mats-ke-o-ntorsei-den-arki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T17:20+00:00",
-"sport": "general",
-"snippet": "Ο Φουρνιέ επιχείρησε 24 τρίποντα σε δύο αγώνες του Ολυμπιακού. Γιατί η επιστροφή Ντόρσεϊ δεν καλύπτει από μόνη της το κενό του Μοντέρο στην περιφέρεια.",
-"also": [],
-"id": "f0557d15a818"
 }
 ]
 }
