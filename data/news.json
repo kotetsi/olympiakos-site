@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-13T10:09:10+00:00",
+"generated_at": "2026-11-13T10:24:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μήνυμα… αφοσίωσης από τον Ντόρσεϊ (pic)",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15228531/olympiakos-minyma-afosiosis-apo-ton-ntorsei-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-13T10:19+00:00",
+"sport": "basket",
+"snippet": "Ο 30χρονος γκαρντ επέλεξε το τραγούδι «Dedication» των Nipsey Hussle και Kendrick Lamar. Ο διεθνής παίκτης επέστρεψε στις κανονικές προπονήσεις του Ολυμπιακού…",
+"also": [],
+"id": "5c57c5d2e2f8"
+},
+{
+"title": "Αντρέ Λουίς: Η πρόεδρος της Ρίο Άβε αποκάλυψε το παρασκήνιο της μεταγραφής του στον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/football/superleague/2586145/antre-loyis-i-proedros-tis-rio-abe-apokalypse-paraskinio-ti-metagrafis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T10:16+00:00",
+"sport": "football",
+"snippet": "Η πρόεδρος της Ρίο Άβε παραχώρησε συνέντευξη στην «A Bola» κι εξήγησε το πώς «ζύγισαν» την πρόταση του Ολυμπιακού με τον οποίο τελικά συμφώνησαν για τον Αντρέ…",
+"also": [],
+"id": "244950b6f6f5"
+},
+{
+"title": "Θύμισε ποιος είναι με νίκη… επανεκκίνησης",
+"url": "https://www.sdna.gr/mpasket/1486232_thymise-poios-einai-me-niki-epanekkinisis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T10:07+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός θύμισε στην Ντουμπάι τι ομάδα είναι και πως αν σε βρει… μπόσικο θα σε διαλύσει, σε μια νίκη… επανεκκίνησης για τους «ερυθρόλευκους»....",
+"also": [],
+"id": "c52295f9787e"
+},
 {
 "title": "Ολυμπιακός: Κυριαρχία, θέαμα και ένας Φουρνιέ σκέτη απόλαυση",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586140/olympiakos-kyriarhia-theama-kai-enas-foyrnie-sketi-apolaysi",
@@ -15,16 +51,28 @@
 "id": "3de068c724a5"
 },
 {
-"title": "Θύμισε ποιος είναι με νίκη… επανεκκίνησης",
-"url": "https://www.sdna.gr/mpasket/1486232_thymise-poios-einai-me-niki-epanekkinisis",
-"source": "sdna",
-"source_name": "SDNA",
+"title": "Ολυμπιακός: Η Ντουμπάι δεν ήξερε ποιον να μαρκάρει",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-i-ntoumpai-den-ixere-pion-na-markari?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T10:05+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός σκόραρε ασταμάτητα απέναντι στη Ντουμπάι, με 20 ασίστ και έξι λάθη. Γιατί η επίθεση πέτυχε και τι κρύβουν τα 16 επιθετικά ριμπάουντ.",
+"also": [],
+"id": "e1b4452673d2"
+},
+{
+"title": "Ο Ντόρσεϊ ανέβασε φωτογραφία από την προπόνηση του Ολυμπιακού με τραγούδι για «αφοσίωση»",
+"url": "http://www.sport-fm.gr/article/5160771",
+"source": "sport-fm",
+"source_name": "Sport FM",
 "official": false,
 "published": "2026-11-13T10:03+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός θύμισε στην Ντουμπάι τι ομάδα είναι και πως αν σε βρει… μπόσικο θα σε διαλύσει, σε μια νίκη… επανεκκίνησης για τους «ερυθρόλευκους»....",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ επανέρχεται στις προπονήσεις του Ολυμπιακού και η ανάρτησή του μιλάει για αφοσίωση.",
 "also": [],
-"id": "c52295f9787e"
+"id": "96d583b7fccc"
 },
 {
 "title": "Stoiximan GBL: Ποιοι θα σφυρίξουν το ντέρμπι Άρης-Ολυμπιακός",
@@ -83,7 +131,15 @@
 "published": "2026-11-13T09:23+00:00",
 "sport": "basket",
 "snippet": "Δείτε ποιοι διαιτητές ορίστηκαν στο Άρης-Ολυμπιακός και τα άλλα παιχνίδια της 7ης αγωνιστικής της Stoiximan GBL.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1486246_gbl-oi-diaitites-tis-7is-agonistikis-poioi-sfyrizoyn-sto-aris-olympiakos",
+"title": "GBL: Οι διαιτητές της 7ης αγωνιστικής - Ποιοι σφυρίζουν στο Άρης-Ολυμπιακός",
+"published": "2026-11-13T10:17+00:00"
+}
+],
 "id": "3f4b574a509d"
 },
 {
@@ -5090,54 +5146,6 @@
 "snippet": "Ο Δημήτρης Τσορμπατζόγλου γράφει για την ισοπαλία του Δικεφάλου με τον Ολυμπιακό και τα τεράστια κέρδη της ομάδας στην προσπάθεια να γίνει και γκρουπ.",
 "also": [],
 "id": "96f2b3884789"
-},
-{
-"title": "Sofascore: Κορυφαίος της Ligue 1 ο Κάσερες που ήταν κοντά στον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/football/ligue-1/2585066/sofascore-koryfaios-tis-ligue-1-o-kaseres-poy-itan-konta-ston-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T11:37+00:00",
-"sport": "football",
-"snippet": "Ο Κριστιάν Κάσερες είναι πρώτος στη κατά μέσο όρο βαθμολογία του Sofascore στη φετινή Ligue 1.",
-"also": [],
-"id": "f3fc5b3fecb5"
-},
-{
-"title": "Ζίβκοβιτς: «Έπιασε» τον... Αναστόπουλο και κυνηγάει τον Σιδέρη",
-"url": "https://www.gazzetta.gr/football/superleague/2585051/zibkobits-ennea-ta-gkol-toy-apenanti-stoys-erythroleykoys-kai-neo",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T11:36+00:00",
-"sport": "football",
-"snippet": "Δεν σταματάει να σκοράρει ο Ζίβκοβιτς απέναντι στον Ολυμπιακό εννέα τα γκολ του πλέον, παράλληλα ο ΠΑΟΚ δημιούργησε νέο αήττητο ρεκόρ κόντρα στους…",
-"also": [],
-"id": "cda9e85581ef"
-},
-{
-"title": "Παναθηναϊκός & Ολυμπιακός: Κυριαρχούν στα δίποντα, στενάζουν στα τρίποντα!",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2032610/panathinaikos-olimpiakos-kiriarchoun-sta-diponta-stenazoun-sta-triponta/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-09T11:32+00:00",
-"sport": "basket",
-"snippet": "Παναθηναϊκός και Ολυμπιακός, μία σύγκριση σε δίποντα και τρίποντα, μετά από 10 αγωνιστικές στην Ευρωλίγκα. The post Παναθηναϊκός & Ολυμπιακός: Κυριαρχούν στα…",
-"also": [],
-"id": "d78f811b789a"
-},
-{
-"title": "Μπούτσκος στο Gazz Floor: «Το κενό στη δημιουργία του Ολυμπιακού είναι ορατό»",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2585064/mpoytskos-sto-gazz-floor-keno-sti-dimioyrgia-toy-olympiakoy-einai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T11:25+00:00",
-"sport": "basket",
-"snippet": "Ο Παντελής Μπούτσκος σχολίασε στο Gazz Floor by Novibet το πρόβλημα που έχει δημιουργήσει στον Ολυμπιακό η απουσία των Μοντέρο και Ντόρσεϊ, ιδιαίτερα στο…",
-"also": [],
-"id": "f00953db930f"
 }
 ]
 }
