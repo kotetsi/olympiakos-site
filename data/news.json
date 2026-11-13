@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T15:42:46+00:00",
+"generated_at": "2026-11-13T15:57:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στα κόκκινα οι παίκτες",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-sta-kokkina-i-pektes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T15:40+00:00",
+"sport": "football",
+"snippet": "Ανησυχία στον Ολυμπιακό για τη φυσική κατάσταση των ποδοσφαιριστών, καθώς οι μετρήσεις δείχνουν μεγάλη επιβάρυνση και αυξημένο κίνδυνο τραυματισμών.",
+"also": [],
+"id": "995b2a8370dc"
+},
 {
 "title": "Ολυμπιακός: Πότε επιστρέφει ο Τάιλερ Ντόρσεϊ",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-parameni-ston-agonistiko-pago-o-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5148,18 +5160,6 @@
 "snippet": "Η ΚΑΕ Ολυμπιακός δημοσίευσε ένα βίντεο στα social media της ομάδας, παρουσιάζοντας δύο φάσεις από τα τελευταία λεπτά της αναμέτρησης με το Μαρούσι.",
 "also": [],
 "id": "36e5ca3baa12"
-},
-{
-"title": "Ολυμπιακός: Δημοσίευσε video για τη διαιτησία από φάσεις στον αγώνα με το Μαρούσι",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15222495/olympiakos-dimosieyse-video-gia-ti-diaitisia-apo-faseis-ston-agona-me-to-marousi/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-09T14:49+00:00",
-"sport": "basket",
-"snippet": "Οι «ερυθρόλευκοι» έφυγαν νικητές από το κλειστό του Αγίου Θωμά, επικρατώντας δύσκολα του Αμαρουσίου, ωστόσο φαίνεται πως είχαν αρκετά παράπονα από τις…",
-"also": [],
-"id": "c41ed2d5c8ed"
 }
 ]
 }
