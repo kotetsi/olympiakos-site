@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T06:22:16+00:00",
+"generated_at": "2026-11-13T06:37:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σύμπτωμα καλής ομάδας!",
+"url": "https://sportday.gr/basket/365128_olympiakos-symptoma-kalis-omadas.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-13T06:27+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός ρήμαξε τη Ντουμπάι βγάζοντας αντίδραση, δηλαδή αποδεικνύοντας πως είναι και φέτος μία πάρα πολύ καλή ομάδα...",
+"also": [],
+"id": "8ac81e93f6d3"
+},
 {
 "title": "Δεσπόζει το ντέρμπι Παναθηναϊκού-Ολυμπιακού",
 "url": "https://www.sdna.gr/bolei/1486202_despozei-ntermpi-panathinaikoy-olympiakoy",
@@ -5074,18 +5086,6 @@
 "snippet": "Ο Άντριγια Ζίβκοβιτς έφτασε τα 9 γκολ απέναντι στον Ολυμπιακό, έπιασε τον Νίκο Αναστόπουλο και πλέον πλησιάζει το ιστορικό ρεκόρ του Γιώργου Σιδέρη στα ντέρμπι.",
 "also": [],
 "id": "1ae289f3b0db"
-},
-{
-"title": "Ολυμπιακός: Πουέρτα και Φρόιλερ αν λείψει ο Έσε",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-pouerta-edixe-ti-allazi-an-lipsi-o-ese?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T05:29+00:00",
-"sport": "general",
-"snippet": "Ο Έσε περιμένει τη μαγνητική και ο Πουέρτα γίνεται βασική εναλλακτική στον άξονα του Ολυμπιακού. Οι επιλογές του Αλγουαθίλ πριν από Ηρακλή και Μίλαν.",
-"also": [],
-"id": "e27b47bab866"
 }
 ]
 }
