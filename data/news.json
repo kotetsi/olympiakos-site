@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T12:10:18+00:00",
+"generated_at": "2026-11-13T12:25:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αν πουλήσει τον Έσε τον Ιανουάριο, ο νέος χαφ δεν θα μπορεί να παίξει αμέσως στην Ευρώπη",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-an-poulisi-ton-ese-ton-ianouario-o-neos-chaf-den-tha-bori-na-pexi-amesos-stin-evropi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T12:19+00:00",
+"sport": "football",
+"snippet": "Ο Έσε συνδέεται με μεταγραφικά σενάρια, όμως μια πώληση τον Ιανουάριο αφήνει τον Ολυμπιακό χωρίς δικαίωμα να δηλώσει νέο χαφ στα ματς της Ευρώπης.",
+"also": [],
+"id": "3541c8c038ba"
+},
+{
+"title": "Ολυμπιακός: Παίκτης από το NBA;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-pektis-apo-to-nba?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T12:06+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός αναζητά γκαρντ από την Αμερική, αλλά ο Μπαρτζώκας χρειάζεται δημιουργία και όχι απλώς έναν ακόμη σκόρερ. Το εμπόδιο με τον Τζόουνς-Γκαρσία.",
+"also": [],
+"id": "e797b7c97e3d"
+},
 {
 "title": "Νικολακόπουλος: «Ήρθε ο Μονκάδα, άρχισαν οι μεταγραφικές συσκέψεις στον Ολυμπιακό»",
 "url": "http://www.sport-fm.gr/article/5160781",
@@ -5122,30 +5146,6 @@
 "snippet": "Όσο η αναποτελεσματικότητα παραμένει, τόσο θα χάνονται βαθμοί ακόμη και σε παιχνίδια στα οποία έχει τον πρώτο λόγο.",
 "also": [],
 "id": "e5f4d5219248"
-},
-{
-"title": "Ποιος είναι φαβορί για το πρωτάθλημα σύμφωνα με το Football Meets Data",
-"url": "https://www.metrosport.gr/poios-einai-favori-gia-to-protathlima-symfona-me-to-football-meets-data-1332921",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-09T12:50+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος με τον Ολυμπιακό εκτός έδρας στο «Γεώργιος Καραϊσκάκης», ενώ Παναθηναϊκός και ΑΕΚ έκαναν την ανατροπή απέναντι σε Ηρακλή ...",
-"also": [],
-"id": "34e5cac876e0"
-},
-{
-"title": "Ολυμπιακός: Σε ιστορικά χαμηλά όλων των εποχών η επίθεση (stats)",
-"url": "https://www.sdna.gr/podosfairo/1484991_olympiakos-se-istorika-hamila-olon-ton-epohon-i-epithesi-stats",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-09T12:10+00:00",
-"sport": "football",
-"snippet": "Τα 16 γκολ συνιστούν την 3η χειρότερη επιθετική επίδοση στα τελευταία 30 χρόνια",
-"also": [],
-"id": "8f5820e27327"
 }
 ]
 }
