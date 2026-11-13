@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T07:22:47+00:00",
+"generated_at": "2026-11-13T07:37:55+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακρής στο Gazz Floor: «Το Άρης-Ολυμπιακός θα είναι το ματς της σεζόν»",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586100/makris-sto-gazz-floor-aris-olympiakos-tha-einai-mats-tis-sezon",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T07:30+00:00",
+"sport": "basket",
+"snippet": "Ο Στέφανος Μακρής ανέλυσε στο Gazz Floor by Novibet τους λόγους για τους οποίους το Άρης - Ολυμπιακός που έρχεται θα είναι το καλύτερο ματς της σεζόν στην…",
+"also": [],
+"id": "7d8148dd0ccf"
+},
+{
+"title": "Τάιλερ Ντόρσεϊ: Η κουβέντα με τον Μπαρτζώκα",
+"url": "https://sportday.gr/basket/365135_tailer-ntorsei-i-kouventa-me-ton-mpartzoka.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-13T07:21+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ επιστρέφει στις προπονήσεις του Ολυμπιακού, με τον ίδιο να έχει μιλήσει με τους συμπαίκτες του, όπως θα γίνει και με τον Μπαρτζώκα",
+"also": [],
+"id": "2acecc6a4640"
+},
 {
 "title": "Ολυμπιακός και Τάιλερ Ντόρσεϊ έδωσαν... ραντεβού στις 12:00",
 "url": "https://www.metrosport.gr/olympiakos-kai-tailer-ntorsei-edosan-rantevoy-stis-12-00-1333391",
@@ -13,6 +37,18 @@
 "snippet": "Ο Ολυμπιακός έκανε «φύλλο και φτερό» την Ντουμπάι και στρέφει το ενδιαφέρον του στο κυριακάτικο (15/11, 17:30, Metropolis 95.5 – metrosport.gr – ΣΚΑΪ)...",
 "also": [],
 "id": "00d53bf5e7b0"
+},
+{
+"title": "Γκονζάλες: «Στον Ολυμπιακό ένιωσα σαν το σπίτι μου»",
+"url": "https://www.gazzetta.gr/football/superleague/2586098/gkonzales-ston-olympiako-eniosa-san-spiti-moy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T07:18+00:00",
+"sport": "football",
+"snippet": "Ο Αρμάντο Γκονζάλες παραχώρησε μία μακροσκελή συνέντευξη σε μέσο του Μεξικού, όπου μίλησε για τη ζωή του στην Αθήνα, καθώς και για το πως νιώθει που βρίσκεται…",
+"also": [],
+"id": "c002dfd63c8c"
 },
 {
 "title": "Ολυμπιακός: Ο Μπαρτζώκας έβγαλε τον Μίλερ από την πεντάδα και κέρδισε δύο παίκτες!",
@@ -282,6 +318,13 @@
 "url": "https://www.ertsports.gr/omades/olympiakos/epistrefei-stis-proponiseis-tou-olympiakou-o-ntorsei/",
 "title": "Επιστρέφει στις προπονήσεις του Ολυμπιακού ο Ντόρσεϊ",
 "published": "2026-11-12T21:58+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160725",
+"title": "Τα δεδομένα για Ντόρσεϊ που επιστρέφει στις προπονήσεις του Ολυμπιακού",
+"published": "2026-11-13T07:23+00:00"
 }
 ],
 "id": "4fd5a9893e91"
@@ -5050,42 +5093,6 @@
 "snippet": "Ο Ρόκα σκόραρε με Παναιτωλικό και Κηφισιά, όμως ο Άρης Π. θεωρεί πως έχει ακόμη δρόμο για να καθιερωθεί βασικός. Η κριτική για το 1-1 με τον ΠΑΟΚ.",
 "also": [],
 "id": "6af5922e8bcc"
-},
-{
-"title": "Ολυμπιακός: Να αξιοποιηθούν τα «δώρα»!",
-"url": "https://sportday.gr/blogs/christakos/364717_olympiakos-na-aksiopoiithoun-ta-dora.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-09T07:00+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός δεν ήταν καλός, έκανε λάθη αμυντικά κόντρα στον ΠΑΟΚ, αλλά είναι νωρίς ακόμα και αυτά μπορούν να βοηθήσουν για τη συνέχεια! Γράφει ο Αλέξανδρος…",
-"also": [],
-"id": "be05e7cfcae5"
-},
-{
-"title": "Ολυμπιακός: 14 λεπτά χωρίς τελική μετά το 1-1",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-imanol-milise-gia-astochia-alla-ta-14-lepta-choris-sout-den-krivonte?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T06:59+00:00",
-"sport": "general",
-"snippet": "Μετά το 1-1 με τον ΠΑΟΚ, ο Ολυμπιακός έμεινε 14 λεπτά χωρίς σουτ. Οι πέντε τελικές που ακολούθησαν δείχνουν τι δεν λειτούργησε για τον Ιμανόλ.",
-"also": [],
-"id": "4a696c141093"
-},
-{
-"title": "Ολυμπιακός: Ο «Πρωταθλητής» για το δώρο στον ΠΑΟΚ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-protathlitis-ta-vazi-me-tous-dikous-tou-gia-to-doro-ston-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T06:54+00:00",
-"sport": "general",
-"snippet": "Το εξώφυλλο του «Πρωταθλητή» κατακεραυνώνει το λάθος Ορτέγκα και Τικνιζιάν στο 1-1 με τον ΠΑΟΚ. Η ασυνεννοησία που κόστισε δύο βαθμούς στον Ολυμπιακό.",
-"also": [],
-"id": "e131145f88e3"
 }
 ]
 }
