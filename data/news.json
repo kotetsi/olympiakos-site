@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T06:07:09+00:00",
+"generated_at": "2026-11-13T06:22:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Δεσπόζει το ντέρμπι Παναθηναϊκού-Ολυμπιακού",
+"url": "https://www.sdna.gr/bolei/1486202_despozei-ntermpi-panathinaikoy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T05:59+00:00",
+"sport": "general",
+"snippet": "Με το σούπερ ντέρμπι ανάμεσα στον Παναθηναϊκό και τον Ολυμπιακό να συγκεντρώνει τα περισσότερα βλέμματα, συνεχίζεται το τριήμερο 13-15 Νοεμβρίου το...",
+"also": [],
+"id": "166585829376"
+},
 {
 "title": "Ολυμπιακός: Ο Μπαρτζώκας θέλει τον Ντόρσεϊ, αλλά όχι τα παράπονά του",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-theli-ton-ntorsei-alla-ochi-ta-parapona-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5074,18 +5086,6 @@
 "snippet": "Ο Έσε περιμένει τη μαγνητική και ο Πουέρτα γίνεται βασική εναλλακτική στον άξονα του Ολυμπιακού. Οι επιλογές του Αλγουαθίλ πριν από Ηρακλή και Μίλαν.",
 "also": [],
 "id": "e27b47bab866"
-},
-{
-"title": "Ολυμπιακός: Η πρώτη εικόνα για τον Έσε",
-"url": "https://www.gazzetta.gr/football/superleague/2584956/olympiakos-i-proti-eikona-gia-ton-ese",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T01:54+00:00",
-"sport": "football",
-"snippet": "Για κάκωση έσω πλαγίου συνδέσμου στο γόνατο του Σαντιάγκο Έσε μιλούν οι πρώτες πληροφορίες.",
-"also": [],
-"id": "96258242f7af"
 }
 ]
 }
