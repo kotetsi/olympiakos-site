@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T08:08:10+00:00",
+"generated_at": "2026-11-13T08:23:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Γκονζάλες: Η ζωή στην Ελλάδα, η προσαρμογή στον Ολυμπιακό και η αποκάλυψη για το παρατσούκλι «Hormiga»",
+"url": "https://www.sdna.gr/podosfairo/1486218_gkonzales-i-zoi-stin-ellada-i-prosarmogi-ston-olympiako-kai-i-apokalypsi-gia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T08:14+00:00",
+"sport": "football",
+"snippet": "Ο Αρμάντο Γκονζάλες μίλησε για την εμπειρία του στον Ολυμπιακό, τη ζωή στην Αθήνα και την προσαρμογή του στο ελληνικό ποδόσφαιρο, αποκαλύπτοντας...",
+"also": [],
+"id": "153acdc6e16d"
+},
 {
 "title": "Μακάμπι: Με δύο σημαντικά ερωτήματα ενόψει Ολυμπιακού – Αμφίβολοι Μαντάρ και Μπρίσετ",
 "url": "https://www.sdna.gr/mpasket/1486216_makampi-me-dyo-simantika-erotimata-enopsei-olympiakoy-amfiboloi-mantar-kai-mpriset",
@@ -5089,18 +5101,6 @@
 "snippet": "Ο Ολυμπιακός συνέχισε την αήττητη πορεία του στη Water Polo League Γυναικών, διατηρώντας το απόλυτο των νικών, ενώ ΠΑΟΚ και Εθνικός πήραν σημαντικά...",
 "also": [],
 "id": "c085b86cd851"
-},
-{
-"title": "O Θρύλος με τα δώρα, ο γκαρντ & παίκτες που είναι στα όριά τους | Ολυμπιακός Q&A by Interwetten",
-"url": "https://www.gazzetta.gr/football/2585009/o-thrylos-me-ta-dora-o-gkarnt-paiktes-poy-einai-sta-oria-toys-olympiakos-qa",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T08:41+00:00",
-"sport": "football",
-"snippet": "Η ερυθρόλευκη επικαιρότητα στο Q&A by Interwetten του Gazzetta. Ο Αλέξης Βιρβίλης και ο Παναγιώτης Ραμαντάνης μεταφέρουν το ρεπορτάζ κι απαντούν στις ερωτήσεις…",
-"also": [],
-"id": "b56b84ed2302"
 }
 ]
 }
