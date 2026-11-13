@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-13T13:56:41+00:00",
+"generated_at": "2026-11-13T14:11:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το σχόλιο του Ντόρσεϊ σε λογαριασμό στο Instagram που προκάλεσε νέες απορίες",
+"url": "https://sportday.gr/basket/365166_olympiakos-to-scholio-tou-ntorsei-se-logariasmo-sto-instagram-pou-prokalese-nees-apories.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-13T14:05+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ προκάλεσε νέα ερωτηματικά",
+"also": [],
+"id": "95ac1cc1749b"
+},
+{
+"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ κόντρα σε Άρη και Μακάμπι",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586217/olympiakos-horis-ntorsei-kontra-se-ari-kai-makampi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T13:58+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ θα μείνει εκτός από τις αναμετρήσεις του Ολυμπιακού με τον Άρη και τη Μακάμπι Τελ Αβίβ.",
+"also": [],
+"id": "1346c7514d9f"
+},
+{
+"title": "Επιστροφή στα βασικά και προσθήκη για τον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1486297_epistrofi-sta-basika-kai-prosthiki-gia-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T13:55+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός επέστρεψε στο καλό μπάσκετ κάνοντας ένα ολοκληρωμένο παιχνίδι που τόσο είχε ανάγκη τη συγκεκριμένη χρονική στιγμή. Γράφει ο Hoopfellas.",
+"also": [],
+"id": "b01bf00076dc"
+},
 {
 "title": "Ολυμπιακός: Ο Ντόρσεϊ επέστρεψε στις προπονήσεις αλλά δεν παίζει με Άρη και Μακάμπι!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15228647/olympiakos-o-ntorsei-epestrepse-stis-proponiseis-alla-den-paizei-me-ari-kai-makampi/",
@@ -5110,42 +5146,6 @@
 "snippet": "Ο Ολυμπιακός χάνει έδαφος στη μάχη του τίτλου από ατομικά λάθη και αδυναμίες στο ρόστερ, αλλά και τις διαιτητικές αποφάσεις σε αγώνες Παναθηναϊκού και ΑΕΚ.",
 "also": [],
 "id": "facbbb45add6"
-},
-{
-"title": "Πλήγμα με Έσε στον Ολυμπιακό",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15222466/pligma-me-ese-ston-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-09T14:11+00:00",
-"sport": "football",
-"snippet": "Ο Αργεντινός μέσος υποβλήθηκε σε μαγνητική τομογραφία, η οποία έδειξε ότι υπέστη κάκωση στον έσω πλάγιο σύνδεσμο του γόνατος, επιβεβαιώνοντας την αρχική…",
-"also": [],
-"id": "7de83eeb1d0a"
-},
-{
-"title": "Ολυμπιακός: Τα ματς που χάνει ο Έσε και ο Σιπιόνι",
-"url": "https://sportime.gr/podosfairo/olimpiakos-afta-ta-mats-chani-o-ese-i-megali-efkeria-tou-sipioni?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T14:07+00:00",
-"sport": "football",
-"snippet": "Ο Σαντιάγο Έσε μένει εκτός για πάνω από έξι εβδομάδες και κινδυνεύει να χάσει οκτώ αγώνες. Η απουσία του ανοίγει τον δρόμο στον Σιπιόνι.",
-"also": [],
-"id": "d9a135c1c55c"
-},
-{
-"title": "Ολυμπιακός: Σοκ με Έσε, νοκ άουτ για 1,5 μήνα",
-"url": "https://www.sdna.gr/taxonomy/term/1485056_olympiakos-sok-me-ese-nok-aoyt-gia-15-mina",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-09T14:04+00:00",
-"sport": "general",
-"snippet": "Επιβεβαιώθηκαν οι φόβοι στον Ολυμπιακό για τον Σαντιάγκο Έσε.",
-"also": [],
-"id": "e6ab3d2ea10e"
 }
 ]
 }
