@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T14:27:06+00:00",
+"generated_at": "2026-11-13T14:42:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Εκτός ο Ντόρσεϊ εναντίον Άρη και Μακάμπι",
+"url": "https://sportday.gr/basket/365168_olympiakos-ektos-o-ntorsei-enantion-ari-kai-makampi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-13T14:35+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός καλωσόρισε ξανά πίσω στις προπονήσεις (13/10) τον Τάιλερ Ντόρσεϊ, αλλά τον έθεσε εκτός παιχνιδιών κόντρα στον Άρη (15/11) και την Μακάμπι Τελ Αβίβ…",
+"also": [],
+"id": "60a151bf8627"
+},
+{
+"title": "Άρης: Χωρίς Ντόρσεϊ ο Ολυμπιακός στη Θεσσαλονίκη",
+"url": "https://www.metrosport.gr/aris-choris-ntorsei-o-olympiakos-sti-thessaloniki-1333453",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-13T14:31+00:00",
+"sport": "basket",
+"snippet": "Ο Άρης υποδέχεται το απόγευμα της Κυριακής (15/11, 17:30) τον Ολυμπιακό στο πλαίσιο της 7ης αγωνιστικής της Stoiximan GBL σε ένα παιχνίδι που ...",
+"also": [],
+"id": "8439882087d8"
+},
 {
 "title": "Άρης: Ο Σπανούλης έχει περισσότερα να χάσει με τη Λε Μαν παρά με τον Ολυμπιακό",
 "url": "https://sportime.gr/aris-fc/aris-o-spanoulis-echi-perissotera-na-chasi-me-ti-le-man-para-me-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -60,6 +84,13 @@
 "source_name": "Sport FM",
 "url": "http://www.sport-fm.gr/article/5160815",
 "title": "Ολυμπιακός: Χωρίς Ντόρσεϊ κόντρα σε Άρη και Μακάμπι Τελ Αβίβ",
+"published": "2026-11-13T14:23+00:00"
+},
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/heba-el/2034556/olimpiakos-choris-ntorsei-me-ari-ke-makampi-tel-aviv/",
+"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ με Άρη και Μακάμπι Τελ Αβίβ",
 "published": "2026-11-13T14:23+00:00"
 }
 ],
@@ -5137,30 +5168,6 @@
 "snippet": "Ο Τόμας Ουόκαπ συνεχίζει να μένει εκτός αγωνιστικής δράσης για την Ντουμπάι, η οποία θα έρθει χωρίς τον Τεξανό πόιντ γκαρντ και στην Ελλάδα για το ματς με τον…",
 "also": [],
 "id": "6f8d167a45dc"
-},
-{
-"title": "Μαρούσι - Ολυμπιακός: Το ειρωνικό post των «ερυθρόλευκων» για τις διαιτητικές αποφάσεις στα τελευταία λεπτά του ματς",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2585119/maroysi-olympiakos-eironiko-post-ton-erythroleykon-gia-tis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T14:44+00:00",
-"sport": "basket",
-"snippet": "Με μία ανάρτηση στο «Χ» ο Ολυμπιακός δημοσίευσε κάποιες στιγμές από τα τελευταία λεπτά του ματς με το Μαρούσι αναφορικά με τις διαιτητικές αποφάσεις.",
-"also": [],
-"id": "f0626f9621f3"
-},
-{
-"title": "Ολυμπιακός: Τα έξι 1-0 και η γκέλα με τον ΠΑΟΚ",
-"url": "https://sportime.gr/olimpiakos/nikolakopoulos-olimpiakos-de-ginete-doulia-etsi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T14:30+00:00",
-"sport": "general",
-"snippet": "Ο Νικολακόπουλος στάθηκε στις έξι νίκες του Ολυμπιακού με 1-0 και εξήγησε γιατί η παθητική αντίδραση και το λάθος του Ορτέγκα κόστισαν με τον ΠΑΟΚ.",
-"also": [],
-"id": "f43b9b510646"
 }
 ]
 }
