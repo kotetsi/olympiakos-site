@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-13T15:57:54+00:00",
+"generated_at": "2026-11-13T16:13:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ντόρσεϊ: Ο λόγος που η τιμωρία του τελείωσε δύο μέρες νωρίτερα",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586216/tailer",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T16:06+00:00",
+"sport": "basket",
+"snippet": "Οι «ερυθρόλευκοι» απέδειξαν ότι συνεχίζουν να υπολογίζουν στον Ντόρσεϊ και θέλουν να τον εντάξουν ξανά στην αγωνιστική λειτουργία τους, κάτι που φάνηκε από…",
+"also": [],
+"id": "a94d215e0ae0"
+},
+{
+"title": "Αντρέ Λουίς: Γιατί η Ρίο Άβε επέλεξε τον Ολυμπιακό αντί της Μπενφίκα",
+"url": "https://www.sdna.gr/podosfairo/1486351_antre-loyis-giati-i-rio-abe-epelexe-ton-olympiako-anti-tis-mpenfika",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T16:01+00:00",
+"sport": "football",
+"snippet": "Η πρόεδρος της Ρίο Άβε, Αλεξαντρίνα Κρουζ, εξήγησε το παρασκήνιο της μεταγραφής του Αντρέ Λουίς στον Ολυμπιακό, απαντώντας στην κριτική για τις...",
+"also": [],
+"id": "0220eccb1fc0"
+},
+{
+"title": "Τα εισιτήρια του αγώνα Ολυμπιακός – AC Milan",
+"url": "https://www.olympiacos.org/2026/11/13/ta-eisitiria-tou-agona-olympiakos-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-13T15:57+00:00",
+"sport": "general",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός σχετικά με τα εισιτήρια του εντός έδρας αγώνα απέναντι στην AC Milan.",
+"also": [],
+"id": "f7194b3b762a"
+},
 {
 "title": "Ολυμπιακός: Στα κόκκινα οι παίκτες",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-sta-kokkina-i-pektes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5124,42 +5160,6 @@
 }
 ],
 "id": "b800cc7d176f"
-},
-{
-"title": "Ολυμπιακός: Βίντεο με τα φάουλ στο ματς με το Μαρούσι",
-"url": "https://sportime.gr/basket/olimpiakos-anevase-vinteo-me-tis-dietitikes-apofasis-pou-ton-exorgisan-kontra-sto-marousi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T15:23+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός δημοσίευσε βίντεο με δύο επίμαχες φάσεις στα τελευταία δευτερόλεπτα του αγώνα με το Μαρούσι, από τις οποίες προέκυψαν τέσσερις βολές.",
-"also": [],
-"id": "a75cc06f238f"
-},
-{
-"title": "Ολυμπιακός: Ξανά θέμα Ζέλσον Μάρτινς",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-xana-thema-zelson-martins?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T15:13+00:00",
-"sport": "general",
-"snippet": "Ο Ζέλσον Μάρτινς προβληματίζεται για τον ρόλο του στον Ολυμπιακό μετά την αλλαγή προπονητή. Η πρόταση της Κράσνονταρ και το ενδεχόμενο αποχώρησης τον Ιανουάριο.",
-"also": [],
-"id": "2e1ae3af2b21"
-},
-{
-"title": "Ο Ολυμπιακός δημοσίευσε βίντεο με δύο φάσεις από την αναμέτρηση με το Μαρούσι",
-"url": "http://www.sport-fm.gr/article/5160039",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T15:08+00:00",
-"sport": "general",
-"snippet": "Η ΚΑΕ Ολυμπιακός δημοσίευσε ένα βίντεο στα social media της ομάδας, παρουσιάζοντας δύο φάσεις από τα τελευταία λεπτά της αναμέτρησης με το Μαρούσι.",
-"also": [],
-"id": "36e5ca3baa12"
 }
 ]
 }
