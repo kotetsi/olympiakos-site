@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T07:07:41+00:00",
+"generated_at": "2026-11-13T07:22:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός και Τάιλερ Ντόρσεϊ έδωσαν... ραντεβού στις 12:00",
+"url": "https://www.metrosport.gr/olympiakos-kai-tailer-ntorsei-edosan-rantevoy-stis-12-00-1333391",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-13T07:19+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός έκανε «φύλλο και φτερό» την Ντουμπάι και στρέφει το ενδιαφέρον του στο κυριακάτικο (15/11, 17:30, Metropolis 95.5 – metrosport.gr – ΣΚΑΪ)...",
+"also": [],
+"id": "00d53bf5e7b0"
+},
+{
+"title": "Ολυμπιακός: Ο Μπαρτζώκας έβγαλε τον Μίλερ από την πεντάδα και κέρδισε δύο παίκτες!",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-evgale-ton-miler-apo-tin-pentada-ke-kerdise-dio-pektes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T07:13+00:00",
+"sport": "general",
+"snippet": "Ο Μπαρτζώκας ξεκίνησε τον Τζόζεφ αντί του Μίλερ με την Ντουμπάι και βγήκε κερδισμένος και από τους δύο. Τι άλλαξε στην επίθεση του Ολυμπιακού και γιατί.",
+"also": [],
+"id": "d361968e3563"
+},
 {
 "title": "Ολυμπιακός - Ντουμπάι BC: Ο διαστημικός Φουρνιέ, ο Βεζένκοβ και η «ερυθρόλευκη» άμυνα στο Pick and Roll",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586088/olympiakos-ntoympai-bc-o-diastimikos-foyrnie-o-bezenkob-kai-i",
@@ -333,14 +357,14 @@
 "id": "6d372f042d7c"
 },
 {
-"title": "Μπαφές: «Η τιμωρία του Ντόρσεϊ τελείωσε, αύριο στις 12:00 θα συμμετέχει στην προπόνηση της ομάδας»",
+"title": "Μπαφές: «Η τιμωρία του Ντόρσεϊ τελείωσε, την Παρασκευή στις 12:00 θα συμμετέχει στην προπόνηση της ομάδας»",
 "url": "https://www.gazzetta.gr/basketball/2586050/mpafes-i-timoria-toy-ntorsei-teleiose-ayrio-stis-1200-tha-symmetehei-stin",
 "source": "gazzetta",
 "source_name": "Gazzetta",
 "official": false,
 "published": "2026-11-12T21:44+00:00",
 "sport": "basket",
-"snippet": "Ο Χρήστος Μπαφές στη συνέντευξη Τύπου του Ολυμπιακού μετά τη νίκη επί της Ντουμπάι BC, αποκάλυψε πως ο Τάιλερ Ντόρσεϊ θα βρίσκεται στην αυριανή (13/11)…",
+"snippet": "Ο Χρήστος Μπαφές στη συνέντευξη Τύπου του Ολυμπιακού μετά τη νίκη επί της Ντουμπάι BC, αποκάλυψε πως ο Τάιλερ Ντόρσεϊ θα βρίσκεται στην προπόνηση των…",
 "also": [],
 "id": "cabb755c9107"
 },
@@ -5062,30 +5086,6 @@
 "snippet": "Το εξώφυλλο του «Πρωταθλητή» κατακεραυνώνει το λάθος Ορτέγκα και Τικνιζιάν στο 1-1 με τον ΠΑΟΚ. Η ασυνεννοησία που κόστισε δύο βαθμούς στον Ολυμπιακό.",
 "also": [],
 "id": "e131145f88e3"
-},
-{
-"title": "Ολυμπιακός: Σύμπτωση επαναλαμβανόμενη...",
-"url": "https://www.gazzetta.gr/football/superleague/2584952/olympiakos-symptosi-epanalambanomeni",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T06:45+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr, ότι όπως την πάτησε με τον ΠΑΟΚ στο Καραϊσκάκη, εύκολα μπορούσε να την πατήσει και σε άλλα παιχνίδια που…",
-"also": [],
-"id": "2c11643d4b8b"
-},
-{
-"title": "Ο ΠΑΟΚ γκέλαρε φυσιολογικά και τώρα φυσιολογικά ρολάρει",
-"url": "https://www.metrosport.gr/o-paok-gkelare-fysiologika-kai-tora-fysiologika-rolarei-1332890",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-09T06:35+00:00",
-"sport": "football",
-"snippet": "Δεν προξενεί έκπληξη πλέον σε κανένα που ο ΠΑΟΚ φεύγει αλώβητος σε ένα παιχνίδι κόντρα στον Ολυμπιακό στο Καραϊσκάκη. Έχει αποδειχθεί ξανά και ξανά ...",
-"also": [],
-"id": "eb56bbbe0a40"
 }
 ]
 }
