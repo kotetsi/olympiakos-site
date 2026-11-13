@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T11:24:53+00:00",
+"generated_at": "2026-11-13T11:40:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ντόρσεϊ γύρισε, αλλά ο Άρης δεν είναι ματς για χαρισμένα λεπτά",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-ntorsei-girise-alla-o-aris-den-ine-mats-gia-charismena-lepta?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T11:19+00:00",
+"sport": "general",
+"snippet": "Ο Ντόρσεϊ γύρισε στον Ολυμπιακό, όμως ο Άρης δεν προσφέρεται για χαρισμένα λεπτά. Ο Μπαρτζώκας χρειάζεται ουσία στην άμυνα και καθαρό ρόλο στην επίθεση.",
+"also": [],
+"id": "ef05bd3eacbf"
+},
 {
 "title": "Ολυμπιακός: Ο Μπαρτζώκας αφήνει έξω τον Ντάνστον και ζητά πλέι μέικερ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-afini-exo-ton-ntanston-ke-zita-plei-meiker?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5134,18 +5146,6 @@
 "snippet": "Ο Αντρίγια Ζίβκοβιτς σκόραρε το γκολ της ισοφάρισης του ΠΑΟΚ στο «Γ. Καραϊσκάκης» κόντρα στον Ολυμπιακό, το 10ο του στα ντέρμπι των δύο ομάδων. Ο ...",
 "also": [],
 "id": "56c2bc8256c0"
-},
-{
-"title": "Στίβος: Ένα ιστορικό ολυμπιακό αγώνισμα κινδυνεύει με «έξωση» από τους Αγώνες του 2032!",
-"url": "https://sportday.gr/sports/stivos/364757_stivos-ena-istoriko-olympiako-agonisma-kindynevei-me-eksosi-apo-tous-agones-tou-2032.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-09T12:04+00:00",
-"sport": "general",
-"snippet": "Ένα από τα πιο ιστορικά αγωνίσματα του κλασικού αθλητισμού ενδέχεται να απουσιάσει από το πρόγραμμα των Ολυμπιακών Αγώνων του Μπρίσμπεϊν το 2032.",
-"also": [],
-"id": "5012cdc59f5f"
 }
 ]
 }
