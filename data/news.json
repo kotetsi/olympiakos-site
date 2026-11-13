@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T09:23:48+00:00",
+"generated_at": "2026-11-13T09:38:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αγώνας δρόμου για τον Έσε",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15228481/olympiakos-agonas-dromou-gia-ton-ese/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-13T09:27+00:00",
+"sport": "football",
+"snippet": "Ο Αργεντινός μέσος έχει υποστεί κάκωση στον έσω πλάγιο σύνδεσμο του δεξιού γονάτου στον αγώνα με τον ΠΑΟΚ και ακολουθεί ειδικό πρόγραμμα, προκειμένου να…",
+"also": [],
+"id": "8eeedc14b887"
+},
+{
+"title": "Stoiximan GBL: Οι διαιτητές της 7ης αγωνιστικής-Ποιοι σφυρίζουν Άρης-Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5160760",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-13T09:23+00:00",
+"sport": "basket",
+"snippet": "Δείτε ποιοι διαιτητές ορίστηκαν στο Άρης-Ολυμπιακός και τα άλλα παιχνίδια της 7ης αγωνιστικής της Stoiximan GBL.",
+"also": [],
+"id": "3f4b574a509d"
+},
 {
 "title": "Στο ΣΕΦ για την προπόνηση του Ολυμπιακού ο Ντόρσεϊ",
 "url": "https://www.sdna.gr/mpasket/1486234_sto-sef-gia-tin-proponisi-toy-olympiakoy-o-ntorsei",
@@ -11,7 +35,15 @@
 "published": "2026-11-13T09:14+00:00",
 "sport": "basket",
 "snippet": "Η τιμωρία του ομογενούς γκαρντ έλαβε τέλος και επέστρεψε την Παρασκευή (13/11) στις προπονήσεις του Ολυμπιακού.",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586132/ntorsei-sto-sef-gia-tin-proponisi-toy-olympiakoy",
+"title": "Ντόρσεϊ: Στο ΣΕΦ για την προπόνηση του Ολυμπιακού",
+"published": "2026-11-13T09:31+00:00"
+}
+],
 "id": "98ba65e854af"
 },
 {
@@ -5085,30 +5117,6 @@
 "snippet": "Για την 11η αγωνιστική της EuroLeague, ο πρωταθλητής Ευρώπης Ολυμπιακός υποδέχεται στη SUNEL Arena τη Ντουμπάι (12/11, 21:15), ενώ ο επτάστερος Παναθηναϊκός…",
 "also": [],
 "id": "44c1ad7c93a8"
-},
-{
-"title": "Ολυμπιακός: Έγινε καλύτερος, αλλά ισοφαρίστηκε κωμικά...",
-"url": "https://www.gazzetta.gr/football/2585044/olympiakos-egine-kalyteros-alla-isofaristike-komika",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T10:27+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta για τον Ολυμπιακό και το χθεσινό ντέρμπι στο Καραϊσκάκη.",
-"also": [],
-"id": "2efe9d1c37c1"
-},
-{
-"title": "Ολυμπιακός: 6 γκολ από αλλαγές σε 4 ματς Super League",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-exi-gkol-apo-ton-pagko-ke-mono-dio-vasiki-skorer-sta-tessera-teleftea-mats-protathlimatos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T10:22+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός πέτυχε 11 γκολ στα τέσσερα τελευταία παιχνίδια πρωταθλήματος και τα έξι ήρθαν από αλλαγές.Η σύγκριση που προβληματίζει τον Ιμανόλ για τους βασικούς",
-"also": [],
-"id": "1485ea316bbf"
 }
 ]
 }
