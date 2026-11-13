@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T21:31:01+00:00",
+"generated_at": "2026-11-13T21:46:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βαθμολογία Ευρωλίγκα: Όχι πια #1 ο Παναθηναϊκός – Κι ο Ολυμπιακός στην τετραπλή ισοβαθμία στην κορυφή",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2034748/vathmologia-evroligka-ochi-pia-1-o-panathinaikos-ki-o-olimpiakos-stin-tetrapli-isovathmia-stin-korifi/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-13T21:36+00:00",
+"sport": "basket",
+"snippet": "Ο Παναθηναϊκός έπεσε για πρώτη φορά από το #1 στην κατάταξη της Ευρωλίγκας. The post Βαθμολογία Ευρωλίγκα: Όχι πια #1 ο Παναθηναϊκός – Κι ο Ολυμπιακός στην…",
+"also": [],
+"id": "fa533ab5bfb3"
+},
+{
+"title": "Βαθμολογία Ευρωλίγκας: Τετραπλή ισοβαθμία με Παναθηναϊκό, Ολυμπιακό, Μπαρτσελόνα και Βαλένθια στην κορυφή",
+"url": "http://www.sport-fm.gr/article/5160845",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-13T21:31+00:00",
+"sport": "basket",
+"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της Ευρωλίγκας μετά την εντός έδρας ήττα του Παναθηναϊκού από την Μπαρτσελόνα και την ολοκλήρωση της 11ης αγωνιστικής!",
+"also": [],
+"id": "2e9825e7e28f"
+},
 {
 "title": "Ολυμπιακός: Επιμένει για Ντέιβιντ Τζόουνς-Γκαρσία",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-epimeni-gia-nteivint-tzoouns-gkarsia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5122,30 +5146,6 @@
 "snippet": "Ο Τσικίνιο προβλημάτισε στο Ολυμπιακός - ΠΑΟΚ 1-1, με 14 χαμένες κατοχές και μόλις 0,05 xA. Τα στατιστικά που ανοίγουν συζήτηση για τη θέση του.",
 "also": [],
 "id": "98a4f0b28cab"
-},
-{
-"title": "Νικολακόπουλος: «Το ρεπό του Ιμανόλ και η πρόβλεψη για Έσε στον Ολυμπιακό»",
-"url": "http://www.sport-fm.gr/article/5160079",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T19:54+00:00",
-"sport": "general",
-"snippet": "Ακούστε το ρεπορτάζ του Κώστα Νικολακόπουλου στον bwinΣΠΟΡ FM 94,6 για τον Ολυμπιακό.",
-"also": [],
-"id": "2e868c0eac09"
-},
-{
-"title": "ΠΑΟΚ-Γιάκιτς: Ο Μπίλιτς τον αποθέωσε και μία ημέρα μετά τραυματίστηκε!",
-"url": "https://www.metrosport.gr/paok-giakits-o-mpilits-ton-apotheose-kai-mia-imera-meta-traymatistike-1332982",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-09T19:50+00:00",
-"sport": "football",
-"snippet": "Άτυχος στάθηκε ο Κρίστιαν Γιάκιτς, καθώς ο τραυματισμός του στο μεγάλο ντέρμπι του ΠΑΟΚ με τον Ολυμπιακό στο «Γ. Καραϊσκάκης» ήρθε σε μία ιδιαίτερα ...",
-"also": [],
-"id": "f7e53449f6b6"
 }
 ]
 }
