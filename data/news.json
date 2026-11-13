@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T20:45:40+00:00",
+"generated_at": "2026-11-13T21:00:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αδικούν τον Γκουστάβο Σα;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-adikoun-ton-gkoustavo-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T20:44+00:00",
+"sport": "football",
+"snippet": "Ο Γκουστάβο Σα δέχεται κριτική στον Ολυμπιακό, όμως η αξιολόγηση Elo τον φέρνει πρώτο μεταξύ των U23 της Super League. Τι δείχνουν τα στοιχεία.",
+"also": [],
+"id": "972589cd9e48"
+},
 {
 "title": "Άρης: Με το σερί του «μετριέται» με τον Ολυμπιακό",
 "url": "https://www.metrosport.gr/aris-me-to-seri-toy-metrietai-me-ton-olympiako-1333444",
@@ -5134,18 +5146,6 @@
 "snippet": "Η εμφάνιση του Ζοέλ Ρόκα στο ντέρμπι Ολυμπιακός - ΠΑΟΚ, οι δυσκολίες απέναντι στον Άριτς Ελουστόντο και η χαμένη ευκαιρία μπροστά στην εστία.",
 "also": [],
 "id": "d3dd77db9df3"
-},
-{
-"title": "Ολυμπιακός: Πώς μπορεί να καλυφθεί το κενό του Έσε",
-"url": "https://www.gazzetta.gr/football/superleague/2585140/olympiakos-pos-mporei-na-kalyfthei-keno-toy-ese",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T19:35+00:00",
-"sport": "football",
-"snippet": "Ο Αργεντίνος χαφ πολύ δύσκολα θα προλάβει άλλο ματς μέσα στο 2026 και έτσι ο Ολυμπιακός θα καλύψει εκ των έσω το κενό του.",
-"also": [],
-"id": "d9fbda08cf1e"
 }
 ]
 }
