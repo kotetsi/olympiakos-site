@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-12T23:49:06+00:00",
+"generated_at": "2026-11-13T00:04:13+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τα highlights από τη νίκη του Ολυμπιακού επί της Ντουμπάι (vid)",
+"url": "https://www.sdna.gr/mpasket/1486148_ta-highlights-apo-ti-niki-toy-olympiakoy-epi-tis-ntoympai-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-12T23:59+00:00",
+"sport": "basket",
+"snippet": "Μία εβδομάδα μετά την πολύ κακή εμφάνισή του με τον Ερυθρό Αστέρα στη SUNEL Arena, ο Ολυμπιακός έβγαλε αντίδραση απέναντι στην Ντουμπάι στο ίδιο...",
+"also": [],
+"id": "5ca26cb9fc39"
+},
 {
 "title": "Το μήνυμα της ΚΑΕ Ολυμπιακός για το ιστορικό ρεκόρ του Βεζένκοφ: «Τα καλύτερα έρχονται»",
 "url": "http://www.sport-fm.gr/article/5160678",
@@ -5074,18 +5086,6 @@
 "snippet": "Ο Αργεντινός μέσος αποχώρησε κουτσαίνοντας από τον αγωνιστικό χώρο, με τις πρώτες εκτιμήσεις του ιατρικού επιτελείου να κάνουν λόγο για κάκωση έσω πλαγίου…",
 "also": [],
 "id": "f3744b95d9e0"
-},
-{
-"title": "Αλγουαθίλ: «Ήμασταν η ομάδα με τις καλύτερες στιγμές…»",
-"url": "https://www.ertsports.gr/omades/olympiakos/algouathil-imastan-i-omada-me-tis-kalyteres-stigmes/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-08T22:47+00:00",
-"sport": "football",
-"snippet": "Ο προπονητής του Ολυμπιακού, Ιμανόλ Αλγουαθίλ, μίλησε στους εκπροσώπους των Μέσων Μαζικής Ενημέρωσης, λίγο μετά το φινάλε του βαθμολογικού ντέρμπι με τον ΠΑΟΚ…",
-"also": [],
-"id": "54c7c7e9a721"
 }
 ]
 }

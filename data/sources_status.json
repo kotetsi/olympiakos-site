@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-12T23:49:06+00:00",
+ "checked_at": "2026-11-13T00:04:13+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -21,13 +21,13 @@
    "feeds": [
     "https://www.sdna.gr/latest.xml"
    ],
-   "items": 4,
+   "items": 5,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-12T23:43"
+     "newest": "2026-11-12T23:59"
     }
    ]
   },
@@ -115,12 +115,12 @@
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-12T23:31"
+     "newest": "2026-11-12T23:49"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-12T23:31"
+     "newest": "2026-11-12T23:49"
     }
    ]
   },
