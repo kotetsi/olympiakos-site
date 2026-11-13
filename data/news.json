@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-13T19:14:52+00:00",
+"generated_at": "2026-11-13T19:30:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ψήνεται τριπλό trade: Ντόρσεϊ στην Αρμάνι, Γκούντουριτς στον Ερυθρό Αστέρα και Μπάτλερ στον Ολυμπιακό",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15229265/psinetai-triplo-trade-ntorsei-stin-armani-gkountourits-ston-erythro-astera-kai-mpatler-ston-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-13T19:27+00:00",
+"sport": "basket",
+"snippet": "Συγκεκριμένα, όπως αποκάλυψε ο Νικήτας Αυγουλής στην εκπομπή των καναλιών Novasports, «Playmakers», τρεις ομάδες της κορυφαίας διασυλλογικής διοργάνωσης…",
+"also": [],
+"id": "b25ab3322c86"
+},
 {
 "title": "Ολυμπιακός: Επαφές για τον Χισάμ Μπουνταουί",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-epafes-gia-ton-chisam-bountaoui?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -13,6 +25,18 @@
 "snippet": "Ο Ολυμπιακός εξετάζει τον Χισάμ Μπουνταουί της Νις. Οι επαφές με τους εκπροσώπους του Αλγερινού μέσου και η απαίτηση των 5 εκατομμυρίων ευρώ.",
 "also": [],
 "id": "72b36938fa04"
+},
+{
+"title": "Τσανάκας: «Σημαντικός μήνας για τον Ολυμπιακό - Θα γίνουν μεταγραφές, αλλά χωρίς βιασύνη»",
+"url": "http://www.sport-fm.gr/article/5160868",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-13T19:01+00:00",
+"sport": "football",
+"snippet": "Τα τελευταία νέα του Ολυμπιακού, όπως τα μετέφερε στον bwinΣΠΟΡ FM 94,6 ο Γιώργος Τσανάκας!",
+"also": [],
+"id": "6901b2843ea7"
 },
 {
 "title": "Ολυμπιακός: Τζόουνς αντί Μοντέρο στη Stoiximan GBL",
@@ -5122,30 +5146,6 @@
 "snippet": "Ο Τόμας Γουόκαπ έχει να αγωνιστεί από τις 19 Οκτωβρίου με την Dubai, ενώ ο Ολυμπιακός αναζητά γκαρντ. Γιατί η επιστροφή του μοιάζει απίθανη.",
 "also": [],
 "id": "80b1e9a941e6"
-},
-{
-"title": "ΚΕΔ προς διαιτητές: «Η λάθος κίτρινη του ΠΑΟΚ, το πέναλτι της ΑΕΚ, οι 9 του Ολυμπιακού και ο Αντίνο»",
-"url": "https://www.sdna.gr/podosfairo/1485159_ked-pros-diaitites-i-lathos-kitrini-toy-paok-penalti-tis-aek-oi-9-toy-olympiakoy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-09T18:42+00:00",
-"sport": "football",
-"snippet": "Λάθη σε διάφορα παιχνίδια του πρώτου γύρου επισήμανε ο Βάλερι της ΚΕΔ στους διαιτητές. Σχεδόν σε όλες τις περιπτώσεις που τέθηκαν προς ανάλυση...",
-"also": [],
-"id": "d81ea0c3f193"
-},
-{
-"title": "Βεζένκοφ & Μίλερ-ΜακΙντάιρ κλήθηκαν στην Εθνική Βουλγαρίας, για ματς μία μέρα μετά από αγώνα του Ολυμπιακού",
-"url": "https://www.eurohoops.net/el/eurobasket-el/2032775/vezenkof-ke-makintair-stis-klisis-tis-voulgarias-pos-epireazete-o-olimpiakos/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-09T18:34+00:00",
-"sport": "basket",
-"snippet": "Σάσα Βεζένκοφ και Κόντι Μίλερ-ΜακΙντάιρ βρίσκονται στις κλήσεις της Εθνικής Βουλγαρίας για τα προκριματικά του Eurobasket 2029. The post Βεζένκοφ &…",
-"also": [],
-"id": "97c1824a2a99"
 }
 ]
 }
