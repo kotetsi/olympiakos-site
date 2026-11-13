@@ -1,8 +1,8 @@
 {
 "source": "https://basketballstats.eu",
 "season": "2026-27",
-"fetched": "2026-11-13T06:37:35+00:00",
-"data_fetched": "2026-11-12T21:40:30.751Z",
+"fetched": "2026-11-13T12:40:42+00:00",
+"data_fetched": "2026-11-13T06:41:47.371Z",
 "last_round": 11,
 "team_slugs": {
 "OLY": "olympiakos",
@@ -7957,16 +7957,6 @@
 "slug": ""
 },
 {
-"name": "NETZIPOGLOU, OMIROS",
-"g": 3,
-"min": 8.0,
-"pts": 0.0,
-"reb": 1.3,
-"ast": 1.0,
-"pir": 0.0,
-"slug": ""
-},
-{
 "name": "KONCHAR, JOHN",
 "g": 2,
 "min": 17.3,
@@ -7974,6 +7964,16 @@
 "reb": 2.0,
 "ast": 1.0,
 "pir": -1.0,
+"slug": ""
+},
+{
+"name": "NETZIPOGLOU, OMIROS",
+"g": 3,
+"min": 8.0,
+"pts": 0.0,
+"reb": 1.3,
+"ast": 1.0,
+"pir": 0.0,
 "slug": ""
 }
 ],
