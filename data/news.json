@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-13T09:08:39+00:00",
+"generated_at": "2026-11-13T09:23:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Στο ΣΕΦ για την προπόνηση του Ολυμπιακού ο Ντόρσεϊ",
+"url": "https://www.sdna.gr/mpasket/1486234_sto-sef-gia-tin-proponisi-toy-olympiakoy-o-ntorsei",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-13T09:14+00:00",
+"sport": "basket",
+"snippet": "Η τιμωρία του ομογενούς γκαρντ έλαβε τέλος και επέστρεψε την Παρασκευή (13/11) στις προπονήσεις του Ολυμπιακού.",
+"also": [],
+"id": "98ba65e854af"
+},
+{
+"title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα με τον Ηρακλή",
+"url": "https://www.olympiacos.org/2026/11/13/diapisteyseis-mme-gia-ton-agona-me-ton-irakli-2/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-13T09:13+00:00",
+"sport": "general",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στον Ηρακλή.",
+"also": [],
+"id": "29d2f70ab929"
+},
+{
+"title": "Gazzetta Magazino by Elabet με θρύλο Νικοπολίδη και ΟΛΑ τα νέα πριν το Ολλανδία - Ελλάδα",
+"url": "https://www.gazzetta.gr/football/2586125/gazzetta-magazino-elabet-me-thrylo-nikopolidi-kai-ola-ta-nea-prin-ollandia-ellada",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-13T09:11+00:00",
+"sport": "football",
+"snippet": "Ο Παναγιώτης Δαλατάριωφ, ο Αντώνης Πετρόπουλος, ο Μιχάλης Μπακάκης και ο Γιώργος Γκαλίτσιος συναντιούνται στο YouTube του Gazzetta για μια εκπομπή με χαβαλέ…",
+"also": [],
+"id": "15920f07407d"
+},
 {
 "title": "Ολυμπιακός: Άσκησε πίεση, έκανε μεγάλο ροτέισον, δεν απέφυγε την (πνευματική) κόπωση",
 "url": "https://www.gazzetta.gr/football/superleague/2586124/olympiakos-askise-piesi-ekane-megalo-roteison-den-apefyge-tin",
@@ -13,6 +49,18 @@
 "snippet": "Ο Κ. Νικολακόπουλος προσπαθεί να δει μέσα από το blog του στο gazzetta πιο ψύχραιμα την κατάσταση στον Ολυμπιακό με την ευκαιρία της διακοπής του πρωταθλήματος.",
 "also": [],
 "id": "4784c8938eab"
+},
+{
+"title": "Ολυμπιακός: Γυρίζει ο Ντόρσεϊ και ο Μπαρτζώκας ζητά κι άλλον γκαρντ!",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-girizi-o-ntorsei-ke-o-bartzokas-zita-ki-allon-gkarnt?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T09:07+00:00",
+"sport": "general",
+"snippet": "Ο Ντόρσεϊ επιστρέφει, ο Ολυμπιακός έβαλε 101 στη Ντουμπάι και ο Μπαρτζώκας ζητά πλέι μέικερ. Δύο διαφορετικές ανάγκες στην περιφέρεια των Πειραιωτών.",
+"also": [],
+"id": "b3bb8fa70ccc"
 },
 {
 "title": "Ολυμπιακός blog: Σαν θέλει η “νύφη και ο γαμπρός”…",
@@ -5061,54 +5109,6 @@
 "snippet": "Ο Ολυμπιακός πέτυχε 11 γκολ στα τέσσερα τελευταία παιχνίδια πρωταθλήματος και τα έξι ήρθαν από αλλαγές.Η σύγκριση που προβληματίζει τον Ιμανόλ για τους βασικούς",
 "also": [],
 "id": "1485ea316bbf"
-},
-{
-"title": "«Εμφάνιση που γεμίζει με αισιοδοξία» (audio)",
-"url": "https://www.ertsports.gr/era-spor/emfanisi-pou-gemizei-me-aisiodoksia-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-09T10:18+00:00",
-"sport": "football",
-"snippet": "Ο ΠΑΟΚ τα τελευταία χρόνια έχει καταφέρει να χτίσει καλή παράδοση στο \"Γ.Καραϊσκάκης\", παίρνοντας τον βαθμό της ισοπαλίας από τον Ολυμπιακό με 1-1, απέναντι σε…",
-"also": [],
-"id": "d6062b83efeb"
-},
-{
-"title": "Ολυμπιακός: Του έλειπε η… ροκιά",
-"url": "https://sportday.gr/podosfairo/364709_olympiakos-tou-eleipe-i-rokia.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-09T10:02+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός άξιζε μεν τη νίκη κόντρα στον ΠΑΟΚ, όμως απείχε πολύ από τον καλό του εαυτό σε ντέρμπι...",
-"also": [],
-"id": "6089242e1227"
-},
-{
-"title": "«Τεράστια χαμένη ευκαιρία για τον Ολυμπιακό με δεδομένη την κατάσταση του ΠΑΟΚ – Φόβοι για Έσε, μπορεί να μείνει έξω 1 μήνα» (audio)",
-"url": "https://www.ertsports.gr/era-spor/terastia-xameni-eykairia-gia-ton-olympiako-me-dedomeni-tin-katastasi-tou-paok-fovoi-gia-ese-mporei-na-meinei-ekso-1-mina-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-09T09:42+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έμεινε ισόπαλος στο ντέρμπι της αγωνιστικής με τον ΠΑΟΚ στο \"Γ.Καραϊσκάκης\" , με τον ρεπόρτερ της ΈΡΑ ΣΠΟΡ στα θέματα των Πειραιωτών, Μπάμπης…",
-"also": [],
-"id": "5f00aa8a452b"
-},
-{
-"title": "Water Polo League Ανδρών: Πήρε το ντέρμπι ο Ολυμπιακός, νίκες για Πανιώνιο και Βουλιαγμένη",
-"url": "https://www.sdna.gr/polo/1484954_water-polo-league-andron-pire-ntermpi-o-olympiakos-nikes-gia-panionio-kai-boyliagmeni",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-09T09:23+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός διατήρησε το απόλυτο των νικών στη Water Polo League Ανδρών, ολοκληρώνοντας την 7η αγωνιστική στην κορυφή της βαθμολογίας. Σημαντικές...",
-"also": [],
-"id": "0045417be113"
 }
 ]
 }
