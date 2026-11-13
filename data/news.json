@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T12:55:43+00:00",
+"generated_at": "2026-11-13T13:10:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ντόρσεϊ επέστρεψε και απάντησε ειρωνικά σε οπαδική ανάρτηση",
+"url": "https://www.metrosport.gr/olympiakos-o-ntorsei-epestrepse-kai-apantise-eironika-se-opadiki-anartisi-1333443",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-13T13:00+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ επέστρεψε στις προπονήσεις του Ολυμπιακού έπειτα από την τιμωρία που του είχε επιβληθεί από τους Πειραιώτες και αντέδρασε ...",
+"also": [],
+"id": "5c99b15c48d0"
+},
+{
+"title": "Ολυμπιακός: Ο Βεζένκοφ μπορεί να σπάσει το ρεκόρ του Τζέιμς πριν περάσουν πέντε χρόνια",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-vezenkof-bori-na-spasi-to-rekor-tou-tzeims-prin-perasoun-pente-chronia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T12:54+00:00",
+"sport": "basket",
+"snippet": "Ο Βεζένκοφ έφτασε τους 3.902 πόντους στην EuroLeague και απέχει 2.060 από την προσπέραση του Τζέιμς. Γιατί η πενταετία ίσως είναι υπερβολική.",
+"also": [],
+"id": "7eea2419f0da"
+},
 {
 "title": "«Κλαίει» ο Ντόρσεϊ με νουθεσίες σε ερυθρόλευκη σελίδα και «ο κόσμος του ΟΣΦΠ ξέρει να συγχωρεί»!",
 "url": "https://www.sdna.gr/mpasket/1486283_klaiei-o-ntorsei-me-noythesies-se-erythroleyki-selida-kai-o-kosmos-toy-osfp-xerei",
@@ -5122,30 +5146,6 @@
 "snippet": "Τις υπηρεσίες του Σαντιάγκο Έσε θα στερηθεί ο Ολυμπιακός για τουλάχιστον έναν μήνα, αφού ο Αργεντινός μέσος υπέστη κάκωση στον έσω πλάγιο σύνδεσμο στο ντέρμπι…",
 "also": [],
 "id": "83723ce86b08"
-},
-{
-"title": "Έσε: Πλήγμα στον Ολυμπιακό με τον Αργεντινό - Ποια ματς χάνει",
-"url": "https://www.gazzetta.gr/football/superleague/2585104/ese-pligma-ston-olympiako-me-ton-argentino-poia-mats-hanei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T13:51+00:00",
-"sport": "football",
-"snippet": "Εκτός δράσης για τον επόμενο 1,5 μήνα τίθεται ο Σαντιάγκο Έσε, καθώς η μαγνητική του έδειξε κάκωση στον έσω πλάγιο σύνδεσμο του γόνατος.",
-"also": [],
-"id": "2448e23d8b1d"
-},
-{
-"title": "Ολυμπιακός: Πλήγμα με Έσε – Αυτός είναι ο τραυματισμός του",
-"url": "https://sportday.gr/podosfairo/364771_olympiakos-pligma-me-ese-aftos-einai-o-travmatismos-tou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-09T13:46+00:00",
-"sport": "football",
-"snippet": "Δυσάρεστα τα νέα με τον Αργεντινό χαφ",
-"also": [],
-"id": "f6934b59fa61"
 }
 ]
 }
