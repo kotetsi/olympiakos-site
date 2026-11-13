@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T06:37:26+00:00",
+"generated_at": "2026-11-13T06:52:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακάμπι: Αμφίβολοι για Ολυμπιακό οι Μαντάρ και Μπρίσετ",
+"url": "http://www.sport-fm.gr/article/5160718",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-13T06:37+00:00",
+"sport": "general",
+"snippet": "Με προβλήματα αποχώρησαν από το ματς με την Χάποελ Τελ Αβίβ οι Μαντάρ και Μπρίσετ για τη Μακάμπι και είναι αμφίβολοι για το ματς της Τρίτης με τον Ολυμπιακό.",
+"also": [],
+"id": "ec6079c8e4e0"
+},
+{
+"title": "Μπαρτζώκας στα αποδυτήρια σε Βεζένκοφ: “Σου εύχομαι περισσότερους τίτλους και να απολαμβάνεις το μπάσκετ”",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2034379/bartzokas-sta-apoditiria-se-vezenkof-sou-efchome-perissoterous-titlous-ke-na-apolamvanis-to-basket/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-13T06:35+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ έγινε ο πρώτος σκόρερ στην ιστορία του Ολυμπιακού στην Ευρωλίγκα και ο Γιώργος Μπαρτζώκας έκανε μία ξεχωριστή αναφορά για αυτό, στα αποδυτήρια…",
+"also": [],
+"id": "084338b25b99"
+},
 {
 "title": "Ολυμπιακός: Σύμπτωμα καλής ομάδας!",
 "url": "https://sportday.gr/basket/365128_olympiakos-symptoma-kalis-omadas.html",
@@ -5062,30 +5086,6 @@
 "snippet": "Το φαβορί για τον τίτλο της Superleague μετά την ισοπαλία Ολυμπιακού-ΠΑΟΚ και τις νίκες Παναθηναϊκού και ΑΕΚ.",
 "also": [],
 "id": "93d48b5af9cf"
-},
-{
-"title": "Ολυμπιακός: «Αδειάζει» το Ρέντη μετά τον ΠΑΟΚ – Έντεκα διεθνείς σε τρεις ηπείρους",
-"url": "http://www.sport-fm.gr/article/5159917",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T05:55+00:00",
-"sport": "football",
-"snippet": "Μετά το 1-1 με τον ΠΑΟΚ, έντεκα παίκτες του Ολυμπιακού αναχωρούν για τις εθνικές τους ομάδες, με το Ρέντη να αδειάζει στη διακοπή της Stoiximan Super League.",
-"also": [],
-"id": "8b1a6d5482e1"
-},
-{
-"title": "Ζίβκοβιτς: Έπιασε τον Αναστόπουλο στα 9 γκολ και κυνηγά τον Σιδέρη στα ντέρμπι ΠΑΟΚ-Ολυμπιακού",
-"url": "http://www.sport-fm.gr/article/5159912",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T05:38+00:00",
-"sport": "football",
-"snippet": "Ο Άντριγια Ζίβκοβιτς έφτασε τα 9 γκολ απέναντι στον Ολυμπιακό, έπιασε τον Νίκο Αναστόπουλο και πλέον πλησιάζει το ιστορικό ρεκόρ του Γιώργου Σιδέρη στα ντέρμπι.",
-"also": [],
-"id": "1ae289f3b0db"
 }
 ]
 }
