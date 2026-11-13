@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T14:57:22+00:00",
+"generated_at": "2026-11-13T15:12:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πότε επιστρέφει ο Τάιλερ Ντόρσεϊ",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-parameni-ston-agonistiko-pago-o-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-13T15:10+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ επέστρεψε στις προπονήσεις του Ολυμπιακού, αλλά θα χάσει Άρη και Μακάμπι Τελ Αβίβ. Τα δύο πιθανά παιχνίδια για την επάνοδό του.",
+"also": [],
+"id": "5a294ce9c86c"
+},
+{
+"title": "Παναθηναϊκός – Ολυμπιακός: Χωρίς κόσμο το ντέρμπι στο Μετς",
+"url": "https://www.ertsports.gr/bolei/panathinaikos-olympiakos-xoris-kosmo-to-ntermpi-sto-mets/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-13T15:05+00:00",
+"sport": "volley",
+"snippet": "Χωρίς την παρουσία φιλάθλων θα πραγματοποιηθεί το μεγάλο ντέρμπι ανάμεσα στον Παναθηναϊκό και τον Ολυμπιακό, το Σάββατο (14/11, 21:15), για την 4η αγωνιστική…",
+"also": [],
+"id": "00051ce3d32a"
+},
 {
 "title": "Ολυμπιακός: Εκτός ο Ντόρσεϊ εναντίον Άρη και Μακάμπι",
 "url": "https://sportday.gr/basket/365168_olympiakos-ektos-o-ntorsei-enantion-ari-kai-makampi.html",
@@ -5136,38 +5160,6 @@
 "snippet": "Οι «ερυθρόλευκοι» έφυγαν νικητές από το κλειστό του Αγίου Θωμά, επικρατώντας δύσκολα του Αμαρουσίου, ωστόσο φαίνεται πως είχαν αρκετά παράπονα από τις…",
 "also": [],
 "id": "c41ed2d5c8ed"
-},
-{
-"title": "Σοκ και δέος: Ο Ολυμπιακός πόσταρε βίντεο με δύο διαιτητικές αποφάσεις με το Μαρούσι!",
-"url": "https://www.sdna.gr/mpasket/1485073_sok-kai-deos-o-olympiakos-postare-binteo-me-dyo-diaititikes-apofaseis-me-maroysi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-09T14:47+00:00",
-"sport": "basket",
-"snippet": "Δύο εβδομάδες μετά τις προφυλακίσεις, και πέντε χρόνια μετά την τελευταία φορά που ασχολήθηκε δημόσια με τη διαιτησία, η ΚΑΕ Ολυμπιακός πόσταρε...",
-"also": [
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/heba-el/2032690/olimpiakos-postare-vinteo-me-dietitikes-apofasis-sto-marousi/",
-"title": "Ολυμπιακός: Πόσταρε βίντεο με διαιτητικές αποφάσεις στο Μαρούσι",
-"published": "2026-11-09T15:12+00:00"
-}
-],
-"id": "08a51c8df2dc"
-},
-{
-"title": "Τόμας Ουόκαπ: Εκτός αποστολής της Ντουμπάι με Ολυμπιακό",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2032677/ntoumpai-choris-ouokap-me-olimpiako/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-09T14:45+00:00",
-"sport": "basket",
-"snippet": "Ο Τόμας Ουόκαπ συνεχίζει να μένει εκτός αγωνιστικής δράσης για την Ντουμπάι, η οποία θα έρθει χωρίς τον Τεξανό πόιντ γκαρντ και στην Ελλάδα για το ματς με τον…",
-"also": [],
-"id": "6f8d167a45dc"
 }
 ]
 }
