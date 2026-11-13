@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-13T09:38:54+00:00",
+"generated_at": "2026-11-13T09:54:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αποκαλύψεις Γκονσάλες για τα όσα ζει στην Ελλάδα",
+"url": "https://sportday.gr/podosfairo/365145_olympiakos-apokalypseis-gkonsales-gia-ta-osa-zei-stin-ellada.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-13T09:45+00:00",
+"sport": "football",
+"snippet": "Ο Αρμάντο Γκονσάλες παραχώρησε μια ιδιαίτερα ενδιαφέρουσα συνέντευξη σε ΜΜΕ του Μεξικού αναφερόμενος στον Ολυμπιακό",
+"also": [],
+"id": "29551c336031"
+},
+{
+"title": "Σταματέλος: «Δεν έχει ασχοληθεί ξανά με τον Βάργκας ο Ολυμπιακός»",
+"url": "http://www.sport-fm.gr/article/5160764",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-13T09:41+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Νίκο Σταματέλο.",
+"also": [],
+"id": "65a74ef314dd"
+},
 {
 "title": "Ολυμπιακός: Αγώνας δρόμου για τον Έσε",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15228481/olympiakos-agonas-dromou-gia-ton-ese/",
@@ -36,6 +60,13 @@
 "sport": "basket",
 "snippet": "Η τιμωρία του ομογενούς γκαρντ έλαβε τέλος και επέστρεψε την Παρασκευή (13/11) στις προπονήσεις του Ολυμπιακού.",
 "also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/euroleague/stin-proponisi-tou-olympiakou-o-ntorsei/",
+"title": "Στην προπόνηση του Ολυμπιακού ο Ντόρσεϊ",
+"published": "2026-11-13T09:30+00:00"
+},
 {
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -298,6 +329,13 @@
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586104/makampi-tel-abib-amfiboloi-enopsei-olympiakoy-oi-mantar-kai-mpriset",
 "title": "Μακάμπι Τελ Αβίβ: Αμφίβολοι ενόψει Ολυμπιακού οι Μαντάρ και Μπρίσετ",
 "published": "2026-11-13T07:48+00:00"
+},
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2034434/makampi-mantar-briset-amfivoli-me-olimpiako/",
+"title": "Μακάμπι: Μαντάρ & Μπρίσετ αμφίβολοι με Ολυμπιακό",
+"published": "2026-11-13T09:40+00:00"
 }
 ],
 "id": "ec6079c8e4e0"
@@ -5093,30 +5131,6 @@
 "snippet": "Ο ΠΑΟΚ αναδείχθηκε ισόπαλος με αντίπαλο τον Ολυμπιακό στο Καραϊσκάκη, πλέον το ενδιαφέρον στρέφεται αφενός στις εθνικές ομάδες και αφετέρου στην σωστή...",
 "also": [],
 "id": "c5e910b3da40"
-},
-{
-"title": "Ολυμπιακός: Η Ντουμπάι έρχεται με 4 διπλά",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-ntoumpai-erchete-me-tessera-dipla-ke-o-bartzokas-echi-molis-dio-nikes-entos-edras?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-09T10:32+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός υποδέχεται τη Ντουμπάι στις 12 Νοεμβρίου στις 21:15. Οι δύο ομάδες έχουν 7-3, ενώ η Ντουμπάι μετρά τέσσερα διπλά σε πέντε αγώνες.",
-"also": [],
-"id": "c173455c88f0"
-},
-{
-"title": "NovaTV: EuroLeague με Παναθηναϊκός AKTOR – Μπαρτσελόνα, Ολυμπιακός – Ντουμπάι, EuroCup με Άρη και ΠΑΟΚ στο παρκέ του Novasports!",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15222203/novatv-euroleague-me-panathinaikos-aktor-mpartselona-olympiakos-ntoumpai-eurocup-me-ari-kai-paok-sto-parke-tou-novasports/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-09T10:30+00:00",
-"sport": "basket",
-"snippet": "Για την 11η αγωνιστική της EuroLeague, ο πρωταθλητής Ευρώπης Ολυμπιακός υποδέχεται στη SUNEL Arena τη Ντουμπάι (12/11, 21:15), ενώ ο επτάστερος Παναθηναϊκός…",
-"also": [],
-"id": "44c1ad7c93a8"
 }
 ]
 }
