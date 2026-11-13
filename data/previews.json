@@ -163,5 +163,19 @@
   "b_team": false,
   "no_time": true,
   "comp": "Super League"
+ },
+ "2026-11-20-olympiakos-real-madritis": {
+  "title": "Ολυμπιακός - Ρεάλ Μαδρίτης",
+  "home": "Ολυμπιακός",
+  "away": "Ρεάλ Μαδρίτης",
+  "opp": "Ρεάλ Μαδρίτης",
+  "oly_home": true,
+  "start": "2026-11-20T19:15+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  }
 }
