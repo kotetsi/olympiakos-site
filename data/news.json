@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-13T16:28:13+00:00",
+"generated_at": "2026-11-13T16:43:21+00:00",
 "count": 400,
 "items": [
 {
@@ -24,6 +24,13 @@
 "sport": "football",
 "snippet": "Κυκλοφορούν τα εισιτήρια του Ολυμπιακού με τη Μίλαν τη Δευτέρα 16 Νοεμβρίου στις 16:00 για την 5η Αγωνιστική της League Phase του Europa League. Το παιχνίδι…",
 "also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5160837",
+"title": "Από Δευτέρα μεσημέρι τα εισιτήρια για το Ολυμπιακός-Μίλαν!",
+"published": "2026-11-13T16:20+00:00"
+},
 {
 "source": "sdna",
 "source_name": "SDNA",
@@ -55,7 +62,15 @@
 "published": "2026-11-13T16:12+00:00",
 "sport": "general",
 "snippet": "Ο Ολυμπιακός προσέγγισε το περιβάλλον του Χιτσάμ Μπουνταουί της Νις, σύμφωνα με γαλλικό Μέσο.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/ligue-1/article/15228890/epafi-olympiakou-me-mpountaoui-to-poso-pou-zitaei-i-nis/",
+"title": "«Επαφή Ολυμπιακού με Μπουνταουί – Το ποσό που ζητάει η Νις»",
+"published": "2026-11-13T16:39+00:00"
+}
+],
 "id": "6b2f7d7c12a3"
 },
 {
