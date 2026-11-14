@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T13:39:33+00:00",
+"generated_at": "2026-11-14T13:54:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η χρονιά των τραυματιών, οι παίκτες που έχον ταλαιπωρηθεί φέτος",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586473/olympiakos-i-hronia-ton-traymation-oi-paiktes-poy-ehon-talaiporithei",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T13:53+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός έχει ταλαιπωρηθεί από αρκετούς τραυματισμούς τη φετινή σεζόν και καλείται να διαχειριστεί τη νέα απουσία του Νίκολα Μιλουτίνοφ.",
+"also": [],
+"id": "04de0eaaba0c"
+},
+{
+"title": "Πλήγμα για Ολυμπιακό πριν τον Άρη: Χωρίς Μιλουτίνοβ στη Θεσσαλονίκη",
+"url": "https://www.metrosport.gr/pligma-gia-olympiako-prin-ton-ari-choris-miloytinov-sti-thessaloniki-1333562",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-14T13:35+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός, μετά την κυριαρχική εμφάνιση κόντρα στην Dubai BC, στρέφει την προσοχή του στη μεγάλη αναμέτρηση με τον Άρη (15/11, 17:30) στο...",
+"also": [],
+"id": "0bab2b05b81a"
+},
 {
 "title": "Ολυμπιακός: Νέο πλήγμα με Μιλουτίνοφ – Ποια ματς χάνει",
 "url": "https://sportday.gr/basket/365282_olympiakos-neo-pligma-me-miloutinof-poia-mats-chanei.html",
@@ -5106,30 +5130,6 @@
 "snippet": "Ο ομοσπονδιακός προπονητής της Σερβίας, Βέλικο Παούνοβιτς κατέθεσε δημόσια μία πρόταση που προκάλεσε αίσθηση, για την άνοδο του εγχώριου...",
 "also": [],
 "id": "259b934d6d16"
-},
-{
-"title": "«Κομβική η απουσία του Έσε, χρειάζεται χρόνο να δέσει ο Ολυμπιακός» (audio)",
-"url": "https://www.ertsports.gr/era-spor/komviki-i-apousia-tou-ese-xreiazetai-xrono-na-desei-o-olympiakos-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-10T07:23+00:00",
-"sport": "football",
-"snippet": "Ο Αργεντινός ποδοσφαιριστής θα λείψει για το επόμενο χρονικό διάστημα από τις αγωνιστικές υποχρεώσεις των Πειραιωτών και αυτό σίγουρα έχει φέρει προβληματισμό…",
-"also": [],
-"id": "321418999f06"
-},
-{
-"title": "Ολυμπιακός: Σαμπαντέλ, βαθμολογία και αλλαγή ώρας",
-"url": "https://sportime.gr/polo/olimpiakos-aittitos-ke-defteros-i-sampantel-o-chamenos-vathmos-ke-i-allagi-oras?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T07:05+00:00",
-"sport": "polo",
-"snippet": "Ολυμπιακός - Σαμπαντέλ: Γιατί οι δύο νίκες δίνουν μόνο πέντε βαθμούς, τι κρίνεται στη μάχη της κορυφής και ποια είναι η νέα ώρα έναρξης του αγώνα.",
-"also": [],
-"id": "0ba3dabfcf95"
 }
 ]
 }
