@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T07:51:32+00:00",
+"generated_at": "2026-11-14T08:06:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Ιφί, ο Ολυμπιακός και η παροιμία της Λεοπάρδαλης",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1486557_o-ifi-o-olympiakos-kai-i-paroimia-tis-leopardalis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T08:02+00:00",
+"sport": "general",
+"snippet": "Θεωρητικά, θα επρόκειτο για προσθήκη από το πάνω ράφι.",
+"also": [],
+"id": "8ae533afffef"
+},
+{
+"title": "Ολυμπιακός: Αλλαγή στη λίστα των ξένων στην Ελλάδα",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15230323/olympiakos-allagi-sti-lista-ton-ksenon-stin-ellada/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-14T07:51+00:00",
+"sport": "basket",
+"snippet": "Συγκεκριμένα, ο Ταϊρίκ Τζόουνς θα πάρει τη θέση του Γιαν Μοντέρο, ο οποίος είναι τραυματίας και αναμένεται να μείνει εκτός αγωνιστικής δράσης έως το τέλος της…",
+"also": [],
+"id": "b6d83758bd8a"
+},
 {
 "title": "Ολυμπιακός: Σμαΐλοβιτς και Σιπιόνι στην πεντάδα",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-smailovits-ke-sipioni-kanoun-thrafsi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5114,30 +5138,6 @@
 "snippet": "Με θετικό αποτέλεσμα ολοκλήρωσε τις υποχρεώσεις της στην Αδριατική Λίγκα η Dubai BC, καθώς επικράτησε εκτός έδρας της Μέγκα με 98-87, λίγες ημέρες πριν από την…",
 "also": [],
 "id": "0376f0a49832"
-},
-{
-"title": "50.000 Ευρώ κόστισε στη Μαρσέιγ το πανό για τον Ολυμπιακό",
-"url": "http://www.sport-fm.gr/article/5160091",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T21:38+00:00",
-"sport": "general",
-"snippet": "Η ΟΥΕΦΑ τιμώρησε τη Μαρσέιγ για τη συμπεριφορά των οπαδών της στον αγώνα με τον Ολυμπιακό στο Βελοντρόμ.",
-"also": [],
-"id": "0bd2b9fd053c"
-},
-{
-"title": "Άνετη νίκη για την Ντουμπάι πριν από τη συνάντησή της με τον Ολυμπιακό",
-"url": "http://www.sport-fm.gr/article/5160088",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-09T21:13+00:00",
-"sport": "general",
-"snippet": "Η Ντουμπάι επιβλήθηκε εύκολα με 98-87 της Μέγκα για την Αδριατική Λίγκα, μερικές μέρες πριν ταξιδέψει στη χώρα μας για να τεθεί αντιμέτωπη με τον Ολυμπιακό.",
-"also": [],
-"id": "a3a64003c9e1"
 }
 ]
 }
