@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T15:25:23+00:00",
+"generated_at": "2026-11-14T15:40:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με τον Όμηρο Νετζήπογλου νέο πρεσβευτή ξεκίνησε το «One Team» στο 22ο Δημοτικό Πειραιά (video)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15230696/olympiakos-me-ton-omiro-netzipoglou-neo-presveyti-ksekinise-to-one-team-sto-22o-dimotiko-peiraia-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-14T15:35+00:00",
+"sport": "basket",
+"snippet": "Με επίκεντρο το 22ο Δημοτικό Σχολείο Πειραιά, η ΚΑΕ Ολυμπιακός έδωσε το σύνθημα για τη νέα σεζόν του προγράμματος «One Team», φιλοξενώντας τους μαθητές της Ε’…",
+"also": [],
+"id": "79fbe0aee9cd"
+},
+{
+"title": "Waterpolo League: Το 8/8 του Ολυμπιακού, το «πάρτι» του ΠΑΟΚ και η βαθμολογία!",
+"url": "https://www.novasports.gr/polo/article/15230688/waterpolo-league-to-8-8-tou-olympiakou-to-parti-tou-paok-kai-i-vathmologia/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-14T15:27+00:00",
+"sport": "polo",
+"snippet": "Απόλυτη κυριαρχία των φιλοξενούμενων σημειώθηκε στις πρώτες αναμετρήσεις της 8ης αγωνιστικής της Waterpolo League Ανδρών, με Ολυμπιακό, ΠΑΟΚ και Περιστέρι να…",
+"also": [],
+"id": "eef6cb2bc76b"
+},
 {
 "title": "Άρης: Ο Ολυμπιακός και ο στόχος του αήττητου Παλέ",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2586496/aris-o-olympiakos-kai-o-stohos-toy-aittitoy-pale",
@@ -5098,30 +5122,6 @@
 "snippet": "Το Πρωτοβάθμιο Μονομελές Πειθαρχικό Όργανο κάλεσε σε απολογία την ΑΕΚ και τον Ολυμπιακό για συμβάντα που σημειώθηκαν κατά τη διάρκεια της 10ης αγωνιστικής της…",
 "also": [],
 "id": "28da391f7223"
-},
-{
-"title": "Λέτο: «Θα ήθελα να ξαναζήσω στιγμές με τον Παναθηναϊκό» - Τι είπε για το ματς με τον Ολυμπιακό",
-"url": "https://www.sdna.gr/podosfairo/1485321_leto-tha-ithela-na-xanaziso-stigmes-me-ton-panathinaiko-ti-eipe-gia-mats-me-ton",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T08:42+00:00",
-"sport": "football",
-"snippet": "Μεγάλη συνέντευξη του προπονητή της Κηφισιάς στον ΣΚΑΪ, μιλώντας για τους στόχους του στους πάγκους, τον παίκτη -από τον Παναθηναϊκό- που θα διάλεγε,...",
-"also": [],
-"id": "ead96372bbbf"
-},
-{
-"title": "Ολυμπιακός: Τι συμβαίνει τελικά με τον Μπέιλι;",
-"url": "https://www.gazzetta.gr/football/superleague/2585266/olympiakos-ti-symbainei-telika-me-ton-mpeili",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-10T08:30+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr τους λόγους που δεν προτιμήθηκε ο Λίον Μπέιλι έστω και ένα λεπτό στο παιχνίδι με τον ΠΑΟΚ.",
-"also": [],
-"id": "24b4330ef884"
 }
 ]
 }
