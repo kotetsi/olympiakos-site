@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T21:43:46+00:00",
+"generated_at": "2026-11-14T21:58:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ανοιχτό θέμα με τον Τζον Κόντσαρ",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-anichto-thema-me-ton-tzon-kontsar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-14T21:50+00:00",
+"sport": "general",
+"snippet": "Ο Τζον Κόντσαρ εξέφρασε προβληματισμό για την προσαρμογή του στον Ολυμπιακό και είναι διατεθειμένος ακόμη και να αποχωρήσει. Οι συζητήσεις συνεχίζονται.",
+"also": [],
+"id": "259e0c7d69e6"
+},
 {
 "title": "Η επιστροφή-έκπληξη στον Ολυμπιακό και ο παίκτης που ψάχνει τον Ιανουάριο",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1486747_i-epistrofi-ekplixi-ston-olympiako-kai-o-paiktis-poy-psahnei-ton",
@@ -87,7 +99,7 @@
 "id": "6af4521899ad"
 },
 {
-"title": "Αλλιώς τα περίμενε, αλλιώς είναι: Τάσεις φυγείς του Κόντσαρ από τον Ολυμπιακό!",
+"title": "Αλλιώς τα περίμενε, αλλιώς είναι: Τάσεις φυγής του Κόντσαρ από τον Ολυμπιακό!",
 "url": "https://sportday.gr/basket/365337_allios-ta-perimene-allios-einai-taseis-fygeis-tou-kontsar-apo-ton-olympiako.html",
 "source": "sportday",
 "source_name": "Sportday",
@@ -5086,18 +5098,6 @@
 "snippet": "Στον Ολυμπιακό βάζουν κάτω τα δεδομένα και σκέφτονται το ενδεχόμενο να προχωρήσουν σε αίτημα αναβολής για ένα εκ των επερχόμενων παιχνιδιών στη Λίγκα.",
 "also": [],
 "id": "4958452d3f72"
-},
-{
-"title": "Τι παίζει με το δικαίωμα του Ολυμπιακού να αναβάλει παιχνίδι του",
-"url": "http://www.sport-fm.gr/article/5160238",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-10T16:07+00:00",
-"sport": "general",
-"snippet": "Οι σκέψεις στον Ολυμπιακό για αναβολή ενός αγώνα τους.",
-"also": [],
-"id": "1d883f00445e"
 }
 ]
 }
