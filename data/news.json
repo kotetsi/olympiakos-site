@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T19:57:42+00:00",
+"generated_at": "2026-11-14T20:12:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Προς την έξοδο από τον Ολυμπιακό ο Κόντσαρ",
+"url": "https://www.ertsports.gr/omades/olympiakos/pros-tin-eksodo-apo-ton-olympiako-o-kontsar/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-14T20:11+00:00",
+"sport": "basket",
+"snippet": "Ο Τζον Κόντσαρ εξετάζει το ενδεχόμενο να αποχωρήσει από τον Ολυμπιακό, πριν καν συμπληρώσει έναν μήνα στον σύλλογο. The post Προς την έξοδο από τον Ολυμπιακό ο…",
+"also": [],
+"id": "df76ecbb4874"
+},
+{
+"title": "Θέλει να φύγει ο Κόντσαρ από τον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1486738_thelei-na-fygei-o-kontsar-apo-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T19:59+00:00",
+"sport": "basket",
+"snippet": "Ο Τζον Κόντσαρ εξετάζει το ενδεχόμενο να αποχωρήσει από τον Ολυμπιακό, πριν καν συμπληρώσει έναν μήνα στον σύλλογο.",
+"also": [],
+"id": "6e11c37af81f"
+},
 {
 "title": "Τσανάκας: «Κομβικό να καλύψει το κενό του Έσε ο Ολυμπιακός - Αρκετά δεδομένα γύρω από τις μεταγραφές»",
 "url": "http://www.sport-fm.gr/article/5161065",
@@ -5075,30 +5099,6 @@
 "snippet": "Σύμφωνα με όσα ανέφερε ο Κώστας Νικολακόπουλος, στη Δανία θεωρούν ότι ο Ολυμπιακός θα κινηθεί για την απόκτηση του Γιόακιμ Μέλε κατά τη χειμερινή μεταγραφική…",
 "also": [],
 "id": "6943e1869378"
-},
-{
-"title": "UEFA Ranking: Πρώτος ο Ολυμπιακός, δεύτερος ο ΠΑΟ",
-"url": "https://sportime.gr/podosfairo/uefa-ranking-olimpiakos-stin-korifi-o-panathinaikos-perase-ton-paok-i-anodos-tis-aek?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T13:58+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός οδηγεί την Ελλάδα στη βαθμολογία της UEFA, ο Παναθηναϊκός προσπέρασε τον ΠΑΟΚ και η ΑΕΚ ανεβάζει τη συνεισφορά της με τον Νίκολιτς.",
-"also": [],
-"id": "ccc06ac1b5df"
-},
-{
-"title": "Ολυμπιακός: Το στοίχημα Μπέιλι και ο Αλγουαθίλ",
-"url": "https://sportime.gr/podosfairo/olimpiakos-ti-perimeni-o-algouathil-apo-ton-beili-giati-iparchi-ikanopiisi-sto-renti?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T13:16+00:00",
-"sport": "football",
-"snippet": "Ο Αλγουαθίλ περιμένει περισσότερα από τον Μπέιλι στον Ολυμπιακό, με την παραμονή του Τζαμαϊκανού στο Ρέντη να αποτελεί σημαντικό πλεονέκτημα.",
-"also": [],
-"id": "148b82be632a"
 }
 ]
 }
