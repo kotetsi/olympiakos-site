@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T08:52:03+00:00",
+"generated_at": "2026-11-14T09:07:12+00:00",
 "count": 400,
 "items": [
+{
+"title": "Για το «2Χ2» Ολυμπιακός και Βουλιαγμένη, για την πρώτη νίκη ο Εθνικός",
+"url": "https://www.sdna.gr/polo/1486569_gia-2h2-olympiakos-kai-boyliagmeni-gia-tin-proti-niki-o-ethnikos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T08:54+00:00",
+"sport": "polo",
+"snippet": "Με τις αναμετρήσεις της 2ης αγωνιστικής των ομίλων, συνεχίζεται σήμερα (14/11) το Champions League υδατοσφαίρισης γυναικών.",
+"also": [],
+"id": "02f35d0eece7"
+},
 {
 "title": "Ολυμπιακός: Στην Ιταλία για το «2 στα 2» στο Champions League γυναικών",
 "url": "https://sportday.gr/sports/polo/365258_olympiakos-stin-italia-gia-to-2-sta-2-sto-champions-league-gynaikon.html",
@@ -5126,18 +5138,6 @@
 "snippet": "Ο Αντόνιο Κορδόν σχεδιάζει τις κινήσεις του Ολυμπιακού για τον Ιανουάριο. Μεταγραφές σε τρεις θέσεις και αποχωρήσεις στο επίκεντρο του σχεδιασμού.",
 "also": [],
 "id": "922a4835133f"
-},
-{
-"title": "Ολυμπιακός: Το επίμονο «Μυρμήγκι» είναι ο πιο παραγωγικός φορ του",
-"url": "https://www.gazzetta.gr/football/superleague/2585182/olympiakos-epimono-myrmigki-einai-o-pio-paragogikos-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T21:47+00:00",
-"sport": "football",
-"snippet": "Ο Αρμάντο Γκονζάλες των 6 τερμάτων στον Ολυμπιακό στην πρώτη του επαφή με τη μπάλα στο ντέρμπι με τον ΠΑΟΚ (που τελείωσε στο 1-1) έβαλε γκολ.",
-"also": [],
-"id": "72eb47399664"
 }
 ]
 }
