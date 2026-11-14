@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T16:41:00+00:00",
+"generated_at": "2026-11-14T16:56:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Πάτησε» γκάζι στο τέλος και κέρδισε τον Υδραϊκό ο Ολυμπιακός",
+"url": "https://www.sdna.gr/polo/1486686_patise-gkazi-sto-telos-kai-kerdise-ton-ydraiko-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T16:47+00:00",
+"sport": "polo",
+"snippet": "Με ξέσπασμα στα τελευταία έξι λεπτά της αναμέτρησης ο Ολυμπιακός κατάφερε να «λυγίσει» την αντίσταση του μαχητικού Υδραϊκού με 15-8, στο κολυμβητήριο...",
+"also": [],
+"id": "2ceadcb7f6c7"
+},
 {
 "title": "Υπέταξε τον Υδραϊκό και συνεχίζει με το απόλυτο ο Ολυμπιακός",
 "url": "https://www.ertsports.gr/alla-spor/polo/ypetakse-ton-ydraiko-kai-synexizei-me-to-apolyto-o-olympiakos/",
@@ -15,7 +27,19 @@
 "id": "41503f8daef4"
 },
 {
-"title": "Άρης: Χωρίς Χαραλαμπόπουλο και κόντρα στον Ολυμπιακό",
+"title": "Άρης: Χωρίς Χαραλαμπόπουλο κόντρα στον Ολυμπιακό - Τι δήλωσε ο Καντζούρης",
+"url": "https://www.sdna.gr/mpasket/1486660_aris-horis-haralampopoylo-kontra-ston-olympiako-ti-dilose-o-kantzoyris",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T16:21+00:00",
+"sport": "basket",
+"snippet": "Ο Άρης ολοκλήρωσε την προετοιμασία του ενόψε της αναμέτρησης με τον Ολυμπιακό, με τον Βασίλη Σπανούλη να μην έχει στην διάθεση του τον Βασίλη...",
+"also": [],
+"id": "6de1409e5ce4"
+},
+{
+"title": "Άρης: Έτοιμος για το μεγάλο ντέρμπι με τον Ολυμπιακό",
 "url": "https://www.eurohoops.net/el/heba-el/2035147/aris-choris-charalampopoulo-ke-kontra-ston-olimpiako/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
@@ -23,15 +47,7 @@
 "published": "2026-11-14T16:07+00:00",
 "sport": "basket",
 "snippet": "Σχεδόν πλήρης ο Άρης θα υποδεχεθεί τον Ολυμπιακό στο Αλεξάνδρειο (15/11, 17:30) στο σπουδαιότερο ματς της 7ης αγωνιστικής της Stoiximan GBL. The post Άρης…",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1486660_aris-horis-haralampopoylo-kontra-ston-olympiako-ti-dilose-o-kantzoyris",
-"title": "Άρης: Χωρίς Χαραλαμπόπουλο κόντρα στον Ολυμπιακό - Τι δήλωσε ο Καντζούρης",
-"published": "2026-11-14T16:21+00:00"
-}
-],
+"also": [],
 "id": "c347f1baf495"
 },
 {
@@ -5083,30 +5099,6 @@
 }
 ],
 "id": "a775dbfb98da"
-},
-{
-"title": "Ο Ολυμπιακός λοιπόν δεν έχει εξτρέμ!",
-"url": "https://www.gazzetta.gr/football/superleague/2585296/o-olympiakos-loipon-den-ehei-extrem",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-10T10:33+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος κάνει στο blog του στο Gazzetta το δικό του σχόλιο αναφορικά με όσα ακούγονται για το θέμα εξτρέμ στον Ολυμπιακό.",
-"also": [],
-"id": "56467aec9f61"
-},
-{
-"title": "Ολυμπιακός: Τιμωρήθηκε η Μαρσειγ για το πανό κατά των ερυθρολεύκων",
-"url": "https://sportday.gr/podosfairo/364859_olympiakos-timorithike-i-marseig-gia-to-pano-kata-ton-erythrolefkon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-10T10:04+00:00",
-"sport": "football",
-"snippet": "Στο συγκεκριμένο παιχνίδι, οι «ερυθρόλευκοι» είχαν επικρατήσει με 1-0, χάρη σε τέρμα του Σαντιάγκο Έσε.",
-"also": [],
-"id": "1aeab0e0baf0"
 }
 ]
 }
