@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T08:06:39+00:00",
+"generated_at": "2026-11-14T08:21:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στην Ιταλία για το «2 στα 2» στο Champions League γυναικών",
+"url": "https://sportday.gr/sports/polo/365258_olympiakos-stin-italia-gia-to-2-sta-2-sto-champions-league-gynaikon.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-14T08:08+00:00",
+"sport": "polo",
+"snippet": "Η ομάδα του Γιώργου Ντόσκα θα αγωνιστεί το Σάββατο (14/11, 18:00) στην έδρα της ιταλικής ομάδας, στο πλαίσιο της δεύτερης αγωνιστικής της κορυφαίας ευρωπαϊκής…",
+"also": [],
+"id": "57b43b4ba635"
+},
 {
 "title": "Ο Ιφί, ο Ολυμπιακός και η παροιμία της Λεοπάρδαλης",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1486557_o-ifi-o-olympiakos-kai-i-paroimia-tis-leopardalis",
@@ -5126,18 +5138,6 @@
 "snippet": "Ο Αρμάντο Γκονζάλες των 6 τερμάτων στον Ολυμπιακό στην πρώτη του επαφή με τη μπάλα στο ντέρμπι με τον ΠΑΟΚ (που τελείωσε στο 1-1) έβαλε γκολ.",
 "also": [],
 "id": "72eb47399664"
-},
-{
-"title": "Η Dubai BC νίκησε τη Μέγκα και πλέον στρέφεται στον Ολυμπιακό",
-"url": "https://www.ertsports.gr/mpasket/diethni-mpasket/i-dubai-bc-nikise-ti-megka-kai-pleon-strefetai-ston-olympiako/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-09T21:39+00:00",
-"sport": "basket",
-"snippet": "Με θετικό αποτέλεσμα ολοκλήρωσε τις υποχρεώσεις της στην Αδριατική Λίγκα η Dubai BC, καθώς επικράτησε εκτός έδρας της Μέγκα με 98-87, λίγες ημέρες πριν από την…",
-"also": [],
-"id": "0376f0a49832"
 }
 ]
 }
