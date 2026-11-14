@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T15:10:15+00:00",
+"generated_at": "2026-11-14T15:25:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Ο Ολυμπιακός και ο στόχος του αήττητου Παλέ",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586496/aris-o-olympiakos-kai-o-stohos-toy-aittitoy-pale",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T15:12+00:00",
+"sport": "basket",
+"snippet": "Ο Άρης ολοκλήρωσε την προετοιμασία του ενόψει του αγώνα (15/11, 17:30) στοχεύοντας στη διεύρυνση του αήττητου σερί στο Nick Galis Hall.",
+"also": [],
+"id": "17c8191469a7"
+},
 {
 "title": "Ολυμπιακός: Ολοκληρώθηκαν οι αλλαγές των ξένων",
 "url": "https://sportday.gr/basket/365284_olympiakos-oloklirothikan-oi-allages-ton-ksenon.html",
@@ -5110,18 +5122,6 @@
 "snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr τους λόγους που δεν προτιμήθηκε ο Λίον Μπέιλι έστω και ένα λεπτό στο παιχνίδι με τον ΠΑΟΚ.",
 "also": [],
 "id": "24b4330ef884"
-},
-{
-"title": "Πρόστιμο 80.500 ευρώ στη Μαρσέιγ από την UEFA για το υβριστικό πανό στο παιχνίδι με τον Ολυμπιακό",
-"url": "https://www.ertsports.gr/podosfairo/prostimo-80-500-eyro-sti-marseig-apo-tin-uefa-gia-to-yvristiko-pano-sto-paixnidi-me-ton-olympiako/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-10T08:27+00:00",
-"sport": "football",
-"snippet": "Η UEFA επέβαλε χρηματική ποινή ύψους 80.500 ευρώ στη Μαρσέιγ, εξαιτίας της συμπεριφοράς των οπαδών της στην αναμέτρηση με τον Ολυμπιακό για το Europa League…",
-"also": [],
-"id": "1cbae3e0c6e1"
 }
 ]
 }
