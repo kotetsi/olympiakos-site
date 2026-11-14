@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T18:42:11+00:00",
+"generated_at": "2026-11-14T18:57:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Live: Παναθηναϊκός - Ολυμπιακός",
+"url": "https://www.sdna.gr/bolei/1486473_live-panathinaikos-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-14T18:55+00:00",
+"sport": "general",
+"snippet": "",
+"also": [],
+"id": "ab2fe57f24bf"
+},
+{
+"title": "Ο Ολυμπιακός συνεχίζει αήττητος , επέστρεψε στις νίκες ο Παναθηναϊκός",
+"url": "https://www.gazzetta.gr/polo/a1-andron/2586552/o-olympiakos-synehizei-aittitos-epestrepse-stis-nikes-o-panathinaikos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T18:46+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός νίκησε 15-8 τον Υδραϊκό και συνεχίζει αήττητος, ενώ ο σαρωτικός Παναθηναϊκός επέστρεψε στις νίκες απέναντι στο Π.Φάληρο με για την Water Polo…",
+"also": [],
+"id": "7a381ed774b7"
+},
 {
 "title": "Ολυμπιακός: Τρία ονόματα για αντί-Μοντέρο",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-tria-onomata-gia-anti-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5067,30 +5091,6 @@
 "snippet": "Ακούστε το ρεπορτάζ του Κώστα Νικολακόπουλου στον bwinΣΠΟΡ FM 94,6 για τον Ολυμπιακό.",
 "also": [],
 "id": "00470ddc4360"
-},
-{
-"title": "Ο Τάισον Ουόρντ σε ένα διαφορετικό video του Ολυμπιακού απαντά αν θα κάνει το back2back",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2032998/o-ouornt-se-ena-diaforetiko-video-tou-olimpiakou-apantai-an-tha-kani-to-back2back/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-10T11:45+00:00",
-"sport": "basket",
-"snippet": "Ένα video με αρκετές προσωπικές ερωτήσεις εκτός μπάσκετ και μία... εντός, ανάρτησε ο Ολυμπιακός με πρωταγωνιστή τον Τάισον Ουόρντ. The post Ο Τάισον Ουόρντ σε…",
-"also": [],
-"id": "b9c98f42ee80"
-},
-{
-"title": "Αναστασιάδης: Ο ΠΑΟΚ μπορούσε να νικήσει στο Καραϊσκάκη",
-"url": "https://sportime.gr/paok/o-paok-borouse-na-figi-nikitis-apo-to-karaiskaki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T11:44+00:00",
-"sport": "football",
-"snippet": "Ο Στέργιος Αναστασιάδης σχολιάζει το 1-1 του ΠΑΟΚ με τον Ολυμπιακό. Οι δέκα απουσίες, οι χαμένες ευκαιρίες και η νίκη που δεν ήρθε στο Καραϊσκάκη.",
-"also": [],
-"id": "8972261b828a"
 }
 ]
 }
