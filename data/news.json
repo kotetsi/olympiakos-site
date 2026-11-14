@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-14T13:09:19+00:00",
+"generated_at": "2026-11-14T13:24:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πλήγμα με Μιλουτίνοφ, υπέστη κάταγμα και μένει εκτός με Άρη και Μακάμπι!",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586465/olympiakos-pligma-me-miloytinof-ypesti-katagma-kai-menei-ektos-me-ari",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T13:16+00:00",
+"sport": "basket",
+"snippet": "Νέο πλήγμα στον Ολυμπιακό, καθώς ο Νίκολα Μιλουτίνοφ υπέστη κάταγμα ονυχοφόρου φάλαγγας δείκτου ΔΕ άκρας χειρός και αναμένεται να μείνει εκτός κόντρα σε Άρη…",
+"also": [],
+"id": "476ef04e1fbb"
+},
+{
+"title": "Ολυμπιακός: Ο Τζόουνς πήρε τη θέση του Μοντέρο στη λίστα των ξένων",
+"url": "https://www.ertsports.gr/mpasket/gbl/olympiakos-o-tzoouns-pire-ti-thesi-tou-montero-sti-lista-ton-ksenon/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-14T13:11+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός προχώρησε σε αλλαγή στην οκτάδα των ξένων του για το ελληνικό πρωτάθλημα, καθώς ο Ταϊρίκ Τζόουνς μπήκε αντί του τραυματία Γιαν Μοντέρο, όμως δεν…",
+"also": [],
+"id": "2ffecb7c7712"
+},
 {
 "title": "Ολυμπιακός: Τέσσερις στην κορυφαία οκτάδα, αλλά μόνο ένας έχει κάνει τη διαφορά",
 "url": "https://sportime.gr/podosfairo/olimpiakos-tesseris-stin-korifea-oktada-alla-mono-enas-echi-kani-ti-diafora?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5106,30 +5130,6 @@
 "snippet": "Ο Ολυμπιακός σχεδιάζει τις κινήσεις του για το μεταγραφικό παράθυρο του Ιανουαρίου.",
 "also": [],
 "id": "68ad2021badd"
-},
-{
-"title": "Ολυμπιακός: Ο Σάλιακας φαίνεται και στη στραβή",
-"url": "https://sportday.gr/podosfairo/364836_olympiakos-o-saliakas-fainetai-kai-sti-stravi.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-10T06:27+00:00",
-"sport": "football",
-"snippet": "Δύο κουβέντες για τον Μανώλη Σάλιακα μετά από ένα παιχνίδι στο οποίο δεν έκλεψε τους τίτλους.",
-"also": [],
-"id": "4febd53eab1b"
-},
-{
-"title": "Αθλητικές μεταδόσεις: Που θα δείτε το Μπότεβγκραντ – ΠΑΟΚ και το Ολυμπιακός – Σαμπαντέλ",
-"url": "https://sportday.gr/epikairotita/364839_athlitikes-metadoseis-pou-tha-deite-to-mpotevgkrant-paok-kai-to-olympiakos-sampantel.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-10T06:00+00:00",
-"sport": "polo",
-"snippet": "Ξεχωρίζουν σήμερα Τρίτη (10/11) στις αθλητικές μεταδόσεις, το Μπότεβγκραντ - ΠΑΟΚ για το Eurocup και το Ολυμπιακός - Σαμπαντέλ για το Champions League πόλο…",
-"also": [],
-"id": "0e159bf18c52"
 }
 ]
 }
