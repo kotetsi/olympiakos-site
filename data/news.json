@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T14:55:08+00:00",
+"generated_at": "2026-11-14T15:10:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ολοκληρώθηκαν οι αλλαγές των ξένων",
+"url": "https://sportday.gr/basket/365284_olympiakos-oloklirothikan-oi-allages-ton-ksenon.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-14T15:00+00:00",
+"sport": "basket",
+"snippet": "Έκλεισαν οι θέσεις των ξένων στη Stoiximan GBL για το πρώτο γύρο. Ποιος παίρνει τη θέση του Γιαν Μοντέρο.",
+"also": [],
+"id": "cdfc16288ec0"
+},
 {
 "title": "Ζότα Σίλβα: «Είναι πλέον στόχος η Εθνική Πορτογαλίας, δουλεύω σκληρά στον Ολυμπιακό»",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15230623/zota-silva-einai-pleon-stoxos-i-ethniki-portogalias-douleyo-sklira-ston-olympiako/",
@@ -5110,26 +5122,6 @@
 "snippet": "Η UEFA επέβαλε χρηματική ποινή ύψους 80.500 ευρώ στη Μαρσέιγ, εξαιτίας της συμπεριφοράς των οπαδών της στην αναμέτρηση με τον Ολυμπιακό για το Europa League…",
 "also": [],
 "id": "1cbae3e0c6e1"
-},
-{
-"title": "Μαρσέιγ: Δέχθηκε βαρύ πρόστιμο από την UEFA για το πανό κόντρα στον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/football/europa-league/2585258/marseig-dehthike-bary-prostimo-apo-tin-uefa-gia-pano-kontra-ston",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-10T07:43+00:00",
-"sport": "football",
-"snippet": "Η UEFA τιμώρησε τη Μαρσέιγ με «τσουχτερό» πρόστιμο για το πανό που σήκωσαν οι οπαδοί της στο Βελοντρόμ στο ματς του Europa League με τον Ολυμπιακό.",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/marseig-vary-prostimo-logo-toy-yvristikoy-pano-ston-olympiako-1333027",
-"title": "Μαρσέιγ: Βαρύ πρόστιμο λόγω του υβριστικού πανό κόντρα στον Ολυμπιακό",
-"published": "2026-11-10T22:50+00:00"
-}
-],
-"id": "23674cc5cb02"
 }
 ]
 }
