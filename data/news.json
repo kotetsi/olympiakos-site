@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T20:58:12+00:00",
+"generated_at": "2026-11-14T21:13:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακάμπι Τελ Αβίβ - Χάποελ Ιερουσαλήμ 77-82: Ήττα πριν τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/mpasket-israil/2586592/makampi-tel-abib-hapoel-ieroysalim-77-82-itta-prin-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T21:03+00:00",
+"sport": "basket",
+"snippet": "Η Μακάμπι Τελ Αβίβ ηττήθηκε από τη Χάποελ Ιερουσαλήμ με 82-77 για το πρωτάθλημα Ισραήλ, τρεις ημέρες πριν αντιμετωπίσει τον Ολυμπιακό για τη EuroLeague.",
+"also": [],
+"id": "63d2e88f12be"
+},
 {
 "title": "Ολυμπιακός – Άρης 3-1: Πήραν το τρίποντο αλλά πιο δύσκολα από όσο θα περίμεναν οι «ερυθρόλευκες»",
 "url": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2586589/olympiakos-aris-3-1-piran-triponto-alla-pio-dyskola-apo",
@@ -88,6 +100,18 @@
 "snippet": "Σκέψεις για αποχώρηση από τον Ολυμπιακό κάνει ο Τζον Κόντσαρ, που δεν έχει προσαρμοστεί ακόμα στη νέα ομάδα του. The post Κόντσαρ: Σκέφτεται να αποχωρήσει από…",
 "also": [],
 "id": "9762af3f04d7"
+},
+{
+"title": "Κόντσαρ: Δυσκολεύεται να προσαρμοστεί & σκέφτεται ν’ αποχωρήσει από τον Ολυμπιακό",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2035289/kontsar-skeftete-na-apochorisi-apo-ton-olimpiako/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-14T20:14+00:00",
+"sport": "basket",
+"snippet": "Σκέψεις για αποχώρηση από τον Ολυμπιακό κάνει ο Τζον Κόντσαρ, που δυσκολεύεται να προσαρμοστεί στη νέα ομάδα του. The post Κόντσαρ: Δυσκολεύεται να…",
+"also": [],
+"id": "1e78ad0fd1ad"
 },
 {
 "title": "Προς την έξοδο από τον Ολυμπιακό ο Κόντσαρ",
@@ -5082,38 +5106,6 @@
 "snippet": "Ο Αλγουαθίλ έδωσε τριήμερο ρεπό στους παίκτες του Ολυμπιακού, αλλά η εμφάνιση με τον ΠΑΟΚ και η διαχείριση απέναντι στη Ρεν τον προβλημάτισαν.",
 "also": [],
 "id": "c407570a4b13"
-},
-{
-"title": "Ολυμπιακός: Οι αμφιβολίες Στεφάνου για Ντόρσεϊ",
-"url": "https://sportime.gr/basket/olimpiakos-katholou-sigouros-o-stefanou-gia-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T15:18+00:00",
-"sport": "basket",
-"snippet": "Η τιμωρία του Τάιλερ Ντόρσεϊ ολοκληρώνεται την Κυριακή, όμως η επιστροφή του στον Ολυμπιακό παραμένει αβέβαιη. Τι ανέφερε ο Μιχάλης Στεφάνου.",
-"also": [],
-"id": "9d1b3500e35b"
-},
-{
-"title": "Πιθανή η αναβολή του Ολυμπιακός - ΑΕΚ!",
-"url": "https://www.sdna.gr/podosfairo/1485423_pithani-i-anaboli-toy-olympiakos-aek",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T15:11+00:00",
-"sport": "football",
-"snippet": "Σκέψεις εντός του Ολυμπιακού να ζητήσουν αναβολή του ντέρμπι με την ΑΕΚ, στο πλαίσιο της 13ης αγωνιστικής της Stoiximan Super League.",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/pithani-i-anavoli-toy-olympiakos-aek-1333097",
-"title": "Πιθανή η αναβολή του Ολυμπιακός - ΑΕΚ!",
-"published": "2026-11-10T17:05+00:00"
-}
-],
-"id": "ef10b2213023"
 }
 ]
 }
