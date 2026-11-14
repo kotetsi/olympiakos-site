@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T18:57:15+00:00",
+"generated_at": "2026-11-14T19:12:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Handball Premier: Άνετες εκτός έδρας νίκες οι Ολυμπιακός και ΑΕΚ στην 8η αγωνιστική",
+"url": "https://www.gazzetta.gr/handball/a1-andron/2586558/handball-premier-anetes-ektos-edras-nikes-oi-olympiakos-kai-aek-stin-8i",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-14T19:04+00:00",
+"sport": "handball",
+"snippet": "Ο Ολυμπιακός επικράτησε επί του Ζαφειράκη στη Νάουσα με 37-22 και η ΑΕΚ επί του Άρη στη Νίκαια με 38-26 για την 8η αγωνιστική της Handball Premier.",
+"also": [],
+"id": "fbad45e1c52a"
+},
 {
 "title": "Live: Παναθηναϊκός - Ολυμπιακός",
 "url": "https://www.sdna.gr/bolei/1486473_live-panathinaikos-olympiakos",
@@ -10,9 +22,41 @@
 "official": false,
 "published": "2026-11-14T18:55+00:00",
 "sport": "general",
-"snippet": "",
-"also": [],
+"snippet": "Ο Μιχάλης Κουντούρης δίνει το «παρών» στο κεκλεισμένων των θυρών ντέρμπι του Παναθηναϊκού με τον Ολυμπιακό στο ΜΕΤΣ.",
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/bolei/volley-league/live-streaming-panathinaikos-olympiakos/",
+"title": "Live Streaming: Παναθηναϊκός – Ολυμπιακός",
+"published": "2026-11-14T19:00+00:00"
+}
+],
 "id": "ab2fe57f24bf"
+},
+{
+"title": "Ζέρβας: «Τεράστιος βαθμός δυσκολίας μετά από χρόνια για Ολυμπιακό στο Αλεξάνδρειο - Όλα τα δεδομένα για Γκαρθία»",
+"url": "http://www.sport-fm.gr/article/5161061",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-14T18:52+00:00",
+"sport": "basket",
+"snippet": "Τα τελευταία νέα του μπασκετικού Ολυμπιακού από τον Νίκο Ζέρβα στον αέρα του bwinΣΠΟΡ FM 94,6.",
+"also": [],
+"id": "10365ca3feec"
+},
+{
+"title": "Γκάλης: «Τα αγωνιστικά δεδομένα και η αμυντική συνταγή του Άρη στο ντέρμπι με τον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5161059",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-14T18:49+00:00",
+"sport": "general",
+"snippet": "Ο Χρήστος Γκάλης μετέφερε τα τελευταία νέα του Άρη ενόψει Ολυμπιακού, αναφέρθηκε στους τραυματίες, στην αμυντική προσέγγιση της ομάδας και στο κατάμεστο…",
+"also": [],
+"id": "054d4a09fe84"
 },
 {
 "title": "Ο Ολυμπιακός συνεχίζει αήττητος , επέστρεψε στις νίκες ο Παναθηναϊκός",
@@ -5055,42 +5099,6 @@
 "snippet": "Η ανάλυση αφορά την πενταετία 2022-23 έως 2026-27, κατά την οποία οι ελληνικές ομάδες έχουν συγκεντρώσει συνολικά 223,25 βαθμούς.",
 "also": [],
 "id": "3c37b5ce09d8"
-},
-{
-"title": "Το πρόγραμμα της 11ης αγωνιστικής της Superbet League 2 - Στην Τρίπολη το ματς του Πανιωνίου με τον Ολυμπιακό Β’",
-"url": "http://www.sport-fm.gr/article/5160199",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-10T12:26+00:00",
-"sport": "general",
-"snippet": "Γνωστές έγιναν οι ημέρες και οι ώρες διεξαγωγής των αναμετρήσεων της 11ης αγωνιστικής της Superbet League 2, καθώς και τα παιχνίδια που θα έχουν τηλεοπτική…",
-"also": [],
-"id": "effedc093a1f"
-},
-{
-"title": "Το πρόγραμμα της 11ης στροφής - Στην Τρίπολη το Πανιώνιος-Ολυμπιακός Β",
-"url": "https://www.sdna.gr/podosfairo/1485380_programma-tis-11is-strofis-stin-tripoli-panionios-olympiakos-b",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T12:08+00:00",
-"sport": "football",
-"snippet": "Γνωστό έγινε το πρόγραμμα της 11ης αγωνιστικής της Superbet League 2, όπως το ποια παιχνίδια θα έχουν μετάδοση.",
-"also": [],
-"id": "81e595ee62a0"
-},
-{
-"title": "Νικολακόπουλος: «Ο Σιπιόνι, ο Τσικίνιο και οι άλλες λύσεις στον Ολυμπιακό μετά τον Έσε»",
-"url": "http://www.sport-fm.gr/article/5160191",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-10T11:49+00:00",
-"sport": "general",
-"snippet": "Ακούστε το ρεπορτάζ του Κώστα Νικολακόπουλου στον bwinΣΠΟΡ FM 94,6 για τον Ολυμπιακό.",
-"also": [],
-"id": "00470ddc4360"
 }
 ]
 }
