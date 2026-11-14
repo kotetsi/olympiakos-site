@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T20:27:58+00:00",
+"generated_at": "2026-11-14T20:43:05+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αλλιώς τα περίμενε, αλλιώς είναι: Τάσεις φυγείς του Κόντσαρ από τον Ολυμπιακό!",
+"url": "https://sportday.gr/basket/365337_allios-ta-perimene-allios-einai-taseis-fygeis-tou-kontsar-apo-ton-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-14T20:33+00:00",
+"sport": "basket",
+"snippet": "Παρότι έχει παίξει μόλις δύο παιχνίδια στον Ολυμπιακό, ο Τζον Κόντσαρ σκέφτεται ήδη να αποχωρήσει!",
+"also": [],
+"id": "c34056ffd591"
+},
 {
 "title": "Ολυμπιακός: Σκέψεις αποχώρησης από τον Κόντσαρ!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15231158/olympiakos-skepseis-apoxorisis-apo-ton-kontsar/",
@@ -11,7 +23,15 @@
 "published": "2026-11-14T20:23+00:00",
 "sport": "basket",
 "snippet": "Δύσκολη είναι η κατάσταση που έχει διαμορφωθεί στις τάξεις του Ολυμπιακού γύρω από την υπόθεση του Τζον Κόντσαρ. Ο Αμερικανός, ο οποίος αποκτήθηκε στα τέλη…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586588/olympiakos-giati-o-kontsar-kanei-skepseis-apohorisis",
+"title": "Ολυμπιακός: Γιατί ο Κόντσαρ κάνει σκέψεις αποχώρησης",
+"published": "2026-11-14T20:41+00:00"
+}
+],
 "id": "34faa7901df6"
 },
 {
@@ -25,6 +45,18 @@
 "snippet": "Δεν κατάφερε να φύγει με θετικό αποτέλεσμα από το «Μελίνα Μερκούρη» ο Άρης, γνωρίζοντας την ήττα με 3-1 σετ από τον Ολυμπιακό, στο πλαίσιο της πέμπτης...",
 "also": [],
 "id": "2d9255385da4"
+},
+{
+"title": "Κόντσαρ: Σκέφτεται να αποχωρήσει από τον Ολυμπιακό",
+"url": "https://www.eurohoops.net/el/heba-el/2035289/kontsar-skeftete-na-apochorisi-apo-ton-olimpiako/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-14T20:14+00:00",
+"sport": "basket",
+"snippet": "Σκέψεις για αποχώρηση από τον Ολυμπιακό κάνει ο Τζον Κόντσαρ, που δεν έχει προσαρμοστεί ακόμα στη νέα ομάδα του. The post Κόντσαρ: Σκέφτεται να αποχωρήσει από…",
+"also": [],
+"id": "9762af3f04d7"
 },
 {
 "title": "Προς την έξοδο από τον Ολυμπιακό ο Κόντσαρ",
@@ -5075,30 +5107,6 @@
 "snippet": "Ο Νίκολιτς ξεκαθάρισε τι θέλει στην ΑΕΚ, ο Παναθηναϊκός ετοιμάζει αλλαγές και ο Ολυμπιακός σχεδιάζει μεταγραφικό παζάρι με αφίξεις και αποχωρήσεις.",
 "also": [],
 "id": "2f246ada3361"
-},
-{
-"title": "Σε απολογία Ολυμπιακός, ΑΕΚ, Παναθηναϊκός - Μόνο πρόστιμα",
-"url": "https://www.sdna.gr/podosfairo/1485412_se-apologia-olympiakos-aek-panathinaikos-mono-prostima",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T14:46+00:00",
-"sport": "football",
-"snippet": "Για τη συμπεριφορά των οπαδών τους στα παιχνίδια της 10ης αγωνιστικής.",
-"also": [],
-"id": "a8c6dc23db1d"
-},
-{
-"title": "Τζόελ Κάμπελ: Η εμφάνιση-όνειρο κόντρα στον ΠΑΟΚ στο Καραϊσκάκη",
-"url": "https://sportday.gr/podosfairo/364794_tzoel-kampel-i-emfanisi-oneiro-kontra-ston-paok-sto-karaiskaki.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-10T14:41+00:00",
-"sport": "football",
-"snippet": "Μία από τις καλύτερες εμφανίσεις του με τη φανέλα του Ολυμπιακού πραγματοποίησε ο Τζόελ Κάμπελ στις 10 Νοεμβρίου 2013, στον θρίαμβο επί του ΠΑΟΚ με 4-0 στο…",
-"also": [],
-"id": "509ec7b89420"
 }
 ]
 }
