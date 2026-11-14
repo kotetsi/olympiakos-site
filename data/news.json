@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T12:39:05+00:00",
+"generated_at": "2026-11-14T12:54:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τέσσερις στην κορυφαία οκτάδα, αλλά μόνο ένας έχει κάνει τη διαφορά",
+"url": "https://sportime.gr/podosfairo/olimpiakos-tesseris-stin-korifea-oktada-alla-mono-enas-echi-kani-ti-diafora?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-14T12:39+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός έχει τέσσερις παίκτες στην κορυφαία οκτάδα των U23 της Super League, αλλά ο Ζοέλ Ρόκα είναι εκείνος που έχει προσφέρει περισσότερα.",
+"also": [],
+"id": "de575e93eaaa"
+},
 {
 "title": "Παπαδογιάννης στο Gazz Floor by Novibet για το Άρης-Ολυμπιακός: «Προβλέπω ότι θα νικήσει ο Άρης»",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2586455/papadogiannis-sto-gazz-floor-novibet-gia-aris-olympiakos-problepo",
@@ -5118,18 +5130,6 @@
 "snippet": "Ξεχωρίζουν σήμερα Τρίτη (10/11) στις αθλητικές μεταδόσεις, το Μπότεβγκραντ - ΠΑΟΚ για το Eurocup και το Ολυμπιακός - Σαμπαντέλ για το Champions League πόλο…",
 "also": [],
 "id": "0e159bf18c52"
-},
-{
-"title": "Για την κορυφή ο Ολυμπιακός, για την πρώτη νίκη ο Παναθηναϊκός",
-"url": "https://www.sdna.gr/polo/1485273_gia-tin-koryfi-o-olympiakos-gia-tin-proti-niki-o-panathinaikos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T05:56+00:00",
-"sport": "polo",
-"snippet": "Επί ελληνικού εδάφους αγωνίζονται το διήμερο 10-11 Νοεμβρίου οι δύο εκπρόσωποι της χώρας μας στο Champions League πόλο ανδρών, που φτάνει στην 3η...",
-"also": [],
-"id": "c5b969c404a7"
 }
 ]
 }
