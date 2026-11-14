@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-14T06:20:47+00:00",
+"generated_at": "2026-11-14T06:35:55+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές Μεταδόσεις: Πού θα δείτε Παναθηναϊκός-Ολυμπιακός στη Volley League και Καρδίτσα-ΠΑΟΚ στη GBL",
+"url": "https://sportday.gr/podosfairo/365255_athlitikes-metadoseis-pou-tha-deite-panathinaikos-olympiakos-sti-volley-league-kai-karditsa-paok-sti-gbl.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-14T06:31+00:00",
+"sport": "football",
+"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα με τις αθλητικές μεταδόσεις για σήμερα, Σάββατο 14 Νοεμβρίου 2026.",
+"also": [],
+"id": "c63bfa8398bd"
+},
 {
 "title": "Οι αθλητικές μεταδόσεις της ημέρας (14/11): Πού θα δούμε το Παναθηναϊκός-Ολυμπιακός στη Volley League και τη δράση στο Nations League",
 "url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1486542_oi-athlitikes-metadoseis-tis-imeras-14/11-poy-tha-doyme",
@@ -5126,26 +5138,6 @@
 "snippet": "Η Ντουμπάι δεν αντιμετώπισε κανένα πρόβλημα κόντρα στην Μέγκα (87-98) και έρχεται στην Αθήνα με ρυθμό και... χαμόγελα. The post Ντουμπάι: Στο… ρελαντί την…",
 "also": [],
 "id": "ee8467dcd6e7"
-},
-{
-"title": "Μέγκα Μπάσκετ - Ντουμπάι BC 87-98: Εύκολα η Ντουμπάι πριν τον Ολυμπιακό στην ABA League",
-"url": "https://www.gazzetta.gr/basketball/aba-liga/2585203/megka-mpasket-ntoympai-bc-87-98-eykola-i-ntoympai-prin-ton-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-09T20:56+00:00",
-"sport": "basket",
-"snippet": "Η Ντουμπάι BC επικράτησε με 87-98 της Μέγκα Μπάσκετ παραμένοντας αήττητη στην ABA League πριν αντιμετωπίσει τον Ολυμπιακό στη EuroLeague.",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1485181_eykola-tin-megka-prin-ton-olympiako-i-ntoympai",
-"title": "Εύκολα την Μέγκα πριν τον Ολυμπιακό η Ντουμπάι",
-"published": "2026-11-09T20:57+00:00"
-}
-],
-"id": "178da3fddeac"
 }
 ]
 }
