@@ -177,5 +177,19 @@
   "sport": "basket",
   "b_team": false,
   "comp": "EuroLeague 2026/27"
+ },
+ "2026-11-21-olympiakos-panionios-gss": {
+  "title": "Ολυμπιακός - Πανιώνιος ΓΣΣ",
+  "home": "Ολυμπιακός",
+  "away": "Πανιώνιος ΓΣΣ",
+  "opp": "Πανιώνιος ΓΣΣ",
+  "oly_home": true,
+  "start": "2026-11-21T17:30+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "volley",
+  "b_team": false,
+  "comp": "Volley League Ανδρών 2026-27"
  }
 }
