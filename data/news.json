@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T08:19:01+00:00",
+"generated_at": "2026-11-15T08:34:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Κόντσαρ: Όλο το χρονικό του στην Ελλάδα",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586657/kotsar-olo-hroniko-toy-stin-ellada",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T08:20+00:00",
+"sport": "basket",
+"snippet": "Ο Τζον Κόντσαρ σκέφτεται να αποχωρήσει από τον Ολυμπιακό πριν καν συμπληρώσει ένα μήνα στους «ερυθρόλευκους». Από τη συνάντηση με τον Μπαρτζώκα στο αεροδρόμιο…",
+"also": [],
+"id": "81aeb02ebf62"
+},
 {
 "title": "Ολυμπιακός: Πάλι θέμα με τον πατέρα του Ντόρσεϊ – Τι άφησε να εννοηθεί για τον Κόντσαρ",
 "url": "https://sportime.gr/basket/olimpiakos-pali-thema-me-ton-patera-tou-ntorsei-ti-afise-na-ennoithi-gia-ton-kontsar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5070,18 +5082,6 @@
 "snippet": "Ο πρόεδρος της UEFA, Αλεξάντερ Τσέφεριν, θα βρεθεί στις εξέδρες του «Z'dezele» στις 10 Δεκεμβρίου για να παρακολουθήσει από κοντά την αναμέτρηση της Τσέλιε με…",
 "also": [],
 "id": "d18758c6e28e"
-},
-{
-"title": "Ολυμπιακός: Τι είπε ο Χοσέ Λουίς Μεντιλίμπαρ",
-"url": "https://sportime.gr/olimpiakos/o-chose-louis-mentilimpareipe-den-tha-allaze-tipota-ke-tora?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T21:59+00:00",
-"sport": "general",
-"snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ μίλησε για πρώτη φορά μετά την αποχώρησή του από τον Ολυμπιακό, αναφερόμενος στην εμπιστοσύνη, την αφοσίωση και τη φιλοσοφία του.",
-"also": [],
-"id": "c1d9742a0c57"
 }
 ]
 }
