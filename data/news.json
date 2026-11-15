@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T11:20:32+00:00",
+"generated_at": "2026-11-15T11:35:40+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ντουμπάι BC - Σουμπότιτσα 96-75: Ξέσπασε μετά την ήττα από τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/aba-liga/2586684/ntoympai-bc-soympotitsa-96-75-xespase-meta-tin-itta-apo-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T11:30+00:00",
+"sport": "basket",
+"snippet": "Η Ντουμπάι BC επικράτησε της Σουμπότιτσα με 93-75 για την 8η αγωνιστική της Aba liga, επιστρέφοντας στα θετικά αποτελέσματα μετά την ήττα από τον Ολυμπιακό.",
+"also": [],
+"id": "674b6e01ab10"
+},
+{
+"title": "Ολυμπιακός: Ο Γκονζάλες φέρνει εκατομμύρια χωρίς να κάνει... τίποτα",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-gkonzales-ferni-ekatommiria-choris-na-kani-tipota?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T11:21+00:00",
+"sport": "general",
+"snippet": "Η εντυπωσιακή απήχηση του Αρμάντο Γκονζάλες στα social media του Ολυμπιακού και η εμπορική δυναμική που δημιουργεί στην αγορά του Μεξικού.",
+"also": [],
+"id": "9424de5b2150"
+},
 {
 "title": "Ολυμπιακός: Σενάρια από την Ιταλία για τον Πιρόλα",
 "url": "https://www.metrosport.gr/olympiakos-senaria-apo-tin-italia-gia-ton-pirola-1333647",
@@ -5058,30 +5082,6 @@
 "snippet": "Ο Ολυμπιακός σκέφτεται αναβολή με την ΑΕΚ. Η Ένωση θα έχει δύο μέρες λιγότερες πριν από την Ευρώπη, αλλά ήδη έχει εξ αναβολής ματς στις 16 Δεκεμβρίου.",
 "also": [],
 "id": "9d59f98d396f"
-},
-{
-"title": "Ολυμπιακός: Το πλάνο του Αλγκουαθίλ στη διακοπή",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15225073/olympiakos-to-plano-tou-algkouathil-sti-diakopi/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-11T07:03+00:00",
-"sport": "football",
-"snippet": "Παρά την απουσία έντεκα διεθνών ποδοσφαιριστών, ο Βάσκος τεχνικός εστιάζει στην ατομική βελτίωση των παικτών που παραμένουν στη βάση και στην αφομοίωση της…",
-"also": [],
-"id": "87253153683d"
-},
-{
-"title": "Ολυμπιακός: Άλλος στη θέση του θα είχε κλατάρει",
-"url": "https://sportday.gr/podosfairo/364914_olympiakos-allos-sti-thesi-tou-tha-eiche-klatarei.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-11T06:27+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ αναγέννησε μία πληγωμένη ομάδα και παρά τα εμπόδια και τα «δώρα» συνεχίζει με σθένος κόντρα σε όλους.",
-"also": [],
-"id": "06c959514ffe"
 }
 ]
 }
