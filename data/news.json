@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T13:36:45+00:00",
+"generated_at": "2026-11-15T13:51:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τέλος ο Τζον Κόντσαρ",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-telos-o-tzon-kontsar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T13:36+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αποφάσισε την αποχώρηση του Τζον Κόντσαρ. Οι δυσκολίες προσαρμογής στην Ελλάδα και την EuroLeague και η συμφωνία για τα δεδουλευμένα του.",
+"also": [],
+"id": "33e1e47aca24"
+},
 {
 "title": "Ολυμπιακός: Πρόταση 1,8 εκατ. στον Ντέιβιντ Τζόουνς-Γκαρσία",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-protasi-18-ekat-ston-nteivint-tzoouns-gkarsia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5048,40 +5060,6 @@
 "snippet": "Στον μεταγραφικό σχεδιασμό του Ολυμπιακού ενόψει Ιανουαρίου, τα δημοσιεύματα για τον Γιοακίμ Μέλε, αλλά και τα ζητήματα που προβληματίζουν το τεχνικό επιτελείο…",
 "also": [],
 "id": "9d9871e8f27f"
-},
-{
-"title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
-"url": "https://www.ertsports.gr/super-league/prostima-se-aek-olympiako-kai-panathinaiko/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-11T09:40+00:00",
-"sport": "football",
-"snippet": "Ενώπιον του αθλητικού δικαστή βρέθηκαν σήμερα (11/11) οι ΠΑΕ ΑΕΚ και Ολυμπιακού για παραβάσεις που καταγράφηκαν στα παιχνίδια της 10ης αγωνιστικής του…",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5160365",
-"title": "Πρόστιμα σε Παναθηναϊκό, Ολυμπιακό και ΑΕΚ για τη 10η αγωνιστική",
-"published": "2026-11-11T09:42+00:00"
-},
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/podosfairo/1485631_prostima-se-aek-olympiako-kai-panathinaiko",
-"title": "Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
-"published": "2026-11-11T11:47+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/superleague/2585635/super-league-prostima-se-aek-olympiako-kai-panathinaiko",
-"title": "Super League: Πρόστιμα σε ΑΕΚ, Ολυμπιακό και Παναθηναϊκό",
-"published": "2026-11-11T14:36+00:00"
-}
-],
-"id": "11ae07d638b2"
 }
 ]
 }
