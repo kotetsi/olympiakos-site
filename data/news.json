@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T15:37:45+00:00",
+"generated_at": "2026-11-15T15:52:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μαγική ατμόσφαιρα στο Παλέ για το Άρης-Ολυμπιακός",
+"url": "https://www.metrosport.gr/i-magiki-atmosfaira-sto-pale-gia-to-aris-olympiakos-1333670",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-15T15:40+00:00",
+"sport": "basket",
+"snippet": "Σε εντυπωσιακή ατμόσφαιρα αναμένεται να διεξαχθεί το μεγάλο ντέρμπι της 7ης αγωνιστικής της Stoiximan GBL, ανάμεσα στον Άρη και τον Ολυμπιακό, με το ...",
+"also": [],
+"id": "2c49d34c340d"
+},
 {
 "title": "Άρης - Ολυμπιακός: Η χειραψία Σπανούλη - Μπαρτζώκα πριν το τζάμπολ",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2586727/aris-olympiakos-i-heirapsia-spanoyli-mpartzoka-prin-tzampol",
@@ -5041,18 +5053,6 @@
 "snippet": "Ο Βασίλης Βέργης αποκαλύπτει τη νομοθετική εξέλιξη που ανοίγει τον δρόμο για το νέο γήπεδο του Ολυμπιακού, με επένδυση 250 εκατ. ευρώ από τον Βαγγέλη...",
 "also": [],
 "id": "09584713c08d"
-},
-{
-"title": "«Ψηφίστηκε» το νέο Γ. Καραϊσκάκης - Όλες οι λεπτομέρειες και το χρονοδιάγραμμα",
-"url": "https://www.sdna.gr/podosfairo/1485642_psifistike-neo-g-karaiskakis-oles-oi-leptomereies-kai-hronodiagramma",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-11T12:32+00:00",
-"sport": "football",
-"snippet": "Tεράστια εξέλιξη για το μέλλον του Ολυμπιακού και το νέο «Γεώργιος Καραϊσκάκης».",
-"also": [],
-"id": "cca9d397852c"
 }
 ]
 }
