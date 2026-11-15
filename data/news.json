@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T22:26:19+00:00",
+"generated_at": "2026-11-15T22:41:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το λάθος με τον Αντρίγια Ζίβκοβιτς",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-to-lathos-me-ton-antrigia-zivkovits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T22:30+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός είχε την ευκαιρία να αποκτήσει τον Αντρίγια Ζίβκοβιτς το 2020, αλλά επέλεξε τον Μπρούμα. Η μεταγραφή στον ΠΑΟΚ και το παρασκήνιο της απόφασης.",
+"also": [],
+"id": "79d88fd0cdab"
+},
 {
 "title": "Ολυμπιακός: Θέλει δύο γκαρντ και επείγοντως σέντερ",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-theli-dio-gkarnt-ke-epigontos-senter?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5049,18 +5061,6 @@
 "snippet": "Τα νεότερα για τον Αργεντίνο χσφ της ομάδας του Ολυμπιακού είναι ξεκάθαρα ευχάριστα.",
 "also": [],
 "id": "7adc50556c91"
-},
-{
-"title": "Η δωδεκάδα του Ολυμπιακού για το ματς με την Ντουμπάι",
-"url": "https://www.ertsports.gr/mpasket/euroleague/i-dodekada-tou-olympiakou-gia-to-mats-me-tin-ntoumpai/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-12T16:51+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Μπαρτζώκας έκανε γνωστές τις επιλογές του για την δωδεκάδα με τον Κώστα Παπανικολάου να μην συμπεριλαμβάνεται, καθώς έχει υποστεί τενοντίτιδα…",
-"also": [],
-"id": "1926ecfdd6a0"
 }
 ]
 }
