@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T05:17:27+00:00",
+"generated_at": "2026-11-15T05:32:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (15/11): Άρης-Ολυμπιακός, Παναθηναϊκός-Κολοσσός στο μπάσκετ και δυνατές μάχες στο Nations League",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1486826_oi-athlitikes-metadoseis-tis-imeras-15/11-aris-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T05:27+00:00",
+"sport": "basket",
+"snippet": "Οι αγώνες Άρης-Ολυμπιακός και Παναθηναϊκός-Κολοσσός για την GBL, μαζί με τις αναμετρήσεις του Nations League ξεχωρίζουν στις αθλητικές μεταδόσεις της...",
+"also": [],
+"id": "c91fe4476bfa"
+},
 {
 "title": "Ρεπόρτερ Σπερς: «Δεν βλέπω σενάριο όπου ο Τζόουνς Γκαρσία καταλήγει στον Ολυμπιακό»",
 "url": "https://www.sdna.gr/mpasket/1486772_reporter-spers-den-blepo-senario-opoy-o-tzooyns-gkarsia-kataligei-ston-olympiako",
@@ -5078,18 +5090,6 @@
 "snippet": "Η πάσα του Ορτέγκα στο Ολυμπιακός - ΠΑΟΚ έχει και διαφορετική τακτική ερμηνεία. Ο ρόλος του Τικνιζιάν και οι τέσσερις παίκτες που έμεναν εκτός φάσης.",
 "also": [],
 "id": "e2cc878a0181"
-},
-{
-"title": "Ολυμπιακός: Επιστρέφει για τον Γιοακίμ Μέλε",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-epistrefi-gia-ton-gioakim-mele?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T19:37+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξετάζει ξανά τον Γιοακίμ Μέλε της Βόλφσμπουργκ για τον Ιανουάριο. Η πρόταση του καλοκαιριού και οι ανάγκες στα άκρα της άμυνας.",
-"also": [],
-"id": "3624314db2bc"
 }
 ]
 }
