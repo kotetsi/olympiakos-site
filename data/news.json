@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T17:08:33+00:00",
+"generated_at": "2026-11-15T17:23:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης - Ολυμπιακός: Ο Μπαρτζώκας αποβλήθηκε με δύο τεχνικές ποινές",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586749/aris-olympiakos-o-mpartzokas-apoblithike-me-dyo-tehnikes-poines",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T17:17+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας αποβλήθηκε 5'49'' πριν από το τέλος της αναμέτρησης του Ολυμπιακού με τον Άρη, μετά τη δεύτερη τεχνική ποινή που δέχθηκε στο παιχνίδι.",
+"also": [],
+"id": "e071cdc5ec60"
+},
+{
+"title": "Τρίτο δεκάλεπτο βγαλμένο από όνειρο για τον Άρη, ο Φουρνιέ πέτυχε μόνος του 12 από τους 16 πόντους του Ολυμπιακού!",
+"url": "http://www.sport-fm.gr/article/5161228",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-15T17:05+00:00",
+"sport": "general",
+"snippet": "Ο Άρης κυριάρχησε στην τρίτη περίοδο με επιμέρους 29-16, με τον Φουρνιέ να πετυχαίνει μόνος του τους 12 από τους 16 πόντους του Ολυμπιακού.",
+"also": [],
+"id": "ba4fd748ca28"
+},
 {
 "title": "Ροναλντίνιο: Η επιστροφή του θρύλου - Ξανά στο χορτάρι μετά από 11 χρόνια!",
 "url": "https://www.gazzetta.gr/football/2586745/ronalntinio-i-epistrofi-toy-thryloy-xana-sto-hortari-meta-apo-11-hronia",
@@ -5029,30 +5053,6 @@
 "snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Γιώργο Τσανάκα.",
 "also": [],
 "id": "8cc0653d1356"
-},
-{
-"title": "Ολυμπιακός: Χωρίς ανάσα – Το απαιτητικό πρόγραμμα που ακολουθεί και η συζήτηση για αναβολή",
-"url": "https://sportday.gr/podosfairo/364970_olympiakos-choris-anasa-to-apaititiko-programma-pou-akolouthei-kai-i-syzitisi-gia-anavoli.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-11T18:30+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός καλείται να δώσει οκτώ αναμετρήσεις σε διάστημα 28 ημερών και στις τρεις διοργανώσεις που συμμετέχει!",
-"also": [],
-"id": "169d634f48f2"
-},
-{
-"title": "ΠΑΟΚ: Επιβεβαιώθηκε η κάκωση β βαθμού στον έσω πλάγιο του Γιάκιτς",
-"url": "https://www.metrosport.gr/paok-epivevaiothike-i-kakosi-v-vathmoy-ston-eso-plagio-toy-giakits-1333222",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-11T17:54+00:00",
-"sport": "football",
-"snippet": "Η εκτίμηση των γιατρών του ΠΑΟΚ σχετικά με τον τραυματισμό του Κριστιάν Γιάκιτς στο ντέρμπι με τον Ολυμπιακό στο “Γ. Καραϊσκάκης” επιβεβαιώθηκε, καθώς...",
-"also": [],
-"id": "fe36eaa0941f"
 }
 ]
 }
