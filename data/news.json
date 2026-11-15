@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T20:40:27+00:00",
+"generated_at": "2026-11-15T20:55:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δύο μεταγραφές ζητά ο Νίκος Ζέρβας",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-dio-metagrafes-zita-o-nikos-zervas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T20:39+00:00",
+"sport": "football",
+"snippet": "Ο Νίκος Ζέρβας σχολιάζει την ήττα του Ολυμπιακού με 100-78 από τον Άρη και επισημαίνει την ανάγκη για δύο μεταγραφές αντί για μία, μετά την κακή εμφάνιση.",
+"also": [],
+"id": "8c52bfb69c7f"
+},
 {
 "title": "Έκλεισε η μεταγραφή στον Ολυμπιακό: Ο πρώτος που θα είναι στο Ρέντη τον Ιανουάριο",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487033_ekleise-i-metagrafi-ston-olympiako-o-protos-poy-tha-einai-sto",
@@ -5057,18 +5069,6 @@
 "snippet": "Ο Ολυμπιακός είχε φτάσει κοντά στην απόκτηση του Ρούμπεν Βάργκας, όμως οι τραυματισμοί και η περίπτωση του Λίον Μπέιλι αλλάζουν τα δεδομένα.",
 "also": [],
 "id": "4b8e7f07f4d3"
-},
-{
-"title": "Ολυμπιακός: Απορρίφθηκε η έφεση από το ΑΣΕΑΔ για την υπόθεση αφαίρεσης βαθμών",
-"url": "https://sportday.gr/basket/365052_olympiakos-aporrifthike-i-efesi-apo-to-asead-gia-tin-ypothesi-afairesis-vathmon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-12T15:58+00:00",
-"sport": "basket",
-"snippet": "Το ΑΣΕΑΔ απέρριψε την έφεση της ΚΑΕ Ολυμπιακός για την υπόθεση του Ταϊρίκ Τζόουνς. Το πρόστιμο μπορεί να μειώθηκε κατά 50.000 ευρώ, αλλά η τιμωρία στον…",
-"also": [],
-"id": "722e896f22ee"
 }
 ]
 }
