@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-15T06:02:57+00:00",
+"generated_at": "2026-11-15T06:17:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης - Ολυμπιακός: Η ώρα και το κανάλι της αναμέτρησης",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586634/aris-olympiakos-i-ora-kai-kanali-tis-anametrisis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T06:12+00:00",
+"sport": "basket",
+"snippet": "Δείτε την ώρα και το κανάλι της αναμέτρησης του Άρη κόντρα στον Ολυμπιακό, για την 7η αγωνιστική της GBL.",
+"also": [],
+"id": "501cd76c8b60"
+},
+{
+"title": "Stoiximan GBL: Υποδέχεται τον Κολοσσό ο Παναθηναϊκός, απέναντι στον Άρη ο Ολυμπιακός",
+"url": "https://www.sdna.gr/mpasket/1486677_stoiximan-gbl-ypodehetai-ton-kolosso-o-panathinaikos-apenanti-ston-ari-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T06:10+00:00",
+"sport": "basket",
+"snippet": "Η 7η αγωνιστική της Stoiximan Greek Basketball League ολοκληρώνεται με τέσσερις αναμετρήσεις.",
+"also": [],
+"id": "8869e3546975"
+},
+{
+"title": "Stoiximan GBL: Ξεχωρίζει το Άρης-Ολυμπιακός στο πλούσιο πρόγραμμα της Κυριακής",
+"url": "http://www.sport-fm.gr/article/5160995",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-15T06:05+00:00",
+"sport": "basket",
+"snippet": "Η 7η αγωνιστική της Stoiximan GBL συνεχίζεται την Κυριακή (15/11) με τέσσερα παιχνίδια στο πρόγραμμα.",
+"also": [],
+"id": "29d8213b9983"
+},
 {
 "title": "Αθλητικές Μεταδόσεις: Που θα δείτε Άρης-Ολυμπιακός και Παναθηναϊκός-Κολοσσός",
 "url": "https://sportday.gr/podosfairo/365346_athlitikes-metadoseis-pou-tha-deite-aris-olympiakos-kai-panathinaikos-kolossos.html",
@@ -20,7 +56,7 @@
 "source": "sdna",
 "source_name": "SDNA",
 "official": false,
-"published": "2026-11-15T05:27+00:00",
+"published": "2026-11-15T05:35+00:00",
 "sport": "basket",
 "snippet": "Οι αγώνες Άρης-Ολυμπιακός και Παναθηναϊκός-Κολοσσός για την GBL, μαζί με τις αναμετρήσεις του Nations League ξεχωρίζουν στις αθλητικές μεταδόσεις της...",
 "also": [],
@@ -5054,42 +5090,6 @@
 }
 ],
 "id": "b0a8a9f9fd93"
-},
-{
-"title": "«Σκασμένος» ο Αλγκουαθίλ στου Ρέντη λόγω... Ζίβκοβιτς - Ζημιά 1.5 εκατ. η ΑΕΚ",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1485487_skasmenos-o-algkoyathil-stoy-renti-logo-zibkobits-zimia-15-ekat-i",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T21:02+00:00",
-"sport": "football",
-"snippet": "Η οδηγία Ιμανόλ Αλκγουαθίλ που δεν... τήρησαν οι παίκτες του Ολυμπιακού στο παιχνίδι με τον ΠΑΟΚ και πώς ο Μάριος Ηλιόπουλος έχασε σε λίγους μήνες...",
-"also": [],
-"id": "337613c52192"
-},
-{
-"title": "Ολυμπιακός: Στις 15 Νοεμβρίου επιστρέφει ο Ντόρσεϊ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-epistrefi-o-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T20:48+00:00",
-"sport": "general",
-"snippet": "Ο Τάιλερ Ντόρσεϊ ολοκληρώνει την πειθαρχική τιμωρία του στον Ολυμπιακό. Πότε μπορεί να αγωνιστεί ξανά και ποιο είναι το πρώτο διαθέσιμο παιχνίδι του.",
-"also": [],
-"id": "ac43d315cb74"
-},
-{
-"title": "Να πάει η ΚΑΕ Ολυμπιακός για παράσταση υπέρ της κατηγορίας αν έχει παράπονα από τη διαιτησία",
-"url": "https://www.sdna.gr/mpasket/1485391_na-paei-i-kae-olympiakos-gia-parastasi-yper-tis-katigorias-ehei-parapona-apo-ti",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-10T20:37+00:00",
-"sport": "basket",
-"snippet": "Το video που έβγαλε η ΚΑΕ Ολυμπιακός, η διοίκηση της ΕΟΚ που παραμένει στα χέρια ανθρώπων του Λιόλιου, η ΚΕΔ, οι διαιτητές που ήταν τα τελευταία...",
-"also": [],
-"id": "e015630cb382"
 }
 ]
 }
