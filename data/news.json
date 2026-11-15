@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T13:06:30+00:00",
+"generated_at": "2026-11-15T13:21:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πρόταση 1,8 εκατ. στον Ντέιβιντ Τζόουνς-Γκαρσία",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-protasi-18-ekat-ston-nteivint-tzoouns-gkarsia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T13:07+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός εξετάζει πρόταση 1,8 εκατ. ευρώ ετησίως για τον Ντέιβιντ Τζόουνς-Γκαρσία. Το πολυετές συμβόλαιο και το εμπόδιο του NBA για τον Δομινικανό.",
+"also": [],
+"id": "784d84e9a5b2"
+},
 {
 "title": "Ολυμπιακός: Τι έκαναν οι 15 «ερυθρόλευκοι» διεθνείς στα πρώτα παιχνίδια των Εθνικών ομάδων",
 "url": "https://www.gazzetta.gr/football/superleague/2586679/olympiakos-ti-ekanan-oi-15-erythroleykoi-diethneis-sta-prota-paihnidia",
@@ -335,7 +347,15 @@
 "published": "2026-11-15T06:12+00:00",
 "sport": "basket",
 "snippet": "Δείτε την ώρα και το κανάλι της αναμέτρησης του Άρη κόντρα στον Ολυμπιακό, για την 7η αγωνιστική της GBL.",
-"also": [],
+"also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/basket/aris-olimpiakos-ora-ke-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Άρης - Ολυμπιακός: Ώρα και κανάλι",
+"published": "2026-11-15T13:14+00:00"
+}
+],
 "id": "501cd76c8b60"
 },
 {
@@ -5062,18 +5082,6 @@
 }
 ],
 "id": "11ae07d638b2"
-},
-{
-"title": "Ολυμπιακός: Και λίγος πάγκος καλό κάνει…",
-"url": "https://www.gazzetta.gr/football/superleague/2585565/olympiakos-kai-ligos-pagkos-kalo-kanei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-11T09:30+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta πολλά και διάφορα, για τέσσερις παίκτες του Ολυμπιακού, με αφορμή τα τελευταία παιχνίδια.",
-"also": [],
-"id": "93441f244f33"
 }
 ]
 }
