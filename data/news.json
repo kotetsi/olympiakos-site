@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T15:07:24+00:00",
+"generated_at": "2026-11-15T15:22:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "LIVE: Άρης – Ολυμπιακός (audio)",
+"url": "https://www.ertsports.gr/mpasket/live-aris-olympiakos-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-15T15:20+00:00",
+"sport": "basket",
+"snippet": "Ο Άρης υποδέχεται τον Ολυμπιακό στο \"Nick Galis Hall\", σε αναμέτρηση που διεξάγεται στο πλαίσιο της 7ης αγωνιστικής της Greek Basketball League. The post LIVE…",
+"also": [],
+"id": "30cd323fb336"
+},
+{
+"title": "Γιάνεζ Πάτε: Όταν ο πρώτος αρχηγός της Εθνικής Σλοβενίας «πλήγωσε» τον Ολυμπιακό",
+"url": "https://sportday.gr/podosfairo/365336_gianez-pate-otan-o-protos-archigos-tis-ethnikis-slovenias-pligose-ton-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-15T15:17+00:00",
+"sport": "football",
+"snippet": "Στις 15 Νοεμβρίου 1992 ο Πιερικός νίκησε με 2-1 τον Ολυμπιακό έχοντας πρωταγωνιστή τον Γιάνεζ Πάτε. Έναν ντελικάτο Σλοβένο μέσο, ο οποίος υπήρξε αρχηγός στον…",
+"also": [],
+"id": "7c0d21d41d35"
+},
 {
 "title": "Live: Άρης - Ολυμπιακός (Stoiximan GBL 2026-27)",
 "url": "https://www.sdna.gr/mpasket/1486837_live-aris-olympiakos-stoiximan-gbl-2026-27",
@@ -5044,30 +5068,6 @@
 "snippet": "Έχει εξελιχθεί σε ένα σίριαλ, που απασχολεί πρωτίστως τον Ολυμπιακό και τον Τάιλερ Ντόρσεϊ, δευτερευόντως όμως και ομάδες, που υπό προϋποθέσεις ...",
 "also": [],
 "id": "d1edd5892bda"
-},
-{
-"title": "Ολυμπιακός: Ο φορ του Αλγουαθίλ που χάνει τη Μίλαν",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-for-tou-algouathil-pou-chani-ti-milan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-11T12:18+00:00",
-"sport": "football",
-"snippet": "Ο Αλγουαθίλ έχει τον Μάριους στον Ρέντη, αλλά όχι στη λίστα για τη Μίλαν. Πώς οι εθνικές των Γκονσάλες και Γιάρεμτσουκ αλλάζουν τα πλάνα με τον Ηρακλή.",
-"also": [],
-"id": "b90e1a274fc5"
-},
-{
-"title": "Ολυμπιακός: Η δήλωση του Μπαρτζώκα για τον Ντόρσεϊ",
-"url": "https://sportday.gr/basket/364945_olympiakos-i-dilosi-tou-mpartzoka-gia-ton-ntorsei.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-11T12:10+00:00",
-"sport": "basket",
-"snippet": "Τι απάντησε ο Γιώργος Μπαρτζώκας όταν ρωτήθηκε για τον τιμωρημένο Τάιλερ Ντόρσεϊ",
-"also": [],
-"id": "f48f851ac6af"
 }
 ]
 }
