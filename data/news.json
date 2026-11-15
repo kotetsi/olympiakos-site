@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T15:22:41+00:00",
+"generated_at": "2026-11-15T15:37:45+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης - Ολυμπιακός: Η χειραψία Σπανούλη - Μπαρτζώκα πριν το τζάμπολ",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586727/aris-olympiakos-i-heirapsia-spanoyli-mpartzoka-prin-tzampol",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T15:33+00:00",
+"sport": "basket",
+"snippet": "Ο Βασίλης Σπανούλης και ο Γιώργος Μπαρτζώκας αντάλλαξαν χειραψία λίγο πριν το τζάμπολ του Άρης - Ολυμπιακός.",
+"also": [],
+"id": "a8b30a73edf2"
+},
+{
+"title": "Πουέρτα: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος είναι ο Ολυμπιακός»",
+"url": "https://www.sdna.gr/podosfairo/1486954_poyerta-den-antilambanomaste-poso-megalos-syllogos-einai-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T15:23+00:00",
+"sport": "football",
+"snippet": "Ο Γκουστάβο Πουέρτα μίλησε στα ΜΜΕ της Κολομβίας για την παρουσία του στον Ολυμπιακό, την πορεία των «ερυθρόλευκων» και τον ηγετικό ρόλο που έχει...",
+"also": [],
+"id": "793d36685b20"
+},
 {
 "title": "LIVE: Άρης – Ολυμπιακός (audio)",
 "url": "https://www.ertsports.gr/mpasket/live-aris-olympiakos-audio/",
@@ -5029,45 +5053,6 @@
 "snippet": "Tεράστια εξέλιξη για το μέλλον του Ολυμπιακού και το νέο «Γεώργιος Καραϊσκάκης».",
 "also": [],
 "id": "cca9d397852c"
-},
-{
-"title": "Ψηφίστηκε η ρύθμιση για το νέο «Γ. Καραϊσκάκης»!",
-"url": "http://www.sport-fm.gr/article/5160389",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-11T12:27+00:00",
-"sport": "football",
-"snippet": "Υπερψηφίστηκε η νομοθετική ρύθμιση για το νέο «Γ.Καραϊσκάκης» στη Βουλή και έτσι πλέον θα μπει σε εφαρμογή το πλάνο για την ανακατασκευή του γηπέδου του…",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/podosfairo/olympiakos-yperpsifistike-i-rythmisi-gia-to-neo-g-karaiskakis/",
-"title": "Ολυμπιακός: Υπερψηφίστηκε η ρύθμιση για το νέο “Γ. Καραϊσκάκης”",
-"published": "2026-11-11T12:52+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/superleague/2585621/olympiakos-psifistike-i-rythmisi-gia-neo-g-karaiskakis",
-"title": "Ολυμπιακός: Ψηφίστηκε η ρύθμιση για το νέο «Γ. Καραϊσκάκης»",
-"published": "2026-11-11T13:06+00:00"
-}
-],
-"id": "2bf8f07508e8"
-},
-{
-"title": "Ολυμπιακός: Ο Μπαρτζώκας κράτησε θολό το τοπίο για τον Ντόρσεϊ",
-"url": "https://www.metrosport.gr/olympiakos-o-mpartzokas-kratise-tholo-to-topio-gia-ton-ntorsei-1333168",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-11T12:25+00:00",
-"sport": "general",
-"snippet": "Έχει εξελιχθεί σε ένα σίριαλ, που απασχολεί πρωτίστως τον Ολυμπιακό και τον Τάιλερ Ντόρσεϊ, δευτερευόντως όμως και ομάδες, που υπό προϋποθέσεις ...",
-"also": [],
-"id": "d1edd5892bda"
 }
 ]
 }
