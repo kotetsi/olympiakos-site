@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T09:34:38+00:00",
+"generated_at": "2026-11-15T09:49:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Νικολό Σκίρα αναφέρει πως ο Πιρόλα σκέφτεται επιστροφή στην Ιταλία",
+"url": "https://www.gazzetta.gr/football/superleague/2586666/olympiakos-o-nikolo-skira-anaferei-pos-o-pirola-skeftetai-epistrofi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T09:40+00:00",
+"sport": "football",
+"snippet": "Σύμφωνα με δημοσίευμα του Νικολό Σκίρα, ο Λορέντσο Πιρόλα εξετάζει το ενδεχόμενο να αγωνιστεί και πάλι στην Ιταλία.",
+"also": [],
+"id": "b93a158276c9"
+},
+{
+"title": "Ολυμπιακός: Τέλος Ντόρσεϊ και Κόντσαρ – Η μόνη λύση",
+"url": "https://sportime.gr/basket/olimpiakos-telos-ntorsei-ke-kontsar-i-moni-lisi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T09:34+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός καλείται να πάρει αποφάσεις για Ντόρσεϊ και Κόντσαρ. Γιατί η αποχώρηση και των δύο αποτελεί τη μόνη λύση για να προχωρήσει η ομάδα.",
+"also": [],
+"id": "6c7a40cee49b"
+},
 {
 "title": "Κόντσαρ: Όλο το χρονικό του στην Ελλάδα",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586657/kotsar-olo-hroniko-toy-stin-ellada",
@@ -5058,30 +5082,6 @@
 "snippet": "Κρίσιμη εβδομάδα η τρέχουσα αναφορικά με την υπόθεση του Τάιλερ Ντόρσεϊ - Πότε αναμένεται να επιστρέψει στη δράση.",
 "also": [],
 "id": "d528d4e1d754"
-},
-{
-"title": "Ολυμπιακός: Ποιος πληρώνει τον Νίκολα Βούτσεβιτς;",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-pios-tha-plironi-ton-nikola-voutsevits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T22:05+00:00",
-"sport": "basket",
-"snippet": "Ο Νίκολα Βούτσεβιτς σκέφτεται την EuroLeague και αναφέρει τον Ολυμπιακό. Τα 216 εκατομμύρια από το NBA και το οικονομικό ερώτημα μιας πιθανής μεταγραφής.",
-"also": [],
-"id": "b0719b6a5cfe"
-},
-{
-"title": "Ο Αλεξάντερ Τσέφεριν θα παρακολουθήσει το Τσέλιε-Ολυμπιακός",
-"url": "https://www.ertsports.gr/podosfairo/o-aleksanter-tseferin-tha-parakolouthisei-to-tselie-olympiakos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-10T22:01+00:00",
-"sport": "football",
-"snippet": "Ο πρόεδρος της UEFA, Αλεξάντερ Τσέφεριν, θα βρεθεί στις εξέδρες του «Z'dezele» στις 10 Δεκεμβρίου για να παρακολουθήσει από κοντά την αναμέτρηση της Τσέλιε με…",
-"also": [],
-"id": "d18758c6e28e"
 }
 ]
 }
