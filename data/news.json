@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T20:25:14+00:00",
+"generated_at": "2026-11-15T20:40:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "Έκλεισε η μεταγραφή στον Ολυμπιακό: Ο πρώτος που θα είναι στο Ρέντη τον Ιανουάριο",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487033_ekleise-i-metagrafi-ston-olympiako-o-protos-poy-tha-einai-sto",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T20:28+00:00",
+"sport": "football",
+"snippet": "Οι Πειραιώτες φέρνουν παίκτη σε μία θέση που υπάρχει πρόβλημα από την αρχή της σεζόν, ωστόσο ελπίζουν πως θα τον... ηρεμήσουν.",
+"also": [],
+"id": "c84a0e195a0a"
+},
 {
 "title": "Ολυμπιακός: Πληρώνει και τον Άλεκ Πίτερς",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-plironi-ke-ton-alek-piters?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -27,14 +39,14 @@
 "id": "f58a50dba574"
 },
 {
-"title": "Ολυμπιακός: Η πιο βαριά ήττα του στην Ελλάδα μετά το 2009!",
+"title": "Ολυμπιακός: Το -22 από τον Άρη η πιο βαριά ήττα στην Ελλάδα μετά το 2009!",
 "url": "https://www.eurohoops.net/el/heba-el/2035733/olimpiakos-i-pio-varia-itta-tou-stin-ellada-meta-to-2009/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
 "published": "2026-11-15T20:04+00:00",
 "sport": "basket",
-"snippet": "Η ήττα του Ολυμπιακού από τον Άρη ήταν ιστορική για παραπάνω από έναν λόγους. The post Ολυμπιακός: Η πιο βαριά ήττα του στην Ελλάδα μετά το 2009! appeared…",
+"snippet": "Η ήττα του Ολυμπιακού από τον Άρη ήταν ιστορική για παραπάνω από έναν λόγους. The post Ολυμπιακός: Το -22 από τον Άρη η πιο βαριά ήττα στην Ελλάδα μετά το…",
 "also": [],
 "id": "f31c53a95f81"
 },
@@ -5057,18 +5069,6 @@
 "snippet": "Το ΑΣΕΑΔ απέρριψε την έφεση της ΚΑΕ Ολυμπιακός για την υπόθεση του Ταϊρίκ Τζόουνς. Το πρόστιμο μπορεί να μειώθηκε κατά 50.000 ευρώ, αλλά η τιμωρία στον…",
 "also": [],
 "id": "722e896f22ee"
-},
-{
-"title": "Άρης: Η χαλάρωση με τη Ρίγα χτυπά καμπανάκι πριν από τον Ολυμπιακό",
-"url": "https://sportime.gr/aris-fc/aris-i-chalarosi-me-ti-riga-chtipa-kampanaki-prin-apo-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T15:47+00:00",
-"sport": "general",
-"snippet": "Ο Άρης διέλυσε τη Ρίγα, αλλά η χαλάρωση στο τελευταίο δεκάλεπτο έδωσε στον Καντζούρη λόγο να ζητήσει μεγαλύτερη σταθερότητα πριν από τον Ολυμπιακό.",
-"also": [],
-"id": "9ae39f90246e"
 }
 ]
 }
