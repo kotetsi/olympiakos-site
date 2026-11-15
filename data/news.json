@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T11:35:40+00:00",
+"generated_at": "2026-11-15T11:50:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα 233 λεπτά του Γκουστάβο Σα",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ta-233-lepta-tou-gkoustavo-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T11:41+00:00",
+"sport": "general",
+"snippet": "Ο Γκουστάβο Σα μετρά μόλις 233 λεπτά συμμετοχής με τον Ιμανόλ Αλγουαθίλ στον Ολυμπιακό. Τι άλλαξε για τον Πορτογάλο μετά την αποχώρηση Μεντιλίμπαρ;",
+"also": [],
+"id": "5a535b25526d"
+},
+{
+"title": "Ξανά στο προσκήνιο ο Ρούμπεν Βάργκας για τον Ολυμπιακό – Τα νέα δεδομένα στη Σεβίλλη",
+"url": "https://www.novasports.gr/sport/podosfairo/event/laliga-division/article/15231905/ksana-sto-proskinio-o-roumpen-vargkas-gia-ton-olympiako-ta-nea-dedomena-sti-sevilli/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-15T11:40+00:00",
+"sport": "football",
+"snippet": "Ανοιχτό παραμένει το ενδεχόμενο μετακίνησης του Ρούμπεν Βάργκας στον Ολυμπιακό ενόψει της χειμερινής μεταγραφικής περιόδου του Ιανουαρίου, με τα δημοσιεύματα…",
+"also": [],
+"id": "f99a4c21116b"
+},
 {
 "title": "Ντουμπάι BC - Σουμπότιτσα 96-75: Ξέσπασε μετά την ήττα από τον Ολυμπιακό",
 "url": "https://www.gazzetta.gr/basketball/aba-liga/2586684/ntoympai-bc-soympotitsa-96-75-xespase-meta-tin-itta-apo-ton-olympiako",
@@ -5058,30 +5082,6 @@
 "snippet": "Συντονιστείτε στις 11:00 στο Gazz Floor by Novibet για όλες τις εξελίξεις γύρω από το σκάνδαλο που ταλανίζει το ελληνικό μπάσκετ.",
 "also": [],
 "id": "3e2234ce2e07"
-},
-{
-"title": "Ολυμπιακός: Η αίσθηση που υπάρχει ενόψει Γενάρη για τις θέσεις όπου θα ενισχυθεί",
-"url": "https://www.gazzetta.gr/football/superleague/2585409/olympiakos-i-aisthisi-poy-yparhei-enopsei-genari-gia-theseis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-11T07:21+00:00",
-"sport": "football",
-"snippet": "Στον Ολυμπιακό δεν υπάρχει προς ώρας καμία απόφαση για μεταγραφική ενίσχυση ή για θέσεις, ωστόσο υφίσταται ένα feeling για συγκεκριμένες θέσεις.",
-"also": [],
-"id": "537921026380"
-},
-{
-"title": "Ολυμπιακός – ΑΕΚ: Η παγίδα της πιθανής αναβολής",
-"url": "https://sportime.gr/aek/olimpiakos-aek-i-pithani-anavoli-volevi-tin-enosi-prin-apo-ti-galatasarai-alla-krivi-pagida?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-11T07:18+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός σκέφτεται αναβολή με την ΑΕΚ. Η Ένωση θα έχει δύο μέρες λιγότερες πριν από την Ευρώπη, αλλά ήδη έχει εξ αναβολής ματς στις 16 Δεκεμβρίου.",
-"also": [],
-"id": "9d59f98d396f"
 }
 ]
 }
