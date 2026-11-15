@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T20:55:35+00:00",
+"generated_at": "2026-11-15T21:10:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Podcast Κοτζιά: Η ανάγνωση για το 100-78 του Αρη επί του Ολυμπιακού",
+"url": "https://www.sdna.gr/mpasket/1487017_podcast-kotzia-i-anagnosi-gia-100-78-toy-ari-epi-toy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T21:00+00:00",
+"sport": "basket",
+"snippet": "Τα δεδομένα έχουν αλλάξει στο ελληνικό πρωτάθλημα και αυτό είναι κάτι, που αρέσει σε όλους.",
+"also": [],
+"id": "ed350fc0e93f"
+},
+{
+"title": "Ολυμπιακός: Κινδυνεύει το πλεονέκτημα έδρας",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-kindinevi-to-pleonektima-edras?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T20:59+00:00",
+"sport": "general",
+"snippet": "Η ήττα από τον Άρη και η αφαίρεση δύο βαθμών δυσκολεύουν τον Ολυμπιακό στη μάχη για το πλεονέκτημα έδρας. Η βαθμολογία και η πίεση από ΠΑΟΚ και Άρη.",
+"also": [],
+"id": "14ed1a1bdf04"
+},
 {
 "title": "Ολυμπιακός: Δύο μεταγραφές ζητά ο Νίκος Ζέρβας",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-dio-metagrafes-zita-o-nikos-zervas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5045,30 +5069,6 @@
 "snippet": "Γνωστή έγινε η δωδεκάδα του Ολυμπιακού ενόψει της αναμέτρησης με την Ντουμπάι BC στη Sunel Arena.",
 "also": [],
 "id": "5b5a068e8dcd"
-},
-{
-"title": "Ολυμπιακός: Νιώθει… τσιγγάνος στην SUNEL Arena (graphics)",
-"url": "https://www.novasports.gr/category/the-experts/article/15224638/olympiakos-niothei-tsigganos-stin-sunel-arena-graphics/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-12T16:14+00:00",
-"sport": "general",
-"snippet": "Είναι μία αλήθεια και μία πραγματικότητα ότι ο Ολυμπιακός έχει παίξει την φετινή σεζόν πλήρης ελάχιστα ματς εντός έδρας (παραπάνω εκτός έδρας). Είναι επίσης…",
-"also": [],
-"id": "1d36961cfb9c"
-},
-{
-"title": "Ολυμπιακός μεταγραφές: Ο Βάργκας και οι ομοιότητες με Μπέιλι",
-"url": "https://sportime.gr/podosfairo/olimpiakos-metagrafes-o-vargkas-ke-i-omiotites-me-beili?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T16:04+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός είχε φτάσει κοντά στην απόκτηση του Ρούμπεν Βάργκας, όμως οι τραυματισμοί και η περίπτωση του Λίον Μπέιλι αλλάζουν τα δεδομένα.",
-"also": [],
-"id": "4b8e7f07f4d3"
 }
 ]
 }
