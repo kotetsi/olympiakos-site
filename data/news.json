@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T11:05:24+00:00",
+"generated_at": "2026-11-15T11:20:32+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σενάρια από την Ιταλία για τον Πιρόλα",
+"url": "https://www.metrosport.gr/olympiakos-senaria-apo-tin-italia-gia-ton-pirola-1333647",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-15T11:10+00:00",
+"sport": "football",
+"snippet": "Το όνομα του Λορέντσο Πιρόλα εξακολουθεί να απασχολεί την ιταλική μεταγραφική αγορά, με το ενδεχόμενο επιστροφής του στο πρωτάθλημα της πατρίδας του ...",
+"also": [],
+"id": "f653caea14b6"
+},
+{
+"title": "Ολυμπιακός: Ο Βεζένκοφ έβαλε λιγότερους και αυτό ήταν το καλό νέο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-vezenkof-evale-ligoterous-ke-afto-itan-to-kalo-neo?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T11:04+00:00",
+"sport": "general",
+"snippet": "Ο Βεζένκοφ έσπασε το ρεκόρ του Σπανούλη, αλλά τα επίσημα σκορ δείχνουν πού κρύβεται η πραγματική αλλαγή του Ολυμπιακού ενόψει Μακάμπι και Ρεάλ.",
+"also": [],
+"id": "6addbd79ab6a"
+},
 {
 "title": "Πανιώνιος – Ολυμπιακός Β': Δείτε ΕΔΩ το ματς – Ώρα και κανάλι",
 "url": "https://sportime.gr/podosfairo/panionios-olimpiakos-v-dite-edo-to-mats-ora-ke-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5058,30 +5082,6 @@
 "snippet": "Ο Ιμανόλ Αλγουαθίλ αναγέννησε μία πληγωμένη ομάδα και παρά τα εμπόδια και τα «δώρα» συνεχίζει με σθένος κόντρα σε όλους.",
 "also": [],
 "id": "06c959514ffe"
-},
-{
-"title": "ΑΕΚ, Ολυμπιακός, Παναθηναϊκός: Ποιες ποινές προβλέπονται",
-"url": "https://sportime.gr/super-league/aek-olimpiakos-panathinaikos-pies-pines-provleponte?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-11T06:23+00:00",
-"sport": "football",
-"snippet": "ΑΕΚ και Ολυμπιακός καλούνται με διάταξη υποτροπής για πυροτεχνικά, ενώ ο Παναθηναϊκός για ρίψη αντικειμένου. Τι χρηματικές ποινές προβλέπει η ΕΠΟ.",
-"also": [],
-"id": "4b9e76aba002"
-},
-{
-"title": "Αποθέωσε Κωστούλα θρύλος της Μάντσεστερ Γιουνάιτεντ: «Τι παίκτης είναι αυτός, τον λατρεύω - Πάρτε τον»!",
-"url": "https://www.sdna.gr/podosfairo/1485555_apotheose-kostoyla-thrylos-tis-mantsester-gioynaitent-ti-paiktis-einai-aytos-ton",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-11T06:06+00:00",
-"sport": "football",
-"snippet": "Ένας από τους κορυφαίους σκόρερ που πέρασαν από τη Μάντσεστερ Γιουνάιτεντ, ο Τέντι Σέριγχαμ, αποθέωσε τον Χαράλαμπο Κωστούλα και έστειλε ξεκάθαρο...",
-"also": [],
-"id": "e02a15b6b94b"
 }
 ]
 }
