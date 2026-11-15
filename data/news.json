@@ -1,14 +1,26 @@
 {
-"generated_at": "2026-11-15T06:48:14+00:00",
+"generated_at": "2026-11-15T07:03:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές μεταδόσεις σήμερα: Το Άρης-Ολυμπιακός και οι σημαντικότερες αναμετρήσεις της ημέρας",
+"url": "https://www.gazzetta.gr/football/2586645/athlitikes-metadoseis-simera-aris-olympiakos-kai-oi-simantikoteres-anametriseis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T07:01+00:00",
+"sport": "football",
+"snippet": "Δείτε την ώρα και το κανάλι μετάδοσης των σημαντικότερων αναμετρήσεων της ημέρας.",
+"also": [],
+"id": "5fe6257d17ef"
+},
 {
 "title": "Με αυτόν τον παιχταρά ο Ολυμπιακός σηκώνει ξανά τη Euroleague",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1486834_me-ayton-ton-paihtara-o-olympiakos-sikonei-xana-ti-euroleague",
 "source": "sdna",
 "source_name": "SDNA",
 "official": false,
-"published": "2026-11-15T06:45+00:00",
+"published": "2026-11-15T06:50+00:00",
 "sport": "basket",
 "snippet": "Μόνο αδιάφορος δεν είναι ο Ολυμπιακός όσον αφορά στη μεταγραφική του δραστηριότητα.",
 "also": [],
@@ -5070,18 +5082,6 @@
 "snippet": "Ο Ολυμπιακός περιμένει τον Αγιούμπ Ελ Κααμπί, καθώς η κατάταξη των επιθετικών με βάση τα αναμενόμενα γκολ αποκαλύπτει το πρόβλημα των ερυθρόλευκων.",
 "also": [],
 "id": "26e5ad0c866e"
-},
-{
-"title": "Θρύλος της Μάντσεστερ Γ.: «Πάρτε τον Κωστούλα»",
-"url": "https://sportday.gr/podosfairo/364910_thrylos-tis-mantsester-g-parte-ton-kostoula.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-10T21:41+00:00",
-"sport": "football",
-"snippet": "O παλαίμαχος διεθνής Άγγλος επιθετικός θεωρεί ότι οι «κόκκινοι διάβολοι» θα πρέπει να κινηθούν για την απόκτησή του τον Ιανουάριο",
-"also": [],
-"id": "f3303e6759af"
 }
 ]
 }
