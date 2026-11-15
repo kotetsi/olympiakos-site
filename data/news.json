@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T06:17:59+00:00",
+"generated_at": "2026-11-15T06:33:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Ντέρμπι αποδείξεων με τον Ολυμπιακό στο κατάμεστο Παλέ",
+"url": "https://www.metrosport.gr/33-1794694483-rkijwthv6b-1333628",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-15T06:20+00:00",
+"sport": "general",
+"snippet": "Ο Άρης υποδέχεται σήμερα τον Ολυμπιακό (15/11, 17:30, ΣΚΑΪ, Metropolis 95.5) στο κατάμεστο και πάλι Παλέ στο μεγάλο...",
+"also": [],
+"id": "fb26cec722c1"
+},
 {
 "title": "Άρης - Ολυμπιακός: Η ώρα και το κανάλι της αναμέτρησης",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2586634/aris-olympiakos-i-ora-kai-kanali-tis-anametrisis",
@@ -5070,26 +5082,6 @@
 "snippet": "Ο Ολυμπιακός και ο Παναθηναϊκός ενδέχεται να εισπράξουν από 30 εκατ. ευρώ μέσω των νέων franchises της EuroLeague, στα οποία σχεδιάζει να ενταχθεί ο ΠΑΟΚ.",
 "also": [],
 "id": "3e063e09bc2a"
-},
-{
-"title": "Ολυμπιακός: Τι είπε ο Μέλε για το μέλλον του",
-"url": "https://www.gazzetta.gr/football/superleague/2585501/olympiakos-ti-eipe-o-mele-gia-mellon-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-10T21:09+00:00",
-"sport": "football",
-"snippet": "Ο Δανός μπακ - που συνδέθηκε ξανά με Ολυμπιακό - μίλησε στον Τύπο της χώρας του για την επόμενή του μέρα στο ποδόσφαιρο και σε σχέση με το μέλλον του στη…",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/2-bundesliga/article/15224704/o-mele-kai-to-mellon-tou/",
-"title": "Ο Μέλε και το μέλλον του!",
-"published": "2026-11-10T21:38+00:00"
-}
-],
-"id": "b0a8a9f9fd93"
 }
 ]
 }
