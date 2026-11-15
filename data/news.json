@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T21:10:43+00:00",
+"generated_at": "2026-11-15T21:25:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Κορδόν τον Γενάρη θέλει να βάλει τέλος στο μεταγραφικό μπάχαλο του Ολυμπιακού",
+"url": "https://sportime.gr/olimpiakos/o-kordon-ton-genari-theli-na-vali-telos-sto-metagrafiko-bachalo-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T21:19+00:00",
+"sport": "football",
+"snippet": "Ο Αντόνιο Κορδόν ετοιμάζει τις μεταγραφές του Ιανουαρίου στον Ολυμπιακό, με στόχο να διορθώσει τις αστοχίες και να ενισχύσει στοχευμένα το ρόστερ.",
+"also": [],
+"id": "d9713d433fc8"
+},
+{
+"title": "Πρώτος ο Φλοίσβος, αήττητος ο Παναθηναϊκός, έβδομος ο Ολυμπιακός - Η βαθμολογία της 4ης αγωνιστικής",
+"url": "https://www.sdna.gr/bolei/1487030_protos-o-floisbos-aittitos-o-panathinaikos-ebdomos-o-olympiakos-i-bathmologia-tis-4is",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T21:12+00:00",
+"sport": "volley",
+"snippet": "Ολοκληρώθηκε η 4η αγωνιστική στη Novibet Volley League, με τον Φλοίσβο να πιάνει μόνος κορυφή στη βαθμολογία με 4/4. Η ομάδα του Παλαιού Φαλήρου...",
+"also": [],
+"id": "5a980e5d1e00"
+},
 {
 "title": "Podcast Κοτζιά: Η ανάγνωση για το 100-78 του Αρη επί του Ολυμπιακού",
 "url": "https://www.sdna.gr/mpasket/1487017_podcast-kotzia-i-anagnosi-gia-100-78-toy-ari-epi-toy-olympiakoy",
@@ -5030,45 +5054,6 @@
 "snippet": "Με τις γνωστές απουσίες θα παραταχθεί απόψε το βράδυ ο Ολυμπιακός στη SUNEL Arena και στο παιχνίδι με την Dubai BC για την 11η αγωνιστική της Ευρωλίγκας.",
 "also": [],
 "id": "361910acba1a"
-},
-{
-"title": "Ολυμπιακός: Η Ρίβερ Πλέιτ εξετάζει τον Έσε!",
-"url": "https://www.gazzetta.gr/football/superleague/2585942/olympiakos-i-riber-pleit-exetazei-ton-ese",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T16:38+00:00",
-"sport": "football",
-"snippet": "Στο μεταγραφικό κάδρο της Ρίβερ Πλέιτ βρίσκεται ο Σαντιάγκο Έσε, με τον Αργεντινό χαφ του Ολυμπιακού να αποτελεί μία από τις πέντε περιπτώσεις ποδοσφαιριστών…",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/argentini-primera-division/article/15227119/olympiakos-river-pleit-gia-ese-oi-apaitiseis/",
-"title": "Ολυμπιακός: Ρίβερ Πλέιτ για Έσε – Οι απαιτήσεις",
-"published": "2026-11-12T16:54+00:00"
-},
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/365086_olympiakos-i-river-pleit-koitaei-ese.html",
-"title": "Ολυμπιακός: Η Ρίβερ Πλέιτ… κοιτάει Έσε!",
-"published": "2026-11-12T17:17+00:00"
-}
-],
-"id": "60dd441d8b99"
-},
-{
-"title": "Ολυμπιακός - Ντουμπάι BC: Χωρίς εκπλήξεις η «ερυθρόλευκη» δωδεκάδα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2585940/olympiakos-ntoympai-bc-horis-ekplixeis-i-erythroleyki-dodekada",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T16:34+00:00",
-"sport": "basket",
-"snippet": "Γνωστή έγινε η δωδεκάδα του Ολυμπιακού ενόψει της αναμέτρησης με την Ντουμπάι BC στη Sunel Arena.",
-"also": [],
-"id": "5b5a068e8dcd"
 }
 ]
 }
