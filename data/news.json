@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T10:04:59+00:00",
+"generated_at": "2026-11-15T10:20:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σενάρια επιστροφής του Πιρόλα στην Ιταλία, τι αναφέρει ο Σκίρα (pic)",
+"url": "https://www.sdna.gr/podosfairo/1486866_olympiakos-senaria-epistrofis-toy-pirola-stin-italia-ti-anaferei-o-skira-pic",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T10:15+00:00",
+"sport": "football",
+"snippet": "Ανοιχτό φαίνεται να είναι το ενδεχόμενο αποχώρησης του Λορέντσο Πιρόλα από τον Ολυμπιακό με προορισμό την Ιταλία, σύμφωνα με όσα υποστηρίζει ο...",
+"also": [],
+"id": "36e77771612e"
+},
+{
+"title": "Ολυμπιακός: Κόντσαρ ή Πλώτας; Οι αριθμοί που έχουν ενδιαφέρον",
+"url": "https://sportime.gr/basket/olimpiakos-kontsar-i-plotas-i-arithmi-pou-echoun-endiaferon?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T10:11+00:00",
+"sport": "basket",
+"snippet": "Ο Τζον Κόντσαρ θέλει να αποχωρήσει από τον Ολυμπιακό. Τι έχει προσφέρει στη Euroleague και τι δείχνει η σύγκριση με τον νεαρό Νίκο Πλώτα.",
+"also": [],
+"id": "b6c7809f5d58"
+},
 {
 "title": "Διαιτησία: Τι δείχνουν οι αποβολές και τα πέναλτι για Ολυμπιακό, ΑΕΚ, Παναθηναϊκό και ΠΑΟΚ",
 "url": "https://sportime.gr/podosfairo/dietisia-ti-dichnoun-i-apovoles-ke-ta-penalti-gia-olimpiako-aek-panathinaiko-ke-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5058,30 +5082,6 @@
 "snippet": "Ο Νταβίντ Φούστερ αναλαμβάνει κομβικό ρόλο στην παρακολούθηση των δανεικών του Ολυμπιακού, διατηρώντας συνεχή εικόνα για την αγωνιστική πορεία και την εξέλιξή…",
 "also": [],
 "id": "762f2ac732c0"
-},
-{
-"title": "Ολυμπιακός: Το πλάνο Αλγουαθίλ στη διακοπή – Τριήμερο ρεπό και πέντε «μικροί» στο Ρέντη",
-"url": "http://www.sport-fm.gr/article/5160297",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-11T05:31+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ εκμεταλλεύεται διαφορετικά τη διακοπή στον Ολυμπιακό, με τριήμερο ρεπό, στοχευμένη δουλειά στο Ρέντη και πέντε νεαρούς στις προπονήσεις.",
-"also": [],
-"id": "b46851809dc3"
-},
-{
-"title": "Ολυμπιακός: Εξετάζει αναβολή με ΑΕΚ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-skepsis-gia-anavoli-me-aek?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T22:25+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός σκέφτεται να ζητήσει αναβολή του ντέρμπι με την ΑΕΚ στις 5 Δεκεμβρίου λόγω των αγώνων με Παναθηναϊκό και Τσέλιε. Τι προβλέπει το Joker Right.",
-"also": [],
-"id": "02812c7b186d"
 }
 ]
 }
