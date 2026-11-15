@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-15T06:33:06+00:00",
+"generated_at": "2026-11-15T06:48:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Με αυτόν τον παιχταρά ο Ολυμπιακός σηκώνει ξανά τη Euroleague",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1486834_me-ayton-ton-paihtara-o-olympiakos-sikonei-xana-ti-euroleague",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-15T06:45+00:00",
+"sport": "basket",
+"snippet": "Μόνο αδιάφορος δεν είναι ο Ολυμπιακός όσον αφορά στη μεταγραφική του δραστηριότητα.",
+"also": [],
+"id": "117c7cb7d2ca"
+},
 {
 "title": "Άρης: Ντέρμπι αποδείξεων με τον Ολυμπιακό στο κατάμεστο Παλέ",
 "url": "https://www.metrosport.gr/33-1794694483-rkijwthv6b-1333628",
@@ -63,7 +75,7 @@
 "id": "6a6edf4928a4"
 },
 {
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (15/11): Άρης-Ολυμπιακός, Παναθηναϊκός-Κολοσσός στο μπάσκετ και δυνατές μάχες στο Nations League",
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (15/11): Άρης-Ολυμπιακός, Παναθηναϊκός-Κολοσσός στο μπάσκετ, ματσάρα Ισπανία-Αγγλία",
 "url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1486826_oi-athlitikes-metadoseis-tis-imeras-15/11-aris-olympiakos",
 "source": "sdna",
 "source_name": "SDNA",
@@ -5070,18 +5082,6 @@
 "snippet": "O παλαίμαχος διεθνής Άγγλος επιθετικός θεωρεί ότι οι «κόκκινοι διάβολοι» θα πρέπει να κινηθούν για την απόκτησή του τον Ιανουάριο",
 "also": [],
 "id": "f3303e6759af"
-},
-{
-"title": "Ολυμπιακός - Παναθηναϊκός: 30 εκατ. και από τον Μυστακίδη!",
-"url": "https://sportime.gr/paok-bc/olimpiakos-panathinaikos-30-ekat-ke-apo-ton-mistakidi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-10T21:25+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός και ο Παναθηναϊκός ενδέχεται να εισπράξουν από 30 εκατ. ευρώ μέσω των νέων franchises της EuroLeague, στα οποία σχεδιάζει να ενταχθεί ο ΠΑΟΚ.",
-"also": [],
-"id": "3e063e09bc2a"
 }
 ]
 }
