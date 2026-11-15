@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-15T12:51:24+00:00",
+"generated_at": "2026-11-15T13:06:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τι έκαναν οι 15 «ερυθρόλευκοι» διεθνείς στα πρώτα παιχνίδια των Εθνικών ομάδων",
+"url": "https://www.gazzetta.gr/football/superleague/2586679/olympiakos-ti-ekanan-oi-15-erythroleykoi-diethneis-sta-prota-paihnidia",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-15T13:00+00:00",
+"sport": "football",
+"snippet": "Ο Κ. Νικολακόπουλος κάνει μέσα από το blog του στο gazzetta καταμέτρηση της παρουσίας των διεθνών του Ολυμπιακού στις Εθνικές ομάδες τους.",
+"also": [],
+"id": "ae300e6fa0ea"
+},
+{
+"title": "Ολυμπιακός: Επιστρέφει ο Πάμπλο Μαφέο;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-epistrefi-o-pamplo-mafeo?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-15T12:59+00:00",
+"sport": "general",
+"snippet": "Ο Πάμπλο Μαφέο αγωνίζεται δανεικός στη Βαλένθια μέχρι τον Ιούνιο του 2027. Η οψιόν αγοράς και τα δεδομένα για πιθανή επιστροφή του στον Ολυμπιακό.",
+"also": [],
+"id": "d7c430d7f79c"
+},
 {
 "title": "Δημοσκόπηση: Να φύγουν Κόντσαρ και Ντόρσεϊ από τον Ολυμπιακό;",
 "url": "https://sportime.gr/olympiakos-bc/dimoskopisi-na-figoun-kontsar-ke-ntorsei-apo-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5050,30 +5074,6 @@
 "snippet": "Ο Κώστας Νικολακόπουλος σχολιάζει στο blog του στο Gazzetta πολλά και διάφορα, για τέσσερις παίκτες του Ολυμπιακού, με αφορμή τα τελευταία παιχνίδια.",
 "also": [],
 "id": "93441f244f33"
-},
-{
-"title": "Ολυμπιακός: Ο Αλγουαθίλ φώναξε, αλλά έχει και ευθύνη",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-algouathil-fonaxe-alla-echi-ke-efthini?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-11T09:28+00:00",
-"sport": "general",
-"snippet": "Ο Αλγουαθίλ ανέβασε τους τόνους μετά το 1-1 με τον ΠΑΟΚ, αλλά ο Ολυμπιακός χρειάζεται και αλλαγή στο πλάνο. Η προπονητική ευθύνη πίσω από τα εύκολα λάθη.",
-"also": [],
-"id": "06e287b59817"
-},
-{
-"title": "Ολυμπιακός: 3 νίκες, 8 βαθμοί – Πού πήγε ο ένατος;",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-3-nikes-8-vathmi-pou-pige-o-enatos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-11T09:15+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός νίκησε και στα τρία ματς του Champions League πόλο, αλλά έχει οκτώ βαθμούς. Πώς η Γιάντραν πήρε βαθμό και τι σημαίνει για την πρόκριση.",
-"also": [],
-"id": "155c31bcc052"
 }
 ]
 }
