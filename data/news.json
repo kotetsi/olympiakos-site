@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T11:34:35+00:00",
+"generated_at": "2026-11-16T11:49:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η Φενέρμπαχτσε κοιτάει τον Αντρέ Λουίζ που ενδιαφέρει τον Ολυμπιακό",
+"url": "https://www.metrosport.gr/i-fenermpachtse-koitaei-ton-antre-loyiz-poy-endiaferei-ton-olympiako-1333745",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-16T11:45+00:00",
+"sport": "general",
+"snippet": "Η Φενέρμπαχτσε, η οποία στοχεύει στην κατάκτηση του πρωταθλήματος στη Süper Lig στο τέλος της σεζόν, ξεκίνησε νωρίς την προετοιμασία της ενόψει της ...",
+"also": [],
+"id": "11afe6d762d0"
+},
 {
 "title": "Χωρίς Κόντσαρ και Ντόρσεϊ ο Ολυμπιακός απέναντι στη Μακάμπι Τελ Αβίβ",
 "url": "https://www.ertsports.gr/mpasket/euroleague/xoris-kontsar-kai-ntorsei-o-olympiakos-apenanti-sti-makampi-tel-aviv/",
@@ -110,7 +122,15 @@
 "published": "2026-11-16T10:32+00:00",
 "sport": "football",
 "snippet": "Στην κυκλοφορία τέθηκαν από σήμερα, μέσω εξαντλήσεώς τους, τα εισιτήρια του αγώνα Ολυμπιακός - Μίλαν, που θα γίνει στις 26 Νοεμβρίου στο «Γ....",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-champions-league/article/15233481/olympiakos-ksekinaei-i-ilektroniki-diathesi-ton-eisitirion-me-ti-milan/",
+"title": "Ολυμπιακός: Ξεκινάει η ηλεκτρονική διάθεση των εισιτηρίων με τη Μίλαν",
+"published": "2026-11-16T11:48+00:00"
+}
+],
 "id": "d1c3b82df88e"
 },
 {
@@ -5078,18 +5098,6 @@
 "snippet": "Μία από τις εντυπωσιακές φάσεις έκανε ο Ολυμπιακός στην 3η περίοδο κόντρα στην Ντουμπάι BC, με τον Βεζένκοβ να πασάρει χωρίς να βλέπει και τον Μιλουτίνοφ να…",
 "also": [],
 "id": "ba1fc680e5bb"
-},
-{
-"title": "Μαγικό «κλικ» από τη SUNEL Arena με τον Βεζένκοφ να πανηγυρίζει έξαλλα με οπαδό του Ολυμπιακού!",
-"url": "http://www.sport-fm.gr/article/5160662",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-12T20:44+00:00",
-"sport": "general",
-"snippet": "Ο φωτογραφικός φακός αποθανάτισε μια εντυπωσιακή στιγμή στη SUNEL Arena, με τον Σάσα Βεζένκοφ να πανηγυρίζει ένα τρίποντο μαζί με οπαδό του Ολυμπιακού!",
-"also": [],
-"id": "af7a262e7db7"
 }
 ]
 }
