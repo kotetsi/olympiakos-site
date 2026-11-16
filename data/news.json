@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-16T16:45:58+00:00",
+"generated_at": "2026-11-16T17:01:06+00:00",
 "count": 400,
 "items": [
 {
@@ -195,12 +195,12 @@
 "id": "a155264ff57d"
 },
 {
-"title": "Έχουν οι “αιώνιοι” έναν Ντιμιτρίεβιτς και τι ψάχνουν σε Ολυμπιακό και Παναθηναϊκό; – Αιώνιο Podcast",
+"title": "Αιώνιο Podcast: Έχουν “Ντιμιτρίεβιτς” Ολυμπιακός & Παναθηναϊκός και τι παίκτες ψάχνουν;",
 "url": "https://www.eurohoops.net/el/trademarks-el/2035910/eonio-podcast-live-i-piesi-ston-olimpiako-ke-gia-anti-kontsarke-o-pao-chriazete-gkarnt-i-senter/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
-"published": "2026-11-16T14:54+00:00",
+"published": "2026-11-16T14:55+00:00",
 "sport": "basket",
 "snippet": "Νέο επεισόδιο για το \"Αιώνιο Podcast\" με τους Μιχάλη Γκιουλένογλου και Γιάννη Λαμπίρη και τις νέες φήμες, αλλά και την πραγματικότητα για τις πιθανές νέες…",
 "also": [],
@@ -786,6 +786,18 @@
 "snippet": "Πρόβλημα στη Βιλερμπάν με τον Τζοέλ Μπολομπόι, που θα μείνει εκτός για περίπου 10 μέρες.",
 "also": [],
 "id": "86a614a97d6f"
+},
+{
+"title": "Μόργκαν & Ντιμιτρίεβιτς: Ένα δίδυμο value for money για τον Άρη που σάρωσε Ολυμπιακό και Παναθηναϊκό",
+"url": "https://www.eurohoops.net/el/heba-el/2035917/aris-morgkan-ntimitrievits-ena-didimo-value-for-money-pou-sarose-tous-eonious/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-16T10:45+00:00",
+"sport": "basket",
+"snippet": "Το απίθανο δίδυμο του Άρη, ο Ματ Μόργκαν και ο Νένο Ντιμιτρίεβιτς παραδίδουν μαθήματα απέναντι σε Ολυμπιακό και Παναθηναϊκό. The post Μόργκαν & Ντιμιτρίεβιτς…",
+"also": [],
+"id": "080a2c4c6288"
 },
 {
 "title": "Ολυμπιακός: Ξεκίνησε η ηλεκτρονική διάθεση των εισιτηρίων με τη Μίλαν",
@@ -5096,18 +5108,6 @@
 "snippet": "Με το σούπερ ντέρμπι ανάμεσα στον Παναθηναϊκό και τον Ολυμπιακό να συγκεντρώνει τα περισσότερα βλέμματα, συνεχίζεται το τριήμερο 13-15 Νοεμβρίου το...",
 "also": [],
 "id": "166585829376"
-},
-{
-"title": "Ολυμπιακός: Ο Μπαρτζώκας θέλει τον Ντόρσεϊ, αλλά όχι τα παράπονά του",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-theli-ton-ntorsei-alla-ochi-ta-parapona-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T05:39+00:00",
-"sport": "general",
-"snippet": "Ο Ντόρσεϊ επιστρέφει, αλλά ο Μπαρτζώκας θέλει να τελειώσουν τα παράπονα. Η δήλωση για τον Ντάνστον και η νέα πεντάδα δείχνουν τι περιμένει τον γκαρντ.",
-"also": [],
-"id": "70a0c2c4bc7e"
 }
 ]
 }
