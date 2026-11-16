@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T09:33:28+00:00",
+"generated_at": "2026-11-16T09:48:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "EuroLeague: Οι διαιτητές στις αναμετρήσεις Παναθηναϊκού και Ολυμπιακού",
+"url": "https://www.sdna.gr/mpasket/1487214_euroleague-oi-diaitites-stis-anametriseis-panathinaikoy-kai-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T09:44+00:00",
+"sport": "basket",
+"snippet": "Γνωστές έγιναν οι διαιτητικές τριάδες που θα διευθύνουν τις αναμετρήσεις των δύο ελληνικών ομάδων για τη 12η αγωνιστική της EuroLeague.",
+"also": [],
+"id": "40c0660c8eb5"
+},
+{
+"title": "Ολυμπιακός - Μίλαν: Εισιτήρια μόνο μέσω internet από τη Δευτέρα (16/11)",
+"url": "https://www.gazzetta.gr/football/europa-league/2586266/olympiakos-milan-eisitiria-mono-meso-internet-apo-ti-deytera",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T09:37+00:00",
+"sport": "football",
+"snippet": "Σε κυκλοφορία τίθενται από την Δευτέρα (16/11), μέσω εξαντλήσεώς τους, τα εισιτήρια του αγώνα Ολυμπιακός - Μίλαν, που θα γίνει στις 26 Νοεμβρίου στο «Γ…",
+"also": [],
+"id": "3b2a7bce1bf0"
+},
 {
 "title": "Ολυμπιακός: Ο Μάρκες μπορεί να αφήσει ξανά έξω τον Γκονσάλες – Ο Ιμανόλ όχι",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-markes-bori-na-afisi-xana-exo-ton-gkonsales-o-imanol-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -3356,18 +3380,6 @@
 "id": "4740766fc2ae"
 },
 {
-"title": "Ολυμπιακός - Μίλαν: Εισιτήρια μόνο μέσω internet από τη Δευτέρα",
-"url": "https://www.gazzetta.gr/football/europa-league/2586266/olympiakos-milan-eisitiria-mono-meso-internet-apo-ti-deytera",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-13T16:20+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός εξέδωσε ανακοίνωση για το καθεστώς διάθεσης των εισιτηρίων του σπουδαίου αγώνα με αντίπαλο τη Μίλαν στις 26 Νοεμβρίου.",
-"also": [],
-"id": "3b2a7bce1bf0"
-},
-{
 "title": "Ολυμπιακός: Κυκλοφορούν τη Δευτέρα τα εισιτήρια με Μίλαν!",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15228882/olympiakos-kykloforoun-ti-deytera-ta-eisitiria-me-milan/",
 "source": "novasports",
@@ -5064,18 +5076,6 @@
 }
 ],
 "id": "34f8d0bc76dc"
-},
-{
-"title": "Ολυμπιακός: Πόσο δίκιο είχε ο Μεντιλίμπαρ!",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-poso-dikio-iche-o-chose-louis-mentilimpar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T19:31+00:00",
-"sport": "general",
-"snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ δέχθηκε κριτική για τις επιλογές του στον Ολυμπιακό, όμως ο Ιμανόλ Αλγουαθίλ ακολουθεί παρόμοια πορεία σε αρκετά ζητήματα.",
-"also": [],
-"id": "a0582d93ba1e"
 }
 ]
 }
