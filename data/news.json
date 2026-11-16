@@ -1,7 +1,27 @@
 {
-"generated_at": "2026-11-16T11:04:19+00:00",
+"generated_at": "2026-11-16T11:19:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233497/olympiakos-xoris-kontsar-stin-kypro/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-16T11:15+00:00",
+"sport": "basket",
+"snippet": "Όλο και πιο κοντά στην αποχώρηση του από την Ελλάδα και τον Ολυμπιακό βρίσκεται ο Τζον Κόντσαρ. Ο έμπειρος γκαρντ έμεινε εκτός αποστολής για τον αγώνα των…",
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586931/olympiakos-horis-kontsar-stin-kypro",
+"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο",
+"published": "2026-11-16T11:16+00:00"
+}
+],
+"id": "2c3dff82184d"
+},
 {
 "title": "Πρόβλημα στη Βιλερμπάν με Μπολομπόι, αμφίβολος κόντρα στον Ολυμπιακό",
 "url": "https://www.sdna.gr/mpasket/1487224_problima-sti-bilermpan-me-mpolompoi-amfibolos-kontra-ston-olympiako",
@@ -5064,18 +5084,6 @@
 "snippet": "Η ΚΑΕ Ολυμπιακός μέσω ανάρτησης αποθέωσε τον Σάσα Βεζένκοβ για το σπουδαίο επίτευγμα που κατάφερε με την «ερυθρόλευκη» φανέλα.",
 "also": [],
 "id": "dfc41ec9b704"
-},
-{
-"title": "Βεζένκοβ: Η στιγμή που... άνοιξε λογαριασμό με τον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586032/bezenkob-i-stigmi-poy-anoixe-logariasmo-me-ton-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T20:13+00:00",
-"sport": "basket",
-"snippet": "Ο Σάσα Βεζένκοβ έγραψε ιστορία με τους «ερυθρόλευκους» καθώς ξεπέρασε τον Βασίλη Σπανούλη στον πίνακα των καλύτερων σκόρερ του Ολυμπιακού. Δείτε πότε σημείωσε…",
-"also": [],
-"id": "e86722a45183"
 }
 ]
 }
