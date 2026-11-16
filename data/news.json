@@ -1,9 +1,33 @@
 {
-"generated_at": "2026-11-16T20:33:19+00:00",
+"generated_at": "2026-11-16T20:48:29+00:00",
 "count": 400,
 "items": [
 {
-"title": "Κάτας: Οι δηλώσεις του ενόψει Ολυμπιακό",
+"title": "Μακάμπι Τελ Αβίβ: Το επιθετικό ταλέντο, οι αμυντικές αδυναμίες και τα «κλειδιά» για να κυριαρχήσει ο Ολυμπιακός στη Λεμεσό",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587083/makampi-tel-abib-epithetiko-talento-oi-amyntikes-adynamies-kai-ta",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T20:40+00:00",
+"sport": "basket",
+"snippet": "Οι αδυναμίες της Μακάμπι Τελ Αβίβ, οι παίκτες που κάνουν τη διαφορά και τα αγωνιστικά σημεία στα οποία καλούνται να χτυπήσει ο Ολυμπιακός για να επικρατήσει…",
+"also": [],
+"id": "15c5df1a7b06"
+},
+{
+"title": "Ολυμπιακός: Τι αποφάσισε ο Έσε",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ti-apofasise-o-ese?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T20:36+00:00",
+"sport": "general",
+"snippet": "Ο Σαντιάγκο Έσε βρίσκεται στο στόχαστρο της Ρίβερ Πλέιτ, όμως προτιμά να συνεχίσει στην Ευρώπη. Η στάση του Ολυμπιακού και τα δεδομένα για το μέλλον του.",
+"also": [],
+"id": "9e8c5a406cdd"
+},
+{
+"title": "Κάτας: Οι δηλώσεις του ενόψει Ολυμπιακού",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587082/katas-oi-diloseis-toy-enopsei-olympiako",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -5061,30 +5085,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στον Ηρακλή.",
 "also": [],
 "id": "29d2f70ab929"
-},
-{
-"title": "Gazzetta Magazino by Elabet με θρύλο Νικοπολίδη και ΟΛΑ τα νέα πριν το Ολλανδία - Ελλάδα",
-"url": "https://www.gazzetta.gr/football/2586125/gazzetta-magazino-elabet-me-thrylo-nikopolidi-kai-ola-ta-nea-prin-ollandia-ellada",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-13T09:11+00:00",
-"sport": "football",
-"snippet": "Ο Παναγιώτης Δαλατάριωφ, ο Αντώνης Πετρόπουλος, ο Μιχάλης Μπακάκης και ο Γιώργος Γκαλίτσιος συναντιούνται στο YouTube του Gazzetta για μια εκπομπή με χαβαλέ…",
-"also": [],
-"id": "15920f07407d"
-},
-{
-"title": "Ολυμπιακός: Άσκησε πίεση, έκανε μεγάλο ροτέισον, δεν απέφυγε την (πνευματική) κόπωση",
-"url": "https://www.gazzetta.gr/football/superleague/2586124/olympiakos-askise-piesi-ekane-megalo-roteison-den-apefyge-tin",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-13T09:07+00:00",
-"sport": "football",
-"snippet": "Ο Κ. Νικολακόπουλος προσπαθεί να δει μέσα από το blog του στο gazzetta πιο ψύχραιμα την κατάσταση στον Ολυμπιακό με την ευκαιρία της διακοπής του πρωταθλήματος.",
-"also": [],
-"id": "4784c8938eab"
 }
 ]
 }
