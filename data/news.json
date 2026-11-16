@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T13:20:49+00:00",
+"generated_at": "2026-11-16T13:35:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Παπαδογιάννης στο Gazz Floor by Novibet: «Το ηρωικό μπάσκετ δεν ταιριάζει στον Ολυμπιακό»",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2586971/papadogiannis-sto-gazz-floor-novibet-iroiko-mpasket-den-tairiazei",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T13:33+00:00",
+"sport": "basket",
+"snippet": "Ο Νίκος Παπαδογιάννης σχολίασε στην εκπομπή Gazz Floor by Novibet την αναμέτρηση του Άρη με τον Ολυμπιακό για την Basket League.",
+"also": [],
+"id": "deafbb2adc8c"
+},
+{
+"title": "Με μία πάσα ο Πανιώνιος σκόραρε κόντρα στον Ολυμπιακό Β! (vid)",
+"url": "https://www.sdna.gr/podosfairo/1487280_me-mia-pasa-o-panionios-skorare-kontra-ston-olympiako-b-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T13:20+00:00",
+"sport": "football",
+"snippet": "Ο Πανιώνιος φιλοξενεί τον Ολυμπιακό Β στο γήπεδο της Τρίπολης, ως τυπικά γηπεδούχος για το πρωτάθλημα της Superbet League 2.",
+"also": [],
+"id": "8c7dcae97a50"
+},
 {
 "title": "Ολυμπιακός–Μίλαν: Κυκλοφορούν από σήμερα (16/11) τα εισιτήρια του αγώνα",
 "url": "https://www.metrosport.gr/olympiakos-milan-kykloforoyn-apo-simera-ta-eisitiria-toy-agona-1333759",
@@ -95,7 +119,15 @@
 "published": "2026-11-16T12:32+00:00",
 "sport": "football",
 "snippet": "Ο Ολυμπιακός έκανε γνωστή την έναρξη της συνεργασίας του με τον Νταβίντ Φουστέρ, ο οποίος θα αναλάβει το πόστο του Head of Player Development and Loan…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/365484_olympiakos-epestrepse-o-fouster-me-allo-rolo.html",
+"title": "Ολυμπιακός: Επέστρεψε ο Φουστέρ με νέο ρόλο!",
+"published": "2026-11-16T13:20+00:00"
+}
+],
 "id": "5b36ebe6eec0"
 },
 {
@@ -5059,30 +5091,6 @@
 "snippet": "Ο Εβάν Φουρνιέ οδήγησε τον Ολυμπιακό στο 101-72 επί της Ντουμπάι, σημειώνοντας 28 πόντους με 5/7 τρίποντα, πέντε ασίστ και 28 βαθμούς αξιολόγησης.",
 "also": [],
 "id": "eea958eec919"
-},
-{
-"title": "Ολυμπιακός - Ντουμπάι: 101-72",
-"url": "https://www.sdna.gr/mpasket/1486082_olympiakos-ntoympai-101-72",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T20:57+00:00",
-"sport": "basket",
-"snippet": "Με τον Εβάν Φουρνιέ και τον Σάσα Βεζένκοφ να κάνουν φοβερό ματς ο Ολυμπιακός συνέτριψε την… ανήμπορη Ντουμπάι (101-72) και επέστρεψε στις νίκες.",
-"also": [],
-"id": "a11cb887aa7c"
-},
-{
-"title": "ΚΥΡΙΑΡΧΟΣ Ολυμπιακός εξαφάνισε την Ντουμπάι με σκορ και θέαμα",
-"url": "https://www.eurohoops.net/el/eurobasket-el/2034120/kiriarchos-olimpiakos-exafanise-tin-ntoumpai-me-skor-ke-theama/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-12T20:57+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ήταν απολαυστικός κόντρα στην Ντουμπάι, την οποία και διέλυσε 101-72. The post ΚΥΡΙΑΡΧΟΣ Ολυμπιακός εξαφάνισε την Ντουμπάι με σκορ και θέαμα…",
-"also": [],
-"id": "55713557e8ea"
 }
 ]
 }
