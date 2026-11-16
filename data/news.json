@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T10:49:11+00:00",
+"generated_at": "2026-11-16T11:04:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πρόβλημα στη Βιλερμπάν με Μπολομπόι, αμφίβολος κόντρα στον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1487224_problima-sti-bilermpan-me-mpolompoi-amfibolos-kontra-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T10:51+00:00",
+"sport": "basket",
+"snippet": "Πρόβλημα στη Βιλερμπάν με τον Τζοέλ Μπολομπόι, που θα μείνει εκτός για περίπου 10 μέρες.",
+"also": [],
+"id": "86a614a97d6f"
+},
 {
 "title": "Ολυμπιακός: Ξεκίνησε η ηλεκτρονική διάθεση των εισιτηρίων με τη Μίλαν",
 "url": "https://www.sdna.gr/podosfairo/1487230_olympiakos-xekinise-i-ilektroniki-diathesi-ton-eisitirion-me-ti-milan",
@@ -5064,18 +5076,6 @@
 "snippet": "Ο Σάσα Βεζένκοβ έγραψε ιστορία με τους «ερυθρόλευκους» καθώς ξεπέρασε τον Βασίλη Σπανούλη στον πίνακα των καλύτερων σκόρερ του Ολυμπιακού. Δείτε πότε σημείωσε…",
 "also": [],
 "id": "e86722a45183"
-},
-{
-"title": "Ολυμπιακός: Πέτυχε 57 πόντους στο ημίχρονο, όσους είχε συνολικά κόντρα στον Ερυθρό Αστέρα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586031/olympiakos-petyhe-57-pontoys-sto-imihrono-osoys-eihe-synolika-kontra",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T20:07+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός πέτυχε 57 πόντους στο πρώτο ημίχρονο κόντρα στην Ντουμπάι BC, όσους ακριβώς είχε βάλει συνολικά κόντρα στον Ερυθρό Αστέρα.",
-"also": [],
-"id": "c61979c864ca"
 }
 ]
 }
