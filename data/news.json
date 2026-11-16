@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T13:35:56+00:00",
+"generated_at": "2026-11-16T13:51:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Για να γυρίσει ο Ελ Κααμπί στην Ευρώπη, βγαίνει ο Γιάρεμτσουκ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-gia-na-girisi-o-el-kaampi-stin-evropi-vgeni-o-giaremtsouk?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T13:42+00:00",
+"sport": "general",
+"snippet": "Ο Ελ Κααμπί συνεχίζει την αποθεραπεία, αλλά η UEFA δεν επιτρέπει απλή προσθήκη δίπλα στον Γιάρεμτσουκ. Το δύσκολο δίλημμα του Ιμανόλ για την Ευρώπη.",
+"also": [],
+"id": "83e8c9e8d568"
+},
 {
 "title": "Παπαδογιάννης στο Gazz Floor by Novibet: «Το ηρωικό μπάσκετ δεν ταιριάζει στον Ολυμπιακό»",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2586971/papadogiannis-sto-gazz-floor-novibet-iroiko-mpasket-den-tairiazei",
@@ -13,6 +25,18 @@
 "snippet": "Ο Νίκος Παπαδογιάννης σχολίασε στην εκπομπή Gazz Floor by Novibet την αναμέτρηση του Άρη με τον Ολυμπιακό για την Basket League.",
 "also": [],
 "id": "deafbb2adc8c"
+},
+{
+"title": "Τηλεθέαση: Ο Άρης διέλυσε τον Ολυμπιακό και ο ΣΚΑΪ τον ανταγωνισμό!",
+"url": "https://sportime.gr/media/tiletheasi-o-aris-dielise-ton-olimpiako-ke-o-skai-ton-antagonismo?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T13:30+00:00",
+"sport": "general",
+"snippet": "Ο Άρης νίκησε τον Ολυμπιακό με 100-78 και χάρισε στον ΣΚΑΪ εντυπωσιακή τηλεθέαση. Στο 17,2% το δυναμικό κοινό και στο 16% το γενικό σύνολο",
+"also": [],
+"id": "557d5dd2688d"
 },
 {
 "title": "Με μία πάσα ο Πανιώνιος σκόραρε κόντρα στον Ολυμπιακό Β! (vid)",
@@ -5067,30 +5091,6 @@
 "snippet": "Ο Ολυμπιακός αντιμετωπίζει τον Άρη στο Αλεξάνδρειο και στη συνέχεια τη Μακάμπι Τελ Αβίβ για τη Euroleague. Δείτε ημέρες και ώρες των αγώνων.",
 "also": [],
 "id": "74546287f2e3"
-},
-{
-"title": "Βαθμολογία Ολυμπιακού: Ανέβηκε στο 8-3, σταθερή επαφή με την κορυφή",
-"url": "https://www.sdna.gr/mpasket/1486083_bathmologia-olympiakoy-anebike-sto-8-3-statheri-epafi-me-tin-koryfi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T20:59+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός δε συνάντησε κανένα πρόβλημα απέναντι στην Ντουμπάι (101-72) κι επέστρεψε στις νίκες με εμφατικό τρόπο.",
-"also": [],
-"id": "31ae2c12cc9e"
-},
-{
-"title": "Ολυμπιακός: Ο Εβάν Φουρνιέ διέλυσε την Ντουμπάι",
-"url": "https://sportime.gr/olympiakos-bc/olympiakos-evan-fournier-dubai-28-pontoi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T20:58+00:00",
-"sport": "general",
-"snippet": "Ο Εβάν Φουρνιέ οδήγησε τον Ολυμπιακό στο 101-72 επί της Ντουμπάι, σημειώνοντας 28 πόντους με 5/7 τρίποντα, πέντε ασίστ και 28 βαθμούς αξιολόγησης.",
-"also": [],
-"id": "eea958eec919"
 }
 ]
 }
