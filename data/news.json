@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T05:30:58+00:00",
+"generated_at": "2026-11-16T05:46:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Ο Τολιόπουλος έβαλε μόνο 6 κι ο Ολυμπιακός έφαγε 100 – Ποιον να πρωτοσταματήσεις;",
+"url": "https://sportime.gr/aris-fc/aris-o-toliopoulos-evale-mono-6-ki-o-olimpiakos-efage-100-pion-na-protostamatisis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T05:38+00:00",
+"sport": "general",
+"snippet": "Ο Τολιόπουλος έβαλε μόλις 6 πόντους αλλά μοίρασε 6 ασίστ χωρίς λάθος. Το 12-2 των γκαρντ του Άρη και το πρόβλημα που δημιουργεί ο Σπανούλης στους αντιπάλους.",
+"also": [],
+"id": "b85a1f8f274c"
+},
 {
 "title": "Ολυμπιακός: Η διπλή τρύπα που άφησε η αποχώρηση Άλεκ Πίτερς",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-dipli-tripa-pou-afise-i-apochorisi-alek-piters?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5056,18 +5068,6 @@
 "snippet": "Ο Νίκος Ζέρβας προστέθηκε στους δημοσιογράφους που αμφιβάλλουν για το μέλλον του Τάιλερ Ντόρσεϊ στον Ολυμπιακό, με την 15η Νοεμβρίου να πλησιάζει.",
 "also": [],
 "id": "6ae35bbc43db"
-},
-{
-"title": "Ολυμπιακός: Η δωδεκάδα με Ντουμπάι BC – Εκτός Παπανικολάου, Ντάνστον",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227116/olympiakos-i-dodekada-me-ntoumpai-bc-ektos-papanikolaou-ntanston/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-12T17:00+00:00",
-"sport": "basket",
-"snippet": "Συγκεκριμένα, ο Γιώργος Μπαρτζώκας δεν μπορεί να υπολογίζει στους Μοντέρο, Ντόρσεϊ, Παπανικολάου, ο οποίος δεν ξεπέρασε το πρόβλημα που τον ταλαιπωρεί…",
-"also": [],
-"id": "5a0ac5d43c8f"
 }
 ]
 }
