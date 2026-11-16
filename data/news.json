@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-16T08:32:58+00:00",
+"generated_at": "2026-11-16T08:48:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι διαιτητές στους αγώνες Ολυμπιακού και Παναθηναϊκού για την 12η αγωνιστική",
+"url": "https://www.ertsports.gr/mpasket/oi-diaitites-stous-agones-olympiakou-kai-panathinaikou-gia-tin-12i-agonistiki/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-16T08:43+00:00",
+"sport": "basket",
+"snippet": "Η αρμόδια επιτροπή της Euroleague, ανακοίνωσε τους διαιτητές που θα διευθύνουν τις αυριανές (17/11) αναμετρήσεις για την 12η αγωνιστική. The post Οι διαιτητές…",
+"also": [],
+"id": "9db8553e5ea1"
+},
+{
+"title": "Οι διαιτητές στα Μακάμπι-Ολυμπιακός και Βίρτους Μπολόνια-Παναθηναϊκός",
+"url": "http://www.sport-fm.gr/article/5161350",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T08:27+00:00",
+"sport": "general",
+"snippet": "Δείτε τους διαιτητές των αυριανών αναμετρήσεων Μακάμπι-Ολυμπιακός και Βίρτους Μπολόνια-Παναθηναϊκός.",
+"also": [],
+"id": "b29479dabe3e"
+},
+{
+"title": "Μοντέρο για την συντριβή του Ολυμπιακού: «Απογοητευτικό να μην μπορώ να βοηθήσω»",
+"url": "http://www.sport-fm.gr/article/5161348",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T08:17+00:00",
+"sport": "general",
+"snippet": "Το μήνυμα του Μοντέρο μετά τη βαριά ήττα του Ολυμπιακού από τον Αρη.",
+"also": [],
+"id": "72c0f63f9e99"
+},
 {
 "title": "Στο σημερινό Center Fox o Σπανούλης που διέλυσε και τον Ολυμπιακό, η Εθνική Ανδρών για αντίδραση και η Ελπίδων για πρόκριση",
 "url": "https://www.sdna.gr/genikes-eidiseis/1487178_sto-simerino-center-fox-o-spanoylis-poy-dielyse-kai-ton-olympiako-i",
@@ -5032,42 +5068,6 @@
 "snippet": "Το νέο Καραϊσκάκη είναι προ των πυλών. Αυτά που έρχονται ούτε καν τα έχετε φανταστεί!",
 "also": [],
 "id": "73f6e57b2443"
-},
-{
-"title": "ΟΦΗ : Θα υψώσει ανάστημα στον Ολυμπιακό για Νους και Αθανασίου",
-"url": "https://sportime.gr/podosfairo/ofi-tha-ipsosi-anastima-ston-olimpiako-gia-nous-ke-athanasiou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T18:41+00:00",
-"sport": "football",
-"snippet": "Ο ΟΦΗ δεν σκοπεύει να χάσει Νους και Αθανασίου πριν από το τέλος Ιανουαρίου και θέλει να κρατήσει τουλάχιστον έναν από τους δύο. Τα δεδομένα για τον Ολυμπιακό.",
-"also": [],
-"id": "6f580a0d91da"
-},
-{
-"title": "Πρώτος στoν συντελεστή υπέρ/κατά φάουλ στην Euroleague ο Ολυμπιακός!",
-"url": "https://www.sdna.gr/mpasket/1486057_protos-ston-syntelesti-yper/kata-faoyl-stin-euroleague-o-olympiakos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T18:16+00:00",
-"sport": "basket",
-"snippet": "Κάποια πράγματα φαίνεται πως δεν αλλάζουν εύκολα, με τον Ολυμπιακό να έχει ακόμα μία πρωτιά στις αποφάσεις των διαιτητών στη φετινή Euroleague!",
-"also": [],
-"id": "6c0eaadfda04"
-},
-{
-"title": "Ολυμπιακός: Πιθανή επιστροφή του Έσε νωρίτερα από τον αρχικό υπολογισμό",
-"url": "https://www.sdna.gr/podosfairo/1486056_olympiakos-pithani-epistrofi-toy-ese-noritera-apo-ton-arhiko-ypologismo",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T18:14+00:00",
-"sport": "football",
-"snippet": "Ευχάριστα νέα για τον Ολυμπιακό, καθώς ο Σαντιάγκο Έσε ενδέχεται να επιστρέψει στους αγωνιστικούς χώρους 15 ημέρες νωρίτερα από την αρχική εκτίμηση....",
-"also": [],
-"id": "26bb98fbe84d"
 }
 ]
 }
