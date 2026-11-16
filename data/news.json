@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T09:03:13+00:00",
+"generated_at": "2026-11-16T09:18:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Ο Γρηγορίου χάνει τον Παπασαραφιανό – Το Κατάρ κρίνει και τον Ολυμπιακό",
+"url": "https://sportime.gr/aris-fc/aris-o-grigoriou-chani-ton-papasarafiano-to-katar-krini-ke-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T09:11+00:00",
+"sport": "general",
+"snippet": "Ο Γρηγορίου χάνει τον Παπασαραφιανό για την Τρίπολη λόγω Μουντιάλ Κ17. Γιατί η πορεία της Εθνικής στο Κατάρ επηρεάζει και το ντέρμπι με τον Ολυμπιακό.",
+"also": [],
+"id": "e94b1de46814"
+},
+{
+"title": "EuroLeague: Οι διαιτητές στα ματς Παναθηναϊκού και Ολυμπιακού",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586893/euroleague-oi-diaitites-sta-mats-panathinaikoy-kai-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T09:05+00:00",
+"sport": "basket",
+"snippet": "Οι δύο αιώνιοι ρίχνονται στη μάχη της «διαβολοβδομάδας». Οι διαιτητές που ορίστηκαν για το Μακάμπι Τελ Αβίβ - Ολυμπιακός και το Βίρτους Μπολόνια - Παναθηναϊκός.",
+"also": [],
+"id": "0c07679fb552"
+},
 {
 "title": "Το «πανόραμα» της Handball Premier: Νίκες για Ολυμπιακό και ΑΕΚ, υποδέχεται τον Διομήδη ο ΠΑΟΚ",
 "url": "https://www.sdna.gr/hantmpol/1487187_panorama-tis-handball-premier-nikes-gia-olympiako-kai-aek-ypodehetai-ton-diomidi-o",
@@ -5052,30 +5076,6 @@
 "snippet": "Σημαντικό ρεκόρ για τον Σάσα Βεζένκοβ, καθώς ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο πρώτος σκόρερ του Ολυμπιακού στην ιστορία της EuroLeague.",
 "also": [],
 "id": "6d6ce7dc955e"
-},
-{
-"title": "Ο Βεζένκοφ έγραψε ιστορία: Ξεπέρασε τον Σπανούλη και έγινε πρώτος σκόρερ του Ολυμπιακού στην Euroleague! (vid)",
-"url": "https://www.sdna.gr/mpasket/1486069_o-bezenkof-egrapse-istoria-xeperase-ton-spanoyli-kai-egine-protos-skorer-toy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T19:26+00:00",
-"sport": "basket",
-"snippet": "Ο Σάσα Βεζένκοφ έγραψε ιστορία με την φανέλα του Ολυμπιακού: ο Βούλγαρος φόργουορντ με το πρώτο του καλάθι στην αναμέτρηση με την Ντουμπάι ξεπέρασε...",
-"also": [],
-"id": "f12bb6a5e863"
-},
-{
-"title": "LIVE: Ολυμπιακός – Ντουμπάι (audio)",
-"url": "https://www.ertsports.gr/mpasket/euroleague/live-olympiakos-ntoumpai-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-12T19:00+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι στη \"SUNEL Arena\" των Άνω Λιοσίων για την 11η αγωνιστική της EuroLeague. Οι δύο ομάδες βρίσκονται στο 7-3 και οι…",
-"also": [],
-"id": "af7276e00c6e"
 }
 ]
 }
