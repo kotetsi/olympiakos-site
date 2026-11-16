@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T12:35:27+00:00",
+"generated_at": "2026-11-16T12:50:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πανιώνιος - Ολυμπιακός Β",
+"url": "https://www.sdna.gr/podosfairo/1485900_panionios-olympiakos-b",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T12:40+00:00",
+"sport": "football",
+"snippet": "Ο Νίκος Χουγκάζ μίλησε για τη δύσκολη εκτός έδρας αναμέτρηση του ΠΑΟΚ με τη Μανρέσα, τη σημασία της νίκης στη μάχη της πρόκρισης, αλλά και τη δική...",
+"also": [],
+"id": "9bbbba76db2b"
+},
+{
+"title": "Επίσημα στον Ολυμπιακό ο Φουστέρ - Ο ρόλος που αναλαμβάνει",
+"url": "https://www.sdna.gr/podosfairo/1487268_episima-ston-olympiako-o-foyster-o-rolos-poy-analambanei",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T12:37+00:00",
+"sport": "football",
+"snippet": "Ο Νταβίντ Φουστέρ επέστρεψε και επίσημα στον Ολυμπιακό αναλαμβάνοντας θέση για την εξέλιξη των παικτών και την παρακολούθηση των δανεικών.",
+"also": [],
+"id": "769d1660fd13"
+},
 {
 "title": "Live Streaming: Πανιώνιος – Ολυμπιακός Β΄",
 "url": "https://www.ertsports.gr/podosfairo/super-league-2/live-streaming-panionios-olympiakos-v/",
@@ -5074,30 +5098,6 @@
 "snippet": "Ο Ολυμπιακός για τη 12η αγωνιστική της EuroLeague θα αντιμετωπίσει εκτός έδρας τη Μακάμπι Τελ Αβίβ.",
 "also": [],
 "id": "83fcc609dfca"
-},
-{
-"title": "Ολυμπιακός-Ντουμπάι 101-72: Με διαστημικούς Φουρνιέ-Βεζένκοφ, ερυθρόλευκο party",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227538/olympiakos-ntoumpai-101-72-me-diastimikous-fournie-vezenkof-erythroleyko-party/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-12T20:54+00:00",
-"sport": "basket",
-"snippet": "Ήταν φανερό από την αρχή. Από το πρώτο δεκάλεπτο όταν ο Βεζένκοφ είχε ήδη 10 πόντους και ο Φουρνιέ είχε 7 πόντους με δύο ασίστ, σε μια περίοδο που ο Ολυμπιακός…",
-"also": [],
-"id": "f00f0cae25c3"
-},
-{
-"title": "Ολυμπιακός-Ντουμπάι 101-72: Με διαστημικούς Φουρνιέ-Βεζένκοφ, ερυθρόλευκο party (highlights)",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227538/olympiakos-ntoumpai-101-72-me-diastimikous-fournie-vezenkof-erythroleyko-party-highlights/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-12T20:54+00:00",
-"sport": "basket",
-"snippet": "Ήταν φανερό από την αρχή. Από το πρώτο δεκάλεπτο όταν ο Βεζένκοφ είχε ήδη 10 πόντους και ο Φουρνιέ είχε 7 πόντους με δύο ασίστ, σε μια περίοδο που ο Ολυμπιακός…",
-"also": [],
-"id": "a7e2df40e278"
 }
 ]
 }
