@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T19:17:19+00:00",
+"generated_at": "2026-11-16T19:32:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ορτέγκα βγήκε... μπροστά για τα έξτρα ρεπό",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-ortegka-vgike-brosta-gia-ta-extra-repo?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T19:20+00:00",
+"sport": "general",
+"snippet": "Ο Ορτέγκα πρωτοστάτησε στο αίτημα των παικτών του Ολυμπιακού για επιπλέον ρεπό. Η απόφαση του Ιμανόλ Αλγουαθίλ και η αντίδραση της διοίκησης μετά τον ΠΑΟΚ.",
+"also": [],
+"id": "ab113eb7e101"
+},
+{
+"title": "Ban της FIFA στον ΑΠΟΕΛ για οφειλές σε πρώην του Ολυμπιακού και... SOS: «Υπάρχουν κι άλλες υποθέσεις»",
+"url": "https://www.sdna.gr/podosfairo/1487394_ban-tis-fifa-ston-apoel-gia-ofeiles-se-proin-toy-olympiakoy-kai-sos-yparhoyn-ki",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T19:13+00:00",
+"sport": "football",
+"snippet": "Σε πολύ δύσκολη οικονομική κατάσταση παραμένει ο ΑΠΟΕΛ, στον οποίο επιβλήθηκε μεταγραφικό ban από τη FIFA για οφειλές στον Αλγκαασίμ Μπα.",
+"also": [],
+"id": "65503dfeda64"
+},
 {
 "title": "Ο Βασίλης Παπαθεοδώρου έκραξε τον κόσμο του Άρη! «Χωρίς τον Παναθηναϊκό, δεν θα κέρδιζε τον Ολυμπιακό!»",
 "url": "https://sportime.gr/basket/o-vasilis-papatheodorou-ekraxe-ton-kosmo-tou-ari-choris-ton-panathinaiko-den-tha-kerdize-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5061,30 +5085,6 @@
 "snippet": "Ο Μεξικανός παίκτης δήλωσε πως οι Πειραιώτες τον έκαναν να αισθάνεται σαν το σπίτι του και είναι απόλυτα ικανοποιημένος. Ο διεθνής επιθετικός αναφέρθηκε στη…",
 "also": [],
 "id": "fd17163e22c3"
-},
-{
-"title": "Γκονζάλες: Η ζωή στην Ελλάδα, η προσαρμογή στον Ολυμπιακό και η αποκάλυψη για το παρατσούκλι «Hormiga»",
-"url": "https://www.sdna.gr/podosfairo/1486218_gkonzales-i-zoi-stin-ellada-i-prosarmogi-ston-olympiako-kai-i-apokalypsi-gia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T08:14+00:00",
-"sport": "football",
-"snippet": "Ο Αρμάντο Γκονζάλες μίλησε για την εμπειρία του στον Ολυμπιακό, τη ζωή στην Αθήνα και την προσαρμογή του στο ελληνικό ποδόσφαιρο, αποκαλύπτοντας...",
-"also": [],
-"id": "153acdc6e16d"
-},
-{
-"title": "Μακάμπι: Με δύο σημαντικά ερωτήματα ενόψει Ολυμπιακού – Αμφίβολοι Μαντάρ και Μπρίσετ",
-"url": "https://www.sdna.gr/mpasket/1486216_makampi-me-dyo-simantika-erotimata-enopsei-olympiakoy-amfiboloi-mantar-kai-mpriset",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T08:06+00:00",
-"sport": "basket",
-"snippet": "Με αγωνιστικές απώλειες ενδέχεται να παραταχθεί η Μακάμπι Τελ Αβίβ απέναντι στον Ολυμπιακό, στην αναμέτρηση της προσεχούς Τρίτης (17/11) στην Κύπρο,...",
-"also": [],
-"id": "9ec83a7b70ed"
 }
 ]
 }
