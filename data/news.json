@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T10:03:45+00:00",
+"generated_at": "2026-11-16T10:18:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Στο στόχαστρο ο Αντρέ Λουίζ»",
+"url": "https://www.metrosport.gr/33-1794818648-7qvo3wik4p-1333746",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-16T10:16+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός παραμένει πάντα ενεργός στο μεταγραφικό πεδίο, αναζητώντας ποδοσφαιριστές που μπορούν να ανεβάσουν επίπεδο την ομάδα. Σε αυτό το πλαίσιο,...",
+"also": [],
+"id": "cc37f10d0e67"
+},
+{
+"title": "Σταματέλος: «Τα μεταγραφικά σενάρια ενόψει Ιανουαρίου στον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5161368",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T10:03+00:00",
+"sport": "football",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Νίκο Σταματέλο.",
+"also": [],
+"id": "1fec76ba8648"
+},
 {
 "title": "Σενάριο για Ολυμπιακό, Νότιγχαμ Φόρεστ και Αντρέ Λουίζ από την Τουρκία",
 "url": "https://www.novasports.gr/sport/podosfairo/event/premier-league/article/15233422/senario-gia-olympiako-notigxam-forest-kai-antre-louiz-apo-tin-tourkia/",
@@ -5044,30 +5068,6 @@
 "snippet": "Ο Ολυμπιακός προηγείται 57-43 της Ντουμπάι στο ημίχρονο, με το επιθετικό παιχνίδι του Γιώργου Μπαρτζώκα να καλύπτει την απουσία του Ζαν Μοντέρο.",
 "also": [],
 "id": "146823509986"
-},
-{
-"title": "Ολυμπιακός: Δυσκολεύει του Γκουστάβο Σα",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-diskolevi-tou-gkoustavo-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T19:47+00:00",
-"sport": "general",
-"snippet": "Ο Γκουστάβο Σα δεν έχει πείσει ακόμη στον Ολυμπιακό. Η Ρίο Άβε θα μπορούσε να αποτελέσει λύση για το μέλλον του, αντί της Νότιγχαμ Φόρεστ στην Αγγλία.",
-"also": [],
-"id": "b83977b9ae6a"
-},
-{
-"title": "Έγραψε ιστορία ο Βεζένκοφ: Πρώτος σκόρερ όλων των εποχών για τον Ολυμπιακό στην Euroleague (video)",
-"url": "https://www.ertsports.gr/mpasket/euroleague/egrapse-istoria-o-vezenkof-protos-skorer-olon-ton-epoxon-gia-ton-olympiako-stin-euroleague-video/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-12T19:43+00:00",
-"sport": "basket",
-"snippet": "Ο Σάσα Βεζένκοφ κατάφερε στο πρώτο καλάθι που πέτυχε στην αναμέτρηση με την Ντουμπάι να γίνει ο πρώτος σκόρερ στην ιστορία του Ολυμπιακού στην Euroleague…",
-"also": [],
-"id": "c6f6f0c732c2"
 }
 ]
 }
