@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T20:18:12+00:00",
+"generated_at": "2026-11-16T20:33:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Κάτας: Οι δηλώσεις του ενόψει Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587082/katas-oi-diloseis-toy-enopsei-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T20:28+00:00",
+"sport": "basket",
+"snippet": "Διαβάστε όλα όσα είπε στις δηλώσεις του ο Όντεντ Κάτας, ενόψει της αναμέτρησης της Μακάμπι κόντρα στον Ολυμπιακό, καθώς και για το ματς με την Ντουμπάι BC.",
+"also": [],
+"id": "99f5a4d147aa"
+},
+{
+"title": "Άλλος ένας παίκτης του Ολυμπιακού που γράφει ιστορία μακριά από τον Ολυμπιακό",
+"url": "https://sportime.gr/ethniki-omada/allos-enas-pektis-tou-olimpiakou-pou-grafi-istoria-makria-apo-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T20:24+00:00",
+"sport": "general",
+"snippet": "Ο Νίκος Μπότης έφυγε από τον Ολυμπιακό το καλοκαίρι και λίγους μήνες μετά πρωταγωνίστησε στην ιστορική πρόκριση της Εθνικής Ελπίδων στο Euro U21 του 2027.",
+"also": [],
+"id": "9c43a227467f"
+},
 {
 "title": "Ολυμπιακός: Σενάριο για Γκουστάβο Μαρτίνς",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-senario-gia-gkoustavo-martins?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5061,30 +5085,6 @@
 "snippet": "Ο Κ. Νικολακόπουλος προσπαθεί να δει μέσα από το blog του στο gazzetta πιο ψύχραιμα την κατάσταση στον Ολυμπιακό με την ευκαιρία της διακοπής του πρωταθλήματος.",
 "also": [],
 "id": "4784c8938eab"
-},
-{
-"title": "Ολυμπιακός: Γυρίζει ο Ντόρσεϊ και ο Μπαρτζώκας ζητά κι άλλον γκαρντ!",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-girizi-o-ntorsei-ke-o-bartzokas-zita-ki-allon-gkarnt?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T09:07+00:00",
-"sport": "general",
-"snippet": "Ο Ντόρσεϊ επιστρέφει, ο Ολυμπιακός έβαλε 101 στη Ντουμπάι και ο Μπαρτζώκας ζητά πλέι μέικερ. Δύο διαφορετικές ανάγκες στην περιφέρεια των Πειραιωτών.",
-"also": [],
-"id": "b3bb8fa70ccc"
-},
-{
-"title": "Ολυμπιακός blog: Σαν θέλει η “νύφη και ο γαμπρός”…",
-"url": "https://www.eurohoops.net/el/editors-blogs/2034398/olimpiakos-blog-san-theli-i-nifi-ke-o-gampros/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-13T08:50+00:00",
-"sport": "basket",
-"snippet": "Σαν θέλει η νύφη και ο γαμπρός τύφλα να 'χει ο πεθερός... The post Ολυμπιακός blog: Σαν θέλει η “νύφη και ο γαμπρός”… appeared first on Eurohoops .",
-"also": [],
-"id": "1394c70641a9"
 }
 ]
 }
