@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T16:00:37+00:00",
+"generated_at": "2026-11-16T16:15:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός, μεταγραφές: Στο… κάδρο ο Αντρέ Λουίζ!",
+"url": "https://sportday.gr/podosfairo/365511_olympiakos-metagrafes-sto-kadro-o-antre-louiz.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-16T16:09+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός κινείται στην αγορά και μέσα στις περιπτώσεις που εξετάζει, βρίσκεται κι αυτή του Αντρέ Λουίζ.",
+"also": [],
+"id": "bf49b7fee612"
+},
+{
+"title": "Δεν μαθαίνει η ΚΟΕ από τα σκάνδαλα της ΕΟΚ: Έβγαλε λάδι τον Σπάχιτς για χατίρι του Ολυμπιακού",
+"url": "https://www.sdna.gr/polo/1487344_den-mathainei-i-koe-apo-ta-skandala-tis-eok-ebgale-ladi-ton-spahits-gia-hatiri-toy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T16:05+00:00",
+"sport": "polo",
+"snippet": "Ποινή... χάδι από την επιτροπή Δεοντολογίας της ΚΟΕ για τον παίκτη του Ολυμπιακού, ο οποίος δεν θα είναι στα πλάνα του Φάτοβιτς στην Water Polo...",
+"also": [],
+"id": "d865bc1c3dd5"
+},
 {
 "title": "Ζότα Σίλβα: «Καψούρης» με τον Ολυμπιακό",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233917/zota-silva-kapsouris-me-ton-olympiako/",
@@ -61,6 +85,18 @@
 "snippet": "Ο Ιταλός αμυντικός αρέσει σε συλλόγους της πατρίδας του, ενώ φέρεται να βρίσκεται κοντά και στην εθνική ομάδα, μετά τις εμφανίσεις του με τη φανέλα των…",
 "also": [],
 "id": "695fdcc8dab5"
+},
+{
+"title": "Ζότα Σίλβα: «Είμαι ερωτευμένος με τον Ολυμπιακό και τους οπαδούς του - Ανατριχιάζω κάθε φορά που παίζω στο Καραϊσκάκης»",
+"url": "http://www.sport-fm.gr/article/5161445",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T15:33+00:00",
+"sport": "football",
+"snippet": "Ο Ζότα Σίλβα παραχώρησε συνέντευξη σε πορτογαλικό Μέσο, μιλώντας για τη μέχρι στιγμής παρουσία του στον Ολυμπιακό!",
+"also": [],
+"id": "8c103ced126d"
 },
 {
 "title": "Ολυμπιακός: Είδε από κοντά στη β’ ομάδα ο Φουστέρ",
@@ -5072,42 +5108,6 @@
 "snippet": "Ο Βεζένκοφ μίλησε ανοιχτά για τον καβγά του με τον Μπαρτζώκα. Τι είπε για τη σχέση τους και τι δείχνει η συνέχεια στον Ολυμπιακό μετά την ένταση.",
 "also": [],
 "id": "f8247cfcd5f8"
-},
-{
-"title": "Τα highlights από τη νίκη του Ολυμπιακού επί της Ντουμπάι (vid)",
-"url": "https://www.sdna.gr/mpasket/1486148_ta-highlights-apo-ti-niki-toy-olympiakoy-epi-tis-ntoympai-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T23:59+00:00",
-"sport": "basket",
-"snippet": "Μία εβδομάδα μετά την πολύ κακή εμφάνισή του με τον Ερυθρό Αστέρα στη SUNEL Arena, ο Ολυμπιακός έβγαλε αντίδραση απέναντι στην Ντουμπάι στο ίδιο...",
-"also": [],
-"id": "5ca26cb9fc39"
-},
-{
-"title": "Το μήνυμα της ΚΑΕ Ολυμπιακός για το ιστορικό ρεκόρ του Βεζένκοφ: «Τα καλύτερα έρχονται»",
-"url": "http://www.sport-fm.gr/article/5160678",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-12T22:55+00:00",
-"sport": "basket",
-"snippet": "Οι «ερυθρόλευκοι» συνεχάρησαν τον Σάσα Βεζένκοφ, ο οποίος ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο κορυφαίος σκόρερ στην ιστορία του συλλόγου στην Ευρωλίγκα.",
-"also": [],
-"id": "29b77b446cc1"
-},
-{
-"title": "Με σούπερ Φουρνιέ επανήλθε στην εργοστασιακή ρύθμιση!",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586061/me-soyper-foyrnie-epanilthe-stin-ergostasiaki-rythmisi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T22:53+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός διέλυσε (101-72) την Ντουμπάι, με τον Εβάν Φουρνιέ να παραδίδει μια σπουδαία παράσταση με 28 πόντους στη Sunel Arena, τον Σάσα Βεζένκοφ να…",
-"also": [],
-"id": "50922a67cbf3"
 }
 ]
 }
