@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T08:48:09+00:00",
+"generated_at": "2026-11-16T09:03:13+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το «πανόραμα» της Handball Premier: Νίκες για Ολυμπιακό και ΑΕΚ, υποδέχεται τον Διομήδη ο ΠΑΟΚ",
+"url": "https://www.sdna.gr/hantmpol/1487187_panorama-tis-handball-premier-nikes-gia-olympiako-kai-aek-ypodehetai-ton-diomidi-o",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T08:53+00:00",
+"sport": "handball",
+"snippet": "Με την αναμέτρηση του ΠΑΟΚ απέναντι στον Διομήδη Άργους, σήμερα (16/11, 17:00), ολοκληρώνεται η 8η αγωνιστική της Handball Premier. Στην κορυφή...",
+"also": [],
+"id": "046f11a02f12"
+},
+{
+"title": "«Ο Ολυμπιακός ενδιαφέρεται για τον Αντρέ Λουίζ»",
+"url": "https://www.sdna.gr/podosfairo/1487196_o-olympiakos-endiaferetai-gia-ton-antre-loyiz",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T08:47+00:00",
+"sport": "football",
+"snippet": "Στη μεταγραφική υπόθεση του Αντρέ Λουίζ της Κορίνθιανς εμπλέκεται μέσω… Τουρκίας ο Ολυμπιακός και η Νότιγχαμ Φόρεστ.",
+"also": [],
+"id": "4b82415997dc"
+},
 {
 "title": "Οι διαιτητές στους αγώνες Ολυμπιακού και Παναθηναϊκού για την 12η αγωνιστική",
 "url": "https://www.ertsports.gr/mpasket/oi-diaitites-stous-agones-olympiakou-kai-panathinaikou-gia-tin-12i-agonistiki/",
@@ -35,7 +59,15 @@
 "published": "2026-11-16T08:17+00:00",
 "sport": "general",
 "snippet": "Το μήνυμα του Μοντέρο μετά τη βαριά ήττα του Ολυμπιακού από τον Αρη.",
-"also": [],
+"also": [
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/heba-el/2035878/montero-gia-tin-itta-tou-olimpiakou-apogoiteftiko-na-min-boro-na-voithiso/",
+"title": "Μοντέρο για την ήττα του Ολυμπιακού: “Απογοητευτικό να μην μπορώ να βοηθήσω”",
+"published": "2026-11-16T08:45+00:00"
+}
+],
 "id": "72c0f63f9e99"
 },
 {
@@ -2820,6 +2852,18 @@
 "id": "2ffecb7c7712"
 },
 {
+"title": "Ο 713ος αγώνας των Βετεράνων του Θρύλου",
+"url": "https://www.olympiacos.org/2026/11/14/o-713os-agonas-ton-veteranon-tou-thrylou/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-14T13:00+00:00",
+"sport": "football",
+"snippet": "Οι Βετεράνοι του Ολυμπιακού θα αντιμετωπίσουν την ποδοσφαιρική ομάδα του Τζανείου νοσοκομείου Πειραιά.",
+"also": [],
+"id": "439d53e30969"
+},
+{
 "title": "Ολυμπιακός: Τέσσερις στην κορυφαία οκτάδα, αλλά μόνο ένας έχει κάνει τη διαφορά",
 "url": "https://sportime.gr/podosfairo/olimpiakos-tesseris-stin-korifea-oktada-alla-mono-enas-echi-kani-ti-diafora?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
 "source": "sportime",
@@ -5032,42 +5076,6 @@
 "snippet": "Ο Ολυμπιακός υποδέχεται την Ντουμπάι στη \"SUNEL Arena\" των Άνω Λιοσίων για την 11η αγωνιστική της EuroLeague. Οι δύο ομάδες βρίσκονται στο 7-3 και οι…",
 "also": [],
 "id": "af7276e00c6e"
-},
-{
-"title": "Ολυμπιακός: Από τρεις σε πέντε ημέρες το ρεπό του Αλγκουαθίλ",
-"url": "https://www.sdna.gr/podosfairo/1486064_olympiakos-apo-treis-se-pente-imeres-repo-toy-algkoyathil",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T18:56+00:00",
-"sport": "football",
-"snippet": "Αλλαγή στο πρόγραμμα του Ολυμπιακού κατά τη διακοπή των εθνικών ομάδων, με τον Ιμανόλ Αλγκουαθίλ να αυξάνει τις ημέρες ξεκούρασης των ποδοσφαιριστών...",
-"also": [],
-"id": "e48d2f82d5af"
-},
-{
-"title": "Live: Ολυμπιακός - Ντουμπάι (Euroleague 2026-27)",
-"url": "https://www.sdna.gr/mpasket/1486010_live-olympiakos-ntoympai-euroleague-2026-27",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T18:45+00:00",
-"sport": "basket",
-"snippet": "Εύκολη εντός έδρας νίκη για τη Λαϊκή Δημοκρατία του Κονγκό (3-1) κόντρα στη Σιέρα Λεόνε, με τον Σιμόν Μπάνζα να αγωνίζεται για περίπου 10 λεπτά.",
-"also": [],
-"id": "563ca5633a70"
-},
-{
-"title": "Υπεράνω Όλων: Ο Ολυμπιακός Πειραιώς το καλοκαίρι του 2029 θα μπει στο νέο του σπίτι",
-"url": "https://sportday.gr/podosfairo/365090_yperano-olon-o-olympiakos-peiraios-to-kalokairi-tou-2029-tha-mpei-sto-neo-tou-spiti.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-12T18:41+00:00",
-"sport": "football",
-"snippet": "Το νέο Καραϊσκάκη είναι προ των πυλών. Αυτά που έρχονται ούτε καν τα έχετε φανταστεί!",
-"also": [],
-"id": "73f6e57b2443"
 }
 ]
 }
