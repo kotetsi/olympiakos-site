@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-16T17:16:14+00:00",
+"generated_at": "2026-11-16T17:31:22+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Ο Ζότα Σίλβα διανύει μια σημαντική περίοδο στον Ολυμπιακό και βλέπει μέσα από τις εμφανίσεις του στους «ερυθρόλευκους» την ευκαιρία να επιστρέψει...",
 "also": [],
 "id": "61792127eb01"
+},
+{
+"title": "SL2: Πότε παίζει ο Απόλλων με τον Ολυμπιακό Β’-Πού θα γίνει το ΠΑΟΚ Β-Νίκη Βόλου",
+"url": "https://www.metrosport.gr/sl2-pote-paizei-o-apollon-me-ton-olympiako-v-stin-kalamaria-o-paok-v-me-tin-niki-voloy-oi-protoi-skorer-1333806",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-16T17:05+00:00",
+"sport": "football",
+"snippet": "Την Κυριακή στου Ρέντη παίζει ο Απόλλων Καλαμαριάς με τον Ολυμπιακό Β’ στο πλαίσιο της 12ης αγωνιστικής της Superbet League 2 και την Δευτέρα ...",
+"also": [],
+"id": "86dd264c5169"
 },
 {
 "title": "Ολυμπιακός: Δεν έχει αποφασίσει ακόμα ο Αλγουαθίλ",
@@ -311,7 +323,7 @@
 "id": "26936aa388b7"
 },
 {
-"title": "«Καθάρισε» τον Ολυμπιακό Β για να επιστρέψει στις νίκες ο Πανιώνιος",
+"title": "Καθάρισε τον Ολυμπιακό Β για να επιστρέψει στις νίκες ο Πανιώνιος",
 "url": "http://www.sport-fm.gr/article/5161433",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -5096,18 +5108,6 @@
 }
 ],
 "id": "ec6079c8e4e0"
-},
-{
-"title": "Μπαρτζώκας στα αποδυτήρια σε Βεζένκοφ: “Σου εύχομαι περισσότερους τίτλους και να απολαμβάνεις το μπάσκετ”",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2034379/bartzokas-sta-apoditiria-se-vezenkof-sou-efchome-perissoterous-titlous-ke-na-apolamvanis-to-basket/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-13T06:35+00:00",
-"sport": "basket",
-"snippet": "Ο Σάσα Βεζένκοφ έγινε ο πρώτος σκόρερ στην ιστορία του Ολυμπιακού στην Ευρωλίγκα και ο Γιώργος Μπαρτζώκας έκανε μία ξεχωριστή αναφορά για αυτό, στα αποδυτήρια…",
-"also": [],
-"id": "084338b25b99"
 }
 ]
 }
