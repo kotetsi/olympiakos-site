@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T20:48:29+00:00",
+"generated_at": "2026-11-16T21:03:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ζότα Σίλβα: «Το να φοράω τη φανέλα του Ολυμπιακού είναι τεράστια υπερηφάνεια!»",
+"url": "https://sportday.gr/podosfairo/365531_zota-silva-to-na-forao-ti-fanela-tou-olympiakou-einai-terastia-yperifaneia.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-16T21:02+00:00",
+"sport": "football",
+"snippet": "Ο Ζότα Σίλβα παραχώρησε συνέντευξη σε πορτογαλικό μέσο, εκθειάζοντας τον Ολυμπιακό και δηλώνοντας περήφανος κι ερωτευμένος με τον σύλλογο.",
+"also": [],
+"id": "ad9268db6099"
+},
 {
 "title": "Μακάμπι Τελ Αβίβ: Το επιθετικό ταλέντο, οι αμυντικές αδυναμίες και τα «κλειδιά» για να κυριαρχήσει ο Ολυμπιακός στη Λεμεσό",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587083/makampi-tel-abib-epithetiko-talento-oi-amyntikes-adynamies-kai-ta",
@@ -37,6 +49,18 @@
 "snippet": "Διαβάστε όλα όσα είπε στις δηλώσεις του ο Όντεντ Κάτας, ενόψει της αναμέτρησης της Μακάμπι κόντρα στον Ολυμπιακό, καθώς και για το ματς με την Ντουμπάι BC.",
 "also": [],
 "id": "99f5a4d147aa"
+},
+{
+"title": "Συνεχίζει προετοιμασία ο Ηρακλής ενόψει Ολυμπιακού: Τι ισχύει με Ραντόγια",
+"url": "https://www.metrosport.gr/synechizei-tin-proetoimasia-toy-o-iraklis-enopsei-olympiakoy-atomiko-o-rantogia-1333828",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-16T20:25+00:00",
+"sport": "football",
+"snippet": "Στους ρυθμούς της αναμέτρησης με τον Ολυμπιακό κινείται ο Ηρακλής, με τους ποδοσφαιριστές του Γηραιού να συνεχίζουν την προετοιμασία τους με ...",
+"also": [],
+"id": "9e98732a8632"
 },
 {
 "title": "Άλλος ένας παίκτης του Ολυμπιακού που γράφει ιστορία μακριά από τον Ολυμπιακό",
@@ -5039,52 +5063,6 @@
 }
 ],
 "id": "3f4b574a509d"
-},
-{
-"title": "Στο ΣΕΦ για την προπόνηση του Ολυμπιακού ο Ντόρσεϊ",
-"url": "https://www.sdna.gr/mpasket/1486234_sto-sef-gia-tin-proponisi-toy-olympiakoy-o-ntorsei",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T09:14+00:00",
-"sport": "basket",
-"snippet": "Η τιμωρία του ομογενούς γκαρντ έλαβε τέλος και επέστρεψε την Παρασκευή (13/11) στις προπονήσεις του Ολυμπιακού.",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/euroleague/stin-proponisi-tou-olympiakou-o-ntorsei/",
-"title": "Στην προπόνηση του Ολυμπιακού ο Ντόρσεϊ",
-"published": "2026-11-13T09:30+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586132/ntorsei-sto-sef-gia-tin-proponisi-toy-olympiakoy",
-"title": "Ντόρσεϊ: Στο ΣΕΦ για την προπόνηση του Ολυμπιακού",
-"published": "2026-11-13T09:31+00:00"
-},
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2034440/tailer-ntorsei-sto-sef-gia-tin-proponisi-tou-olimpiakou/",
-"title": "Τάιλερ Ντόρσεϊ: Στο ΣΕΦ για την προπόνηση του Ολυμπιακού",
-"published": "2026-11-13T10:02+00:00"
-}
-],
-"id": "98ba65e854af"
-},
-{
-"title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα με τον Ηρακλή",
-"url": "https://www.olympiacos.org/2026/11/13/diapisteyseis-mme-gia-ton-agona-me-ton-irakli-2/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-13T09:13+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στον Ηρακλή.",
-"also": [],
-"id": "29d2f70ab929"
 }
 ]
 }
