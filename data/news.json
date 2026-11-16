@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T09:18:22+00:00",
+"generated_at": "2026-11-16T09:33:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Μάρκες μπορεί να αφήσει ξανά έξω τον Γκονσάλες – Ο Ιμανόλ όχι",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-markes-bori-na-afisi-xana-exo-ton-gkonsales-o-imanol-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-16T09:23+00:00",
+"sport": "general",
+"snippet": "Το Μεξικό μπορεί να προκριθεί χωρίς τον Γκονσάλες, αλλά ο Ολυμπιακός τον χρειάζεται απέναντι στη Μίλαν. Τι δείχνουν η ευρωπαϊκή λίστα και το πρόγραμμα.",
+"also": [],
+"id": "910e4b245189"
+},
 {
 "title": "Άρης: Ο Γρηγορίου χάνει τον Παπασαραφιανό – Το Κατάρ κρίνει και τον Ολυμπιακό",
 "url": "https://sportime.gr/aris-fc/aris-o-grigoriou-chani-ton-papasarafiano-to-katar-krini-ke-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -37,6 +49,18 @@
 "snippet": "Με την αναμέτρηση του ΠΑΟΚ απέναντι στον Διομήδη Άργους, σήμερα (16/11, 17:00), ολοκληρώνεται η 8η αγωνιστική της Handball Premier. Στην κορυφή...",
 "also": [],
 "id": "046f11a02f12"
+},
+{
+"title": "Ολυμπιακός: Ξεκινά η διάθεση των εισιτηρίων για τη μεγάλη μάχη με τη Μίλαν – Οι τιμές και όλες οι λεπτομέρειες",
+"url": "https://sportday.gr/podosfairo/365470_olympiakos-ksekina-i-diathesi-ton-eisitirion-gia-ti-megali-machi-me-ti-milan-oi-times-kai-oles-oi-leptomereies.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-16T08:49+00:00",
+"sport": "football",
+"snippet": "Σε ρυθμούς Μίλαν κινούνται πλέον στον Ολυμπιακό, ενόψει της σημαντικής ευρωπαϊκής αναμέτρησης που θα διεξαχθεί στις 26 Νοεμβρίου στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "438b6ac0edd2"
 },
 {
 "title": "«Ο Ολυμπιακός ενδιαφέρεται για τον Αντρέ Λουίζ»",
@@ -5052,30 +5076,6 @@
 "snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ δέχθηκε κριτική για τις επιλογές του στον Ολυμπιακό, όμως ο Ιμανόλ Αλγουαθίλ ακολουθεί παρόμοια πορεία σε αρκετά ζητήματα.",
 "also": [],
 "id": "a0582d93ba1e"
-},
-{
-"title": "Ιστορικός Βεζένκοφ: Πρώτος σκόρερ του Ολυμπιακού στην Ευρωλίγκα, προσπέρασε τον Σπανούλη!",
-"url": "http://www.sport-fm.gr/article/5160651",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-12T19:30+00:00",
-"sport": "basket",
-"snippet": "Ο Σάσα Βεζένκοφ έγραψε ιστορία με τη φανέλα του Ολυμπιακού, καθώς ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο πρώτος σκόρερ της ομάδας στην Ευρωλίγκα, έχοντας…",
-"also": [],
-"id": "01d63a6479e4"
-},
-{
-"title": "Ολυμπιακός: Σημαντικό ρεκόρ για Βεζένκοβ, ξεπέρασε τον Σπανούλη και έγινε ο πρώτος σκόρερ στην ιστορία της ομάδας στη EuroLeague",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586027/olympiakos-simantiko-rekor-gia-bezenkob-xeperase-ton-spanoyli-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T19:27+00:00",
-"sport": "basket",
-"snippet": "Σημαντικό ρεκόρ για τον Σάσα Βεζένκοβ, καθώς ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο πρώτος σκόρερ του Ολυμπιακού στην ιστορία της EuroLeague.",
-"also": [],
-"id": "6d6ce7dc955e"
 }
 ]
 }
