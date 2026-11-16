@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-16T14:21:19+00:00",
+"generated_at": "2026-11-16T14:36:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Κόντσαρ: Τι δήλωσε για την αποχώρησή του από τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586987/kontsar-ti-dilose-gia-tin-apohorisi-toy-apo-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T14:24+00:00",
+"sport": "basket",
+"snippet": "Διαβάστε τι δήλωσε ο Τζον Κόντσαρ μετά τη λύση της συνεργασίας του με τον Ολυμπιακό.",
+"also": [],
+"id": "e53bc5c00c81"
+},
+{
+"title": "Τέλος από τον Ολυμπιακό ο Κόντσαρ: «Προσωπικοί λόγοι δεν μου επιτρέπουν να συνεχίσω την παρουσία μου εδώ»",
+"url": "http://www.sport-fm.gr/article/5161430",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T14:19+00:00",
+"sport": "general",
+"snippet": "Η ΚΑΕ Ολυμπιακός ανακοίνωσε τη λύση της συνεργασίας της με τον Τζον Κόντσαρ, ο οποίος εντάχθηκε στους «ερυθρόλευκους» στα τέλη του περασμένου Οκτωβρίου.",
+"also": [],
+"id": "62982c25d52b"
+},
 {
 "title": "Ολυμπιακός: Τέλος ο Κόντσαρ!",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2586985/olympiakos-telos-o-kontsar",
@@ -61,7 +85,7 @@
 "official": false,
 "published": "2026-11-16T14:16+00:00",
 "sport": "basket",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε με κάθε επισημότητα τη λύση της συνεργασίας του, με τον Τζον Κόντσαρ. The post Ολυμπιακός: Παρελθόν ο Κόντσαρ και τυπικά appeared first…",
+"snippet": "Ο Ολυμπιακός ανακοίνωσε με κάθε επισημότητα τη λύση της συνεργασίας του, με τον Τζον Κόντσαρ, κατόπιν επιθυμίας του 30χρονου Αμερικανού σμολ φόργουορντ. The…",
 "also": [],
 "id": "d2cb20615bae"
 },
@@ -5074,38 +5098,6 @@
 "snippet": "Ο Εβάν Φουρνιέ μίλησε μετά την επικράτηση του Ολυμπιακού επί της Ντουμπάι και αποθέωσε τον Σάσα Βεζένκοφ, ο οποίος ξεπέρασε τον Βασίλη Σπανούλη και έγινε ο…",
 "also": [],
 "id": "b9579e14d04b"
-},
-{
-"title": "Μπαρτζώκας: «Είναι καλύτερα να έχεις τον Σάσα στη δική σου ομάδα»",
-"url": "https://www.ertsports.gr/mpasket/euroleague/mpartzokas-einai-kalytera-na-exeis-ton-sasa-sti-diki-sou-omada/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-12T21:07+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός πραγματοποίησε εντυπωσιακή εμφάνιση απέναντι στην Ντουμπάι, επικρατώντας με 101-72 στη SUNEL Arena, για την 11η αγωνιστική της EuroLeague. Οι…",
-"also": [],
-"id": "2aff71f03578"
-},
-{
-"title": "Φουρνιέ για Βεζένκοβ: «Θρύλος της ομάδας, πραγματικός ηγέτης»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586042/foyrnie-gia-bezenkob-thrylos-tis-omadas-pragmatikos-igetis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T21:06+00:00",
-"sport": "basket",
-"snippet": "Δείτε τα όσα είπε ο Εβάν Φουρνιέ αμέσως μετά το τέλος του αγώνα με την Ντουμπάι BC και την άνετη επικράτηση της ομάδας του.",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/euroleague/fournie-o-vezenkof-einai-thrylos-tis-omadas-pragmatikos-igetis/",
-"title": "Φουρνιέ: «Ο Βεζένκοφ είναι θρύλος της ομάδας, πραγματικός ηγέτης»",
-"published": "2026-11-12T21:11+00:00"
-}
-],
-"id": "f698be8432bc"
 }
 ]
 }
