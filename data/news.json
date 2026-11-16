@@ -1,17 +1,72 @@
 {
-"generated_at": "2026-11-16T11:19:26+00:00",
+"generated_at": "2026-11-16T11:34:35+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233497/olympiakos-xoris-kontsar-stin-kypro/",
+"title": "Χωρίς Κόντσαρ και Ντόρσεϊ ο Ολυμπιακός απέναντι στη Μακάμπι Τελ Αβίβ",
+"url": "https://www.ertsports.gr/mpasket/euroleague/xoris-kontsar-kai-ntorsei-o-olympiakos-apenanti-sti-makampi-tel-aviv/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-16T11:33+00:00",
+"sport": "basket",
+"snippet": "Χωρίς τους Τζον Κόντσαρ και Τάιλερ Ντόρσεϊ θα παραταχθεί ο Ολυμπιακός στην αναμέτρηση με τη Μακάμπι Τελ Αβίβ, η οποία είναι προγραμματισμένη για την Τρίτη…",
+"also": [],
+"id": "7899387f2675"
+},
+{
+"title": "Ολυμπιακός: Πρώτα να κοιτάξει αυτό και μετά το άλλο...",
+"url": "https://www.gazzetta.gr/football/2586921/olympiakos-prota-na-koitaxei-ayto-kai-meta-allo",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T11:23+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta για θεμιτές επιθυμίες, αλλά και για πράγματα που προηγούνται.",
+"also": [],
+"id": "313e0eff92ff"
+},
+{
+"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο, Τζόουνς και Ντάνστον στην αποστολή",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2035936/olimpiakos-choris-kontsar-stin-kipro-tzoouns-ke-ntanston-stin-apostoli/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-16T11:23+00:00",
+"sport": "basket",
+"snippet": "Χωρίς τον Τζον Κόντσαρ θα ταξιδέψει ο Ολυμπιακός στην Κύπρο για το ματς με την Μακάμπι Τελ Αβίβ. The post Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο, Τζόουνς και…",
+"also": [],
+"id": "d8c0cfe766ed"
+},
+{
+"title": "Χωρίς Κόντσαρ κόντρα στη Μακάμπι ο Ολυμπιακός, εκτός και ο Ντόρσεϊ",
+"url": "https://www.sdna.gr/mpasket/1487247_horis-kontsar-kontra-sti-makampi-o-olympiakos-ektos-kai-o-ntorsei",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T11:20+00:00",
+"sport": "basket",
+"snippet": "Χωρίς στον Τζον Κόντσαρ θα ταξιδέψει ο Ολυμπιακός στην Κύπρο για την αναμέτρηση κόντρα στη Μακάμπι Τελ Αβίβ. Εκτός και ο Τάιλερ Ντόρσεϊ.",
+"also": [],
+"id": "de4ee928caf4"
+},
+{
+"title": "Χωρίς Κόντσαρ στην Κύπρο ο Ολυμπιακός για την αναμέτρησή του με τη Μακάμπι",
+"url": "http://www.sport-fm.gr/article/5161392",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T11:10+00:00",
+"sport": "general",
+"snippet": "Ο Κόντσαρ δεν θα ταξιδέψει στην Κύπρο για την αναμέτρηση του Ολυμπιακού με τη Μακάμπι Τελ Αβίβ!",
+"also": [
+{
 "source": "novasports",
 "source_name": "Novasports",
-"official": false,
-"published": "2026-11-16T11:15+00:00",
-"sport": "basket",
-"snippet": "Όλο και πιο κοντά στην αποχώρηση του από την Ελλάδα και τον Ολυμπιακό βρίσκεται ο Τζον Κόντσαρ. Ο έμπειρος γκαρντ έμεινε εκτός αποστολής για τον αγώνα των…",
-"also": [
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233497/olympiakos-xoris-kontsar-stin-kypro/",
+"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο",
+"published": "2026-11-16T11:15+00:00"
+},
 {
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -20,7 +75,19 @@
 "published": "2026-11-16T11:16+00:00"
 }
 ],
-"id": "2c3dff82184d"
+"id": "7a9d46f6da2f"
+},
+{
+"title": "Κυκλοφορούν τα εισιτήρια για το μεγάλο ματς του Ολυμπιακού με τη Μίλαν",
+"url": "http://www.sport-fm.gr/article/5161360",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T11:00+00:00",
+"sport": "general",
+"snippet": "Στην κυκλοφορία θα τεθούν το μεσημέρι τα εισιτήρια του Ολυμπιακός-Μίλαν.",
+"also": [],
+"id": "dd15f28406d7"
 },
 {
 "title": "Πρόβλημα στη Βιλερμπάν με Μπολομπόι, αμφίβολος κόντρα στον Ολυμπιακό",
@@ -1611,6 +1678,13 @@
 "source_name": "Novasports",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233073/pouerta-gia-olympiakos-den-antilamvanomaste-poso-megalos-syllogos/",
 "title": "Πουέρτα για Ολυμπιακός: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος!»",
+"published": "2026-11-15T22:58+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233073/pouerta-gia-olympiako-den-antilamvanomaste-poso-megalos-syllogos/",
+"title": "Πουέρτα για Ολυμπιακό: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος!»",
 "published": "2026-11-15T22:58+00:00"
 }
 ],
@@ -5016,74 +5090,6 @@
 "snippet": "Ο φωτογραφικός φακός αποθανάτισε μια εντυπωσιακή στιγμή στη SUNEL Arena, με τον Σάσα Βεζένκοφ να πανηγυρίζει ένα τρίποντο μαζί με οπαδό του Ολυμπιακού!",
 "also": [],
 "id": "af7a262e7db7"
-},
-{
-"title": "Ολυμπιακός: Το βίντεο – αφιέρωμα για το ρεκόρ του Βεζένκοφ! (video)",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15227480/olympiakos-to-vinteo-afieroma-gia-to-rekor-tou-vezenkof-video/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-12T20:37+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Ολυμπιακός αποθέωσε στα Μέσα Κοινωνικής Δικτύωσης τον Σάσα Βεζένκοφ. Ο MVP της EuroLeague έγινε ο πρώτος σκόρερ στην Ιστορία των Πρωταθλητών Ελλάδας και…",
-"also": [],
-"id": "c6e460af835d"
-},
-{
-"title": "«Ιστορικό κεφάλαιο στο απίστευτο ταξίδι του Σάσα»: Το μήνυμα του Ολυμπιακού για το ρεκόρ του Βεζένκοφ!",
-"url": "http://www.sport-fm.gr/article/5160660",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-12T20:35+00:00",
-"sport": "basket",
-"snippet": "Το όμορφο μήνυμα της ΚΑΕ Ολυμπιακός με τα καλάθια-ορόσημο του Σάσα Βεζένκοφ μέχρι το αποψινό «ερυθρόλευκο» ρεκόρ του στην Ευρωλίγκα!",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1486117_olympiakos-gia-rekor-toy-bezenkof-istoriko-kefalaio-sto-apisteyto-taxidi-toy-sasa",
-"title": "Oλυμπιακός για το ρεκόρ του Βεζένκοφ: «Ιστορικό κεφάλαιο στο απίστευτο ταξίδι του Σάσα»",
-"published": "2026-11-12T22:29+00:00"
-}
-],
-"id": "ac56729f73b1"
-},
-{
-"title": "CIES: Στην κορυφή της Ευρώπης ο Παναθηναϊκός – Στο βάθρο ο Ολυμπιακός, στην επτάδα η ΑΕΚ!",
-"url": "https://www.sdna.gr/podosfairo/1486079_cies-stin-koryfi-tis-eyropis-o-panathinaikos-sto-bathro-o-olympiakos-stin-eptada",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T20:29+00:00",
-"sport": "football",
-"snippet": "Εντυπωσιακή τριπλή ελληνική παρουσία στην κατάταξη του CIES Football Observatory με τις καλύτερες άμυνες των δέκα κορυφαίων ευρωπαϊκών πρωταθλημάτων....",
-"also": [],
-"id": "a45a6284f8f8"
-},
-{
-"title": "Ολυμπιακός: Η Μαρσέιγ κοιτάζει τον Σαντιάγο Έσε",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-i-marseig-kitazi-entona-ton-santiago-ese?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T20:29+00:00",
-"sport": "general",
-"snippet": "Ο Σαντιάγο Έσε απασχολεί συλλόγους από τη Γαλλία, με τη Μαρσέιγ να έχει προσεγγίσει τον εκπρόσωπό του. Η επιθυμία του μέσου του Ολυμπιακού για την Ευρώπη.",
-"also": [],
-"id": "5d87dbeddc32"
-},
-{
-"title": "Ολυμπιακός: Το βίντεο για το ρεκόρ του Σάσα Βεζένκοβ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586033/olympiakos-binteo-gia-rekor-toy-sasa-bezenkob",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-12T20:14+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Ολυμπιακός μέσω ανάρτησης αποθέωσε τον Σάσα Βεζένκοβ για το σπουδαίο επίτευγμα που κατάφερε με την «ερυθρόλευκη» φανέλα.",
-"also": [],
-"id": "dfc41ec9b704"
 }
 ]
 }
