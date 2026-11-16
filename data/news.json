@@ -1,7 +1,82 @@
 {
-"generated_at": "2026-11-16T14:06:10+00:00",
+"generated_at": "2026-11-16T14:21:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τέλος ο Κόντσαρ!",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2586985/olympiakos-telos-o-kontsar",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-16T14:18+00:00",
+"sport": "basket",
+"snippet": "Παρελθόν αποτελεί από τον Ολυμπιακό ο Τζον Κόντσαρ, όπως ανακοίνωσε η «ερυθρόλευκη» ΚΑΕ.",
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233696/olympiakos-telos-o-kontsar/",
+"title": "Ολυμπιακός: Τέλος ο Κόντσαρ!",
+"published": "2026-11-16T14:19+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/telos-apo-ton-olympiako-o-kontsar/",
+"title": "Τέλος από τον Ολυμπιακό ο Κόντσαρ",
+"published": "2026-11-16T14:20+00:00"
+}
+],
+"id": "0d6b90f48de5"
+},
+{
+"title": "Ολυμπιακός: Κόντσαρ ήταν και πάει – Τέλος κι επίσημα ο Αμερικανός",
+"url": "https://sportday.gr/basket/365495_olympiakos-kontsar-itan-kai-paei-telos-ki-episima-o-amerikanos.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-16T14:18+00:00",
+"sport": "basket",
+"snippet": "Παρελθόν από τον Ολυμπιακό σε σύντομο χρονικό διάστημα αποτελεί ο Τζον Κόντσαρ - Τι δήλωσε ο Αμερικανός",
+"also": [],
+"id": "62dbd63e7d9c"
+},
+{
+"title": "Επίσημο: Τέλος ο Τζον Κόντσαρ από τον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1487297_episimo-telos-o-tzon-kontsar-apo-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T14:17+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός με ανακοίνωση του γνωστοποίησε την λύση της συνεργασίας του με τον Τζον Κόντσαρ, με τον Αμερικανό άσο να ευχαριστεί τους «ερυθρόλευκους»...",
+"also": [],
+"id": "0c25288e44de"
+},
+{
+"title": "Ολυμπιακός: Παρελθόν ο Κόντσαρ και τυπικά",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2035994/olimpiakos-parelthon-o-kontsar-ke-tipika/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-16T14:16+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός ανακοίνωσε με κάθε επισημότητα τη λύση της συνεργασίας του, με τον Τζον Κόντσαρ. The post Ολυμπιακός: Παρελθόν ο Κόντσαρ και τυπικά appeared first…",
+"also": [],
+"id": "d2cb20615bae"
+},
+{
+"title": "Ολυμπιακός: Τελευταία ημέρα ξεκούρασης, επιστροφή στο Ρέντη για τον Ηρακλή",
+"url": "https://www.sdna.gr/podosfairo/1487292_olympiakos-teleytaia-imera-xekoyrasis-epistrofi-sto-renti-gia-ton-irakli",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-16T14:06+00:00",
+"sport": "football",
+"snippet": "Ολοκληρώνεται σήμερα το πενθήμερο ρεπό των ποδοσφαιριστών του Ολυμπιακού, οι οποίοι επιστρέφουν την Τρίτη (17/11) στις προπονήσεις, ξεκινώντας την...",
+"also": [],
+"id": "8131ee9da0ac"
+},
 {
 "title": "Παρουσία Φουστέρ το ματς του Ολυμπιακού Β στην Τρίπολη",
 "url": "http://www.sport-fm.gr/article/5161427",
@@ -263,14 +338,14 @@
 "id": "313e0eff92ff"
 },
 {
-"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο, Τζόουνς και Ντάνστον στην αποστολή",
+"title": "Ολυμπιακός: Με Τζόουνς και Ντάνστον η αποστολή για Μακάμπι στην Κύπρο",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2035936/olimpiakos-choris-kontsar-stin-kipro-tzoouns-ke-ntanston-stin-apostoli/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
 "published": "2026-11-16T11:23+00:00",
 "sport": "basket",
-"snippet": "Χωρίς τον Τζον Κόντσαρ θα ταξιδέψει ο Ολυμπιακός στην Κύπρο για το ματς με την Μακάμπι Τελ Αβίβ. The post Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο, Τζόουνς και…",
+"snippet": "Οι Ταϊρίκ Τζόουνς και Μπράιαντ Ντάνστον θα ταξιδέψουν στην Κύπρο για να ενσωματωθούν στην αποστολή του Ολυμπιακού για τον αυριανό (17/110 αγώνα με τη Μακάμπι…",
 "also": [],
 "id": "d8c0cfe766ed"
 },
@@ -5031,66 +5106,6 @@
 }
 ],
 "id": "f698be8432bc"
-},
-{
-"title": "Η κριτική των παικτών του Ολυμπιακού: Φουρνιέ και Βεζένκοφ ήταν ασταμάτητοι, Εντζάι και Τζόσεφ έκαναν step up",
-"url": "https://www.sdna.gr/mpasket/1486087_i-kritiki-ton-paikton-toy-olympiakoy-foyrnie-kai-bezenkof-itan-astamatitoi-entzai",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T21:05+00:00",
-"sport": "basket",
-"snippet": "Οι Εβάν Φουρνιέ και Σάσα Βεζένκοφ ήταν ασταμάτητοι, ο Μπαρτζώκας είδε τους Εμπάι Εντζάι και Κόρι Τζόσεφ να κάνουν step up και ο Ολυμπιακός έστησε......",
-"also": [],
-"id": "894daaf9ac01"
-},
-{
-"title": "EuroLeague: Τρίτος ο Ολυμπιακός μετά τη Ντουμπάι",
-"url": "https://sportime.gr/olympiakos-bc/euroleague-vathmologia-tritos-o-olimpiakos-meta-ti-niki-epi-tis-ntoumpai?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T21:05+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ανέβηκε στην τρίτη θέση της EuroLeague με ρεκόρ 8-3 μετά το 101-72 επί της Ντουμπάι. Δείτε τη βαθμολογία και τη θέση του Παναθηναϊκού.",
-"also": [],
-"id": "a003c49c5c37"
-},
-{
-"title": "ΣΑΡΩΤΙΚΟΣ Ολυμπιακός εν αναμονή Ντόρσεϊ και μεταγραφής | Extra Time LIVE",
-"url": "https://www.eurohoops.net/el/trademarks-el/2034178/sarotikos-olimpiakos-en-anamoni-ntorsei-ke-metagrafis-extra-time-live/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-12T21:05+00:00",
-"sport": "basket",
-"snippet": "H «Extra Time » βγαίνει ζωντανά αμέσως μετά τη λήξη της αναμέτρησης με την Ντουμπάι για να αναλύσει τη νίκη του Ολυμπιακού The post ΣΑΡΩΤΙΚΟΣ Ολυμπιακός εν…",
-"also": [],
-"id": "d1da88545fba"
-},
-{
-"title": "Βαθμολογία Ευρωλίγκα: Κι ο Ολυμπιακός στις περισσότερες νίκες με +1 παιχνίδι",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2034157/vathmologia-evroligka-ki-o-olimpiakos-stis-perissoteres-nikes-me-1-pechnidi/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-12T21:05+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός \"έπιασε\" τον πρωτοπόρο Παναθηναϊκό στις 8 νίκες με ένα παιχνίδι περισσότερο. The post Βαθμολογία Ευρωλίγκα: Κι ο Ολυμπιακός στις περισσότερες…",
-"also": [],
-"id": "24aa69933888"
-},
-{
-"title": "Μπαρτζώκας για Βεζένκοφ: «Είναι στην καλύτερη ηλικία του και έχει πολλά χρόνια μπροστά του στον Ολυμπιακό»",
-"url": "https://www.sdna.gr/mpasket/1486085_mpartzokas-gia-bezenkof-einai-stin-kalyteri-ilikia-toy-kai-ehei-polla-hronia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-12T21:04+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Μπαρτζώκας στάθηκε στην αντίδραση του Ολυμπιακού απέναντι στην Ντουμπάι, ενώ αναφέρθηκε και στο ιστορικό επίτευγμα του Σάσα Βεζένκοφ.",
-"also": [],
-"id": "069a736eaadb"
 }
 ]
 }
