@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-16T13:51:08+00:00",
+"generated_at": "2026-11-16T14:06:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Παρουσία Φουστέρ το ματς του Ολυμπιακού Β στην Τρίπολη",
+"url": "http://www.sport-fm.gr/article/5161427",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-16T13:46+00:00",
+"sport": "general",
+"snippet": "Ο Νταβίντ Φουστέρ παρακολουθεί διά ζώσης το ματς του Ολυμπιακού Β με τον Πανιώνιο που διεξάγεται στην Τρίπολη.",
+"also": [],
+"id": "c64c8c5f97d3"
+},
 {
 "title": "Ολυμπιακός: Για να γυρίσει ο Ελ Κααμπί στην Ευρώπη, βγαίνει ο Γιάρεμτσουκ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-gia-na-girisi-o-el-kaampi-stin-evropi-vgeni-o-giaremtsouk?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5079,18 +5091,6 @@
 "snippet": "Ο Γιώργος Μπαρτζώκας στάθηκε στην αντίδραση του Ολυμπιακού απέναντι στην Ντουμπάι, ενώ αναφέρθηκε και στο ιστορικό επίτευγμα του Σάσα Βεζένκοφ.",
 "also": [],
 "id": "069a736eaadb"
-},
-{
-"title": "Ολυμπιακός: Με Άρη και Μακάμπι μετά την Ντουμπάι",
-"url": "https://sportime.gr/basket/olimpiakos-i-epomeni-antipali-meta-tin-ntoumpai-aris-ke-makampi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-12T21:03+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει τον Άρη στο Αλεξάνδρειο και στη συνέχεια τη Μακάμπι Τελ Αβίβ για τη Euroleague. Δείτε ημέρες και ώρες των αγώνων.",
-"also": [],
-"id": "74546287f2e3"
 }
 ]
 }
