@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T06:23:47+00:00",
+"generated_at": "2026-11-17T06:38:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αποφασίζει ο Αλγκουαθίλ για τις πιθανές αναβολές",
+"url": "https://www.sdna.gr/podosfairo/1487518_olympiakos-apofasizei-o-algkoyathil-gia-tis-pithanes-anaboles",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T06:22+00:00",
+"sport": "football",
+"snippet": "Την αναβολή σε τρία παιχνίδια θα μπορούσε να ζητήσει ο Ολυμπιακός λόγω προγράμματος και αναμένεται να καταλήξει σε απόφαση.",
+"also": [],
+"id": "d32ca2f02344"
+},
 {
 "title": "Ολυμπιακός: Ο Ιμανόλ αλλάζει παίκτες πίσω από τον φορ, αλλά στα δύσκολα λείπει το γκολ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-imanol-allazi-pektes-piso-apo-ton-for-alla-sta-diskola-lipi-to-gkol?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5043,18 +5055,6 @@
 "snippet": "Ο Μπαρτζώκας παραδέχθηκε ότι αδικεί τον Ντάνστον, την ώρα που αναζητά πλέι μέικερ. Η νίκη επί της Ντουμπάι και η παράξενη κατάσταση στο ρόστερ του Ολυμπιακού.",
 "also": [],
 "id": "abf385010d61"
-},
-{
-"title": "Αποκάλυψη από την πρόεδρο της Ρίο Άβε: «Γιατί ο Αντρέ Λουίζ επέλεξε τον Ολυμπιακό αντί της Μπενφίκα»",
-"url": "https://www.sdna.gr/podosfairo/1486250_apokalypsi-apo-tin-proedro-tis-rio-abe-giati-o-antre-loyiz-epelexe-ton-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T10:26+00:00",
-"sport": "football",
-"snippet": "Το παρασκήνιο της μεταγραφής του Αντρέ Λουίζ στον Ολυμπιακό, παρά το έντονο ενδιαφέρον της Μπενφίκα, έφερε στο φως η πρόεδρος της Ρίο Άβε,...",
-"also": [],
-"id": "e1804534d264"
 }
 ]
 }
