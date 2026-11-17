@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-17T17:30:39+00:00",
+"generated_at": "2026-11-17T17:45:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αναγκαστική αλλαγή του Μπρούνο στο Τανζανία – Νιγηρία",
+"url": "https://sportday.gr/podosfairo/365643_olympiakos-anagkastiki-allagi-tou-mprouno-sto-tanzania-nigiria.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-17T17:42+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ανησυχεί για την κατάσταση του Μπρούνο Ονιεμαέτσι, ο οποίος αποχώρησε με ενοχλήσεις από την αναμέτρησης Τανζανία - Νιγηρία.",
+"also": [],
+"id": "f5aaf165a3f7"
+},
+{
+"title": "Ερυθρόλευκη κερκίδα στην Κύπρο: Περίπου 1.500 φίλοι του Ολυμπιακού στο πλευρό του!",
+"url": "http://www.sport-fm.gr/article/5161705",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-17T17:38+00:00",
+"sport": "general",
+"snippet": "Περίπου 1.500 φίλοι του Ολυμπιακού βρίσκονται στην Κύπρο, δημιουργώντας ερυθρόλευκη κερκίδα στην αναμέτρηση με τη Μακάμπι Τελ Αβίβ.",
+"also": [],
+"id": "9f8ac9ac60c3"
+},
+{
+"title": "EuroLeague: Έγραψε ιστορία ο Βεζένκοφ – Με τη φανέλα του Ολυμπιακού στην πρώτη δεκάδα! (videos)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15235927/makampi-olympiakos-apithano-karfoma-tou-tairik-tzoouns-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-17T17:30+00:00",
+"sport": "basket",
+"snippet": "Συνεχίζοντας να γράφει ιστορία στα ευρωπαϊκά παρκέ, ο Σάσα Βεζένκοφ κατάφερε στην αναμέτρηση του Ολυμπιακού με τη Μακάμπι Τελ Αβίβ στην Κύπρο να μπει στην…",
+"also": [],
+"id": "b2c7fbb780fc"
+},
+{
+"title": "Μετά την ερυθρόλευκη κορυφή, ο Βεζένκοφ μπήκε και στην All-time 10άδα της Euroleague!",
+"url": "http://www.sport-fm.gr/article/5161704",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-17T17:30+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ στο ματς του Ολυμπιακού με τη Μακάμπι στην Κύπρο κατάφερε να μπει στην πρώτη 10άδα των σκόρερ όλων των εποχών για τη Euroleague!",
+"also": [],
+"id": "efc288641ae7"
+},
 {
 "title": "Ολυμπιακός: Τραυματίστηκε ο Μπρούνο σε ματς της Εθνικής Νιγηρίας",
 "url": "https://www.gazzetta.gr/football/superleague/2587342/olympiakos-traymatistike-o-mproyno-se-mats-tis-ethnikis-nigirias",
@@ -13,6 +61,18 @@
 "snippet": "Όπως μεταδίδουν τα ΜΜΕ στη Νιγηρία ο διεθνής αριστερός μπακ του Ολυμπιακού υπέστη τραυματισμό στο 2ο μέρος του αγώνα της Εθνικής της χώρας του.",
 "also": [],
 "id": "901be98f528c"
+},
+{
+"title": "Ολυμπιακός: Συναγερμός για Μπρούνο – Αποχώρησε τραυματίας με τη Νιγηρία",
+"url": "https://www.sdna.gr/podosfairo/1487686_olympiakos-synagermos-gia-mproyno-apohorise-traymatias-me-ti-nigiria",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T17:20+00:00",
+"sport": "football",
+"snippet": "Ανησυχία στον Ολυμπιακό για τον Μπρούνο Ονιεμαέτσι, ο οποίος αποχώρησε με πρόβλημα τραυματισμού από την αναμέτρηση της Νιγηρίας με την Τανζανία...",
+"also": [],
+"id": "6da340c177d0"
 },
 {
 "title": "Ολυμπιακός: Εκτός ο Έσε από το ματς με τον Ηρακλή",
@@ -4989,66 +5049,6 @@
 "snippet": "Ο Σέρβος κόουτς έχει υποστεί κάταγμα ονυχοφόρου φάλαγγας δείκτου δεξιάς άκρας χειρός. Τις επόμενες ημέρες θα φανεί πότε θα τεθεί και πάλι ο Μιλουτίνοφ στη…",
 "also": [],
 "id": "f3b5037f4b26"
-},
-{
-"title": "Κάταγμα ο Μιλουτίνοφ – Η 12άδα του Ολυμπιακού απέναντι στον Άρη",
-"url": "https://www.ertsports.gr/mpasket/katagma-o-miloutinof-i-12ada-tou-olympiakou-apenanti-ston-ari/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-14T13:19+00:00",
-"sport": "basket",
-"snippet": "Από την ΚΑΕ Ολυμπιακός έκαναν γνωστό ότι ο Νίκολα Μιλουτίνοφ τραυματίστηκε και θα απουσιάσει από τα ματς με Άρη και Μακάμπι Τελ Αβίβ, ενώ γνωστοποίησαν και…",
-"also": [],
-"id": "8dbfc85429ee"
-},
-{
-"title": "Ολυμπιακός: Πλήγμα με Μιλουτίνοφ, υπέστη κάταγμα και μένει εκτός με Άρη και Μακάμπι!",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586465/olympiakos-pligma-me-miloytinof-ypesti-katagma-kai-menei-ektos-me-ari",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-14T13:16+00:00",
-"sport": "basket",
-"snippet": "Νέο πλήγμα στον Ολυμπιακό, καθώς ο Νίκολα Μιλουτίνοφ υπέστη κάταγμα στην ονυχοφόρου φάλαγγα του δείκτη του δεξιού χεριού και αναμένεται να μείνει εκτός κόντρα…",
-"also": [],
-"id": "476ef04e1fbb"
-},
-{
-"title": "Ολυμπιακός: Ο Τζόουνς πήρε τη θέση του Μοντέρο στη λίστα των ξένων",
-"url": "https://www.ertsports.gr/mpasket/gbl/olympiakos-o-tzoouns-pire-ti-thesi-tou-montero-sti-lista-ton-ksenon/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-14T13:11+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός προχώρησε σε αλλαγή στην οκτάδα των ξένων του για το ελληνικό πρωτάθλημα, καθώς ο Ταϊρίκ Τζόουνς μπήκε αντί του τραυματία Γιαν Μοντέρο, όμως δεν…",
-"also": [],
-"id": "2ffecb7c7712"
-},
-{
-"title": "Ο 713ος αγώνας των Βετεράνων του Θρύλου",
-"url": "https://www.olympiacos.org/2026/11/14/o-713os-agonas-ton-veteranon-tou-thrylou/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-14T13:00+00:00",
-"sport": "football",
-"snippet": "Οι Βετεράνοι του Ολυμπιακού θα αντιμετωπίσουν την ποδοσφαιρική ομάδα του Τζανείου νοσοκομείου Πειραιά.",
-"also": [],
-"id": "439d53e30969"
-},
-{
-"title": "Ολυμπιακός: Τέσσερις στην κορυφαία οκτάδα, αλλά μόνο ένας έχει κάνει τη διαφορά",
-"url": "https://sportime.gr/podosfairo/olimpiakos-tesseris-stin-korifea-oktada-alla-mono-enas-echi-kani-ti-diafora?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-14T12:39+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έχει τέσσερις παίκτες στην κορυφαία οκτάδα των U23 της Super League, αλλά ο Ζοέλ Ρόκα είναι εκείνος που έχει προσφέρει περισσότερα.",
-"also": [],
-"id": "de575e93eaaa"
 }
 ]
 }
