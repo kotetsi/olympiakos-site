@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T10:11:21+00:00",
+"generated_at": "2026-11-17T10:26:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ηρακλής: Ο Ραντόγια δεν είναι για πειράματα με τον Ολυμπιακό",
+"url": "https://sportime.gr/iraklis-fc/iraklis-o-rantogia-den-ine-gia-piramata-me-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-17T10:13+00:00",
+"sport": "general",
+"snippet": "Ο Ραντόγια παραμένει σε ατομικό πρόγραμμα και ο Ματσάρι καλείται να ζυγίσει ετοιμότητα και συνοχή ενόψει Ολυμπιακού. Τι σημαίνει για τον Ηρακλή.",
+"also": [],
+"id": "bbbe44fc790a"
+},
+{
+"title": "Σπανούλης: «Τελείωσαν τα ματς με Ολυμπιακό και Παναθηναϊκό. ΛεΜάν τώρα!»",
+"url": "http://www.sport-fm.gr/article/5161624",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-17T10:10+00:00",
+"sport": "general",
+"snippet": "Ο Βασίλης Σπανούλης ξεκαθάρισε πως ο Άρης δεν πρέπει να μείνει στις νίκες επί των «αιωνίων» και έδωσε το σύνθημα εν όψει ΛεΜάν.",
+"also": [],
+"id": "ab44f8138fc3"
+},
 {
 "title": "Σπανούλης: «Τελείωσαν οι αγώνες με Παναθηναϊκό και Ολυμπιακό – Έτοιμοι με ΛεΜαν»",
 "url": "https://www.novasports.gr/sport/mpasket/event/diethneis-eurocup-mpasket/article/15235364/spanoulis-teleiosan-oi-agones-me-panathinaiko-kai-olympiako-etoimoi-me-leman/",
@@ -5009,30 +5033,6 @@
 "snippet": "Ο Τάιλερ Ντόρσεϊ επέστρεψε στις προπονήσεις του Ολυμπιακού, αλλά θα χάσει Άρη και Μακάμπι Τελ Αβίβ. Τα δύο πιθανά παιχνίδια για την επάνοδό του.",
 "also": [],
 "id": "5a294ce9c86c"
-},
-{
-"title": "Παναθηναϊκός – Ολυμπιακός: Χωρίς κόσμο το ντέρμπι στο Μετς",
-"url": "https://www.ertsports.gr/bolei/panathinaikos-olympiakos-xoris-kosmo-to-ntermpi-sto-mets/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-13T15:05+00:00",
-"sport": "volley",
-"snippet": "Χωρίς την παρουσία φιλάθλων θα πραγματοποιηθεί το μεγάλο ντέρμπι ανάμεσα στον Παναθηναϊκό και τον Ολυμπιακό, το Σάββατο (14/11, 21:15), για την 4η αγωνιστική…",
-"also": [],
-"id": "00051ce3d32a"
-},
-{
-"title": "Ολυμπιακός: Εκτός ο Ντόρσεϊ εναντίον Άρη και Μακάμπι",
-"url": "https://sportday.gr/basket/365168_olympiakos-ektos-o-ntorsei-enantion-ari-kai-makampi.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-13T14:35+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός καλωσόρισε ξανά πίσω στις προπονήσεις (13/10) τον Τάιλερ Ντόρσεϊ, αλλά τον έθεσε εκτός παιχνιδιών κόντρα στον Άρη (15/11) και την Μακάμπι Τελ Αβίβ…",
-"also": [],
-"id": "60a151bf8627"
 }
 ]
 }
