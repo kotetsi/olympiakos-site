@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T09:10:44+00:00",
+"generated_at": "2026-11-17T09:26:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η επιστροφή στις προπονήσεις, ο Φουστέρ και ο μεταγραφικός σχεδιασμός του Ιανουαρίου (audio)",
+"url": "https://www.ertsports.gr/era-spor/olympiakos-i-epistrofi-stis-proponiseis-o-fouster-kai-o-metagrafikos-sxediasmos-tou-ianouariou-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-17T09:14+00:00",
+"sport": "football",
+"snippet": "Η διακοπή των αγωνιστικών υποχρεώσεων ολοκληρώνεται για τον Ολυμπιακό, με τους ποδοσφαιριστές να επιστρέφουν σταδιακά στις προπονήσεις και τον Ιμανόλ Αλγουαθίλ…",
+"also": [],
+"id": "1b271cf95a09"
+},
 {
 "title": "Ζέρβας ενόψει του Μακάμπι-Ολυμπιακός: «Να βρει αποθέματα ενέργειας και να αφήσει πίσω την σκληρή ήττα από τον Άρη»",
 "url": "http://www.sport-fm.gr/article/5161598",
@@ -5021,40 +5033,6 @@
 "snippet": "Ο Τάιλερ Ντόρσεϊ προκάλεσε νέα ερωτηματικά",
 "also": [],
 "id": "95ac1cc1749b"
-},
-{
-"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ κόντρα σε Άρη και Μακάμπι",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586217/olympiakos-horis-ntorsei-kontra-se-ari-kai-makampi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-13T13:58+00:00",
-"sport": "basket",
-"snippet": "Ο Τάιλερ Ντόρσεϊ θα μείνει εκτός από τις αναμετρήσεις του Ολυμπιακού με τον Άρη και τη Μακάμπι Τελ Αβίβ.",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1486308_olympiakos-horis-ntorsei-kontra-se-ari-kai-makampi-tel-abib",
-"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ κόντρα σε Άρη και Μακάμπι Τελ Αβίβ",
-"published": "2026-11-13T14:08+00:00"
-},
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5160815",
-"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ κόντρα σε Άρη και Μακάμπι Τελ Αβίβ",
-"published": "2026-11-13T14:23+00:00"
-},
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/heba-el/2034556/olimpiakos-choris-ntorsei-me-ari-ke-makampi-tel-aviv/",
-"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ με Άρη και Μακάμπι Τελ Αβίβ",
-"published": "2026-11-13T14:23+00:00"
-}
-],
-"id": "1346c7514d9f"
 }
 ]
 }
