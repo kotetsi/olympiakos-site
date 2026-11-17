@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T17:00:18+00:00",
+"generated_at": "2026-11-17T17:15:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Εκτός ο Έσε από το ματς με τον Ηρακλή",
+"url": "https://sportday.gr/podosfairo/365625_olympiakos-ektos-o-ese-apo-to-mats-me-ton-irakli.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-17T17:09+00:00",
+"sport": "football",
+"snippet": "Ο Σαντιάγκο Έσε παραμένει εκτός λόγω τραυματισμού και δε θα αγωνιστεί στο παιχνίδι με τον Ηρακλή (22/11, 19:00) στην 11η αγωνιστική της Stoiximan Super League.",
+"also": [],
+"id": "09164f4476bd"
+},
 {
 "title": "Ολυμπιακός: Ο Πιρόλα και τα “μάτια” της Μίλαν",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15235830/olympiakos-o-pirola-kai-ta-matia-tis-milan/",
@@ -5037,18 +5049,6 @@
 "snippet": "Ο Νίκος Παπαδογιάννης έκανε στην εκπομπή Gazz Floor by Novibet τη δική του πρόβλεψη σχετικά με την αναμέτρηση του Άρη με τον Ολυμπιακό στην Basket League.",
 "also": [],
 "id": "818809edae24"
-},
-{
-"title": "Ολυμπιακός: Αλλαγή στην 8άδα ξένων των Πειραιωτών",
-"url": "http://www.sport-fm.gr/article/5160980",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-14T11:59+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός προχώρησε σε αλλαγή στην οκτάδα ξένων του στο εγχώριο ρόστερ.",
-"also": [],
-"id": "09a6942213b7"
 }
 ]
 }
