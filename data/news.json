@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T14:43:51+00:00",
+"generated_at": "2026-11-17T14:58:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η δωδεκάδα του Ολυμπιακού απέναντι στη Μακάμπι",
+"url": "https://www.ertsports.gr/mpasket/euroleague/i-dodekada-tou-olympiakou-apenanti-sti-makampi/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-17T14:55+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει την Μακάμπι στην Κύπρο με τον Γιώργο Μπαρτζώκα να ανακοινώνει την δωδεκάδα με τους παίκτες που θα έχει διαθέσιμους για την…",
+"also": [],
+"id": "4acf5c6a20c9"
+},
+{
+"title": "Ολυμπιακός: Χωρίς ήττα τα τελευταία τέσσερα χρόνια από τη Μακάμπι",
+"url": "https://sportday.gr/basket/365607_olympiakos-choris-itta-ta-teleftaia-tessera-chronia-apo-ti-makampi.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-17T14:45+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Μακάμπι Τελ Αβίβ (17/11, 19:00) στην Κύπρο για τη 12η αγωνιστική της Euroleague. Μόνο νίκες τα τελευταία τέσσερα χρόνια απέναντι…",
+"also": [],
+"id": "6c2c4446b104"
+},
 {
 "title": "Ολυμπιακός: Με Τζόουνς και Ντάνστον η δωδεκάδα κόντρα στη Μακάμπι",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587291/olympiakos-me-tzooyns-kai-ntanston-i-dodekada-kontra-sti-makampi",
@@ -11,7 +35,22 @@
 "published": "2026-11-17T14:41+00:00",
 "sport": "basket",
 "snippet": "Γνωστή έγινε η δωδεκάδα του Ολυμπιακού για το παιχνίδι κόντρα στη Μακάμπι Τελ Αβίβ.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1487645_me-tzooyns-kai-ntanston-stin-12ada-toy-o-olympiakos-kontra-sti-makampi",
+"title": "Με Τζόουνς και Ντάνστον στην 12άδα του ο Ολυμπιακός κόντρα στη Μακάμπι",
+"published": "2026-11-17T14:47+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5161674",
+"title": "Με Τζόουνς και Ντάνστον η 12άδα του Ολυμπιακού κόντρα στη Μακάμπι!",
+"published": "2026-11-17T14:57+00:00"
+}
+],
 "id": "e3efcb910db8"
 },
 {
@@ -143,7 +182,15 @@
 "published": "2026-11-17T11:44+00:00",
 "sport": "basket",
 "snippet": "Μικρό θεωρεί η ΚΑΕ Ολυμπιακός το πρόστιμο που επιβλήθηκε στον Παναθηναϊκό για πανό οπαδών στο ματς με τη Μπασκόνια και σύμφωνα με πληροφορίες του...",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5161672",
+"title": "Έφεση της ΚΑΕ Ολυμπιακός στην Ευρωλίγκα - Κρίνει μικρό το πρόστιμο που επιβλήθηκε στον Παναθηναϊκό για πανό",
+"published": "2026-11-17T14:45+00:00"
+}
+],
 "id": "76ac8fd9d1b6"
 },
 {
@@ -4986,30 +5033,6 @@
 "snippet": "Ο Γκουστάβο Σα δέχεται κριτική στον Ολυμπιακό, όμως η αξιολόγηση Elo τον φέρνει πρώτο μεταξύ των U23 της Super League. Τι δείχνουν τα στοιχεία.",
 "also": [],
 "id": "972589cd9e48"
-},
-{
-"title": "Άρης: Με το σερί του «μετριέται» με τον Ολυμπιακό",
-"url": "https://www.metrosport.gr/aris-me-to-seri-toy-metrietai-me-ton-olympiako-1333444",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-13T20:36+00:00",
-"sport": "general",
-"snippet": "Μετά την ήττα της πρεμιέρας από την Καρδίτσα, ο Άρης έχει σημειώσει ένα νικηφόρο σερί σε 5 αγώνες, υπέταξε τον Παναθηναϊκό στο Nick Galis Hall και ...",
-"also": [],
-"id": "26d06cc0effd"
-},
-{
-"title": "Ολυμπιακός, μεταγραφές: Επαφές με τον Μπουνταουί της Νις – Πόσο κοστολογείται",
-"url": "https://sportday.gr/podosfairo/365185_olympiakos-metagrafes-epafes-me-ton-mpountaoui-tis-nis-poso-kostologeitai.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-13T19:33+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός εξετάζει την περίπτωση του Χισάμ Μπουνταουί της Νις σύμφωνα με γαλλικό μέσο.",
-"also": [],
-"id": "deb1bf21ffc8"
 }
 ]
 }
