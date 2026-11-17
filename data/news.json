@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T14:28:45+00:00",
+"generated_at": "2026-11-17T14:43:51+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με Τζόουνς και Ντάνστον η δωδεκάδα κόντρα στη Μακάμπι",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587291/olympiakos-me-tzooyns-kai-ntanston-i-dodekada-kontra-sti-makampi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T14:41+00:00",
+"sport": "basket",
+"snippet": "Γνωστή έγινε η δωδεκάδα του Ολυμπιακού για το παιχνίδι κόντρα στη Μακάμπι Τελ Αβίβ.",
+"also": [],
+"id": "e3efcb910db8"
+},
+{
+"title": "Ολυμπιακός: Τα τελευταία τεστ του Έσε και οι δύο λύσεις του Ιμανόλ για τον Ηρακλή",
+"url": "https://www.sdna.gr/podosfairo/1487634_olympiakos-ta-teleytaia-test-toy-ese-kai-oi-dyo-lyseis-toy-imanol-gia-ton-irakli",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T14:38+00:00",
+"sport": "football",
+"snippet": "Η αισιοδοξία για την πρόωρη επιστροφή του Σαντιάγκο Έσε φαίνεται πως υποχωρεί μετά τα τελευταία τεστ, με τον Ιμανόλ Αλγκουαθίλ να εξετάζει δύο...",
+"also": [],
+"id": "ce95ceaf5232"
+},
 {
 "title": "Ολυμπιακός: Πρόγραμμα «βουνό» με τέσσερα ματς στο Καραϊσκάκη – Το μήνυμα Ιμανόλ",
 "url": "https://www.sdna.gr/podosfairo/1487613_olympiakos-programma-boyno-me-tessera-mats-sto-karaiskaki-minyma-imanol",
@@ -4986,30 +5010,6 @@
 "snippet": "Ο Ολυμπιακός εξετάζει την περίπτωση του Χισάμ Μπουνταουί της Νις σύμφωνα με γαλλικό μέσο.",
 "also": [],
 "id": "deb1bf21ffc8"
-},
-{
-"title": "Ψήνεται τριπλό trade: Ντόρσεϊ στην Αρμάνι, Γκούντουριτς στον Ερυθρό Αστέρα και Μπάτλερ στον Ολυμπιακό",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15229265/psinetai-triplo-trade-ntorsei-stin-armani-gkountourits-ston-erythro-astera-kai-mpatler-ston-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-13T19:27+00:00",
-"sport": "basket",
-"snippet": "Συγκεκριμένα, όπως αποκάλυψε ο Νικήτας Αυγουλής στην εκπομπή των καναλιών Novasports, «Playmakers», τρεις ομάδες της κορυφαίας διασυλλογικής διοργάνωσης…",
-"also": [],
-"id": "b25ab3322c86"
-},
-{
-"title": "Ολυμπιακός: Επαφές για τον Χισάμ Μπουνταουί",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-epafes-gia-ton-chisam-bountaoui?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T19:09+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξετάζει τον Χισάμ Μπουνταουί της Νις. Οι επαφές με τους εκπροσώπους του Αλγερινού μέσου και η απαίτηση των 5 εκατομμυρίων ευρώ.",
-"also": [],
-"id": "72b36938fa04"
 }
 ]
 }
