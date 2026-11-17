@@ -1,20 +1,16 @@
 {
- "checked_at": "2026-11-17T19:31:59+00:00",
+ "checked_at": "2026-11-17T19:47:07+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
    "feeds": [
     "https://www.olympiacos.org/feed"
    ],
-   "items": 21,
-   "errors": [],
-   "diag": [
-    {
-     "feed": "https://www.olympiacos.org/feed",
-     "raw": 21,
-     "newest": "2026-11-17T15:34"
-    }
-   ]
+   "items": 0,
+   "errors": [
+    "https://www.olympiacos.org/feed: The read operation timed out"
+   ],
+   "diag": []
   },
   "sdna": {
    "name": "SDNA",
@@ -27,7 +23,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-17T19:30"
+     "newest": "2026-11-17T19:40"
     }
    ]
   },
@@ -36,13 +32,13 @@
    "feeds": [
     "https://www.gazzetta.gr/rss"
    ],
-   "items": 12,
+   "items": 15,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-17T19:28"
+     "newest": "2026-11-17T19:46"
     }
    ]
   },
@@ -79,7 +75,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
      "raw": 20,
-     "newest": "2026-11-17T19:15"
+     "newest": "2026-11-17T19:45"
     },
     {
      "feed": "https://www.sport-fm.gr/list/3.feed",
@@ -93,13 +89,13 @@
    "feeds": [
     "https://www.sportday.gr/feed"
    ],
-   "items": 6,
+   "items": 7,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.sportday.gr/feed",
      "raw": 16,
-     "newest": "2026-11-17T19:18"
+     "newest": "2026-11-17T19:42"
     }
    ]
   },
@@ -130,18 +126,18 @@
     "https://www.metrosport.gr/feed",
     "https://www.metrosport.gr/feed/atom"
    ],
-   "items": 3,
+   "items": 4,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-17T19:20"
+     "newest": "2026-11-17T19:42"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-17T19:20"
+     "newest": "2026-11-17T19:42"
     }
    ]
   },
@@ -156,7 +152,7 @@
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-17T19:17"
+     "newest": "2026-11-17T19:46"
     }
    ]
   },
@@ -171,7 +167,7 @@
     {
      "feed": "https://www.eurohoops.net/el/feed/",
      "raw": 20,
-     "newest": "2026-11-17T19:29"
+     "newest": "2026-11-17T19:34"
     }
    ]
   }
