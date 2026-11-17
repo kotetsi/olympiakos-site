@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T05:08:15+00:00",
+"generated_at": "2026-11-17T05:23:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (17/11): Πού θα δούμε το Μακάμπι-Ολυμπιακός και το Βίρτους-Παναθηναϊκός",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1487513_oi-athlitikes-metadoseis-tis-imeras-17/11-poy-tha-doyme",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T05:14+00:00",
+"sport": "general",
+"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
+"also": [],
+"id": "57c53020288a"
+},
 {
 "title": "Ολυμπιακός: Η απάντηση του Πιρόλα στις φήμες περί μεταγραφής του!",
 "url": "https://www.gazzetta.gr/football/superleague/2587106/olympiakos-i-apantisi-toy-pirola-stis-fimes-peri-metagrafis-toy",
@@ -5043,18 +5055,6 @@
 "snippet": "Ο Τάιλερ Ντόρσεϊ επανέρχεται στις προπονήσεις του Ολυμπιακού και η ανάρτησή του μιλάει για αφοσίωση.",
 "also": [],
 "id": "96d583b7fccc"
-},
-{
-"title": "Stoiximan GBL: Ποιοι θα σφυρίξουν το ντέρμπι Άρης-Ολυμπιακός",
-"url": "https://www.metrosport.gr/stoiximan-gbl-poioi-tha-sfyrixoyn-to-ntermpi-aris-olympiakos-1333415",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-13T09:55+00:00",
-"sport": "basket",
-"snippet": "Η Stoiximan GBL συνεχίζεται αυτό το σαββατοκύριακο με τα παιχνίδια της 7ης αγωνιστικής και από αυτά ασφαλώς ξεχωρίζει το ντέρμπι του Άρη με τον ...",
-"also": [],
-"id": "fe080a792ea0"
 }
 ]
 }
