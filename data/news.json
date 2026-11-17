@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T18:01:07+00:00",
+"generated_at": "2026-11-17T18:16:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αρμάνι Μιλάνο - Ερυθρός Αστέρας: Εκτός και ο Τζάρεντ Μπάλτερ για τους «ερυθρόλευκους»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587359/armani-milano-erythros-asteras-ektos-kai-o-tzarent-mpalter-gia-toys",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T18:08+00:00",
+"sport": "basket",
+"snippet": "Με ακόμα μία σημαντική απουσία θα παραταχθεί η Ερυθρός Αστέρας απέναντι στην Αρμάνι Μιλάνο, καθώς ο Τζάρεντ Μπάτλερ τέθηκε εκτός της αναμέτρησης.",
+"also": [],
+"id": "75f3f00a67b7"
+},
 {
 "title": "Μακάμπι - Ολυμπιακός: Ασταμάτητος στο πρώτο ημίχρονο ο Βεζένκοβ",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587356/makampi-olympiakos-astamatitos-sto-proto-imihrono-o-bezenkob",
@@ -5037,18 +5049,6 @@
 "snippet": "Ο Ολυμπιακός έχει ταλαιπωρηθεί από αρκετούς τραυματισμούς τη φετινή σεζόν και καλείται να διαχειριστεί τη νέα απουσία του Νίκολα Μιλουτίνοφ.",
 "also": [],
 "id": "04de0eaaba0c"
-},
-{
-"title": "Πλήγμα για Ολυμπιακό πριν τον Άρη: Χωρίς Μιλουτίνοβ στη Θεσσαλονίκη",
-"url": "https://www.metrosport.gr/pligma-gia-olympiako-prin-ton-ari-choris-miloytinov-sti-thessaloniki-1333562",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-14T13:35+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός, μετά την κυριαρχική εμφάνιση κόντρα στην Dubai BC, στρέφει την προσοχή του στη μεγάλη αναμέτρηση με τον Άρη (15/11, 17:30) στο...",
-"also": [],
-"id": "0bab2b05b81a"
 }
 ]
 }
