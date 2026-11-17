@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-17T06:38:56+00:00",
+"generated_at": "2026-11-17T06:54:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Euroleague: Πού θα δείτε τα ματς του Παναθηναϊκού και του Ολυμπιακού",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587142/euroleague-poy-tha-deite-ta-mats-toy-panathinaikoy-kai-toy-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T06:48+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός κοντράρεται με τη Μακάμπι στην Κύπρο και ο Παναθηναϊκός με τη Βίρτους στη Μπολόνια. Που θα δείτε τα ματς.",
+"also": [],
+"id": "3d67255a7ef7"
+},
+{
+"title": "Ολυμπιακός: “Πληγωμένος” στην Κύπρο για να αντιμετωπίσει τη Μακάμπι",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2036236/olimpiakos-pligomenos-stin-kipro-gia-na-antimetopisi-ti-makampi/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-17T06:48+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός βρίσκεται στη Λεμεσό όπου θα αντιμετωπίσει τη Μακάμπι απόψε στις 19:00 (17/11, Novasports Prime). The post Ολυμπιακός: “Πληγωμένος” στην Κύπρο για…",
+"also": [],
+"id": "9118130db8af"
+},
+{
+"title": "Μπαρτσελόνα: Έκλεισε Χέιζ που… έπαιξε και για Ολυμπιακό!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15235148/mpartselona-ekleise-xeiz-pou-epaikse-kai-gia-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-17T06:41+00:00",
+"sport": "basket",
+"snippet": "Η Μπαρτσελόνα κινήθηκε για την απόκτηση του Κίλιαν Χέιζ, καταφέρνοντας να εξασφαλίσει τη συμφωνία με τον 24χρονο γκαρντ, ο οποίος αναμένεται να αποτελέσει μία…",
+"also": [],
+"id": "50a360e0c5e8"
+},
 {
 "title": "Ολυμπιακός: Αποφασίζει ο Αλγκουαθίλ για τις πιθανές αναβολές",
 "url": "https://www.sdna.gr/podosfairo/1487518_olympiakos-apofasizei-o-algkoyathil-gia-tis-pithanes-anaboles",
@@ -5019,42 +5055,6 @@
 "snippet": "Ο Ολυμπιακός αναζητά γκαρντ από την Αμερική, αλλά ο Μπαρτζώκας χρειάζεται δημιουργία και όχι απλώς έναν ακόμη σκόρερ. Το εμπόδιο με τον Τζόουνς-Γκαρσία.",
 "also": [],
 "id": "e797b7c97e3d"
-},
-{
-"title": "Νικολακόπουλος: «Ήρθε ο Μονκάδα, άρχισαν οι μεταγραφικές συσκέψεις στον Ολυμπιακό»",
-"url": "http://www.sport-fm.gr/article/5160781",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-13T11:45+00:00",
-"sport": "football",
-"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο.",
-"also": [],
-"id": "b3aa6df597ae"
-},
-{
-"title": "Ολυμπιακός: Ο Ντόρσεϊ γύρισε, αλλά ο Άρης δεν είναι ματς για χαρισμένα λεπτά",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-ntorsei-girise-alla-o-aris-den-ine-mats-gia-charismena-lepta?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T11:19+00:00",
-"sport": "general",
-"snippet": "Ο Ντόρσεϊ γύρισε στον Ολυμπιακό, όμως ο Άρης δεν προσφέρεται για χαρισμένα λεπτά. Ο Μπαρτζώκας χρειάζεται ουσία στην άμυνα και καθαρό ρόλο στην επίθεση.",
-"also": [],
-"id": "ef05bd3eacbf"
-},
-{
-"title": "Ολυμπιακός: Ο Μπαρτζώκας αφήνει έξω τον Ντάνστον και ζητά πλέι μέικερ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-afini-exo-ton-ntanston-ke-zita-plei-meiker?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T10:28+00:00",
-"sport": "general",
-"snippet": "Ο Μπαρτζώκας παραδέχθηκε ότι αδικεί τον Ντάνστον, την ώρα που αναζητά πλέι μέικερ. Η νίκη επί της Ντουμπάι και η παράξενη κατάσταση στο ρόστερ του Ολυμπιακού.",
-"also": [],
-"id": "abf385010d61"
 }
 ]
 }
