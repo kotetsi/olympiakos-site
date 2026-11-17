@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T12:12:22+00:00",
+"generated_at": "2026-11-17T12:27:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Ντόρσεϊ χάνει το ματς που του ταίριαζε για επιστροφή",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-ntorsei-chani-to-mats-pou-tou-teriaze-gia-epistrofi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-17T12:10+00:00",
+"sport": "basket",
+"snippet": "Ο Ντόρσεϊ μένει εκτός με τη Μακάμπι, την πρώτη του ομάδα στη EuroLeague. Γιατί η Ρεάλ δυσκολεύει την επιστροφή του και τι πραγματικά χρειάζεται ο Ολυμπιακός.",
+"also": [],
+"id": "de586a4ae47d"
+},
 {
 "title": "Κωνσταντίνος Κωστούλας: Από τον Ολυμπιακό και την Πορτογαλία, στον ΟΦΗ και το «χρυσό» γκολ των Ελπίδων!",
 "url": "https://www.sdna.gr/podosfairo/1487588_konstantinos-kostoylas-apo-ton-olympiako-kai-tin-portogalia-ston-ofi-kai-hryso",
@@ -4998,18 +5010,6 @@
 "snippet": "",
 "also": [],
 "id": "099dde435af6"
-},
-{
-"title": "Ιμανόλ: Το μήνυμα στους παίκτες του Ολυμπιακού πριν από το ρεπό",
-"url": "https://www.sdna.gr/podosfairo/1486374_imanol-minyma-stoys-paiktes-toy-olympiakoy-prin-apo-repo",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T17:31+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ ζήτησε από τους ποδοσφαιριστές του να επιστρέψουν ξεκούραστοι και απόλυτα συγκεντρωμένοι, με στόχο να δημιουργήσουν ένα νέο σερί...",
-"also": [],
-"id": "ce350f30aa59"
 }
 ]
 }
