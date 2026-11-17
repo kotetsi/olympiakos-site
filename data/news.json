@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-17T17:45:47+00:00",
+"generated_at": "2026-11-17T18:01:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μακάμπι - Ολυμπιακός: Ασταμάτητος στο πρώτο ημίχρονο ο Βεζένκοβ",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587356/makampi-olympiakos-astamatitos-sto-proto-imihrono-o-bezenkob",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T17:58+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοβ ήταν ο μεγάλος πρωταγωνιστής του πρώτου ημιχρόνου στην αναμέτρηση του Ολυμπιακού με τη Μακάμπι Τελ Αβίβ.",
+"also": [],
+"id": "d27129d3714b"
+},
+{
+"title": "Μακάμπι Τελ Αβίβ - Ολυμπιακός: Το «ευχαριστώ» στον Νίκο Χριστοδουλίδη πριν το τζάμπολ",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587354/makampi-tel-abib-olympiakos-eyharisto-ston-niko-hristodoylidi-prin",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T17:55+00:00",
+"sport": "basket",
+"snippet": "Ο Σιμόν Μιζράχι τίμησε τον Νίκο Χριστοδουλίδη πριν από το τζάμπολ της αναμέτρησης της Μακάμπι με τον Ολυμπιακό, ευχαριστώντας τον για τη φιλοξενία.",
+"also": [],
+"id": "8615b7872c46"
+},
+{
+"title": "Ολυμπιακός: Κρατούν “ζεστό” το θέμα Βάργκας – Η τιμή που βάζει η Σεβίλλη",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15235932/olympiakos-kratoun-zesto-to-thema-vargkas-i-timi-pou-vazei-i-sevilli/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-17T17:50+00:00",
+"sport": "football",
+"snippet": "Ο Ρούμπεν Βάργκας διατηρείται ψηλά στη μεταγραφική κουβέντα σχετικά με τον Ολυμπιακό ενόψει Ιανουαρίου, καθώς το όνομα του 28χρονου διεθνούς Ελβετού να…",
+"also": [],
+"id": "6b0093939db1"
+},
 {
 "title": "Ολυμπιακός: Αναγκαστική αλλαγή του Μπρούνο στο Τανζανία – Νιγηρία",
 "url": "https://sportday.gr/podosfairo/365643_olympiakos-anagkastiki-allagi-tou-mprouno-sto-tanzania-nigiria.html",
@@ -5013,42 +5049,6 @@
 "snippet": "Ο Ολυμπιακός, μετά την κυριαρχική εμφάνιση κόντρα στην Dubai BC, στρέφει την προσοχή του στη μεγάλη αναμέτρηση με τον Άρη (15/11, 17:30) στο...",
 "also": [],
 "id": "0bab2b05b81a"
-},
-{
-"title": "Ολυμπιακός: Νέο πλήγμα με Μιλουτίνοφ – Ποια ματς χάνει",
-"url": "https://sportday.gr/basket/365282_olympiakos-neo-pligma-me-miloutinof-poia-mats-chanei.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-14T13:31+00:00",
-"sport": "basket",
-"snippet": "Πρόβλημα τραυματισμού για τον Σέρβο σέντερ",
-"also": [],
-"id": "a28951c7c748"
-},
-{
-"title": "Ολυμπιακός: Τζόουνς αντί Μοντέρο στους ξένους για τη GBL",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586467/olympiakos-tzooyns-anti-montero-stoys-xenoys-gia-ti-gbl",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-14T13:25+00:00",
-"sport": "basket",
-"snippet": "Ο Ταϊρίκ Τζόουνς πήρε τη θέση του Γιαν Μοντέρο στην οκτάδα των ξένων του Ολυμπιακού για τους αγώνες της GBL.",
-"also": [],
-"id": "a913c24ae9de"
-},
-{
-"title": "Ολυμπιακός: Πλήγμα με τον Μιλουτίνοφ",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15230587/olympiakos-pligma-me-ton-miloutinof/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-14T13:19+00:00",
-"sport": "basket",
-"snippet": "Ο Σέρβος κόουτς έχει υποστεί κάταγμα ονυχοφόρου φάλαγγας δείκτου δεξιάς άκρας χειρός. Τις επόμενες ημέρες θα φανεί πότε θα τεθεί και πάλι ο Μιλουτίνοφ στη…",
-"also": [],
-"id": "f3b5037f4b26"
 }
 ]
 }
