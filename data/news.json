@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T16:30:04+00:00",
+"generated_at": "2026-11-17T16:45:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Έπαιξε στον Ολυμπιακό 426 λεπτά και θα φέρει σε έναν χρόνο 25 εκατομμύρια ευρώ!",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487674_epaixe-ston-olympiako-426-lepta-kai-tha-ferei-se-enan-hrono-25",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T16:35+00:00",
+"sport": "football",
+"snippet": "Μπορεί στο Λιμάνι να μην είδαν πολλά από το πλούσιο ταλέντο του, όμως είναι ένας εξαιρετικός ποδοσφαιριστής με μεγάλες μεταγραφές.",
+"also": [],
+"id": "e844ef7216f3"
+},
+{
+"title": "Live: Μακάμπι Τελ Αβίβ - Ολυμπιακός (Euroleague 2026-27)",
+"url": "https://www.sdna.gr/mpasket/1487624_live-makampi-tel-abib-olympiakos-euroleague-2026-27",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T16:30+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "a5a1d1c52a67"
+},
 {
 "title": "Αγγέλου: «Ο Σπανούλης είναι θρύλος, εργασιομανής και ηγέτης»",
 "url": "https://www.metrosport.gr/aggeloy-o-spanoylis-einai-thrylos-ergasiomanis-kai-igetis-1333901",
@@ -254,7 +278,15 @@
 "published": "2026-11-17T13:10+00:00",
 "sport": "basket",
 "snippet": "Ο Ολυμπιακός είχε πρωταγωνιστικό ρόλο στην αρνητική στάση που διαμόρφωσαν ορισμένες ομάδες της EuroLeague απέναντι στην αρχική πρόταση του NBA για το NBA…",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5161693",
+"title": "Athletic: «Ο Ολυμπιακός πρωτοστάτησε στην απόρριψη της πρότασης του NBA Europe στην Ευρωλίγκα»",
+"published": "2026-11-17T16:36+00:00"
+}
+],
 "id": "f8867198dca9"
 },
 {
@@ -5009,30 +5041,6 @@
 "snippet": "Ο Ολυμπιακός παρουσιάζει τη μεγαλύτερη βελτίωση στο Net Rating της EuroLeague με άνοδο 5,9 μονάδων και συνολική επίδοση +11,3 στους τελευταίους οκτώ αγώνες.",
 "also": [],
 "id": "24081cbff77c"
-},
-{
-"title": "Για το «2Χ2» Ολυμπιακός και Βουλιαγμένη, για την πρώτη νίκη ο Εθνικός",
-"url": "https://www.sdna.gr/polo/1486569_gia-2h2-olympiakos-kai-boyliagmeni-gia-tin-proti-niki-o-ethnikos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-14T08:54+00:00",
-"sport": "polo",
-"snippet": "Με τις αναμετρήσεις της 2ης αγωνιστικής των ομίλων, συνεχίζεται σήμερα (14/11) το Champions League υδατοσφαίρισης γυναικών.",
-"also": [],
-"id": "02f35d0eece7"
-},
-{
-"title": "Ολυμπιακός: Στην Ιταλία για το «2 στα 2» στο Champions League γυναικών",
-"url": "https://sportday.gr/sports/polo/365258_olympiakos-stin-italia-gia-to-2-sta-2-sto-champions-league-gynaikon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-14T08:08+00:00",
-"sport": "polo",
-"snippet": "Η ομάδα του Γιώργου Ντόσκα θα αγωνιστεί το Σάββατο (14/11, 18:00) στην έδρα της ιταλικής ομάδας, στο πλαίσιο της δεύτερης αγωνιστικής της κορυφαίας ευρωπαϊκής…",
-"also": [],
-"id": "57b43b4ba635"
 }
 ]
 }
