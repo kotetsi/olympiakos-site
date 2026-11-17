@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-17T11:11:50+00:00",
+"generated_at": "2026-11-17T11:26:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μπαρτζώκας: Οι απουσίες δεν είναι άλλοθι για τον Ολυμπιακό",
+"url": "https://sportime.gr/olimpiakos/bartzokas-i-apousies-den-ine-allothi-gia-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-17T11:14+00:00",
+"sport": "general",
+"snippet": "Ο Μπαρτζώκας δεν μπορεί να κρύβει τη βιασύνη του Ολυμπιακού πίσω από τις απουσίες. Ο Άρης έδειξε το πρόβλημα και η Μακάμπι θα το χτυπήσει ξανά.",
+"also": [],
+"id": "2d8e697823b8"
+},
+{
+"title": "Σπανούλης: “Τέλειωσαν τα ματς με Ολυμπιακό & Παναθηναϊκό, το μόνο που σκέφτομαι είναι η Λε Μαν”",
+"url": "https://www.eurohoops.net/el/eurocup-el/2036329/spanoulis-teliosan-ta-mats-me-olimpiako-panathinaiko-to-mono-pou-skeftome-ine-i-le-man/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-17T11:14+00:00",
+"sport": "basket",
+"snippet": "Ο Βασίλης Σπανούλης έκανε δηλώσεις ενόψει του αυριανού αγώνα του Άρη (18/11, 20:00) κόντρα στη Λε Μαν στο Παλέ. The post Σπανούλης: “Τέλειωσαν τα ματς με…",
+"also": [],
+"id": "1d137ebf1f33"
+},
+{
+"title": "Σπανούλης: «Τελείωσαν τα παιχνίδια με Ολυμπιακό και Παναθηναϊκό, να είμαστε έτοιμοι με τη Λε Μαν»",
+"url": "https://www.ertsports.gr/omades/aris/spanoulis-teleiosan-ta-paixnidia-me-olympiako-kai-panathinaiko-na-eimaste-etoimoi-me-ti-le-man/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-17T11:12+00:00",
+"sport": "basket",
+"snippet": "Ο Βασίλης Σπανούλης έχει ήδη ξεχάσει τις μεγάλες νίκες που έχει πετύχει ο Άρης και σκέφτεται αποκλειστικά την αυριανή (18/11, 20:00, ΕΡΑ ΣΠΟΡ) αναμέτρηση με τη…",
+"also": [],
+"id": "e20ee493bc47"
+},
 {
 "title": "Σπανούλης: «Έχουν τελειώσει οι αγώνες με Παναθηναϊκό και Ολυμπιακό»",
 "url": "https://www.gazzetta.gr/basketball/eurocup/2587237/spanoylis-ehoyn-teleiosei-oi-agones-me-panathinaiko-kai-olympiako",
@@ -13,6 +49,18 @@
 "snippet": "Ο Βασίλης Σπανούλης επικεντρώνεται στον αυριανό (18/11, 20:00) με τη Λε Μαν στο Nick Galis Hall και αναφέρθηκε στα στοιχεία που θέλει να βελτιώσει η ομάδα του.",
 "also": [],
 "id": "8d2e42544ece"
+},
+{
+"title": "Μίλαν: Μειώνονται τα προβλήματα για Ολυμπιακό, σίγουρα εκτός ο Λόφτους-Τσικ",
+"url": "http://www.sport-fm.gr/article/5161637",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-17T11:07+00:00",
+"sport": "general",
+"snippet": "Το ιατρικό δελτίο της Μίλαν αρχίζει να αδειάζει ενόψει Φροζινόνε και Ολυμπιακού.",
+"also": [],
+"id": "2d1315ddcc84"
 },
 {
 "title": "Ολυμπιακός: Εκτός έδρας… πολυβόλο στη EuroLeague!",
@@ -4962,77 +5010,6 @@
 "snippet": "Νέα δεδομένα για τον Γιοακίμ Μέλε και τον Ολυμπιακό. Η επιθυμία του Δανού να μετακομίσει στον Πειραιά και το οικονομικό σκέλος της υπόθεσης.",
 "also": [],
 "id": "4740766fc2ae"
-},
-{
-"title": "Ολυμπιακός: Κυκλοφορούν τη Δευτέρα τα εισιτήρια με Μίλαν!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15228882/olympiakos-kykloforoun-ti-deytera-ta-eisitiria-me-milan/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-13T16:19+00:00",
-"sport": "football",
-"snippet": "Κυκλοφορούν τα εισιτήρια του Ολυμπιακού με τη Μίλαν τη Δευτέρα 16 Νοεμβρίου στις 16:00 για την 5η Αγωνιστική της League Phase του Europa League. Το παιχνίδι…",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5160837",
-"title": "Από Δευτέρα μεσημέρι τα εισιτήρια για το Ολυμπιακός-Μίλαν!",
-"published": "2026-11-13T16:20+00:00"
-},
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/podosfairo/1486358_olympiakos-milan-ti-deytera-kykloforoyn-ta-eisitiria-oi-times-kai-oi",
-"title": "Ολυμπιακός – Μίλαν: Τη Δευτέρα κυκλοφορούν τα εισιτήρια – Οι τιμές και οι προϋποθέσεις",
-"published": "2026-11-13T16:23+00:00"
-}
-],
-"id": "b64e3ece05d6"
-},
-{
-"title": "Ολυμπιακός: Επανέρχεται στο προσκήνιο ο Μπουνταουί",
-"url": "https://www.sdna.gr/podosfairo/1486355_olympiakos-epanerhetai-sto-proskinio-o-mpoyntaoyi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T16:16+00:00",
-"sport": "football",
-"snippet": "Το γαλλικό Sport.fr επαναφέρει στο μεταγραφικό προσκήνιο του Ολυμπιακού τον Χισάμ Μπουνταουί, μια περίπτωση που είχε απασχολήσει τους «ερυθρόλευκους»...",
-"also": [],
-"id": "cd05bb63869e"
-},
-{
-"title": "«Επαφή του Ολυμπιακού με Μπουνταουί - Τόσα ζητάει η Νις»",
-"url": "http://www.sport-fm.gr/article/5160836",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-13T16:12+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός προσέγγισε το περιβάλλον του Χιτσάμ Μπουνταουί της Νις, σύμφωνα με γαλλικό Μέσο.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/ligue-1/article/15228890/epafi-olympiakou-me-mpountaoui-to-poso-pou-zitaei-i-nis/",
-"title": "«Επαφή Ολυμπιακού με Μπουνταουί – Το ποσό που ζητάει η Νις»",
-"published": "2026-11-13T16:39+00:00"
-}
-],
-"id": "6b2f7d7c12a3"
-},
-{
-"title": "Ντόρσεϊ: Ο λόγος που η τιμωρία του τελείωσε δύο μέρες νωρίτερα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586216/tailer",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-13T16:06+00:00",
-"sport": "basket",
-"snippet": "Οι «ερυθρόλευκοι» απέδειξαν ότι συνεχίζουν να υπολογίζουν στον Ντόρσεϊ και θέλουν να τον εντάξουν ξανά στην αγωνιστική λειτουργία τους, κάτι που φάνηκε από…",
-"also": [],
-"id": "a94d215e0ae0"
 }
 ]
 }
