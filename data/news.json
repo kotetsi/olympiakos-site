@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T23:34:14+00:00",
+"generated_at": "2026-11-17T23:49:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Συναγερμός με Ταϊρίκ Τζόουνς στον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1487771_synagermos-me-tairik-tzooyns-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T23:32+00:00",
+"sport": "basket",
+"snippet": "Πρόβλημα με τον Ταϊρίκ Τζόουνς έχει προκύψει στον Ολυμπιακό, αφού ο Αμερικανός σέντερ αισθάνθηκε ενοχλήσεις στο γόνατο στην αναμέτρηση με την Μακάμπι...",
+"also": [],
+"id": "e05052714086"
+},
 {
 "title": "Βεζένκοφ: «Έχουμε πολλά να βελτιώσουμε, μην κρύψουμε τα προβλήματα κάτω από το χαλί»",
 "url": "https://www.sdna.gr/mpasket/1487768_bezenkof-ehoyme-polla-na-beltiosoyme-min-krypsoyme-ta-problimata-kato-apo-hali",
@@ -5006,26 +5018,6 @@
 "snippet": "Ο Άρης υποδέχεται σήμερα τον Ολυμπιακό (15/11, 17:30, ΣΚΑΪ, Metropolis 95.5) στο κατάμεστο και πάλι Παλέ στο μεγάλο...",
 "also": [],
 "id": "fb26cec722c1"
-},
-{
-"title": "Άρης - Ολυμπιακός: Η ώρα και το κανάλι της αναμέτρησης",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586634/aris-olympiakos-i-ora-kai-kanali-tis-anametrisis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T06:12+00:00",
-"sport": "basket",
-"snippet": "Δείτε την ώρα και το κανάλι της αναμέτρησης του Άρη κόντρα στον Ολυμπιακό, για την 7η αγωνιστική της GBL.",
-"also": [
-{
-"source": "sportime",
-"source_name": "Sportime",
-"url": "https://sportime.gr/basket/aris-olimpiakos-ora-ke-kanali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"title": "Άρης - Ολυμπιακός: Ώρα και κανάλι",
-"published": "2026-11-15T13:14+00:00"
-}
-],
-"id": "501cd76c8b60"
 }
 ]
 }
