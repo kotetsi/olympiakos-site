@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T10:56:43+00:00",
+"generated_at": "2026-11-17T11:11:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Σπανούλης: «Έχουν τελειώσει οι αγώνες με Παναθηναϊκό και Ολυμπιακό»",
+"url": "https://www.gazzetta.gr/basketball/eurocup/2587237/spanoylis-ehoyn-teleiosei-oi-agones-me-panathinaiko-kai-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T11:10+00:00",
+"sport": "basket",
+"snippet": "Ο Βασίλης Σπανούλης επικεντρώνεται στον αυριανό (18/11, 20:00) με τη Λε Μαν στο Nick Galis Hall και αναφέρθηκε στα στοιχεία που θέλει να βελτιώσει η ομάδα του.",
+"also": [],
+"id": "8d2e42544ece"
+},
+{
+"title": "Ολυμπιακός: Εκτός έδρας… πολυβόλο στη EuroLeague!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15235402/olympiakos-ektos-edras-polyvolo-sti-euroleague/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-17T11:02+00:00",
+"sport": "basket",
+"snippet": "Έτοιμος για τη 12η αγωνιστική της EuroLeague απέναντι στη Μακάμπι στην Κύπρο είναι ο Ολυμπιακός (17/11, 19:00 Novasports). Μακάμπι Τελ Αβίβ – Ολυμπιακός…",
+"also": [],
+"id": "45d8f4063b02"
+},
 {
 "title": "Ολυμπιακός: Ο κομβικός ρόλος του Νταβίντ Φουστέρ",
 "url": "https://sportday.gr/podosfairo/365587_olympiakos-o-komvikos-rolos-tou-ntavint-fouster.html",
@@ -5009,30 +5033,6 @@
 "snippet": "Οι «ερυθρόλευκοι» απέδειξαν ότι συνεχίζουν να υπολογίζουν στον Ντόρσεϊ και θέλουν να τον εντάξουν ξανά στην αγωνιστική λειτουργία τους, κάτι που φάνηκε από…",
 "also": [],
 "id": "a94d215e0ae0"
-},
-{
-"title": "Αντρέ Λουίς: Γιατί η Ρίο Άβε επέλεξε τον Ολυμπιακό αντί της Μπενφίκα",
-"url": "https://www.sdna.gr/podosfairo/1486351_antre-loyis-giati-i-rio-abe-epelexe-ton-olympiako-anti-tis-mpenfika",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-13T16:01+00:00",
-"sport": "football",
-"snippet": "Η πρόεδρος της Ρίο Άβε, Αλεξαντρίνα Κρουζ, εξήγησε το παρασκήνιο της μεταγραφής του Αντρέ Λουίς στον Ολυμπιακό, απαντώντας στην κριτική για τις...",
-"also": [],
-"id": "0220eccb1fc0"
-},
-{
-"title": "Τα εισιτήρια του αγώνα Ολυμπιακός – AC Milan",
-"url": "https://www.olympiacos.org/2026/11/13/ta-eisitiria-tou-agona-olympiakos-ac-milan/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-13T15:57+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός σχετικά με τα εισιτήρια του εντός έδρας αγώνα απέναντι στην AC Milan.",
-"also": [],
-"id": "f7194b3b762a"
 }
 ]
 }
