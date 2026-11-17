@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T17:15:34+00:00",
+"generated_at": "2026-11-17T17:30:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τραυματίστηκε ο Μπρούνο σε ματς της Εθνικής Νιγηρίας",
+"url": "https://www.gazzetta.gr/football/superleague/2587342/olympiakos-traymatistike-o-mproyno-se-mats-tis-ethnikis-nigirias",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T17:21+00:00",
+"sport": "football",
+"snippet": "Όπως μεταδίδουν τα ΜΜΕ στη Νιγηρία ο διεθνής αριστερός μπακ του Ολυμπιακού υπέστη τραυματισμό στο 2ο μέρος του αγώνα της Εθνικής της χώρας του.",
+"also": [],
+"id": "901be98f528c"
+},
 {
 "title": "Ολυμπιακός: Εκτός ο Έσε από το ματς με τον Ηρακλή",
 "url": "https://sportday.gr/podosfairo/365625_olympiakos-ektos-o-ese-apo-to-mats-me-ton-irakli.html",
@@ -5037,18 +5049,6 @@
 "snippet": "Ο Ολυμπιακός έχει τέσσερις παίκτες στην κορυφαία οκτάδα των U23 της Super League, αλλά ο Ζοέλ Ρόκα είναι εκείνος που έχει προσφέρει περισσότερα.",
 "also": [],
 "id": "de575e93eaaa"
-},
-{
-"title": "Παπαδογιάννης στο Gazz Floor by Novibet για το Άρης-Ολυμπιακός: «Προβλέπω ότι θα νικήσει ο Άρης»",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586455/papadogiannis-sto-gazz-floor-novibet-gia-aris-olympiakos-problepo",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-14T12:20+00:00",
-"sport": "basket",
-"snippet": "Ο Νίκος Παπαδογιάννης έκανε στην εκπομπή Gazz Floor by Novibet τη δική του πρόβλεψη σχετικά με την αναμέτρηση του Άρη με τον Ολυμπιακό στην Basket League.",
-"also": [],
-"id": "818809edae24"
 }
 ]
 }
