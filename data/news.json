@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T22:03:27+00:00",
+"generated_at": "2026-11-17T22:18:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βαθμολογία Ευρωλίγκας: Έπεσε στο 8-4 ο Παναθηναϊκός - Απέκτησε συγκάτοικο στην κορυφή ο Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5161750",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-17T22:10+00:00",
+"sport": "basket",
+"snippet": "Ο Παναθηναϊκός γνώρισε δεύτερη διαδοχική ήττα στη Euroleague και έπεσε στο 8-4, με τη Βίρτους να βάζει τέλος στο αρνητικό σερί των πέντε ηττών και να ανεβαίνει…",
+"also": [],
+"id": "98e31de42891"
+},
+{
+"title": "Βαθμολογία EuroLeague: Δεύτερη διαδοχική ήττα για τον Παναθηναϊκό - Ο Ολυμπιακός στην κορυφή μαζί με τη Βαλένθια",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587404/bathmologia-euroleague-o-olympiakos-stin-koryfi-meta-tin-matsara",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T22:08+00:00",
+"sport": "basket",
+"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της EuroLeague μετά τη ματσάρα του Ολυμπιακού στην Κύπρο απέναντι στην Μακάμπι Τελ Αβίβ που του έδωσε την πρωτιά, αλλά και…",
+"also": [],
+"id": "67fee56041ae"
+},
 {
 "title": "Ολυμπιακός: Το ποσό της αποδέσμευσης του Ντόρσεϊ",
 "url": "https://sportday.gr/basket/365610_olympiakos-to-poso-tis-apodesmefsis-tou-ntorsei.html",
@@ -397,18 +421,6 @@
 "snippet": "Ενα από το κέντρο του Βεζένκοφ, ένα από τη γωνία του Φουρνιέ κι ένα στην εκπνοή του Τζόζεφ άφησαν ξερή τη Μακάμπι χαρίζοντας στον Ολυμπιακό μια νίκη...",
 "also": [],
 "id": "31fb4caf7a10"
-},
-{
-"title": "Βαθμολογία EuroLeague: Ο Ολυμπιακός στην κορυφή μετά την ματσάρα κόντρα στην Μακάμπι",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587404/bathmologia-euroleague-o-olympiakos-stin-koryfi-meta-tin-matsara",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-17T19:18+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της EuroLeague μετά τη ματσάρα του Ολυμπιακού στην Κύπρο απέναντι στην Μακάμπι Τελ Αβίβ που του έδωσε την πρωτιά.",
-"also": [],
-"id": "67fee56041ae"
 },
 {
 "title": "Μακάμπι Τελ Αβίβ-Ολυμπιακός 95-97 (παρ., 82-82 (κ.δ.): ΕΠΙΚΗ νίκη βγαλμένη από μυθική, μπασκετική φαντασία",
@@ -5014,18 +5026,6 @@
 "snippet": "Ο Παναθηναϊκός νίκησε 3-2 τον Ολυμπιακό στο Μετς και έφτασε τις δέκα συνεχόμενες επικρατήσεις απέναντι στους «ερυθρόλευκους» στο βόλεϊ ανδρών.",
 "also": [],
 "id": "bc0d7818ba8c"
-},
-{
-"title": "Δύο χρόνια μόνο νίκες: Το εντυπωσιακό 10-0 του Παναθηναϊκού κόντρα στον Ολυμπιακό!",
-"url": "https://www.sdna.gr/bolei/1486765_dyo-hronia-mono-nikes-entyposiako-10-0-toy-panathinaikoy-kontra-ston-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-14T22:30+00:00",
-"sport": "volley",
-"snippet": "Ο Παναθηναϊκός έχει μετατρέψει σε κάτι συνηθισμένο τις νίκες απέναντι στον αιώνιο αντίπαλο Ολυμπιακό στο πρωτάθλημα της Volley League, με το ρεκόρ να...",
-"also": [],
-"id": "a04b5a59fd52"
 }
 ]
 }
