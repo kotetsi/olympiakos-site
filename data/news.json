@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T06:54:02+00:00",
+"generated_at": "2026-11-17T07:09:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Τικνιζιάν πρέπει να κάνει στον Πειραιά ό,τι έκανε στην Αρμενία",
+"url": "https://www.gazzetta.gr/football/superleague/2587046/olympiakos-o-tiknizian-prepei-na-kanei-ston-peiraia-oti-ekane-stin",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-17T07:00+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr την σχεδόν άριστη εικόνα που είχε για ακόμη μία φορά ο Ναγιάρ Τικνιζιάν στην Αρμενία και αυτή που…",
+"also": [],
+"id": "a8ecb8411551"
+},
+{
+"title": "Ευκαιρία πρόκρισης για Ολυμπιακό, τελευταίο «χαρτί» για Παναθηναϊκό",
+"url": "https://www.sdna.gr/polo/1487521_eykairia-prokrisis-gia-olympiako-teleytaio-harti-gia-panathinaiko",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-17T06:54+00:00",
+"sport": "polo",
+"snippet": "Την πρώτη ευκαιρία να “ σφραγίσει” πρόωρα το εισιτήριο για την οκτάδα του Champions League υδατοσφαίρισης ανδρών έχει την Τετάρτη (18/11, 19:30) ο...",
+"also": [],
+"id": "8c666732584b"
+},
 {
 "title": "Euroleague: Πού θα δείτε τα ματς του Παναθηναϊκού και του Ολυμπιακού",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587142/euroleague-poy-tha-deite-ta-mats-toy-panathinaikoy-kai-toy-olympiakoy",
@@ -5031,30 +5055,6 @@
 "snippet": "Την αντίδραση του Ντόρσεϊ προκάλεσε ποστ ερυθρόλευκης σελίδας που με λίγα λόγια τον καλεί να συνετιστεί γράφοντας πως «ο κόσμος του Ολυμπιακού ξέρει...",
 "also": [],
 "id": "c55efa46c6ce"
-},
-{
-"title": "Ολυμπιακός: Αν πουλήσει τον Έσε τον Ιανουάριο, ο νέος χαφ δεν θα μπορεί να παίξει αμέσως στην Ευρώπη",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-an-poulisi-ton-ese-ton-ianouario-o-neos-chaf-den-tha-bori-na-pexi-amesos-stin-evropi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T12:19+00:00",
-"sport": "football",
-"snippet": "Ο Έσε συνδέεται με μεταγραφικά σενάρια, όμως μια πώληση τον Ιανουάριο αφήνει τον Ολυμπιακό χωρίς δικαίωμα να δηλώσει νέο χαφ στα ματς της Ευρώπης.",
-"also": [],
-"id": "3541c8c038ba"
-},
-{
-"title": "Ολυμπιακός: Παίκτης από το NBA;",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-pektis-apo-to-nba?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T12:06+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός αναζητά γκαρντ από την Αμερική, αλλά ο Μπαρτζώκας χρειάζεται δημιουργία και όχι απλώς έναν ακόμη σκόρερ. Το εμπόδιο με τον Τζόουνς-Γκαρσία.",
-"also": [],
-"id": "e797b7c97e3d"
 }
 ]
 }
