@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-17T21:48:18+00:00",
+"generated_at": "2026-11-17T22:03:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το ποσό της αποδέσμευσης του Ντόρσεϊ",
+"url": "https://sportday.gr/basket/365610_olympiakos-to-poso-tis-apodesmefsis-tou-ntorsei.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-17T21:48+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αξιώνει 4.5 εκατ. ευρώ για πιθανή μεταγραφή του Τάιλερ Ντόρσεϊ, ενώ γίνεται λόγος για τριπλή ανταλλαγή παικτών στη Euroleague.",
+"also": [],
+"id": "2cd74fb83447"
+},
 {
 "title": "Ολυμπιακός: Ο Σάσα Βεζένκοφ πήρε 54% στη δημοσκόπηση",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-o-sasa-vezenkof-pire-54-sti-dimoskopisi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5014,18 +5026,6 @@
 "snippet": "Ο Παναθηναϊκός έχει μετατρέψει σε κάτι συνηθισμένο τις νίκες απέναντι στον αιώνιο αντίπαλο Ολυμπιακό στο πρωτάθλημα της Volley League, με το ρεκόρ να...",
 "also": [],
 "id": "a04b5a59fd52"
-},
-{
-"title": "Οι σημαντικότερες στιγμές του Παναθηναϊκός – Ολυμπιακός (video)",
-"url": "https://www.ertsports.gr/bolei/volley-league/oi-simantikoteres-stigmes-tou-panathinaikos-olympiakos-video-2/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-14T22:30+00:00",
-"sport": "volley",
-"snippet": "Στην καλύτερη αναμέτρηση της φετινής Volley League, ο Παναθηναϊκός επικράτησε με 3-2 σετ του Ολυμπιακού , στο άδειο λόγω τιμωρίας κλειστό του Μετς, με τον…",
-"also": [],
-"id": "c3952935065d"
 }
 ]
 }
