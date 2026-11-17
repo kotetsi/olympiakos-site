@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-17T10:26:29+00:00",
+"generated_at": "2026-11-17T10:41:35+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο κομβικός ρόλος του Νταβίντ Φουστέρ",
+"url": "https://sportday.gr/podosfairo/365587_olympiakos-o-komvikos-rolos-tou-ntavint-fouster.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-17T10:38+00:00",
+"sport": "football",
+"snippet": "Ο Νταβίντ Φουστέρ θα έχει συμβολή στη διαμόρφωση του ρόστερ και στις μεταγραφές του Ολυμπιακού",
+"also": [],
+"id": "ff95cb1d55ab"
+},
+{
+"title": "Ολυμπιακός: Το πρόβλημα του Ρέτσου δεν είναι η Ολλανδία – Είναι η Μίλαν χωρίς τον Έσε",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-to-provlima-tou-retsou-den-ine-i-ollandia-ine-i-milan-choris-ton-ese?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-17T10:21+00:00",
+"sport": "general",
+"snippet": "Ο Ρέτσος γυρίζει στον Ολυμπιακό μετά την ήττα από την Ολλανδία. Το μεγάλο ζήτημα είναι ο τραυματίας Έσε και η προστασία της άμυνας πριν από τη Μίλαν.",
+"also": [],
+"id": "c21baf5e290f"
+},
 {
 "title": "Ηρακλής: Ο Ραντόγια δεν είναι για πειράματα με τον Ολυμπιακό",
 "url": "https://sportime.gr/iraklis-fc/iraklis-o-rantogia-den-ine-gia-piramata-me-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5009,30 +5033,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός σχετικά με τα εισιτήρια του εντός έδρας αγώνα απέναντι στην AC Milan.",
 "also": [],
 "id": "f7194b3b762a"
-},
-{
-"title": "Ολυμπιακός: Στα κόκκινα οι παίκτες",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-sta-kokkina-i-pektes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T15:40+00:00",
-"sport": "football",
-"snippet": "Ανησυχία στον Ολυμπιακό για τη φυσική κατάσταση των ποδοσφαιριστών, καθώς οι μετρήσεις δείχνουν μεγάλη επιβάρυνση και αυξημένο κίνδυνο τραυματισμών.",
-"also": [],
-"id": "995b2a8370dc"
-},
-{
-"title": "Ολυμπιακός: Πότε επιστρέφει ο Τάιλερ Ντόρσεϊ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-parameni-ston-agonistiko-pago-o-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-13T15:10+00:00",
-"sport": "general",
-"snippet": "Ο Τάιλερ Ντόρσεϊ επέστρεψε στις προπονήσεις του Ολυμπιακού, αλλά θα χάσει Άρη και Μακάμπι Τελ Αβίβ. Τα δύο πιθανά παιχνίδια για την επάνοδό του.",
-"also": [],
-"id": "5a294ce9c86c"
 }
 ]
 }
