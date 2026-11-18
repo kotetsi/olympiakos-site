@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T12:11:03+00:00",
+"generated_at": "2026-11-18T12:26:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Ολυμπιακός υποδέχεται το Ανόβερο με στόχο να μείνουν αήττητοι",
+"url": "https://www.sdna.gr/polo/1487919_o-olympiakos-ypodehetai-anobero-me-stoho-na-meinoyn-aittitoi",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-18T12:20+00:00",
+"sport": "polo",
+"snippet": "Με μοναδικό στόχο να συνεχίσει την εντυπωσιακή ευρωπαϊκή του πορεία, ο Ολυμπιακός ρίχνεται ξανά στη μάχη του LEN Champions League.",
+"also": [],
+"id": "9343f1139892"
+},
 {
 "title": "Τα νέα δεδομένα για Ντέιβιντ Τζόουνς Γκαρσία και Ολυμπιακό!",
 "url": "https://www.novasports.gr/sport/mpasket/event/nba/article/15237547/ta-nea-dedomena-gia-nteivint-tzoouns-gkarsia-kai-olympiako/",
@@ -4991,47 +5003,6 @@
 "snippet": "Ο Βασίλης Σπανούλης και ο Γιώργος Μπαρτζώκας αντάλλαξαν χειραψία λίγο πριν το τζάμπολ του Άρης - Ολυμπιακός.",
 "also": [],
 "id": "a8b30a73edf2"
-},
-{
-"title": "Πουέρτα: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος είναι ο Ολυμπιακός»",
-"url": "https://www.sdna.gr/podosfairo/1486954_poyerta-den-antilambanomaste-poso-megalos-syllogos-einai-o-olympiakos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T15:23+00:00",
-"sport": "football",
-"snippet": "Ο Γκουστάβο Πουέρτα μίλησε στα ΜΜΕ της Κολομβίας για την παρουσία του στον Ολυμπιακό, την πορεία των «ερυθρόλευκων» και τον ηγετικό ρόλο που έχει...",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/superleague/2586803/poyerta-den-antilambanomaste-poso-megalos-syllogos-einai-o-olympiakos",
-"title": "Πουέρτα: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος είναι ο Ολυμπιακός»",
-"published": "2026-11-15T20:21+00:00"
-},
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5161286",
-"title": "Πουέρτα: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος είναι ο Ολυμπιακός»",
-"published": "2026-11-15T21:27+00:00"
-},
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233073/pouerta-gia-olympiakos-den-antilamvanomaste-poso-megalos-syllogos/",
-"title": "Πουέρτα για Ολυμπιακός: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος!»",
-"published": "2026-11-15T22:58+00:00"
-},
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233073/pouerta-gia-olympiako-den-antilamvanomaste-poso-megalos-syllogos/",
-"title": "Πουέρτα για Ολυμπιακό: «Δεν αντιλαμβανόμαστε πόσο μεγάλος σύλλογος!»",
-"published": "2026-11-15T22:58+00:00"
-}
-],
-"id": "793d36685b20"
 }
 ]
 }
