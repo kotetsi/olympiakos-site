@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-18T22:31:50+00:00",
+"generated_at": "2026-11-18T22:46:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με πατερίτσες και ειδικό νάρθηκα στο αριστερό πόδι ο Πουέρτα",
+"url": "http://www.sport-fm.gr/article/5161984",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-18T22:31+00:00",
+"sport": "general",
+"snippet": "Ανησυχία επικρατεί στις τάξεις του Ολυμπιακού μετά την εμφάνιση του Γκουστάβο Πουέρτα με ειδικό νάρθηκα και πατερίτσες στο αριστερό του πόδι.",
+"also": [],
+"id": "fb4be0942754"
+},
+{
+"title": "Πρωτοσέλιδο Sportime (19/11) - Ολυμπιακός: Ο Τάιλερ Ντόρσεϊ απομονώνεται;",
+"url": "https://sportime.gr/protoselido-sportime/protoselido-sportime-1911-olimpiakos-o-tailer-ntorsei-apomononete?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T22:27+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ αντιμετωπίζει δύσκολο κλίμα στον Ολυμπιακό. Οι αντιδράσεις του Εβάν Φουρνιέ, ο ρόλος του Σάσα Βεζένκοφ και η επόμενη ημέρα.",
+"also": [],
+"id": "2ecde4cd2e3d"
+},
 {
 "title": "Ολυμπιακός: Γιατί δεν μπορεί να αντικαταστήσει τον Πουέρτα στην Ευρώπη",
 "url": "https://sportday.gr/podosfairo/365754_olympiakos-giati-den-mporei-na-antikatastisei-ton-pouerta-stin-evropi.html",
@@ -4970,30 +4994,6 @@
 "snippet": "Ένα μυθικό σερί 664 ημερών έλαβε τέλος το βράδυ της Κυριακής (15/11) στο κατάμεστο Αλεξάνδρειο, καθώς η βαριά ήττα του Ολυμπιακού από τον Άρη με 100-78 για την…",
 "also": [],
 "id": "df758108e6b0"
-},
-{
-"title": "Ο Άρης υποχρέωσε τον Ολυμπιακό σε ήττα που είχε να γνωρίσει σχεδόν 23 χρόνια!",
-"url": "https://www.sdna.gr/mpasket/1487003_o-aris-ypohreose-ton-olympiako-se-itta-poy-eihe-na-gnorisei-shedon-23-hronia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T18:18+00:00",
-"sport": "basket",
-"snippet": "Οι «κιτρινόμαυροι» επικράτησαν με 100-78, με τους Πειραιώτες να γνωρίζουν ήττα με διαφορά 20+ πόντων από ομάδα πλην Παναθηναϊκού για πρώτη φορά από...",
-"also": [],
-"id": "57ed5e274f8e"
-},
-{
-"title": "Τέλος στο σερί από τον Άρη: Πρώτη ήττα του Ολυμπιακού στην regular season μετά από 37 νίκες",
-"url": "https://www.sdna.gr/mpasket/1486999_telos-sto-seri-apo-ton-ari-proti-itta-toy-olympiakoy-stin-regular-season-meta-apo",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T18:11+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός γνώρισε την πρώτη του ήττα στην regular season της Stoiximan Greek Basketball League μετά από 37 αγώνες.",
-"also": [],
-"id": "253f7e378fe2"
 }
 ]
 }
