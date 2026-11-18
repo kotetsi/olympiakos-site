@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-18T13:41:54+00:00",
+"generated_at": "2026-11-18T13:56:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Άνετα η 9η σερί νίκη στη Water Polo League γυναικών",
+"url": "https://www.gazzetta.gr/polo/a1-gynaikon/2587642/olympiakos-aneta-i-9i-seri-niki-sti-water-polo-league-gynaikon",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-18T13:51+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός καθάρισε την ΠΕΚΕΒ με 15-6 και συνεχίζει στη κορυφή της Water Polo League, ακολουθεί η Βουλιαγμένη που επικράτησε άνετα της Λάρισας με 21-5.",
+"also": [],
+"id": "b8fabbb75c9c"
+},
+{
+"title": "Ολυμπιακός: Το διάστημα απουσίας του Πουέρτα!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15237707/olympiakos-to-diastima-apousias-tou-pouerta/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-18T13:44+00:00",
+"sport": "football",
+"snippet": "Νέα δεδομένα στον Ολυμπιακό αναφορικά με τον τραυματισμό του Γκουστάβο Πουέρτα, καθώς όπως σημειώνεται αναμένεται να λείψει για έναν με δύο μήνες. Ο 23χρονος…",
+"also": [],
+"id": "30c8ca1649d8"
+},
 {
 "title": "Ολυμπιακός: Μετά τις γιορτές η επιστροφή Πουέρτα στη δράση",
 "url": "https://www.sdna.gr/podosfairo/1487946_olympiakos-meta-tis-giortes-i-epistrofi-poyerta-sti-drasi",
@@ -4979,30 +5003,6 @@
 "snippet": "Ο Άρης κυριάρχησε στην τρίτη περίοδο με επιμέρους 29-16, με τον Φουρνιέ να πετυχαίνει μόνος του τους 12 από τους 16 πόντους του Ολυμπιακού.",
 "also": [],
 "id": "ba4fd748ca28"
-},
-{
-"title": "Ροναλντίνιο: Η επιστροφή του θρύλου - Ξανά στο χορτάρι μετά από 11 χρόνια!",
-"url": "https://www.gazzetta.gr/football/2586745/ronalntinio-i-epistrofi-toy-thryloy-xana-sto-hortari-meta-apo-11-hronia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T17:00+00:00",
-"sport": "football",
-"snippet": "Έντεκα χρόνια μετά τον τελευταίο του αγώνα, ο Ροναλντίνο βρέθηκε στην ενδεκάδα της Ραβένα απέναντι στη Φορλί για την 3η κατηγορία της Ιταλίας κι επέστρεψε στα…",
-"also": [],
-"id": "e049b49918ea"
-},
-{
-"title": "Ολυμπιακός: Το μεγάλο πρόβλημα με την αποχώρηση Κόντσαρ στη Euroleague",
-"url": "https://sportime.gr/basket/olimpiakos-to-megalo-provlima-me-tin-apochorisi-kontsar-sti-euroleague?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T16:45+00:00",
-"sport": "basket",
-"snippet": "Η πιθανή αποχώρηση του Τζον Κόντσαρ δημιουργεί μεγαλύτερο πρόβλημα στον Ολυμπιακό από το αγωνιστικό. Οι 17 δηλώσεις παικτών και το όριο της Euroleague.",
-"also": [],
-"id": "802c6e32fdaf"
 }
 ]
 }
