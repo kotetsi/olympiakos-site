@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-18T00:49:58+00:00",
+"generated_at": "2026-11-18T01:05:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αγωνία στον Ολυμπιακό: Τραυματίστηκε ο Πουέρτα και αποχώρησε με φορείο (video)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15237177/agonia-ston-olympiako-traymatistike-o-pouerta-kai-apoxorise-me-foreio-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-18T01:01+00:00",
+"sport": "football",
+"snippet": "Δυσάρεστα νέα έρχονται για τον Ολυμπιακό από τις υποχρεώσεις των εθνικών ομάδων, καθώς ο Γκουστάβο Πουέρτα αποχώρησε τραυματίας από την αναμέτρηση της…",
+"also": [],
+"id": "7c9149cdceb6"
+},
+{
+"title": "Ολυμπιακός: Φόβοι για σοβαρό τραυματισμό του Πουέρτα!",
+"url": "https://www.gazzetta.gr/football/superleague/2587496/olympiakos-foboi-gia-sobaro-traymatismo-toy-poyerta",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-18T00:54+00:00",
+"sport": "football",
+"snippet": "Τεράστια ανησυχία στις τάξεις της Κολομβίας μετά τον τραυματισμό του Πουέρτα που αποχώρησε κλαίγοντας από το γήπεδο.",
+"also": [],
+"id": "e4c8ca6bdfb5"
+},
 {
 "title": "Συναγερμός στον Ολυμπιακό με Πουέρτα - Αποχώρησε με φορείο από ματς της Κολομβίας",
 "url": "https://www.sdna.gr/podosfairo/1487776_synagermos-ston-olympiako-me-poyerta-apohorise-me-foreio-apo-mats-tis-kolombias",
@@ -4994,30 +5018,6 @@
 "snippet": "Ο πατέρας του Τάιλερ Ντόρσεϊ παρενέβη στη συζήτηση για τον Τζον Κόντσαρ και τον Ολυμπιακό, αφήνοντας αιχμές για όσα δεν γνωρίζει ο κόσμος.",
 "also": [],
 "id": "378c4dc910d0"
-},
-{
-"title": "GBL (7η αγωνιστική): Ο Άρης υποδέχεται τον Ολυμπιακό στη Θεσσαλονίκη, Παναθηναϊκός-Κολοσσός στο “T-Center”",
-"url": "https://www.ertsports.gr/mpasket/gbl-7i-agonistiki-o-aris-ypodexetai-ton-olympiako-sti-thessaloniki-panathinaikos-kolossos-sto-t-center/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-15T07:26+00:00",
-"sport": "basket",
-"snippet": "Με τέσσερις αναμετρήσεις ολοκληρώνεται σήμερα (15/11) η 7η αγωνιστική της Stoiximan GBL, με το ντέρμπι του Άρη απέναντι στον Ολυμπιακό στη Θεσσαλονίκη να…",
-"also": [],
-"id": "b669e0583771"
-},
-{
-"title": "Αθλητικές μεταδόσεις σήμερα: Το Άρης-Ολυμπιακός και οι σημαντικότερες αναμετρήσεις της ημέρας",
-"url": "https://www.gazzetta.gr/football/2586645/athlitikes-metadoseis-simera-aris-olympiakos-kai-oi-simantikoteres-anametriseis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T07:01+00:00",
-"sport": "football",
-"snippet": "Δείτε την ώρα και το κανάλι μετάδοσης των σημαντικότερων αναμετρήσεων της ημέρας.",
-"also": [],
-"id": "5fe6257d17ef"
 }
 ]
 }
