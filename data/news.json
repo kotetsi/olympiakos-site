@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T16:43:33+00:00",
+"generated_at": "2026-11-18T16:58:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Λείπει ο Μιλουτίνοφ, λείπουν τα ριμπάουντ",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15238111/olympiakos-leipei-o-miloutinof-leipoun-ta-rimpaount/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-18T16:47+00:00",
+"sport": "basket",
+"snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
+"also": [],
+"id": "7cb3095c2296"
+},
 {
 "title": "Άρης: Πρόγραμμα-φωτιά μέχρι το τέλος του 2026 – Ολυμπιακός, Παναθηναϊκός και ΑΕΚ!",
 "url": "https://sportime.gr/podosfairo/aris-programma-fotia-mechri-to-telos-tou-2026-olimpiakos-panathinaikos-ke-aek?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4983,26 +4995,6 @@
 "snippet": "Ο Άρης ήταν μαγικός, ο Ολυμπιακός… άφαντος και το παιχνίδι στο Nick Galis Hall εξελίχθηκε σε πάρτι για την ομάδα του Βασίλη Σπανούλη που επιβλήθηκε με 100-78…",
 "also": [],
 "id": "5f5c259172b5"
-},
-{
-"title": "Άρης για πρωτάθλημα, 100-78 τον Ολυμπιακό!",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15232385/aris-gia-protathlima-100-78-ton-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-15T17:32+00:00",
-"sport": "basket",
-"snippet": "Ντέρμπι; ποιο ντέρμπι; ο Άρης “έπνιξε” με την ενέργεια και την επιθετικότητα του τον Ολυμπιακό υποχρεώνοντας τον σε 18 λάθη για μόλις 13 ασίστ, είχε…",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1486986_aris-olympiakos-100-78",
-"title": "Άρης - Ολυμπιακός: 100-78",
-"published": "2026-11-15T17:33+00:00"
-}
-],
-"id": "b83f2a293372"
 }
 ]
 }
