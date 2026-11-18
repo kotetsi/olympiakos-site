@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T11:10:31+00:00",
+"generated_at": "2026-11-18T11:25:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Τζόζεφ έσωσε τη νίκη, όχι τα κενά του Ολυμπιακού",
+"url": "https://sportime.gr/olimpiakos/o-tzozef-esose-ti-niki-ochi-ta-kena-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T11:16+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός νίκησε τη Μακάμπι, αλλά τα κενά στην περιφέρεια μένουν. Ο Ντόρσεϊ πλησιάζει στην επιστροφή και η ανάγκη για ενίσχυση δεν αλλάζει.",
+"also": [],
+"id": "65c3919eb2b1"
+},
 {
 "title": "Ο Ολυμπιακός νίκησε, αλλά έκανε 17 λάθη",
 "url": "https://sportime.gr/olimpiakos/o-olimpiakos-nikise-alla-ekane-17-lathi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5020,18 +5032,6 @@
 "snippet": "Λίγο πριν από το τζάμπολ των 17:30 στο Αλεξάνδρειο για την 7η αγωνιστική της Stoiximan GBL, έγιναν γνωστές οι τελικές επιλογές των τεχνικών για τον Άρη και τον…",
 "also": [],
 "id": "cc9782cd0947"
-},
-{
-"title": "Άρης - Ολυμπιακός: Οι δωδεκάδες",
-"url": "https://sportime.gr/basket/aris-olimpiakos-i-dodekades?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T14:51+00:00",
-"sport": "basket",
-"snippet": "Άρης - Ολυμπιακός στις 17:30 στη Θεσσαλονίκη. Δείτε τις δωδεκάδες των δύο ομάδων, την απουσία του Νίκολα Μιλουτίνοφ και ποιοι έμειναν εκτός από τον Άρη.",
-"also": [],
-"id": "7f68ab214d12"
 }
 ]
 }
