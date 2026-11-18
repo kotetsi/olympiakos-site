@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T16:28:25+00:00",
+"generated_at": "2026-11-18T16:43:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Πρόγραμμα-φωτιά μέχρι το τέλος του 2026 – Ολυμπιακός, Παναθηναϊκός και ΑΕΚ!",
+"url": "https://sportime.gr/podosfairo/aris-programma-fotia-mechri-to-telos-tou-2026-olimpiakos-panathinaikos-ke-aek?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T16:27+00:00",
+"sport": "football",
+"snippet": "Ο Άρης έχει μπροστά του ένα ιδιαίτερα δύσκολο πρόγραμμα μέχρι το τέλος του 2026, με ντέρμπι απέναντι σε Ολυμπιακό, Παναθηναϊκό, Ηρακλή και ΑΕΚ.",
+"also": [],
+"id": "5d69b914856b"
+},
 {
 "title": "Αντρέ Λουίζ: Οι πρώτες εξετάσεις με τη «Σελεσάο» - Οι κριτικές που ενδιαφέρουν τον Ολυμπιακό",
 "url": "https://www.sdna.gr/podosfairo/1487986_antre-loyiz-oi-protes-exetaseis-me-ti-selesao-oi-kritikes-poy-endiaferoyn-ton",
@@ -403,7 +415,15 @@
 "published": "2026-11-18T11:25+00:00",
 "sport": "general",
 "snippet": "Στο Προεδρικό Μέγαρο βρέθηκε το πρωί της Τετάρτης (18/11) ο Κυριάκος Μητσοτάκης, στο πλαίσιο της 4ης Διακυβερνητικής Συνόδου Κύπρου – Ελλάδας, όπου είχε…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/plus/2587680/mitsotakis-se-hristodoylidi-se-eyharisto-eferes-goyri-ston-olympiako",
+"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό!»",
+"published": "2026-11-18T16:38+00:00"
+}
+],
 "id": "5fe14b17b662"
 },
 {
@@ -4983,18 +5003,6 @@
 }
 ],
 "id": "b83f2a293372"
-},
-{
-"title": "ΓΟΥΣΤΑ-ΑΡΗΣ με 100άρα “έπνιξε” τον Ολυμπιακό στο πάρτι του Παλέ",
-"url": "https://www.eurohoops.net/el/heba-el/2035595/gousta-aris-me-100ara-epnixe-ton-olimpiako-sto-parti-tou-pale/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-15T17:32+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης (6-1) υποχρεώσε τον Ολυμπιακό (6-1) στην πρώτη φετινή ήττα στη Stoiximan GBL. The post ΓΟΥΣΤΑ-ΑΡΗΣ με 100άρα “έπνιξε” τον Ολυμπιακό στο πάρτι του Παλέ…",
-"also": [],
-"id": "0a264b7d027a"
 }
 ]
 }
