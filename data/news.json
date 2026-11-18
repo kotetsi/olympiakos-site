@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T13:11:32+00:00",
+"generated_at": "2026-11-18T13:26:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το εξωφρενικό τρίποντο του Βεζένκοφ και όλες οι μεγάλες φάσεις μέσα από την παρακάμερα του Ολυμπιακού",
+"url": "http://www.sport-fm.gr/article/5161893",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-18T13:17+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός πανηγύρισε μία σπουδαία νίκη απέναντι στη Μακάμπι Τελ Αβίβ στην παράταση (97-95) με την ΚΑΕ να δημοσιεύει την παρακάμερα του αγώνα, έχοντας το…",
+"also": [],
+"id": "66fab8282e10"
+},
 {
 "title": "ΚΟΑ για το Μακάμπι-Ολυμπιακός: «Το συγκλονιστικότερο παιχνίδι της εφετινής EuroLeague έγινε στην Κύπρο»",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15237610/koa-gia-to-makampi-olympiakos-to-sygklonistikotero-paixnidi-tis-efetinis-euroleague-egine-stin-kypro/",
@@ -23,7 +35,15 @@
 "published": "2026-11-18T13:02+00:00",
 "sport": "football",
 "snippet": "Ο Σαντίνο Αντίνο μίλησε για την μεταγραφή του στον Παναθηναϊκό, την παρουσία του στην Ελλάδα αλλά και το ενδιαφέρον που είχε δείξει για αυτόν ο...",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15237617/antino-apofasisa-grigora-gia-panathinaiko-ti-eipe-gia-to-endiaferon-tou-olympiakou/",
+"title": "Αντίνο: «Αποφάσισα γρήγορα για Παναθηναϊκό» – Τι είπε για το ενδιαφέρον του Ολυμπιακού",
+"published": "2026-11-18T13:10+00:00"
+}
+],
 "id": "ab7ebf643fa3"
 },
 {
@@ -4991,18 +5011,6 @@
 "snippet": "Μία φάση που ξεσήκωσε το Παλέ χάρισε ο Θανάσης Αντετοκούνμπο στο 12ο λεπτό της αναμέτρησης του Άρη με τον Ολυμπιακό! Ο διεθνής φόργουορντ ...",
 "also": [],
 "id": "e8d34c8d81ff"
-},
-{
-"title": "Ολυμπιακός: Πρώτος ο Γκουστάβο Σα στην κατάταξη U23 της Super League – Τρεις «ερυθρόλευκοι» στην πεντάδα(pic)",
-"url": "https://www.sdna.gr/podosfairo/1486967_olympiakos-protos-o-gkoystabo-sa-stin-katataxi-u23-tis-super-league-treis",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T16:16+00:00",
-"sport": "football",
-"snippet": "Έντονο «ερυθρόλευκο» χρώμα έχει η κατάταξη των κορυφαίων ποδοσφαιριστών U23 της Super League, βάσει του συστήματος Elo του Football Ranked, με τον...",
-"also": [],
-"id": "2bbf01497abf"
 }
 ]
 }
