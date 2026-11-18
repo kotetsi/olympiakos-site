@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T14:42:22+00:00",
+"generated_at": "2026-11-18T14:57:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μπαρτζώκας στους παίκτες του Ολυμπιακού: «Είστε η καλύτερη ομάδα στη EuroLeague»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587649/mpartzokas-stoys-paiktes-toy-olympiakoy-eiste-i-kalyteri-omada-sti",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-18T14:44+00:00",
+"sport": "basket",
+"snippet": "Δείτε όσα είπε ο Γιώργος Μπαρτζώκας στα αποδυτήρια του Ολυμπιακού μετά το μεγάλο διπλό επί της Μακάμπι Τελ Αβίβ.",
+"also": [],
+"id": "587a87320f7c"
+},
 {
 "title": "Ολυμπιακός: Τι ακριβώς ισχύει για τον τραυματισμό του Γκουστάβο Πουέρτα",
 "url": "https://sportday.gr/podosfairo/365728_olympiakos-ti-akrivos-ischyei-gia-ton-travmatismo-tou-gkoustavo-pouerta.html",
@@ -4991,18 +5003,6 @@
 "snippet": "",
 "also": [],
 "id": "a90a826dc621"
-},
-{
-"title": "Ο Άρης έσπασε το σερί των 25 ηττών από τον Ολυμπιακό - Η τελευταία νίκη του είχε έρθει το 2015 με MVP Βεζένκοφ!",
-"url": "http://www.sport-fm.gr/article/5161230",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-15T17:31+00:00",
-"sport": "general",
-"snippet": "Ο Άρης έβαλε τέλος σε ένα σερί 25 ηττών από τον Ολυμπιακό στο πρωτάθλημα, πετυχαίνοντας την πρώτη του νίκη απέναντί του μετά τον Ιούνιο του 2015, όταν MVP ήταν…",
-"also": [],
-"id": "c1fec9a6d8fc"
 }
 ]
 }
