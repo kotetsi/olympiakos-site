@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T17:44:09+00:00",
+"generated_at": "2026-11-18T17:59:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ελπίδα Αμπελοκήπων – Ολυμπιακός 1-3: Νικηφόρο πέρασμα από τη Θεσσαλονίκη για τις «ερυθρόλευκες»",
+"url": "https://www.ertsports.gr/bolei/volley-league-gynaikon/elpida-ampelokipon-olympiakos-1-3-nikiforo-perasma-apo-ti-thessaloniki-gia-tis-erythroleykes/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-18T17:58+00:00",
+"sport": "volley",
+"snippet": "Ο Ολυμπιακός συνέχισε με θετικό αποτέλεσμα τις υποχρεώσεις του στη Volley League γυναικών, καθώς επικράτησε με 3-1 σετ της Ελπίδας Αμπελοκήπων στο κλειστό «Ι…",
+"also": [],
+"id": "fbf8d173eb3a"
+},
 {
 "title": "ΑΣ Ελπίς – Ολυμπακός 1-3: Έχασαν σετ, αλλά πήραν τη νίκη οι «ερυθρόλευκες»",
 "url": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2587699/elpis-olympakos-1-3-ehasan-set-alla-piran-ti-niki-oi",
@@ -13,6 +25,18 @@
 "snippet": "Την πέμπτη του νίκη στις έξι πρώτες αγωνιστικές πέτυχε ο Ολυμπιακός. Οι «ερυθρόλευκες» μπορεί να έχασαν σετ αλλά επικράτησαν στη Θεσσαλονίκη της Ελπίδας…",
 "also": [],
 "id": "085d4aea7d9c"
+},
+{
+"title": "Οι διαιτητές των αγώνων της SL2. Ποιος σφυρίζει σε Καλαμαριά και Ρέντη",
+"url": "https://www.metrosport.gr/oi-diaitites-ton-agonon-tis-sl2-poios-sfyrizei-se-kalamaria-kai-renti-1333999",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-18T17:35+00:00",
+"sport": "football",
+"snippet": "Την Κυριακή στου Ρέντη παίζει ο Απόλλων Καλαμαριάς με τον Ολυμπιακό Β’ στο πλαίσιο της 12ης αγωνιστικής της Superbet League 2 με διαιτητή τον ...",
+"also": [],
+"id": "9dced2cdcb6c"
 },
 {
 "title": "Τα αποδυτήρια του Ολυμπιακού έχουν απορρίψει ήδη τον Ντόρσεϊ – Ο ρόλος των Φουρνιέ και Βεζένκοφ",
@@ -4978,30 +5002,6 @@
 "snippet": "Ο Ολυμπιακός ηττήθηκε από τον Άρη στη Θεσσαλονίκη και το σερί του στην κανονική περίοδο της GBL έλαβε τέλος, με την προηγούμενη ήττα από ομάδα πλην του…",
 "also": [],
 "id": "c75819a0b03f"
-},
-{
-"title": "Stoiximan GBL: ΠΑΟΚ & Άρης ετοιμάζονται για ντέρμπι κορυφής, πρώτη απώλεια Ολυμπιακού",
-"url": "https://www.eurohoops.net/el/heba-el/2035582/stoiximan-gbl-aris-ke-paok-etimazonte-gia-ntermpi-korifis-proti-apolia-gia-ton-olimpiako/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-15T17:36+00:00",
-"sport": "basket",
-"snippet": "Ο ΠΑΟΚ και ο Άρης ετοιμάζονται για το ντέρμπι της επόμενης αγωνιστικής από την 1η και τη 2η θέση της βαθμολογίας. The post Stoiximan GBL: ΠΑΟΚ & Άρης…",
-"also": [],
-"id": "753f629d3d34"
-},
-{
-"title": "Άρης: Το έκανε όπως τη σεζόν 1999-00, όταν είχε νικήσει Ολυμπιακό και Παναθηναϊκό!",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586755/aris-ekane-opos-ti-sezon-1999-00-otan-eihe-nikisei-olympiako-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T17:35+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης νίκησε Παναθηναϊκό και Ολυμπιακό μέσα στην ίδια σεζόν για πρώτη φορά μετά το 1999-00, επαναλαμβάνοντας ένα ιστορικό επίτευγμα που είχε πετύχει για…",
-"also": [],
-"id": "48ded152a255"
 }
 ]
 }
