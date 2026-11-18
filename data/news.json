@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T09:39:46+00:00",
+"generated_at": "2026-11-18T09:54:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ανακοίνωσε sold-out για Ρεάλ ο Ολυμπιακός!",
+"url": "http://www.sport-fm.gr/article/5161852",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-18T09:37+00:00",
+"sport": "general",
+"snippet": "Κατάμεστη θα είναι η SUNEL Arena την ερχόμενη Παρασκευή στο Ολυμπιακός-Ρεάλ Μαδρίτης.",
+"also": [],
+"id": "ea8391d4c03d"
+},
 {
 "title": "Τζόλης: «Με εξόργισε που δεν έπαιξα στον τελικό με τον Ολυμπιακό»",
 "url": "https://www.ertsports.gr/podosfairo/tzolis-me-eksorgise-pou-den-epaiksa-ston-teliko-me-ton-olympiako/",
@@ -54,6 +66,13 @@
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15237435/olympiakos-sold-out-to-paixnidi-me-ti-real-madritis/",
 "title": "Ολυμπιακός: Sold out το παιχνίδι με τη Ρεάλ Μαδρίτης!",
 "published": "2026-11-18T09:33+00:00"
+},
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587582/olympiakos-sold-out-o-agonas-me-ti-real-madritis",
+"title": "Ολυμπιακός: Sold out ο αγώνας με τη Ρεάλ Μαδρίτης",
+"published": "2026-11-18T09:52+00:00"
 }
 ],
 "id": "cd493d5e7711"
@@ -5006,18 +5025,6 @@
 "snippet": "Ο Βασίλης Σπανούλης κατέληξε στις τελικές του επιλογές για τη 12άδα του Άρη ενόψει της αναμέτρησης με τον Ολυμπιακό, στο πλαίσιο της 7ης αγωνιστικής ...",
 "also": [],
 "id": "5830b4fdbc53"
-},
-{
-"title": "Άρης: Χωρίς Γιόβιτς και Πουλιανίτη η 12άδα κόντρα στον Ολυμπιακό",
-"url": "http://www.sport-fm.gr/article/5161201",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-15T14:33+00:00",
-"sport": "general",
-"snippet": "Η αποστολή του Άρη για το μεγάλο αποψινό ντέρμπι στο Αλεξάνδρειο με αντίπαλο τον Ολυμπιακό.",
-"also": [],
-"id": "853753c8bce5"
 }
 ]
 }
