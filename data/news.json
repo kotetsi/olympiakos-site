@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-18T05:52:48+00:00",
+"generated_at": "2026-11-18T06:07:55+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αν φύγει ο Πιρόλα, θα χρειαστεί δύο στόπερ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-an-figi-o-pirola-tha-chriasti-dio-stoper?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T05:59+00:00",
+"sport": "general",
+"snippet": "Η Live Sport γράφει για εξηγήσεις σχετικά με τον Πιρόλα στο δείπνο Μαρινάκη και Αλγουαθίλ.Γιατί μια πιθανή πώληση θα φέρει ανάγκη για δύο στόπερ στον Ολυμπιακό.",
+"also": [],
+"id": "06100037281c"
+},
+{
+"title": "Ολυμπιακός: Μεγάλη ανησυχία για τον Πουέρτα",
+"url": "https://sportday.gr/podosfairo/365693_olympiakos-megali-anisychia-gia-ton-pouerta.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-18T05:55+00:00",
+"sport": "football",
+"snippet": "Ο Γκουστάβο Πουέρτα χτύπησε στο αριστερό γόνατο στο φιλικό της Κολομβίας με την Χιλή κι έφυγε κλαίγοντας για το νοσοκομείο",
+"also": [],
+"id": "538359c62f78"
+},
 {
 "title": "«Πρώτα ο Ηρακλής, μετά η Μίλαν»: Το ξεκάθαρο μήνυμα Αλγουαθίλ στου Ρέντη",
 "url": "http://www.sport-fm.gr/article/5161784",
@@ -4994,30 +5018,6 @@
 "snippet": "Ο Τζον Κόντσαρ θέλει να αποχωρήσει από τον Ολυμπιακό. Τι έχει προσφέρει στη Euroleague και τι δείχνει η σύγκριση με τον νεαρό Νίκο Πλώτα.",
 "also": [],
 "id": "b6c7809f5d58"
-},
-{
-"title": "Διαιτησία: Τι δείχνουν οι αποβολές και τα πέναλτι για Ολυμπιακό, ΑΕΚ, Παναθηναϊκό και ΠΑΟΚ",
-"url": "https://sportime.gr/podosfairo/dietisia-ti-dichnoun-i-apovoles-ke-ta-penalti-gia-olimpiako-aek-panathinaiko-ke-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T09:57+00:00",
-"sport": "football",
-"snippet": "Τι αποκαλύπτουν οι αριθμοί σε πέναλτι, αποβολές και κάρτες για Ολυμπιακό, ΑΕΚ, Παναθηναϊκό και ΠΑΟΚ. Οι φάσεις που θα άλλαζαν τις ισορροπίες.",
-"also": [],
-"id": "754c38923773"
-},
-{
-"title": "Ολυμπιακός: Ο Νικολό Σκίρα αναφέρει πως ο Πιρόλα σκέφτεται επιστροφή στην Ιταλία",
-"url": "https://www.gazzetta.gr/football/superleague/2586666/olympiakos-o-nikolo-skira-anaferei-pos-o-pirola-skeftetai-epistrofi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T09:40+00:00",
-"sport": "football",
-"snippet": "Σύμφωνα με δημοσίευμα του Νικολό Σκίρα, ο Λορέντσο Πιρόλα εξετάζει το ενδεχόμενο να αγωνιστεί και πάλι στην Ιταλία.",
-"also": [],
-"id": "b93a158276c9"
 }
 ]
 }
