@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T11:25:38+00:00",
+"generated_at": "2026-11-18T11:40:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό!»",
+"url": "https://www.novasports.gr/category/epikairotita/article/15237526/mitsotakis-se-xristodoulidi-se-eyxaristo-eferes-gouri-ston-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-18T11:25+00:00",
+"sport": "general",
+"snippet": "Στο Προεδρικό Μέγαρο βρέθηκε το πρωί της Τετάρτης (18/11) ο Κυριάκος Μητσοτάκης, στο πλαίσιο της 4ης Διακυβερνητικής Συνόδου Κύπρου – Ελλάδας, όπου είχε…",
+"also": [],
+"id": "5fe14b17b662"
+},
 {
 "title": "Ο Τζόζεφ έσωσε τη νίκη, όχι τα κενά του Ολυμπιακού",
 "url": "https://sportime.gr/olimpiakos/o-tzozef-esose-ti-niki-ochi-ta-kena-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5020,18 +5032,6 @@
 "snippet": "",
 "also": [],
 "id": "af15c737b91d"
-},
-{
-"title": "Άρης – Ολυμπιακός: Αυτούς επέλεξε ο Σπανούλης!",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15232134/aris-olympiakos-aytous-epelekse-o-spanoulis/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-15T14:51+00:00",
-"sport": "basket",
-"snippet": "Λίγο πριν από το τζάμπολ των 17:30 στο Αλεξάνδρειο για την 7η αγωνιστική της Stoiximan GBL, έγιναν γνωστές οι τελικές επιλογές των τεχνικών για τον Άρη και τον…",
-"also": [],
-"id": "cc9782cd0947"
 }
 ]
 }
