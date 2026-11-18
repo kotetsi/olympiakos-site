@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-18T15:27:57+00:00",
+ "checked_at": "2026-11-18T15:43:02+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -36,13 +36,13 @@
    "feeds": [
     "https://www.gazzetta.gr/rss"
    ],
-   "items": 7,
+   "items": 8,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-18T15:27"
+     "newest": "2026-11-18T15:39"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-18T15:18"
+     "newest": "2026-11-18T15:36"
     }
    ]
   },
@@ -74,7 +74,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/1.feed",
      "raw": 20,
-     "newest": "2026-11-18T15:08"
+     "newest": "2026-11-18T15:27"
     },
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
@@ -99,7 +99,7 @@
     {
      "feed": "https://www.sportday.gr/feed",
      "raw": 16,
-     "newest": "2026-11-18T15:03"
+     "newest": "2026-11-18T15:30"
     }
    ]
   },
@@ -115,12 +115,12 @@
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-18T15:10"
+     "newest": "2026-11-18T15:28"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-18T15:10"
+     "newest": "2026-11-18T15:28"
     }
    ]
   },
@@ -141,7 +141,7 @@
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-18T15:15"
+     "newest": "2026-11-18T14:45"
     }
    ]
   },
@@ -150,13 +150,13 @@
    "feeds": [
     "https://www.ertsports.gr/feed/"
    ],
-   "items": 5,
+   "items": 4,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-18T15:20"
+     "newest": "2026-11-18T15:35"
     }
    ]
   },
@@ -171,7 +171,7 @@
     {
      "feed": "https://www.eurohoops.net/el/feed/",
      "raw": 20,
-     "newest": "2026-11-18T15:18"
+     "newest": "2026-11-18T15:31"
     }
    ]
   }
