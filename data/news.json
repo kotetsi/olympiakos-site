@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T21:01:00+00:00",
+"generated_at": "2026-11-18T21:16:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα λεφτά από δύο παίκτες που να μην τα… έπαιρνε",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ta-lefta-apo-dio-pektes-pou-na-min-ta-eperne?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T21:08+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός ενδέχεται να αποζημιωθεί από τη FIFA για τους τραυματισμούς των Πουέρτα και Ονιεμαέτσι. Πόσα χρήματα προβλέπονται και υπό ποιους όρους;",
+"also": [],
+"id": "55e4812a5cf5"
+},
 {
 "title": "Σπανούλης: «Δεν είναι εύκολο να αγωνίζεσαι μετά από μια τέτοια νίκη κόντρα στον Ολυμπιακό» - Το σχόλιο για το ντέρμπι με τον ΠΑΟΚ",
 "url": "https://www.gazzetta.gr/basketball/eurocup/2587754/spanoylis-den-einai-eykolo-na-agonizesai-meta-apo-mia-tetoia-niki-kontra",
@@ -13,6 +25,18 @@
 "snippet": "Διαβάστε όλα όσα δήλωσε ο Βασίλης Σπανούλης στη συνέντευξη Τύπου μετά τη νίκη του Άρη.",
 "also": [],
 "id": "44ed9dec33bb"
+},
+{
+"title": "Ολυμπιακός: Αγωνία για τρεις τραυματίες",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-agonia-gia-tris-travmaties?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T20:55+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός περιμένει τις εξετάσεις των Πουέρτα και Μπρούνο Ονιεμαέτσι, ενώ ο Σαντιάγκο Έσε παραμένει εκτός δράσης μέχρι τον Δεκέμβριο.",
+"also": [],
+"id": "7522c1b0fd41"
 },
 {
 "title": "Ολυμπιακός 9-1, Παναθηναϊκός 2-4: Ο Πολωνός Ζαμοΐσκι χτίζει τη δική του παράδοση την τελευταία διετία",
@@ -4970,30 +4994,6 @@
 "snippet": "Ο Νέναντι Ντιμιτρίεβιτς ήταν εξαιρετικός στη νίκη του Άρη επί του Ολυμπιακού (100-78) και μίλησε για το σπουδαίο αποτέλεσμα. The post Ντιμιτρίεβιτς για…",
 "also": [],
 "id": "316560555178"
-},
-{
-"title": "Βασίλης Σπανούλης: «Δεν είναι εύκολο να κερδίζεις Παναθηναϊκό και Ολυμπιακό τόσο σύντομα – Παίξαμε εκπληκτικό μπάσκετ»",
-"url": "https://sportday.gr/video/365422_vasilis-spanoulis-den-einai-efkolo-na-kerdizeis-panathinaiko-kai-olympiako-toso-syntoma-paiksame-ekpliktiko-mpasket.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-15T17:58+00:00",
-"sport": "basket",
-"snippet": "",
-"also": [],
-"id": "49a6f0719e97"
-},
-{
-"title": "Ζέρβας: «Κατά κράτος ανώτερος ο Άρης, τραγικός ο Ολυμπιακός - Πρέπει να κλείσει δύο παίκτες, όχι έναν»!",
-"url": "http://www.sport-fm.gr/article/5161240",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-15T17:57+00:00",
-"sport": "general",
-"snippet": "Ο Νίκος Ζέρβας σχολίασε στον bwinΣΠΟΡ FM 94,6 την ήττα του Ολυμπιακού από τον Άρη, στάθηκε στην ανωτερότητα των Θεσσαλονικέων και έκρουσε τον κώδωνα του…",
-"also": [],
-"id": "76bb46dcc089"
 }
 ]
 }
