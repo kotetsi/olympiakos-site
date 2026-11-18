@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T17:13:51+00:00",
+"generated_at": "2026-11-18T17:29:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ανακοίνωση θέσεων για άτομα με οπτική αναπηρία στον αγώνα με τον Ηρακλή",
+"url": "https://www.olympiacos.org/2026/11/18/anakoinosi-theseon-gia-atoma-me-optiki-anapiria-ston-agona-me-ton-irakli-2/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-18T17:12+00:00",
+"sport": "football",
+"snippet": "Ενημέρωση για τις θέσεις ατόμων με οπτική αναπηρία στο ματς Ολυμπιακός – Ηρακλή στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "5c21daf7e699"
+},
 {
 "title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα με την AC Milan",
 "url": "https://www.olympiacos.org/2026/11/18/diapisteyseis-mme-gia-ton-agona-me-tin-ac-milan/",
@@ -298,7 +310,7 @@
 "official": false,
 "published": "2026-11-18T13:17+00:00",
 "sport": "general",
-"snippet": "Ο Ολυμπιακός πανηγύρισε μία σπουδαία νίκη απέναντι στη Μακάμπι Τελ Αβίβ στην παράταση (97-95) με την ΚΑΕ να δημοσιεύει την παρακάμερα του αγώνα, έχοντας το…",
+"snippet": "Η ΚΑΕ Ολυμπιακός δημοσίευσε την παρακάμερα της σπουδαίας νίκης επί της Μακάμπι Τελ Αβίβ (97-95), με το απίθανο τρίποντο του Σάσα Βεζένκοφ που έστειλε το ματς…",
 "also": [],
 "id": "66fab8282e10"
 },
@@ -458,6 +470,13 @@
 "url": "https://www.gazzetta.gr/plus/2587680/mitsotakis-se-hristodoylidi-se-eyharisto-eferes-goyri-ston-olympiako",
 "title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό!»",
 "published": "2026-11-18T16:38+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5161926",
+"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό - Το ματς της δεκαετίας»!",
+"published": "2026-11-18T17:08+00:00"
 }
 ],
 "id": "5fe14b17b662"
@@ -4983,18 +5002,6 @@
 "snippet": "Μετά την ήττα του Ολυμπιακού από τον Άρη ο Χρήστος Παππάς τόνισε πως οι «ερυθρόλευκοι» δεν έπαιξαν με τον τρόπο που έπρεπε και υπογράμμισε πως βρήκαν...",
 "also": [],
 "id": "6d53ab3f7cf6"
-},
-{
-"title": "Άρης-Ολυμπιακός 100-78: “Κίτρινη” θύελλα διέλυσε τους πρωταθλητές Ελλάδας και Ευρώπης",
-"url": "https://www.ertsports.gr/mpasket/gbl/aris-olympiakos-100-78-kitrini-thyella-dielyse-tous-protathlites-elladas-kai-eyropis/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-15T17:34+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης ήταν καταιγιστικός και επικράτησε του Ολυμπιακού με 100-78 στο Αλεξάνδρειο, φτάνοντας τις 6 νίκες στην φετινή GBL, υποχρεώνοντας τους πρωταθλητές…",
-"also": [],
-"id": "8d5f4071085d"
 }
 ]
 }
