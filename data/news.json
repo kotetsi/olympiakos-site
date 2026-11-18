@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-18T16:58:41+00:00",
+"generated_at": "2026-11-18T17:13:51+00:00",
 "count": 400,
 "items": [
+{
+"title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα με την AC Milan",
+"url": "https://www.olympiacos.org/2026/11/18/diapisteyseis-mme-gia-ton-agona-me-tin-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-18T17:09+00:00",
+"sport": "general",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στην AC Milan.",
+"also": [],
+"id": "03a43f3dca05"
+},
 {
 "title": "Ολυμπιακός: Λείπει ο Μιλουτίνοφ, λείπουν τα ριμπάουντ",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15238111/olympiakos-leipei-o-miloutinof-leipoun-ta-rimpaount/",
@@ -13,6 +25,18 @@
 "snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
 "also": [],
 "id": "7cb3095c2296"
+},
+{
+"title": "Ολυμπιακός: Λείπει ο Μιλουτίνοφ, λείπουν τα ριμπάουντ… Ε, και;",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15238111/olympiakos-leipei-o-miloutinof-leipoun-ta-rimpaount-e-kai/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-18T16:47+00:00",
+"sport": "basket",
+"snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
+"also": [],
+"id": "bbead0acb806"
 },
 {
 "title": "Άρης: Πρόγραμμα-φωτιά μέχρι το τέλος του 2026 – Ολυμπιακός, Παναθηναϊκός και ΑΕΚ!",
@@ -330,7 +354,7 @@
 "official": false,
 "published": "2026-11-18T12:50+00:00",
 "sport": "general",
-"snippet": "Ο Σαντίνο Αντίνο, μιλώντας στον bwinΣΠΟΡ FM 94,6, παραχωρεί μία μεγάλη συνέντευξη, στην οποία αναφέρθηκε, μεταξύ άλλων, και στο ενδιαφέρον του Ολυμπιακού για…",
+"snippet": "Ο Σαντίνο Αντίνο μίλησε στον bwinΣΠΟΡ FM 94,6 για το ενδιαφέρον του Ολυμπιακού το καλοκαίρι του 2025 και αποκάλυψε γιατί επέλεξε να παραμείνει τότε στη Γοδόι…",
 "also": [],
 "id": "0690683b527c"
 },
@@ -4971,30 +4995,6 @@
 "snippet": "Ο Άρης ήταν καταιγιστικός και επικράτησε του Ολυμπιακού με 100-78 στο Αλεξάνδρειο, φτάνοντας τις 6 νίκες στην φετινή GBL, υποχρεώνοντας τους πρωταθλητές…",
 "also": [],
 "id": "8d5f4071085d"
-},
-{
-"title": "GBL: Η βαθμολογία μετά τη νίκη του Άρη επί του Ολυμπιακού και το εύκολο απόγευμα του Παναθηναϊκού",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586754/gbl-i-bathmologia-meta-ti-niki-toy-ari-epi-toy-olympiakoy-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T17:33+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της GBL μετά την ολοκλήρωση της 7ης αγωνιστικής και τη μεγάλη νίκη του Άρη απέναντι στον Ολυμπιακό.",
-"also": [],
-"id": "978d85ec57a6"
-},
-{
-"title": "Άρης - Ολυμπιακός 100-78: «Αυτοκρατορικό» πάρτι στο Παλέ",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586753/aris-olympiakos-100-78-aytokratoriko-parti-sto-pale",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T17:32+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης ήταν μαγικός, ο Ολυμπιακός… άφαντος και το παιχνίδι στο Nick Galis Hall εξελίχθηκε σε πάρτι για την ομάδα του Βασίλη Σπανούλη που επιβλήθηκε με 100-78…",
-"also": [],
-"id": "5f5c259172b5"
 }
 ]
 }
