@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-18T17:29:03+00:00",
+"generated_at": "2026-11-18T17:44:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΑΣ Ελπίς – Ολυμπακός 1-3: Έχασαν σετ, αλλά πήραν τη νίκη οι «ερυθρόλευκες»",
+"url": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2587699/elpis-olympakos-1-3-ehasan-set-alla-piran-ti-niki-oi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-18T17:43+00:00",
+"sport": "volley",
+"snippet": "Την πέμπτη του νίκη στις έξι πρώτες αγωνιστικές πέτυχε ο Ολυμπιακός. Οι «ερυθρόλευκες» μπορεί να έχασαν σετ αλλά επικράτησαν στη Θεσσαλονίκη της Ελπίδας…",
+"also": [],
+"id": "085d4aea7d9c"
+},
+{
+"title": "Τα αποδυτήρια του Ολυμπιακού έχουν απορρίψει ήδη τον Ντόρσεϊ – Ο ρόλος των Φουρνιέ και Βεζένκοφ",
+"url": "https://sportime.gr/paraskinia/ta-apoditiria-tou-olimpiakou-echoun-aporripsi-idi-ton-ntorsei-o-rolos-ton-fournie-ke-vezenkof?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-18T17:32+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ και το κλίμα στον Ολυμπιακό. Οι δηλώσεις Μπαρτζώκα και Φουρνιέ, ο ρόλος του Βεζένκοφ και όσα δείχνουν οι αντιδράσεις.",
+"also": [],
+"id": "c42ae8cba1f0"
+},
 {
 "title": "Ανακοίνωση θέσεων για άτομα με οπτική αναπηρία στον αγώνα με τον Ηρακλή",
 "url": "https://www.olympiacos.org/2026/11/18/anakoinosi-theseon-gia-atoma-me-optiki-anapiria-ston-agona-me-ton-irakli-2/",
@@ -4978,30 +5002,6 @@
 "snippet": "Ο Άρης νίκησε Παναθηναϊκό και Ολυμπιακό μέσα στην ίδια σεζόν για πρώτη φορά μετά το 1999-00, επαναλαμβάνοντας ένα ιστορικό επίτευγμα που είχε πετύχει για…",
 "also": [],
 "id": "48ded152a255"
-},
-{
-"title": "Η βαθμολογία της GBL μετά τον θρίαμβο του Άρη κόντρα στον Ολυμπιακό",
-"url": "https://www.metrosport.gr/i-vathmologia-tis-gbl-meta-ton-thriamvo-toy-ari-kontra-ston-olympiako-1333687",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-15T17:35+00:00",
-"sport": "basket",
-"snippet": "Μεγάλη νίκη (100-78), τόσο από πλευράς γοήτρου όσο και βαθμολογικής σημασίας, πανηγύρισε ο Άρης, επικρατώντας του Ολυμπιακού στο κατάμεστο Παλέ και ...",
-"also": [],
-"id": "28ca4ca34c69"
-},
-{
-"title": "Παππάς: «Δεν ανταποκριθήκαμε στην επίθεση και δεν παίξαμε το μπάσκετ που έπρεπε»",
-"url": "https://www.sdna.gr/mpasket/1486987_pappas-den-antapokrithikame-stin-epithesi-kai-den-paixame-mpasket-poy-eprepe",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T17:34+00:00",
-"sport": "basket",
-"snippet": "Μετά την ήττα του Ολυμπιακού από τον Άρη ο Χρήστος Παππάς τόνισε πως οι «ερυθρόλευκοι» δεν έπαιξαν με τον τρόπο που έπρεπε και υπογράμμισε πως βρήκαν...",
-"also": [],
-"id": "6d53ab3f7cf6"
 }
 ]
 }
