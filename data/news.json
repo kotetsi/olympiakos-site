@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-19T08:37:17+00:00",
+"generated_at": "2026-11-19T08:52:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η Mercedes αποχωρίζεται έναν θρύλο: Το σπάνιο supercar που δεν είχε πουλήσει ποτέ!",
+"url": "https://www.sdna.gr/auto-moto/1487932_i-mercedes-apohorizetai-enan-thrylo-spanio-supercar-poy-den-eihe-poylisei-pote",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T08:49+00:00",
+"sport": "general",
+"snippet": "Ένα από τα πιο ξεχωριστά αυτοκίνητα στην ιστορία της Mercedes-Benz ετοιμάζεται να περάσει για πρώτη φορά σε χέρια ιδιώτη.",
+"also": [],
+"id": "76aa3806c4b1"
+},
+{
+"title": "Ολυμπιακός: «Πονοκέφαλος» η μεσαία γραμμή",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239032/olympiakos-ponokefalos-i-mesaia-grammi/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T08:43+00:00",
+"sport": "football",
+"snippet": "Ο Βάσκος τεχνικός έχει στραμμένη την προσοχή του στην επικείμενη αναμέτρηση με τον Ηρακλή, για την ενδέκατη αγωνιστική του πρωταθλήματος, στο γήπεδο «Γ…",
+"also": [],
+"id": "406b817b34f8"
+},
+{
+"title": "Η διαιτητική τριάδα στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης",
+"url": "http://www.sport-fm.gr/article/5162048",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-19T08:43+00:00",
+"sport": "basket",
+"snippet": "Δείτε τους τρεις διαιτητές που θα σφυρίξουν στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης, για τη 13η αγωνιστική της Ευρωλίγκας.",
+"also": [],
+"id": "b9be93da51a7"
+},
+{
+"title": "Πρωινός Τύπος (19/11): «Να σταματήσει το... κρυφτό ο Ολυμπιακός - Αυτό χρειάζεται ο Παναθηναϊκός»",
+"url": "https://www.sdna.gr/podosfairo/1488189_proinos-typos-19/11-na-stamatisei-kryfto-o-olympiakos-ayto-hreiazetai-o",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T08:35+00:00",
+"sport": "football",
+"snippet": "Στις αδυναμίες των Ολυμπιακού και Παναθηναϊκού που εμφανίζουν στη Euroleague στέκεται ο Τύπος, αλλά και στους τραυματισμούς που προκύπτουν στα...",
+"also": [],
+"id": "e48e8399c9fb"
+},
 {
 "title": "EuroLeague: Οι διαιτητές του Ολυμπιακός - Ρεάλ Μαδρίτης",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587835/euroleague-oi-diaitites-toy-olympiakos-real-madritis",
@@ -11,20 +59,16 @@
 "published": "2026-11-19T08:32+00:00",
 "sport": "basket",
 "snippet": "Ο Ολυμπιακός υποδέχεται τη Ρεάλ Μαδρίτης στη SUNEL Arena (20/11, 21:15, LIVE στο Gazzetta) για την 13η αγωνιστική της EuroLeague. Οι διαιτητές του αγώνα.",
-"also": [],
-"id": "dadc01c1df75"
-},
+"also": [
 {
-"title": "Πρωινός Τύπος (19/11): «Να σταματήσει το... κρυφτό ο Ολυμπιακός - Αυτό χρειάζεται ο Παναθηναϊκός»",
-"url": "https://www.sdna.gr/podosfairo/1488189_proinos-typos-19/11-na-stamatisei-kryfto-o-olympiakos-ayto-hreiazetai-o",
 "source": "sdna",
 "source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T08:31+00:00",
-"sport": "football",
-"snippet": "Στις αδυναμίες των Ολυμπιακού και Παναθηναϊκού που εμφανίζουν στη Euroleague στέκεται ο Τύπος, αλλά και στους τραυματισμούς που προκύπτουν στα...",
-"also": [],
-"id": "e48e8399c9fb"
+"url": "https://www.sdna.gr/mpasket/1488200_oi-diaitites-toy-olympiakos-real-madritis",
+"title": "Οι διαιτητές του Ολυμπιακός-Ρεάλ Μαδρίτης",
+"published": "2026-11-19T08:44+00:00"
+}
+],
+"id": "dadc01c1df75"
 },
 {
 "title": "Άρης: Ο Κουαμέ περιμένει τον Ολυμπιακό εκεί που σκοράρει",
@@ -4958,42 +5002,6 @@
 "snippet": "Ο Άρης του Βασίλη Σπανούλη πραγματοποίησε νέα εντυπωσιακή εμφάνιση, με τον Ολυμπιακό να είναι το νέο θύμα των κιτρινόμαυρων στο κατάμεστο Αλεξάνδρειο ...",
 "also": [],
 "id": "a2322b6500c3"
-},
-{
-"title": "Άρης: Έτσι νίκησε τον Παναθηναϊκό και τον Ολυμπιακό μέσα σε δύο εβδομάδες",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586789/aris-etsi-nikise-ton-panathinaiko-kai-ton-olympiako-mesa-se-dyo",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T19:10+00:00",
-"sport": "basket",
-"snippet": "Δείτε τα highlights των δύο νικών του Άρη κόντρα σε Παναθηναϊκό και Ολυμπιακό φέτος.",
-"also": [],
-"id": "6c7ff0f821e0"
-},
-{
-"title": "Ολυμπιακός: Ένας κούκος δεν φέρνει την άνοιξη",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586784/olympiakos-enas-koykos-den-fernei-tin-anoixi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T19:00+00:00",
-"sport": "basket",
-"snippet": "Ο Παναγιώτης Ραμαντάνης γράφει την κακή εικόνα του Ολυμπιακού κόντρα στον Άρη και τον Εβάν Φουρνιέ που πάλευε μόνος.",
-"also": [],
-"id": "8cfdacd2c6af"
-},
-{
-"title": "Δεν ξανάγινε: Ο Ολυμπιακός έχασε για πρώτη φορά μετά την εκλογή Λιόλιου από άλλη ομάδα πλην Παναθηναϊκού!",
-"url": "https://www.sdna.gr/mpasket/1487014_den-xanagine-o-olympiakos-ehase-gia-proti-fora-meta-tin-eklogi-liolioy-apo-alli",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T18:59+00:00",
-"sport": "basket",
-"snippet": "Μια εβδομάδα πριν ο Ολυμπιακός κέρδισε στο ένα σουτ το Μαρούσι. Αυτή την εβδομάδα οι Πειραιώτες γνώρισαν την πρώτη ήττα από οποιαδήποτε ελληνική...",
-"also": [],
-"id": "56f65603801c"
 }
 ]
 }
