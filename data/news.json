@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T11:08:39+00:00",
+"generated_at": "2026-11-19T11:23:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δύσκολα θα προλάβει ο Μιλουτίνοφ",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15239146/olympiakos-dyskola-tha-prolavei-o-miloutinof/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T11:09+00:00",
+"sport": "basket",
+"snippet": "Ο Σέρβος σέντερ δεν έχει καταφέρει να μπει σε κανονικό ρυθμό προπονήσεων και το πιθανότερο είναι να μείνει εκτός αποστολής για το ματς με την ισπανική ομάδα…",
+"also": [],
+"id": "f1a4d6ae5a27"
+},
 {
 "title": "Ολυμπιακός: Οι συζητήσεις του Ιμανόλ με τον Μπέιλι",
 "url": "https://sportday.gr/podosfairo/365769_olympiakos-oi-syzitiseis-tou-imanol-me-ton-mpeili.html",
@@ -5013,18 +5025,6 @@
 "snippet": "Ο Νίκος Ζέρβας σχολιάζει την ήττα του Ολυμπιακού με 100-78 από τον Άρη και επισημαίνει την ανάγκη για δύο μεταγραφές αντί για μία, μετά την κακή εμφάνιση.",
 "also": [],
 "id": "8c52bfb69c7f"
-},
-{
-"title": "Έκλεισε η μεταγραφή στον Ολυμπιακό: Ο πρώτος που θα είναι στο Ρέντη τον Ιανουάριο",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487033_ekleise-i-metagrafi-ston-olympiako-o-protos-poy-tha-einai-sto",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T20:28+00:00",
-"sport": "football",
-"snippet": "Οι Πειραιώτες φέρνουν παίκτη σε μία θέση που υπάρχει πρόβλημα από την αρχή της σεζόν, ωστόσο ελπίζουν πως θα τον... ηρεμήσουν.",
-"also": [],
-"id": "c84a0e195a0a"
 }
 ]
 }
