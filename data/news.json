@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T10:38:22+00:00",
+"generated_at": "2026-11-19T10:53:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δεν παίζει με τη Ρεάλ ο Ντόρσεϊ",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15239129/olympiakos-den-paizei-me-ti-real-o-ntorsei/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T10:40+00:00",
+"sport": "basket",
+"snippet": "Ο ομογενής γκαρντ δε θα επιστρέψει στις αγωνιστικές υποχρεώσεις των Πειραιωτών, στον αγώνα με τη Ρεάλ Μαδρίτης, καθώς ο Γιώργος Μπαρτζώκας θεωρεί πως δεν έχει…",
+"also": [],
+"id": "0de21f6a37d3"
+},
 {
 "title": "Ολυμπιακός: Χωρίς Ντόρσεϊ απέναντι στη Ρεάλ",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587870/olympiakos-horis-ntorsei-apenanti-sti-real",
@@ -42,6 +54,13 @@
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2037641/ntorsei-ektos-apostolis-tou-olimpiakou-ke-me-real/",
 "title": "Ντόρσεϊ: Εκτός αποστολής του Ολυμπιακού (και) με Ρεάλ",
 "published": "2026-11-19T10:34+00:00"
+},
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/basket/365802_olympiakos-ektos-kai-me-ti-real-madritis-o-ntorsei-ksekatharos-o-mpartzokas.html",
+"title": "Ολυμπιακός: Εκτός και με τη Ρεάλ Μαδρίτης ο Ντόρσεϊ – Ξεκάθαρος ο Μπαρτζώκας!",
+"published": "2026-11-19T10:39+00:00"
 }
 ],
 "id": "8cceebc12cc6"
@@ -5013,18 +5032,6 @@
 "snippet": "Η ήττα του Ολυμπιακού από τον Άρη ήταν ιστορική για παραπάνω από έναν λόγους. The post Ολυμπιακός: Το -22 από τον Άρη η πιο βαριά ήττα στην Ελλάδα μετά το…",
 "also": [],
 "id": "f31c53a95f81"
-},
-{
-"title": "Ρεάλ: Δεν έκανε “στάση” ούτε στη Βιτόρια για το 8/8 πριν τη “διαβολοβδομάδα” με Ολυμπιακό",
-"url": "https://www.eurohoops.net/el/acb-el/2035749/real-den-ekane-stasi-oute-stin-vitoria-gia-to-8-8-strefete-se-besiktas-ke-olimpiako/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-15T19:59+00:00",
-"sport": "basket",
-"snippet": "Η Ρεάλ νίκησε 98-84 την Μπασκόνια για την ACB και πλέον ετοιμάζεται για την \"διπλή\" εβδομάδα με Μπεσίκτας και Ολυμπιακό (20/11, 21:15). The post Ρεάλ: Δεν…",
-"also": [],
-"id": "51915fc6eae3"
 }
 ]
 }
