@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T17:12:35+00:00",
+"generated_at": "2026-11-19T17:27:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η ΚΑΕ Παναθηναϊκός απάντησε στην ΚΑΕ Ολυμπιακός",
+"url": "https://www.ertsports.gr/mpasket/i-kae-panathinaikos-apantise-stin-kae-olympiakos/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-19T17:25+00:00",
+"sport": "basket",
+"snippet": "Με νέα ανακοίνωσή της, η ΚΑΕ Παναθηναϊκός AKTOR απάντησε στον Ολυμπιακό σχετικά με την υπόθεση της Βάσως Τσαρούχα, υποστηρίζοντας ότι οι \"ερυθρόλευκοι\"…",
+"also": [],
+"id": "96b2805d42c9"
+},
+{
+"title": "Ολυμπιακός μεταγραφές: Ο Μπουνταουί, τα 5 εκατ. της Νις και η ανάγκη για άμεση λύση",
+"url": "https://sportime.gr/podosfairo/olimpiakos-metagrafes-o-bountaoui-ta-5-ekat-tis-nis-ke-i-anagki-gia-amesi-lisi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T17:17+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός εξετάζει την περίπτωση του Χισάμ Μπουνταουί μετά τους τραυματισμούς στα χαφ. Τα 5 εκατ. της Νις, το συμβόλαιο και η πίεση του χρόνου.",
+"also": [],
+"id": "e84916f01961"
+},
 {
 "title": "Super League: Σε κυκλοφορία τα εισιτήρια για το Ολυμπιακός – Ηρακλής",
 "url": "https://www.ertsports.gr/podosfairo/super-league-se-kykloforia-ta-eisitiria-gia-to-olympiakos-iraklis/",
@@ -94,7 +118,7 @@
 "official": false,
 "published": "2026-11-19T16:56+00:00",
 "sport": "basket",
-"snippet": "H KAE Παναθηναϊκός απάντησε αποστομωτικά στον Ολυμπιακός στην ανακοίνωσή της, τονίζοντας πως οι «ερυθρόλευκοι» αυτοδιαψεύδοντι ομολογώντας πως...",
+"snippet": "H KAE Παναθηναϊκός απάντησε αποστομωτικά στον Ολυμπιακό στην ανακοίνωσή της, τονίζοντας πως οι «ερυθρόλευκοι» αυτοδιαψεύδοντι ομολογώντας πως...",
 "also": [],
 "id": "a9a85f1e36da"
 },
@@ -4994,30 +5018,6 @@
 "snippet": "Σε κλίμα ανησυχίας βρίσκονται οι άνθρωποι της Μίλαν μετά την αναγκαστική αλλαγή του Μάικ Μενιάν στο παιχνίδι της Γαλλίας με την Τουρκία.",
 "also": [],
 "id": "e6d11fc1a031"
-},
-{
-"title": "Ολυμπιακός: Χωρίς Κόντσαρ στην Κύπρο για τη μάχη με τη Μακάμπι – Τα δεδομένα για το μέλλον του",
-"url": "https://sportday.gr/basket/365477_olympiakos-choris-kontsar-stin-kypro-gia-ti-machi-me-ti-makampi-ta-dedomena-gia-to-mellon-tou.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-16T11:52+00:00",
-"sport": "basket",
-"snippet": "Εκτός αποστολής για την εκτός έδρας αναμέτρηση με τη Μακάμπι Τελ Αβίβ θα μείνει ο Τζον Κόντσαρ, καθώς ο Ολυμπιακός αποφάσισε να μην συμπεριλάβει τον Αμερικανό…",
-"also": [],
-"id": "f5a01e72dc5a"
-},
-{
-"title": "Η Φενέρμπαχτσε κοιτάει τον Αντρέ Λουίζ που ενδιαφέρει τον Ολυμπιακό",
-"url": "https://www.metrosport.gr/i-fenermpachtse-koitaei-ton-antre-loyiz-poy-endiaferei-ton-olympiako-1333745",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-16T11:45+00:00",
-"sport": "general",
-"snippet": "Η Φενέρμπαχτσε, η οποία στοχεύει στην κατάκτηση του πρωταθλήματος στη Süper Lig στο τέλος της σεζόν, ξεκίνησε νωρίς την προετοιμασία της ενόψει της ...",
-"also": [],
-"id": "11afe6d762d0"
 }
 ]
 }
