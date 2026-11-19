@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-19T19:44:12+00:00",
+"generated_at": "2026-11-19T19:59:12+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα παιχνίδια που θα χάσουν Πουέρτα και Τσικίνιο",
+"url": "https://www.sdna.gr/podosfairo/1488349_olympiakos-ta-paihnidia-poy-tha-hasoyn-poyerta-kai-tsikinio",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T19:55+00:00",
+"sport": "football",
+"snippet": "Σημαντικά προβλήματα στη μεσαία γραμμή του Ολυμπιακού, με τους Γκουστάβο Πουέρτα και Τσικίνιο να τίθενται εκτός δράσης για μεγάλο χρονικό διάστημα....",
+"also": [],
+"id": "963cc6ef6e4d"
+},
+{
+"title": "Ολυμπιακός: Ο Κάρμο τραυμάτισε τον Τσικίνιο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-karmo-travmatise-ton-tsikinio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T19:49+00:00",
+"sport": "general",
+"snippet": "Ο Νταβίντ Κάρμο τραυμάτισε άθελά του τον Τσικίνιο σε προπόνηση του Ολυμπιακού. Απαρηγόρητος ο Αγκολέζος στόπερ μετά το κάταγμα στο μετατάρσιο.",
+"also": [],
+"id": "f88f304863c6"
+},
+{
+"title": "Ολυμπιακός: Το μήνυμα του Πουέρτα μετά τον τραυματισμό του (pic)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239874/olympiakos-to-minyma-tou-pouerta-meta-ton-traymatismo-tou-pic/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T19:43+00:00",
+"sport": "football",
+"snippet": "Το δικό του μήνυμα μετά τον τραυματισμό του έστειλε ο Γκουστάβο Πουέρτα, ευχαριστώντας όσους στάθηκαν δίπλα του τις τελευταίες ώρες. Ο Κολομβιανός μέσος του…",
+"also": [],
+"id": "29b053420b4e"
+},
 {
 "title": "Ο Θρύλος λιώνει την Βασίλισσα, πάει με φόρα για 10UP* στη Superbet!*",
 "url": "https://www.sdna.gr/stoihima/1488355_o-thrylos-lionei-tin-basilissa-paei-me-fora-gia-10up-sti-superbet",
@@ -4936,65 +4972,6 @@
 "snippet": "Διαβάστε τι δήλωσε ο Τζον Κόντσαρ μετά τη λύση της συνεργασίας του με τον Ολυμπιακό.",
 "also": [],
 "id": "e53bc5c00c81"
-},
-{
-"title": "Ολυμπιακός: Τέλος ο Κόντσαρ!",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586985/olympiakos-telos-o-kontsar",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T14:18+00:00",
-"sport": "basket",
-"snippet": "Παρελθόν αποτελεί από τον Ολυμπιακό ο Τζον Κόντσαρ, όπως ανακοίνωσε η «ερυθρόλευκη» ΚΑΕ.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233696/olympiakos-telos-o-kontsar/",
-"title": "Ολυμπιακός: Τέλος ο Κόντσαρ!",
-"published": "2026-11-16T14:19+00:00"
-},
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/telos-apo-ton-olympiako-o-kontsar/",
-"title": "Τέλος από τον Ολυμπιακό ο Κόντσαρ",
-"published": "2026-11-16T14:20+00:00"
-}
-],
-"id": "0d6b90f48de5"
-},
-{
-"title": "Ολυμπιακός: Κόντσαρ ήταν και πάει – Τέλος κι επίσημα ο Αμερικανός",
-"url": "https://sportday.gr/basket/365495_olympiakos-kontsar-itan-kai-paei-telos-ki-episima-o-amerikanos.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-16T14:18+00:00",
-"sport": "basket",
-"snippet": "Παρελθόν από τον Ολυμπιακό σε σύντομο χρονικό διάστημα αποτελεί ο Τζον Κόντσαρ - Τι δήλωσε ο Αμερικανός",
-"also": [],
-"id": "62dbd63e7d9c"
-},
-{
-"title": "Επίσημο: Τέλος ο Τζον Κόντσαρ από τον Ολυμπιακό",
-"url": "https://www.sdna.gr/mpasket/1487297_episimo-telos-o-tzon-kontsar-apo-ton-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T14:17+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός με ανακοίνωση του γνωστοποίησε την λύση της συνεργασίας του με τον Τζον Κόντσαρ, με τον Αμερικανό άσο να ευχαριστεί τους «ερυθρόλευκους»...",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/telos-apo-ton-olympiako-o-tzon-kontsar-i-anakoinosi-1333785",
-"title": "Τέλος από τον Ολυμπιακό ο Τζον Κόντσαρ-Η ανακοίνωση",
-"published": "2026-11-16T14:35+00:00"
-}
-],
-"id": "0c25288e44de"
 }
 ]
 }
