@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T08:22:11+00:00",
+"generated_at": "2026-11-19T08:37:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "EuroLeague: Οι διαιτητές του Ολυμπιακός - Ρεάλ Μαδρίτης",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587835/euroleague-oi-diaitites-toy-olympiakos-real-madritis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T08:32+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται τη Ρεάλ Μαδρίτης στη SUNEL Arena (20/11, 21:15, LIVE στο Gazzetta) για την 13η αγωνιστική της EuroLeague. Οι διαιτητές του αγώνα.",
+"also": [],
+"id": "dadc01c1df75"
+},
+{
+"title": "Πρωινός Τύπος (19/11): «Να σταματήσει το... κρυφτό ο Ολυμπιακός - Αυτό χρειάζεται ο Παναθηναϊκός»",
+"url": "https://www.sdna.gr/podosfairo/1488189_proinos-typos-19/11-na-stamatisei-kryfto-o-olympiakos-ayto-hreiazetai-o",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T08:31+00:00",
+"sport": "football",
+"snippet": "Στις αδυναμίες των Ολυμπιακού και Παναθηναϊκού που εμφανίζουν στη Euroleague στέκεται ο Τύπος, αλλά και στους τραυματισμούς που προκύπτουν στα...",
+"also": [],
+"id": "e48e8399c9fb"
+},
 {
 "title": "Άρης: Ο Κουαμέ περιμένει τον Ολυμπιακό εκεί που σκοράρει",
 "url": "https://sportime.gr/aris-fc/aris-o-kouame-perimeni-ton-olimpiako-eki-pou-skorari?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4970,30 +4994,6 @@
 "snippet": "Μια εβδομάδα πριν ο Ολυμπιακός κέρδισε στο ένα σουτ το Μαρούσι. Αυτή την εβδομάδα οι Πειραιώτες γνώρισαν την πρώτη ήττα από οποιαδήποτε ελληνική...",
 "also": [],
 "id": "56f65603801c"
-},
-{
-"title": "Ολυμπιακός: 22 χρόνια μετά ήττα με πάνω από 20 πόντους διαφορά!",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15232552/olympiakos-22-xronia-meta-itta-me-pano-apo-20-pontous-diafora/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-15T18:59+00:00",
-"sport": "basket",
-"snippet": "Οι βαριές ήττες με διαφορές άνω των 20 πόντων από ομάδες πλην του Παναθηναϊκού συνιστούν ένα εξαιρετικά σπάνιο φαινόμενο στη σύγχρονη ιστορία του Ολυμπιακού…",
-"also": [],
-"id": "b495284cd001"
-},
-{
-"title": "Άρης: Υπέταξε Παναθηναϊκό και Ολυμπιακό στο Αλεξάνδρειο μετά από 26 χρόνια! (vid)",
-"url": "https://sportime.gr/basket/aris-ipetaxe-panathinaiko-ke-olimpiako-sto-alexandrio-meta-apo-26-chronia-vid?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T18:57+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης νίκησε Παναθηναϊκό και Ολυμπιακό στο Αλεξάνδρειο την ίδια σεζόν για πρώτη φορά μετά από 26 χρόνια. Δείτε το εντυπωσιακό βίντεο.",
-"also": [],
-"id": "0df318677d5c"
 }
 ]
 }
