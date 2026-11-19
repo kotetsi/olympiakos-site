@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T10:08:08+00:00",
+"generated_at": "2026-11-19T10:23:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Εκτός και με Ρεάλ Μαδρίτης ο Ντόρσεϊ",
+"url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-ektos-kai-me-real-madritis-o-ntorsei/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-19T10:20+00:00",
+"sport": "basket",
+"snippet": "Όπως είπε ο Γιώργος Μπαρτζώκας στη media day του Ολυμπιακού ενόψει της αυριανής αναμέτρησης (20/11, 21:15, ΕΡΑ ΣΠΟΡ) με τη Ρεάλ Μαδρίτης για την 13η αγωνιστική…",
+"also": [],
+"id": "8cceebc12cc6"
+},
+{
+"title": "«Πονάει» στο κέντρο ο Ολυμπιακός: Ποιες είναι οι επιλογές ενόψει Ηρακλή",
+"url": "https://www.metrosport.gr/ponaei-sto-kentro-o-olympiakos-poies-einai-oi-epiloges-enopsei-irakli-1334089",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-19T10:15+00:00",
+"sport": "football",
+"snippet": "Την προετοιμασία του για τον κυριακάτικο αγώνα με αντίπαλο τον Ηρακλή στο «Γ. Καραϊσκάκης» συνεχίζει ο Ολυμπιακός, με τον προπονητή του, Ιμανόλ ...",
+"also": [],
+"id": "7ccd1c5a5838"
+},
 {
 "title": "Ολυμπιακός: Η λύπη του Κοβάσεβιτς...",
 "url": "https://www.gazzetta.gr/football/2587863/olympiakos-i-lypi-toy-kobasebits",
@@ -4993,30 +5017,6 @@
 "snippet": "Ο Άρης του Βασίλη Σπανούλη απέδειξε σε ακόμα ένα παιχνίδι υψηλών απαιτήσεων ότι επέστρεψε για τα καλά, γυρνώντας, παράλληλα, τον Ολυμπιακό επτά χρόνια...",
 "also": [],
 "id": "7fb96afd03af"
-},
-{
-"title": "Έχει καλύτερο πλέι μέικερ ο Ολυμπιακός ή ο Παναθηναϊκός από τον Ντιμιτρίεβιτς;",
-"url": "https://www.sdna.gr/mpasket/1487011_ehei-kalytero-plei-meiker-o-olympiakos-i-o-panathinaikos-apo-ton-ntimitriebits",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T19:45+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης μετά τον Παναθηναϊκό υπέταξε στο «Παλέ» με πειστικότατη εμφάνιση και τον Ολυμπιακό, με τον Νένο Ντιμιτρίεβιτς να κλέβει γι’ άλλη μία φορά τις...",
-"also": [],
-"id": "f18d42fca1f6"
-},
-{
-"title": "Η ατάκα του Μπαρτζώκα στους διαιτητές του Άρης-Ολυμπιακός: «Τι νούμερα είστε σήμερα»",
-"url": "https://www.metrosport.gr/i-ataka-toy-mpartzoka-stoys-diaitites-toy-aris-olympiakos-1333707",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-15T19:41+00:00",
-"sport": "basket",
-"snippet": "Ο Άρης ήταν ο μεγάλος νικητής του ντέρμπι της 7ης αγωνιστική της Stoiximan GBL, επικρατώντας με 100-78 επί του Ολυμπιακού, κάνοντας ακόμα μια ηχηρή ...",
-"also": [],
-"id": "575bc2958f74"
 }
 ]
 }
