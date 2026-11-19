@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T09:07:34+00:00",
+"generated_at": "2026-11-19T09:22:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αγωνία για τον Πουέρτα, το διάστημα απουσίας και οι λύσεις του Αλγουαθίλ (audio)",
+"url": "https://www.ertsports.gr/era-spor/olympiakos-agonia-gia-ton-pouerta-to-diastima-apousias-kai-oi-lyseis-tou-algouathil-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-19T09:01+00:00",
+"sport": "football",
+"snippet": "Ο τραυματισμός του Κολομβιανού μέσου φαίνεται πως είναι πιο σοβαρός από τις αρχικές εκτιμήσεις, με τους ανθρώπους των \"ερυθρόλευκων\" να περιμένουν την άφιξή…",
+"also": [],
+"id": "978bcd6019b3"
+},
 {
 "title": "Η ώρα της απόφασης Μπαρτζώκα για Ντόρσεϊ: Πότε επιστρέφει στα παρκέ με τον Ολυμπιακό",
 "url": "https://www.metrosport.gr/i-ora-tis-apofasis-mpartzoka-gia-ntorsey-pote-epistrefei-sta-parke-me-ton-olympiako-1334090",
@@ -90,6 +102,13 @@
 "url": "https://www.sdna.gr/mpasket/1488200_oi-diaitites-toy-olympiakos-real-madritis",
 "title": "Οι διαιτητές του Ολυμπιακός-Ρεάλ Μαδρίτης",
 "published": "2026-11-19T08:44+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15239056/olympiakos-oi-diaitites-tou-agona-me-ti-real-madritis-2/",
+"title": "Ολυμπιακός: Οι διαιτητές του αγώνα με τη Ρεάλ Μαδρίτης",
+"published": "2026-11-19T09:14+00:00"
 }
 ],
 "id": "dadc01c1df75"
@@ -4990,18 +5009,6 @@
 "snippet": "Η τελευταία φορά που ηττήθηκε ο Ολυμπιακός στο «Παλέ», ο Άρης είχε στο ρόστερ του τον Σάσα Βεζένκοβ σε ρόλο πρωταγωνιστή. Πότε συνέβη;",
 "also": [],
 "id": "e28096ad9aa0"
-},
-{
-"title": "Άρης - Ολυμπιακός: Η ατάκα του Μπαρτζώκα στους διαιτητές μετά τη δεύτερη τεχνική ποινή",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586793/aris-olympiakos-i-ataka-toy-mpartzoka-stoys-diaitites-meta-ti",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-15T19:23+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Μπαρτζώκας αποβλήθηκε στο ματς με τον Άρη, με την κάμερα να καταγράφει την ατάκα του προς τους διαιτητές κατά την αποχώρησή του.",
-"also": [],
-"id": "6a833f8a3fa9"
 }
 ]
 }
