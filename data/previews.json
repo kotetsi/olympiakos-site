@@ -191,5 +191,19 @@
   "sport": "volley",
   "b_team": false,
   "comp": "Volley League Ανδρών 2026-27"
+ },
+ "2026-11-25-olympiakos-chapoel-tel-aviv": {
+  "title": "Ολυμπιακός - Χάποελ Τελ Αβίβ",
+  "home": "Ολυμπιακός",
+  "away": "Χάποελ Τελ Αβίβ",
+  "opp": "Χάποελ Τελ Αβίβ",
+  "oly_home": true,
+  "start": "2026-11-25T19:15+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  }
 }
