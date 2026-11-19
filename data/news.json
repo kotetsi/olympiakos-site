@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-19T17:27:46+00:00",
+"generated_at": "2026-11-19T17:42:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το ευρωπαϊκό ξεκίνημα που του… αγόρασε χρόνο",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239670/olympiakos-to-eyropaiko-ksekinima-pou-tou-agorase-xrono/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T17:36+00:00",
+"sport": "football",
+"snippet": "Οι τραυματισμοί μαζεύτηκαν στον Ολυμπιακό στην πιο ακατάλληλη στιγμή. Έσε, Πουέρτα και Τσικίνιο δημιουργούν στον Ιμανόλ Αλγκουαθίλ προβλήματα σε μια περιοχή…",
+"also": [],
+"id": "a5ffaadc3114"
+},
+{
+"title": "Έχει ρήτρα 100 εκατ., ζητούν 10 για το 70% και τον θέλει Ολυμπιακός",
+"url": "https://www.sdna.gr/podosfairo/1488331_ehei-ritra-100-ekat-zitoyn-10-gia-70-kai-ton-thelei-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T17:32+00:00",
+"sport": "football",
+"snippet": "Παίκτης που έκανε πρόσφατα το ντεμπούτο με την Εθνική Βραζιλίας και ετοιμάζεται για μεταγραφή, ωστόσο τα χρήματα είναι εκτός ελληνικής...",
+"also": [],
+"id": "618801a59417"
+},
+{
+"title": "Πρόβλημα στην Ευρώπη για τον Ολυμπιακό: Ο Σιπιόνι δε μπορεί να αντικαταστήσει τον Τσικίνιο ή τον Πουέρτα πριν τα νοκ άουτ",
+"url": "https://sportday.gr/podosfairo/365828_provlima-stin-evropi-gia-ton-olympiako-o-sipioni-de-mporei-na-antikatastisei-ton-tsikinio-i-ton-pouerta-prin-ta-nok-aout.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-19T17:32+00:00",
+"sport": "football",
+"snippet": "Ο περιορισμός της UEFA που δεν επιτρέπει στον Ολυμπιακό να προχωρήσει σε αντικατάσταση του Τσικίνιο στο Europa League.",
+"also": [],
+"id": "eb497e5ba16c"
+},
 {
 "title": "Η ΚΑΕ Παναθηναϊκός απάντησε στην ΚΑΕ Ολυμπιακός",
 "url": "https://www.ertsports.gr/mpasket/i-kae-panathinaikos-apantise-stin-kae-olympiakos/",
@@ -75,18 +111,6 @@
 "id": "0e9bc300d986"
 },
 {
-"title": "Παναθηναϊκός: “Ο Ολυμπιακός έχει ασκήσει και δεύτερη πρόσθετη παρέμβαση υπέρ του ορισμού της Τσαρούχα”",
-"url": "https://www.eurohoops.net/el/heba-el/2037801/panathinaikos-o-olimpiakos-echi-askisi-ke-defteri-prostheti-paremvasi-iper-tou-orismou-tis-tsaroucha/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-19T17:01+00:00",
-"sport": "basket",
-"snippet": "Ανακοίνωση απάντηση της ΚΑΕ Παναθηναϊκός στην ΚΑΕ Ολυμπιακός. The post Παναθηναϊκός: “Ο Ολυμπιακός έχει ασκήσει και δεύτερη πρόσθετη παρέμβαση υπέρ του ορισμού…",
-"also": [],
-"id": "951becc150a0"
-},
-{
 "title": "ΚΑΕ Παναθηναϊκός για Ολυμπιακό: «Με πανηγυρικό τρόπο, αυτοδιαψεύδεται, έχει ασκήσει παρέμβαση υπέρ του ορισμού της Τσαρούχα!»",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2587980/kae-panathinaikos-gia-olympiako-me-panigyriko-tropo",
 "source": "gazzetta",
@@ -95,7 +119,15 @@
 "published": "2026-11-19T16:58+00:00",
 "sport": "basket",
 "snippet": "Η ΚΑΕ Παναθηναϊκός μέσω ανακοίνωσης απάντησε στην ΚΑΕ Ολυμπιακός για όσα συνέβησαν στον 5ο τελικό του ελληνικού πρωταθλήματος του 2026.",
-"also": [],
+"also": [
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/heba-el/2037801/panathinaikos-o-olimpiakos-echi-askisi-ke-defteri-prostheti-paremvasi-iper-tou-orismou-tis-tsaroucha/",
+"title": "Παναθηναϊκός: “Ο Ολυμπιακός αυτοδιαψεύδεται, έχει ασκήσει και 2η πρόσθετη παρέμβαση υπέρ του ορισμού της Τσαρούχα”",
+"published": "2026-11-19T17:01+00:00"
+}
+],
 "id": "03820b332a1a"
 },
 {
@@ -4994,30 +5026,6 @@
 }
 ],
 "id": "af923b73700f"
-},
-{
-"title": "Ανακοίνωση",
-"url": "https://www.olympiacos.org/2026/11/16/anakoinosi-83/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-16T12:27+00:00",
-"sport": "general",
-"snippet": "Ανακοίνωση της ΠΑΕ Ολυμπιακός σχετικά με την επιστροφή του Νταβίντ Φουστέρ.",
-"also": [],
-"id": "025814125995"
-},
-{
-"title": "Μίλαν: Ανησυχία με Μενιάν - Φόβοι για την κατάστασή του ενόψει Serie A και Ολυμπιακού",
-"url": "https://www.gazzetta.gr/football/serie/2586940/milan-anisyhia-me-menian-foboi-gia-tin-katastasi-toy-enopsei-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T11:54+00:00",
-"sport": "football",
-"snippet": "Σε κλίμα ανησυχίας βρίσκονται οι άνθρωποι της Μίλαν μετά την αναγκαστική αλλαγή του Μάικ Μενιάν στο παιχνίδι της Γαλλίας με την Τουρκία.",
-"also": [],
-"id": "e6d11fc1a031"
 }
 ]
 }
