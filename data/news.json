@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T15:11:00+00:00",
+"generated_at": "2026-11-19T15:26:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μήνας ευκαιριών και αποδείξεων!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239493/olympiakos-minas-eykairion-kai-apodeikseon/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T15:19+00:00",
+"sport": "football",
+"snippet": "Οι τραυματισμοί των Έσε, Πουέρτα και Τσικίνιο έρχονται σε ένα σημείο της σεζόν στο οποίο ο Ολυμπιακός θα ήθελε να έχει όσο το δυνατόν περισσότερες επιλογές. Το…",
+"also": [],
+"id": "d1c854c78f29"
+},
 {
 "title": "Ολυμπιακός: Οι τραυματισμοί φέρνουν στο προσκήνιο την αναβολή",
 "url": "https://www.sdna.gr/podosfairo/1488291_olympiakos-oi-traymatismoi-fernoyn-sto-proskinio-tin-anaboli",
@@ -39,18 +51,6 @@
 "id": "6f718f49922c"
 },
 {
-"title": "Ολυμπιακός - Ηρακλής: Κυκλοφόρησαν τα εισιτήρια για το ματς",
-"url": "https://www.gazzetta.gr/football/superleague/2587932/olympiakos-iraklis-kykloforisan-ta-eisitiria-gia-mats",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-19T14:34+00:00",
-"sport": "football",
-"snippet": "Όπως ανακοίνωσε η ΠΑΕ Ολυμπιακός ξεκίνησε η διάθεση των εισιτηρίων για την εντός έδρα αναμέτρηση με τον Ηρακλή.",
-"also": [],
-"id": "b6d0e60739c7"
-},
-{
 "title": "Ολυμπιακός: 29.000 εισιτήρια έχουν κάνει «φτερά» για Ηρακλή!",
 "url": "http://www.sport-fm.gr/article/5162100",
 "source": "sport-fm",
@@ -59,7 +59,15 @@
 "published": "2026-11-19T14:12+00:00",
 "sport": "football",
 "snippet": "Μεγάλη είναι η ανταπόκριση των φίλων του Ολυμπιακού ενόψει της αναμέτρησης με τον Ηρακλή, καθώς έχουν ήδη διατεθεί 29.000 εισιτήρια και το «Γ. Καραϊσκάκης»…",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/superleague/2587932/olympiakos-iraklis-kykloforisan-ta-eisitiria-gia-mats",
+"title": "Ολυμπιακός: Ήδη 29.000 εισιτήρια έχουν κάνει «φτερά» για Ηρακλή!",
+"published": "2026-11-19T14:34+00:00"
+}
+],
 "id": "922cea00d4c8"
 },
 {
