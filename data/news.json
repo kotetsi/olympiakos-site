@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T17:42:54+00:00",
+"generated_at": "2026-11-19T17:58:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πουέρτα: Δύο μήνες εκτός ο Κολομβιανός μέσος του Ολυμπιακού",
+"url": "https://www.gazzetta.gr/football/superleague/2587994/poyerta-dyo-mines-ektos-o-kolombianos-mesos-toy-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T17:55+00:00",
+"sport": "football",
+"snippet": "Ο Γκουστάβο Πουέρτα θα λείψει για δύο μήνες από τα παιχνίδια του Ολυμπιακού.",
+"also": [],
+"id": "dafdd81aa17a"
+},
+{
+"title": "Ολυμπιακός: Δύο μήνες εκτός ο Πουέρτα – Ανάλογο πρόβλημα με τον Έσε",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239683/olympiakos-dyo-mines-ektos-o-pouerta-analogo-provlima-me-ton-ese/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T17:45+00:00",
+"sport": "football",
+"snippet": "Ο τραυματισμός του Γκουστάβο Πουέρτα θα τον κρατήσει για σημαντικό διάστημα μακριά από τις αγωνιστικές υποχρεώσεις των «ερυθρόλευκων». Σύμφωνα με την ενημέρωση…",
+"also": [],
+"id": "86bcbd771191"
+},
 {
 "title": "Ολυμπιακός: Το ευρωπαϊκό ξεκίνημα που του… αγόρασε χρόνο",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239670/olympiakos-to-eyropaiko-ksekinima-pou-tou-agorase-xrono/",
@@ -4986,46 +5010,6 @@
 "snippet": "Ο Ισπανός παλαίμαχος μέσος, ο οποίος υπηρέτησε τον σύλλογο με τεράστια επιτυχία επί έξι συναπτά έτη (2010-2016) καταγράφοντας 169 συμμετοχές, 45 γκολ και 26…",
 "also": [],
 "id": "a64db08a6957"
-},
-{
-"title": "Επέστρεψε στον Ολυμπιακό με νέο ρόλο ο Φουστέρ",
-"url": "https://www.ertsports.gr/super-league/epestrepse-ston-olympiako-me-neo-rolo-o-fouster/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-16T12:32+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έκανε γνωστή την έναρξη της συνεργασίας του με τον Νταβίντ Φουστέρ, ο οποίος θα αναλάβει το πόστο του Head of Player Development and Loan…",
-"also": [
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/365484_olympiakos-epestrepse-o-fouster-me-allo-rolo.html",
-"title": "Ολυμπιακός: Επέστρεψε ο Φουστέρ με νέο ρόλο!",
-"published": "2026-11-16T13:20+00:00"
-}
-],
-"id": "5b36ebe6eec0"
-},
-{
-"title": "Ανακοίνωσε την επιστροφή Φουστέρ ο Ολυμπιακός",
-"url": "http://www.sport-fm.gr/article/5161408",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-16T12:32+00:00",
-"sport": "general",
-"snippet": "Ο Νταβίντ Φουστέρ επέστρεψε κι επίσημα στον Ολυμπιακό, αναλαμβάνοντας ρόλο στην ομάδα.",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/olympiakos-anakoinose-tin-epistrofi-toy-ntavint-foyster-1333777",
-"title": "Ολυμπιακός: Ανακοίνωσε την επιστροφή του Νταβίντ Φουστέρ",
-"published": "2026-11-16T15:30+00:00"
-}
-],
-"id": "af923b73700f"
 }
 ]
 }
