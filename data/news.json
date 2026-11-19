@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T09:22:43+00:00",
+"generated_at": "2026-11-19T09:37:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η ξεκάθαρη απάντηση για τον αντι-Πουέρτα κόντρα στη Μίλαν",
+"url": "https://www.gazzetta.gr/football/europa-league/2587837/olympiakos-i-xekathari-apantisi-gia-ton-anti-poyerta-kontra-sti",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T09:30+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr το... προφανές για τον αντικαταστάτη του Γκουστάβο Πουέρτα στο ματς με τη Μίλαν.",
+"also": [],
+"id": "1923475155d9"
+},
+{
+"title": "Ολυμπιακός: Η Ρεάλ έρχεται και το ΣΕΦ δεν είναι φρούριο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-i-real-erchete-ke-to-sef-den-ine-frourio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T09:22+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός κερδίζει μακριά από το ΣΕΦ, αλλά έχει ήδη δύο βαριές εντός έδρας επιθετικές βραδιές. Γιατί η Ρεάλ μπορεί να ανοίξει μεγαλύτερη πληγή.",
+"also": [],
+"id": "740653e041d4"
+},
 {
 "title": "Ολυμπιακός: Αγωνία για τον Πουέρτα, το διάστημα απουσίας και οι λύσεις του Αλγουαθίλ (audio)",
 "url": "https://www.ertsports.gr/era-spor/olympiakos-agonia-gia-ton-pouerta-to-diastima-apousias-kai-oi-lyseis-tou-algouathil-audio/",
@@ -71,7 +95,15 @@
 "published": "2026-11-19T08:43+00:00",
 "sport": "basket",
 "snippet": "Δείτε τους τρεις διαιτητές που θα σφυρίξουν στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης, για τη 13η αγωνιστική της Ευρωλίγκας.",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/euroleague/mpelosevits-kai-ntifala-sti-diaititiki-triada-tou-olympiakos-real-madritis/",
+"title": "Μπελόσεβιτς και Ντιφαλά στη διαιτητική τριάδα του Ολυμπιακός – Ρεάλ Μαδρίτης",
+"published": "2026-11-19T09:15+00:00"
+}
+],
 "id": "b9be93da51a7"
 },
 {
@@ -4985,30 +5017,6 @@
 "snippet": "Ο Ολυμπιακός καλείται να επανεξετάσει τον σχεδιασμό του μετά τον Κόντσαρ και την ήττα από τον Άρη. Η πίεση από Άρη και ΠΑΟΚ και οι ανάγκες του ρόστερ.",
 "also": [],
 "id": "39c5bfd007de"
-},
-{
-"title": "Με αυτόν τον παίκτη ο Ολυμπιακός θέλει να παλέψει για το back-to-back",
-"url": "https://www.sdna.gr/stoihima/1486410_me-ayton-ton-paikti-o-olympiakos-thelei-na-palepsei-gia-back-back",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-15T19:35+00:00",
-"sport": "football",
-"snippet": "Μόνο αδιάφορος δεν είναι ο Ολυμπιακός όσον αφορά στη μεταγραφική του δραστηριότητα.",
-"also": [],
-"id": "62cfcad0b605"
-},
-{
-"title": "Άρης – Ολυμπιακός: Με Βεζένκοβ στα… κιτρινόμαυρα η τελευταία ήττα των «ερυθρολεύκων» στο «Αλεξάνδρειο»",
-"url": "https://sportday.gr/basket/365436_aris-olympiakos-me-vezenkov-sta-kitrinomavra-i-teleftaia-itta-ton-erythrolefkon-sto-aleksandreio.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-15T19:26+00:00",
-"sport": "basket",
-"snippet": "Η τελευταία φορά που ηττήθηκε ο Ολυμπιακός στο «Παλέ», ο Άρης είχε στο ρόστερ του τον Σάσα Βεζένκοβ σε ρόλο πρωταγωνιστή. Πότε συνέβη;",
-"also": [],
-"id": "e28096ad9aa0"
 }
 ]
 }
