@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T16:11:39+00:00",
+"generated_at": "2026-11-19T16:27:12+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Γιατί δεν μπορεί να μπει ο Σιπιόνι στην ευρωπαϊκή λίστα αντί του Τσικίνιο",
+"url": "https://www.gazzetta.gr/football/europa-league/2587963/olympiakos-giati-den-mporei-na-mpei-o-sipioni-stin-eyropaiki-lista",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T16:11+00:00",
+"sport": "football",
+"snippet": "Το gazzetta.gr εξηγεί τον λόγο που ο Ολυμπιακός δεν έχει το δικαίωμα να προχωρήσει σε αντικατάσταση του Τσικίνιο στην ευρωπαϊκή λίστα για τα ματς του Europa…",
+"also": [],
+"id": "e1d6f4bfd236"
+},
 {
 "title": "Ολυμπιακός: Από ένα απλό μαρκάρισμα του Κάρμο, στο χειρουργείο ο Τσικίνιο!",
 "url": "https://www.gazzetta.gr/football/superleague/2587961/olympiakos-apo-ena-aplo-markarisma-sto-heiroyrgeio-o-tsikinio",
@@ -5037,18 +5049,6 @@
 }
 ],
 "id": "40c0660c8eb5"
-},
-{
-"title": "Ολυμπιακός - Μίλαν: Εισιτήρια μόνο μέσω internet από τη Δευτέρα (16/11)",
-"url": "https://www.gazzetta.gr/football/europa-league/2586266/olympiakos-milan-eisitiria-mono-meso-internet-apo-ti-deytera",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T09:37+00:00",
-"sport": "football",
-"snippet": "Σε κυκλοφορία τίθενται από την Δευτέρα (16/11), μέσω εξαντλήσεώς τους, τα εισιτήρια του αγώνα Ολυμπιακός - Μίλαν, που θα γίνει στις 26 Νοεμβρίου στο «Γ…",
-"also": [],
-"id": "3b2a7bce1bf0"
 }
 ]
 }
