@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-19T12:54:41+00:00",
+"generated_at": "2026-11-19T13:09:49+00:00",
 "count": 400,
 "items": [
 {
@@ -59,8 +59,28 @@
 "published": "2026-11-19T12:18+00:00",
 "sport": "football",
 "snippet": "Η ατυχία ξαναχτύπησε τον Ολυμπιακό, με τον Τσικίνιο να τραυματίζεται σοβαρά στην προπόνηση.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/olympiakos-neo-sok-ektos-gia-2-mines-o-tsikinio-1334129",
+"title": "Ολυμπιακός-Νέο σοκ: Εκτός για δύο μήνες ο Τσικίνιο",
+"published": "2026-11-19T12:50+00:00"
+}
+],
 "id": "c30126b623a5"
+},
+{
+"title": "Νέο πλήγμα στον Ολυμπιακό: Κάταγμα ο Τσικίνιο!",
+"url": "https://www.gazzetta.gr/football/superleague/2587897/nikolakopoylos-stoys-galacticos-katagma-o-tsikinio",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T12:18+00:00",
+"sport": "football",
+"snippet": "Σοκ στον Ολυμπιακό με Τσικίνιο! Όπως μετέδωσε ο Κώστας Νικολακόπουλος στους Galacticos by Elabet, ο χαφ των Πειραιωτών υπέστη κάταγμα στο μετατάρσιο και…",
+"also": [],
+"id": "57d31c6c02d2"
 },
 {
 "title": "Απίστευτη γκίνια στον Ολυμπιακό – Νοκ άουτ και ο Τσικίνιο για 2 μήνες",
@@ -5013,18 +5033,6 @@
 "snippet": "Ο Τολιόπουλος έβαλε μόλις 6 πόντους αλλά μοίρασε 6 ασίστ χωρίς λάθος. Το 12-2 των γκαρντ του Άρη και το πρόβλημα που δημιουργεί ο Σπανούλης στους αντιπάλους.",
 "also": [],
 "id": "b85a1f8f274c"
-},
-{
-"title": "Ολυμπιακός: Η διπλή τρύπα που άφησε η αποχώρηση Άλεκ Πίτερς",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-dipli-tripa-pou-afise-i-apochorisi-alek-piters?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T23:19+00:00",
-"sport": "general",
-"snippet": "Η αποχώρηση του Άλεκ Πίτερς άφησε δύο σημαντικά κενά στον Ολυμπιακό. Το τρίποντο, η αμυντική τακτική και οι αλλαγές στο παιχνίδι του Μπαρτζώκα.",
-"also": [],
-"id": "6d12b099fb48"
 }
 ]
 }
