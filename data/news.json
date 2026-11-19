@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T10:23:15+00:00",
+"generated_at": "2026-11-19T10:38:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Χωρίς Ντόρσεϊ απέναντι στη Ρεάλ",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587870/olympiakos-horis-ntorsei-apenanti-sti-real",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T10:30+00:00",
+"sport": "basket",
+"snippet": "Χωρίς τον Τάιλερ Ντόρσεϊ θα αγωνιστεί ο Ολυμπιακός κόντρα στη Ρεάλ Μαδρίτης (20/11, 21:15, LIVE στο Gazzetta).",
+"also": [],
+"id": "59a248eaac86"
+},
+{
+"title": "Χωρίς Ντόρσεϊ ο Ολυμπιακός κόντρα στη Ρεάλ Μαδρίτης",
+"url": "http://www.sport-fm.gr/article/5162071",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-19T10:29+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ δεν θα αγωνιστεί ούτε στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης, για τη 13η αγωνιστική της Ευρωλίγκας.",
+"also": [],
+"id": "33043914a327"
+},
 {
 "title": "Ολυμπιακός: Εκτός και με Ρεάλ Μαδρίτης ο Ντόρσεϊ",
 "url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-ektos-kai-me-real-madritis-o-ntorsei/",
@@ -11,7 +35,15 @@
 "published": "2026-11-19T10:20+00:00",
 "sport": "basket",
 "snippet": "Όπως είπε ο Γιώργος Μπαρτζώκας στη media day του Ολυμπιακού ενόψει της αυριανής αναμέτρησης (20/11, 21:15, ΕΡΑ ΣΠΟΡ) με τη Ρεάλ Μαδρίτης για την 13η αγωνιστική…",
-"also": [],
+"also": [
+{
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2037641/ntorsei-ektos-apostolis-tou-olimpiakou-ke-me-real/",
+"title": "Ντόρσεϊ: Εκτός αποστολής του Ολυμπιακού (και) με Ρεάλ",
+"published": "2026-11-19T10:34+00:00"
+}
+],
 "id": "8cceebc12cc6"
 },
 {
@@ -4993,30 +5025,6 @@
 "snippet": "Η Ρεάλ νίκησε 98-84 την Μπασκόνια για την ACB και πλέον ετοιμάζεται για την \"διπλή\" εβδομάδα με Μπεσίκτας και Ολυμπιακό (20/11, 21:15). The post Ρεάλ: Δεν…",
 "also": [],
 "id": "51915fc6eae3"
-},
-{
-"title": "Πληγώνει την πρώην ομάδα του: Τέταρτη συνεχόμενη νίκη του Σπανούλη κόντρα στον Ολυμπιακό!",
-"url": "http://www.sport-fm.gr/article/5161269",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-15T19:57+00:00",
-"sport": "general",
-"snippet": "Η νίκη του Άρη κόντρα στον Ολυμπιακό ήταν η τέταρτη συνεχόμενη του Βασίλη Σπανούλη απέναντι στους «ερυθρόλευκους».",
-"also": [],
-"id": "59208a2def4e"
-},
-{
-"title": "Ο Άρης του Σπανούλη γύρισε τον Ολυμπιακό επτά χρόνια πίσω!",
-"url": "https://www.metrosport.gr/o-aris-toy-spanoyli-gyrise-ton-olympiako-epta-chronia-piso-1333705",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-15T19:57+00:00",
-"sport": "general",
-"snippet": "Ο Άρης του Βασίλη Σπανούλη απέδειξε σε ακόμα ένα παιχνίδι υψηλών απαιτήσεων ότι επέστρεψε για τα καλά, γυρνώντας, παράλληλα, τον Ολυμπιακό επτά χρόνια...",
-"also": [],
-"id": "7fb96afd03af"
 }
 ]
 }
