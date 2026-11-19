@@ -205,5 +205,18 @@
   "sport": "basket",
   "b_team": false,
   "comp": "EuroLeague 2026/27"
+ },
+ "2026-11-29-aris-olympiakos": {
+  "title": "Άρης - Ολυμπιακός",
+  "home": "Άρης",
+  "away": "Ολυμπιακός",
+  "opp": "Άρης",
+  "oly_home": false,
+  "start": "2026-11-29T17:00+00:00",
+  "channels": [],
+  "sport": "football",
+  "b_team": false,
+  "no_time": false,
+  "comp": "Super League"
  }
 }
