@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T20:14:21+00:00",
+"generated_at": "2026-11-19T20:29:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "EuroLeague βαθμολογία: Τρίτος ο Παναθηναϊκός, δεύτερος ο Ολυμπιακός",
+"url": "https://sportime.gr/panathinaikos-bc/euroleague-vathmologia-tritos-o-panathinaikos-defteros-o-olimpiakos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T20:10+00:00",
+"sport": "basket",
+"snippet": "Η βαθμολογία της EuroLeague μετά τη νίκη του Παναθηναϊκού στο Κάουνας. Στην τρίτη θέση οι πράσινοι με 9-4, δεύτερος ο Ολυμπιακός με 9-3.",
+"also": [],
+"id": "e561a6b8220e"
+},
+{
+"title": "Επιστημονική φαντασία ότι Κάρμο ή ο Ρέτσος θα παίξουν αμυντικοί μέσοι, λόγω των τραυματισμών στον Ολυμπιακό ή... όχι",
+"url": "https://sportime.gr/olimpiakos/epistimoniki-fantasia-oti-karmo-i-o-retsos-tha-pexoun-amintiki-mesi-logo-ton-travmatismon-ston-olimpiako-i-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T20:09+00:00",
+"sport": "general",
+"snippet": "Επιστημονική φαντασία ή πραγματική λύση; Οι τραυματισμοί στον Ολυμπιακό ανοίγουν συζήτηση για Παναγιώτη Ρέτσο και Νταβίντ Κάρμο σε ρόλο αμυντικού μέσου.",
+"also": [],
+"id": "07c1520c9fb8"
+},
 {
 "title": "Ολυμπιακός: Τα παιχνίδια που θα χάσουν Πουέρτα και Τσικίνιο",
 "url": "https://www.sdna.gr/podosfairo/1488349_olympiakos-ta-paihnidia-poy-tha-hasoyn-poyerta-kai-tsikinio",
@@ -4948,30 +4972,6 @@
 "snippet": "Νόμιμη έκρινε η από την Επιτροπή Δεοντολογίας της ΚΟΕ, τη μεταγραφή Σπάχιτς στον Ολυμπιακό, ποινή οκτώ αγωνιστικών στον παίκτη στις εγχώριες διοργανώσεις.",
 "also": [],
 "id": "59cb1c38264e"
-},
-{
-"title": "Πανιώνιος - Ολυμπιακός Β 2-0",
-"url": "https://www.sdna.gr/podosfairo/1487312_panionios-olympiakos-b-2-0",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T14:38+00:00",
-"sport": "football",
-"snippet": "Επιστροφή στις νίκες για τον Πανιώνιο απέναντι στον Ολυμπιακό Β (2-0), με τους Πειραιώτες να παραμένουν δίχως νίκη για ένατο συνεχόμενο παιχνίδι,...",
-"also": [],
-"id": "1825caa02b1c"
-},
-{
-"title": "Κόντσαρ: Τι δήλωσε για την αποχώρησή του από τον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2586987/kontsar-ti-dilose-gia-tin-apohorisi-toy-apo-ton-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T14:24+00:00",
-"sport": "basket",
-"snippet": "Διαβάστε τι δήλωσε ο Τζον Κόντσαρ μετά τη λύση της συνεργασίας του με τον Ολυμπιακό.",
-"also": [],
-"id": "e53bc5c00c81"
 }
 ]
 }
