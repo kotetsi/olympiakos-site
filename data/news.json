@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T13:40:09+00:00",
+"generated_at": "2026-11-19T13:55:13+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Μπαρτζώκας κόβει τον Ντόρσεϊ και παίρνει το ρίσκο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-kovi-ton-ntorsei-ke-perni-to-risko?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T13:40+00:00",
+"sport": "general",
+"snippet": "Ο Μπαρτζώκας άφησε τον Ντόρσεϊ εκτός Ρεάλ, παρά το 37άρι του Απριλίου. Με τέσσερις απουσίες και τον Βεζένκοφ να σηκώνει βάρος, το ρίσκο είναι μεγάλο.",
+"also": [],
+"id": "0d5a382e5a92"
+},
+{
+"title": "Ολυμπιακός: Από τάκλιν του Κάρμο το κάταγμα στον Τσικίνιο!",
+"url": "https://www.sdna.gr/podosfairo/1488260_olympiakos-apo-taklin-toy-karmo-katagma-ston-tsikinio",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T13:39+00:00",
+"sport": "football",
+"snippet": "Ραντεβού με την ατυχία είχε ακόμη ένας ποδοσφαιριστής του Ολυμπιακού κι αυτή τη φορά το πλήγμα προήλθε από τάκλιν ενός συμπαίκτη του.",
+"also": [],
+"id": "e26b40da638b"
+},
 {
 "title": "Ολυμπιακός: Οι χαφ που απέμειναν και οι... αλχημείες!",
 "url": "https://www.gazzetta.gr/football/2587910/olympiakos-oi-haf-poy-apemeinan-kai-oi-alhimeies",
@@ -5009,30 +5033,6 @@
 "snippet": "Ο Ολυμπιακός παρουσιάστηκε με άδειο ρεζερβουάρ κόντρα στον Άρη και η ανάγκη για μεταγραφές πλέον δεν αμφισβητείται.",
 "also": [],
 "id": "a9bdd71f45e8"
-},
-{
-"title": "Άρης, ΠΑΟΚ: Η «μπασκετομάνα» για πρωτάθλημα, ο «αυτοκράτωρ» διδάσκει το σύγχρονο μπάσκετ!",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2586804/aris-paok-i-mpasketomana-gia-protathlima-o-aytokrator-didaskei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T06:30+00:00",
-"sport": "basket",
-"snippet": "Ο Αντώνης Καλκαβούρας σχολιάζει την αντεπίθεση των «βορείων» και τις έμπρακτες αποδείξεις ότι η εφετινή GBL δεν αποτελεί πλέον αποκλειστικά υπόθεση των δύο…",
-"also": [],
-"id": "665af2357bfd"
-},
-{
-"title": "ΠΑΟΚ: Επιστρέφει από την Εθνική και υπογράφει ο Ζίβκοβιτς",
-"url": "https://www.metrosport.gr/paok-epistrefei-apo-tin-ethniki-kai-ypografei-o-zivkovits-1333698",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-16T06:05+00:00",
-"sport": "football",
-"snippet": "Παραμονές του αγώνα με τον Ολυμπιακό στο Γ. Καραϊσκάκης η ΠΑΕ ΠΑΟΚ είχε κάνει γνωστό πως επήλθε συμφωνία με τον Ζίβκοβιτς για ένα νέο συμβόλαιο ...",
-"also": [],
-"id": "26cd2ebf9c09"
 }
 ]
 }
