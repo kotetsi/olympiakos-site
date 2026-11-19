@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T18:28:16+00:00",
+"generated_at": "2026-11-19T18:43:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Champions League: O χάρτης για Ολυμπιακό και Παναθηναϊκό στη φάση των ομίλων",
+"url": "https://www.gazzetta.gr/polo/len-champions-league/2588002/champions-league-o-hartis-gia-olympiako-kai-panathinaiko-sti-fasi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T18:32+00:00",
+"sport": "polo",
+"snippet": "Οι Μπαρτσελονέτα, Ραντνίτσκι Κραγκούγιεβατς και Προ Ρέκο ήδη βρίσκονται στην προημιτελική φάση, πώς διαμορφώνεται ο χάρτης στη φάση των ομίλων του Champions…",
+"also": [],
+"id": "c23c02ac29fd"
+},
+{
+"title": "Τι παίζει με τον Γιάρεμτσουκ και τα φορ στον Ολυμπιακό;",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1488304_ti-paizei-me-ton-giaremtsoyk-kai-ta-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T18:30+00:00",
+"sport": "general",
+"snippet": "Ο μεγάλος προβληματισμός του Ιμανόλ για την θέση του επιθετικού…",
+"also": [],
+"id": "7f61e762fdce"
+},
 {
 "title": "Ολυμπιακός: Αυτά τα ματς χάνει ο Πουέρτα – Μέσα δύο ντέρμπι και η Μίλαν!",
 "url": "https://sportime.gr/podosfairo/olimpiakos-afta-ta-mats-chani-o-pouerta-mesa-dio-ntermpi-ke-i-milan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4986,30 +5010,6 @@
 "snippet": "Ο Άρης νίκησε τον Ολυμπιακό με 100-78 και χάρισε στον ΣΚΑΪ εντυπωσιακή τηλεθέαση. Στο 17,2% το δυναμικό κοινό και στο 16% το γενικό σύνολο",
 "also": [],
 "id": "557d5dd2688d"
-},
-{
-"title": "Με μία πάσα ο Πανιώνιος σκόραρε κόντρα στον Ολυμπιακό Β! (vid)",
-"url": "https://www.sdna.gr/podosfairo/1487280_me-mia-pasa-o-panionios-skorare-kontra-ston-olympiako-b-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T13:20+00:00",
-"sport": "football",
-"snippet": "Ο Πανιώνιος φιλοξενεί τον Ολυμπιακό Β στο γήπεδο της Τρίπολης, ως τυπικά γηπεδούχος για το πρωτάθλημα της Superbet League 2.",
-"also": [],
-"id": "8c7dcae97a50"
-},
-{
-"title": "Η σύνδεση Πιρόλα-Κουλιέρακη με Ρόμα και Ολυμπιακό!",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487266_i-syndesi-pirola-koylieraki-me-roma-kai-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T12:51+00:00",
-"sport": "general",
-"snippet": "Πώς ξεκίνησε η φήμη και τι πραγματικά ισχύει σε αυτό το μεγάλο ντόμινο.",
-"also": [],
-"id": "c19a18ea7520"
 }
 ]
 }
