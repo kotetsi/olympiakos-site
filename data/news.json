@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T22:15:24+00:00",
+"generated_at": "2026-11-19T22:30:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Διαψεύδει για Ολυμπιακό και Τζόουνς η Παρτίζαν!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240378/diapseydei-gia-olympiako-kai-tzoouns-i-partizan/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-19T22:23+00:00",
+"sport": "basket",
+"snippet": "Κατηγορηματικός σχετικά με το μέλλον του Κάρλικ Τζόουνς στην Παρτίζαν και τα σενάρια περί Ολυμπιακού, εμφανίστηκε ο Οστόγια Μιχαΐλοβιτς. Ολυμπιακός: «Πληρώνει…",
+"also": [],
+"id": "9ce299b19700"
+},
 {
 "title": "Τζόουνς: Πήρε θέση στη φημολογία για Ολυμπιακό ο πρόεδρος της Παρτίζαν",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2588055/tzooyns-pire-thesi-sti-fimologia-gia-olympiako-o-proedros-tis",
@@ -4952,26 +4964,6 @@
 "snippet": "Ο Κώστας Καραπαπάς εξέφρασε την έντονη δυσαρέσκειά του για την τηλεοπτική μετάδοση του Πανιώνιος – Ολυμπιακός Β', με αιχμές προς την ΕΡΤ2.",
 "also": [],
 "id": "4b29882f0b6e"
-},
-{
-"title": "Ολυμπιακός: Δεν θα προπονηθεί στην Κύπρο για λόγους ξεκούρασης",
-"url": "http://www.sport-fm.gr/article/5161434",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-16T14:49+00:00",
-"sport": "general",
-"snippet": "Την απόφαση να μην γίνει προπόνηση σήμερα την Κύπρο πήρε ο Ολυμπιακός για λόγους ξεκούρασης, ενόψει της αυριανής (17/11) αναμέτρησης με αντίπαλο τη Μακάμπι Τελ…",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15233856/olympiakos-den-proponeitai-stin-kypro-gia-logous-ksekourasis/",
-"title": "Ολυμπιακός: Δεν προπονείται στην Κύπρο για λόγους ξεκούρασης",
-"published": "2026-11-16T15:14+00:00"
-}
-],
-"id": "26ad94397a7f"
 }
 ]
 }
