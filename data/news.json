@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-19T22:00:17+00:00",
+"generated_at": "2026-11-19T22:15:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τζόουνς: Πήρε θέση στη φημολογία για Ολυμπιακό ο πρόεδρος της Παρτίζαν",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588055/tzooyns-pire-thesi-sti-fimologia-gia-olympiako-o-proedros-tis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T22:08+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός φέρεται να προσέγγισε την Παρτίζαν για τον Κάρλικ Τζόουνς, σύμφωνα με σέρβικα μέσα, ωστόσο ο πρόεδρος της ομάδας ξεκαθάρισε πως δεν συζητά το…",
+"also": [],
+"id": "8c5c2f5e5a06"
+},
+{
+"title": "Ολυμπιακός: Ο Πουέρτα χάνει τρία ντέρμπι και δύο ευρωπαϊκά!",
+"url": "https://sportday.gr/podosfairo/365849_olympiakos-o-pouerta-chanei-tria-ntermpi-kai-dyo-evropaika.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-19T21:59+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός θα στερηθεί τις υπηρεσίες του αρκιβότερου παίκτη του σε κρίσιμα παιχνίδια...",
+"also": [],
+"id": "f8b7fd11fc21"
+},
+{
+"title": "Ολυμπιακός: Ζητάει αναβολή αγώνα λόγω ευρωπαϊκών υποχρεώσεων",
+"url": "https://www.metrosport.gr/olympiakos-zitaei-anavoli-agona-logo-eyropaikon-ypochreoseon-1334187",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-19T21:50+00:00",
+"sport": "general",
+"snippet": "Εξαιρετικά πιθανό φαίνεται ότι είναι το ενδεχόμενο αναβολής προσεχούς αγώνα του Ολυμπιακού λόγω ευρωπαϊκών υποχρεώσεων, με τους «ερυθρόλευκους» να ...",
+"also": [],
+"id": "35cab8f26743"
+},
 {
 "title": "Ολυμπιακός: «Πληρώνει buyout στην Παρτίζαν για γκαρντ!»",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240161/olympiakos-plironei-buyout-stin-partizan-gia-gkarnt/",
@@ -4936,42 +4972,6 @@
 }
 ],
 "id": "26ad94397a7f"
-},
-{
-"title": "Ολυμπιακός: Το Champions League και το οικονομικό κίνητρο των 60 εκατομμυρίων ευρώ",
-"url": "https://www.sdna.gr/podosfairo/1487317_olympiakos-champions-league-kai-oikonomiko-kinitro-ton-60-ekatommyrion-eyro",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T14:48+00:00",
-"sport": "football",
-"snippet": "Η κατάκτηση του πρωταθλήματος αποτελεί τον μεγάλο στόχο του Ολυμπιακού, με την προοπτική συμμετοχής στο επόμενο Champions League να δημιουργεί ένα...",
-"also": [],
-"id": "2798f1e6a042"
-},
-{
-"title": "Πανιώνιος - Ολυμπιακός Β' 2-0: Πλησίασαν τις θέσεις ανόδου οι Νεοσμυρνιώτες",
-"url": "https://www.gazzetta.gr/football/superleague-2/2586993/panionios-olympiakos-b-2-0-plisiasan-tin-tetrada-oi-neosmyrniotes",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T14:47+00:00",
-"sport": "football",
-"snippet": "Ο Πανιώνιος νίκησε 2-0 τον Ολυμπιακό Β' και πλησίασε τις θέσεις ανόδου. Το ίδιο και η Νίκη Βόλου, που κόντρα στον Πύργο πανηγύρισε την τέταρτη σερί νίκη της!",
-"also": [],
-"id": "5dd0c26f838d"
-},
-{
-"title": "Πανιώνιος - Ολυμπιακός 2-0 : Νίκη που φέρνει τον Ιστορικό μια ανάσα από τη 2η θέση",
-"url": "https://sportime.gr/podosfairo/panionios-olimpiakos-2-0-niki-pou-ferni-ton-istoriko-mia-anasa-apo-ti-2i-thesi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T14:46+00:00",
-"sport": "football",
-"snippet": "Ο Πανιώνιος επικράτησε 2-0 του Ολυμπιακού Β' στην Τρίπολη για την 11η αγωνιστική της Super League 2 και πλησίασε στον έναν βαθμό τη δεύτερη θέση.",
-"also": [],
-"id": "06babb971971"
 }
 ]
 }
