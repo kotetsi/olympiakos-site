@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T13:24:56+00:00",
+"generated_at": "2026-11-19T13:40:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι χαφ που απέμειναν και οι... αλχημείες!",
+"url": "https://www.gazzetta.gr/football/2587910/olympiakos-oi-haf-poy-apemeinan-kai-oi-alhimeies",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T13:18+00:00",
+"sport": "football",
+"snippet": "Πώς θα καλυφθούν τα κενά των Γκουστάβο Πουέρτα, Σαντιάγκο Έσε και Τσικίνιο από τον Ιμανόλ Αλγκουαθίλ.",
+"also": [],
+"id": "0b2296030a1a"
+},
 {
 "title": "Ολυμπιακός: Απίστευτο χτύπημα με Τσικίνιο – Ξέμεινε από χαφ ο Αλγουαθίλ!",
 "url": "https://sportime.gr/podosfairo/olimpiakos-apistefto-chtipima-me-tsikinio-xemine-apo-chaf-o-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -22,7 +34,7 @@
 "official": false,
 "published": "2026-11-19T12:36+00:00",
 "sport": "football",
-"snippet": "Όπως μεταδίδουν οι Ιταλοί, ο Μάικ Μενιάν ξεπέρασε το πρόβλημα τραυματισμού του και είναι άμεσα διαθέσιμος στη Μίλαν.",
+"snippet": "Όπως μεταδίδουν οι Ιταλοί, ο Μάικ Μενιάν ξεπέρασε το πρόβλημα τραυματισμού του και είναι άμεσα διαθέσιμος στη Μίλαν. Τι συμβαίνει με τους υπόλοιπους τραυματίες.",
 "also": [],
 "id": "9754246790ad"
 },
@@ -5021,18 +5033,6 @@
 "snippet": "Παραμονές του αγώνα με τον Ολυμπιακό στο Γ. Καραϊσκάκης η ΠΑΕ ΠΑΟΚ είχε κάνει γνωστό πως επήλθε συμφωνία με τον Ζίβκοβιτς για ένα νέο συμβόλαιο ...",
 "also": [],
 "id": "26cd2ebf9c09"
-},
-{
-"title": "Άρης: Ο Τολιόπουλος έβαλε μόνο 6 κι ο Ολυμπιακός έφαγε 100 – Ποιον να πρωτοσταματήσεις;",
-"url": "https://sportime.gr/aris-fc/aris-o-toliopoulos-evale-mono-6-ki-o-olimpiakos-efage-100-pion-na-protostamatisis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T05:38+00:00",
-"sport": "general",
-"snippet": "Ο Τολιόπουλος έβαλε μόλις 6 πόντους αλλά μοίρασε 6 ασίστ χωρίς λάθος. Το 12-2 των γκαρντ του Άρη και το πρόβλημα που δημιουργεί ο Σπανούλης στους αντιπάλους.",
-"also": [],
-"id": "b85a1f8f274c"
 }
 ]
 }
