@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-19T12:24:21+00:00",
+"generated_at": "2026-11-19T12:39:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μίλαν: Ξεπέρασε τον τραυματισμό ο Μενιάν, διαθέσιμος με Ολυμπιακό",
+"url": "https://www.gazzetta.gr/football/europa-league/2587901/milan-xeperase-ton-traymatismo-o-menian-diathesimos-me-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T12:36+00:00",
+"sport": "football",
+"snippet": "Όπως μεταδίδουν οι Ιταλοί, ο Μάικ Μενιάν ξεπέρασε το πρόβλημα τραυματισμού του και είναι άμεσα διαθέσιμος στη Μίλαν.",
+"also": [],
+"id": "9754246790ad"
+},
+{
+"title": "Ολυμπιακός: Συναγερμός στη μεσαία γραμμή, νοκ άουτ και ο Τσικίνιο",
+"url": "https://www.ertsports.gr/super-league/olympiakos-synagermos-sti-mesaia-grammi-nok-aout-kai-o-tsikinio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-19T12:31+00:00",
+"sport": "football",
+"snippet": "Μεγάλο πλήγμα για τον Ολυμπιακό, καθώς ο Τσικίνιο στάθηκε άτυχος στην προπόνηση και υπέστη κάταγμα στο μετατάρσιο, με αποτέλεσμα να τεθεί εκτός αγωνιστικής…",
+"also": [],
+"id": "565b47352153"
+},
 {
 "title": "Ολυμπιακός: Μεγάλο πλήγμα με τον Τσικίνιο",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239212/olympiakos-megalo-pligma-me-ton-tsikinio/",
@@ -10,7 +34,7 @@
 "official": false,
 "published": "2026-11-19T12:22+00:00",
 "sport": "football",
-"snippet": "Αναλυτικά σε λίγο…",
+"snippet": "Συγκεκριμένα, ο Πορτογάλος παίκτης υπέστη κάταγμα στο μετατάρσιο, κατά τη διάρκεια της προπόνησης της Πέμπτης. Οι πρώτες εκτιμήσεις κάνουν λόγο για απουσία από…",
 "also": [],
 "id": "453d77d2c085"
 },
@@ -5001,30 +5025,6 @@
 "snippet": "Ο Μάριο Χεζόνια εξασφάλισε εγγυημένο συμβόλαιο στους Κλίβελαντ Καβαλίερς έως το τέλος της σεζόν. Γιατί απομακρύνεται το ενδεχόμενο μεταγραφής στον Ολυμπιακό.",
 "also": [],
 "id": "a7c5fabd743d"
-},
-{
-"title": "Ολυμπιακός: Το λάθος με τον Αντρίγια Ζίβκοβιτς",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-to-lathos-me-ton-antrigia-zivkovits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T22:30+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός είχε την ευκαιρία να αποκτήσει τον Αντρίγια Ζίβκοβιτς το 2020, αλλά επέλεξε τον Μπρούμα. Η μεταγραφή στον ΠΑΟΚ και το παρασκήνιο της απόφασης.",
-"also": [],
-"id": "79d88fd0cdab"
-},
-{
-"title": "Ολυμπιακός: Θέλει δύο γκαρντ και επείγοντως σέντερ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-theli-dio-gkarnt-ke-epigontos-senter?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T22:19+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός χρειάζεται ενίσχυση και στη ρακέτα. Οι τραυματισμοί του Μιλουτίνοφ, οι αμυντικές αδυναμίες του Χολ και η σύγκριση με την περσινή ομάδα.",
-"also": [],
-"id": "c9d78e807b73"
 }
 ]
 }
