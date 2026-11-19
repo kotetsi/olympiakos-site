@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T07:36:44+00:00",
+"generated_at": "2026-11-19T07:51:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Πούλισικ πετάει και ο Μπρούνο είναι αμφίβολος",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-poulisik-petai-ke-o-brouno-ine-amfivolos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-19T07:36+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός περιμένει νέα για τον Μπρούνο, ενώ ο Πούλισικ σκοράρει συνεχώς. Οι κινήσεις του Αμερικανού που μπορούν να προκαλέσουν πρόβλημα στη Μίλαν.",
+"also": [],
+"id": "cd6fe034a3fa"
+},
 {
 "title": "Ολυμπιακός: Η φανέλα με το 9",
 "url": "https://sportday.gr/podosfairo/365767_olympiakos-i-fanela-me-to-9.html",
@@ -4982,18 +4994,6 @@
 "snippet": "Ο Άρης έβαλε τέλος σε ένα σερί του Ολυμπιακού που κρατούσε από τον Απρίλιο του 2019, καθώς τον υποχρέωσε στην πρώτη του ήττα στο πρωτάθλημα από ομάδα πλην του…",
 "also": [],
 "id": "f875b2539977"
-},
-{
-"title": "Πώς πανηγύρισε ο Χατζηνάκος τη νίκη του Άρη και τι είπε για το «φιλικό» με τον Ολυμπιακό",
-"url": "https://sportime.gr/basket/pos-panigirise-o-chatzinakos-ti-niki-tou-ari-ke-ti-ipe-gia-to-filiko-me-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T18:44+00:00",
-"sport": "basket",
-"snippet": "Ο Βασίλης Χατζηνάκος πανηγύρισε τη νίκη του Άρη με 100-78 επί του Ολυμπιακού και σχολίασε τα περί «φιλικού» αγώνα στην εκπομπή Μαρμίτα.",
-"also": [],
-"id": "d25b8fc7d857"
 }
 ]
 }
