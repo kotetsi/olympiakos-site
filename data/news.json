@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T15:56:35+00:00",
+"generated_at": "2026-11-19T16:11:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Από ένα απλό μαρκάρισμα του Κάρμο, στο χειρουργείο ο Τσικίνιο!",
+"url": "https://www.gazzetta.gr/football/superleague/2587961/olympiakos-apo-ena-aplo-markarisma-sto-heiroyrgeio-o-tsikinio",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T16:01+00:00",
+"sport": "football",
+"snippet": "Πώς ακριβώς υπέστη το κάταγμα στο μετατάρσιο ο Τσικίνιο, ο οποίος τραυματίστηκε στην προπόνηση σε μία κυριολεκτικά ανύποπτη φάση στον Ρέντη.",
+"also": [],
+"id": "56ec83349ede"
+},
 {
 "title": "Ολυμπιακός: «Δεν είναι η πρώτη φορά που ο Παναθηναϊκός προσφεύγει σε τέτοιες τακτικές στο ΑΣΕΑΔ»",
 "url": "https://sportday.gr/basket/365826_olympiakos-den-einai-i-proti-fora-pou-o-panathinaikos-prosfevgei-se-tetoies-taktikes-sto-asead.html",
@@ -23,7 +35,15 @@
 "published": "2026-11-19T15:54+00:00",
 "sport": "basket",
 "snippet": "Σε δύο πρόσθετες παρεμβάσεις ενώπιον του ΑΣΕΑΔ προχώρησε η ΚΑΕ Ολυμπιακός, στο πλαίσιο της υπόθεσης που αφορά την προσφυγή του Παναθηναϊκού για τον πέμπτο…",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15239564/olympiakos-dyo-nees-paremvaseis-sto-asead-gia-ton-5o-teliko-me-panathinaiko/",
+"title": "Ολυμπιακός: Δύο νέες παρεμβάσεις στο ΑΣΕΑΔ για τον 5ο τελικό με Παναθηναϊκό",
+"published": "2026-11-19T16:00+00:00"
+}
+],
 "id": "35d72818708f"
 },
 {
@@ -34,7 +54,7 @@
 "official": false,
 "published": "2026-11-19T15:50+00:00",
 "sport": "basket",
-"snippet": "Ο Ολυμπιακός άσκησε (19/11) δύο πρόσθετες παρεμβάσεις ενώπιον του ΑΣΕΑΔ μετά από αίτημα Παναθηναϊκού για ακύρωση του 5ου Τελικού το 2026. The post Ολυμπιακός…",
+"snippet": "Ο Ολυμπιακός άσκησε (19/11) δύο πρόσθετες παρεμβάσεις στο ΑΣΕΑΔ μετά από αίτημα του Παναθηναϊκού για ακύρωση (και) του 5ου Τελικού το 2026. The post…",
 "also": [],
 "id": "7751d5d3584e"
 },
@@ -5029,18 +5049,6 @@
 "snippet": "Σε κυκλοφορία τίθενται από την Δευτέρα (16/11), μέσω εξαντλήσεώς τους, τα εισιτήρια του αγώνα Ολυμπιακός - Μίλαν, που θα γίνει στις 26 Νοεμβρίου στο «Γ…",
 "also": [],
 "id": "3b2a7bce1bf0"
-},
-{
-"title": "Ολυμπιακός: Ο Μάρκες μπορεί να αφήσει ξανά έξω τον Γκονσάλες – Ο Ιμανόλ όχι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-markes-bori-na-afisi-xana-exo-ton-gkonsales-o-imanol-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T09:23+00:00",
-"sport": "general",
-"snippet": "Το Μεξικό μπορεί να προκριθεί χωρίς τον Γκονσάλες, αλλά ο Ολυμπιακός τον χρειάζεται απέναντι στη Μίλαν. Τι δείχνουν η ευρωπαϊκή λίστα και το πρόγραμμα.",
-"also": [],
-"id": "910e4b245189"
 }
 ]
 }
