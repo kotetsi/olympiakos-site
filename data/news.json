@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T22:45:40+00:00",
+"generated_at": "2026-11-19T23:00:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το συγκινητικό μήνυμα του Τσικίνιο που μπαίνει την Παρασκευή (20/11) για χειρουργείο",
+"url": "https://www.ertsports.gr/omades/olympiakos/to-sygkinitiko-minyma-tou-tsikinio-pou-mpainei-tin-paraskeyi-20-11-gia-xeirourgeio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-19T22:59+00:00",
+"sport": "football",
+"snippet": "Σε χειρουργική επέμβαση θα υποβληθεί το πρωί της Παρασκευής (20/11) ο Τσικίνιο, προκειμένου να αντιμετωπιστεί το κάταγμα στο μετατάρσιο που υπέστη κατά τη…",
+"also": [],
+"id": "ab778bec8486"
+},
 {
 "title": "Διαψεύδει για Ολυμπιακό και Τζόουνς η Παρτίζαν!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240378/diapseydei-gia-olympiako-kai-tzoouns-i-partizan/",
@@ -4952,18 +4964,6 @@
 "snippet": "Νέο επεισόδιο για το \"Αιώνιο Podcast\" με τους Μιχάλη Γκιουλένογλου και Γιάννη Λαμπίρη και τις νέες φήμες, αλλά και την πραγματικότητα για τις πιθανές νέες…",
 "also": [],
 "id": "0d65714217d3"
-},
-{
-"title": "Ολυμπιακός: Ξέσπασμα Καραπαπά κατά της ΕΡΤ για το ματς με τον Πανιώνιο",
-"url": "https://sportime.gr/podosfairo/olimpiakos-xespasma-karapapa-kata-tis-ert-gia-to-mats-me-ton-panionio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T14:53+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Καραπαπάς εξέφρασε την έντονη δυσαρέσκειά του για την τηλεοπτική μετάδοση του Πανιώνιος – Ολυμπιακός Β', με αιχμές προς την ΕΡΤ2.",
-"also": [],
-"id": "4b29882f0b6e"
 }
 ]
 }
