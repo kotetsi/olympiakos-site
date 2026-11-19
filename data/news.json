@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T00:17:43+00:00",
+"generated_at": "2026-11-19T00:32:51+00:00",
 "count": 400,
 "items": [
+{
+"title": "Χόρτον-Τάκερ: «Το ΣΕΦ είναι υπερεκτιμημένη έδρα» (vid)",
+"url": "https://www.sdna.gr/mpasket/1488115_horton-taker-sef-einai-yperektimimeni-edra-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-19T00:30+00:00",
+"sport": "basket",
+"snippet": "Ο Τάλεν Χόρτον-Τάκερ κλήθηκε να απαντήσει στο challenge overrated or underrated, χαρακτηρίζοντας την έδρα του Ολυμπιακού ως υπερεκτιμημένη.",
+"also": [],
+"id": "ee9d61be5aaa"
+},
 {
 "title": "Έκτακτη συνάντηση Ντόρσεϊ - Μπαρτζώκα στον Ολυμπιακό",
 "url": "https://sportime.gr/olympiakos-bc/ektakti-sinantisi-ntorsei-bartzoka-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4982,18 +4994,6 @@
 "snippet": "Απολαυστικός ήταν ο Βασίλης Σπανούλης στη συνέντευξη Τύπου μετά τη σπουδαία επικράτησε του Άρη σε βάρος του Ολυμπιακού, μιλώντας για τη νοοτροπία που θέλει να…",
 "also": [],
 "id": "dbd29947378b"
-},
-{
-"title": "Άρης: Αποθέωση για τον Σπανούλη από όλο το Αλεξάνδρειο μετά τον θρίαμβο επί του Ολυμπιακού",
-"url": "https://sportime.gr/basket/aris-apotheosi-gia-ton-spanouli-apo-olo-to-alexandrio-meta-ton-thriamvo-epi-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T18:25+00:00",
-"sport": "basket",
-"snippet": "Ο κόσμος του Άρη αποθέωσε τον Βασίλη Σπανούλη μετά τη νίκη με 100-78 επί του Ολυμπιακού. Το όνομά του έγινε σύνθημα στο Αλεξάνδρειο.",
-"also": [],
-"id": "6c0736f394af"
 }
 ]
 }
