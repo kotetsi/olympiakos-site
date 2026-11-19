@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T10:53:30+00:00",
+"generated_at": "2026-11-19T11:08:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι συζητήσεις του Ιμανόλ με τον Μπέιλι",
+"url": "https://sportday.gr/podosfairo/365769_olympiakos-oi-syzitiseis-tou-imanol-me-ton-mpeili.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-19T11:05+00:00",
+"sport": "football",
+"snippet": "Ο Βάσκος τεχνικός περιμένει τον Τζαμαϊκανό εξτρέμ για να τον βγάλει μπροστά στα κρίσιμα παιχνίδια που έρχονται.",
+"also": [],
+"id": "6428b6ec3b0e"
+},
 {
 "title": "Ολυμπιακός: Δεν παίζει με τη Ρεάλ ο Ντόρσεϊ",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15239129/olympiakos-den-paizei-me-ti-real-o-ntorsei/",
@@ -13,6 +25,30 @@
 "snippet": "Ο ομογενής γκαρντ δε θα επιστρέψει στις αγωνιστικές υποχρεώσεις των Πειραιωτών, στον αγώνα με τη Ρεάλ Μαδρίτης, καθώς ο Γιώργος Μπαρτζώκας θεωρεί πως δεν έχει…",
 "also": [],
 "id": "0de21f6a37d3"
+},
+{
+"title": "Ολυμπιακός: Πολύ δύσκολα με Ρεάλ ο Μιλουτίνοφ",
+"url": "http://www.sport-fm.gr/article/5162072",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-19T10:38+00:00",
+"sport": "general",
+"snippet": "Κατά πάσα πιθανότητα νοκ άουτ και με Ρεάλ Μαδρίτης ο Νίκολα Μιλουτίνοφ.",
+"also": [],
+"id": "903553369b70"
+},
+{
+"title": "Ντόρσεϊ: Εκτός 12αδας του Ολυμπιακού (και) με Ρεάλ – Τι είπε ο Γιώργος Μπαρτζώκας",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2037641/ntorsei-ektos-apostolis-tou-olimpiakou-ke-me-real/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-19T10:34+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός περιμένει τη Ρεάλ αύριο στη Sunel Arena (20/11, 21:15, Novasports Prime), σε μία επανάληψη των τελικών της Ευρωλίγκας (κυρίως) και του Euroleague…",
+"also": [],
+"id": "203916559560"
 },
 {
 "title": "Ολυμπιακός: Χωρίς Ντόρσεϊ απέναντι στη Ρεάλ",
@@ -48,13 +84,6 @@
 "sport": "basket",
 "snippet": "Όπως είπε ο Γιώργος Μπαρτζώκας στη media day του Ολυμπιακού ενόψει της αυριανής αναμέτρησης (20/11, 21:15, ΕΡΑ ΣΠΟΡ) με τη Ρεάλ Μαδρίτης για την 13η αγωνιστική…",
 "also": [
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2037641/ntorsei-ektos-apostolis-tou-olimpiakou-ke-me-real/",
-"title": "Ντόρσεϊ: Εκτός αποστολής του Ολυμπιακού (και) με Ρεάλ",
-"published": "2026-11-19T10:34+00:00"
-},
 {
 "source": "sportday",
 "source_name": "Sportday",
@@ -4996,42 +5025,6 @@
 "snippet": "Οι Πειραιώτες φέρνουν παίκτη σε μία θέση που υπάρχει πρόβλημα από την αρχή της σεζόν, ωστόσο ελπίζουν πως θα τον... ηρεμήσουν.",
 "also": [],
 "id": "c84a0e195a0a"
-},
-{
-"title": "Ολυμπιακός: Πληρώνει και τον Άλεκ Πίτερς",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-plironi-ke-ton-alek-piters?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-15T20:19+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός έχασε πολλά με την αποχώρηση του Άλεκ Πίτερς. Η σύγκριση με την Αρμάνι, τα στατιστικά του και όσα λείπουν από την ομάδα του Μπαρτζώκα.",
-"also": [],
-"id": "4f9fec90fb11"
-},
-{
-"title": "Ολυμπιακός: Μετά από 2.776 μέρες ηττήθηκε από άλλη ομάδα εκτός Παναθηναϊκού στην GBL",
-"url": "https://www.eurohoops.net/el/heba-el/2035714/olimpiakos-meta-apo-2-776-meres-ittithike-apo-alli-omada-ektos-panathinaikou-stin-gbl/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-15T20:12+00:00",
-"sport": "basket",
-"snippet": "Η τελευταία ήττα του Ολυμπιακού στην κανονική διάρκεια της Stoiximan GBL και οι 2.776 ημέρες από το τελευταίο αρνητικό αποτέλεσμα εκτός Παναθηναϊκού. The post…",
-"also": [],
-"id": "f58a50dba574"
-},
-{
-"title": "Ολυμπιακός: Το -22 από τον Άρη η πιο βαριά ήττα στην Ελλάδα μετά το 2009!",
-"url": "https://www.eurohoops.net/el/heba-el/2035733/olimpiakos-i-pio-varia-itta-tou-stin-ellada-meta-to-2009/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-15T20:04+00:00",
-"sport": "basket",
-"snippet": "Η ήττα του Ολυμπιακού από τον Άρη ήταν ιστορική για παραπάνω από έναν λόγους. The post Ολυμπιακός: Το -22 από τον Άρη η πιο βαριά ήττα στην Ελλάδα μετά το…",
-"also": [],
-"id": "f31c53a95f81"
 }
 ]
 }
