@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-19T09:53:00+00:00",
+"generated_at": "2026-11-19T10:08:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η λύπη του Κοβάσεβιτς...",
+"url": "https://www.gazzetta.gr/football/2587863/olympiakos-i-lypi-toy-kobasebits",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-19T10:04+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta για την επιστροφή του Ντάρκο Κοβάσεβιτς!",
+"also": [],
+"id": "8811cad8a533"
+},
 {
 "title": "Ολυμπιακός: Ο Ιμανόλ ψάχνει χαφ και ο Ηρακλής δουλεύει τα άκρα",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-imanol-psachni-chaf-ke-o-iraklis-doulevi-ta-akra?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5005,18 +5017,6 @@
 "snippet": "Ο Άρης ήταν ο μεγάλος νικητής του ντέρμπι της 7ης αγωνιστική της Stoiximan GBL, επικρατώντας με 100-78 επί του Ολυμπιακού, κάνοντας ακόμα μια ηχηρή ...",
 "also": [],
 "id": "575bc2958f74"
-},
-{
-"title": "Τσανάκας: «Σημαντικότερο από τις μεταγραφές να πάρει ο Ολυμπιακός περισσότερα από τους παίκτες που έχει ήδη»",
-"url": "http://www.sport-fm.gr/article/5161263",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-15T19:37+00:00",
-"sport": "football",
-"snippet": "To ρεπορτάζ του Ολυμπιακού, όπως το μετέφερε στον αέρα του bwinΣΠΟΡ FM 94,6 ο Γιώργος Τσανάκας.",
-"also": [],
-"id": "476de5c7116a"
 }
 ]
 }
