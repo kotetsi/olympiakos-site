@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T13:08:29+00:00",
+"generated_at": "2026-11-20T13:23:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αντρές Φελίζ: Η σεζόν καριέρας, το step up και η απειλή για τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588163/antres-feliz-i-sezon-karieras-step-kai-i-apeili-gia-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T13:21+00:00",
+"sport": "basket",
+"snippet": "Ο Αντρές Φελίζ από μια αξιόπιστη λύση από τον πάγκο ως combo guard της Ρεάλ, εξελίσσεται τη φετινή σεζόν ως ένα κομβικής σημασίας όπλο στα χέρια του Πέδρο…",
+"also": [],
+"id": "6e69319b10dd"
+},
+{
+"title": "Ο Ολυμπιακός χωρίς Τσικίνιο κινδυνεύει να χάσει τον τρόπο που νικάει",
+"url": "https://sportime.gr/olimpiakos/o-olimpiakos-choris-tsikinio-kindinevi-na-chasi-ton-tropo-pou-nikai?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-20T13:14+00:00",
+"sport": "football",
+"snippet": "Ο Τσικίνιο χειρουργήθηκε και ο Ολυμπιακός χάνει μια βασική λύση στον άξονα. Τα στοιχεία του Europa League εξηγούν γιατί δεν αρκεί ένας απλός αντικαταστάτης.",
+"also": [],
+"id": "c5f614c76032"
+},
 {
 "title": "Ολυμπιακός: «Ένα κομμάτι ιστορίας σε συλλεκτικό κουτί»",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15240959/olympiakos-ena-kommati-istorias-se-syllektiko-kouti/",
@@ -4948,30 +4972,6 @@
 "snippet": "Ο Ολυμπιακός βρίσκεται στη Λεμεσό όπου θα αντιμετωπίσει τη Μακάμπι απόψε στις 19:00 (17/11, Novasports Prime). The post Ολυμπιακός: “Πληγωμένος” στην Κύπρο για…",
 "also": [],
 "id": "9118130db8af"
-},
-{
-"title": "Μπαρτσελόνα: Έκλεισε Χέιζ που… έπαιξε και για Ολυμπιακό!",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15235148/mpartselona-ekleise-xeiz-pou-epaikse-kai-gia-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-17T06:41+00:00",
-"sport": "basket",
-"snippet": "Η Μπαρτσελόνα κινήθηκε για την απόκτηση του Κίλιαν Χέιζ, καταφέρνοντας να εξασφαλίσει τη συμφωνία με τον 24χρονο γκαρντ, ο οποίος αναμένεται να αποτελέσει μία…",
-"also": [],
-"id": "50a360e0c5e8"
-},
-{
-"title": "Ολυμπιακός: Αποφασίζει ο Αλγκουαθίλ για τις πιθανές αναβολές",
-"url": "https://www.sdna.gr/podosfairo/1487518_olympiakos-apofasizei-o-algkoyathil-gia-tis-pithanes-anaboles",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T06:22+00:00",
-"sport": "football",
-"snippet": "Την αναβολή σε τρία παιχνίδια θα μπορούσε να ζητήσει ο Ολυμπιακός λόγω προγράμματος και αναμένεται να καταλήξει σε απόφαση.",
-"also": [],
-"id": "d32ca2f02344"
 }
 ]
 }
