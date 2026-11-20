@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-20T11:37:48+00:00",
+"generated_at": "2026-11-20T11:52:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αρναούτογλου στο Gazzetta Magazino: «Η αναβολή βολεύει και την ΑΕΚ, οχι μόνο τον Ολυμπιακό»",
+"url": "https://www.gazzetta.gr/football/superleague/2588160/arnaoytogloy-sto-gazzetta-magazino-i-anaboli-boleyei-kai-tin-aek-ohi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T11:50+00:00",
+"sport": "football",
+"snippet": "Ο Βαγγέλης Αρναούτογλου υποστήριξε στο Gazzetta Magazino ότι μια τυχόν αναβολή στο Ολυμπιακός - ΑΕΚ θα βόλευε και την Ένωση.",
+"also": [],
+"id": "d5d9ecaf4c87"
+},
+{
+"title": "Η ενημέρωση του Ολυμπιακού για την επέμβαση του Τσικίνιο",
+"url": "http://www.sport-fm.gr/article/5162284",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T11:46+00:00",
+"sport": "general",
+"snippet": "Ο Τσικίνιο υποβλήθηκε με επιτυχία σε χειρουργική επέμβαση στο μετατάρσιο του δεξιού του ποδιού και έχει ήδη ξεκινήσει την αποθεραπεία του, με στόχο την…",
+"also": [],
+"id": "acfded45f594"
+},
+{
+"title": "Νικολακόπουλος: «Όλο το ιατρικό δελτίο του Ολυμπιακού!»",
+"url": "http://www.sport-fm.gr/article/5162282",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T11:41+00:00",
+"sport": "general",
+"snippet": "Ο Κώστας Νικολακόπουλος μετέφερε όλες τις λεπτομέρειες για το μακροσκελές ιατρικό δελτίο του Ολυμπιακού.",
+"also": [],
+"id": "a788916a6aa0"
+},
 {
 "title": "Ολυμπιακός: Μπάτλερ και Τζόουνς δεμένοι μέχρι το 2028",
 "url": "https://sportime.gr/olympiakos-bc/olimpiakos-batler-ke-tzoouns-demeni-mechri-to-2028?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4928,42 +4964,6 @@
 "snippet": "Νέα τροφή για συζητήσεις γύρω από το μέλλον και την ψυχολογία του στον Ολυμπιακό έδωσε ο Τάιλερ Ντόρσεϊ μέσω των social media. Παρότι ο ομογενής γκαρντ…",
 "also": [],
 "id": "1c54ee24580c"
-},
-{
-"title": "Ολυμπιακός: Το νέο μήνυμα του Τάιλερ Ντόρσεϊ - Δεν σταματά να προκαλεί αναμπουμπούλα λες και το κάνει επίτηδες",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-to-neo-minima-tou-tailer-ntorsei-den-stamata-na-prokali-anampoumpoula-les-ke-to-kani-epitides?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T21:24+00:00",
-"sport": "general",
-"snippet": "Ο Τάιλερ Ντόρσεϊ δημοσίευσε στο Instagram μήνυμα για ανθρώπους που θα μετανιώσουν για τη συμπεριφορά τους. Τι ανέφερε ο γκαρντ του Ολυμπιακού.",
-"also": [],
-"id": "250339bfd74d"
-},
-{
-"title": "Ολυμπιακός: Τα παίζει «όλα για όλα» για τον Ντέιβιντ Τζόουνς-Γκαρσία!",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15234533/olympiakos-ta-paizei-ola-gia-ola-gia-ton-nteivint-tzoouns-gkarsia/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-16T21:18+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός βρίσκεται σε μια ιδιαίτερα κομβική καμπή της σεζόν. Η βαριά εκτός έδρας ήττα στο ελληνικό πρωτάθλημα από τον Άρη λειτούργησε ως «καμπανάκι» για το…",
-"also": [],
-"id": "7b89db540bcf"
-},
-{
-"title": "Ζότα Σίλβα: «Το να φοράω τη φανέλα του Ολυμπιακού είναι τεράστια υπερηφάνεια!»",
-"url": "https://sportday.gr/podosfairo/365531_zota-silva-to-na-forao-ti-fanela-tou-olympiakou-einai-terastia-yperifaneia.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-16T21:02+00:00",
-"sport": "football",
-"snippet": "Ο Ζότα Σίλβα παραχώρησε συνέντευξη σε πορτογαλικό μέσο, εκθειάζοντας τον Ολυμπιακό και δηλώνοντας περήφανος κι ερωτευμένος με τον σύλλογο.",
-"also": [],
-"id": "ad9268db6099"
 }
 ]
 }
