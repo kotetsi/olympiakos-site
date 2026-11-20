@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T22:28:33+00:00",
+"generated_at": "2026-11-20T22:43:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Οι καλύτερες στιγμές της θρυλικής νίκης των Πειραιωτών κόντρα στη «Βασίλισσα»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588373/olympiakos-real-madritis-oi-kalyteres-stigmes-tis-thrylikis-nikis-ton",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T22:36+00:00",
+"sport": "basket",
+"snippet": "Δείτε τις καλύτερες στιγμές της νίκης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης.",
+"also": [],
+"id": "49a997a738e5"
+},
+{
+"title": "Το πανόραμα της Euroleague μετά τις νίκες Παναθηναϊκού και Ολυμπιακού",
+"url": "https://www.sdna.gr/mpasket/1488785_panorama-tis-euroleague-meta-tis-nikes-panathinaikoy-kai-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-20T22:32+00:00",
+"sport": "basket",
+"snippet": "Ολοκληρώθηκε η 13η αγωνιστική της Euroleague με τον Παναθηναϊκό και τον Ολυμπιακό να κλείνουν την... διαβολοβδομάδα με νικηφόρα αποτελέσματα.",
+"also": [],
+"id": "3705cc0c1afb"
+},
 {
 "title": "Φουρνιέ: «Το πνεύμα αυτής της ομάδας είναι ξεχωριστό»",
 "url": "https://www.ertsports.gr/mpasket/euroleague/fournie-to-pneyma-aytis-tis-omadas-einai-ksexoristo/",
@@ -594,7 +618,7 @@
 "official": false,
 "published": "2026-11-20T20:06+00:00",
 "sport": "basket",
-"snippet": "Παρών στη SUNEL Arena ο Χρίστο Στόιτσκοφ για το παιχνίδι ανάμεσα στον Ολυμπιακό και στη Ρεάλ Μαδρίτης για τη 13η αγωνιστική της Ευρωλίγκας. The post Ολυμπιακός…",
+"snippet": "Παρών στη SUNEL Arena ο Χρίστο Στόιτσκοφ, που είδε τον Ολυμπιακό (10-3) του Σάσα Βεζένκοφ να διαλύει (92-76) τη Ρεάλ Μαδρίτης (7-6) για τη 13η αγωνιστική της…",
 "also": [],
 "id": "996c13b8d943"
 },
@@ -4939,30 +4963,6 @@
 "snippet": "Οι Πειραιώτες πανηγύρισαν ένα τεράστιο αποτέλεσμα απέναντι στους Ισραηλινούς, σε μια αναμέτρηση με δραματική εξέλιξη που κρίθηκε στο φινάλε, χάρη στο…",
 "also": [],
 "id": "f614650d7359"
-},
-{
-"title": "Έπιασε κορυφή ο Ολυμπιακός μετά την τρελή νίκη του με την Μακάμπι",
-"url": "https://www.sdna.gr/mpasket/1487730_epiase-koryfi-o-olympiakos-meta-tin-treli-niki-toy-me-tin-makampi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T20:05+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός κέρδισε την Μακάμπι στην παράταση (95-97) και έφτασε το 9-3 στην φετινή EuroLeague.",
-"also": [],
-"id": "d97827728f66"
-},
-{
-"title": "Αφήνει συμβόλαιο 3 εκατ. και πιέζει για Ολυμπιακό",
-"url": "https://www.sdna.gr/podosfairo/1487728_afinei-symbolaio-3-ekat-kai-piezei-gia-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T19:57+00:00",
-"sport": "football",
-"snippet": "Εξτρέμ 15 εκατομμυρίων είναι ψηλά στη λίστα του Ολυμπιακού εν όψει Ιανουαρίου. «Δεν υπάρχει άλλη ενδιαφερόμενη ομάδα»!",
-"also": [],
-"id": "2ead953542ff"
 }
 ]
 }
