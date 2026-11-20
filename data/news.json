@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T06:49:45+00:00",
+"generated_at": "2026-11-20T07:04:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Γιατί μπορεί να δηλώσει ακόμα μόνο τρεις παίκτες στη Euroleague;",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2587975/olympiakos-giati-mporei-na-dilosei-akoma-mono-treis-paiktes-sti",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T07:00+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός βρίσκεται στο μεταγγραφικό παζάρι, όμως υπάρχει ένας περιορισμός στη λίστα της EuroLeague που δεν αφήνει πολλά περιθώρια στις κινήσεις.",
+"also": [],
+"id": "2b076a83fcb2"
+},
+{
+"title": "Ολυμπιακός: Θέλει νίκη επί της Ρεάλ για να παραμείνει στην κορυφή",
+"url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-thelei-niki-epi-tis-real-gia-na-parameinei-stin-koryfi/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-20T06:45+00:00",
+"sport": "basket",
+"snippet": "Ένα από τα πιο δυνατά παιχνίδια της 13ης αγωνιστικής της EuroLeague φιλοξενεί το πρόγραμμα της Παρασκευής, με τον Ολυμπιακό να υποδέχεται τη Ρεάλ Μαδρίτης στη…",
+"also": [],
+"id": "c4e444834bd0"
+},
 {
 "title": "Euroleague: Ντέρμπι στην «Sunel Arena» ανάμεσα σε Ολυμπιακό και Ρεάλ Μαδρίτης",
 "url": "https://www.sdna.gr/mpasket/1488268_euroleague-ntermpi-stin-sunel-arena-anamesa-se-olympiako-kai-real-madritis",
@@ -10,7 +34,7 @@
 "official": false,
 "published": "2026-11-20T06:22+00:00",
 "sport": "basket",
-"snippet": "Η 13η αγωνιστική της Euroleague ολοκληρώνεται σήμερα με τέσσερα παιχνίδια και τον Ολυμπιακό να κοντράρεται με την Ρεάλ Μαδρίτης.",
+"snippet": "Η 13η αγωνιστική της Euroleague ολοκληρώνεται σήμερα με τέσσερα παιχνίδια και τον Ολυμπιακό να κοντράρεται με την Ρεάλ Μαδρίτης (21:15, Nova Sports...",
 "also": [],
 "id": "79fe947b5c9c"
 },
@@ -4940,30 +4964,6 @@
 "snippet": "Η δήλωση του Άλβαρο Ρούμπιο για τον Ολυμπιακό Κ23.",
 "also": [],
 "id": "b5206daf50dc"
-},
-{
-"title": "Ολυμπιακός-Μίλαν: Κυκλοφορούν από σήμερα (16/11) τα εισιτήρια του αγώνα",
-"url": "https://www.metrosport.gr/olympiakos-milan-kykloforoyn-apo-simera-ta-eisitiria-toy-agona-1333759",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-16T15:45+00:00",
-"sport": "general",
-"snippet": "Ξεκινάει από σήμερα το απόγευμα η διάθεση των εισιτηρίων για τη μεγάλη και πολυαναμενόμενη αναμέτρηση του Ολυμπιακού κόντρα στη Μίλαν. Οι ...",
-"also": [],
-"id": "8936d8a5268b"
-},
-{
-"title": "Ήττα στην Τρίπολη για τον Ολυμπιακό Κ23",
-"url": "https://www.olympiacos.org/2026/11/16/itta-stin-tripoli-gia-ton-olympiako-k23/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-16T15:45+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Κ23 ηττήθηκε από τον Πανιώνιο με 2-0 για την 11η αγωνιστική της Super League 2.",
-"also": [],
-"id": "0e281a00d3c7"
 }
 ]
 }
