@@ -218,5 +218,21 @@
   "b_team": false,
   "no_time": false,
   "comp": "Super League"
+ },
+ "2026-11-26-olympiakos-milan": {
+  "title": "Ολυμπιακός - Μίλαν",
+  "home": "Ολυμπιακός",
+  "away": "Μίλαν",
+  "opp": "Μίλαν",
+  "oly_home": true,
+  "start": "2026-11-26T17:45+00:00",
+  "channels": [
+   "COSMOTE SPORT 3",
+   "COSMOTE SPORT START",
+   "ANT1"
+  ],
+  "sport": "football",
+  "b_team": false,
+  "comp": "UEFA Europa League 2026-27"
  }
 }
