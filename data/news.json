@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T15:39:43+00:00",
+"generated_at": "2026-11-20T15:54:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ηρακλής: Με την «πεπατημένη» του Ματζάρι στα ντέρμπι",
+"url": "https://www.metrosport.gr/iraklis-me-tin-pepatimeni-toy-matzari-sta-ntermpi-1334270",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-20T15:50+00:00",
+"sport": "football",
+"snippet": "Το τελευταίο ντέρμπι του πρώτου γύρου της Stoiximan Superleague βρίσκει τον Ηρακλή αντιμέτωπο με τον Ολυμπιακό στο «Γ. Καραϊσκάκης» (22/11, 19:00). Οι...",
+"also": [],
+"id": "0e8a0d4690c8"
+},
+{
+"title": "Καλαμάτα: Με τον Ολυμπιακό η μεγάλη επιστροφή στην Παραλία – Άναψαν οι προβολείς (pic)",
+"url": "https://www.sdna.gr/podosfairo/1488676_kalamata-me-ton-olympiako-i-megali-epistrofi-stin-paralia-anapsan-oi-proboleis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-20T15:43+00:00",
+"sport": "football",
+"snippet": "Η Καλαμάτα μετρά αντίστροφα για την επιστροφή στη φυσική της έδρα, με την αναμέτρηση απέναντι στον Ολυμπιακό στις 9 Ιανουαρίου να αποτελεί τον μεγάλο...",
+"also": [],
+"id": "45cd4c395e4f"
+},
 {
 "title": "Επικράτησε της Δράμας ο Ολυμπιακός και παρέμεινε στην κορυφή",
 "url": "https://www.sdna.gr/hantmpol/1488669_epikratise-tis-dramas-o-olympiakos-kai-paremeine-stin-koryfi",
@@ -4948,30 +4972,6 @@
 "snippet": "Ο Γιώργος Λιάγκας έσταξε... φαρμάκι στον αέρα του ΑΝΤ1 για το σκηνικό με Μπαρτζώκα - Σπανούλη.",
 "also": [],
 "id": "9beccce3425a"
-},
-{
-"title": "Live αναλύσεις για τις εκτός έδρας μάχες Ολυμπιακού & Παναθηναϊκού | Gazz Floor by Novibet",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587220/live-analyseis-gia-tis-ektos-edras-mahes-olympiakoy-panathinaikoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-17T09:46+00:00",
-"sport": "basket",
-"snippet": "Δείτε όλο το ρεπορτάζ και τις δηλώσεις των πρωταγωνιστών μετά τις αναμετρήσεις Ολυμπιακού και Παναθηναϊκού στη Euroleague.",
-"also": [],
-"id": "1de07610686a"
-},
-{
-"title": "Νικολακόπουλος: Το νέο αστέρι που αρέσει στον Ολυμπιακό | Galacticos by Elabet",
-"url": "https://www.gazzetta.gr/football/superleague/2587218/einai-apotyhia-o-apokleismos-tis-ethnikis-reportaz-ton-megalon",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-17T09:42+00:00",
-"sport": "football",
-"snippet": "Οι Galacticos by Elabet σχολιάζουν όλα όσα έγιναν στο ματς της Εθνικής μας με τη Σερβία για το Nations League.",
-"also": [],
-"id": "e7477e026b32"
 }
 ]
 }
