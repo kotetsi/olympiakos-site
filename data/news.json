@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-20T05:49:17+00:00",
+"generated_at": "2026-11-20T06:04:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές Μεταδόσεις: Που θα δείτε το Ολυμπιακός-Ρεάλ Μαδρίτης και τα ματς της Ευρωλίγκας",
+"url": "https://sportday.gr/epikairotita/365852_athlitikes-metadoseis-pou-tha-deite-to-olympiakos-real-madritis-kai-ta-mats-tis-evroligkas.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-20T06:00+00:00",
+"sport": "basket",
+"snippet": "Ξεχωρίζουν σήμερα Παρασκευή (20/11) το ντέρμπι του Ολυμπιακού με τη Ρεάλ Μαδρίτης για την Euroleague",
+"also": [],
+"id": "423abfe2170a"
+},
+{
+"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Η ώρα και το κανάλι της αναμέτρησης",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588090/olympiakos-real-madritis-i-ora-kai-kanali-tis-anametrisis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T05:57+00:00",
+"sport": "basket",
+"snippet": "Δείτε την ώρα και το κανάλι της αναμέτρησης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης, για την 13η αγωνιστική της EuroLeagu.",
+"also": [],
+"id": "f13059e80d97"
+},
+{
+"title": "Ολυμπιακός: Οι λύσεις και οι αλχημείες μετά την απώλεια τριών κεντρικών χαφ",
+"url": "http://www.sport-fm.gr/article/5162207",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T05:52+00:00",
+"sport": "general",
+"snippet": "Πώς σκέφτεται ο Ιμανόλ Αλγκουαθίλ να αντιμετωπίσει τις απώλειες των Έσε, Πουέρτα και Τσικίνιο.",
+"also": [],
+"id": "0cef79ff21cc"
+},
 {
 "title": "Ολυμπιακός: Ο Τζόουνς δεν πωλείται και τα social δεν φέρνουν γκαρντ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-tzoouns-den-polite-ke-ta-social-den-fernoun-gkarnt?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -13,6 +49,18 @@
 "snippet": "Η Παρτίζαν ξεκαθάρισε πως ο Κάρλικ Τζόουνς δεν έχει ρήτρα και δεν πωλείται. Τι ειπώθηκε για τον Ολυμπιακό και γιατί οι φήμες δεν αρκούν για ενίσχυση.",
 "also": [],
 "id": "7711c0c2f7cf"
+},
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (20/11): Πού θα δούμε το Ολυμπιακός-Ρεάλ",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1488499_oi-athlitikes-metadoseis-tis-imeras-20/11-poy-tha-doyme",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-20T05:34+00:00",
+"sport": "basket",
+"snippet": "Το ντέρμπι του Ολυμπιακού με τη Ρεάλ Μαδρίτης για την Euroleague ξεχωρίζει στις αθλητικές μεταδόσεις της Παρασκευής (20/11).",
+"also": [],
+"id": "958aae870a60"
 },
 {
 "title": "Η Α1 κατηγορία επανέρχεται με δύο ντέρμπι του Ολυμπιακού στις γυναίκες απέναντι σε ΑΕΚ και Παναθηναϊκό",
@@ -4916,54 +4964,6 @@
 "snippet": "Ο Ισπανός έχει αναλάβει και επίσημα το πόστο του υπεύθυνου για την ανάπτυξη νεαρών παικτών και την παρακολούθηση της εξέλιξης των δανεικών. Οι «ερυθρόλευκοι»…",
 "also": [],
 "id": "04c4d83c4c7a"
-},
-{
-"title": "Γιώργος Σιώζιος: Το ταλέντο του Ολυμπιακού που ξεχώρισε η FIFA",
-"url": "https://www.sdna.gr/podosfairo/1487332_giorgos-siozios-talento-toy-olympiakoy-poy-xehorise-i-fifa",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T15:28+00:00",
-"sport": "football",
-"snippet": "Από την Ακαδημία του Κυριάκου Καραταΐδη μέχρι την αναγνώριση από τη FIFA, ο 17χρονος Γιώργος Σιώζιος έχει ήδη διαγράψει μια αξιοσημείωτη πορεία. Το...",
-"also": [],
-"id": "95797c3d55b3"
-},
-{
-"title": "Κόουλ Άντονι: Ο Αμερικανός γκαρντ που φέρεται να απασχολεί τον Ολυμπιακό, έβαλε 39 πόντους και αποβλήθηκε βρίζοντας διαιτητές",
-"url": "https://sportday.gr/basket/365503_kooul-antoni-o-amerikanos-gkarnt-pou-feretai-na-apascholei-ton-olympiako-evale-39-pontous-kai-apovlithike-vrizontas-diaitites.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-16T15:23+00:00",
-"sport": "basket",
-"snippet": "Ο Κόουλ Άντονι που ενδιαφέρθηκε ο Ολυμπιακός σκόραρε 39 πόντους, αποβλήθηκε για αγκωνιά και κατέληξε να βρίζει τους διαιτητές.",
-"also": [],
-"id": "0ef7d0befe90"
-},
-{
-"title": "ΑΠΟΕΛ: Μεταγραφικό ban λόγω οφειλών σε πρώην παίκτη του Ολυμπιακού",
-"url": "https://www.gazzetta.gr/football/katigoria-kyproy/2587006/apoel-metagrafiko-ban-logo-ofeilon-se-proin-paikti-toy-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T15:22+00:00",
-"sport": "football",
-"snippet": "Η FIFA επέβαλε απαγορευτικό μεταγραφών στον ΑΠΟΕΛ λόγω οφειλών προς τον Αλγκασίμ Μπα, ο οποίος στο παρελθόν αγωνιζόταν στον Ολυμπιακό.",
-"also": [],
-"id": "5b2f691a5ebc"
-},
-{
-"title": "Ολυμπιακός Β': Σε δύσκολη θέση ο Άλβαρο Ρούμπιο",
-"url": "https://sportime.gr/podosfairo/olimpiakos-v-se-diskoli-thesi-o-alvaro-roumpio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T15:17+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός Β' μετρά τέσσερις συνεχόμενες ήττες και μόλις μία νίκη σε 11 αγώνες. Η πίεση στον Άλβαρο Ρούμπιο και ο προβληματισμός για τους νεαρούς.",
-"also": [],
-"id": "f29d6d7287bf"
 }
 ]
 }
