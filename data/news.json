@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T23:28:59+00:00",
+"generated_at": "2026-11-20T23:44:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τζόουνς για φήμες περί Ολυμπιακού: «Τα έμαθα ενώ έπαιζα GTA, αλλά δεν δίνω σημασία σε τέτοια πράγματα»",
+"url": "http://www.sport-fm.gr/article/5162423",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T23:32+00:00",
+"sport": "general",
+"snippet": "Ο Κάρλικ Τζόουνς απάντησε σε ερώτηση σχετικά με τις φήμες που κυκλοφορούν τις τελευταίες ημέρες και συνδέουν το μέλλον του με τον Ολυμπιακό.",
+"also": [],
+"id": "197c9dbb86c8"
+},
 {
 "title": "Τα highlights από τη νίκη του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης",
 "url": "https://www.sdna.gr/mpasket/1488791_ta-highlights-apo-ti-niki-toy-olympiakoy-kontra-sti-real-madritis",
@@ -23,7 +35,15 @@
 "published": "2026-11-20T23:16+00:00",
 "sport": "basket",
 "snippet": "Ο Κάρλικ Τζόουνς τοποθετήθηκε μιλώντας στα σέρβικα μέσα για τη φημολογία που τον συνέδεσε με τον Ολυμπιακό κάνοντας αναφορά στην κυκλόφορία του GTA VI.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1488792_tzooyns-gia-tis-fimes-peri-olympiakoy-eida-osa-grafontan-eno-epaiza-gta-vi",
+"title": "Τζόουνς για τις φήμες περί Ολυμπιακού: «Είδα όσα γράφονταν ενώ έπαιζα GTA VI!»",
+"published": "2026-11-20T23:27+00:00"
+}
+],
 "id": "29fce78fdd71"
 },
 {
@@ -4951,18 +4971,6 @@
 "snippet": "Ο Σάσα Βεζένκοφ μπήκε στο Top-10 των σκόρερ της EuroLeague με 3.939 πόντους, ξεπερνώντας τον Ουίλ Κλάιμπερν μετά τους 37 πόντους στη Μακάμπι",
 "also": [],
 "id": "eec3944f259a"
-},
-{
-"title": "Μακάμπι Τελ Αβίβ - Ολυμπιακός: Τα highlights του αγώνα (vid)",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587446/makampi-tel-abib-olympiakos-ta-highlights-toy-agona-vid",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-17T20:34+00:00",
-"sport": "basket",
-"snippet": "Στο πιο τρελό παιχνίδι της σεζόν, ο Ολυμπιακός με τον Σάσα Βεζένκοβ να μαγεύει και τον Κόρι Τζόσεφ να πετυχαίνει game winner τρίποντο, πήρε το διπλό στην έδρα…",
-"also": [],
-"id": "5f2b44550228"
 }
 ]
 }
