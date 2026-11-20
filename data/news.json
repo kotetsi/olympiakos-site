@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-20T10:21:48+00:00",
+"generated_at": "2026-11-20T10:37:00+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
 "also": [],
 "id": "5ee9c44a4d26"
+},
+{
+"title": "Ολυμπιακός: Τρεις χαφ έξω, δύο φορ μέσα; Τόσο απλό;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-tris-chaf-exo-dio-for-mesa-toso-aplo?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-20T10:16+00:00",
+"sport": "general",
+"snippet": "Ο Τσανάκας έβαλε το 4-4-2 στην κουβέντα για τον Ολυμπιακό. Με Έσε, Πουέρτα και Τσικίνιο εκτός, τα δύο φορ μπορεί να αφήσουν μεγάλα κενά στον άξονα.",
+"also": [],
+"id": "0a02093b49a5"
 },
 {
 "title": "Πρόβες Ευρώπης για Ολυμπιακό και ΠΑΟΚ",
@@ -4952,18 +4964,6 @@
 "snippet": "Σε πολύ δύσκολη οικονομική κατάσταση παραμένει ο ΑΠΟΕΛ, στον οποίο επιβλήθηκε μεταγραφικό ban από τη FIFA για οφειλές στον Αλγκασίμ Μπα.",
 "also": [],
 "id": "65503dfeda64"
-},
-{
-"title": "Ο Βασίλης Παπαθεοδώρου έκραξε τον κόσμο του Άρη! «Χωρίς τον Παναθηναϊκό, δεν θα κέρδιζε τον Ολυμπιακό!»",
-"url": "https://sportime.gr/basket/o-vasilis-papatheodorou-ekraxe-ton-kosmo-tou-ari-choris-ton-panathinaiko-den-tha-kerdize-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-16T18:43+00:00",
-"sport": "basket",
-"snippet": "Ο Βασίλης Παπαθεοδώρου συνέδεσε τη νίκη του Άρη επί του Ολυμπιακού με τον Παναθηναϊκό, προκαλώντας ερωτήματα με όσα ανέφερε για τη διαιτησία.",
-"also": [],
-"id": "5a677d21a828"
 }
 ]
 }
