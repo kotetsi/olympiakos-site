@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:23:09+00:00",
+ "generated_at": "2026-11-20T18:26:24+00:00",
  "count": 4,
  "items": [
   {
@@ -42,11 +42,11 @@
     "ANT1"
    ],
    "sport": "football",
-   "info": "UEFA Europa League 2026-27. League Phase, 5η Αγωνιστική."
+   "info": "UEFA Europa League 2026-27. League Phase, 5η Αγωνιστική. Περιγραφή: Γιώργος Θαναηλάκης."
   }
  ],
  "checked": {
-  "programs": 3353,
+  "programs": 3363,
   "errors": []
  }
 }

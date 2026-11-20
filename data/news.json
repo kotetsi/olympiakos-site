@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T18:11:18+00:00",
+"generated_at": "2026-11-20T18:26:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Tι ισχύει με το ενδεχόμενο αναβολής του αγώνα με τον Άρη",
+"url": "https://sportday.gr/podosfairo/365932_olympiakos-ti-ischyei-me-to-endechomeno-anavolis-tou-agona-me-ton-ari.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-20T18:13+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός θα φιλοξενηθεί κανονικά από τον Άρη (29/11, 19:00) στο «Κ. Βικελίδης», εφόσον οι Πειραιώτες δεν άσκησαν το «Joker Right» για το εν λόγο παιχνίδι.",
+"also": [],
+"id": "ef3a4fbce69d"
+},
 {
 "title": "Ολυμπιακός: Η ψυχραιμία του Αλγκουαθίλ και το νέο «παράθυρο» για έξτρα προσθήκη",
 "url": "https://www.gazzetta.gr/football/superleague/2588321/olympiakos-i-psyhraimia-toy-algkoyathil-kai-neo-parathyro-gia-extra",
@@ -4944,26 +4956,6 @@
 "snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Μακάμπι Τελ Αβίβ στις 19:00 και ο Παναθηναϊκός δοκιμάζεται απέναντι στη Βίρτους Μπολόνια στις...",
 "also": [],
 "id": "3368dce50d8f"
-},
-{
-"title": "«Ο Ολυμπιακός πρωτοστάτησε στην απόρριψη του NBA Europe»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15235518/o-olympiakos-protostatise-stin-aporripsi-tou-nba-europe/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-17T13:10+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός είχε πρωταγωνιστικό ρόλο στην αρνητική στάση που διαμόρφωσαν ορισμένες ομάδες της EuroLeague απέναντι στην αρχική πρόταση του NBA για το NBA…",
-"also": [
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5161693",
-"title": "Athletic: «Ο Ολυμπιακός πρωτοστάτησε στην απόρριψη της πρότασης του NBA Europe στην Ευρωλίγκα»",
-"published": "2026-11-17T16:36+00:00"
-}
-],
-"id": "f8867198dca9"
 }
 ]
 }
