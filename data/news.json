@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-20T16:55:24+00:00",
+"generated_at": "2026-11-20T17:10:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τώρα πρέπει να δείξει χαρακτήρα",
+"url": "https://sportday.gr/blogs/stavros-georgakopoulos/365925_olympiakos-tora-prepei-na-deiksei-charaktira.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-20T17:06+00:00",
+"sport": "football",
+"snippet": "Οι απουσίες των Εσε, Πουέρτα και Τσικίνιο δημιουργούν μία συνθήκη που δεν μπορεί ν’ αντιμετωπιστεί με ευχολόγια...",
+"also": [],
+"id": "a5215289f550"
+},
+{
+"title": "Ολυμπιακός: Η δωδεκάδα των «ερυθρολεύκων» κόντρα στη Ρεάλ Μαδρίτης",
+"url": "https://sportday.gr/basket/365924_olympiakos-i-dodekada-ton-erythrolefkon-kontra-sti-real-madritis.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-20T17:02+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ρεάλ Μαδρίτης (20/11, 21:15) στη «SUNEL Arena» για τη 13η αγωνιστική της Euroleague. Δείτε τους διαθέσιμους παίκτες του Γιώργου…",
+"also": [],
+"id": "94c9a9366f8c"
+},
+{
+"title": "Με Ταϊρίκ Τζόουνς ο Ολυμπιακός κόντρα στην Ρεάλ",
+"url": "https://www.sdna.gr/mpasket/1488696_me-tairik-tzooyns-o-olympiakos-kontra-stin-real",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-20T16:57+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας θα έχει κανονικά στην διαθεσή του τον Ταϊρίκ Τζόουνς για την αναμέτρηση με την Ρεάλ (21:15).",
+"also": [],
+"id": "734c5ad0e6fd"
+},
 {
 "title": "Η δωδεκάδα του Ολυμπιακού για το ματς με την Ρεάλ Μαδρίτης",
 "url": "https://www.ertsports.gr/mpasket/euroleague/i-dodekada-tou-olympiakou-gia-to-mats-me-tin-real-madritis/",
@@ -4936,42 +4972,6 @@
 }
 ],
 "id": "76ac8fd9d1b6"
-},
-{
-"title": "Μίλαν: Η κατάσταση με τους τραυματισμούς εν όψει Ολυμπιακού και το update για Μενιάν",
-"url": "https://www.gazzetta.gr/football/europa-league/2587241/milan-i-katastasi-me-toys-traymatismoys-en-opsei-olympiakoy-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-17T11:31+00:00",
-"sport": "football",
-"snippet": "Ο Αμορίμ πιθανότατα θα στερηθεί τις υπηρεσίες του Λόφτους-Τσικ απέναντι στον Ολυμπιακό, με την ετοιμότητα του Μενιάν για το ματς στο Φάληρο να παραμένει…",
-"also": [],
-"id": "8e58a9f97785"
-},
-{
-"title": "Μπαρτζώκας: Οι απουσίες δεν είναι άλλοθι για τον Ολυμπιακό",
-"url": "https://sportime.gr/olimpiakos/bartzokas-i-apousies-den-ine-allothi-gia-ton-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-17T11:14+00:00",
-"sport": "general",
-"snippet": "Ο Μπαρτζώκας δεν μπορεί να κρύβει τη βιασύνη του Ολυμπιακού πίσω από τις απουσίες. Ο Άρης έδειξε το πρόβλημα και η Μακάμπι θα το χτυπήσει ξανά.",
-"also": [],
-"id": "2d8e697823b8"
-},
-{
-"title": "Σπανούλης: “Τέλειωσαν τα ματς με Ολυμπιακό & Παναθηναϊκό, το μόνο που σκέφτομαι είναι η Λε Μαν”",
-"url": "https://www.eurohoops.net/el/eurocup-el/2036329/spanoulis-teliosan-ta-mats-me-olimpiako-panathinaiko-to-mono-pou-skeftome-ine-i-le-man/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-17T11:14+00:00",
-"sport": "basket",
-"snippet": "Ο Βασίλης Σπανούλης έκανε δηλώσεις ενόψει του αυριανού αγώνα του Άρη (18/11, 20:00) κόντρα στη Λε Μαν στο Παλέ. The post Σπανούλης: “Τέλειωσαν τα ματς με…",
-"also": [],
-"id": "1d137ebf1f33"
 }
 ]
 }
