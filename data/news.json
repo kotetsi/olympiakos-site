@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T12:38:11+00:00",
+"generated_at": "2026-11-20T12:53:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Επιτυχημένη η επέμβαση του Τσικίνιο – Ξεκίνησε η αποκατάστασή του",
+"url": "https://www.ertsports.gr/podosfairo/olympiakos-epityximeni-i-epemvasi-tou-tsikinio-ksekinise-i-apokatastasi-tou/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-20T12:50+00:00",
+"sport": "football",
+"snippet": "Με επιτυχία ολοκληρώθηκε η χειρουργική επέμβαση στο μετατάρσιο του δεξιού ποδιού του Τσικίνιο, το πρωί της Παρασκευής (20/11). The post Ολυμπιακός: Επιτυχημένη…",
+"also": [],
+"id": "b842cd552a8b"
+},
+{
+"title": "Ολυμπιακός: Απαγόρευση οργανωμένης μετακίνησης στην Καρδίτσα",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15240943/olympiakos-apagoreysi-organomenis-metakinisis-stin-karditsa/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-20T12:41+00:00",
+"sport": "basket",
+"snippet": "Με απόφαση του Υπουργείου Αθλητισμού δε θα επιτραπεί η μετακίνηση φιλάθλων των «ερυθρόλευκων» στο κλειστό «Γιάννης Μπουρούσης». Όπως αναφέρει η ανακοίνωση της…",
+"also": [],
+"id": "5f8f537ae815"
+},
 {
 "title": "Αρνείται να χάσει ο Ολυμπιακός!",
 "url": "https://www.gazzetta.gr/basketball/2588185/arneitai-na-hasei-o-olympiakos",
@@ -23,7 +47,15 @@
 "published": "2026-11-20T12:14+00:00",
 "sport": "general",
 "snippet": "Η κυβέρνηση απαγόρευσε την οργανωμένη παρουσία φίλων του Ολυμπιακού στο «Γιάννης Μπουρούσης» της Καρδίτσας.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/mpasket/1488606_karditsa-olympiakos-apagoreytike-i-organomeni-metakinisi-filathlon-toy-olympiakoy",
+"title": "Καρδίτσα-Ολυμπιακός: Απαγορεύτηκε η οργανωμένη μετακίνηση φιλάθλων του Ολυμπιακού",
+"published": "2026-11-20T12:50+00:00"
+}
+],
 "id": "6338eadb3388"
 },
 {
@@ -4940,30 +4972,6 @@
 "snippet": "Αναλυτικά: 12:30 Magenta Sport 6: Χάρι Χελιοβάαρα/Χένρι Πάτεν – Μαρσέλο Αρέβαλο/Μέιτ Πάβιτς (Nitto ATP Finals 2026) 15:00 Magenta Sport 6: Αρτούρ Φις – Ραφαέλ…",
 "also": [],
 "id": "221b1fbb7d92"
-},
-{
-"title": "Μακάμπι Τελ Αβίβ-Ολυμπιακός: Απαιτητική δοκιμασία στην Κύπρο για τους «ερυθρόλευκους»",
-"url": "http://www.sport-fm.gr/article/5161398",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-17T06:02+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει απόψε (19:00) τη Μακάμπι Τελ Αβίβ στην Κύπρο και στο «Σπύρος Κυπριανού» της Λεμεσού, για τη 12η αγωνιστική της Ευρωλίγκας!",
-"also": [],
-"id": "26d58c4f3816"
-},
-{
-"title": "Ολυμπιακός: Πουέρτα, Ζότα και Γκονσάλες του βγήκαν – Ο Μπέιλι ακόμη χρωστάει",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-pouerta-zota-ke-gkonsales-tou-vgikan-o-beili-akomi-chrostai?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-17T05:53+00:00",
-"sport": "general",
-"snippet": "Ο Φρόιλερ, ο Ζότα, ο Πουέρτα και ο Γκονσάλες έχουν ήδη βοηθήσει τον Ολυμπιακό. Πού υστερούν ο Μπέιλι και άλλες φετινές προσθήκες μετά το πρώτο τρίμηνο.",
-"also": [],
-"id": "0c7744e9845f"
 }
 ]
 }
