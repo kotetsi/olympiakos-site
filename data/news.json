@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T12:07:58+00:00",
+"generated_at": "2026-11-20T12:23:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καρδίτσα-Ολυμπιακός: Απαγορεύτηκε η οργανωμένη μετακίνηση φιλάθλων των «ερυθρόλευκων»",
+"url": "http://www.sport-fm.gr/article/5162295",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T12:14+00:00",
+"sport": "general",
+"snippet": "Η κυβέρνηση απαγόρευσε την οργανωμένη παρουσία φίλων του Ολυμπιακού στο «Γιάννης Μπουρούσης» της Καρδίτσας.",
+"also": [],
+"id": "6338eadb3388"
+},
 {
 "title": "Το πρόγραμμα της 5ης αγωνιστικής του Κυπέλλου Ελλάδας – Πότε διεξάγεται το Ολυμπιακός – Παναθηναϊκός",
 "url": "https://www.ertsports.gr/podosfairo/to-programma-tis-5is-agonistikis-tou-kypellou-elladas-pote-dieksagetai-to-olympiakos-panathinaikos/",
@@ -4952,18 +4964,6 @@
 "snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
 "also": [],
 "id": "57c53020288a"
-},
-{
-"title": "Ολυμπιακός: Η απάντηση του Πιρόλα στις φήμες περί μεταγραφής του!",
-"url": "https://www.gazzetta.gr/football/superleague/2587106/olympiakos-i-apantisi-toy-pirola-stis-fimes-peri-metagrafis-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T22:29+00:00",
-"sport": "football",
-"snippet": "Ο Κ. Νικολακόπουλος γράφει στο blog του στο gazzetta για τον Πιρόλα και πώς «αντέδρασε» στη φημολογία από την Ιταλία περί μεταγραφής του.",
-"also": [],
-"id": "a1aac572af5a"
 }
 ]
 }
