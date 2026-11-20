@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-20T08:20:34+00:00",
+"generated_at": "2026-11-20T08:35:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Φελίζ: «Πολύ απαιτητικό ματς με τον Ολυμπιακό, έχουν εξαιρετική ομάδα - Σπουδαίο το τρίποντο του Βεζένκοφ με τη Μακάμπι»",
+"url": "http://www.sport-fm.gr/article/5162239",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-20T08:31+00:00",
+"sport": "general",
+"snippet": "Για τη μάχη της Ρεάλ Μαδρίτης με τον Ολυμπιακό στη SUNEL Arena (21:15) μίλησε ο γκαρντ των Ισπανών, Αντρές Φελίζ.",
+"also": [],
+"id": "9caa11468cc8"
+},
+{
+"title": "Ολυμπιακός: Ψάχνει λύσεις για τον άξονα ο Αλγουαθίλ",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15240707/olympiakos-psaxnei-lyseis-gia-ton-aksona-o-algouathil/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-20T08:30+00:00",
+"sport": "football",
+"snippet": "Ο Βάσκος τεχνικός δεν μπορεί να υπολογίζει στους Έσε, Πουέρτα και Τσικίνιο, κάτι που περιορίζει τις επιλογές του για τον άξονα. Αυτή η εξέλιξη θα αναγκάσει τον…",
+"also": [],
+"id": "22b2eebaca41"
+},
 {
 "title": "Στο σημερινό Center Fox, 7στερος ο ΠΑΟ με σούπερ Ναν, δύσκολη μάχη για τον Ολυμπιακό με τη Ρεάλ και νέο σοκ με τον τραυματισμό του Τσικίνιο",
 "url": "https://www.sdna.gr/genikes-eidiseis/1488510_sto-simerino-center-fox-7steros-o-pao-me-soyper-nan-dyskoli-mahi-gia-ton",
@@ -4940,30 +4964,6 @@
 "snippet": "Την Κυριακή στου Ρέντη παίζει ο Απόλλων Καλαμαριάς με τον Ολυμπιακό Β’ στο πλαίσιο της 12ης αγωνιστικής της Superbet League 2 και την Δευτέρα ...",
 "also": [],
 "id": "86dd264c5169"
-},
-{
-"title": "Ολυμπιακός: Δεν έχει αποφασίσει ακόμα ο Αλγουαθίλ",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15234055/olympiakos-den-exei-apofasisei-akoma-o-algouathil/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-16T17:04+00:00",
-"sport": "football",
-"snippet": "Ο Βάσκος τεχνικός θέλει να δώσει χρόνο στους παίκτες που έχει τώρα στη διάθεσή του, προκειμένου να δείξουν τις δυνατότητές τους. Ο έμπειρος προπονητής θα έχει…",
-"also": [],
-"id": "1fe8235ae792"
-},
-{
-"title": "Ολυμπιακός: Η απάντηση του Αλγκουαθίλ όταν ρωτήθηκε για το ρόστερ",
-"url": "https://www.gazzetta.gr/football/superleague/2587028/olympiakos-ti-apantisi-edose-o-algkoyathil-otan-rotithike-gia-roster",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T16:31+00:00",
-"sport": "football",
-"snippet": "Ο Βάσκος και έμπειρος προπονητής ήταν πολύ συγκεκριμένος όταν του τέθηκε σχετική ερώτηση για το παρόν έμψυχο δυναμικό της ομάδας του Ολυμπιακού.",
-"also": [],
-"id": "85825ae9ee87"
 }
 ]
 }
