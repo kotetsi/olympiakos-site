@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-20T09:05:58+00:00",
+"generated_at": "2026-11-20T09:21:05+00:00",
 "count": 400,
 "items": [
+{
+"title": "Φελίζ: Οι δηλώσεις του ενόψει Ολυμπιακού",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588135/feliz-oi-diloseis-toy-enopsei-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T09:08+00:00",
+"sport": "basket",
+"snippet": "Ο Αντρές Φελίζ πραγματοποίησε δηλώσεις ενόψει της αναμέτρησης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης και μεταξύ άλλων αναφέρθηκε για το μέλλον του.",
+"also": [],
+"id": "e1bacbc10796"
+},
+{
+"title": "Φελίζ: «Σπουδαία ομάδα ο Ολυμπιακός»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240772/feliz-spoudaia-omada-o-olympiakos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-20T09:08+00:00",
+"sport": "basket",
+"snippet": "Ο Δομινικανός παίκτης της Ρεάλ Μαδρίτης τόνισε πως η αναμέτρηση των Άνω Λιοσίων θα είναι ιδιαίτερα απαιτητική για την ισπανική ομάδα. Αναλυτικά, ο 29χρονος…",
+"also": [],
+"id": "cc77b4fefcab"
+},
+{
+"title": "Post Game Show για το Ολυμπιακός-Ρεάλ Μαδρίτης | Gazz Floor by Novibet",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2588134/post-game-show-gia-olympiakos-real-madritis-gazz-floor-novibet",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T09:06+00:00",
+"sport": "basket",
+"snippet": "Όλο το ρεπορτάζ με live σχολιασμό από την αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης για τη Euroleague.",
+"also": [],
+"id": "83affa1eddf8"
+},
 {
 "title": "Ο Γενάρης, χαφ σε κρίση, το πρέπει με Ρεάλ & αυτοί που θα έρθουν | Ολυμπιακός Q&A by Interwetten",
 "url": "https://www.gazzetta.gr/football/superleague/2588131/o-genaris-haf-se-krisi-prepei-me-real-aytoi-poy-tha-erthoyn-olympiakos",
@@ -13,6 +49,18 @@
 "snippet": "Η ερυθρόλευκη επικαιρότητα ανοίγει τη συζήτηση στο Ολυμπιακός Q&A by Interwetten του Gazzetta. Ο Αλέξης Βιρβίλης και ο Παναγιώτης Ραμαντάνης μεταφέρουν το…",
 "also": [],
 "id": "62aa46b03b95"
+},
+{
+"title": "Ολυμπιακός: Η Ρεάλ του θυμίζει ποιος πήρε την κούπα",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-i-real-tou-thimizi-pios-pire-tin-koupa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-20T09:01+00:00",
+"sport": "general",
+"snippet": "Η Ρεάλ θυμίζει στον Ολυμπιακό το Super Cup του Σεπτεμβρίου και έρχεται στη SUNEL Arena. Το τρόπαιο χάθηκε, αλλά απόψε οι ερυθρόλευκοι έχουν μια απάντηση.",
+"also": [],
+"id": "7ba446e9be6f"
 },
 {
 "title": "Να συνεχίσει το σερί ο Θρύλος κόντρα στην Ρεάλ, πάει με φόρα για 10UP*!",
@@ -4916,54 +4964,6 @@
 "snippet": "Ο αντιπρόεδρος των Πειραιωτών κατηγόρησε τη δημόσια τηλεόραση για το γεγονός πως περνούσαν από τα μικρόφωνα ύβρεις των οπαδών της ομάδας της Νέας Σμύρνης προς…",
 "also": [],
 "id": "6d50863857db"
-},
-{
-"title": "Ολυμπιακός: Αιχμές του Καραπαπά (pic)",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15234106/olympiakos-aixmes-tou-karapapa-pic/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-16T17:48+00:00",
-"sport": "football",
-"snippet": "Ο αντιπρόεδρος των Πειραιωτών κατηγόρησε τη δημόσια τηλεόραση για το γεγονός πως περνούσαν από τα μικρόφωνα ύβρεις των οπαδών της ομάδας της Νέας Σμύρνης προς…",
-"also": [],
-"id": "639d96753d82"
-},
-{
-"title": "Ολυμπιακός: Γιατί σκέφτεται την ενίσχυση από την ευρωπαϊκή αγορά μετά την υπόθεση Κόντσαρ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587043/olympiakos-giati-skeftetai-tin-enishysi-apo-tin-eyropaiki-agora-meta",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-16T17:44+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός είναι στην αγορά για την απόκτηση ενός περιφερειακού και η Ευρώπη είναι το μέρος όπου αναζητά τον παίκτη που θα ταιριάζει στα «θέλω» του Γιώργου…",
-"also": [],
-"id": "08784a93ce09"
-},
-{
-"title": "Άρης: Η παρακάμερα από τον θρίαμβο επί του Ολυμπιακού",
-"url": "https://www.metrosport.gr/aris-i-parakamera-apo-ton-thriamvo-epi-toy-olympiakoy-1333795",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-16T17:40+00:00",
-"sport": "general",
-"snippet": "Μία ξεχωριστή βραδιά έζησε ο Άρης στο Nick Galis Hall, καθώς επικράτησε του Ολυμπιακού με 100-78, πετυχαίνοντας την πρώτη του νίκη απέναντι στους ...",
-"also": [],
-"id": "1a4b9c4842ef"
-},
-{
-"title": "«Τον αποδοκίμασε το γήπεδο και τώρα θέλουν να τον πουλήσουν στον Ολυμπιακό»",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1487372_ton-apodokimase-gipedo-kai-tora-theloyn-na-ton-poylisoyn-ston",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-16T17:30+00:00",
-"sport": "football",
-"snippet": "Νέο ρεπορτάζ από την Ισπανία για τον εξτρέμ που βρίσκεται ξανά στη λίστα του Ολυμπιακού. Το πρόβλημα τραυματισμού, ο μεγάλος μισθός και η μεταγραφή...",
-"also": [],
-"id": "a6e0563e817a"
 }
 ]
 }
