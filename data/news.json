@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T06:19:30+00:00",
+"generated_at": "2026-11-20T06:34:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Euroleague: Ντέρμπι στην «Sunel Arena» ανάμεσα σε Ολυμπιακό και Ρεάλ Μαδρίτης",
+"url": "https://www.sdna.gr/mpasket/1488268_euroleague-ntermpi-stin-sunel-arena-anamesa-se-olympiako-kai-real-madritis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-20T06:22+00:00",
+"sport": "basket",
+"snippet": "Η 13η αγωνιστική της Euroleague ολοκληρώνεται σήμερα με τέσσερα παιχνίδια και τον Ολυμπιακό να κοντράρεται με την Ρεάλ Μαδρίτης.",
+"also": [],
+"id": "79fe947b5c9c"
+},
 {
 "title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός - Ρεάλ Μαδρίτης, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
 "url": "https://www.gazzetta.gr/football/euroleague/2588091/athlitikes-metadoseis-simera-olympiakos-real-madritis-gazz-floor-oi",
@@ -4952,18 +4964,6 @@
 "snippet": "Ο Ολυμπιακός Κ23 ηττήθηκε από τον Πανιώνιο με 2-0 για την 11η αγωνιστική της Super League 2.",
 "also": [],
 "id": "0e281a00d3c7"
-},
-{
-"title": "Ολυμπιακός: Υψηλές απαιτήσεις για τον Πιρόλα",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15233910/olympiakos-ypsiles-apaitiseis-gia-ton-pirola/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-16T15:37+00:00",
-"sport": "football",
-"snippet": "Ο Ιταλός αμυντικός αρέσει σε συλλόγους της πατρίδας του, ενώ φέρεται να βρίσκεται κοντά και στην εθνική ομάδα, μετά τις εμφανίσεις του με τη φανέλα των…",
-"also": [],
-"id": "695fdcc8dab5"
 }
 ]
 }
