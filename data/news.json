@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T07:35:13+00:00",
+"generated_at": "2026-11-20T07:50:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Σιπιόνι-Φρόιλερ θα γίνουν δίδυμο στο κέντρο και αναζητείται ο παίκτης που θα τους βοηθήσει» (audio)",
+"url": "https://www.ertsports.gr/era-spor/olympiakos-sipioni-froiler-tha-ginoun-didymo-sto-kentro-kai-anaziteitai-o-paiktis-pou-tha-tous-voithisei-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-20T07:39+00:00",
+"sport": "general",
+"snippet": "O Ολυμπιακός έχει πολλά προβλήματα στο κέντρο του, οι τραυματισμοί είναι πολλοί και συνεχόμενοι και ο Ιμανόλ Αλγκουαθίλ ψάχνει τη λύση εκ των έσω, όπως τόνισε…",
+"also": [],
+"id": "15cda14b8896"
+},
 {
 "title": "Ολυμπιακός: Γιατί μπορεί να δηλώσει ακόμα μόνο τρεις παίκτες στη Euroleague;",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2587975/olympiakos-giati-mporei-na-dilosei-akoma-mono-treis-paiktes-sti",
@@ -4952,18 +4964,6 @@
 "snippet": "Ο Πορτογάλος μέσος των Πειραιωτών μίλησε στον Τύπο της πατρίδας του για την έως τώρα παρουσία του στο λιμάνι και δήλωσε ευτυχισμένος στην Ελλάδα. Ο 27χρονος…",
 "also": [],
 "id": "68563b77288a"
-},
-{
-"title": "Ρούμπιο: «Δεν ήμασταν καλοί με την μπάλα στα πόδια»",
-"url": "https://www.olympiacos.org/2026/11/16/roumpio-den-imastan-kaloi-me-tin-mpala-sta-podia/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-16T15:46+00:00",
-"sport": "general",
-"snippet": "Η δήλωση του Άλβαρο Ρούμπιο για τον Ολυμπιακό Κ23.",
-"also": [],
-"id": "b5206daf50dc"
 }
 ]
 }
