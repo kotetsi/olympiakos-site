@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T19:57:10+00:00",
+"generated_at": "2026-11-20T20:12:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός – Ρεάλ: Υπό το βλέμμα του Στόιτσκοφ",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2038352/olimpiakos-real-ipo-to-vlemma-tou-stoitskof/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-20T20:06+00:00",
+"sport": "basket",
+"snippet": "Παρών στη SUNEL Arena (20/11, 21:15/Novasports Prime) ο Χρίστο Στόιτσκοφ για το παιχνίδι ανάμεσα στον Ολυμπιακό και στη Ρεάλ Μαδρίτης για τη 13η αγωνιστική της…",
+"also": [],
+"id": "996c13b8d943"
+},
 {
 "title": "Ολυμπιακός-Ρεάλ Μαδρίτης: Αποδοκιμασίες κατά Ντόρσεϊ στη SUNEL Arena",
 "url": "https://www.metrosport.gr/olympiakos-real-madriths-apodokimasies-kata-ntorsey-sth-sunel-arena-1334319",
@@ -85,6 +97,18 @@
 "snippet": "Απρόοπτο με τον Τάισον Γουόρντ προέκυψε στον Ολυμπιακό, καθώς ο Αμερικανός φόργουορντ τραυματίστηκε λίγο πριν το φινάλε του πρώτου δεκαλέπτου με τη Ρεάλ…",
 "also": [],
 "id": "a14d8e146275"
+},
+{
+"title": "Ολυμπιακός: Πρόβλημα με Γουόρντ – Αποχώρησε για αποδυτήρια (video)",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15241935/olympiakos-provlima-me-gouornt-apoxorise-gia-apodytiria-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-20T19:38+00:00",
+"sport": "basket",
+"snippet": "Απρόοπτο με τον Τάισον Γουόρντ προέκυψε στον Ολυμπιακό, καθώς ο Αμερικανός φόργουορντ τραυματίστηκε λίγο πριν το φινάλε του πρώτου δεκαλέπτου με τη Ρεάλ…",
+"also": [],
+"id": "58f1148067c0"
 },
 {
 "title": "Δεν σταματάει η ατυχία στον Ολυμπιακό: Αποχώρησε με πρόβλημα ο Γουόρντ στο ματς με τη Ρεάλ!",
@@ -4931,30 +4955,6 @@
 "snippet": "Όπως μεταδίδουν τα ΜΜΕ στη Νιγηρία ο διεθνής αριστερός μπακ του Ολυμπιακού υπέστη τραυματισμό στο 2ο μέρος του αγώνα της Εθνικής της χώρας του.",
 "also": [],
 "id": "901be98f528c"
-},
-{
-"title": "Ολυμπιακός: Συναγερμός για Μπρούνο – Αποχώρησε τραυματίας με τη Νιγηρία",
-"url": "https://www.sdna.gr/podosfairo/1487686_olympiakos-synagermos-gia-mproyno-apohorise-traymatias-me-ti-nigiria",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T17:20+00:00",
-"sport": "football",
-"snippet": "Ανησυχία στον Ολυμπιακό για τον Μπρούνο Ονιεμαέτσι, ο οποίος αποχώρησε με πρόβλημα τραυματισμού από την αναμέτρηση της Νιγηρίας με την Τανζανία...",
-"also": [],
-"id": "6da340c177d0"
-},
-{
-"title": "Ολυμπιακός: Εκτός ο Έσε από το ματς με τον Ηρακλή",
-"url": "https://sportday.gr/podosfairo/365625_olympiakos-ektos-o-ese-apo-to-mats-me-ton-irakli.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-17T17:09+00:00",
-"sport": "football",
-"snippet": "Ο Σαντιάγκο Έσε παραμένει εκτός λόγω τραυματισμού και δε θα αγωνιστεί στο παιχνίδι με τον Ηρακλή (22/11, 19:00) στην 11η αγωνιστική της Stoiximan Super League.",
-"also": [],
-"id": "09164f4476bd"
 }
 ]
 }
