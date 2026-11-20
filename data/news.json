@@ -1,9 +1,21 @@
 {
-"generated_at": "2026-11-20T18:26:19+00:00",
+"generated_at": "2026-11-20T18:41:29+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός: Tι ισχύει με το ενδεχόμενο αναβολής του αγώνα με τον Άρη",
+"title": "Ολυμπιακός: Δεν ζητάει αναβολή του αγώνα με τον Άρη-Τι ισχύει για το ματς με την ΑΕΚ",
+"url": "https://www.metrosport.gr/olympiakos-den-zitaei-anavoli-toy-agona-me-ton-ari-1334309",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-20T18:27+00:00",
+"sport": "general",
+"snippet": "Οι πολλές και σημαντικές απουσίες που προέκυψαν (Έσε, Τσικίνιο, Πουέρτα) αλλά και οι ευρωπαϊκές υποχρεώσεις που έχει ο Ολυμπιακός στη League Phase του...",
+"also": [],
+"id": "b2799891dd1b"
+},
+{
+"title": "Ολυμπιακός: Tι ισχύει για τον αγώνα με τον Άρη",
 "url": "https://sportday.gr/podosfairo/365932_olympiakos-ti-ischyei-me-to-endechomeno-anavolis-tou-agona-me-ton-ari.html",
 "source": "sportday",
 "source_name": "Sportday",
@@ -4944,18 +4956,6 @@
 "snippet": "Η επανέναρξη του πρωταθλήματος της Stoiximan Super League φέρνει τον Ηρακλή αντιμέτωπο με τον Ολυμπιακό στο «Γ. Καραϊσκάκης». Οι «κυανόλευκοι» έκαναν ...",
 "also": [],
 "id": "285cf7f2c513"
-},
-{
-"title": "Για το διπλό Ολυμπιακός και Παναθηναϊκός με Super Ενισχυμένες Αποδόσεις έως 4.70*!",
-"url": "https://www.sdna.gr/stoihima/1487606_gia-diplo-olympiakos-kai-panathinaikos-me-super-enishymenes-apodoseis-eos-470",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T13:25+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Μακάμπι Τελ Αβίβ στις 19:00 και ο Παναθηναϊκός δοκιμάζεται απέναντι στη Βίρτους Μπολόνια στις...",
-"also": [],
-"id": "3368dce50d8f"
 }
 ]
 }
