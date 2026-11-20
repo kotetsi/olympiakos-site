@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-20T12:23:06+00:00",
+"generated_at": "2026-11-20T12:38:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αρνείται να χάσει ο Ολυμπιακός!",
+"url": "https://www.gazzetta.gr/basketball/2588185/arneitai-na-hasei-o-olympiakos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-20T12:26+00:00",
+"sport": "basket",
+"snippet": "Συνέχεια στο σερί νικών θέλει να δώσει ο Ολυμπιακός, ο οποίος υποδέχεται τη Ρεάλ στην κατάμεστη «Sunel Arena» (21:15) για την 13 η αγωνιστική της Euroleague.",
+"also": [],
+"id": "345b82f0f0da"
+},
 {
 "title": "Καρδίτσα-Ολυμπιακός: Απαγορεύτηκε η οργανωμένη μετακίνηση φιλάθλων των «ερυθρόλευκων»",
 "url": "http://www.sport-fm.gr/article/5162295",
@@ -4952,18 +4964,6 @@
 "snippet": "Ο Φρόιλερ, ο Ζότα, ο Πουέρτα και ο Γκονσάλες έχουν ήδη βοηθήσει τον Ολυμπιακό. Πού υστερούν ο Μπέιλι και άλλες φετινές προσθήκες μετά το πρώτο τρίμηνο.",
 "also": [],
 "id": "0c7744e9845f"
-},
-{
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (17/11): Πού θα δούμε το Μακάμπι-Ολυμπιακός και το Βίρτους-Παναθηναϊκός",
-"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1487513_oi-athlitikes-metadoseis-tis-imeras-17/11-poy-tha-doyme",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-17T05:14+00:00",
-"sport": "general",
-"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
-"also": [],
-"id": "57c53020288a"
 }
 ]
 }
