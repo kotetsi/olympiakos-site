@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-21T15:52:19+00:00",
+"generated_at": "2026-11-21T16:07:26+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός – ΑΕΚ 1-3: Φοβερές οι «κιτρινόμαυρες» πέρασαν από το Ρέντη",
+"url": "https://www.gazzetta.gr/volleyball/volley-league-gynaikon/2588535/olympiakos-aek-1-3-foberes-oi-kitrinomayres-perasan-apo",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-21T15:52+00:00",
+"sport": "volley",
+"snippet": "Μια εξαιρετική ΑΕΚ λίγες μέρες μετά την εντός έδρας ήττα από τον Πανιώνιο πέρασε με άνεση από το Ρέντη επικρατώντας με 3-1 του Ολυμπιακού.",
+"also": [],
+"id": "68bc0fae759d"
+},
+{
+"title": "Η ΑΕΚ σόκαρε τον Ολυμπιακό με 1-3 μέσα στο «Μελίνα Μερκούρη» μετά από 13 χρόνια",
+"url": "https://www.sdna.gr/bolei/1489013_i-aek-sokare-ton-olympiako-me-1-3-mesa-sto-melina-merkoyri-meta-apo-13-hronia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T15:50+00:00",
+"sport": "general",
+"snippet": "Η «Ένωση» ήταν σε μεγάλη μέρα αφού κατάφερε να πάρει καθαρή νίκη μέσα στην έδρα των «ερυθρολεύκων»",
+"also": [],
+"id": "4e1a401d6c59"
+},
 {
 "title": "Ολυμπιακός – Ηρακλής: Ξανά αντίπαλοι στην Α΄ Εθνική δέκα χρόνια μετά! (vid)",
 "url": "https://www.sdna.gr/podosfairo/1489005_olympiakos-iraklis-xana-antipaloi-stin-ethniki-deka-hronia-meta-vid",
@@ -5002,30 +5026,6 @@
 "snippet": "Ο Χρήστος Τζόλης γύρισε τον χρόνο πίσω στον τελικό Κυπέλλου του 2021 ανάμεσα στον ΠΑΟΚ και τον Ολυμπιακό, αποκαλύπτοντας την έντονη απογοήτευσή του...",
 "also": [],
 "id": "d81ccf745106"
-},
-{
-"title": "Τζόλης για τον τελικό Ολυμπιακός - ΠΑΟΚ: «Εξοργίστηκα που δεν έπαιξα, ήμουν πρώτος σκόρερ»",
-"url": "https://www.gazzetta.gr/football/kypello-elladas/2587565/tzolis-gia-ton-teliko-olympiakos-paok-exorgistika-poy-den-epaixa",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T08:58+00:00",
-"sport": "football",
-"snippet": "Σε συνέντευξή του στο επίσημο σάιτ της Άρσεναλ, ο Χρήστος Τζόλης θυμήθηκε τον τελικό Κυπέλλου Ελλάδας του 2021, όπου κατέκτησε το τρόπαιο με τον ΠΑΟΚ.",
-"also": [],
-"id": "3bcbe612da9e"
-},
-{
-"title": "Πρωινός Τύπος (18/11): «Δεν άξιζε να κερδίσει ο Ολυμπιακός - Ρότα και Πήλιος τα καλύτερα μπακ»",
-"url": "https://www.sdna.gr/podosfairo/1487852_proinos-typos-18/11-den-axize-na-kerdisei-o-olympiakos-rota-kai-pilios-ta",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T08:50+00:00",
-"sport": "football",
-"snippet": "Ο απίθανος τρόπος που νίκησε χθες ο Ολυμπιακός τη Μακάμπι αναλύεται από τον Τύπο, που κάνει και τον απολογισμό της πορείας της Εθνικής στο Nations...",
-"also": [],
-"id": "866bed0fe74d"
 }
 ]
 }
