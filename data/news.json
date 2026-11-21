@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T21:10:19+00:00",
+"generated_at": "2026-11-21T21:25:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Έκπληξη με Γιαζίτσι στον Ολυμπιακό",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1489118_ekplixi-me-giazitsi-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T21:20+00:00",
+"sport": "general",
+"snippet": "Ο Νταβίντ Φουστέρ που ξεκίνησε ήδη την ολική αναμόρφωση αρκετών πραγμάτων στον Ολυμπιακό και η είδηση για τον Γιουσούφ Γιαζίτσι.",
+"also": [],
+"id": "d3b88b2378b5"
+},
 {
 "title": "Αποθεώθηκε ο κόσμος του Ολυμπιακού από μέλη της ομάδας, ενώ γιούχαρε τον Ντόρσεϊ…",
 "url": "https://www.sdna.gr/mpasket/1489028_apotheothike-o-kosmos-toy-olympiakoy-apo-meli-tis-omadas-eno-gioyhare-ton-ntorsei",
@@ -4985,18 +4997,6 @@
 "snippet": "Σύμφωνα με τις τελευταίες πληροφορίες από την Κολομβία, ο Γκουστάβο Πουέρτα θα απουσιάσει για αρκετό διάστημα από τις υποχρεώσεις του με τον Ολυμπιακό.",
 "also": [],
 "id": "5b0564270c26"
-},
-{
-"title": "Άσχημα νέα από Κολομβία για Πουέρτα - Εκκρεμούν οι εξετάσεις στον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/football/superleague/2587632/ashima-nea-apo-kolombia-gia-poyerta-ekkremoyn-oi-exetaseis-ston",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T13:30+00:00",
-"sport": "football",
-"snippet": "Οι Κολομβιανοί λένε ότι ο Γκουστάβο Πουέρτα θα μείνει εκτός δράσης για έναν με δύο μήνες. Θα εξεταστεί φυσικά και από το ιατρικό τιμ του Ολυμπιακού για να…",
-"also": [],
-"id": "7ac8f7c26dcc"
 }
 ]
 }
