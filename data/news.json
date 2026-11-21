@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-21T17:53:25+00:00",
+"generated_at": "2026-11-21T18:08:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βαθμολογία GBL: Ο ΠΑΟΚ στην κορυφή, ο Ολυμπιακός 9ος με έναν αγώνα λιγότερο",
+"url": "https://sportime.gr/basket/vathmologia-gbl-o-paok-stin-korifi-o-olimpiakos-9os-me-enan-agona-ligotero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-21T17:59+00:00",
+"sport": "basket",
+"snippet": "Ο ΠΑΟΚ παραμένει αήττητος και πρώτος στην GBL. Ο Άρης ακολουθεί, ο Παναθηναϊκός είναι τρίτος και ο Ολυμπιακός ένατος με ματς λιγότερο.",
+"also": [],
+"id": "1620d46c8616"
+},
+{
+"title": "Βαθμολογία Basket League: Μόνος και αήττητος ο ΠΑΟΚ – Οι θέσεις Άρη, Παναθηναϊκού και Ολυμπιακού",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15243847/vathmologia-basket-league-monos-kai-aittitos-o-paok-oi-theseis-ari-panathinaikou-kai-olympiakou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-21T17:55+00:00",
+"sport": "basket",
+"snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
+"also": [],
+"id": "ae530f10835f"
+},
 {
 "title": "Ολυμπιακός: Η προστατευτική μάσκα του Σμαϊλοβιτς και η δοκιμή του Ρέτσου ως εξάρι",
 "url": "https://www.gazzetta.gr/football/superleague/2588523/olympiakos-i-prostateytiki-maska-toy-smailobits-kai-i-dokimi-toy",
@@ -4980,30 +5004,6 @@
 "snippet": "Το παράδειγμα του Φουρνιέ έφερε νέα ένταση στη συζήτηση για τον Ντόρσεϊ. Γιατί οι αρχές του Ολυμπιακού δεν αλλάζουν ανάλογα με το όνομα του παίκτη.",
 "also": [],
 "id": "629f430fea7e"
-},
-{
-"title": "Ολυμπιακός: “Sold Out” με τη Ρεάλ, το πρώτο της χρονιάς",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2037010/olimpiakos-sold-out-me-ti-real-to-proto-tis-chronias/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-18T09:58+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε το πρώτο \"Sold Out\" της τρέχουσας αγωνιστικής περιόδου... The post Ολυμπιακός: “Sold Out” με τη Ρεάλ, το πρώτο της χρονιάς appeared…",
-"also": [],
-"id": "9757f811f62b"
-},
-{
-"title": "Ανακοίνωσε sold-out για Ρεάλ ο Ολυμπιακός!",
-"url": "http://www.sport-fm.gr/article/5161852",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-18T09:37+00:00",
-"sport": "general",
-"snippet": "Κατάμεστη θα είναι η SUNEL Arena την ερχόμενη Παρασκευή στο Ολυμπιακός-Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "ea8391d4c03d"
 }
 ]
 }
