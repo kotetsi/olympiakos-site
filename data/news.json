@@ -1,7 +1,87 @@
 {
-"generated_at": "2026-11-21T11:04:53+00:00",
+"generated_at": "2026-11-21T11:19:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός blog: Της αμύνης τα παιδιά, διώξανε τη… Βασίλισσα",
+"url": "https://www.eurohoops.net/el/editors-blogs/2038681/olimpiakos-blog-tis-aminis-ta-pedia-dioxane-ti-vasilissa/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-21T11:15+00:00",
+"sport": "basket",
+"snippet": "O Ολυμπιακός \"πάτησε\" τη Ρεάλ με 16 πόντους διαφορά, παίζοντας ίσως το καλύτερο φετινό του μπάσκετ και στα 420 τετραγωνικά μέτρα του γηπέδου... The post…",
+"also": [],
+"id": "31db1e9b8ff3"
+},
+{
+"title": "Ολυμπιακός: Με Φίλη και Σιπιόνι κόντρα στον Ηρακλή",
+"url": "https://www.sdna.gr/podosfairo/1488930_olympiakos-me-fili-kai-sipioni-kontra-ston-irakli",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T11:11+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγκουαθίλ ανακοίνωσε την αποστολή του Ολυμπιακού για το παιχνίδι με τον Ηρακλή, συμπεριλαμβάνοντας στα πλάνα του τους Σιπιόνι και Φίλη.",
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/365992_olympiakos-me-sipioni-kai-fili-i-apostoli-gia-ton-irakli.html",
+"title": "Ολυμπιακός: Με Σιπιόνι και Φίλη η αποστολή για τον Ηρακλή",
+"published": "2026-11-21T11:17+00:00"
+}
+],
+"id": "992dda595595"
+},
+{
+"title": "Αυτό είπε ο κόσμος του Ολυμπιακού στον Ντόρσεϊ – Τι ανέφερε ο Γιώργος Συρίγος",
+"url": "https://sportime.gr/basket/afto-ipe-o-kosmos-tou-olimpiakou-ston-ntorsei-ti-anefere-o-giorgos-sirigos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-21T11:11+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Συρίγος εξήγησε πώς ερμηνεύει τις αποδοκιμασίες των οπαδών του Ολυμπιακού προς τον Τάιλερ Ντόρσεϊ στο παιχνίδι με τη Ρεάλ.",
+"also": [],
+"id": "afe1c3e200b7"
+},
+{
+"title": "Ολυμπιακός: Μασκοφόρος ο Σμαΐλοβιτς ενόψει Ηρακλή (pic)",
+"url": "https://www.sdna.gr/podosfairo/1488929_olympiakos-maskoforos-o-smailobits-enopsei-irakli-pic",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T11:07+00:00",
+"sport": "football",
+"snippet": "Ο Ζινεντίν Σμαΐλοβιτς επέστρεψε με πρόβλημα στη… μύτη από τις υποχρεώσεις του με την εθνική Βοσνίας.",
+"also": [],
+"id": "928201298926"
+},
+{
+"title": "Ολυμπιακός: Η αποστολή για τον αγώνα με τον Ηρακλή",
+"url": "https://www.gazzetta.gr/football/superleague/2588478/olympiakos-i-apostoli-gia-ton-agona-me-ton-irakli",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-21T11:07+00:00",
+"sport": "football",
+"snippet": "Η αποστολή του Ολυμπιακού για το εντός έδρας παιχνίδι της Κυριακής (22/11, 19:00) με τον Ηρακλή.",
+"also": [],
+"id": "bfd0a1df8874"
+},
+{
+"title": "Ολυμπιακός: Με τις αναμενόμενες απουσίες η αποστολή για το ματς με τον Ηρακλή",
+"url": "http://www.sport-fm.gr/article/5162501",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-21T11:06+00:00",
+"sport": "general",
+"snippet": "Χωρίς κάποια μεγάλη έκπληξη και με τις αναμενόμενες απουσίες απαρτίζεται η αποστολή του Ολυμπιακού για την επερχόμενη αναμέτρηση με τον Ηρακλή στον Πειραιά.",
+"also": [],
+"id": "5ce2f2e4b1be"
+},
 {
 "title": "Καλή η αναβολή για τον Ολυμπιακό, εκτός αν η ΑΕΚ κάνει «ντρίμπλα»...",
 "url": "https://www.gazzetta.gr/football/2588475/kali-i-anaboli-gia-ton-olympiako-ektos-i-aek-kanei-ntrimpla",
@@ -4899,78 +4979,6 @@
 "snippet": "Ο Γκουστάβο Πουέρτα χτύπησε στο αριστερό γόνατο στο φιλικό της Κολομβίας με την Χιλή κι έφυγε κλαίγοντας για το νοσοκομείο",
 "also": [],
 "id": "538359c62f78"
-},
-{
-"title": "«Πρώτα ο Ηρακλής, μετά η Μίλαν»: Το ξεκάθαρο μήνυμα Αλγουαθίλ στου Ρέντη",
-"url": "http://www.sport-fm.gr/article/5161784",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-18T05:48+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός επέστρεψε στις προπονήσεις ενόψει Ηρακλή, με τον Αλγουαθίλ να ζητά συγκέντρωση πριν από τη Μίλαν, ενώ υπάρχει αγωνία για τον τραυματισμό του…",
-"also": [],
-"id": "ec637b93bbf8"
-},
-{
-"title": "Ολυμπιακός: Αγωνία για Πουέρτα – Οι πρώτες εκτιμήσεις για το γόνατό του και η επιστροφή στην Ελλάδα",
-"url": "http://www.sport-fm.gr/article/5161779",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-18T05:16+00:00",
-"sport": "general",
-"snippet": "Αγωνία στον Ολυμπιακό για τον τραυματισμό του Γκουστάβο Πουέρτα. Οι πρώτες ιατρικές εκτιμήσεις από τη Νότια Αμερική και οι εξετάσεις που θα ξεκαθαρίσουν την…",
-"also": [],
-"id": "4bb3335cf573"
-},
-{
-"title": "Ολυμπιακός: Καθησυχαστικές οι πρώτες εκτιμήσεις από την Κολομβία για Πουέρτα",
-"url": "https://www.gazzetta.gr/football/superleague/2587501/olympiakos-kathisyhastikes-oi-protes-ektimiseis-apo-tin-kolombia-gia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T02:23+00:00",
-"sport": "football",
-"snippet": "Οι πρώτες πληροφορίες που έρχονται απο την Κολομβία για τις εκτιμήσεις των γιατρών για τον Πουέρτα συνιστούν καλά νέα.",
-"also": [],
-"id": "c2598df1e96a"
-},
-{
-"title": "Αγωνία στον Ολυμπιακό: Τραυματίστηκε ο Πουέρτα και αποχώρησε με φορείο (video)",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15237177/agonia-ston-olympiako-traymatistike-o-pouerta-kai-apoxorise-me-foreio-video/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-18T01:01+00:00",
-"sport": "football",
-"snippet": "Δυσάρεστα νέα έρχονται για τον Ολυμπιακό από τις υποχρεώσεις των εθνικών ομάδων, καθώς ο Γκουστάβο Πουέρτα αποχώρησε τραυματίας από την αναμέτρηση της…",
-"also": [],
-"id": "7c9149cdceb6"
-},
-{
-"title": "Ολυμπιακός: Φόβοι για σοβαρό τραυματισμό του Πουέρτα, έφυγε κλαίγοντας για το νοσοκομείο! (vid)",
-"url": "https://www.gazzetta.gr/football/superleague/2587496/olympiakos-foboi-gia-sobaro-traymatismo-toy-poyerta",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T00:54+00:00",
-"sport": "football",
-"snippet": "Τεράστια αγωνία στις τάξεις της Κολομβίας και στον Ολυμπιακό φυσικά μετά τον τραυματισμό του Πουέρτα που αποχώρησε κλαίγοντας από το γήπεδο στο περιθώριο ενός…",
-"also": [],
-"id": "e4c8ca6bdfb5"
-},
-{
-"title": "Συναγερμός στον Ολυμπιακό με Πουέρτα - Αποχώρησε με φορείο από ματς της Κολομβίας",
-"url": "https://www.sdna.gr/podosfairo/1487776_synagermos-ston-olympiako-me-poyerta-apohorise-me-foreio-apo-mats-tis-kolombias",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T00:31+00:00",
-"sport": "football",
-"snippet": "Σε κατάσταση συναγερμού έχουν τεθεί οι άνθρωποι του Ολυμπιακού, αφού ο Γκουστάβο Πουέρτα τραυματίστηκε σε αναμέτρηση της Εθνικής Κολομβίας και...",
-"also": [],
-"id": "36015181c169"
 }
 ]
 }
