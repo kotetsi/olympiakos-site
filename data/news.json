@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T16:37:46+00:00",
+"generated_at": "2026-11-21T16:52:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τεράστιο διπλό της ΑΕΚ στην έδρα του Ολυμπιακού",
+"url": "https://www.ertsports.gr/bolei/volley-league-gynaikon/terastio-diplo-tis-aek-stin-edra-tou-olympiakou/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-21T16:48+00:00",
+"sport": "volley",
+"snippet": "Με όπλο το μπλοκ, η ΑΕΚ πανηγύρισε σπουδαία εκτός έδρας νίκη επί του Ολυμπιακού με 3-1 σετ (20-25, 25-22, 25-20, 25-22), στο κλειστό «Μελίνα Μερκούρη» του…",
+"also": [],
+"id": "f96050664598"
+},
 {
 "title": "Αλγκουαθίλ: «Σκέφτομαι αλλαγή συστήματος» – Η αναφορά στους τραυματισμούς!",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15243517/algkouathil-skeftomai-allagi-systimatos-i-anafora-stous-traymatismous/",
@@ -5014,18 +5026,6 @@
 }
 ],
 "id": "cd493d5e7711"
-},
-{
-"title": "Τζόλης για τον τελικό ΠΑΟΚ-Ολυμπιακός: Η απογοήτευση που δεν ξέχασε ποτέ-«Ήμουν πραγματικά θυμωμένος»",
-"url": "https://www.metrosport.gr/tzolis-gia-ton-teliko-paok-olympiakos-i-apogoiteysi-poy-den-xechase-pote-imoyn-pragmatika-thymomenos-1333988",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-18T09:30+00:00",
-"sport": "football",
-"snippet": "Ο Χρήστος Τζόλης γύρισε τον χρόνο πίσω και θυμήθηκε μία από τις πιο ιδιαίτερες, αλλά και απογοητευτικές στιγμές της μέχρι τώρα ποδοσφαιρικής του ...",
-"also": [],
-"id": "701703cd39fe"
 }
 ]
 }
