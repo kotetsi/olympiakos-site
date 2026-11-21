@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-21T18:54:03+00:00",
+"generated_at": "2026-11-21T19:09:11+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με άνεση στο Φάληρο καθάρισε και συνεχίζει αήττητος",
+"url": "https://www.gazzetta.gr/polo/a1-andron/2588594/olympiakos-me-anesi-sto-faliro-katharise-kai-synehizei-aittitos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-21T19:02+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός καθάρισε εύκολα το Φάληρο, ο ΠΑΟΚ πέρασε νικηφόρα από τη Γλυφάδα και σημαντικές νίκες για Εθνικό και Απόλλων Σμύρνης, στην 9η αγωνιστική της Water…",
+"also": [],
+"id": "d1c2a806bea4"
+},
+{
+"title": "Τρινκιέρι: «Δώσαμε χαρά στο μεγαλύτερο μέρος της Θεσσαλονίκης - Αυτό είναι ΤΟ παιχνίδι» - Τι είπε για Ολυμπιακό, ΠΑΟ",
+"url": "http://www.sport-fm.gr/article/5162578",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-21T18:51+00:00",
+"sport": "general",
+"snippet": "Ο Αντρέα Τρινκιέρι αποθέωσε τους παίκτες του ΠΑΟΚ μετά τη νίκη επί του Άρη, μίλησε για τη σημασία του ντέρμπι και εξήγησε γιατί δεν θεωρεί ακόμη ότι η ομάδα…",
+"also": [],
+"id": "f1d404db1eb2"
+},
 {
 "title": "Live Streaming: Ολυμπιακός – Πανιώνιος",
 "url": "https://www.ertsports.gr/bolei/volley-league/live-streaming-olympiakos-panionios/",
@@ -4965,45 +4989,6 @@
 "snippet": "Ο Ντόρσεϊ βρίσκεται στην προεπιλογή της Εθνικής, αλλά ο Σπανούλης έχει και τον Μήτρου-Λονγκ. Πώς η επιστροφή του στον Ολυμπιακό αλλάζει το δίλημμα.",
 "also": [],
 "id": "f908091cdc47"
-},
-{
-"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό!»",
-"url": "https://www.novasports.gr/category/epikairotita/article/15237526/mitsotakis-se-xristodoulidi-se-eyxaristo-eferes-gouri-ston-olympiako/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-18T11:25+00:00",
-"sport": "general",
-"snippet": "Στο Προεδρικό Μέγαρο βρέθηκε το πρωί της Τετάρτης (18/11) ο Κυριάκος Μητσοτάκης, στο πλαίσιο της 4ης Διακυβερνητικής Συνόδου Κύπρου – Ελλάδας, όπου είχε…",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/plus/2587680/mitsotakis-se-hristodoylidi-se-eyharisto-eferes-goyri-ston-olympiako",
-"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό!»",
-"published": "2026-11-18T16:38+00:00"
-},
-{
-"source": "sport-fm",
-"source_name": "Sport FM",
-"url": "http://www.sport-fm.gr/article/5161926",
-"title": "Μητσοτάκης σε Χριστοδουλίδη: «Σε ευχαριστώ, έφερες γούρι στον Ολυμπιακό - Το ματς της δεκαετίας»!",
-"published": "2026-11-18T17:08+00:00"
-}
-],
-"id": "5fe14b17b662"
-},
-{
-"title": "Ο Τζόζεφ έσωσε τη νίκη, όχι τα κενά του Ολυμπιακού",
-"url": "https://sportime.gr/olimpiakos/o-tzozef-esose-ti-niki-ochi-ta-kena-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T11:16+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός νίκησε τη Μακάμπι, αλλά τα κενά στην περιφέρεια μένουν. Ο Ντόρσεϊ πλησιάζει στην επιστροφή και η ανάγκη για ενίσχυση δεν αλλάζει.",
-"also": [],
-"id": "65c3919eb2b1"
 }
 ]
 }
