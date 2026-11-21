@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T21:55:38+00:00",
+"generated_at": "2026-11-21T22:10:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το παράπονο του Ιμανόλ Αλγουαθίλ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-to-parapono-tou-imanol-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-21T21:57+00:00",
+"sport": "general",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ ζήτησε το 100% από τους παίκτες του Ολυμπιακού για τον Ηρακλή. Κρύβεται παράπονο για την προσπάθειά τους στην Ελλάδα;",
+"also": [],
+"id": "47e8654c0ff5"
+},
 {
 "title": "AEK-Ολυμπιακός 4-2: Στα «κιτρινόμαυρα» το πρώτο ντέρμπι στην Α1 γυναικών στο πινγκ πονγκ",
 "url": "https://www.gazzetta.gr/pingk-pongk/2588642/aek-olympiakos-4-2-sta-kitrinomayra-proto-ntermpi-stin-a1-gynaikon-sto-pingk",
@@ -82,7 +94,7 @@
 "official": false,
 "published": "2026-11-21T20:40+00:00",
 "sport": "volley",
-"snippet": "Ο Ολυμπιακός μετά από δύο συνεχόμενες νίκες έβγαλε αντίδραση και νίκησε άνετα τον μέχρι πρότινος αήττητο Πανιώνιο με 3-0. Εξαιρετικός Χέινς με 21 πόντους και 7…",
+"snippet": "Ο Ολυμπιακός μετά από δύο συνεχόμενες ήττες έβγαλε αντίδραση και νίκησε άνετα τον μέχρι πρότινος αήττητο Πανιώνιο με 3-0. Εξαιρετικός Χέινς με 21 πόντους και 7…",
 "also": [],
 "id": "dca1d1d85ea9"
 },
@@ -4985,18 +4997,6 @@
 "snippet": "Ο Σαντίνο Αντίνο έδωσε μία συνέντευξη εφ' όλης της ύλης στον ΣπορFM 94.6 μιλώντας για τα ποδοσφαιρικά του όνειρα, τον Παναθηναϊκό, αλλά και γενικότερα τη ζωή…",
 "also": [],
 "id": "252a8358cfac"
-},
-{
-"title": "Ολυμπιακός: Άνετα η 9η σερί νίκη στη Water Polo League γυναικών",
-"url": "https://www.gazzetta.gr/polo/a1-gynaikon/2587642/olympiakos-aneta-i-9i-seri-niki-sti-water-polo-league-gynaikon",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T13:51+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός καθάρισε την ΠΕΚΕΒ με 15-6 και συνεχίζει στη κορυφή της Water Polo League, ακολουθεί η Βουλιαγμένη που επικράτησε άνετα της Λάρισας με 21-5.",
-"also": [],
-"id": "b8fabbb75c9c"
 }
 ]
 }
