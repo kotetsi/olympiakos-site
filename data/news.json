@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-21T13:36:14+00:00",
+"generated_at": "2026-11-21T13:51:21+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Η Κ19 του Ολυμπιακού νίκησε με 2-1 τον Ηρακλή στο Ρέντη.",
 "also": [],
 "id": "3f42a25b519a"
+},
+{
+"title": "Περίπατος του Ολυμπιακού με τα Χανιά",
+"url": "https://www.ertsports.gr/alla-spor/polo/peripatos-tou-olympiakou-me-ta-xania/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-21T13:30+00:00",
+"sport": "polo",
+"snippet": "Ο Ολυμπιακός πανηγύρισε τη δέκατη νίκη του σε ισάριθμους αγώνες στη Waterpolo League Γυναικών, κάνοντας επίδειξη δύναμης απέναντι στα Χανιά. The post Περίπατος…",
+"also": [],
+"id": "e573d5a97b7e"
 },
 {
 "title": "Water Polo League γυναικών: Εύκολες νίκες για ΠΑΟΚ και Ολυμπιακό",
@@ -4975,18 +4987,6 @@
 "snippet": "Ο Ολυμπιακός έκανε κάτι αδιανόητο κόντρα στην Μακάμπι με το τρίποντο της ισοφάρισης του Σάσα Βεζένκοφ να έγινε viral",
 "also": [],
 "id": "84dbbfa5c168"
-},
-{
-"title": "Ο Πουέρτα χτύπησε και ο Ολυμπιακός πρέπει να δοκιμάσει τον Μπακούλα",
-"url": "https://sportime.gr/olimpiakos/o-pouerta-chtipise-ke-o-olimpiakos-prepi-na-dokimasi-ton-bakoula?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T07:08+00:00",
-"sport": "general",
-"snippet": "Ο τραυματισμός του Πουέρτα δίνει στον Ολυμπιακό έναν λόγο να δοκιμάσει τον Μπακούλα με τον Ηρακλή πριν από τον ευρωπαϊκό αγώνα με τη Μίλαν.",
-"also": [],
-"id": "54a8728cdd80"
 }
 ]
 }
