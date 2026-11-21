@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-21T13:21:05+00:00",
+"generated_at": "2026-11-21T13:36:14+00:00",
 "count": 400,
 "items": [
+{
+"title": "Νίκη κόντρα στον Ηρακλή για τους Νέους",
+"url": "https://www.olympiacos.org/2026/11/21/niki-kontra-ston-irakli-gia-tous-neous/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-21T13:32+00:00",
+"sport": "football",
+"snippet": "Η Κ19 του Ολυμπιακού νίκησε με 2-1 τον Ηρακλή στο Ρέντη.",
+"also": [],
+"id": "3f42a25b519a"
+},
+{
+"title": "Water Polo League γυναικών: Εύκολες νίκες για ΠΑΟΚ και Ολυμπιακό",
+"url": "https://www.sdna.gr/polo/1488966_water-polo-league-gynaikon-eykoles-nikes-gia-paok-kai-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T13:26+00:00",
+"sport": "polo",
+"snippet": "Με άνετες επικρατήσεις συνέχισαν τις υποχρεώσεις τους στη 10η αγωνιστική της Water Polo League γυναικών ο ΠΑΟΚ και ο Ολυμπιακός, που ξεπέρασαν τα...",
+"also": [],
+"id": "edb58f8e03d7"
+},
 {
 "title": "Ολυμπιακός: Διαμαντόπουλος για Ντόρσεϊ – Αν στο μυαλό του κόσμου μπει αυτό...",
 "url": "https://sportime.gr/basket/olimpiakos-diamantopoulos-gia-ntorsei-an-sto-mialo-tou-kosmou-bi-afto?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4963,30 +4987,6 @@
 "snippet": "Ο τραυματισμός του Πουέρτα δίνει στον Ολυμπιακό έναν λόγο να δοκιμάσει τον Μπακούλα με τον Ηρακλή πριν από τον ευρωπαϊκό αγώνα με τη Μίλαν.",
 "also": [],
 "id": "54a8728cdd80"
-},
-{
-"title": "Ο Πουέρτα χτύπησε και ο Ολυμπιακός πρέπει να δοκιμάσει μέχρι και τον Μπακούλα",
-"url": "https://sportime.gr/olimpiakos/o-pouerta-chtipise-ke-o-olimpiakos-prepi-na-dokimasi-mechri-ke-ton-bakoula?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T07:08+00:00",
-"sport": "general",
-"snippet": "Ο τραυματισμός του Πουέρτα δίνει στον Ολυμπιακό έναν λόγο να δοκιμάσει τον Μπακούλα με τον Ηρακλή πριν από τον ευρωπαϊκό αγώνα με τη Μίλαν.",
-"also": [],
-"id": "ab697ec8e47a"
-},
-{
-"title": "Ολυμπιακός: Απίθανος Βεζένκοβ, σπουδαίος Τζόσεφ, αλλά...",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587487/olympiakos-apithanos-bezenkob-spoydaios-tzosef-alla",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T06:45+00:00",
-"sport": "basket",
-"snippet": "Ο Παναγιώτης Ραμαντάνης γράφει για το ασύλληπτο παιχνίδι του Ολυμπιακού με τη Μακάμπι στην Κύπρο, τη νίκη που ήρθε δια χειρός Τζόσεφ, τον «μάγο» Βεζένκοβ, αλλά…",
-"also": [],
-"id": "f76bf44e256c"
 }
 ]
 }
