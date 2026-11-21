@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-21T08:18:34+00:00",
+"generated_at": "2026-11-21T08:33:45+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Ο Κάρλικ Τζόουνς απάντησε στα σενάρια για τον Ολυμπιακό με μια απρόσμενη ατάκα. Τι είπε ο γκαρντ της Παρτίζαν για τις φήμες.",
 "also": [],
 "id": "2b94e94c9f0b"
+},
+{
+"title": "Ολυμπιακός: Το πλάνο του Ιμανόλ για τον Ηρακλή",
+"url": "https://sportday.gr/podosfairo/365983_olympiakos-to-plano-tou-imanol-gia-ton-irakli.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-21T08:05+00:00",
+"sport": "football",
+"snippet": "Οι λύσεις που ψάχνει ο τεχνικός των «ερυθρόλευκων» στους... γρίφους λόγω των τραυματισμών.",
+"also": [],
+"id": "c2b8c985019e"
 },
 {
 "title": "Κάρλικ Τζόουνς για τις φήμες περί Ολυμπιακού: “Τις έμαθα παίζοντας GTA, μου αρέσει εδώ που βρίσκομαι”",
@@ -4959,18 +4971,6 @@
 "snippet": "Ακούστε όλα όσα είπαν οι παραγωγοί του bwinΣΠΟΡ FM 94,6 για το πέρασμα του Ολυμπιακού από την Κύπρο στο τρομερό ματς με τη Μακάμπι και την ήττα του…",
 "also": [],
 "id": "017ae0c6db6e"
-},
-{
-"title": "Πρωτοσέλιδο Sportime (18/11): Ολυμπιακός - Έπος με Σάσα Βεζένκοφ!",
-"url": "https://sportime.gr/protoselido-sportime/protoselido-sportime-1811-olimpiakos-epos-me-sasa-vezenkof?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-17T22:31+00:00",
-"sport": "general",
-"snippet": "Ο Σάσα Βεζένκοφ έστειλε το ματς στην παράταση με απίθανο τρίποντο και ο Κόρι Τζόζεφ χάρισε στον Ολυμπιακό τη νίκη με 97-95 στη Λεμεσό!",
-"also": [],
-"id": "cfb928f59e3c"
 }
 ]
 }
