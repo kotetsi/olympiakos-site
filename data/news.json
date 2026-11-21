@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T16:52:52+00:00",
+"generated_at": "2026-11-21T17:08:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο Μάριους μίλησε για τους τραυματισμούς",
+"url": "https://www.gazzetta.gr/football/superleague/2588555/olympiakos-o-marioys-milise-gia-toys-traymatismoys",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-21T17:07+00:00",
+"sport": "football",
+"snippet": "Οι δηλώσεις του Μάριους Μουαντιλμαντζί για τους τραυματισμούς στον Ολυμπιακό.",
+"also": [],
+"id": "74eca9aa5e9b"
+},
 {
 "title": "Τεράστιο διπλό της ΑΕΚ στην έδρα του Ολυμπιακού",
 "url": "https://www.ertsports.gr/bolei/volley-league-gynaikon/terastio-diplo-tis-aek-stin-edra-tou-olympiakou/",
@@ -13,6 +25,18 @@
 "snippet": "Με όπλο το μπλοκ, η ΑΕΚ πανηγύρισε σπουδαία εκτός έδρας νίκη επί του Ολυμπιακού με 3-1 σετ (20-25, 25-22, 25-20, 25-22), στο κλειστό «Μελίνα Μερκούρη» του…",
 "also": [],
 "id": "f96050664598"
+},
+{
+"title": "Αλγουαθίλ: «Σκέφτομαι ακόμη και την αλλαγή σχηματισμού στον Ολυμπιακό - Δεν μου αρέσουν οι δικαιολογίες»",
+"url": "http://www.sport-fm.gr/article/5162548",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-21T16:44+00:00",
+"sport": "general",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ μίλησε για τα προβλήματα τραυματισμών στον Ολυμπιακό, άφησε ανοιχτό το ενδεχόμενο αλλαγής σχηματισμού και εξήγησε γιατί οι «ερυθρόλευκοι»…",
+"also": [],
+"id": "02fd6a0f25fa"
 },
 {
 "title": "Αλγκουαθίλ: «Σκέφτομαι αλλαγή συστήματος» – Η αναφορά στους τραυματισμούς!",
@@ -4980,52 +5004,6 @@
 "snippet": "Ο Κώστας Νικολακόπουλος εξηγεί μέσα από το blog του στο Gazzetta τη σημασία μίας σωστής απόφασης του Ολυμπιακού για αναβολή αγώνα του στο πρωτάθλημα λόγω…",
 "also": [],
 "id": "a98a5b836a48"
-},
-{
-"title": "Ολυμπιακός blog: Ο πρωταθλητής Ευρώπης & NBA και η ευλογία να ζούμε την εποχή του Βεζένκοφ",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2036987/olimpiakos-blog-o-protathlitis-evropis-nba-ke-i-evlogia-na-zoume-tin-epochi-tou-vezenkof/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-18T09:35+00:00",
-"sport": "basket",
-"snippet": "Είναι πάγια φιλοσοφία μου να μην κρύβω κάτω από το χαλάκι οτιδήποτε αρνητικό συμβαίνει στις νίκες και να μη ... θάβω κάποιον λεκτικά όταν βρίσκεται πεσμένος…",
-"also": [],
-"id": "570d225e8f16"
-},
-{
-"title": "Ολυμπιακός: Sold out το ντέρμπι με την Ρεάλ Μαδρίτης (pic)",
-"url": "https://www.sdna.gr/mpasket/1487879_olympiakos-sold-out-ntermpi-me-tin-real-madritis-pic",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T09:32+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε πως το παιχνίδι με την Ρεάλ Μαδρίτης (20/11) για την 13η αγωνιστική της Euroleague έγινε sold out.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15237435/olympiakos-sold-out-to-paixnidi-me-ti-real-madritis/",
-"title": "Ολυμπιακός: Sold out το παιχνίδι με τη Ρεάλ Μαδρίτης!",
-"published": "2026-11-18T09:33+00:00"
-},
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587582/olympiakos-sold-out-o-agonas-me-ti-real-madritis",
-"title": "Ολυμπιακός: Sold out ο αγώνας με τη Ρεάλ Μαδρίτης",
-"published": "2026-11-18T09:52+00:00"
-},
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-sold-out-i-anametrisi-me-ti-real-madritis/",
-"title": "Ολυμπιακός: Sold out η αναμέτρηση με τη Ρεάλ Μαδρίτης",
-"published": "2026-11-18T10:15+00:00"
-}
-],
-"id": "cd493d5e7711"
 }
 ]
 }
