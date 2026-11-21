@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T10:49:44+00:00",
+"generated_at": "2026-11-21T11:04:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καλή η αναβολή για τον Ολυμπιακό, εκτός αν η ΑΕΚ κάνει «ντρίμπλα»...",
+"url": "https://www.gazzetta.gr/football/2588475/kali-i-anaboli-gia-ton-olympiako-ektos-i-aek-kanei-ntrimpla",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-21T10:54+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος εξηγεί στο blog του στο Gazzetta πώς έχει η κατάσταση ενόψει του ντέρμπι Ολυμπιακός-ΑΕΚ.",
+"also": [],
+"id": "a29e548a1160"
+},
 {
 "title": "Ολυμπιακός: Ο... βαρύς Ντόρσεϊ στην ομιλία του Μπαρτζώκα",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2588472/olympiakos-o-barys-ntorsei-stin-omilia-toy-mpartzoka",
@@ -4959,18 +4971,6 @@
 "snippet": "Σε κατάσταση συναγερμού έχουν τεθεί οι άνθρωποι του Ολυμπιακού, αφού ο Γκουστάβο Πουέρτα τραυματίστηκε σε αναμέτρηση της Εθνικής Κολομβίας και...",
 "also": [],
 "id": "36015181c169"
-},
-{
-"title": "Τεράστια αγωνία στον Ολυμπιακό: Τραυματίστηκε άσχημα ο Πουέρτα, έφυγε με φορείο και ξέσπασε σε λυγμούς!",
-"url": "http://www.sport-fm.gr/article/5161766",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-18T00:15+00:00",
-"sport": "general",
-"snippet": "O Γκουστάβο Πουέρτα χτύπησε άσχημα σε αγώνα της Κολομβίας και αποχώρησε πάνω σε φορείο, κλαίγοντας με λυγμούς από τον πόνο!",
-"also": [],
-"id": "4b4aca062906"
 }
 ]
 }
