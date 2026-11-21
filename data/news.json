@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T12:05:29+00:00",
+"generated_at": "2026-11-21T12:20:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άδειασε το κέντρο του Ολυμπιακού: Οι επιλογές του Αλγουαθίλ ενόψει Ηρακλή",
+"url": "https://www.metrosport.gr/adeiase-to-kentro-toy-olympiakoy-oi-epiloges-toy-algoyathil-enopsei-irakli-1334367",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-21T12:15+00:00",
+"sport": "general",
+"snippet": "Μετά τη διακοπή για τις Εθνικές ομάδες, ο Ολυμπιακός επιστρέφει στην αγωνιστική δράση λαβωμένος από τραυματισμούς, με τον Ιμανόλ Αλγουαθίλ να ...",
+"also": [],
+"id": "3c923cd86296"
+},
 {
 "title": "Live streaming: Ολυμπιακός - Παναθλητικός (Α1 Γυναικών 2026-27)",
 "url": "https://www.sdna.gr/mpasket/1488928_live-streaming-olympiakos-panathlitikos-a1-gynaikon-2026-27",
@@ -947,7 +959,15 @@
 "published": "2026-11-20T20:20+00:00",
 "sport": "general",
 "snippet": "Ο Χρίστο Στόιτσκοφ βρέθηκε στη Sunel Arena για το Ολυμπιακός - Ρεάλ Μαδρίτης και αποθεώθηκε από τους φιλάθλους. Η σύνδεση με τον Σάσα Βεζένκοφ.",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/basket/365995_olympiakos-i-apotheosi-tou-vezenkof-apo-ton-thryliko-christo-stoitskof.html",
+"title": "Ολυμπιακός: Η αποθέωση του Βεζένκοφ από τον θρυλικό Χρίστο Στόιτσκοφ",
+"published": "2026-11-21T12:17+00:00"
+}
+],
 "id": "91b2b627b646"
 },
 {
@@ -4967,18 +4987,6 @@
 "snippet": "Ανησυχία έχει προκαλέσει στις τάξεις του Ολυμπιακού ο τραυματισμός του Γκουστάβο Πουέρτα, ο οποίος δεν κατάφερε να ολοκληρώσει τη φιλική αναμέτρηση της…",
 "also": [],
 "id": "fa1f5d19c687"
-},
-{
-"title": "Ολυμπιακός: Τα πρώτα αποτελέσματα του Πουέρτα μετά τον σοκαριστικό τραυματισμό του",
-"url": "https://www.novasports.gr/sport/podosfairo/event/diethneis-pagkosmio-podosfairo/article/15237211/olympiakos-ta-prota-apotelesmata-tou-pouerta-meta-ton-sokaristiko-traymatismo-tou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-18T06:16+00:00",
-"sport": "football",
-"snippet": "Θετικά είναι τα πρώτα νέα για τον Γκουστάβο Πουέρτα, μετά τον τραυματισμό που υπέστη στο αριστερό γόνατο κατά τη διάρκεια της αναμέτρησης της Κολομβίας με τη…",
-"also": [],
-"id": "607882576bc6"
 }
 ]
 }
