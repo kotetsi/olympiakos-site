@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-21T17:08:01+00:00",
+"generated_at": "2026-11-21T17:23:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "EuroLeague: Ολυμπιακός στην κορυφή, κατρακύλα Παναθηναϊκού",
+"url": "https://sportime.gr/basket/euroleague-olimpiakos-stin-korifi-katrakila-panathinaikou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-21T17:15+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός έχει το καλύτερο Net Rating στα πέντε τελευταία παιχνίδια της EuroLeague με +13,1. Ο Παναθηναϊκός καταγράφει τη μεγαλύτερη πτώση στην απόδοση.",
+"also": [],
+"id": "92a091b7ece1"
+},
 {
 "title": "Ολυμπιακός: Ο Μάριους μίλησε για τους τραυματισμούς",
 "url": "https://www.gazzetta.gr/football/superleague/2588555/olympiakos-o-marioys-milise-gia-toys-traymatismoys",
@@ -4992,18 +5004,6 @@
 "snippet": "Μία ενδιαφέρουσα συνέντευξη στο επίσημο μέσο της Άρσεναλ παραχώρησε ο Χρήστος Τζόλης, με αφορμή την επιστροφή των «κανονιέρηδων» στις αγωνιστικές υποχρεώσεις…",
 "also": [],
 "id": "4f14b50f38c3"
-},
-{
-"title": "Ολυμπιακός: Ασφαλώς κι έχει νόημα η συζήτηση για αναβολή…",
-"url": "https://www.gazzetta.gr/football/superleague/2587569/olympiakos-asfalos-ki-ehei-noima-i-syzitisi-gia-anaboli",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T09:35+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος εξηγεί μέσα από το blog του στο Gazzetta τη σημασία μίας σωστής απόφασης του Ολυμπιακού για αναβολή αγώνα του στο πρωτάθλημα λόγω…",
-"also": [],
-"id": "a98a5b836a48"
 }
 ]
 }
