@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-21T19:54:42+00:00",
+"generated_at": "2026-11-21T20:09:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός και ΑΕΚ για χαφ με 136 ματς στη Serie A - Φήμες και για Κόβατσιτς",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1489098_olympiakos-kai-aek-gia-haf-me-136-mats-sti-serie-fimes-kai-gia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-21T19:55+00:00",
+"sport": "football",
+"snippet": "Ο έμπειρος χαφ που δεν ανανεώνει με την ομάδα του και έχει βγει ήδη στη βιτρίνα για πώληση στη χειμερινή μεταγραφική περίοδο και αρέσει στους...",
+"also": [],
+"id": "cdaca154d57d"
+},
+{
+"title": "Ξέσπασε στην Κιριάτ Άτα και έρχεται με ψυχολογία στην Αθήνα για τον Ολυμπιακό η Χάποελ",
+"url": "http://www.sport-fm.gr/article/5162595",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-21T19:48+00:00",
+"sport": "general",
+"snippet": "Λίγες ημέρες πριν αντιμετωπίσει τον Ολυμπιακό στη SUNEL Arena, η Χάποελ Τελ Αβίβ πανηγύρισε εντυπωσιακή νίκη με σκορ 85-60 επί της Κιριάτ Άτα για το πρωτάθλημα…",
+"also": [],
+"id": "94b31c8748f0"
+},
 {
 "title": "Παρέμεινε αήττητος ο Ολυμπιακός",
 "url": "https://www.ertsports.gr/alla-spor/polo/water-polo-league/paremeine-aittitos-o-olympiakos/",
@@ -47,7 +71,15 @@
 "published": "2026-11-21T19:12+00:00",
 "sport": "basket",
 "snippet": "Η Χάποελ Τελ Αβίβ κέρδισε άνετα την Κιριάτ Άτα με 85-60 λίγες μέρες πριν την αναμέτρηση με τον Ολυμπιακό.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15244244/xapoel-tel-aviv-eykoli-niki-prin-ton-olympiako/",
+"title": "Χάποελ Τελ Αβίβ: Εύκολη νίκη πριν τον Ολυμπιακό!",
+"published": "2026-11-21T19:53+00:00"
+}
+],
 "id": "4bcca534c3e7"
 },
 {
@@ -4973,30 +5005,6 @@
 "snippet": "Ο Σαντίνο Αντίνο μίλησε στον bwinΣΠΟΡ FM 94,6 για το ενδιαφέρον του Ολυμπιακού το καλοκαίρι του 2025 και αποκάλυψε γιατί επέλεξε να παραμείνει τότε στη Γοδόι…",
 "also": [],
 "id": "0690683b527c"
-},
-{
-"title": "Αήττητα τα κορίτσια του Ολυμπιακού, 15-6 την ΠΕΚΕΒ",
-"url": "https://www.sdna.gr/polo/1487927_aittita-ta-koritsia-toy-olympiakoy-15-6-tin-pekeb",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T12:43+00:00",
-"sport": "polo",
-"snippet": "Άνετο μεσημέρι για την ομάδα πόλο των Γυναικών του Ολυμπιακού, η οποία επικράτησε 15-6 της ΠΕΚΕΒ για την 9η αγωνιστική της Water Polo League και...",
-"also": [],
-"id": "637865167ef9"
-},
-{
-"title": "Ο Ολυμπιακός υποδέχεται το Ανόβερο με στόχο να μείνουν αήττητοι",
-"url": "https://www.sdna.gr/polo/1487919_o-olympiakos-ypodehetai-anobero-me-stoho-na-meinoyn-aittitoi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T12:20+00:00",
-"sport": "polo",
-"snippet": "Με μοναδικό στόχο να συνεχίσει την εντυπωσιακή ευρωπαϊκή του πορεία, ο Ολυμπιακός ρίχνεται ξανά στη μάχη του LEN Champions League.",
-"also": [],
-"id": "9343f1139892"
 }
 ]
 }
