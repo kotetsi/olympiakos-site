@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T06:14:51+00:00",
+"generated_at": "2026-11-22T06:29:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Stoiximan GBL: Απέναντι στην Καρδίτσα για την επιστροφή στις νίκες ο Ολυμπιακός",
+"url": "https://www.sdna.gr/mpasket/1488947_stoiximan-gbl-apenanti-stin-karditsa-gia-tin-epistrofi-stis-nikes-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T06:20+00:00",
+"sport": "basket",
+"snippet": "Με δυο παιχνίδια συνεχίζεται η αγωνιστική δράση στην Stoiximan GBL σήμερα.",
+"also": [],
+"id": "4b69c9e32625"
+},
 {
 "title": "Ολυμπιακός-Ηρακλής: Για την επιστροφή στα τρίποντα οι «ερυθρόλευκοι» κόντρα στον πάντα επικίνδυνο Γηραιό",
 "url": "http://www.sport-fm.gr/article/5162621",
@@ -4985,18 +4997,6 @@
 "snippet": "Τι αναφέρουν οι Κολομβιανοί στις πρώτες εκτιμήσεις του για τον 23χρονο μέσο, ο οποίος θα εξεταστεί φυσικά και από τον Χρήστο Θέο.",
 "also": [],
 "id": "226d2d1f184b"
-},
-{
-"title": "Πουέρτα: Ο άσος του Ολυμπιακού θα χάσει σημαντικά παιχνίδια",
-"url": "https://www.gazzetta.gr/football/superleague/2587648/poyerta-o-asos-toy-olympiakoy-tha-hasei-simantika-paihnidia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T14:35+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός θα στερηθεί τον Γκουστάβο Πουέρτα σε πολλά δύσκολα παιχνίδια.",
-"also": [],
-"id": "62367070fcea"
 }
 ]
 }
