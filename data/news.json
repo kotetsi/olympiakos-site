@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T08:46:06+00:00",
+"generated_at": "2026-11-22T09:01:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ: Χωρίς περιθώρια για απώλειες",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245000/paok-xoris-perithoria-gia-apoleies-2/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T08:58+00:00",
+"sport": "football",
+"snippet": "Ο «Δικέφαλος» του Βορρά προέρχεται από την ισοπαλία 1-1 με τον Ολυμπιακό στο γήπεδο «Γ. Καραϊσκάκης» και θέλει να επιστρέψει στις νίκες. Ο Αλέσιο Λίσι δεν…",
+"also": [],
+"id": "b0c57a6a0fa8"
+},
 {
 "title": "Ολυμπιακός: «Μονόδρομος» η νίκη κόντρα στον Ηρακλή",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15244991/olympiakos-monodromos-i-niki-kontra-ston-irakli/",
@@ -4993,18 +5005,6 @@
 "snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός ενόψει της αναμέτρησης απέναντι στην AC Milan.",
 "also": [],
 "id": "03a43f3dca05"
-},
-{
-"title": "Ολυμπιακός: Λείπει ο Μιλουτίνοφ, λείπουν τα ριμπάουντ",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15238111/olympiakos-leipei-o-miloutinof-leipoun-ta-rimpaount/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-18T16:47+00:00",
-"sport": "basket",
-"snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
-"also": [],
-"id": "7cb3095c2296"
 }
 ]
 }
