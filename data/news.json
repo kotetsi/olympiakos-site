@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-22T22:07:47+00:00",
+"generated_at": "2026-11-22T22:22:55+00:00",
 "count": 400,
 "items": [
 {
@@ -15,6 +15,18 @@
 "id": "92793c61c6c7"
 },
 {
+"title": "Αθλητική Κυριακή: Πολλή συζήτηση για τη διαιτησία στο Ολυμπιακός – Ηρακλής",
+"url": "https://sportime.gr/epo-diaitisia/athlitiki-kiriaki-polli-sizitisi-gia-ti-dietisia-sto-olimpiakos-iraklis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-22T22:04+00:00",
+"sport": "general",
+"snippet": "Μεγάλη συζήτηση στην Αθλητική Κυριακή της ΕΡΤ για τη διαιτησία στο Ολυμπιακός – Ηρακλής, με τον Παναγιώτη Βαρούχα να δέχεται πολλές ερωτήσεις.",
+"also": [],
+"id": "27927efa3249"
+},
+{
 "title": "Σιπιόνι: «Μου δόθηκε η ευκαιρία να δείξω πόσο δουλεύω – Η δουλειά μου επιβραβεύτηκε»",
 "url": "https://sportday.gr/podosfairo/366188_sipioni-mou-dothike-i-efkairia-na-deikso-poso-doulevo-i-douleia-mou-epivraveftike.html",
 "source": "sportday",
@@ -27,7 +39,7 @@
 "id": "47f8a36a1d3f"
 },
 {
-"title": "Τα σχόλια στον bwinΣΠΟΡ FM για τις νίκες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ",
+"title": "Τα σχόλια στον bwinΣΠΟΡ FM 94,6 για τις νίκες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ",
 "url": "http://www.sport-fm.gr/article/5162846",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -151,7 +163,22 @@
 "published": "2026-11-22T20:35+00:00",
 "sport": "football",
 "snippet": "H διοίκηση του Ηρακλή τιμώρησε με πρόστιμο τον Ινίγκο Πίνια για το λάθος που έκανε από το οποίο προήλθε το τρίτο γκολ του Ολυμπιακού.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246730/iraklis-prostimo-ston-pinia-gia-lathos-sto-build-up/",
+"title": "Ηρακλής: Πρόστιμο στον Πίνια για λάθος στο build up!",
+"published": "2026-11-22T22:19+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5162860",
+"title": "Πρόστιμο στον Πίνια από τον Ηρακλή για το λάθος στο τρίτο γκολ του Ολυμπιακού!",
+"published": "2026-11-22T22:20+00:00"
+}
+],
 "id": "1b498df591ae"
 },
 {
@@ -4991,18 +5018,6 @@
 "snippet": "Ο Τσανάκας έβαλε το 4-4-2 στην κουβέντα για τον Ολυμπιακό. Με Έσε, Πουέρτα και Τσικίνιο εκτός, τα δύο φορ μπορεί να αφήσουν μεγάλα κενά στον άξονα.",
 "also": [],
 "id": "0a02093b49a5"
-},
-{
-"title": "Πρόβες Ευρώπης για Ολυμπιακό και ΠΑΟΚ",
-"url": "https://www.sdna.gr/hantmpol/1488552_probes-eyropis-gia-olympiako-kai-paok",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T09:50+00:00",
-"sport": "handball",
-"snippet": "Με πέντε αναμετρήσεις συνεχίζεται και ολοκληρώνεται τις επόμενες ημέρες η 9η αγωνιστική στην Α1 χάντμπολ των Ανδρών, η «αυλαία» της οποίας άνοιξε την...",
-"also": [],
-"id": "05882a5bbbdb"
 }
 ]
 }
