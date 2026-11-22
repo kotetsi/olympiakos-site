@@ -1,8 +1,8 @@
 {
 "source": "https://basketballstats.eu",
 "season": "2026-27",
-"fetched": "2026-11-21T20:40:07+00:00",
-"data_fetched": "2026-11-21T15:10:14.955Z",
+"fetched": "2026-11-22T02:43:17+00:00",
+"data_fetched": "2026-11-22T02:30:27.060Z",
 "last_round": 13,
 "team_slugs": {
 "OLY": "olympiakos",
@@ -6352,7 +6352,7 @@
 "ast": 26,
 "stl": 9,
 "blk": 1,
-"pf": 17
+"pf": 18
 },
 "opp_box": {
 "pts": 95,
@@ -6399,7 +6399,7 @@
 "ast": 28,
 "stl": 9,
 "blk": 3,
-"pf": 16
+"pf": 18
 },
 "opp_box": {
 "pts": 76,
@@ -6415,7 +6415,7 @@
 "ast": 19,
 "stl": 6,
 "blk": 2,
-"pf": 17
+"pf": 18
 },
 "coach": "BARTZOKAS, GEORGIOS"
 }
