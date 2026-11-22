@@ -1,7 +1,67 @@
 {
-"generated_at": "2026-11-22T17:35:30+00:00",
+"generated_at": "2026-11-22T17:50:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Ηρακλής: Προβάδισμα με Ζούλεβιτς ο «Γηραιός» και γκολάρα Σιπιόνι για το 1-1",
+"url": "https://www.gazzetta.gr/football/superleague/2588830/olympiakos-iraklis-probadisma-me-zoylebits-o-giraios-kai-gkolara",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T17:41+00:00",
+"sport": "football",
+"snippet": "Ο Ηρακλής πήρε προβάδισμα στο Φάληρο στο 23' με τον Ζούλεβιτς, αλλά τρία λεπτά μετά ο Σιπιόνι με ένα φοβερό σουτ ισοφάρισε σε 1-1 για τον Ολυμπιακό.",
+"also": [],
+"id": "b6e72196c3dc"
+},
+{
+"title": "Ολυμπιακός – Ηρακλής: Παρθενικό γκολ για τον Σιπιόνι! (video)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246002/olympiakos-iraklis-partheniko-gkol-gia-ton-sipioni-video/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T17:41+00:00",
+"sport": "football",
+"snippet": "Στο Φάληρο ο Ηρακλής άνοιξε το σκορ στο 23′ με τον Άνταμ Ζούλεβιτς, όμως τρία λεπτά αργότερα ο Λορέντσο Σιπιόνι απάντησε και ισορρόπησε την αναμέτρηση…",
+"also": [],
+"id": "70b1b175fe2b"
+},
+{
+"title": "Ολυμπιακός-Ηρακλής: «Κυανόλευκο» προβάδισμα με Ζούλιεβιτς και άμεση απάντηση με Σιπιόνι",
+"url": "https://www.metrosport.gr/olympiakos-iraklis-kyanoleyko-provadisma-me-zoylievits-kai-amesi-apantisi-me-sipioni-1334512",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-22T17:37+00:00",
+"sport": "football",
+"snippet": "Ακριβώς στα μισά του α' ημιχρόνου στο «Γ. Καραϊσκάκης» ο Ηρακλής κατάφερε να πάρει το προβάδισμα στο σκορ απέναντι στον Ολυμπιακό, ωστόσο, ...",
+"also": [],
+"id": "131f7a8faa0f"
+},
+{
+"title": "Superleague, η βαθμολογία: Ο Παναθηναϊκός στο +7 από Ολυμπιακό και... περιμένει!",
+"url": "https://www.gazzetta.gr/football/superleague/2588828/superleague-i-bathmologia-o-panathinaikos-sto-7-apo-olympiako-kai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T17:36+00:00",
+"sport": "football",
+"snippet": "Ο Παναθηναϊκός με το τρίποντο επί του ΟΦΗ, άνοιξε ξανά την... ψαλίδα από τον Ολυμπιακό και την ΑΕΚ στο +7, έχοντας όμως ματς περισσότερο από Πειραιώτες και…",
+"also": [],
+"id": "aa456e930d5a"
+},
+{
+"title": "Ρούμπιο: «Μένουμε στην προσπάθεια του δευτέρου ημιχρόνου»",
+"url": "https://www.olympiacos.org/2026/11/22/roumpio-menoume-stin-prospatheia-tou-deyterou-imixronou/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-22T17:35+00:00",
+"sport": "general",
+"snippet": "Η δήλωση του προπονητή του Ολυμπιακού Κ23, Άλβαρο Ρούμπιο.",
+"also": [],
+"id": "c793ce9468ec"
+},
 {
 "title": "Τα highlights από τη δύσκολη νίκη του Ολυμπιακού επί της Καρδίτσας (vid)",
 "url": "https://www.sdna.gr/mpasket/1489350_ta-highlights-apo-ti-dyskoli-niki-toy-olympiakoy-epi-tis-karditsas-vid",
@@ -235,6 +295,13 @@
 "source_name": "ERT Sports",
 "url": "https://www.ertsports.gr/super-league/live-olympiakos-iraklis-1-1-audio/",
 "title": "Live: Ολυμπιακός – Ηρακλής 1-1 (audio)",
+"published": "2026-11-22T16:45+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/super-league/live-olympiakos-iraklis-2-2-audio/",
+"title": "Live: Ολυμπιακός – Ηρακλής 2-2 (audio)",
 "published": "2026-11-22T16:45+00:00"
 }
 ],
@@ -4944,74 +5011,6 @@
 "snippet": "Η ΚΑΕ Ολυμπιακός μέσω ανακοίνωσης έκανε γνωστό πως σήμερα (19/11) έκανε παρέμβαση στο ΑΣΕΑΔ για να διασφαλίσει το κύρος του 5ου τελικού του 2026.",
 "also": [],
 "id": "1cfa8ef83a3c"
-},
-{
-"title": "Ολυμπιακός: Μήνας ευκαιριών και αποδείξεων!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239493/olympiakos-minas-eykairion-kai-apodeikseon/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T15:19+00:00",
-"sport": "football",
-"snippet": "Οι τραυματισμοί των Έσε, Πουέρτα και Τσικίνιο έρχονται σε ένα σημείο της σεζόν στο οποίο ο Ολυμπιακός θα ήθελε να έχει όσο το δυνατόν περισσότερες επιλογές. Το…",
-"also": [],
-"id": "d1c854c78f29"
-},
-{
-"title": "Ολυμπιακός: Οι τραυματισμοί φέρνουν στο προσκήνιο την αναβολή",
-"url": "https://www.sdna.gr/podosfairo/1488291_olympiakos-oi-traymatismoi-fernoyn-sto-proskinio-tin-anaboli",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T14:56+00:00",
-"sport": "football",
-"snippet": "Οι συνεχόμενοι τραυματισμοί στον άξονα φέρνουν τον Ιμανόλ Αλγκουαθίλ μπροστά σε μια σημαντική απόφαση. Η αναβολή ενός εκ των αγώνων με Άρη ή ΑΕΚ...",
-"also": [],
-"id": "4c11b651e42d"
-},
-{
-"title": "Ολυμπιακός: Ο Σιπιόνι δίνει ελπίδα στον Ιμανόλ μέσα στα συνεχόμενα προβλήματα",
-"url": "https://www.sdna.gr/podosfairo/1488287_olympiakos-o-sipioni-dinei-elpida-ston-imanol-mesa-sta-synehomena-problimata",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T14:43+00:00",
-"sport": "football",
-"snippet": "Οι διαδοχικοί τραυματισμοί των Έσε, Πουέρτα και Τσικίνιο έχουν δημιουργήσει σοβαρό πρόβλημα στον άξονα του Ολυμπιακού, με την εικόνα του Λορέντσο...",
-"also": [],
-"id": "b8f9104fd88d"
-},
-{
-"title": "Ολυμπιακός: Αυτά είναι τα παιχνίδια που θα χάσει ο Τσικίνιο",
-"url": "https://sportday.gr/podosfairo/365813_olympiakos-afta-einai-ta-paichnidia-pou-tha-chasei-o-tsikinio.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-19T14:39+00:00",
-"sport": "football",
-"snippet": "Μέγα πλήγμα για τον Ολυμπιακό και τον Ιμανόλ Αλγουαθίλ ειδικά μετά και τις απουσίες των Έσε και Πουέρτα.",
-"also": [],
-"id": "6f718f49922c"
-},
-{
-"title": "Ολυμπιακός: 29.000 εισιτήρια έχουν κάνει «φτερά» για Ηρακλή!",
-"url": "http://www.sport-fm.gr/article/5162100",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-19T14:12+00:00",
-"sport": "football",
-"snippet": "Μεγάλη είναι η ανταπόκριση των φίλων του Ολυμπιακού ενόψει της αναμέτρησης με τον Ηρακλή, καθώς έχουν ήδη διατεθεί 29.000 εισιτήρια και το «Γ. Καραϊσκάκης»…",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/superleague/2587932/olympiakos-iraklis-kykloforisan-ta-eisitiria-gia-mats",
-"title": "Ολυμπιακός: Ήδη 29.000 εισιτήρια έχουν κάνει «φτερά» για Ηρακλή!",
-"published": "2026-11-19T14:34+00:00"
-}
-],
-"id": "922cea00d4c8"
 }
 ]
 }
