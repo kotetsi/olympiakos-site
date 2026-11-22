@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T06:29:56+00:00",
+"generated_at": "2026-11-22T06:45:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές μεταδόσεις σήμερα: Το ΠΑΟ - ΟΦΗ, το Ολυμπιακός - Ηρακλής και οι αναμετρήσεις της GBL",
+"url": "https://www.gazzetta.gr/football/superleague/2588671/athlitikes-metadoseis-simera-pao-ofi-olympiakos-iraklis-kai-oi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T06:31+00:00",
+"sport": "football",
+"snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με τα ματς της Super League και τα παιχνίδια της Basket League.",
+"also": [],
+"id": "f13acc48f746"
+},
+{
+"title": "Ολυμπιακός: Η επιστροφή στις νίκες και τα διλήμματα του Ιμανόλ για το σύστημα και την ενδεκάδα",
+"url": "https://sportday.gr/podosfairo/366081_olympiakos-i-epistrofi-stis-nikes-kai-ta-dilimmata-tou-imanol-gia-to-systima-kai-tin-endekada.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-22T06:30+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός μπαίνει ξανά στη μάχη του πρωταθλήματος και αντιμετωπίζει απόψε στις 19:00 τον επικίνδυνο Ηρακλή.",
+"also": [],
+"id": "7ebbdce18189"
+},
 {
 "title": "Stoiximan GBL: Απέναντι στην Καρδίτσα για την επιστροφή στις νίκες ο Ολυμπιακός",
 "url": "https://www.sdna.gr/mpasket/1488947_stoiximan-gbl-apenanti-stin-karditsa-gia-tin-epistrofi-stis-nikes-o-olympiakos",
@@ -4973,30 +4997,6 @@
 "snippet": "Ο τραυματισμός του Πουέρτα δημιουργεί νέα δεδομένα στον Ολυμπιακό. Ο Τσικίνιο μπορεί να επιστρέψει στο «8» και ο Γκουστάβο Σα να βγει μπροστά.",
 "also": [],
 "id": "d79024b34dd0"
-},
-{
-"title": "Μπαρτζώκας στους παίκτες του Ολυμπιακού: «Είστε η καλύτερη ομάδα στη EuroLeague»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587649/mpartzokas-stoys-paiktes-toy-olympiakoy-eiste-i-kalyteri-omada-sti",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T14:44+00:00",
-"sport": "basket",
-"snippet": "Δείτε όσα είπε ο Γιώργος Μπαρτζώκας στα αποδυτήρια του Ολυμπιακού μετά το μεγάλο διπλό επί της Μακάμπι Τελ Αβίβ.",
-"also": [],
-"id": "587a87320f7c"
-},
-{
-"title": "Ολυμπιακός: Τι ακριβώς ισχύει για τον τραυματισμό του Γκουστάβο Πουέρτα",
-"url": "https://sportday.gr/podosfairo/365728_olympiakos-ti-akrivos-ischyei-gia-ton-travmatismo-tou-gkoustavo-pouerta.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-18T14:36+00:00",
-"sport": "football",
-"snippet": "Τι αναφέρουν οι Κολομβιανοί στις πρώτες εκτιμήσεις του για τον 23χρονο μέσο, ο οποίος θα εξεταστεί φυσικά και από τον Χρήστο Θέο.",
-"also": [],
-"id": "226d2d1f184b"
 }
 ]
 }
