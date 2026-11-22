@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T12:48:05+00:00",
+"generated_at": "2026-11-22T13:03:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός Β - Απόλλων Καλαμαριάς",
+"url": "https://www.sdna.gr/podosfairo/1488894_olympiakos-b-apollon-kalamarias",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T12:55+00:00",
+"sport": "football",
+"snippet": "Παρακολουθείστε ζωντανά την εξέλιξη όλων των σημερινών αναμετρήσεων της Γ' Εθνικής.",
+"also": [],
+"id": "075f1a60ac01"
+},
+{
+"title": "Ολυμπιακός: Ο Κόκκαλης έδωσε 50 εκατ. για δύο παίκτες",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-kokkalis-edose-50-ekat-gia-dio-pektes?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-22T12:51+00:00",
+"sport": "general",
+"snippet": "Ο Κόκκαλης έφερε Τζιοβάνι και Ζάχοβιτς με ποσό που σήμερα πλησιάζει τα 50 εκατ. ευρώ. Θα έκανε ο Μαρινάκης μια αντίστοιχη κίνηση τώρα;",
+"also": [],
+"id": "9ce782e1fa09"
+},
 {
 "title": "Live: Καρδίτσα – Ολυμπιακός (audio)",
 "url": "https://www.ertsports.gr/mpasket/gbl/live-karditsa-olympiakos-audio/",
@@ -4981,30 +5005,6 @@
 "snippet": "Ο Ολυμπιακός «λύγισε» την αντίσταση του Ανόβερου, επικρατώντας με 13-12 κάνοντας το 4/4 στο LEN Champions League. Οι Ερυθρόλευκοι θα δώσουν μία ακόμη μάχη για…",
 "also": [],
 "id": "30880ff80344"
-},
-{
-"title": "Δύσκολη νίκη επί του Ανόβερου για τον Ολυμπιακό, διατήρησε το αήττητο στο Champions League",
-"url": "https://www.sdna.gr/polo/1488023_dyskoli-niki-epi-toy-anoberoy-gia-ton-olympiako-diatirise-aittito-sto-champions-league",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T18:57+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός επικράτησε με 13-12 του Ανόβερου για την 4η αγωνιστική των ομίλων του Champions League πόλο ανδρών, σε μια αναμέτρηση που κρίθηκε στις...",
-"also": [],
-"id": "cfd610ace7df"
-},
-{
-"title": "Ολυμπιακός – Ανόβερο 13-12: Τα highlights της νίκης των «ερυθρολεύκων»",
-"url": "https://sportday.gr/video/365756_olympiakos-anovero-13-12-ta-highlights-tis-nikis-ton-erythrolefkon.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-18T18:56+00:00",
-"sport": "polo",
-"snippet": "",
-"also": [],
-"id": "a7098c852a4c"
 }
 ]
 }
