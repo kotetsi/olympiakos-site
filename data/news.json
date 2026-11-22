@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T07:00:12+00:00",
+"generated_at": "2026-11-22T07:15:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Για το σερί... κορυφής ο Παναθηναϊκός, κόντρα στα προβλήματα ο Ολυμπιακός, must win για τον ΠΑΟΚ",
+"url": "https://www.sdna.gr/podosfairo/1489197_gia-seri-koryfis-o-panathinaikos-kontra-sta-problimata-o-olympiakos-must-win-gia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T07:05+00:00",
+"sport": "football",
+"snippet": "Γεμάτο το σημερινό (22/11) πρόγραμμα της Stoiximan Super League, με πέντε αναμετρήσεις σε ΟΑΚΑ, Καραϊσκάκη, Τούμπα, Λιβαδειά και Αγρίνιο, για την 11η...",
+"also": [],
+"id": "c8e6b31a134d"
+},
+{
+"title": "Ολυμπιακός, μεταγραφές: Οι δύο χαφ που αποτελούν προτεραιότητα για τον Γενάρη",
+"url": "https://www.gazzetta.gr/football/superleague/2588532/olympiakos-metagrafes-oi-dyo-haf-poy-apoteloyn-proteraiotita-gia-ton",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T07:00+00:00",
+"sport": "football",
+"snippet": "Οι Αντρέ και Μπουνταουί είναι δύο μέσοι που έχουν ξεχωρίσει και βρίσκονται για τα καλά στο μεταγραφικό προσκήνιο για τον Ολυμπιακό και ενώ μπροστά μας έχουμε…",
+"also": [],
+"id": "f6ba7304e36d"
+},
 {
 "title": "Αθλητικές μεταδόσεις σήμερα: Το ΠΑΟ - ΟΦΗ, το Ολυμπιακός - Ηρακλής και οι αναμετρήσεις της GBL",
 "url": "https://www.gazzetta.gr/football/superleague/2588671/athlitikes-metadoseis-simera-pao-ofi-olympiakos-iraklis-kai-oi",
@@ -71,7 +95,15 @@
 "published": "2026-11-22T05:34+00:00",
 "sport": "basket",
 "snippet": "Tα πέντε ματς της Super League, τα παιχνίδια της GBL, η αναμέτρηση της Εθνικής Παίδων με τον Παναμά για το Μουντιάλ Κ17, η δράση σε Formula 1 και...",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366087_athlitikes-metadoseis-pou-tha-deite-panathinaikos-ofi-olympiakos-iraklis-kai-ethniki-sto-mountial-u17.html",
+"title": "Αθλητικές Μεταδόσεις: Πού θα δείτε Παναθηναϊκός-ΟΦΗ, Ολυμπιακός-Ηρακλής, και Εθνική στο Μουντιάλ U17",
+"published": "2026-11-22T06:59+00:00"
+}
+],
 "id": "f829da7587da"
 },
 {
@@ -4973,30 +5005,6 @@
 "snippet": "Δείτε το τρομερό βίντεο από το ασύλληπτο buzzer beater τρίποντο του Σάσα Βεζένκοβ.",
 "also": [],
 "id": "c9560c1b14be"
-},
-{
-"title": "Volley League: Με Βουλκίδη MVP και χωρίς Ολυμπιακό η καλύτερη ομάδα της 4ης αγωνιστικής",
-"url": "https://www.sdna.gr/bolei/1487973_volley-league-me-boylkidi-mvp-kai-horis-olympiako-i-kalyteri-omada-tis-4is",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T15:14+00:00",
-"sport": "volley",
-"snippet": "O 30ρονος κεντρικός του Παναθηναϊκού Θεόδωρος Βουλκίδης αναδείχτηκε MVP Bίκος Cola της 4ης αγωνιστικής στο πρωτάθλημα Novibet Volley League 2026-27.",
-"also": [],
-"id": "181c90967b86"
-},
-{
-"title": "Ο Ολυμπιακός μετά τον Πουέρτα – Τσικίνιο στο «8», step up ο Σα...",
-"url": "https://sportime.gr/podosfairo/o-olimpiakos-meta-ton-pouerta-tsikinio-sto-8-step-up-o-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T15:10+00:00",
-"sport": "football",
-"snippet": "Ο τραυματισμός του Πουέρτα δημιουργεί νέα δεδομένα στον Ολυμπιακό. Ο Τσικίνιο μπορεί να επιστρέψει στο «8» και ο Γκουστάβο Σα να βγει μπροστά.",
-"also": [],
-"id": "d79024b34dd0"
 }
 ]
 }
