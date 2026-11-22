@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T07:30:29+00:00",
+"generated_at": "2026-11-22T07:45:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Greek Basketball League (8η Αγωνιστική): Αυλαία με δοκιμασία στην Καρδίτσα για τον Ολυμπιακό",
+"url": "https://www.ertsports.gr/mpasket/gbl/greek-basketball-league-8i-agonistiki-aylaia-me-dokimasia-stin-karditsa-gia-ton-olympiako/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-22T07:45+00:00",
+"sport": "basket",
+"snippet": "Με δύο αναμετρήσεις ολοκληρώνεται η 8η αγωνιστική της GBL. Στις 13:00 η Μύκονος υποδέχεται τον Βίκο Ιωαννίνων, ενώ στις 15:00 η Καρδίτσα τον Ολυμπιακό. The…",
+"also": [],
+"id": "e2cfb7245796"
+},
 {
 "title": "Για το σερί... κορυφής ο Παναθηναϊκός, κόντρα στα προβλήματα ο Ολυμπιακός, must win για τον ΠΑΟΚ",
 "url": "https://www.sdna.gr/podosfairo/1489197_gia-seri-koryfis-o-panathinaikos-kontra-sta-problimata-o-olympiakos-must-win-gia",
@@ -4993,18 +5005,6 @@
 "snippet": "Ανακοίνωση εξέδωσε ο Κυπριακός Οργανισμός Αθλητισμού (ΚΟΑ) μετά τη νίκη του Ολυμπιακού στην παράταση (97-95) επί της Μακάμπι Τελ Αβίβ, στο κλειστό...",
 "also": [],
 "id": "2bebeca21af5"
-},
-{
-"title": "Μακάμπι - Ολυμπιακός: Η απίθανη λήψη από το τρομερό buzzer beater του Βεζένκοβ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587664/makampi-olympiakos-i-apithani-lipsi-apo-tromero-buzzer-beater-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T15:32+00:00",
-"sport": "basket",
-"snippet": "Δείτε το τρομερό βίντεο από το ασύλληπτο buzzer beater τρίποντο του Σάσα Βεζένκοβ.",
-"also": [],
-"id": "c9560c1b14be"
 }
 ]
 }
