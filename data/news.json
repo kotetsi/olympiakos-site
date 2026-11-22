@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T12:32:57+00:00",
+"generated_at": "2026-11-22T12:48:05+00:00",
 "count": 400,
 "items": [
+{
+"title": "Live: Καρδίτσα – Ολυμπιακός (audio)",
+"url": "https://www.ertsports.gr/mpasket/gbl/live-karditsa-olympiakos-audio/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-22T12:45+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός ταξιδεύει στην έδρα της μαχητικής Καρδίτσας, στην αυλαία της 8ης αγωνιστικής της GBL, με το σύνολο του Γιώργου Μπαρτζώκα να στοχεύει στην νίκη…",
+"also": [],
+"id": "b59620917ecc"
+},
 {
 "title": "Live: Καρδίτσα - Ολυμπιακός (Stoiximan GBL 2026-27)",
 "url": "https://www.sdna.gr/mpasket/1489217_live-karditsa-olympiakos-stoiximan-gbl-2026-27",
@@ -4993,18 +5005,6 @@
 "snippet": "",
 "also": [],
 "id": "a7098c852a4c"
-},
-{
-"title": "Ολυμπιακός - Ανόβερο 13-12: Όλο και πιο κοντά στα προημιτελικά του Champions League",
-"url": "https://www.gazzetta.gr/polo/len-champions-league/2587722/olympiakos-anobero-13-12-olo-kai-pio-konta-sta-proimitelika-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-18T18:54+00:00",
-"sport": "polo",
-"snippet": "O Oλυμπιακός δυσκόλεψε τη ζωή του κόντρα στο Ανόβερο, τελικά έφθασε στο τρίποντο της νίκης με 13-12 στον Πειραιά, πλησιάζοντας περισσότερο στην πρόκριση στα…",
-"also": [],
-"id": "a14cfc5a089f"
 }
 ]
 }
