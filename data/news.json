@@ -1,7 +1,91 @@
 {
-"generated_at": "2026-11-22T18:20:54+00:00",
+"generated_at": "2026-11-22T18:36:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αυτός ο παίκτης είναι κοντά στον Ολυμπιακό",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1488989_aytos-o-paiktis-einai-konta-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T18:30+00:00",
+"sport": "general",
+"snippet": "Δεν είναι μυστικό, ο Ολυμπιακός βρίσκεται στην αγορά για να θωρακίσει την περιφέρειά του.",
+"also": [],
+"id": "b7e162c3fe6b"
+},
+{
+"title": "Ολική ανατροπή για τον Ολυμπιακό με σκόρερς τους Μπέιλι και Μουαντιλματζί (vids)",
+"url": "https://www.sdna.gr/podosfairo/1489365_oliki-anatropi-gia-ton-olympiako-me-skorers-toys-mpeili-kai-moyantilmatzi-vids",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T18:29+00:00",
+"sport": "football",
+"snippet": "Ο Μπέιλι και ο Μουαντιλματζί έφεραν... τούμπα το σκορ υπέρ του Ολυμπιακού κόντρα στον Ηρακλή με 4-2.",
+"also": [],
+"id": "5d9301e3ee3b"
+},
+{
+"title": "Ολυμπιακός - Ηρακλής: Τα γκολ των Μπέιλι και Μάριους για το 4-2",
+"url": "https://www.gazzetta.gr/football/superleague/2588854/olympiakos-iraklis-ta-gkol-ton-mpeili-kai-marioys-gia-4-2",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T18:28+00:00",
+"sport": "football",
+"snippet": "Στο 54' ο Ολυμπιακός πήρε για πρώτη φορά το προβάδισμα απέναντι στον Ηρακλή με σκόρερ τον Μπέιλι, ενώ ο Μάριους έκανε το 4-2 στο 58'.",
+"also": [],
+"id": "ceb856f0370c"
+},
+{
+"title": "Ολυμπιακός: Ο Ορτέγκα παίζει με τη φωτιά",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-ortegka-pezi-me-ti-fotia?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-22T18:27+00:00",
+"sport": "general",
+"snippet": "Ο Ορτέγκα έκανε νέα λανθασμένη πάσα με τα πόδια απέναντι στον Ηρακλή. Ο Ολυμπιακός γλίτωσε αυτή τη φορά, σε αντίθεση με το ματς του ΠΑΟΚ.",
+"also": [],
+"id": "30a1f32de862"
+},
+{
+"title": "Ολυμπιακός - Ηρακλής: Πέναλτι για τους ερυθρόλευκους, το πήρε πίσω ο Τσιμεντερίδης μέσω VAR",
+"url": "https://www.gazzetta.gr/football/superleague/2588852/olympiakos-iraklis-penalti-gia-toys-erythroleykoys-pire-piso-o",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T18:25+00:00",
+"sport": "football",
+"snippet": "Με την έναρξη του δευτέρου μέρους ο Ολυμπιακός κέρδισε πέναλτι, αλλά ο Τσιμεντερίδης μετά από on field review άλλαξε την απόφασή του.",
+"also": [],
+"id": "89c90250deec"
+},
+{
+"title": "Ολυμπιακός-Ηρακλής: «Ερυθρόλευκη» ανατροπή και 4-2 με Μπέιλι και Μάριους",
+"url": "https://www.metrosport.gr/olympiakos-iraklis-erythroleyki-anatropi-kai-4-2-me-mpeili-kai-marioys-1334517",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-22T18:24+00:00",
+"sport": "general",
+"snippet": "Στο ξεκίνημα του β' ημιχρόνου, ο Ολυμπιακός έφτασε στην ολική ανατροπή απέναντι στον Ηρακλή σκοράροντας δις με τον Μπέιλι και Μάριους και παίρνοντας ...",
+"also": [],
+"id": "741fc20151c1"
+},
+{
+"title": "Το πέναλτι που ο Τσιμεντερίδης έδωσε στον Ολυμπιακό αλλά πήρε πίσω για επιθετικό φάουλ (vid)",
+"url": "https://www.sdna.gr/podosfairo/1489363_penalti-poy-o-tsimenteridis-edose-ston-olympiako-alla-pire-piso-gia-epithetiko",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T18:22+00:00",
+"sport": "football",
+"snippet": "Στο ξεκίνημα του β’ ημιχρόνου ο διαιτητής Τσιμεντερίδης έδωσε πέναλτι στον Ολυμπιακού για τράβηγμα του Βούρου στον Πιρόλα, δεν είδε όμως επιθετικό...",
+"also": [],
+"id": "6c154b22d2ac"
+},
 {
 "title": "Ο Τσιμεντερίδης έδωσε πέναλτι υπέρ του Ολυμπιακού, αλλά μετά από έλεγχο του VAR το πήρε πίσω",
 "url": "https://www.metrosport.gr/o-tsimenteridis-edose-penalti-yper-toy-olympiakoy-alla-meta-apo-elegcho-toy-var-to-pire-piso-1334518",
@@ -13,6 +97,30 @@
 "snippet": "Στα πρώτα λεπτά του δεύτερου μέρους ο Τσιμεντερίδης έδειξε την άσπρη βούλα και καταλόγισε πέναλτι υπέρ του Ολυμπιακού, αλλά μετά από έλεγχο του ...",
 "also": [],
 "id": "dd143ecb1886"
+},
+{
+"title": "Ολυμπιακός - Ηρακλής: Αποβλήθηκε ο Ματσάρι",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-iraklis-apovlithike-o-matsari?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-22T18:18+00:00",
+"sport": "general",
+"snippet": "Ο Ματσάρι αποβλήθηκε στο Ολυμπιακός - Ηρακλής όταν πέταξε την μπάλα από τα χέρια του Σάλιακα. Δεν θα πάει στη συνέντευξη Τύπου μετά το ματς.",
+"also": [],
+"id": "238c387dfd6c"
+},
+{
+"title": "Ολυμπιακός - Ηρακλής: Γιατί ο Τσιμεντερίδης πήρε πίσω το πέναλτι",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-iraklis-giati-o-tsimenteridis-pire-piso-to-penalti?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-22T18:15+00:00",
+"sport": "general",
+"snippet": "Ο Τσιμεντερίδης πήρε πίσω το πέναλτι του Ολυμπιακού με τον Ηρακλή λόγω προηγούμενου επιθετικού φάουλ του Ρέτσου και όχι για την επαφή.",
+"also": [],
+"id": "8871fd04a34a"
 },
 {
 "title": "Ολυμπιακός – Ηρακλής: Αποβλήθηκε ο Ματζάρι!",
@@ -4871,122 +4979,6 @@
 "snippet": "Η ΠΑΕ Ολυμπιακός ανακοίνωσε την διάθεση των εισιτηρίων για την εντός έδρας αναμέτρηση με τον Ηρακλή, στο πλαίσιο της 11ης αγωνιστικής της Super League. The…",
 "also": [],
 "id": "dc31de7909a8"
-},
-{
-"title": "Μιλάνε άλλη γλώσσα Ολυμπιακός και Ντόρσεϊ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2587983/milane-alli-glossa-olympiakos-kai-ntorsei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-19T17:09+00:00",
-"sport": "basket",
-"snippet": "Δεν βρίσκονται στην ίδια σελίδα ο Τάιλερ Ντόρσεϊ και ο Ολυμπιακός, όπως προκύπτει ξεκάθαρα και από τις δηλώσεις του Γιώργου Μπαρτζώκα, μία ημέρα πριν από την…",
-"also": [],
-"id": "1bfddebc2cd5"
-},
-{
-"title": "ΚΑΕ Παναθηναϊκός: «Ο Ολυμπιακός αυτοδιαψεύδεται για τις παρεμβάσεις υπέρ του ορισμού της Τσαρούχα»",
-"url": "https://sportday.gr/basket/365831_kae-panathinaikos-o-olympiakos-aftodiapsevdetai-gia-tis-paremvaseis-yper-tou-orismou-tis-tsaroucha.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-19T17:05+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Παναθηναϊκός μπήκε στον χορό των ανακοινώσεων...",
-"also": [],
-"id": "cbd20b08e0aa"
-},
-{
-"title": "Ολυμπιακός: Αυτό βλέπει ο Ζέρβας να γίνεται με τον Ντόρσεϊ",
-"url": "https://sportime.gr/basket/olimpiakos-afto-vlepi-o-zervas-na-ginete-me-ton-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-19T17:03+00:00",
-"sport": "basket",
-"snippet": "Ο Νίκος Ζέρβας δεν αποκλείει το ενδεχόμενο ο Τάιλερ Ντόρσεϊ να παραμείνει εκτός αγώνων του Ολυμπιακού μέχρι το τέλος της σεζόν.",
-"also": [],
-"id": "0e9bc300d986"
-},
-{
-"title": "ΚΑΕ Παναθηναϊκός για Ολυμπιακό: «Με πανηγυρικό τρόπο, αυτοδιαψεύδεται, έχει ασκήσει παρέμβαση υπέρ του ορισμού της Τσαρούχα!»",
-"url": "https://www.gazzetta.gr/basketball/basket-league/2587980/kae-panathinaikos-gia-olympiako-me-panigyriko-tropo",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-19T16:58+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Παναθηναϊκός μέσω ανακοίνωσης απάντησε στην ΚΑΕ Ολυμπιακός για όσα συνέβησαν στον 5ο τελικό του ελληνικού πρωταθλήματος του 2026.",
-"also": [
-{
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"url": "https://www.eurohoops.net/el/heba-el/2037801/panathinaikos-o-olimpiakos-echi-askisi-ke-defteri-prostheti-paremvasi-iper-tou-orismou-tis-tsaroucha/",
-"title": "Παναθηναϊκός: “Ο Ολυμπιακός αυτοδιαψεύδεται, έχει ασκήσει και 2η πρόσθετη παρέμβαση υπέρ του ορισμού της Τσαρούχα”",
-"published": "2026-11-19T17:01+00:00"
-}
-],
-"id": "03820b332a1a"
-},
-{
-"title": "ΚΑΕ Παναθηναϊκός: «Αυτοδιαψεύδεται με πανηγυρικό τρόπο η ΚΑΕ Ολυμπιακός - Πολύ περίεργο ισχυρισμό διατυπώνει...»",
-"url": "http://www.sport-fm.gr/article/5162128",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-19T16:58+00:00",
-"sport": "general",
-"snippet": "Με αιχμηρή ανακοίνωση απάντησε η ΚΑΕ Παναθηναϊκός στον Ολυμπιακό, κάνοντας λόγο για «περίσσιο θράσος» και αντικρουόμενους ισχυρισμούς από την πλευρά των…",
-"also": [],
-"id": "e2cfbfd0b50e"
-},
-{
-"title": "Παναθηναϊκός: «Ο Ολυμπιακός αυτοδιαψεύδεται με πανηγυρικό τρόπο, τα συμπεράσματα όλα δικά σας»",
-"url": "https://www.sdna.gr/mpasket/1488322_panathinaikos-o-olympiakos-aytodiapseydetai-me-panigyriko-tropo-ta-symperasmata-ola",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T16:56+00:00",
-"sport": "basket",
-"snippet": "H KAE Παναθηναϊκός απάντησε αποστομωτικά στον Ολυμπιακό στην ανακοίνωσή της, τονίζοντας πως οι «ερυθρόλευκοι» αυτοδιαψεύδοντι ομολογώντας πως...",
-"also": [],
-"id": "a9a85f1e36da"
-},
-{
-"title": "Παναθηναϊκός κατά Ολυμπιακού για Τσαρούχα: «Αυτοδιαψεύδεται με τον πλέον πανηγυρικό τρόπο»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15239621/panathinaikos-kata-olympiakou-gia-tsarouxa-aytodiapseydetai-me-ton-pleon-panigyriko-tropo/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T16:56+00:00",
-"sport": "basket",
-"snippet": "Νέα αντιπαράθεση μεταξύ Παναθηναϊκού και Ολυμπιακού προέκυψε με επίκεντρο τη διαιτητή, Βάσω Τσαρούχα και τους ορισμούς στους τελικούς του προηγούμενου…",
-"also": [],
-"id": "b4e7cd8ce54b"
-},
-{
-"title": "Ολυμπιακός: Οι απολογίες του Μπαρτζώκα μετά τις 4 καταγγελίες του Παναθηναϊκού",
-"url": "https://www.eurohoops.net/el/heba-el/2037797/olimpiakos-i-apologies-tou-bartzoka-meta-tis-4-katangelies-tou-panathinaikou/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-19T16:53+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Ολυμπιακός, με ανακοίνωση, ενημέρωσε για τις καταγγελίες που έχει δεχτεί ο Γιώργος Μπαρτζώκας από την ΚΑΕ Παναθηναϊκός. The post Ολυμπιακός: Οι απολογίες…",
-"also": [],
-"id": "9c1af721ce96"
-},
-{
-"title": "ΚΑΕ Ολυμπιακός: «Απολογήθηκε ο Μπαρτζώκας για Ντουμπάι, θα το κάνει και την Παρασκευή για νέα καταγγελία...»",
-"url": "http://www.sport-fm.gr/article/5162125",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-19T16:52+00:00",
-"sport": "general",
-"snippet": "Η ΚΑΕ Ολυμπιακός ενημέρωσε για την απολογία του Γιώργου Μπαρτζώκα στην ΕΦΙΠΗΔ αναφορικά με καταγγελία για το περσινό ματς με την Ντουμπάι και θα το κάνει και…",
-"also": [],
-"id": "1d3fd6ae6cca"
 }
 ]
 }
