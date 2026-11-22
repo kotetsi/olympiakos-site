@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T13:33:26+00:00",
+"generated_at": "2026-11-22T13:48:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καρδίτσα – Ολυμπιακός: Έγινε λάθος γιατί ήταν… απασχολημένος (vid)",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15245210/karditsa-olympiakos-egine-lathos-giati-itan-apasxolimenos-vid/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T13:46+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "68f66f63d62a"
+},
 {
 "title": "Καρδίτσα – Ολυμπιακός: Τιμήθηκε ο Παπανικολάου (vid)",
 "url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15245195/karditsa-olympiakos-timithike-o-papanikolaou-vid/",
@@ -25,6 +37,18 @@
 "snippet": "Σε μια όμορφη κίνηση η Καρδίτσα βράβευσε τον Ολυμπιακό πριν την μεταξύ τους αναμέτρηση για την κατάκτηση της Euroleague από τους «ερυθρόλευκους» την...",
 "also": [],
 "id": "b1e6d73de7a4"
+},
+{
+"title": "Βραβεύτηκε ο Ολυμπιακός από την Καρδίτσα για την κατάκτηση της EuroLeague",
+"url": "http://www.sport-fm.gr/article/5162747",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-22T13:14+00:00",
+"sport": "basket",
+"snippet": "H Kαρδίτσα βράβευσε τον Ολυμπιακό για την κατάκτηση της EuroLeague πριν τη μεταξύ τους αναμέτρηση για την Stoiximan GBL.",
+"also": [],
+"id": "67633f74a76f"
 },
 {
 "title": "Ολυμπιακός Β - Απόλλων Καλαμαριάς",
@@ -4981,30 +5005,6 @@
 "snippet": "Τα τελευταία νέα από το ρεπορτάζ του Ολυμπιακού μετέφερε στον αέρα του bwinΣΠΟΡ FM 94,6 ο Νίκος Ζέρβας.",
 "also": [],
 "id": "9cef83ba96d5"
-},
-{
-"title": "Ολυμπιακός: Σωστή η παρατήρηση του Κωνσταντίνου Μελάγιες για τον Τάιλερ Ντόρσεϊ",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-sosti-i-paratirisi-tou-konstantinou-melagies-gia-ton-tailer-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T19:25+00:00",
-"sport": "general",
-"snippet": "Ο Κωνσταντίνος Μελάγιες έκανε μια εύστοχη παρατήρηση για τον Τάιλερ Ντόρσεϊ μετά τη νίκη του Ολυμπιακού. Η σιωπή του παίκτη που συζητείται.",
-"also": [],
-"id": "084f185c8e54"
-},
-{
-"title": "Μπεσίκτας – Ρεάλ 83-79: Την έβαλε με πληγωμένο ηθικό στο αεροπλάνο για Ολυμπιακό",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2037276/besiktas-real-83-79-tin-evale-me-pligomeno-ithiko-sto-aeroplano-gia-olimpiako/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-18T19:03+00:00",
-"sport": "basket",
-"snippet": "Ιστορική νίκη (83-79) της Μπεσίκτας (6-6) επί της Ρεάλ Μαδρίτης (7-5) στην Κωνσταντινούπολη για τη 12η αγωνιστική της Ευρωλίγκας. The post Μπεσίκτας – Ρεάλ…",
-"also": [],
-"id": "6d28eb71bccf"
 }
 ]
 }
