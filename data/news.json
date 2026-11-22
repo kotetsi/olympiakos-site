@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-22T19:21:28+00:00",
+"generated_at": "2026-11-22T19:36:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βαθμολογία Super League: Οι θέσεις των Παναθηναϊκού, Ολυμπιακού, ΑΕΚ και ΠΑΟΚ",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245985/vathmologia-super-league-oi-theseis-ton-panathinaikou-olympiakou-aek-kai-paok/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T19:33+00:00",
+"sport": "football",
+"snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
+"also": [],
+"id": "576c80abb8ce"
+},
+{
+"title": "Ολυμπιακός: Η ατάκα του Ιμανόλ για τον Μπέιλι",
+"url": "https://www.gazzetta.gr/football/superleague/2588880/olympiakos-i-ataka-toy-imanol-gia-ton-mpeili",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T19:29+00:00",
+"sport": "football",
+"snippet": "Το σχόλιο του Ιμανόλ Αλγκουαθίλ για τις ενοχλήσεις του Μπέιλι.",
+"also": [],
+"id": "c77ce7e08ba0"
+},
+{
+"title": "Τα highlights της εξάρας του Ολυμπιακού επί του Ηρακλή (vid)",
+"url": "https://www.sdna.gr/podosfairo/1489393_ta-highlights-tis-exaras-toy-olympiakoy-epi-toy-irakli-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T19:26+00:00",
+"sport": "football",
+"snippet": "Γκολ και φάσεις από το 6-2 του Ολυμπιακού επί του Ηρακλή.",
+"also": [],
+"id": "cd20123a5916"
+},
+{
+"title": "Αλγκουαθίλ: «Ο Ολυμπιακός είναι αυτός που είναι – Ελπίζουμε ο Μπέιλι να έχει απλά κράμπες»",
+"url": "https://sportday.gr/podosfairo/366169_algkouathil-o-olympiakos-einai-aftos-pou-einai-elpizoume-o-mpeili-na-echei-apla-krampes.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-22T19:25+00:00",
+"sport": "football",
+"snippet": "Διαβάστε τις δηλώσεις του Ιμανόλ Αλγκουαθίλ μετά την επιβλητική νίκη του Ολυμπιακού απέναντι στον Ηρακλή με 6-2 στο «Γ. Καραϊσκάκης», στην 11η αγωνιστική της…",
+"also": [],
+"id": "c4553a853c62"
+},
+{
+"title": "Βαθμολογία Stoiximan Super League: Σταθερά στο +4 ο Παναθηναϊκός, ξέσπασαν Ολυμπιακός και ΠΑΟΚ",
+"url": "https://www.sdna.gr/podosfairo/1489326_bathmologia-stoiximan-super-league-stathera-sto-4-o-panathinaikos-xespasan",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T19:23+00:00",
+"sport": "football",
+"snippet": "Με την νίκη του με 2-0 επί του ΟΦΗ, ο Παναθηναϊκός παραμένει στο ρετιρέ της βαθμολογίας στο +4 από τον Ολυμπιακό, ο οποίος πέτυχε την πιο ευρεία του...",
+"also": [],
+"id": "967d3e93b12f"
+},
+{
+"title": "Η κριτική του Ολυμπιακού: MVP ο εκρηκτικός Μπέιλι, καθοριστικός ο Σιπιόνι!",
+"url": "https://www.sdna.gr/podosfairo/1489388_i-kritiki-toy-olympiakoy-mvp-o-ekriktikos-mpeili-kathoristikos-o-sipioni",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T19:21+00:00",
+"sport": "football",
+"snippet": "Ο Μπέιλι με δύο γκολ και μία ασίστ ήταν ο μεγάλος πρωταγωνιστής της ανατροπής του Ολυμπιακού απέναντι στον Ηρακλή, με τον Σιπιόνι να ξεχωρίζει στην...",
+"also": [],
+"id": "09f3b5a144fa"
+},
 {
 "title": "Μπρουνέτι: «Θα πρεπε να προηγούμαστε στο ημίχρονο»",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245910/mprouneti-tha-prepe-na-proigoumaste-sto-imixrono/",
@@ -71,7 +143,15 @@
 "published": "2026-11-22T19:05+00:00",
 "sport": "football",
 "snippet": "Ο τεχνικός των «ερυθρόλευκων» τόνισε ότι η ομάδα του στο β’ ημίχρονο δεν έκανε τα λάθη που έκανε στο α’.",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/algoyathil-o-olympiakos-echei-poly-poiotita-kai-prepei-na-ti-deichnei-se-ola-ta-mats-1334525",
+"title": "Αλγουαθίλ: «Ο Ολυμπιακός έχει πολύ ποιότητα και πρέπει να τη δείχνει σε όλα τα ματς»",
+"published": "2026-11-22T19:22+00:00"
+}
+],
 "id": "cf5d7ceaf2ce"
 },
 {
@@ -4915,78 +4995,6 @@
 "snippet": "Σε χειρουργική επέμβαση θα υποβληθεί το πρωί της Παρασκευής (20/11) ο Τσικίνιο, προκειμένου να αντιμετωπιστεί το κάταγμα στο μετατάρσιο που υπέστη κατά τη…",
 "also": [],
 "id": "ab778bec8486"
-},
-{
-"title": "Διαψεύδει για Ολυμπιακό και Τζόουνς η Παρτίζαν!",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240378/diapseydei-gia-olympiako-kai-tzoouns-i-partizan/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T22:23+00:00",
-"sport": "basket",
-"snippet": "Κατηγορηματικός σχετικά με το μέλλον του Κάρλικ Τζόουνς στην Παρτίζαν και τα σενάρια περί Ολυμπιακού, εμφανίστηκε ο Οστόγια Μιχαΐλοβιτς. Ολυμπιακός: «Πληρώνει…",
-"also": [],
-"id": "9ce299b19700"
-},
-{
-"title": "Τζόουνς: Πήρε θέση στη φημολογία για Ολυμπιακό ο πρόεδρος της Παρτίζαν",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588055/tzooyns-pire-thesi-sti-fimologia-gia-olympiako-o-proedros-tis",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-19T22:08+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός φέρεται να προσέγγισε την Παρτίζαν για τον Κάρλικ Τζόουνς, σύμφωνα με σέρβικα μέσα, ωστόσο ο πρόεδρος της ομάδας ξεκαθάρισε πως δεν συζητά το…",
-"also": [],
-"id": "8c5c2f5e5a06"
-},
-{
-"title": "Ολυμπιακός: Ο Πουέρτα χάνει τρία ντέρμπι και δύο ευρωπαϊκά!",
-"url": "https://sportday.gr/podosfairo/365849_olympiakos-o-pouerta-chanei-tria-ntermpi-kai-dyo-evropaika.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-19T21:59+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός θα στερηθεί τις υπηρεσίες του αρκιβότερου παίκτη του σε κρίσιμα παιχνίδια...",
-"also": [],
-"id": "f8b7fd11fc21"
-},
-{
-"title": "Ολυμπιακός: Ζητάει αναβολή αγώνα λόγω ευρωπαϊκών υποχρεώσεων",
-"url": "https://www.metrosport.gr/olympiakos-zitaei-anavoli-agona-logo-eyropaikon-ypochreoseon-1334187",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-19T21:50+00:00",
-"sport": "general",
-"snippet": "Εξαιρετικά πιθανό φαίνεται ότι είναι το ενδεχόμενο αναβολής προσεχούς αγώνα του Ολυμπιακού λόγω ευρωπαϊκών υποχρεώσεων, με τους «ερυθρόλευκους» να ...",
-"also": [],
-"id": "35cab8f26743"
-},
-{
-"title": "Ολυμπιακός: «Πληρώνει buyout στην Παρτίζαν για γκαρντ!»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15240161/olympiakos-plironei-buyout-stin-partizan-gia-gkarnt/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T21:38+00:00",
-"sport": "basket",
-"snippet": "Έντονη κινητικότητα καταγράφεται γύρω από την υπόθεση του Κάρλικ Τζόουνς, καθώς ο Ολυμπιακός φέρεται να βρίσκεται κοντά στην απόκτηση του 28χρονου γκαρντ από…",
-"also": [],
-"id": "c9ef39e03958"
-},
-{
-"title": "Η πρώτη αντίδραση Αλγουαθίλ για Τσικίνιο-Πουέρα: Ο παίκτης που θέλει ο Ολυμπιακός",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1488375_i-proti-antidrasi-algoyathil-gia-tsikinio-poyera-o-paiktis-poy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T21:05+00:00",
-"sport": "football",
-"snippet": "Η μεταγραφή που αποτελεί προτεραιότητα για τον Ιμανόλ Αλγουαθίλ και γιατί παίκτες χωρίς καλό χαρακτήρα θα... κόβονται από τον Ολυμπιακό.",
-"also": [],
-"id": "6d87bbf0458b"
 }
 ]
 }
