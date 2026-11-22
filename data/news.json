@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-22T14:03:45+00:00",
+"generated_at": "2026-11-22T14:18:51+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καρδίτσα - Ολυμπιακός: Η βράβευση της θεσσαλικής ομάδας στους «ερυθρόλευκους»",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2588758/karditsa-olympiakos-i-brabeysi-tis-thessalikis-omadas-stoys",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T14:06+00:00",
+"sport": "basket",
+"snippet": "Η Καρδίτσα βράβευσε τον Ολυμπιακό για την κατάκτηση της EuroLeague, πριν το τζάμπολ του αγώνα.",
+"also": [],
+"id": "a702818a1b93"
+},
+{
+"title": "Ολυμπιακός: Blooper στην Καρδίτσα λόγω… μπλα-μπλα με Μπαρτζώκα (videos)",
+"url": "https://www.eurohoops.net/el/heba-el/2039128/olimpiakos-blooper-stin-karditsa-logo-bla-mpla-me-bartzoka-videos/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-22T14:06+00:00",
+"sport": "basket",
+"snippet": "Ο διάλογος με τον Γιώργο Μπαρτζώκα \"έφαγε\" την πάσα του Εβάν Φουρνιέ στον Κώστα Παπανικολάου. The post Ολυμπιακός: Blooper στην Καρδίτσα λόγω… μπλα-μπλα με…",
+"also": [],
+"id": "5bbd61cc000c"
+},
+{
+"title": "Καρδίτσα – Ολυμπιακός: Μπροστά με 2 στο ημίχρονο οι “ερυθρόλευκοι” (vid)",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15245219/karditsa-olympiakos-mprosta-me-2-sto-imixrono-oi-erythroleykoi-vid/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T14:03+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "bbe6a72eb7a7"
+},
 {
 "title": "ΠΑΟΚ: Καθοριστικός Μοναστηρλής, πολυτιμότερος κόντρα στον Ολυμπιακό",
 "url": "https://www.sdna.gr/podosfairo/1489293_paok-kathoristikos-monastirlis-polytimoteros-kontra-ston-olympiako",
@@ -4969,42 +5005,6 @@
 "snippet": "Ο Ολυμπιακός περιμένει τις εξετάσεις των Πουέρτα και Μπρούνο Ονιεμαέτσι, ενώ ο Σαντιάγκο Έσε παραμένει εκτός δράσης μέχρι τον Δεκέμβριο.",
 "also": [],
 "id": "7522c1b0fd41"
-},
-{
-"title": "Ολυμπιακός 9-1, Παναθηναϊκός 2-4: Ο Πολωνός Ζαμοΐσκι χτίζει τη δική του παράδοση την τελευταία διετία",
-"url": "https://www.sdna.gr/mpasket/1488040_olympiakos-9-1-panathinaikos-2-4-o-polonos-zamoiski-htizei-ti-diki-toy-paradosi-tin",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T20:53+00:00",
-"sport": "basket",
-"snippet": "Το Slam Dunk ερευνά πόσο συμπτωματική ήταν η παρουσία του διαιτητή Ζαμοΐσκι στη Μπολόνια. Το ρεκόρ του Παναθηναϊκού και του Ολυμπιακού με τον Πολωνό.",
-"also": [],
-"id": "4164bbab85f4"
-},
-{
-"title": "Ολυμπιακός – Ανόβερο 13-12: Δύσκολη νίκη και πιο κοντά στα προημιτελικά οι “ερυθρόλευκοι”",
-"url": "https://www.ertsports.gr/omades/olympiakos/olympiakos-anovero-13-12-dyskoli-niki-kai-pio-konta-sta-proimitelika-oi-erythroleykoi/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-18T20:06+00:00",
-"sport": "polo",
-"snippet": "Οι «ερυθρόλευκοι» επικράτησαν με 13-12 στο Παπαστράτειο, διατήρησαν την πρωτοπορία στον Α' όμιλο του Champions League και έκαναν ένα ακόμη βήμα προς την…",
-"also": [],
-"id": "42b4fdd68fc3"
-},
-{
-"title": "«Πάνω» από Σάσα και Φουρνιέ: Το τεράστιο κέρδος του Ολυμπιακού στην Κύπρο",
-"url": "https://www.sdna.gr/mpasket/1488004_pano-apo-sasa-kai-foyrnie-terastio-kerdos-toy-olympiakoy-stin-kypro",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T20:00+00:00",
-"sport": "basket",
-"snippet": "Όποιος είδε το ματς, καταλαβαίνει.",
-"also": [],
-"id": "02096baad11c"
 }
 ]
 }
