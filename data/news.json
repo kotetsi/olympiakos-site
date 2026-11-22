@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T11:47:36+00:00",
+"generated_at": "2026-11-22T12:02:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καρδίτσα: Sold out η αναμέτρηση με τον Ολυμπιακό",
+"url": "https://www.sdna.gr/mpasket/1489255_karditsa-sold-out-i-anametrisi-me-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T11:59+00:00",
+"sport": "basket",
+"snippet": "Η Καρδίτσα ανακοίνωσε πως τα εισιτήρια για την αναμέτρηση με τον Ολυμπιακό (15:00) εξαντλήθηκαν.",
+"also": [],
+"id": "aed7f85da3e0"
+},
+{
+"title": "Το τρένο του Παναθηναϊκού δεν σταματάει, πάνε για εύκολες νίκες Ολυμπιακός και ΠΑΟΚ, Super αποδόσεις* σε κάθε ματς!",
+"url": "https://www.sdna.gr/stoihima/1489251_treno-toy-panathinaikoy-den-stamataei-pane-gia-eykoles-nikes-olympiakos-kai-paok",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T11:34+00:00",
+"sport": "football",
+"snippet": "Η Super League επιστρέφει και η Κυριακή 22 Νοεμβρίου γεμίζει ποδόσφαιρο από τις 16:00!...",
+"also": [],
+"id": "b00afdd1ba48"
+},
 {
 "title": "Ολυμπιακός: Η αδυναμία του Ηρακλή στο τέλος και το δύσκολο για τον Ιμανόλ 3-4-3!",
 "url": "https://www.gazzetta.gr/football/superleague/2588724/olympiakos-i-adynamia-toy-irakli-sto-telos-kai-dyskolo-gia-ton-imanol",
@@ -4981,30 +5005,6 @@
 "snippet": "Το συμβόλαιο που λήγει και το σκάουτινγκ που έχει γίνει για τον 27χρονο Αλγερινό.",
 "also": [],
 "id": "68f19a85634c"
-},
-{
-"title": "Ελπίς Αμπελοκήπων - Ολυμπιακός 1-3 : Ακόμα μια νίκη για το σύνολο του Κοβάσεβιτς",
-"url": "https://www.sdna.gr/bolei/1488000_elpis-ampelokipon-olympiakos-1-3-akoma-mia-niki-gia-synolo-toy-kobasebits",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-18T18:26+00:00",
-"sport": "general",
-"snippet": "Χωρίς ιδιαίτερη δυσκολία, παρά μόνο στο τρίτο σετ, ο Ολυμπιακός πέρασε νικηφόρα από την Θεσσαλονίκη",
-"also": [],
-"id": "2558ab718825"
-},
-{
-"title": "Ελπίδα Αμπελοκήπων – Ολυμπιακός 1-3: Νικηφόρο πέρασμα από τη Θεσσαλονίκη για τις «ερυθρόλευκες»",
-"url": "https://www.ertsports.gr/bolei/volley-league-gynaikon/elpida-ampelokipon-olympiakos-1-3-nikiforo-perasma-apo-ti-thessaloniki-gia-tis-erythroleykes/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-18T17:58+00:00",
-"sport": "volley",
-"snippet": "Ο Ολυμπιακός συνέχισε με θετικό αποτέλεσμα τις υποχρεώσεις του στη Volley League γυναικών, καθώς επικράτησε με 3-1 σετ της Ελπίδας Αμπελοκήπων στο κλειστό «Ι…",
-"also": [],
-"id": "fbf8d173eb3a"
 }
 ]
 }
