@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-22T22:53:17+00:00",
+"generated_at": "2026-11-22T23:08:20+00:00",
 "count": 400,
 "items": [
 {
@@ -127,7 +127,15 @@
 "published": "2026-11-22T21:15+00:00",
 "sport": "general",
 "snippet": "Ο Παναθηναϊκός νίκησε τον Ολυμπιακό με 4-1 στο ντέρμπι «αιωνίων» στο πρωτάθλημα της Α1 γυναικών στο πινγκ πονγκ, μαζί με την ΑΕΚ συνεχίζουν έχοντας το απόλυτο.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/alla-spor/event/ellada/article/15246543/o-panathinaikos-epikratise-sto-ntermpi-aionion-stis-gynaikes-4-1-ton-olympiako/",
+"title": "Ο Παναθηναϊκός επικράτησε στο ντέρμπι «αιωνίων» στις γυναίκες, 4-1 τον Ολυμπιακό",
+"published": "2026-11-22T22:58+00:00"
+}
+],
 "id": "5801adb9ef47"
 },
 {
