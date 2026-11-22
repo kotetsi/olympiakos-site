@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T14:34:01+00:00",
+"generated_at": "2026-11-22T14:49:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Καρδίτσα – Ολυμπιακός: Ο Φράνσις κάνει μεγάλο ματς (vid)",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15245278/karditsa-olympiakos-o-fransis-kanei-megalo-mats-vid/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T14:41+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "fa0bb482c168"
+},
 {
 "title": "Ολυμπιακός: Οι επόμενοι αντίπαλοι σε EuroLeague και GBL μετά την Καρδίτσα",
 "url": "https://sportime.gr/basket/olimpiakos-i-epomeni-antipali-se-euroleague-ke-gbl-meta-tin-karditsa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -119,7 +131,15 @@
 "published": "2026-11-22T13:14+00:00",
 "sport": "basket",
 "snippet": "H Kαρδίτσα βράβευσε τον Ολυμπιακό για την κατάκτηση της EuroLeague πριν τη μεταξύ τους αναμέτρηση για την Stoiximan GBL.",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/mpasket/gbl/i-karditsa-vraveyse-ton-olympiako-gia-tin-kataktisi-tis-euroleague/",
+"title": "Η Καρδίτσα βράβευσε τον Ολυμπιακό για την κατάκτηση της EuroLeague",
+"published": "2026-11-22T13:20+00:00"
+}
+],
 "id": "67633f74a76f"
 },
 {
@@ -4993,18 +5013,6 @@
 "snippet": "Ο Ολυμπιακός έχει μόλις δύο παίκτες στην πρώτη 30άδα των αξιολογήσεων της Super League. Οι θέσεις των Ρέτσου και Φορτούνη και η κυριαρχία της ΑΕΚ.",
 "also": [],
 "id": "fa320ae839e8"
-},
-{
-"title": "Ολυμπιακός: Τα λεφτά από δύο παίκτες που να μην τα… έπαιρνε",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-ta-lefta-apo-dio-pektes-pou-na-min-ta-eperne?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T21:08+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός ενδέχεται να αποζημιωθεί από τη FIFA για τους τραυματισμούς των Πουέρτα και Ονιεμαέτσι. Πόσα χρήματα προβλέπονται και υπό ποιους όρους;",
-"also": [],
-"id": "55e4812a5cf5"
 }
 ]
 }
