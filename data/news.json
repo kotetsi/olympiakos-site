@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-22T21:52:39+00:00",
+"generated_at": "2026-11-22T22:07:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Θρύλος της Άρσεναλ «άδειασε» τον Τζόλη και ζήτησε αντικαταστάτη από τη Λειψία",
+"url": "https://www.metrosport.gr/thrylos-tis-arsenal-adeiase-ton-tzoli-kai-zitise-antikatastati-apo-ti-leipsia-1334482",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-22T22:05+00:00",
+"sport": "general",
+"snippet": "Παρά το γεγονός ότι πήρε προβάδισμα και κυριάρχησε στο πρώτο μέρος στο «Σεντ Τζέιμς Παρκ», η Άρσεναλ έμεινε στην ισοπαλία απέναντι στη Νιούκαστλ, με ...",
+"also": [],
+"id": "92793c61c6c7"
+},
+{
+"title": "Σιπιόνι: «Μου δόθηκε η ευκαιρία να δείξω πόσο δουλεύω – Η δουλειά μου επιβραβεύτηκε»",
+"url": "https://sportday.gr/podosfairo/366188_sipioni-mou-dothike-i-efkairia-na-deikso-poso-doulevo-i-douleia-mou-epivraveftike.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-22T22:03+00:00",
+"sport": "football",
+"snippet": "Δείτε τις δηλώσεις του Λορέντσο Σιπιόνι μετά τη νίκη του Ολυμπιακού κόντρα στον Ηρακλή με 6-2 στο «Γ. Καραϊσκάκης», στην 11η αγωνιστική της Stoiximan Super…",
+"also": [],
+"id": "47f8a36a1d3f"
+},
+{
+"title": "Τα σχόλια στον bwinΣΠΟΡ FM για τις νίκες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ",
+"url": "http://www.sport-fm.gr/article/5162846",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-22T21:59+00:00",
+"sport": "football",
+"snippet": "Ακούστε τα σχόλια των παραγωγών του bwinΣΠΟΡ FM 94,6 για τις νίκες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ στην 11η αγωνιστική της Stoiximan Super League.",
+"also": [],
+"id": "1f0a3ad142a0"
+},
 {
 "title": "Ολυμπιακός: Η τελευταία φορά που οι «ερυθρόλευκοι» σημείωσαν έξι γκολ στο πρωτάθλημα",
 "url": "https://sportday.gr/podosfairo/366172_olympiakos-i-teleftaia-fora-pou-oi-erythrolefkoi-simeiosan-eksi-gkol-sto-protathlima.html",
@@ -47,7 +83,15 @@
 "published": "2026-11-22T21:16+00:00",
 "sport": "football",
 "snippet": "Μία ασυνήθιστη απόφαση πήρε η διοίκηση του Ηρακλή μετά την ήττα με 6-2 από τον Ολυμπιακό, επιβάλλοντας πρόστιμο στον Ινίγκο Πίνια για το λάθος του...",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/iraklis-xrimatiko-prostimo-ston-pinia-1334551",
+"title": "Ηρακλής: Xρηματικό πρόστιμο στον Πίνια για το λάθος στο 3-2 του Ολυμπιακού",
+"published": "2026-11-22T21:52+00:00"
+}
+],
 "id": "544386cf676d"
 },
 {
@@ -4959,42 +5003,6 @@
 "snippet": "Με πέντε αναμετρήσεις συνεχίζεται και ολοκληρώνεται τις επόμενες ημέρες η 9η αγωνιστική στην Α1 χάντμπολ των Ανδρών, η «αυλαία» της οποίας άνοιξε την...",
 "also": [],
 "id": "05882a5bbbdb"
-},
-{
-"title": "Ντάμιαν Τζόουνς: «Μεγαλύτερη απειλή του Ολυμπιακού ο Βεζένκοφ» - Τι δήλωσε για τον Ναν",
-"url": "https://www.sdna.gr/mpasket/1488540_ntamian-tzooyns-megalyteri-apeili-toy-olympiakoy-o-bezenkof-ti-dilose-gia-ton-nan",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T09:50+00:00",
-"sport": "basket",
-"snippet": "Ο δις Πρωταθλητής του ΝΒΑ με τους Ουόριορς, Ντάμιαν Τζόουνς, μίλησε πριν το ματς με τον Ολυμπιακό (20/11, 21:15) για τον αντίπαλο της Ρεάλ και την...",
-"also": [],
-"id": "9b6f1cc74f52"
-},
-{
-"title": "Transfer Gossip: Οι δύο μεταγραφές του Ολυμπιακού, οι εξελίξεις στον ΟΦΗ και η αποχώρηση Γιάγκουσιτς",
-"url": "https://sportime.gr/parafootball/transfer-gossip-i-dio-metagrafes-tou-olimpiakou-i-exelixis-ston-ofi-ke-i-apochorisi-giagkousits?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T09:32+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός εξετάζει δύο προσθήκες στα χαφ, ο ΟΦΗ παρακολουθεί την αγορά και ο Γιάγκουσιτς ετοιμάζεται να ζητήσει την αποχώρησή του από τον Παναθηναϊκό.",
-"also": [],
-"id": "48083ceed197"
-},
-{
-"title": "Διαιτησία 2026: Παναθηναϊκός πέναλτι 13 υπέρ-2 κατά, ΑΕΚ αποβολές 9 υπέρ-1 κατά, Ολυμπιακός και ΠΑΟΚ…",
-"url": "https://www.gazzetta.gr/football/superleague/2588113/diaitisia-2026-panathinaikos-penalti-13-yper-2-kata-aek-apoboles-9",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T09:30+00:00",
-"sport": "football",
-"snippet": "Ο Κ. Νικολακόπουλος καταγράφει στο blog του στο gazzetta πράγματα που προφανώς δεν προκύπτουν από τα...διαιτητικά σεμινάρια!",
-"also": [],
-"id": "618716812616"
 }
 ]
 }
