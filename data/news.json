@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T15:19:23+00:00",
+"generated_at": "2026-11-22T15:34:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός Β – Απόλλων Καλαμαριάς 1-1: Πέταξαν δύο πολύτιμους βαθμούς οι «κοκκινόμαυροι»",
+"url": "https://www.metrosport.gr/olympiakos-v-apollon-kalamarias-1-1-petaxan-dyo-polytimoys-vathmoys-oi-kokkinomayroi-1334491",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-22T15:22+00:00",
+"sport": "general",
+"snippet": "Δύο πολύτιμους βαθμούς άφησε στην έδρα του Ολυμπιακού Β΄ ο Απόλλωνας Καλαμαριάς, με τις δύο ομάδες να αναδεικνύονται ισόπαλες 1-1. Οι «κοκκινόμαυροι» ...",
+"also": [],
+"id": "cf7dbfef1b3f"
+},
+{
+"title": "Kόλλησαν και συνεχίζουν να κινδυνεύουν Απόλλων Καλαμαριάς και Ολυμπιακός Β",
+"url": "http://www.sport-fm.gr/article/5162767",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-22T15:18+00:00",
+"sport": "general",
+"snippet": "Απόλλων Καλαμαριάς και Ολυμπιακός Β δεν κατάφεραν να πάρουν τρίποντο χρυσάφι και με το 1-1 εξακολουθούν να βρίσκονται σε δύσκολη θέση",
+"also": [],
+"id": "7599ae800e9c"
+},
 {
 "title": "“Μοιρασιά” που κράτησε χαμηλά Ολυμπιακό Β΄ και Απόλλωνα Καλαμαριάς",
 "url": "https://www.ertsports.gr/podosfairo/super-league-2/moirasia-pou-kratise-xamila-olympiako-v-kai-apollona-kalamarias/",
@@ -4966,38 +4990,6 @@
 "snippet": "Ο Βάσκος τεχνικός έχει στραμμένη την προσοχή του στην επικείμενη αναμέτρηση με τον Ηρακλή, για την ενδέκατη αγωνιστική του πρωταθλήματος, στο γήπεδο «Γ…",
 "also": [],
 "id": "406b817b34f8"
-},
-{
-"title": "Η διαιτητική τριάδα στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης",
-"url": "http://www.sport-fm.gr/article/5162048",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-19T08:43+00:00",
-"sport": "basket",
-"snippet": "Δείτε τους τρεις διαιτητές που θα σφυρίξουν στην αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης, για τη 13η αγωνιστική της Ευρωλίγκας.",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/euroleague/mpelosevits-kai-ntifala-sti-diaititiki-triada-tou-olympiakos-real-madritis/",
-"title": "Μπελόσεβιτς και Ντιφαλά στη διαιτητική τριάδα του Ολυμπιακός – Ρεάλ Μαδρίτης",
-"published": "2026-11-19T09:15+00:00"
-}
-],
-"id": "b9be93da51a7"
-},
-{
-"title": "Πρωινός Τύπος (19/11): «Να σταματήσει το... κρυφτό ο Ολυμπιακός - Αυτό χρειάζεται ο Παναθηναϊκός»",
-"url": "https://www.sdna.gr/podosfairo/1488189_proinos-typos-19/11-na-stamatisei-kryfto-o-olympiakos-ayto-hreiazetai-o",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T08:35+00:00",
-"sport": "football",
-"snippet": "Στις αδυναμίες των Ολυμπιακού και Παναθηναϊκού που εμφανίζουν στη Euroleague στέκεται ο Τύπος, αλλά και στους τραυματισμούς που προκύπτουν στα...",
-"also": [],
-"id": "e48e8399c9fb"
 }
 ]
 }
