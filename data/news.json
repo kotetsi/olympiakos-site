@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-22T08:31:00+00:00",
+"generated_at": "2026-11-22T08:46:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Μονόδρομος» η νίκη κόντρα στον Ηρακλή",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15244991/olympiakos-monodromos-i-niki-kontra-ston-irakli/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T08:38+00:00",
+"sport": "football",
+"snippet": "Οι «ερυθρόλευκοι» προέρχονται από την ισοπαλία 1-1 με τον ΠΑΟΚ στο γήπεδο «Γ. Καραϊσκάκης» και θέλουν να παρουσιάσουν καλύτερο αγωνιστικό πρόσωπο, προκειμένου…",
+"also": [],
+"id": "6bef1aaff5a0"
+},
+{
+"title": "GBL: Που θα δείτε το Καρδίτσα-Ολυμπιακός και το Μύκονος-Βίκος Ιωαννίνων",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2588696/gbl-poy-tha-deite-karditsa-olympiakos-kai-mykonos-bikos-ioanninon",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T08:31+00:00",
+"sport": "basket",
+"snippet": "Που θα δείτε τη μάχη του Ολυμπιακού με την Καρδίτσα και της Μυκόνου με τον Βίκο Ιωαννίνων.",
+"also": [],
+"id": "1ebe4362981d"
+},
 {
 "title": "Super League (11η Αγωνιστική): Δοκιμάζεται με τον ΟΦΗ ο Παναθηναϊκός – Εντός έδρας αναμετρήσεις για Ολυμπιακό και ΠΑΟΚ",
 "url": "https://www.ertsports.gr/super-league/super-league-11i-agonistiki-dokimazetai-me-ton-ofi-o-panathinaikos-entos-edras-anametriseis-gia-olympiako-kai-paok/",
@@ -4981,30 +5005,6 @@
 "snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
 "also": [],
 "id": "7cb3095c2296"
-},
-{
-"title": "Ολυμπιακός: Λείπει ο Μιλουτίνοφ, λείπουν τα ριμπάουντ… Ε, και;",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15238111/olympiakos-leipei-o-miloutinof-leipoun-ta-rimpaount-e-kai/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-18T16:47+00:00",
-"sport": "basket",
-"snippet": "Παρότι οι Πειραιώτες έφυγαν με τη νίκη από την Κύπρο, η συνεισφορά των διαθέσιμων ψηλών του στον τομέα των ριμπάουντ άγγιξε το απόλυτο μηδέν, καθώς οι τρεις…",
-"also": [],
-"id": "bbead0acb806"
-},
-{
-"title": "Άρης: Πρόγραμμα-φωτιά μέχρι το τέλος του 2026 – Ολυμπιακός, Παναθηναϊκός και ΑΕΚ!",
-"url": "https://sportime.gr/podosfairo/aris-programma-fotia-mechri-to-telos-tou-2026-olimpiakos-panathinaikos-ke-aek?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-18T16:27+00:00",
-"sport": "football",
-"snippet": "Ο Άρης έχει μπροστά του ένα ιδιαίτερα δύσκολο πρόγραμμα μέχρι το τέλος του 2026, με ντέρμπι απέναντι σε Ολυμπιακό, Παναθηναϊκό, Ηρακλή και ΑΕΚ.",
-"also": [],
-"id": "5d69b914856b"
 }
 ]
 }
