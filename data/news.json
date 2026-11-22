@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-22T16:34:59+00:00",
+"generated_at": "2026-11-22T16:50:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πρώτη φορά βασικός σε αγώνα πρωταθλήματος ο Λίον Μπέιλι",
+"url": "https://www.sdna.gr/podosfairo/1489338_olympiakos-proti-fora-basikos-se-agona-protathlimatos-o-lion-mpeili",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T16:45+00:00",
+"sport": "football",
+"snippet": "Την πρώτη του συμμετοχή στο αρχικό σχήμα του Ολυμπιακού σε αγώνα της Stoiximan Super League πραγματοποιεί ο Λίον Μπέιλι, στην αναμέτρηση με τον...",
+"also": [],
+"id": "d50d00243d64"
+},
+{
+"title": "Φουρνιέ: Δοκίμασε μπατζίνα μετά το ματς του Ολυμπιακού με την Καρδίτσα",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2588809/foyrnie-dokimase-mpatzina-meta-mats-toy-olympiakoy-me-tin-karditsa",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-22T16:44+00:00",
+"sport": "basket",
+"snippet": "Ο Εβάν Φουρνιέ εκμεταλλεύτηκε το γεγονός ότι έπαιξε ο Ολυμπιακός στην Καρδίτσα και δοκίμασε μετά το ματς παραδοσιακή μπατζίνα.",
+"also": [],
+"id": "f9c918dd1339"
+},
+{
+"title": "Ολυμπιακός Β - Απόλλων Καλαμαριάς 1-1",
+"url": "https://www.sdna.gr/podosfairo/1489336_olympiakos-b-apollon-kalamarias-1-1",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T16:38+00:00",
+"sport": "football",
+"snippet": "Ολυμπιακός Β' και Απόλλων Καλαμαριάς αναδείχθηκαν ισόπαλοι με 1-1 για τη 12η αγωνιστική της Super League 2, με τις δύο ομάδες να παραμένουν χωρίς...",
+"also": [],
+"id": "1a476baf9456"
+},
+{
+"title": "Νικηφόρο πέρασμα και για τους Έφηβους",
+"url": "https://www.olympiacos.org/2026/11/22/nikiforo-perasma-kai-gia-tous-efivous/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-22T16:35+00:00",
+"sport": "general",
+"snippet": "Η Κ17 του Ολυμπιακού νίκησε με 2-4 τον Ηρακλή στη Θεσσαλονίκη.",
+"also": [],
+"id": "63e51d96ce37"
+},
+{
+"title": "«Διπλό» στη Θεσσαλονίκη οι Παίδες",
+"url": "https://www.olympiacos.org/2026/11/22/diplo-sti-thessaloniki-oi-paides/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-22T16:33+00:00",
+"sport": "general",
+"snippet": "Η Κ15 του Ολυμπιακού νίκησε με 0-1 τον Ηρακλή εκτός έδρας.",
+"also": [],
+"id": "b806d0c958c4"
+},
+{
+"title": "Η μάχη του Ηρακλή με τον Ολυμπιακό στο «Γεώργιος Καραϊσκάκης»",
+"url": "https://www.metrosport.gr/i-machi-toy-irakli-me-ton-olympiako-sto-georgios-karaiskakis-1334497",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-22T16:30+00:00",
+"sport": "football",
+"snippet": "Ο Ηρακλής αντιμετωπίζει απόψε τον Ολυμπιακό (22/11, 19:00) στο «Γεώργιος Καραϊσκάκης, στο πλαίσιο της 11ης αγωνιστικής της Stoiximan Super ...",
+"also": [],
+"id": "80040fb24a12"
+},
 {
 "title": "Ολυμπιακός: Βασικός ο Σιπιόνι με Ηρακλή!",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245664/olympiakos-vasikos-o-sipioni-me-irakli/",
@@ -83,7 +155,15 @@
 "published": "2026-11-22T16:10+00:00",
 "sport": "football",
 "snippet": "Μεγάλη εκτός έδρας νίκη με 0-1 επί του Αστέρα Τρίπολης πανηγύρισε ο ΠΑΟΚ, στο πλαίσιο της 8ης αγωνιστικής της Women’s Football League, στο Γήπεδο...",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/super-league/live-olympiakos-iraklis-audio/",
+"title": "Live: Ολυμπιακός – Ηρακλής (audio)",
+"published": "2026-11-22T16:45+00:00"
+}
+],
 "id": "9efaa4c7e089"
 },
 {
@@ -159,6 +239,18 @@
 "id": "85f4b8fa2281"
 },
 {
+"title": "Με Σιπιόνι για πρώτη φορά βασικό στο Καραϊσκάκη η ενδεκάδα του Ολυμπιακού",
+"url": "https://www.sdna.gr/podosfairo/1489325_me-sipioni-gia-proti-fora-basiko-sto-karaiskaki-i-endekada-toy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T16:02+00:00",
+"sport": "football",
+"snippet": "Δείτε τους 11 που επέλεξε ο Ιμανόλ Αλγκουαθίλ για το παιχνίδι του Ολυμπιακού με τον Ηρακλή για την 11η αγωνιστική της Stoiximan Super League.",
+"also": [],
+"id": "4776845cd7c0"
+},
+{
 "title": "Η ενδεκάδα του Ολυμπιακού κόντρα στον Ηρακλή",
 "url": "https://www.ertsports.gr/omades/olympiakos/i-endekada-tou-olympiakou-kontra-ston-irakli/",
 "source": "ertsports",
@@ -179,7 +271,7 @@
 "id": "dbee417ac48d"
 },
 {
-"title": "Τζόσεφ: Ρεκόρ με τον Ολυμπιακο σε ματς που “Ξέραμε πως δε θα ήταν εύκολο να νικήσουμε, αλλά είμαστε έμπειροι”",
+"title": "Τζόσεφ: Ρεκόρ με τον Ολυμπιακό σε ματς που “Ξέραμε πως δε θα ήταν εύκολο να νικήσουμε, αλλά είμαστε έμπειροι”",
 "url": "https://www.eurohoops.net/el/heba-el/2039208/rekor-tzosef-ston-olimpiako-xerame-pos-de-tha-itan-efkolo-alla-imaste-empiri-pektes/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
@@ -4906,98 +4998,6 @@
 "snippet": "Όπως μεταδίδουν οι Ιταλοί, ο Μάικ Μενιάν ξεπέρασε το πρόβλημα τραυματισμού του και είναι άμεσα διαθέσιμος στη Μίλαν. Τι συμβαίνει με τους υπόλοιπους τραυματίες.",
 "also": [],
 "id": "9754246790ad"
-},
-{
-"title": "Ολυμπιακός: Συναγερμός στη μεσαία γραμμή, νοκ άουτ και ο Τσικίνιο",
-"url": "https://www.ertsports.gr/super-league/olympiakos-synagermos-sti-mesaia-grammi-nok-aout-kai-o-tsikinio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-19T12:31+00:00",
-"sport": "football",
-"snippet": "Μεγάλο πλήγμα για τον Ολυμπιακό, καθώς ο Τσικίνιο στάθηκε άτυχος στην προπόνηση και υπέστη κάταγμα στο μετατάρσιο, με αποτέλεσμα να τεθεί εκτός αγωνιστικής…",
-"also": [],
-"id": "565b47352153"
-},
-{
-"title": "Ολυμπιακός: Μεγάλο πλήγμα με τον Τσικίνιο",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15239212/olympiakos-megalo-pligma-me-ton-tsikinio/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T12:22+00:00",
-"sport": "football",
-"snippet": "Συγκεκριμένα, ο Πορτογάλος παίκτης υπέστη κάταγμα στο μετατάρσιο, κατά τη διάρκεια της προπόνησης της Πέμπτης. Οι πρώτες εκτιμήσεις κάνουν λόγο για απουσία από…",
-"also": [],
-"id": "453d77d2c085"
-},
-{
-"title": "Ολυμπιακός: Νέο σοκ με Τσικίνιο – Μένει δυο μήνες εκτός! Μεγάλη η «τρυπά» στα χαφ",
-"url": "https://sportday.gr/podosfairo/365804_olympiakos-neo-sok-me-tsikinio-menei-dyo-mines-ektos-megali-i-trypa-sta-chaf.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-19T12:18+00:00",
-"sport": "football",
-"snippet": "Η ατυχία ξαναχτύπησε τον Ολυμπιακό, με τον Τσικίνιο να τραυματίζεται σοβαρά στην προπόνηση.",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/olympiakos-neo-sok-ektos-gia-2-mines-o-tsikinio-1334129",
-"title": "Ολυμπιακός-Νέο σοκ: Εκτός για δύο μήνες ο Τσικίνιο",
-"published": "2026-11-19T12:50+00:00"
-}
-],
-"id": "c30126b623a5"
-},
-{
-"title": "Νέο πλήγμα στον Ολυμπιακό: Κάταγμα ο Τσικίνιο!",
-"url": "https://www.gazzetta.gr/football/superleague/2587897/nikolakopoylos-stoys-galacticos-katagma-o-tsikinio",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-19T12:18+00:00",
-"sport": "football",
-"snippet": "Σοκ στον Ολυμπιακό με Τσικίνιο! Όπως μετέδωσε ο Κώστας Νικολακόπουλος στους Galacticos by Elabet, ο χαφ των Πειραιωτών υπέστη κάταγμα στο μετατάρσιο και…",
-"also": [],
-"id": "57d31c6c02d2"
-},
-{
-"title": "Απίστευτη γκίνια στον Ολυμπιακό – Νοκ άουτ και ο Τσικίνιο για 2 μήνες",
-"url": "http://www.sport-fm.gr/article/5162085",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-19T12:15+00:00",
-"sport": "general",
-"snippet": "Ο Κώστας Νικολακόπουλος μετέφερε στον bwinΣΠΟΡ FM 94,6 ότι ο Τσικίνιο υπέστη κάταγμα στο μετατάρσιο κατά τη διάρκεια της προπόνησης του Ολυμπιακού και θα…",
-"also": [],
-"id": "9a190977f7a1"
-},
-{
-"title": "Διαπιστεύσεις ΜΜΕ για τον αγώνα του Ολυμπιακού Κ23 με τον Απόλλωνα Καλαμαριάς",
-"url": "https://www.olympiacos.org/2026/11/19/diapisteyseis-mme-gia-ton-agona-tou-olympiakou-k23-me-ton-apollona-kalamarias/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-19T12:13+00:00",
-"sport": "general",
-"snippet": "Ενημέρωση της Διεύθυνσης Επικοινωνίας της ΠΑΕ Ολυμπιακός για την αναμέτρηση με τον Απόλλωνα Καλαμαριάς.",
-"also": [],
-"id": "110b6f643a45"
-},
-{
-"title": "Νέο σοκ στον Ολυμπιακό, νοκ άουτ ο Τσικίνιο για 2-2,5 μήνες!",
-"url": "https://www.sdna.gr/podosfairo/1488242_neo-sok-ston-olympiako-nok-aoyt-o-tsikinio-gia-2-25-mines",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-19T12:13+00:00",
-"sport": "football",
-"snippet": "Δεν έχει τέλος η κακοδαιμονία στον Ολυμπιακό, καθώς μπαίνει στα \"πιτς\" και ο Τσικίνιο με κάταγμα στο μετατάρσιο.",
-"also": [],
-"id": "700287d32eff"
 }
 ]
 }
