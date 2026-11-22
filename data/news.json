@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-22T19:36:31+00:00",
+"generated_at": "2026-11-22T19:51:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Σιπιόνι: «Πολύ χαρούμενος που επιβραβεύτηκε η δουλειά μου»",
+"url": "https://www.sdna.gr/podosfairo/1489397_sipioni-poly-haroymenos-poy-epibrabeytike-i-doyleia-moy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-22T19:41+00:00",
+"sport": "football",
+"snippet": "Ο Λορέντζο Σιπιόνι μίλησε για το β’ ημίχρονο του Ολυμπιακού και για το πρώτο του γκολ με τα «ερυθρόλευκα».",
+"also": [],
+"id": "c382546a4325"
+},
+{
+"title": "Έκρηξη Καραπαπά: «Καθαρή κόκκινη στον Παναθηναϊκό που δεν δίνεται – Ο Ολυμπιακός παίζει με διαφορετικούς όρους και κανονισμούς»",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246418/ekriksi-karapapa-kathari-kokkini-ston-panathinaiko-pou-den-dinetai-o-olympiakos-paizei-me-diaforetikous-orous-kai-kanonismous/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-22T19:36+00:00",
+"sport": "football",
+"snippet": "Μετά την ανάρτηση στα social media ο Κώστας Καραπαπάς τοποθετήθηκε μετά τη λήξη του αγώνα Ολυμπιακός – Ηρακλής για την κόκκινη κάρτα που δεν αντίκρισε ο…",
+"also": [],
+"id": "86ce1648a156"
+},
+{
+"title": "Η αντίδραση στα γκολ του Ηρακλή και το σόου Μπέιλι: Tα highlights της εξάρας του Ολυμπιακού",
+"url": "http://www.sport-fm.gr/article/5162825",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-22T19:34+00:00",
+"sport": "football",
+"snippet": "Δείτε τα highlights από την ευρεία νίκη του Ολυμπιακού με σκορ 6-2 απέναντι στον Ηρακλή.",
+"also": [],
+"id": "851fe5dbe0dc"
+},
 {
 "title": "Βαθμολογία Super League: Οι θέσεις των Παναθηναϊκού, Ολυμπιακού, ΑΕΚ και ΠΑΟΚ",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245985/vathmologia-super-league-oi-theseis-ton-panathinaikou-olympiakou-aek-kai-paok/",
@@ -4959,42 +4995,6 @@
 "snippet": "Η Παρτίζαν ξεκαθάρισε πως ο Κάρλικ Τζόουνς δεν έχει ρήτρα και δεν πωλείται. Τι ειπώθηκε για τον Ολυμπιακό και γιατί οι φήμες δεν αρκούν για ενίσχυση.",
 "also": [],
 "id": "7711c0c2f7cf"
-},
-{
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (20/11): Πού θα δούμε το Ολυμπιακός-Ρεάλ",
-"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1488499_oi-athlitikes-metadoseis-tis-imeras-20/11-poy-tha-doyme",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T05:34+00:00",
-"sport": "basket",
-"snippet": "Το ντέρμπι του Ολυμπιακού με τη Ρεάλ Μαδρίτης για την Euroleague ξεχωρίζει στις αθλητικές μεταδόσεις της Παρασκευής (20/11).",
-"also": [],
-"id": "958aae870a60"
-},
-{
-"title": "Η Α1 κατηγορία επανέρχεται με δύο ντέρμπι του Ολυμπιακού στις γυναίκες απέναντι σε ΑΕΚ και Παναθηναϊκό",
-"url": "https://www.novasports.gr/sport/alla-spor/event/europi-alla-spor/article/15240131/i-a1-katigoria-epanerxetai-me-dyo-ntermpi-tou-olympiakou-stis-gynaikes-apenanti-se-aek-kai-panathinaiko/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-19T23:00+00:00",
-"sport": "general",
-"snippet": "Ξανά στην Αθήνα, αυτή τη φορά στο Βυζαντινό Αθλητικό Κέντρο, στον Άλιμο, θα συγκεντρωθούν το προσεχές Σαββατοκύριακο 21 και 22/11 οι οκτώ ομάδες της Α1 ανδρών…",
-"also": [],
-"id": "81d184ce99a7"
-},
-{
-"title": "Το συγκινητικό μήνυμα του Τσικίνιο που μπαίνει την Παρασκευή (20/11) για χειρουργείο",
-"url": "https://www.ertsports.gr/omades/olympiakos/to-sygkinitiko-minyma-tou-tsikinio-pou-mpainei-tin-paraskeyi-20-11-gia-xeirourgeio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-19T22:59+00:00",
-"sport": "football",
-"snippet": "Σε χειρουργική επέμβαση θα υποβληθεί το πρωί της Παρασκευής (20/11) ο Τσικίνιο, προκειμένου να αντιμετωπιστεί το κάταγμα στο μετατάρσιο που υπέστη κατά τη…",
-"also": [],
-"id": "ab778bec8486"
 }
 ]
 }
