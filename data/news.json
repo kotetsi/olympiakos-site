@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-22T21:22:28+00:00",
+"generated_at": "2026-11-22T21:37:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αλγουαθίλ: «Στο δεύτερο ημίχρονο είδαμε τον Ολυμπιακό που θέλουμε» - H ενημέρωση για Μπέιλι",
+"url": "http://www.sport-fm.gr/article/5162854",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-22T21:30+00:00",
+"sport": "general",
+"snippet": "Όσα δήλωσε ο Ιμανόλ Αλγουαθίλ στη συνέντευξη Τύπου μετά τη νίκη του Ολυμπιακού επί του Ηρακλή.",
+"also": [],
+"id": "d2c7300c6726"
+},
 {
 "title": "Η… κατσάδα στον Ολυμπιακό και οι δύο μεταγραφές έκπληξη",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1489420_i-katsada-ston-olympiako-kai-oi-dyo-metagrafes-ekplixi",
@@ -4983,18 +4995,6 @@
 "snippet": "Τη Ρεάλ Μαδρίτης υποδέχεται ο Ολυμπιακός στη Sunel Arena απόψε (20/11, 21:15, Novasports Prime) για τη 13η αγωνιστική της Euroleague. Οι ...",
 "also": [],
 "id": "6ccd4d3037a5"
-},
-{
-"title": "Φελίζ: Οι δηλώσεις του ενόψει Ολυμπιακού",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588135/feliz-oi-diloseis-toy-enopsei-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T09:08+00:00",
-"sport": "basket",
-"snippet": "Ο Αντρές Φελίζ πραγματοποίησε δηλώσεις ενόψει της αναμέτρησης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης και μεταξύ άλλων αναφέρθηκε για το μέλλον του.",
-"also": [],
-"id": "e1bacbc10796"
 }
 ]
 }
