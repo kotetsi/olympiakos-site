@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T16:02:22+00:00",
+"generated_at": "2026-11-23T16:17:32+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μπέιλι ’26 όπως Ζέλσον ’24!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247753/olympiakos-mpeili-26-opos-zelson-24/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T16:14+00:00",
+"sport": "football",
+"snippet": "Ο Λίον Μπέιλι προστέθηκε στη λίστα των άτυχων του Ολυμπιακού, καθώς υπέστη θλάση στον δικέφαλο μηριαίο του δεξιού του ποδιού κατά τη διάρκεια της αναμέτρησης…",
+"also": [],
+"id": "0ec496d34905"
+},
+{
+"title": "Γ. Βρούτσης: «Επίσημα το Υπουργείο μας διαχειριστής του Ολυμπιακού Κωπηλατοδρομίου Σχινιά»",
+"url": "https://www.gazzetta.gr/kopilasia/2589130/g-broytsis-episima-ypoyrgeio-mas-diaheiristis-toy-olympiakoy-kopilatodromioy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-23T16:07+00:00",
+"sport": "general",
+"snippet": "Στο Υπουργείο Παιδείας, Θρησκευμάτων και Αθλητισμού ανατέθηκε επίσημα η διαχείριση του Ολυμπιακού Κωπηλατοδρομίου Σχινιά.",
+"also": [],
+"id": "8ef12a7ecdc0"
+},
 {
 "title": "Euroleague: Νέα ημερομηνία για το Ολυμπιακός – Παρί",
 "url": "https://www.ertsports.gr/mpasket/euroleague-nea-imerominia-gia-to-olympiakos-pari/",
@@ -5010,30 +5034,6 @@
 "snippet": "Ο Ολυμπιακός χτυπήθηκε αλύπητα από μαζεμένες ατυχίες τις τελευταίες ημέρες και ο Δημήτρης Τομαράς γράφει για τις πρώτες αντιδράσεις του Αλγκουαθίλ αλλά και τον…",
 "also": [],
 "id": "f0ca27d8dc19"
-},
-{
-"title": "Τσέλσι: Ο θρύλος του NFL, Τομ Μπρέιντι σε συζητήσεις για αγορά μετοχών",
-"url": "https://www.gazzetta.gr/football/premier-league/2588324/tselsi-o-thrylos-toy-nfl-tom-mpreinti-se-syzitiseis-gia-agora",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T17:42+00:00",
-"sport": "football",
-"snippet": "Όπως μεταδίδουν στην Αγγλία, ο Τομ Μπρέιντι βρίσκεται σε συζητήσεις για την αγορά μετοχών της Τσέλσι.",
-"also": [],
-"id": "8a9adbc0b8ba"
-},
-{
-"title": "Ολυμπιακός: Δεν ζητάει αναβολή με Άρη",
-"url": "https://www.gazzetta.gr/football/superleague/2588323/olympiakos-den-zitaei-anaboli-me-ari",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T17:40+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός σύμφωνα με το ρεπορτάζ και τις τελευταίες πληροφορίες θα παίξει κανονικά το εκτός έδρας παιχνίδι με αντίπαλο τον Άρη την επόμενη Κυριακή.",
-"also": [],
-"id": "25680640d27a"
 }
 ]
 }
