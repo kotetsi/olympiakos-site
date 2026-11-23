@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T12:15:17+00:00",
+"generated_at": "2026-11-23T12:30:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το χρονικό διάστημα της απουσίας του Μπέιλι",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247365/olympiakos-to-xroniko-diastima-tis-apousias-tou-mpeili/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T12:27+00:00",
+"sport": "football",
+"snippet": "Ο Τζαμαϊκανός παίκτης τραυματίστηκε στην αναμέτρηση του Ολυμπιακού με τον Ηρακλή και θα χάσει τις επόμενες αναμετρήσεις των Πειραιωτών, σε Ελλάδα και Ευρώπη…",
+"also": [],
+"id": "a790ecd57041"
+},
 {
 "title": "Nova TV: EuroLeague με Βαλένθια – Παναθηναϊκός AKTOR, Ολυμπιακός – Χάποελ Τελ Αβιβ στο παρκέ του Novasports!",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15247246/nova-tv-euroleague-me-valenthia-panathinaikos-aktor-olympiakos-xapoel-tel-aviv-sto-parke-tou-novasports/",
@@ -5014,18 +5026,6 @@
 "snippet": "Ο Ολυμπιακός νίκησε με 40-29 τη Δράμα στο κλειστό της Ηλιούπολης, στο πλαίσιο της 9ης αγωνιστικής της Handball Premier, διατηρώντας το αήττητο και...",
 "also": [],
 "id": "5a2e4f386b9a"
-},
-{
-"title": "Τιμωρία με χρηματικό πρόστιμο για τον Γιώργο Μπαρτζώκα για όσα συνέβησαν στο παιχνίδι με τον Άρη",
-"url": "https://www.ertsports.gr/mpasket/gbl/timoria-me-xrimatiko-prostimo-gia-ton-giorgo-mpartzoka-gia-osa-synevisan-sto-paixnidi-me-ton-ari/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-20T15:24+00:00",
-"sport": "basket",
-"snippet": "Ο Αθλητικός Δικαστής του ΕΣΑΚΕ επέβαλε πρόστιμο έξι χιλιάδων ευρώ στον Γιώργο Μπαρτζώκα και τριών χιλιάδων ευρώ στον Ολυμπιακό, για υβριστική συμπεριφορά στον…",
-"also": [],
-"id": "54c1d114e03d"
 }
 ]
 }
