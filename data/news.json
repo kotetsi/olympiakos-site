@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T10:29:23+00:00",
+"generated_at": "2026-11-23T10:44:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι δηλώσεις του Αμορίμ για τον Ολυμπιακό: «Ένα πράγμα θα πω για αυτόν τον αγώνα...»",
+"url": "https://www.gazzetta.gr/football/europa-league/2589053/oi-diloseis-toy-amorim-gia-ton-olympiako-ena-pragma-tha-po-gia-ayton",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-23T10:40+00:00",
+"sport": "football",
+"snippet": "Ο Ρούμπεν Αμορίμ μίλησε για το παιχνίδι με τον Ολυμπιακό και ήταν ξεκάθαρος στο θέμα της νίκης στο Φάληρο.",
+"also": [],
+"id": "7f955cad6ef8"
+},
 {
 "title": "Ηρακλής: Εξετάσεις για τους Μπάρσενας και Μάρκες",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247276/iraklis-eksetaseis-gia-tous-mparsenas-kai-markes/",
@@ -5006,18 +5018,6 @@
 "snippet": "Με πρόστιμο 6.000 ευρώ τιμωρήθηκε ο Γιώργος Μπαρτζώκας για τη συμπεριφορά του με τον Άρη, ενώ η ΚΑΕ Ολυμπιακός καλείται να πληρώσει επιπλέον 3.000 ευρώ, μετά…",
 "also": [],
 "id": "ce06fa7cc338"
-},
-{
-"title": "Ολυμπιακός: Ο Μιλουτίνοφ αμφίβολος και ο Ταβάρες δεν είναι ο μόνος μπελάς",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-miloutinof-amfivolos-ke-o-tavares-den-ine-o-monos-belas?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T14:42+00:00",
-"sport": "general",
-"snippet": "Ο Μιλουτίνοφ παραμένει αμφίβολος και η Ρεάλ δεν απειλεί μόνο με τον Ταβάρες. Το επίσημο στοιχείο που αλλάζει την ανάγνωση του αγώνα του Ολυμπιακού.",
-"also": [],
-"id": "1a31c658beca"
 }
 ]
 }
