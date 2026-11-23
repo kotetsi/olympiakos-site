@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T14:31:32+00:00",
+"generated_at": "2026-11-23T14:46:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αλλαγή ημερομηνίας στο Ολυμπιακός - Παρί",
+"url": "https://www.sdna.gr/mpasket/1489672_allagi-imerominias-sto-olympiakos-pari",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T14:35+00:00",
+"sport": "basket",
+"snippet": "Σε νέα ημερομηνία θα διεξαχθεί η αναμέτρηση του Ολυμπιακού κόντρα στην Παρί, καθώς το παιχνίδι θα διεξαχθεί στις 26 Ιανουαρίου, αντί για τις 15 του...",
+"also": [],
+"id": "ed9149bfb231"
+},
+{
+"title": "Γιατί ο Γιώργος Πρίντεζης είπε πως ο Ολυμπιακός δεν πρέπει να πουλήσει τον Ντόρσεϊ στον ΠΑΟΚ",
+"url": "https://sportime.gr/basket/giati-o-giorgos-printezis-ipe-pos-o-olimpiakos-den-prepi-na-poulisi-ton-ntorsei-ston-paok?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-23T14:26+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Πρίντεζης εξήγησε γιατί ο Ολυμπιακός δεν πρέπει να παραχωρήσει τον Τάιλερ Ντόρσεϊ, αναφέροντας ως παράδειγμα το ενδιαφέρον του ΠΑΟΚ.",
+"also": [],
+"id": "d6a6147a2121"
+},
 {
 "title": "Αμορίμ ενόψει Ολυμπιακού: «Αν δεν προκριθούμε, θα έχουμε αποτύχει σε έναν σημαντικό στόχο»",
 "url": "https://www.sdna.gr/podosfairo/1489657_amorim-enopsei-olympiakoy-den-prokrithoyme-tha-ehoyme-apotyhei-se-enan-simantiko",
@@ -5002,30 +5026,6 @@
 "snippet": "Χωρίς εκπλήξεις, όπως αναμενόταν, είναι η 12άδα που επέλεξε ο Γιώργος Μπαρτζώκας στο παιχνίδι της 13ης αγωνιστικής της EuroLeague με αντίπαλο τη Ρεάλ Μαδρίτης…",
 "also": [],
 "id": "44c0641479c7"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Με την ίδια συνταγή όπως στη Μακάμπι",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588315/olympiakos-real-madritis-me-tin-idia-syntagi-opos-sti-makampi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T16:39+00:00",
-"sport": "basket",
-"snippet": "Δείτε τους δώδεκα παίκτες που επέλεξε ο Γιώργος Μπαρτζώκας για την αναμέτρηση του Ολυμπιακού με τη Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "42cb83df05be"
-},
-{
-"title": "Γιαννακόπουλος για το πρόστιμο σε Μπαρτζώκα και Ολυμπιακό: «Ποιος να το πίστευε...»",
-"url": "http://www.sport-fm.gr/article/5162352",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T16:36+00:00",
-"sport": "general",
-"snippet": "Ο Δημήτρης Γιαννακόπουλος αντέδρασε στο πρόστιμο που δέχθηκαν ο Γιώργος Μπαρτζώκας και η ΚΑΕ Ολυμπιακός από τον Αθλητικό Δικαστή του ΕΣΑΚΕ.",
-"also": [],
-"id": "4073e13e87cc"
 }
 ]
 }
