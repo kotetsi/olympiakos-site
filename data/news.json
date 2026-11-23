@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T17:48:25+00:00",
+"generated_at": "2026-11-23T18:03:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μια εικόνα… 350 λέξεις!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247919/olympiakos-mia-eikona-350-lekseis/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T18:00+00:00",
+"sport": "football",
+"snippet": "Η νίκη του Ολυμπιακού 6-2 επί του Ηρακλή είχε γκολ, ανατροπή και αρκετές φάσεις, όμως ας σταθούμε στη μέση θέση των βασικών παικτών του Ολυμπιακού στο γήπεδο!…",
+"also": [],
+"id": "4194ab7c6c0a"
+},
 {
 "title": "Αμορίμ για το ματς με τον Ολυμπιακό: «Πρέπει να κερδίσουμε»",
 "url": "https://sportday.gr/podosfairo/366280_amorim-gia-to-mats-me-ton-olympiako-prepei-na-kerdisoume.html",
@@ -340,7 +352,7 @@
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
-"published": "2026-11-23T11:41+00:00",
+"published": "2026-11-23T11:39+00:00",
 "sport": "basket",
 "snippet": "O Τάιλερ Ντόρσεϊ συμμετείχε στην πρώτη προπόνηση της Εθνικής ομάδας ενόψει της κρίσιμης αναμέτρησης της Ελλάδας με τη Γεωργία (Πέμπτη 26/11, 20:00) στο ΟΑΚΑ…",
 "also": [],
@@ -5022,18 +5034,6 @@
 "snippet": "",
 "also": [],
 "id": "3fef66d78090"
-},
-{
-"title": "Ολυμπιακός: Δεν θέλει αναβολή με Άρη ο Ιμανόλ παρά τις απώλειες Τσικίνιο, Πουέρτα και Έσε!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15241785/olympiakos-den-thelei-anavoli-me-ari-o-imanol-para-tis-apoleies-tsikinio-pouerta-kai-ese/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T18:44+00:00",
-"sport": "football",
-"snippet": "Με ξεκάθαρη φιλοσοφία πνευματικής ετοιμότητας και χωρίς διάθεση αλλαγής του αγωνιστικού ρυθμού αντιμετωπίζει ο Ιμανόλ Αλγκουαθίλ το κύμα τραυματισμών που…",
-"also": [],
-"id": "e3444ac05399"
 }
 ]
 }
