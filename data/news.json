@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T08:28:18+00:00",
+"generated_at": "2026-11-23T08:43:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ανακοίνωση για τη διάθεση των εισιτηρίων για τον αγώνα Ολυμπιακός – AC Milan",
+"url": "https://www.olympiacos.org/2026/11/23/anakoinosi-gia-ti-diathesi-ton-eisitirion-gia-ton-agona-olympiakos-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-23T08:33+00:00",
+"sport": "general",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τα εισιτήρια του αγώνα με την AC Milan.",
+"also": [],
+"id": "1ed7f85d982d"
+},
+{
+"title": "Ολυμπιακός: Έχει χτίσει παράδοση με τον Ηρακλή",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247160/olympiakos-exei-xtisei-paradosi-me-ton-irakli/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T08:29+00:00",
+"sport": "football",
+"snippet": "Οι «ερυθρόλευκοι» είχαν επικρατήσει το 1964 με 8-2, με τον Γιώργο Σιδέρη να σημειώνει τέσσερα γκολ. Το 1967 είχαν επικρατήσει των «κυανόλευκων» με 6-0 εντός…",
+"also": [],
+"id": "df71834d5db5"
+},
 {
 "title": "WPL Ανδρών: «Διπλό» του ΠΑΟΚ, νίκες για Παναθηναϊκό και Ολυμπιακό – Αποτελέσματα και βαθμολογία",
 "url": "https://www.sdna.gr/polo/1489540_wpl-andron-diplo-toy-paok-nikes-gia-panathinaiko-kai-olympiako-apotelesmata-kai",
@@ -5002,30 +5026,6 @@
 }
 ],
 "id": "6338eadb3388"
-},
-{
-"title": "Το πρόγραμμα της 5ης αγωνιστικής του Κυπέλλου Ελλάδας – Πότε διεξάγεται το Ολυμπιακός – Παναθηναϊκός",
-"url": "https://www.ertsports.gr/podosfairo/to-programma-tis-5is-agonistikis-tou-kypellou-elladas-pote-dieksagetai-to-olympiakos-panathinaikos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-20T12:00+00:00",
-"sport": "football",
-"snippet": "Η ΕΠΟ ανακοίνωσε σήμερα (20/11) το πρόγραμμα της 5ης και τελευταίας αγωνιστικής της League Phase του Κυπέλλου Ελλάδας. The post Το πρόγραμμα της 5ης…",
-"also": [],
-"id": "dc33dc3cf652"
-},
-{
-"title": "Αρναούτογλου στο Gazzetta Magazino: «Η αναβολή βολεύει και την ΑΕΚ, οχι μόνο τον Ολυμπιακό»",
-"url": "https://www.gazzetta.gr/football/superleague/2588160/arnaoytogloy-sto-gazzetta-magazino-i-anaboli-boleyei-kai-tin-aek-ohi",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T11:50+00:00",
-"sport": "football",
-"snippet": "Ο Βαγγέλης Αρναούτογλου υποστήριξε στο Gazzetta Magazino ότι μια τυχόν αναβολή στο Ολυμπιακός - ΑΕΚ θα βόλευε και την Ένωση.",
-"also": [],
-"id": "d5d9ecaf4c87"
 }
 ]
 }
