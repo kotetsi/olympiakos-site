@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T19:34:25+00:00",
+"generated_at": "2026-11-23T19:49:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τσορμπατζόγλου: «Άσχημο αυτό που συμβαίνει με τον Τάισον, άλλα έχει την ευθύνη - Το σκηνικό πριν τον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5163062",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-23T19:41+00:00",
+"sport": "general",
+"snippet": "Τη συμμετοχή του Τάισον στον ΠΑΟΚ Β' και τα τελευταία νέα των «ασπρόμαυρων» μετέφερε στον bwinΣΠΟΡ FM 94,6 ο Δημήτρης Τσορμπατζόγλου.",
+"also": [],
+"id": "1a3c6d7dfd64"
+},
+{
+"title": "ΠΑΟΚ-Ολυμπιακός: Σε κυκλοφορία τα εισιτήρια για το μεγάλο ντέρμπι",
+"url": "https://www.metrosport.gr/paok-olympiakos-se-kykloforia-ta-eisitiria-gia-to-megalo-ntermpi-sto-paok-sports-arena-1334624",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-23T19:35+00:00",
+"sport": "general",
+"snippet": "Μεγάλη αναμέτρηση περιμένει τον ΠΑΟΚ mαteco, ο οποίος υποδέχεται τον Ολυμπιακό το Σάββατο (28/11) στις 19:00, στο PAOK Sports Arena, για την...",
+"also": [],
+"id": "d4028078970c"
+},
 {
 "title": "Ανοιχτή γραμμή Ολυμπιακού - ΠΑΟΚ για Ντόρσεϊ, στην τελική ευθεία και του Άντερσον",
 "url": "https://www.sdna.gr/mpasket/1489747_anoihti-grammi-olympiakoy-paok-gia-ntorsei-stin-teliki-eytheia-kai-toy-anterson",
@@ -4988,52 +5012,6 @@
 "snippet": "Ο Τάιλερ Ντόρσεϊ μπορεί να μην υπολογίζεται ούτε για το ματς του Ολυμπιακού με τη Ρεάλ, αλλά είναι παρών στη SUNEL Arena, παίρνοντας θέση δίπλα στον πάγκο.",
 "also": [],
 "id": "836544db83c6"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Στο πλευρό των «ερυθρόλευκων» ο Ντόρσεϊ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588336/olympiakos-real-madritis-sto-pleyro-ton-erythroleykon-o-ntorsei",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T19:10+00:00",
-"sport": "basket",
-"snippet": "Μπορεί να μη βρίσκεται στη δωδεκάδα, ωστόσο ο Τάιλερ Ντόρσεϊ βρίσκεται στο πλευρό του Ολυμπιακού για την αναμέτρηση με τη Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "9fe937d44bd0"
-},
-{
-"title": "Ολυμπιακός: Στη Sunel Arena ο Ντόρσεϊ",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15241886/olympiakos-sti-sunel-arena-o-ntorsei/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T19:10+00:00",
-"sport": "basket",
-"snippet": "Ο διεθνής γκαρντ του Ολυμπιακού επέλεξε να βρεθεί δίπλα στους συμπαίκτες του, παρότι ο Γιώργος Μπαρτζώκας τον άφησε εκτός αποστολής από την αποψινή αναμέτρηση…",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1488726_stin-sunel-arena-gia-olympiakos-real-o-tailer-ntorsei",
-"title": "Στην Sunel Arena για το Ολυμπιακός - Ρεάλ ο Τάιλερ Ντόρσεϊ",
-"published": "2026-11-20T19:12+00:00"
-},
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/sti-sunel-arena-gia-to-olympiakos-real-o-tailer-ntorsei/",
-"title": "Στη SUNEL Arena για το Ολυμπιακός – Ρεάλ ο Τάιλερ Ντόρσεϊ",
-"published": "2026-11-20T19:31+00:00"
-},
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/basket/365954_olympiakos-entoni-gioucha-ston-ntorsei-sti-sunel-arena.html",
-"title": "Ολυμπιακός: Έντονη γιούχα στον Ντόρσεϊ στη Sunel Arena!",
-"published": "2026-11-20T19:40+00:00"
-}
-],
-"id": "ad237741ce9e"
 }
 ]
 }
