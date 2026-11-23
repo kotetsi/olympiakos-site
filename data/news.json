@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T08:43:31+00:00",
+"generated_at": "2026-11-23T08:58:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Handball Premier: Νίκες για ΑΕΚ και ΠΑΟΚ, στην κορυφή ο Ολυμπιακός",
+"url": "https://www.sdna.gr/hantmpol/1489542_handball-premier-nikes-gia-aek-kai-paok-stin-koryfi-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T08:52+00:00",
+"sport": "handball",
+"snippet": "Ο ΠΑΟΚ πανηγύρισε σημαντική εκτός έδρας νίκη επί του Αθηναϊκού με 38-16 για την 9η αγωνιστική της Handball Premier, ενώ η ΑΕΚ επικράτησε με το...",
+"also": [],
+"id": "dbd5aed05900"
+},
+{
+"title": "Παναθηναϊκός - Ολυμπιακός έτοιμοι για σκληρές μάχες και ΠΑΟΚ το αφεντικό! | Gazz Floor by Novibet",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2589022/panathinaikos-olympiakos-etoimoi-gia-sklires-mahes-kai-paok",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-23T08:44+00:00",
+"sport": "basket",
+"snippet": "Συντονιστείτε στις 11:00 στο Gazz Floor by Novibet για όλο το ρεπορτάζ από το ντέρμπι της Θεσσαλονικής, αλλά και για όλα τα νέα των αιωνιών που είναι έτοιμοι…",
+"also": [],
+"id": "d9a41d2b96db"
+},
 {
 "title": "Ανακοίνωση για τη διάθεση των εισιτηρίων για τον αγώνα Ολυμπιακός – AC Milan",
 "url": "https://www.olympiacos.org/2026/11/23/anakoinosi-gia-ti-diathesi-ton-eisitirion-gia-ton-agona-olympiakos-ac-milan/",
@@ -4994,38 +5018,6 @@
 "snippet": "Με απόφαση του Υπουργείου Αθλητισμού δε θα επιτραπεί η μετακίνηση φιλάθλων των «ερυθρόλευκων» στο κλειστό «Γιάννης Μπουρούσης». Όπως αναφέρει η ανακοίνωση της…",
 "also": [],
 "id": "5f8f537ae815"
-},
-{
-"title": "Αρνείται να χάσει ο Ολυμπιακός!",
-"url": "https://www.gazzetta.gr/basketball/2588185/arneitai-na-hasei-o-olympiakos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T12:26+00:00",
-"sport": "basket",
-"snippet": "Συνέχεια στο σερί νικών θέλει να δώσει ο Ολυμπιακός, ο οποίος υποδέχεται τη Ρεάλ στην κατάμεστη «Sunel Arena» (21:15) για την 13 η αγωνιστική της Euroleague.",
-"also": [],
-"id": "345b82f0f0da"
-},
-{
-"title": "Καρδίτσα-Ολυμπιακός: Απαγορεύτηκε η οργανωμένη μετακίνηση φιλάθλων των «ερυθρόλευκων»",
-"url": "http://www.sport-fm.gr/article/5162295",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T12:14+00:00",
-"sport": "general",
-"snippet": "Η κυβέρνηση απαγόρευσε την οργανωμένη παρουσία φίλων του Ολυμπιακού στο «Γιάννης Μπουρούσης» της Καρδίτσας.",
-"also": [
-{
-"source": "sdna",
-"source_name": "SDNA",
-"url": "https://www.sdna.gr/mpasket/1488606_karditsa-olympiakos-apagoreytike-i-organomeni-metakinisi-filathlon-toy-olympiakoy",
-"title": "Καρδίτσα-Ολυμπιακός: Απαγορεύτηκε η οργανωμένη μετακίνηση φιλάθλων του Ολυμπιακού",
-"published": "2026-11-20T12:50+00:00"
-}
-],
-"id": "6338eadb3388"
 }
 ]
 }
