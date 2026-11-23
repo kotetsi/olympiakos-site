@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T16:17:32+00:00",
+"generated_at": "2026-11-23T16:32:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τι σημαίνει το \"Κράτα τον έλεγχο\" που είδαμε στις φανέλες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ;",
+"url": "https://www.sdna.gr/podosfairo/1489695_ti-simainei-krata-ton-elegho-poy-eidame-stis-faneles-panathinaikoy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T16:15+00:00",
+"sport": "football",
+"snippet": "Στο παιχνίδι με τον ΟΦΗ, οι φίλαθλοι του Παναθηναϊκού μπορούσαν να διαβάσουν το «Κράτα τον έλεγχο» με λευκά γράμματα κάτω από το τριφύλλι. Στο...",
+"also": [],
+"id": "d6dfed7da3e4"
+},
 {
 "title": "Ολυμπιακός: Μπέιλι ’26 όπως Ζέλσον ’24!",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247753/olympiakos-mpeili-26-opos-zelson-24/",
@@ -97,6 +109,18 @@
 "snippet": "Νέο επεισόδιο για το \"Αιώνιο Podcast\" με τους Μιχάλη Γκιουλένογλου και Γιάννη Λαμπίρη να σχολιάζουν την υπόθεση Ντόρσεϊ, το μέλλον του στον Ολυμπιακό και τη…",
 "also": [],
 "id": "bb245a29dd8d"
+},
+{
+"title": "Αιώνιο Podcast: Ντόρσεϊ σε… μία κλωστή, προσθήκη Ολυμπιακού και “μεταγραφή” Φαλ στον ΠΑΟ",
+"url": "https://www.eurohoops.net/el/trademarks-el/2039676/eonio-podcast-ntorsei-se-mia-klosti-prosthiki-olimpiakou-ke-metagrafi-fal-ston-pao/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-23T14:56+00:00",
+"sport": "basket",
+"snippet": "Νέο επεισόδιο για το \"Αιώνιο Podcast\" με τους Μιχάλη Γκιουλένογλου και Γιάννη Λαμπίρη να σχολιάζουν την υπόθεση Ντόρσεϊ, το μέλλον του στον Ολυμπιακό που…",
+"also": [],
+"id": "70dddeac2e98"
 },
 {
 "title": "Ολυμπιακός: Άλλαξε ημερομηνία το παιχνίδι με την Παρί",
@@ -5010,30 +5034,6 @@
 "snippet": "Οι πολλές και σημαντικές απουσίες που προέκυψαν (Έσε, Τσικίνιο, Πουέρτα) αλλά και οι ευρωπαϊκές υποχρεώσεις που έχει ο Ολυμπιακός στη League Phase του...",
 "also": [],
 "id": "b2799891dd1b"
-},
-{
-"title": "Ολυμπιακός: Tι ισχύει για τον αγώνα με τον Άρη",
-"url": "https://sportday.gr/podosfairo/365932_olympiakos-ti-ischyei-me-to-endechomeno-anavolis-tou-agona-me-ton-ari.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-20T18:13+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός θα φιλοξενηθεί κανονικά από τον Άρη (29/11, 19:00) στο «Κ. Βικελίδης», εφόσον οι Πειραιώτες δεν άσκησαν το «Joker Right» για το εν λόγο παιχνίδι.",
-"also": [],
-"id": "ef3a4fbce69d"
-},
-{
-"title": "Ολυμπιακός: Η ψυχραιμία του Αλγκουαθίλ και το νέο «παράθυρο» για έξτρα προσθήκη",
-"url": "https://www.gazzetta.gr/football/superleague/2588321/olympiakos-i-psyhraimia-toy-algkoyathil-kai-neo-parathyro-gia-extra",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T17:49+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός χτυπήθηκε αλύπητα από μαζεμένες ατυχίες τις τελευταίες ημέρες και ο Δημήτρης Τομαράς γράφει για τις πρώτες αντιδράσεις του Αλγκουαθίλ αλλά και τον…",
-"also": [],
-"id": "f0ca27d8dc19"
 }
 ]
 }
