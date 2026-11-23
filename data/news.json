@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T15:32:02+00:00",
+"generated_at": "2026-11-23T15:47:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Euroleague: Νέα ημερομηνία για το Ολυμπιακός – Παρί",
+"url": "https://www.ertsports.gr/mpasket/euroleague-nea-imerominia-gia-to-olympiakos-pari/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-23T15:41+00:00",
+"sport": "basket",
+"snippet": "Αλλαγή ημερομηνίας για την αναμέτρηση του Ολυμπιακού με την Παρί ανακοίνωσε η Euroleague, στο πλαίσιο της 23ης αγωνιστικής της κορυφαίας ευρωπαϊκής…",
+"also": [],
+"id": "ba9643418d47"
+},
+{
+"title": "Ολυμπιακός – Ηρακλής: Ο Τσιμεντερίδης που δεν μπορούσε χωρίς VAR και οι τρεις επισκέψεις στο μόνιτορ!",
+"url": "https://sportime.gr/epo-diaitisia/olimpiakos-iraklis-o-tsimenteridis-pou-den-borouse-choris-var-ke-i-tris-episkepsis-sto-monitor?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-23T15:33+00:00",
+"sport": "general",
+"snippet": "Πολλά τα διαιτητικά λάθη στο Ολυμπιακός – Ηρακλής, με τον Τσιμεντερίδη να χρειάζεται επανειλημμένα τη βοήθεια του VAR για κρίσιμες αποφάσεις.",
+"also": [],
+"id": "ba4d05effe61"
+},
 {
 "title": "Ηρακλής: Ο Ζούλεβιτς των δύο γκολ στο «Καραϊσκάκη», η Τζένοα και η οψιόν αγοράς",
 "url": "https://www.sdna.gr/podosfairo/1489684_iraklis-o-zoylebits-ton-dyo-gkol-sto-karaiskaki-i-tzenoa-kai-i-opsion-agoras",
@@ -5002,30 +5026,6 @@
 "snippet": "Ο Ολυμπιακός σύμφωνα με το ρεπορτάζ και τις τελευταίες πληροφορίες θα παίξει κανονικά το εκτός έδρας παιχνίδι με αντίπαλο τον Άρη την επόμενη Κυριακή.",
 "also": [],
 "id": "25680640d27a"
-},
-{
-"title": "Ολυμπιακός: Δύο χαφ και τεστ για Γκουστάβο Σα",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-dio-chaf-ke-test-gia-gkoustavo-sa?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T17:12+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξετάζει δύο προσθήκες στη μεσαία γραμμή τον Ιανουάριο. Τι ζητά ο Ιμανόλ Αλγουαθίλ και γιατί ο Γκουστάβο Σα περνά από σημαντικό τεστ.",
-"also": [],
-"id": "b9af5654aefb"
-},
-{
-"title": "Κανονικά το Άρης – Ολυμπιακός, δεν ζητούν αναβολή οι Πειραιώτες",
-"url": "http://www.sport-fm.gr/article/5162360",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T17:12+00:00",
-"sport": "general",
-"snippet": "Σύμφωνα με πληροφορίες, το παιχνίδι του Άρη με τον Ολυμπιακό που είναι προγραμματισμένο για την Κυριακή 29/11 θα διεξαχθεί κανονικά.",
-"also": [],
-"id": "2aeb64cde8bf"
 }
 ]
 }
