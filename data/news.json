@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T12:00:10+00:00",
+"generated_at": "2026-11-23T12:15:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Nova TV: EuroLeague με Βαλένθια – Παναθηναϊκός AKTOR, Ολυμπιακός – Χάποελ Τελ Αβιβ στο παρκέ του Novasports!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15247246/nova-tv-euroleague-me-valenthia-panathinaikos-aktor-olympiakos-xapoel-tel-aviv-sto-parke-tou-novasports/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T12:09+00:00",
+"sport": "basket",
+"snippet": "Για την 14η αγωνιστική της EuroLeague, που θα διεξαχθεί την Τρίτη 24 Νοεμβρίου και την Τετάρτη 25 Νοεμβρίου λόγω του «παραθύρου» της FIBA (26-30/11) για τις…",
+"also": [],
+"id": "349f2e4def42"
+},
+{
+"title": "Ολυμπιακός σε Ντόρσεϊ: Στο καλό και να μας γράφεις...",
+"url": "https://sportime.gr/basket/olimpiakos-se-ntorsei-sto-kalo-ke-na-mas-grafis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-23T12:07+00:00",
+"sport": "basket",
+"snippet": "Η απόφαση του Ολυμπιακού να αφήσει τον Τάιλερ Ντόρσεϊ να ενσωματωθεί νωρίτερα στην Εθνική δείχνει πόσο έχει αλλάξει η θέση του στην ομάδα.",
+"also": [],
+"id": "2ac283dbc20b"
+},
 {
 "title": "Εθνική: Με Ντόρσεϊ η πρώτη προπόνηση και δεν παίζει στο “Ολυμπιακός – Χάποελ”",
 "url": "https://www.eurohoops.net/el/fibawc-el/2039633/ethniki-me-ntorsei-i-proti-proponisi-den-pezi-sto-olimpiakos-chapoel/",
@@ -23,7 +47,15 @@
 "published": "2026-11-23T11:39+00:00",
 "sport": "basket",
 "snippet": "Ο Τάιλερ Ντόρσεϊ έδωσε κανονικά το «παρών» στην πρώτη προπόνηση της Εθνικής Ανδρών, δύο ημέρες πριν από την αναμέτρηση του Ολυμπιακού με τη Χάποελ...",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/ethniki-mpasket-kanonika-stin-proponisi-o-ntorsei-chanei-to-olympiakos-chapoel-1334584",
+"title": "Εθνική Μπάσκετ: Κανονικά στην προπόνηση ο Ντόρσεϊ–Χάνει το Ολυμπιακός-Χάποελ",
+"published": "2026-11-23T12:00+00:00"
+}
+],
 "id": "dd63e78b6483"
 },
 {
@@ -4994,30 +5026,6 @@
 "snippet": "Ο Αθλητικός Δικαστής του ΕΣΑΚΕ επέβαλε πρόστιμο έξι χιλιάδων ευρώ στον Γιώργο Μπαρτζώκα και τριών χιλιάδων ευρώ στον Ολυμπιακό, για υβριστική συμπεριφορά στον…",
 "also": [],
 "id": "54c1d114e03d"
-},
-{
-"title": "Ολυμπιακός: Πρόστιμο 6.000 ευρώ στον Μπαρτζώκα από τον αθλητικό Δικαστή",
-"url": "https://www.eurohoops.net/el/heba-el/2038202/olimpiakos-prostimo-6-000-evro-ston-bartzoka-apo-ton-athlitiko-dikasti/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-20T15:23+00:00",
-"sport": "basket",
-"snippet": "Πρόστιμο για τον Γιώργο Μπαρτζώκα και την ΚΑΕ Ολυμπιακός από τον αθλητικό Δικαστή του ΕΣΑΚΕ. The post Ολυμπιακός: Πρόστιμο 6.000 ευρώ στον Μπαρτζώκα από τον…",
-"also": [],
-"id": "4464ec2b8c4f"
-},
-{
-"title": "Ολυμπιακός: Ο Αλγουαθίλ θέλει χαφ και ο Σιπιόνι κινδυνεύει να μείνει εκτός Ευρώπης",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-algouathil-theli-chaf-ke-o-sipioni-kindinevi-na-mini-ektos-evropis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T15:19+00:00",
-"sport": "general",
-"snippet": "Στον Ολυμπιακό εξετάζουν δύο προσθήκες στα χαφ. Ο κανονισμός της UEFA δυσκολεύει τον Αλγουαθίλ, καθώς μπορεί να αφήσει ξανά τον Σιπιόνι εκτός Ευρώπης.",
-"also": [],
-"id": "e286f4357afb"
 }
 ]
 }
