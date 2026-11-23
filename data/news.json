@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T20:35:01+00:00",
+"generated_at": "2026-11-23T20:50:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Ολυμπιακός και ΑΕΚ για Μόρο»",
+"url": "https://www.sdna.gr/podosfairo/1489757_olympiakos-kai-aek-gia-moro",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T20:42+00:00",
+"sport": "football",
+"snippet": "Δημοσίευμα από το εξωτερικό εμπλέκει Ολυμπιακό και ΑΕΚ με τον Νίκολα Μόρο.",
+"also": [],
+"id": "e88739f8f3fe"
+},
 {
 "title": "Ολυμπιακός: Ο Λίον Μπέιλι και η δικαίωση του Χοσέ Λουίς Μεντιλίμπαρ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-lion-beili-ke-i-dikeosi-tou-chose-louis-mentilimpar?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5000,18 +5012,6 @@
 "snippet": "Ο κόσμος του Ολυμπιακού προέβη σε χλιαρές αποδοκιμασίες προς τον Τάιλερ Ντόρσεϊ, όταν το cube έδειξε τον διεθνή γκαρντ.",
 "also": [],
 "id": "84c0a4770c51"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Ο Γουόρντ οδηγήθηκε στα αποδυτήρια μετά τη σύγκρουση με τον Λουβαβού-Καμπαρό",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588342/olympiakos-real-madritis-o-goyornt-odigithike-sta-apodytiria-meta-ti",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T19:41+00:00",
-"sport": "basket",
-"snippet": "Ο Τάισον Γουόρντ οδήγηθηκε στα αποδυτήρια μετά τη σύγκρουση με τον Τιμοτέ Λουβαβού-Καμπαρό, ωστόσο λίγο αργότερα επέστρεψε.",
-"also": [],
-"id": "f281139deec5"
 }
 ]
 }
