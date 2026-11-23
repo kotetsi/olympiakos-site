@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-23T15:47:21+00:00",
+"generated_at": "2026-11-23T16:02:22+00:00",
 "count": 400,
 "items": [
 {
@@ -119,7 +119,15 @@
 "published": "2026-11-23T14:35+00:00",
 "sport": "basket",
 "snippet": "Σε νέα ημερομηνία θα διεξαχθεί η αναμέτρηση του Ολυμπιακού κόντρα στην Παρί, καθώς το παιχνίδι θα διεξαχθεί στις 26 Ιανουαρίου, αντί για τις 15 του...",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366270_olympiakos-allagi-imerominias-sto-paichnidi-me-tin-pari.html",
+"title": "Ολυμπιακός: Αλλαγή ημερομηνίας στο παιχνίδι με την Παρί",
+"published": "2026-11-23T15:55+00:00"
+}
+],
 "id": "ed9149bfb231"
 },
 {
