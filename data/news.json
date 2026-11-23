@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T05:41:53+00:00",
+"generated_at": "2026-11-23T05:57:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πάντα σκοράρει πολλά γκολ κόντρα τον Ηρακλή",
+"url": "https://www.sdna.gr/taxonomy/term/1489528_olympiakos-panta-skorarei-polla-gkol-kontra-ton-irakli",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T05:56+00:00",
+"sport": "football",
+"snippet": "Το χθεσινό 6-2 έφερε μνήμες από άλλες ευρείες νίκες του Ολυμπιακού επί του Ηρακλή.",
+"also": [],
+"id": "6af039e21b2e"
+},
 {
 "title": "Ο Μπέιλι βρήκε τον Μάριους και ο Ολυμπιακός δεν μπορεί να τους βάλει μαζί με τη Μίλαν",
 "url": "https://sportime.gr/olimpiakos/o-beili-vrike-ton-marious-ke-o-olimpiakos-den-bori-na-tous-vali-mazi-me-ti-milan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5014,18 +5026,6 @@
 "snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ρεάλ Μαδρίτης μετά τη μεγάλη νίκη επί της Μακάμπι. Δείτε τα αγωνιστικά δεδομένα και τα ειδικά στοιχήματα της Novibet.",
 "also": [],
 "id": "f4d269424d04"
-},
-{
-"title": "«Στον ΠΑΟΚ υπάρχει καλύτερη ψυχολογία, νιώθει πιο άνετα μετά το ματς στο Καραϊσκάκη ο Αλέσιο Λίσι» (audio)",
-"url": "https://www.ertsports.gr/era-spor/ston-paok-yparxei-kalyteri-psyxologia-niothei-pio-aneta-meta-to-mats-sto-karaiskaki-o-alesio-lisi-audio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-20T10:40+00:00",
-"sport": "football",
-"snippet": "Ο σύλλογος της Θεσσαλονίκης μετά το 1-1 με τον Ολυμπιακό, είναι σε καλύτερη ψυχολογική κατάσταση και άπαντες αναγνωρίζουν πως η φετινή βερσιόν των…",
-"also": [],
-"id": "e187559b8a5e"
 }
 ]
 }
