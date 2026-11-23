@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T15:01:49+00:00",
+"generated_at": "2026-11-23T15:16:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αμορίμ: «Αν δεν προκριθούμε θα έχουμε αποτύχει – Πρέπει να νικήσουμε τον Ολυμπιακό»",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15247738/amorim-an-den-prokrithoume-tha-exoume-apotyxei-prepei-na-nikisoume-ton-olympiako/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T15:01+00:00",
+"sport": "football",
+"snippet": "Στη σημασία της ευρωπαϊκής συνέχειας τόσο βαθμολογικά όσο και για τη διαχείριση του ρόστερ στάθηκε ο Ρούμπεν Αμορίμ σε δηλώσεις του στο «Sky Sport», αμέσως…",
+"also": [],
+"id": "0fd9a8f21f82"
+},
+{
+"title": "Ολυμπιακός: Ο Ντόρσεϊ έχει άλλη αποστολή στην Εθνική χωρίς τον Καλάθη",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-o-ntorsei-echi-alli-apostoli-stin-ethniki-choris-ton-kalathi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-23T14:59+00:00",
+"sport": "general",
+"snippet": "Ο Ντόρσεϊ επέστρεψε στην Εθνική, αλλά χωρίς τον Καλάθη μπορεί να χρειαστεί άλλον ρόλο. Η Ισπανία, οι πόντοι του και η επόμενη απόφαση του Μπαρτζώκα.",
+"also": [],
+"id": "2cca2f650066"
+},
 {
 "title": "Ντόρσεϊ σε… μία κλωστή και προσθήκη Ολυμπιακού μέσα στην εβδομάδα – Αιώνιο Podcast LIVE",
 "url": "https://www.eurohoops.net/el/trademarks-el/2039676/ntorsei-se-mia-klosti-ke-prosthiki-olimpiakou-mesa-stin-evdomada-eonio-podcast-live/",
@@ -5002,30 +5026,6 @@
 "snippet": "Οι πέντε (ακριβοί) ποδοσφαιριστές του Ολυμπιακού που θα πρέπει σε διάστημα 1.5 μήνα να πείσουν τον Ιμανόλ Αλγουαθίλ ότι αξίζει να έχουν μία θέση στο...",
 "also": [],
 "id": "2563e39d28b2"
-},
-{
-"title": "Ολυμπιακός: Τώρα πρέπει να δείξει χαρακτήρα",
-"url": "https://sportday.gr/blogs/stavros-georgakopoulos/365925_olympiakos-tora-prepei-na-deiksei-charaktira.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-20T17:06+00:00",
-"sport": "football",
-"snippet": "Οι απουσίες των Εσε, Πουέρτα και Τσικίνιο δημιουργούν μία συνθήκη που δεν μπορεί ν’ αντιμετωπιστεί με ευχολόγια...",
-"also": [],
-"id": "a5215289f550"
-},
-{
-"title": "Ολυμπιακός: Η δωδεκάδα των «ερυθρολεύκων» κόντρα στη Ρεάλ Μαδρίτης",
-"url": "https://sportday.gr/basket/365924_olympiakos-i-dodekada-ton-erythrolefkon-kontra-sti-real-madritis.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-20T17:02+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ρεάλ Μαδρίτης (20/11, 21:15) στη «SUNEL Arena» για τη 13η αγωνιστική της Euroleague. Δείτε τους διαθέσιμους παίκτες του Γιώργου…",
-"also": [],
-"id": "94c9a9366f8c"
 }
 ]
 }
