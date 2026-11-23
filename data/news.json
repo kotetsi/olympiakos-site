@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-23T11:29:53+00:00",
+"generated_at": "2026-11-23T11:45:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Εθνική: Με Ντόρσεϊ η πρώτη προπόνηση και δεν παίζει στο “Ολυμπιακός – Χάποελ”",
+"url": "https://www.eurohoops.net/el/fibawc-el/2039633/ethniki-me-ntorsei-i-proti-proponisi-den-pezi-sto-olimpiakos-chapoel/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-23T11:41+00:00",
+"sport": "basket",
+"snippet": "O Τάιλερ Ντόρσεϊ συμμετείχε στην πρώτη προπόνηση της Εθνικής ομάδας ενόψει της κρίσιμης αναμέτρησης της Ελλάδας με τη Γεωργία (Πέμπτη 26/11, 20:00) στο ΟΑΚΑ…",
+"also": [],
+"id": "c0eb8fc1a7cc"
+},
+{
+"title": "Κανονικά στην προπόνηση της Εθνικής ο Ντόρσεϊ – Χάνει το Ολυμπιακός - Χάποελ",
+"url": "https://www.sdna.gr/mpasket/1489612_kanonika-stin-proponisi-tis-ethnikis-o-ntorsei-hanei-olympiakos-hapoel",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-23T11:39+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ έδωσε κανονικά το «παρών» στην πρώτη προπόνηση της Εθνικής Ανδρών, δύο ημέρες πριν από την αναμέτρηση του Ολυμπιακού με τη Χάποελ...",
+"also": [],
+"id": "dd63e78b6483"
+},
+{
+"title": "Ολυμπιακός: Ακύρωσε εισιτήρια για τον αγώνα με την Μίλαν, στην διάθεση του κόσμου ξανά",
+"url": "https://www.gazzetta.gr/football/europa-league/2589062/olympiakos-akyrose-eisitiria-gia-ton-agona-me-tin-milan-stin",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-23T11:23+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ακύρωσε σημαντικό αριθμό εισιτηρίων λόγω ανακριβών ή εικονικών στοιχείων ταυτοποίησης, με τα εισιτήρια να έχουν βγει ξανά για πώληση.",
+"also": [],
+"id": "b3662883ec97"
+},
 {
 "title": "Ηρακλής: Αγωνία για Μάρκες και Μπαρσένας ενόψει Παναιτωλικού",
 "url": "https://www.metrosport.gr/iraklis-agonia-gia-markes-kai-mparsenas-enopsei-panaitolikoy-1334577",
@@ -4982,42 +5018,6 @@
 "snippet": "Ο Γιώργος Μπαρτζώκας τιμωρήθηκε με πρόστιμο για την υβριστική συμπεριφορά του στον αγώνα του Ολυμπιακού με τον Άρη, όπου αποβλήθηκε πριν το τέλος της…",
 "also": [],
 "id": "53ba230d4969"
-},
-{
-"title": "Ολυμπιακός: Ένοχος ο Μπαρτζώκας για υβριστική συμπεριφορά στο «Παλέ» – Η ποινή που του επέβαλαν",
-"url": "https://sportday.gr/basket/365903_olympiakos-enochos-o-mpartzokas-gia-yvristiki-symperifora-sto-pale-i-poini-pou-tou-epevalan.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-20T15:17+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Μπαρτζώκας κρίθηκε ένοχος από τον αθλητικό δικαστή του ΕΣΑΚΕ, κατόπιν της καταγγελίας από την ΚΑΕ Παναθηναϊκός AKTOR, για τη συμπεριφορά του στο…",
-"also": [],
-"id": "ae8d682aae7a"
-},
-{
-"title": "Ολυμπιακός: Η τιμωρία του Μπαρτζώκα για τη συμπεριφορά του στο ματς με τον Άρη",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241397/olympiakos-i-timoria-tou-mpartzoka-gia-ti-symperifora-tou-sto-mats-me-ton-ari/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T15:12+00:00",
-"sport": "basket",
-"snippet": "Η απόφαση αφορά την υβριστική συμπεριφορά του προπονητή των «ερυθρόλευκων» στην εκτός έδρας αναμέτρηση με τον Άρη, στο πλαίσιο της 7ης αγωνιστικής της…",
-"also": [],
-"id": "77636dcecc7a"
-},
-{
-"title": "Ολυμπιακός: Καθάρισε τη Δράμα και πήρε την 9η σερί νίκη του",
-"url": "https://www.gazzetta.gr/handball/a1-andron/2588277/olympiakos-katharise-ti-drama-kai-pire-tin-9i-seri-niki-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T15:10+00:00",
-"sport": "handball",
-"snippet": "O Ολυμπιακός επικράτησε έυκολα της Δράμας με 40-29 στο κλειστό γυμναστήριο της Ηλιούπολης για την 9η αγωνιστική της Handball Premier και συνεχίζει στη κορυφή.",
-"also": [],
-"id": "c23d911b610f"
 }
 ]
 }
