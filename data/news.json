@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T06:27:14+00:00",
+"generated_at": "2026-11-23T06:42:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τσαντίστε τον για να παρτάρει!",
+"url": "https://sportday.gr/blogs/christakos/366191_olympiakos-tsantiste-ton-gia-na-partarei.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-23T06:30+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός των σημαντικών απουσιών, ζητάει τα κίνητρα, γιατί του «αρέσει» η πίεση, αλλά και να αφήνει τους άλλους να νομίζουν πως θα τον σταματήσουν! Γράφει…",
+"also": [],
+"id": "680385bc7dba"
+},
+{
+"title": "Ολυμπιακός: Ο κόκκινος «τυφώνας» και αυτοί που σφυρίζουν... αδιάφορα",
+"url": "https://www.gazzetta.gr/football/superleague/2588963/olympiakos-o-kokkinos-tyfonas-kai-oi-sfyrihtres-poy-agnooyntai",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-23T06:20+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr όσα συνέβησαν στο Καραϊσκάκη και τα... διαιτητικά μηνύματα που περιμένουν απάντηση από τον Στεφάν Λανουά.",
+"also": [],
+"id": "fc03067dbcf4"
+},
 {
 "title": "Ολυμπιακός: Πάντα σκοράρει πολλά γκολ κόντρα τον Ηρακλή",
 "url": "https://www.sdna.gr/taxonomy/term/1489528_olympiakos-panta-skorarei-polla-gkol-kontra-ton-irakli",
@@ -5002,30 +5026,6 @@
 "snippet": "Δείτε όσα ανέφερε ο Αλέξης Βιρβίλης στο Gazzetta Magazino by Elabet αναφορικά με τις απουσίες του Ολυμπιακού στα χαφ και το ενδεχόμενο να γίνουν μεταγραφές.",
 "also": [],
 "id": "7fed98d3d733"
-},
-{
-"title": "Γιώτης Τσαλουχίδης στο Fox Prime: «Οι παικταράδες που θα έρχονταν στον Ολυμπιακό!»",
-"url": "https://www.sdna.gr/podosfairo/1488568_giotis-tsaloyhidis-sto-fox-prime-oi-paiktarades-poy-tha-erhontan-ston-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T10:46+00:00",
-"sport": "football",
-"snippet": "Το Grande League...",
-"also": [],
-"id": "1ed3ed8f4874"
-},
-{
-"title": "Με την ψυχολογία στα ύψη ο Ολυμπιακός για ακόμη μια νίκη με ειδικά στοιχήματα!",
-"url": "https://sportime.gr/sportime-bet/olympiakos-real-madrid-eidika-stoiximata?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T10:42+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Ρεάλ Μαδρίτης μετά τη μεγάλη νίκη επί της Μακάμπι. Δείτε τα αγωνιστικά δεδομένα και τα ειδικά στοιχήματα της Novibet.",
-"also": [],
-"id": "f4d269424d04"
 }
 ]
 }
