@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-23T22:05:56+00:00",
+"generated_at": "2026-11-23T22:21:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο ορισμός του Μπέιλι και η επιτυχία του Ιμανόλ",
+"url": "https://sportday.gr/podosfairo/366210_olympiakos-o-orismos-tou-mpeili-kai-i-epitychia-tou-imanol.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-23T22:10+00:00",
+"sport": "football",
+"snippet": "Το λήμμα «Μπέιλι» απέκτησε ένα εξαιρετικό παράδειγμα στο παιχνίδι του Ολυμπιακού με τον Ηρακλή και ο Ιμανόλ απέδειξε πως... μπορεί να το κάνει κι αυτό.",
+"also": [],
+"id": "fd1e6acfc23c"
+},
 {
 "title": "Ήρθε στον Ολυμπιακό για να κάνει την διαφορά και στα 29 σταματά το ποδόσφαιρο",
 "url": "https://sportime.gr/olimpiakos/irthe-ston-olimpiako-gia-na-kani-tin-diafora-ke-sta-29-stamata-to-podosfero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -13,18 +25,6 @@
 "snippet": "Ο Εμρέ Μορ, που ήρθε στον Ολυμπιακό με μεγάλες προσδοκίες, κάνει παύση στην καριέρα του στα 29 για λόγους υγείας, αφήνοντας ανοιχτή την επιστροφή.",
 "also": [],
 "id": "fc9e39617862"
-},
-{
-"title": "Ολυμπιακός: Αλλαγή ημερομηνίας στο εντός έδρας ματς με Παρί",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2039828/olimpiakos-allagi-imerominias-sto-entos-edras-mats-me-pari/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-23T21:21+00:00",
-"sport": "basket",
-"snippet": "Αλλαγή ημερομηνίας στο Ολυμπιακός - Παρί της 17ης αγωνιστικής της Ευρωλίγκας. The post Ολυμπιακός: Αλλαγή ημερομηνίας στο εντός έδρας ματς με Παρί appeared…",
-"also": [],
-"id": "42b4708fddaf"
 },
 {
 "title": "Ολυμπιακός: Στο Μεξικό «τελειώνουν» τον Ιμανόλ Αλγουαθίλ για τον Αρμάντο Γκονζάλες",
@@ -49,6 +49,18 @@
 "snippet": "Ένα… γνωστό όνομα επανέρχεται στο προσκήνιο για τον Ολυμπιακό, καθώς σύμφωνα με πληροφορίες από το εξωτερικό, οι «ερυθρόλευκοι» εξακολουθούν να ενδιαφέρονται…",
 "also": [],
 "id": "0919912a49be"
+},
+{
+"title": "Ολυμπιακός: Αλλαγή ημερομηνίας στο εντός έδρας ματς με Παρί",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2039828/olimpiakos-allagi-imerominias-sto-entos-edras-mats-me-pari/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-23T21:02+00:00",
+"sport": "basket",
+"snippet": "Αλλαγή ημερομηνίας στο Ολυμπιακός - Παρί της 17ης αγωνιστικής της Ευρωλίγκας. The post Ολυμπιακός: Αλλαγή ημερομηνίας στο εντός έδρας ματς με Παρί appeared…",
+"also": [],
+"id": "42b4708fddaf"
 },
 {
 "title": "Ολυμπιακός Μεταγραφές: Στο στόχαστρο ο Νίκολα Μόρο",
@@ -5000,18 +5012,6 @@
 "snippet": "Ο Ολυμπιακός πραγματοποίησε ένα κυριαρχικό πρώτο ημίχρονο κόντρα στη Ρεάλ, με οκτώ παίκτες να μοιράζουν ασίστ και έξι παίκτες με πάνω από έξι πόντους!",
 "also": [],
 "id": "9f64671cda4e"
-},
-{
-"title": "Ολυμπιακός: Δεν υπάρχει αυτό που γίνεται! Δύο σερί από το κέντρο!",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-den-iparchi-afto-pou-ginete-dio-seri-apo-to-kentro?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T20:11+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός πέτυχε δεύτερο συνεχόμενο καλάθι από το κέντρο! Μετά τον Σάσα Βεζένκοφ, ο Τάιρικ Τζόουνς ευστόχησε απέναντι στη Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "86686c255349"
 }
 ]
 }
