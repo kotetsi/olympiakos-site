@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-23T07:27:45+00:00",
+"generated_at": "2026-11-23T07:42:52+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Αναμονή για τον Μπέιλι στο λιμάνι",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247134/olympiakos-anamoni-gia-ton-mpeili-sto-limani/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-23T07:39+00:00",
+"sport": "football",
+"snippet": "Ο Τζαμαϊκανός παίκτης αποχώρησε τραυματίας από την αναμέτρηση του Ολυμπιακού με τον Ηρακλή και στο λιμάνι επικρατεί ανησυχία για την κατάστασή του. Ο Μπέιλι…",
+"also": [],
+"id": "52c5adf5cd74"
+},
+{
+"title": "Ολυμπιακός: Ο Σπανούλης προτίμησε τον Ντόρσεϊ από τον δικό του παίκτη",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-spanoulis-protimise-ton-ntorsei-apo-ton-diko-tou-pekti?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-23T07:22+00:00",
+"sport": "general",
+"snippet": "Ο Σπανούλης νίκησε τον Ολυμπιακό με τον Άρη, αλλά στην Εθνική επέλεξε τον Ντόρσεϊ και όχι τον Μήτρου-Λονγκ. Η δύσκολη σύγκριση για τον Μπαρτζώκα.",
+"also": [],
+"id": "a97418513c40"
+},
 {
 "title": "Τα δίκια του Αλγκουαθίλ και ο Ολυμπιακός που έχει υπομονή, ουσία και κενά!",
 "url": "https://www.novasports.gr/category/the-experts/article/15246949/ta-dikia-tou-algkouathil-kai-o-olympiakos-pou-exei-ypomoni-ousia-kai-kena/",
@@ -5002,30 +5026,6 @@
 "snippet": "Ο Κώστας Νικολακόπουλος μετέφερε όλες τις λεπτομέρειες για το μακροσκελές ιατρικό δελτίο του Ολυμπιακού.",
 "also": [],
 "id": "a788916a6aa0"
-},
-{
-"title": "Ολυμπιακός: Μπάτλερ και Τζόουνς δεμένοι μέχρι το 2028",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-batler-ke-tzoouns-demeni-mechri-to-2028?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T11:23+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός έχει στη λίστα του Μπάτλερ και Τζόουνς, όμως και οι δύο δεσμεύονται έως το 2028. Ο Τάτσιος εξηγεί τα εμπόδια και τη χρονική πίεση.",
-"also": [],
-"id": "fbe630e24c8c"
-},
-{
-"title": "Κύπελλο Ελλάδος: Η ΕΠΟ όρισε την ημερομηνία του ντέρμπι του Ολυμπιακού με τον Παναθηναϊκό",
-"url": "https://www.gazzetta.gr/football/kypello-elladas/2588167/kypello-ellados-i-epo-orise-tin-imerominia-toy-ntermpi-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T11:22+00:00",
-"sport": "football",
-"snippet": "Η ΕΠΟ όρισε τα παιχνίδια της 5ης αγωνιστικής της League Phase του Κυπέλλου Ελλάδος και ανάμεσα σε αυτά είναι το μεγάλο ντέρμπι του Ολυμπιακού με τον…",
-"also": [],
-"id": "0338cc3665c9"
 }
 ]
 }
