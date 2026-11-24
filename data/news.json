@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T19:17:31+00:00",
+"generated_at": "2026-11-24T19:32:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Έξι αλλαγές ετοιμάζει ο Αμορίμ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-exi-allages-etimazi-o-amorim?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T19:17+00:00",
+"sport": "football",
+"snippet": "Ο Ρούμπεν Αμορίμ ετοιμάζει έξι αλλαγές στην ενδεκάδα της Μίλαν απέναντι στον Ολυμπιακό. Δείτε τους έντεκα που αναμένεται να ξεκινήσουν στο Europa League.",
+"also": [],
+"id": "3714a603607f"
+},
 {
 "title": "Ολυμπιακός: Ο Βαγγέλης Μαρινάκης πάει για υπέρβαση με Αντρέ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-vangelis-marinakis-pai-gia-ipervasi-me-antre?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5008,18 +5020,6 @@
 "snippet": "Ο Κώστας Νικολακόπουλος εξηγεί στο blog του στο Gazzetta πώς έχει η κατάσταση ενόψει του ντέρμπι Ολυμπιακός-ΑΕΚ.",
 "also": [],
 "id": "a29e548a1160"
-},
-{
-"title": "Ολυμπιακός: Ο... βαρύς Ντόρσεϊ στην ομιλία του Μπαρτζώκα",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588472/olympiakos-o-barys-ntorsei-stin-omilia-toy-mpartzoka",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T10:43+00:00",
-"sport": "basket",
-"snippet": "Η (μη) αντίδραση του Τάιλερ Ντόρσεϊ στην ομιλία του Γιώργου Μπαρτζώκα, μετά τη νίκη του Ολυμπιακού επί της Ρεάλ για την 13η αγωνιστική της EuroLeague.",
-"also": [],
-"id": "1cb324d19531"
 }
 ]
 }
