@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T22:49:42+00:00",
+"generated_at": "2026-11-24T23:05:15+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μίλαν: Νοκ άουτ με τον Ολυμπιακό ο Μόντριτς",
+"url": "https://www.metrosport.gr/milan-nok-aoyt-me-ton-olympiako-o-montrits-1334766",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-24T22:50+00:00",
+"sport": "football",
+"snippet": "Δίχως ένα εκ των μεγαλύτερων αστεριών της θα ταξιδέψει στην Αθήνα για τον αγώνα με τον Ολυμπιακό για τη League Phase του Europa League η Μίλαν. ...",
+"also": [],
+"id": "b687b0281f5a"
+},
 {
 "title": "Ολυμπιακός: Ο Τάιλερ Ντόρσεϊ πέτυχε τον σκοπό του;",
 "url": "https://sportime.gr/paok-bc/olimpiakos-o-tailer-ntorsei-petiche-ton-skopo-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5000,18 +5012,6 @@
 "snippet": "Στην αγωνιστική δράση επιστρέφει ο Ολυμπιακός μετά τη διακοπή των πρωταθλημάτων για τις υποχρεώσεις των εθνικών ομάδων, με τον Ιμανόλ Αλγουαθίλ να καλείται να…",
 "also": [],
 "id": "e2ae26fed5e6"
-},
-{
-"title": "Ολυμπιακός: Με τις γνωστές απουσίες κόντρα στον Ηρακλή (pic)",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15242988/olympiakos-me-tis-gnostes-apousies-kontra-ston-irakli-pic/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-21T11:22+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ δεν υπολογίζει για τη συγκεκριμένη αναμέτρηση στους τραυματίες Έσε, Πουέρτα και Τσικίνιο, οι οποίοι έμειναν εκτός αποστολής. Ο Βάσκος…",
-"also": [],
-"id": "80999bd6f7d2"
 }
 ]
 }
