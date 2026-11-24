@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-24T10:27:27+00:00",
+"generated_at": "2026-11-24T10:42:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μίλαν: Τα πλάνα του Αμορίμ στο ματς – τελικό κόντρα στον Ολυμπιακό",
+"url": "https://sportday.gr/podosfairo/366340_milan-ta-plana-tou-amorim-sto-mats-teliko-kontra-ston-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T10:36+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός υποδέχεται τη Μίλαν (26/11, 19:45) για την 5η αγωνιστική του Europa League. Τα δεδομένα της πρόκρισης και τα πλάνα του Ρούμπεν Αμορίμ.",
+"also": [],
+"id": "9ece515d7995"
+},
+{
+"title": "Ποκουσέφσκι: Ο ΠΑΟΚ, ο Ολυμπιακός και το «παράθυρο» στην Εθνική",
+"url": "https://www.metrosport.gr/33-1795513700-kjklugfurs-1334689",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-24T10:30+00:00",
+"sport": "basket",
+"snippet": "Ο Αλεξέι Ποκουσέφσκι άνοιξε τα χαρτιά του στην εκπομπή «Pick and Roll» και μίλησε με ειλικρίνεια για τη ζωή του, το μπάσκετ και τη δυνατή σύνδεση που ...",
+"also": [],
+"id": "7747de6a1b4e"
+},
+{
+"title": "Εξάντληση θέσεων ΑμεΑ για τον αγώνα Ολυμπιακός – AC Milan",
+"url": "https://www.olympiacos.org/2026/11/24/eksantlisi-theseon-amea-gia-ton-agona-olympiakos-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-24T10:28+00:00",
+"sport": "football",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "03b55f1647c4"
+},
 {
 "title": "Ολυμπιακός: Οι «αστραπές» του Ιμανόλ και ο Σιπιόνι!",
 "url": "https://sportday.gr/podosfairo/366338_olympiakos-oi-astrapes-tou-imanol-kai-o-sipioni.html",
@@ -4976,42 +5012,6 @@
 "snippet": "Ο Ολυμπιακός είχε σε εξαιρετική βραδιά τους Εβάν Φουρνιέ - Ταϊρίκ Τζόουνς, βρήκε πλουραλισμό και «καθάρισε» τη Ρεάλ Μαδρίτης (92-76).",
 "also": [],
 "id": "a9e4fc639aad"
-},
-{
-"title": "EuroLeague βαθμολογία: 2ος ο Ολυμπιακός μετά τη νίκη επί της Ρεάλ",
-"url": "https://sportime.gr/olympiakos-bc/euroleague-vathmologia-2os-o-olimpiakos-meta-ti-niki-epi-tis-real?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T21:17+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός ανέβηκε στη δεύτερη θέση της βαθμολογίας της EuroLeague μετά το 92-76 επί της Ρεάλ Μαδρίτης. Δείτε τη θέση του Παναθηναϊκού και τη βαθμολογία.",
-"also": [],
-"id": "e2a321760f34"
-},
-{
-"title": "Βαθμολογία Ευρωλίγκα: Ακλόνητος Ολυμπιακός στην κορυφή μαζί με Βαλένθια, που περιμένει Παναθηναϊκό",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2038398/vathmologia-evroligka-aklonitos-olimpiakos-stathero-didimo-korifis-me-valenthia-pou-perimeni-panathinaiko/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-20T21:15+00:00",
-"sport": "basket",
-"snippet": "Βαλένθια & Ολυμπιακός εξακολουθούν να μοιράζονται την κορυφή της Ευρωλίγκας. The post Βαθμολογία Ευρωλίγκα: Ακλόνητος Ολυμπιακός στην κορυφή μαζί με Βαλένθια…",
-"also": [],
-"id": "d8e2d349e0d1"
-},
-{
-"title": "Βαθμολογία EuroLeague: Επέστρεψε στην κορυφή ο Ολυμπιακός",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15242150/vathmologia-euroleague-epestrepse-stin-koryfi-o-olympiakos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T21:14+00:00",
-"sport": "basket",
-"snippet": "Τα αποτελέσματα Η βαθμολογία Η επόμενη αγωνιστική",
-"also": [],
-"id": "becf072cc6b4"
 }
 ]
 }
