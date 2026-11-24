@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T09:11:48+00:00",
+"generated_at": "2026-11-24T09:26:55+00:00",
 "count": 400,
 "items": [
+{
+"title": "Εκπλήξεις με Μίλαν και χειμωνιάτικα ψώνια | Ολυμπιακός Q&A by Interwetten",
+"url": "https://www.gazzetta.gr/football/superleague/2589300/ekplixeis-me-milan-kai-heimoniatika-psonia-olympiakos-qa-interwetten",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T09:21+00:00",
+"sport": "football",
+"snippet": "Συντονιστείτε στις 15:45 στο QnA του Ολυμπιακού, με τον Αλέξη Βιρβίλη και τον Παναγιώτη Ραμαντάνη να απαντάνε σε όλες τις ερωτήσεις των φιλάθλων των Πειραιωτών.",
+"also": [],
+"id": "278b868e247b"
+},
+{
+"title": "Ο Άγγλος, Κρις Κάβανα, διαιτητής στην αναμέτρηση του Ολυμπιακού με τη Μίλαν",
+"url": "http://www.sport-fm.gr/article/5163142",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-24T09:19+00:00",
+"sport": "football",
+"snippet": "Ο Άγγλος, Κρις Κάβανα, θα είναι ο διαιτητής στην εντός έδρας αναμέτρηση του Ολυμπιακού με τη Μίλαν, για την αγωνιστική του Europa League.",
+"also": [],
+"id": "4273604a36b3"
+},
 {
 "title": "Ποκουσέφσκι για ελληνικό διαβατήριο, ΠΑΟΚ και... Ολυμπιακό",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2589289/pokoysefski-gia-elliniko-diabatirio-paok-kai-olympiako",
@@ -11,7 +35,15 @@
 "published": "2026-11-24T08:47+00:00",
 "sport": "basket",
 "snippet": "Ο Αλεξέι Ποκουσέφσκι σε τηλεοπτική του συνέντευξη, μίλησε για διάφορα ζητήματα που τον αφορούν, από το περασμένο καλοκαίρι και μετά.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/diethneis-eurocup-mpasket/article/15249010/pokousefski-ti-eipe-gia-elliniko-diavatirio-paok-olympiako-kai-omprantovits/",
+"title": "Ποκουσέφσκι: Τι είπε για ελληνικό διαβατήριο, ΠΑΟΚ, Ολυμπιακό και Ομπράντοβιτς!",
+"published": "2026-11-24T09:25+00:00"
+}
+],
 "id": "7e06321c1345"
 },
 {
@@ -4972,30 +5004,6 @@
 "snippet": "Η Ρεάλ έψαχνε αντίδραση μετά την ήττα από τη Μπεσίκτας, αλλά ο Ολυμπιακός δεν της έδωσε περιθώριο να το πιστέψει ούτε λεπτό. Τη διέλυσε (92-76)...",
 "also": [],
 "id": "4db1ee526ad5"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης 92-76: «Διαστημικός» Τζόουνς σε μία τεράστια νίκη",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588356/olympiakos-real-madritis-92-76-diastimikos-tzooyns-se-mia-terastia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T21:08+00:00",
-"sport": "basket",
-"snippet": "Ο πρωταθλητής Ευρώπης Ολυμπιακός, έστησε το δικό του πάρτι στη Sunel Arena, υποδεχόμενος τη Ρεάλ Μαδρίτης. Καταπληκτικός αμυντικά από το πρώτο λεπτό και με…",
-"also": [],
-"id": "defbd9d853be"
-},
-{
-"title": "Ολυμπιακός-Ρεάλ Μαδρίτης 92-76: Τα λιοντάρια του Μπαρτζώκα κατασπάραξαν τη Ρεάλ!",
-"url": "https://sportday.gr/basket/365953_olympiakos-real-madritis-92-76-ta-liontaria-tou-mpartzoka-katasparaksan-ti-real.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-20T21:08+00:00",
-"sport": "basket",
-"snippet": "Ένας απολαυστικός Ολυμπιακός έκανε πάρτι στη Sunel Arena απέναντι στη Ρεάλ και με μαγικό μπάσκετ πήρε μία εύκολη νίκη. Ο Ταϊρίκ Τζόουνς «ντύθηκε» Βεζένκοφ και…",
-"also": [],
-"id": "69149b7c6ca7"
 }
 ]
 }
