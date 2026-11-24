@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T18:16:54+00:00",
+"generated_at": "2026-11-24T18:32:04+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η Χάποελ του Ιτούδη έχει ταλέντο, ποιότητα και αδυναμίες: Ο δρόμος του Ολυμπιακού προς τη νίκη",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589454/i-hapoel-toy-itoydi-ehei-talento-poiotita-kai-adynamies-o-dromos-toy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T18:28+00:00",
+"sport": "basket",
+"snippet": "H Χάποελ Τελ Αβίβ αντιμετωπίζει την Τετάρτη (25/11, 21:15) στη Sunel Arena τον Ολυμπιακό με τον Βασίλιε Μίτσιτς και τον Ελάιτζα Μπράιαντ να οδηγούν την ομάδα…",
+"also": [],
+"id": "dbe8b8c3b85d"
+},
+{
+"title": "Γκλεν Ντέιβις: Ο πρώτος θρύλος των χαμηλών εμποδίων νίκησε και τα χτυπήματα της μοίρας",
+"url": "https://sportday.gr/retro/366258_gklen-nteivis-o-protos-thrylos-ton-chamilon-empodion-nikise-kai-ta-chtypimata-tis-moiras.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T18:20+00:00",
+"sport": "general",
+"snippet": "Το σοκ της απώλειας και των δύο γονιών του την ίδια μέρα είχε χρειαστεί να ξεπεράσει ως έφηβος ο Γκλεν Ντέιβις, ο θρύλος των 400 μέτρων με εμπόδια ο οποίος…",
+"also": [],
+"id": "84150ef6cce8"
+},
 {
 "title": "Ηρακλής: Υποψήφιο για best goal της 11ης αγωνιστικής το δεύτερο τέρμα του Ζούλιεβιτς",
 "url": "https://www.metrosport.gr/iraklis-ypopsifio-gia-best-goal-tis-11is-agonistikis-to-deytero-terma-toy-zoylievits-1334760",
@@ -4996,30 +5020,6 @@
 "snippet": "Ο Ολυμπιακός έχει την καλύτερη επιθετική αποτελεσματικότητα στα οκτώ τελευταία παιχνίδια της EuroLeague, αλλά βρίσκεται μόλις στην 11η θέση αμυντικά.",
 "also": [],
 "id": "635a114ace6e"
-},
-{
-"title": "Γιώτης Τσαλουχίδης στο Fox Prime: «Οι παικταράδες που θα έρχονταν στον Ολυμπιακό!» | Grande League Interviews",
-"url": "https://www.gazzetta.gr/football/2588177/giotis-tsaloyhidis-sto-fox-prime-oi-paiktarades-poy-tha-erhontan-ston-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T09:00+00:00",
-"sport": "football",
-"snippet": "Ο Γιώτης Τσαλουχίδης θυμάται την «περιπετειώδη» μεταγραφή του στους Ερυθρόλευκους παρά το ενδιαφέρον που είχαν εκδηλώσει Παναθηναϊκός και ΑΕΚ, καθώς και το πώς…",
-"also": [],
-"id": "288d6f13c022"
-},
-{
-"title": "Ολυμπιακός: Δύο χαφ και εξτρέμ τον Γενάρη και ο ρόλος Φορτούνη",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-dio-chaf-ke-extrem-ton-genari-ke-o-rolos-fortouni?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T08:29+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός αποφάσισε να αποκτήσει δύο χαφ και έναν εξτρέμ τον Ιανουάριο. Ο Κώστας Φορτούνης επιστρέφει στο «10» και ο Γκουστάβο Σα δεν έχει πείσει.",
-"also": [],
-"id": "4ed814ee3baa"
 }
 ]
 }
