@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T09:57:10+00:00",
+"generated_at": "2026-11-24T10:12:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι «αστραπές» του Ιμανόλ και ο Σιπιόνι!",
+"url": "https://sportday.gr/podosfairo/366338_olympiakos-oi-astrapes-tou-imanol-kai-o-sipioni.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T10:02+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ «ξύπνησε» τους παίκτες του Ολυμπιακού στο ημίχρονο του αγώνα με τον Ηρακλή, αφήνοντας εκτός κάδρου τον Λορέντσο Σιπιόνι, ο οποίος τελικά…",
+"also": [],
+"id": "36fc79100719"
+},
 {
 "title": "Ο Άγγλος Κάβανα στο Ολυμπιακός-Μίλαν",
 "url": "https://www.sdna.gr/podosfairo/1489917_o-agglos-kabana-sto-olympiakos-milan",
@@ -5000,18 +5012,6 @@
 "snippet": "Τα αποτελέσματα Η βαθμολογία Η επόμενη αγωνιστική",
 "also": [],
 "id": "becf072cc6b4"
-},
-{
-"title": "Ολυμπιακός-Ρεάλ Μ. 92-76: Απλά την διέλυσε…",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15242156/olympiakos-real-m-92-76-apla-tin-dielyse/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T21:12+00:00",
-"sport": "basket",
-"snippet": "Οι «ερυθρόλευκοι» ήταν παθιασμένοι σε όλη τη διάρκεια του αγώνα και με το μαχαίρι στο στόμα δεν άφησαν κανένα περιθώριο στην Ρεάλ.Ουδείς υστέρησε, αλλά ο…",
-"also": [],
-"id": "ee7bbc848759"
 }
 ]
 }
