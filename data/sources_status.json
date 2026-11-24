@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-24T00:22:04+00:00",
+ "checked_at": "2026-11-24T00:37:13+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-24T00:14"
+     "newest": "2026-11-24T00:30"
     }
    ]
   },
@@ -136,7 +136,7 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-23T23:45"
+     "newest": "2026-11-23T23:53"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
