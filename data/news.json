@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T12:28:35+00:00",
+"generated_at": "2026-11-24T12:43:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το πρόγραμμα του αγώνα Ολυμπιακός-Mίλαν",
+"url": "http://www.sport-fm.gr/article/5163186",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-24T12:26+00:00",
+"sport": "general",
+"snippet": "Οι ώρες των συνεντεύξεων Τύπου και των προπονήσεων Ολυμπιακού-Μίλαν, ενόψει του αγώνα της Πέμπτης (26/11).",
+"also": [],
+"id": "63b8b8c2ece0"
+},
 {
 "title": "«Κάποιοι δεσμοί κρατούν μια ζωή»: Το βίντεο του Ολυμπιακού από την επίσκεψη του ΜακΚίσικ",
 "url": "https://www.ertsports.gr/mpasket/euroleague/kapoioi-desmoi-kratoun-mia-zoi-to-vinteo-tou-olympiakou-apo-tin-episkepsi-tou-makkisik/",
@@ -5008,18 +5020,6 @@
 "snippet": "Η παρέα του \"Extra Time\" επιστρέφει ζωντανά στις οθόνες σας, μετά την επιβλητική νίκη του Ολυμπιακού επί της Ρεάλ Μαδρίτης για την 13η αγωνιστική της…",
 "also": [],
 "id": "2a6267c03cfd"
-},
-{
-"title": "Ολυμπιακός: Τελικά θέλει πόιντ γκαρντ ή όχι;",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-telika-theli-point-gkarnt-i-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T21:55+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εντυπωσιάζει χωρίς τον Ζαν Μοντέρο, αλλά χρειάζεται νέο πόιντ γκαρντ; Τι δείχνουν οι νίκες με Μακάμπι και Ρεάλ και το δίλημμα του Μπαρτζώκα.",
-"also": [],
-"id": "79bf479805e4"
 }
 ]
 }
