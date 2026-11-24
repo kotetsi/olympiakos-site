@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T18:01:44+00:00",
+"generated_at": "2026-11-24T18:16:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ηρακλής: Υποψήφιο για best goal της 11ης αγωνιστικής το δεύτερο τέρμα του Ζούλιεβιτς",
+"url": "https://www.metrosport.gr/iraklis-ypopsifio-gia-best-goal-tis-11is-agonistikis-to-deytero-terma-toy-zoylievits-1334760",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-24T17:50+00:00",
+"sport": "football",
+"snippet": "Ένα κέρδος στη βαριά ήττα (6-2) του Ηρακλή από τον Ολυμπιακό στο «Γεώργιος Καραϊσκάκης» ήταν αναμφίβολα ο Άνταμ Ζούλιεβιτς. Ο 19χρονος ...",
+"also": [],
+"id": "7f8b7834a736"
+},
 {
 "title": "Μίλαν: Χωρίς Μόντριτς απέναντι στον Ολυμπιακό – Επιστρέφει ο Τομόρι",
 "url": "https://www.sdna.gr/podosfairo/1490072_milan-horis-montrits-apenanti-ston-olympiako-epistrefei-o-tomori",
@@ -5008,18 +5020,6 @@
 "snippet": "Ο Ολυμπιακός αποφάσισε να αποκτήσει δύο χαφ και έναν εξτρέμ τον Ιανουάριο. Ο Κώστας Φορτούνης επιστρέφει στο «10» και ο Γκουστάβο Σα δεν έχει πείσει.",
 "also": [],
 "id": "4ed814ee3baa"
-},
-{
-"title": "Ολυμπιακός: Απίθανη απάντηση από τον Κάρλικ Τζόουνς",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-apithani-apantisi-apo-ton-karlik-tzoouns?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T08:08+00:00",
-"sport": "general",
-"snippet": "Ο Κάρλικ Τζόουνς απάντησε στα σενάρια για τον Ολυμπιακό με μια απρόσμενη ατάκα. Τι είπε ο γκαρντ της Παρτίζαν για τις φήμες.",
-"also": [],
-"id": "2b94e94c9f0b"
 }
 ]
 }
