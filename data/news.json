@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T17:46:37+00:00",
+"generated_at": "2026-11-24T18:01:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μίλαν: Χωρίς Μόντριτς απέναντι στον Ολυμπιακό – Επιστρέφει ο Τομόρι",
+"url": "https://www.sdna.gr/podosfairo/1490072_milan-horis-montrits-apenanti-ston-olympiako-epistrefei-o-tomori",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-24T17:47+00:00",
+"sport": "football",
+"snippet": "Σημαντικό πρόβλημα για τη Μίλαν ενόψει της αναμέτρησης με τον Ολυμπιακό, καθώς ο Λούκα Μόντριτς αναμένεται να απουσιάσει λόγω μυϊκού τραυματισμού",
+"also": [],
+"id": "897b5009df61"
+},
 {
 "title": "Ιτούδης: «Μεγάλη πρόκληση ο Ολυμπιακός, να δώσουμε τον καλύτερό μας εαυτό για τη νίκη»",
 "url": "https://www.ertsports.gr/mpasket/euroleague/itoudis-megali-proklisi-o-olympiakos-na-dosoume-ton-kalytero-mas-eayto-gia-ti-niki/",
@@ -15,18 +27,6 @@
 "id": "63f08b4170ca"
 },
 {
-"title": "Ολυμπιακός: Χωρίς Μόντριτς στον Πειραιά η Μίλαν",
-"url": "https://www.gazzetta.gr/football/europa-league/2589436/olympiakos-horis-montrits-ston-peiraia-i-milan",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T17:35+00:00",
-"sport": "football",
-"snippet": "Ο Λούκα Μόντριτς δεν ξεπέρασε το πρόβλημα τραυματισμού και θα χάσει το ματς με τον Ολυμπιακό στον Πειραιά.",
-"also": [],
-"id": "85c04c5a9c35"
-},
-{
 "title": "Ολυμπιακός: Οι Τούρκοι βλέπουν ενδιαφέρον για τον Μπενραχμά",
 "url": "https://sportday.gr/podosfairo/366394_olympiakos-oi-tourkoi-vlepoun-endiaferon-gia-ton-mpenrachma.html",
 "source": "sportday",
@@ -37,6 +37,26 @@
 "snippet": "Ξεκίνησαν οι φήμες ενόψει Γενάρη για Ολυμπιακό και Μπενραχμά.",
 "also": [],
 "id": "7a886525d285"
+},
+{
+"title": "Χωρίς τον Μόντριτς η Μίλαν στο «Γ. Καραϊσκάκης»!",
+"url": "http://www.sport-fm.gr/article/5163227",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-24T17:34+00:00",
+"sport": "football",
+"snippet": "Ο Λούκα Μόντριτς υπέστη μυϊκό τραυματισμό στα τελευταία λεπτά της αναμέτρησης με τη Φροζινόνε και δεν θα είναι διαθέσιμος για το παιχνίδι της Πέμπτης με τους…",
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/europa-league/2589436/olympiakos-horis-montrits-ston-peiraia-i-milan",
+"title": "Ολυμπιακός: Χωρίς Μόντριτς στον Πειραιά η Μίλαν",
+"published": "2026-11-24T17:35+00:00"
+}
+],
+"id": "22a89ae80ece"
 },
 {
 "title": "Το νέο λάθος του Ολυμπιακού με Μπέιλι",
@@ -5000,18 +5020,6 @@
 "snippet": "Ο Κάρλικ Τζόουνς απάντησε στα σενάρια για τον Ολυμπιακό με μια απρόσμενη ατάκα. Τι είπε ο γκαρντ της Παρτίζαν για τις φήμες.",
 "also": [],
 "id": "2b94e94c9f0b"
-},
-{
-"title": "Ολυμπιακός: Το πλάνο του Ιμανόλ για τον Ηρακλή",
-"url": "https://sportday.gr/podosfairo/365983_olympiakos-to-plano-tou-imanol-gia-ton-irakli.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-21T08:05+00:00",
-"sport": "football",
-"snippet": "Οι λύσεις που ψάχνει ο τεχνικός των «ερυθρόλευκων» στους... γρίφους λόγω των τραυματισμών.",
-"also": [],
-"id": "c2b8c985019e"
 }
 ]
 }
