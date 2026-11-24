@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T06:55:34+00:00",
+"generated_at": "2026-11-24T07:10:41+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: 1.358 ημέρες από την τελευταία εξάρα (vid)",
+"url": "https://www.sdna.gr/podosfairo/1489761_olympiakos-1358-imeres-apo-tin-teleytaia-exara-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-24T06:52+00:00",
+"sport": "football",
+"snippet": "1.358 ημέρες πέρασαν μέχρι ο Ολυμπιακός να πετύχει ξανά έξι γκολ σε αγώνα πρωταθλήματος στο Καραϊσκάκη! Από τον Λεβαδειακό στον Ηρακλή, μια ιστορική...",
+"also": [],
+"id": "a29fcc0abb63"
+},
+{
+"title": "Ο Άρης με νίκη επί του Ολυμπιακού πετάει έναν Δικέφαλο έξω από την τετράδα",
+"url": "https://sportime.gr/aris-fc/o-aris-me-niki-epi-tou-olimpiakou-petai-enan-dikefalo-exo-apo-tin-tetrada?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T06:52+00:00",
+"sport": "general",
+"snippet": "Ο Άρης υποδέχεται τον Ολυμπιακό με ισχυρό απολογισμό στο Χαριλάου και διεκδικεί τη νίκη που αφήνει τουλάχιστον έναν από τους δύο Δικεφάλους εκτός τετράδας.",
+"also": [],
+"id": "3a5bbb363581"
+},
 {
 "title": "Ηρακλής-Άνταμ Ζούλεβιτς: Ο Σλοβάκος που έκλεψε την παράσταση στο «Γεώργιος Καραϊσκάκης»",
 "url": "https://www.metrosport.gr/iraklis-antam-zoylievits-o-slovakos-poy-eklepse-tin-parastasi-sto-georgios-karaiskakis-1334618",
@@ -4988,30 +5012,6 @@
 "snippet": "Μετά τον Σάσα Βεζένκοφ, ήταν η σειρά του Ταϊρίκ Τζόουνς να ευστοχήσει σε τρίποντο από το κέντρο, αυτή τη φορά στην εκπνοή του πρώτου ημιχρόνου με τη Ρεάλ…",
 "also": [],
 "id": "7c03036ffc81"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Το πρώτο τρίποντο του Ταϊρίκ Τζόουνς σε ολόκληρη την καριέρα του ήταν από το κέντρο!",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588346/olympiakos-real-madritis-proto-triponto-toy-tairik-tzooyns-se",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T20:17+00:00",
-"sport": "basket",
-"snippet": "Ο Ταϊρίκ Τζόουνς «ντύθηκε» Σάσα Βεζένκοβ και ευστόχηε στο πρώτο τρίποντο στην καριέρα του και μάλιστα από το κέντρο.",
-"also": [],
-"id": "0d95f168b39f"
-},
-{
-"title": "Ολυμπιακός: Μαζί στο γήπεδο οι γιοι του Σωκράτη Κόκκαλη",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-mazi-sto-gipedo-i-gii-tou-sokrati-kokkali?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T20:16+00:00",
-"sport": "general",
-"snippet": "Ο Πέτρος και ο Κωνσταντίνος Κόκκαλης βρέθηκαν στη Sunel Arena για τον αγώνα Ολυμπιακός - Ρεάλ Μαδρίτης. Η κοινή παρουσία των γιων του Σωκράτη Κόκκαλη.",
-"also": [],
-"id": "7014b1130963"
 }
 ]
 }
