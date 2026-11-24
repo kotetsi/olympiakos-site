@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T16:46:04+00:00",
+"generated_at": "2026-11-24T17:01:12+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ιτούδης: «Στον Ολυμπιακό θέτουν τους στόχους της ομάδας πάνω από τους προσωπικούς»",
+"url": "https://sportday.gr/basket/366385_itoudis-ston-olympiako-thetoun-tous-stochous-tis-omadas-pano-apo-tous-prosopikous.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T16:49+00:00",
+"sport": "basket",
+"snippet": "Ο Δημήτρης Ιτούδης έκανε δηλώσεις με αφορμή τον αγώνα Ολυμπιακός - Χάποελ Τελ Αβίβ (25/11, 21:15) στην Αθήνα, για λογαριασμό της 14ης αγωνιστικής της…",
+"also": [],
+"id": "3240c69e6300"
+},
 {
 "title": "Ολυμπιακός: Η αναφορά της UEFA για την πρόκριση των «ερυθρολεύκων» κόντρα στη Μίλαν",
 "url": "https://sportday.gr/podosfairo/366382_olympiakos-i-anafora-tis-uefa-gia-tin-prokrisi-ton-erythrolefkon-kontra-sti-milan.html",
@@ -5000,18 +5012,6 @@
 "snippet": "Ο Αθηναϊκός υποδέχεται στο κλειστό του Βύρωνα τον Παναθηναϊκό (17:00) στο ντέρμπι της 7ης αγωνιστικής, με τον Ολυμπιακό να υποδέχεται τον Παναθλητικό...",
 "also": [],
 "id": "43ecc4977b8e"
-},
-{
-"title": "Ολυμπιακός: Οι αλλαγές που ετοιμάζει ο Αλγουαθίλ για τον Ηρακλή",
-"url": "http://www.sport-fm.gr/article/5162439",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-21T06:46+00:00",
-"sport": "general",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ εξετάζει αλλαγές στην ενδεκάδα του Ολυμπιακού για τον Ηρακλή, με τους τραυματισμούς να φέρνουν νέα πρόσωπα στο προσκήνιο και τον Έσε να…",
-"also": [],
-"id": "4150c5d59e8d"
 }
 ]
 }
