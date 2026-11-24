@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T14:29:54+00:00",
+"generated_at": "2026-11-24T14:44:56+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η δύσκολη εξίσωση του Ιμανόλ, οι εκπλήξεις με τη Μίλαν και η αναβολή με την ΑΕΚ",
+"url": "https://www.sdna.gr/podosfairo/1490029_olympiakos-i-dyskoli-exisosi-toy-imanol-oi-ekplixeis-me-ti-milan-kai-i-anaboli",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-24T14:41+00:00",
+"sport": "football",
+"snippet": "Οι σημαντικές απουσίες στη μεσοεπιθετική γραμμή περιορίζουν τις επιλογές του Ιμανόλ Αλγκουαθίλ. Πιθανές εκπλήξεις με τη Μίλαν και δύσκολες αποφάσεις...",
+"also": [],
+"id": "c21bf9dc138c"
+},
+{
+"title": "Μίτσιτς: Οι δηλώσεις του ενόψει Ολυμπιακού",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589380/mitsits-oi-diloseis-toy-enopsei-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T14:35+00:00",
+"sport": "basket",
+"snippet": "Διαβάστε όλα όσα είπε στις δηλώσεις του ο Βασίλιε Μίτσιτς ενόψει της αναμέτρησης του Ολυμπιακού κόντρα στη Χάποελ Τελ Αβίβ, για την 14η αγωνιστική της…",
+"also": [],
+"id": "74018bfe2e9f"
+},
 {
 "title": "Ιτούδης: Οι δηλώσεις του ενόψει Ολυμπιακού",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2589379/itoydis-oi-diloseis-toy-enopsei-olympiakoy",
@@ -13,6 +37,18 @@
 "snippet": "Διαβάστε όλα όσα είπε στις δηλώσεις του ο Δημήτρης Ιτούδης ενόψει της αναμέτρησης του Ολυμπιακού κόντρα στη Χάποελ Τελ Αβίβ.",
 "also": [],
 "id": "4ffa928c43ef"
+},
+{
+"title": "Ανακοίνωση θέσεων για άτομα με οπτική αναπηρία στον αγώνα με την AC Milan",
+"url": "https://www.olympiacos.org/2026/11/24/anakoinosi-theseon-gia-atoma-me-optiki-anapiria-ston-agona-me-tin-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-24T14:27+00:00",
+"sport": "football",
+"snippet": "Ενημέρωση για τις θέσεις ατόμων με οπτική αναπηρία στο ματς Ολυμπιακός – AC Milan στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "fd1611b20e6b"
 },
 {
 "title": "Άρης: Τα εισιτήρια για το ματς κόντρα στον Ολυμπιακό (video)",
@@ -4984,42 +5020,6 @@
 "snippet": "Δείτε τις καλύτερες στιγμές της νίκης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης.",
 "also": [],
 "id": "49a997a738e5"
-},
-{
-"title": "Το πανόραμα της Euroleague μετά τις νίκες Παναθηναϊκού και Ολυμπιακού",
-"url": "https://www.sdna.gr/mpasket/1488785_panorama-tis-euroleague-meta-tis-nikes-panathinaikoy-kai-olympiakoy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T22:32+00:00",
-"sport": "basket",
-"snippet": "Ολοκληρώθηκε η 13η αγωνιστική της Euroleague με τον Παναθηναϊκό και τον Ολυμπιακό να κλείνουν την... διαβολοβδομάδα με νικηφόρα αποτελέσματα.",
-"also": [],
-"id": "3705cc0c1afb"
-},
-{
-"title": "Φουρνιέ: «Το πνεύμα αυτής της ομάδας είναι ξεχωριστό»",
-"url": "https://www.ertsports.gr/mpasket/euroleague/fournie-to-pneyma-aytis-tis-omadas-einai-ksexoristo/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-20T22:19+00:00",
-"sport": "basket",
-"snippet": "Την ικανοποίησή του για την εικόνα του Ολυμπιακού στη μεγάλη νίκη απέναντι στη Ρεάλ Μαδρίτης εξέφρασε ο Εβάν Φουρνιέ, υπογραμμίζοντας πως το στοιχείο που κάνει…",
-"also": [],
-"id": "ba457eba9a3a"
-},
-{
-"title": "Μπαρτζώκας στην συνέντευξη Τύπου: «Ψάχνουμε την αγορά, δεν είναι εύκολο…»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15242375/mpartzokas-stin-synenteyksi-typou-psaxnoume-tin-agora-den-einai-eykolo/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T22:17+00:00",
-"sport": "basket",
-"snippet": "Ο τεχνικός των «ερυθρόλευκων» υπογράμμισε μεταξύ άλλων ότι αυτή την εποχή δεν είναι εύκολο να βρεθεί παίκτης που να μπορεί να σταθεί στον Ολυμπιακό. Αναλυτικά…",
-"also": [],
-"id": "96fe6b550b3e"
 }
 ]
 }
