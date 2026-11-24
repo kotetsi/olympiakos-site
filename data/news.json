@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T19:32:39+00:00",
+"generated_at": "2026-11-24T19:47:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "O Δουρέκας στέλνει παίκτη στον Ολυμπιακό",
+"url": "https://sportime.gr/olimpiakos/o-dourekas-stelni-pekti-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T19:35+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός εξετάζει τον Σαΐντ Μπενραχμά για την επίθεση. Ο Αλγερινός εξτρέμ παίζει στη NEOM, όπου βρίσκεται και ο Κυριάκος Δουρέκας.",
+"also": [],
+"id": "28b4ac953535"
+},
 {
 "title": "Ολυμπιακός: Έξι αλλαγές ετοιμάζει ο Αμορίμ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-exi-allages-etimazi-o-amorim?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5008,18 +5020,6 @@
 "snippet": "Χωρίς κάποια μεγάλη έκπληξη και με τις αναμενόμενες απουσίες απαρτίζεται η αποστολή του Ολυμπιακού για την επερχόμενη αναμέτρηση με τον Ηρακλή στον Πειραιά.",
 "also": [],
 "id": "5ce2f2e4b1be"
-},
-{
-"title": "Καλή η αναβολή για τον Ολυμπιακό, εκτός αν η ΑΕΚ κάνει «ντρίμπλα»...",
-"url": "https://www.gazzetta.gr/football/2588475/kali-i-anaboli-gia-ton-olympiako-ektos-i-aek-kanei-ntrimpla",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T10:54+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος εξηγεί στο blog του στο Gazzetta πώς έχει η κατάσταση ενόψει του ντέρμπι Ολυμπιακός-ΑΕΚ.",
-"also": [],
-"id": "a29e548a1160"
 }
 ]
 }
