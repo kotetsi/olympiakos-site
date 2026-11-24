@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-24T11:43:08+00:00",
+"generated_at": "2026-11-24T11:58:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Στην προπόνηση ο ΜακΚίσικ, θυμήθηκε τα παλιά",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589346/olympiakos-stin-proponisi-o-makkisik-thymithike-ta-palia",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T11:54+00:00",
+"sport": "basket",
+"snippet": "Ο Σακιέλ ΜακΚίσικ βρέθηκε στην προπόνηση του Ολυμπιακού και θυμήθηκε τα παλιά",
+"also": [],
+"id": "8c17a130aec3"
+},
+{
+"title": "Ολυμπιακός: Επέστρεψε στο ΣΕΦ ο ΜακΚίσικ!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15249152/olympiakos-epestrepse-sto-sef-o-makkisik/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-24T11:52+00:00",
+"sport": "basket",
+"snippet": "Παρών στο ΣΕΦ ο Σακίλ ΜακΚίσικ, ο Αμερικανός μπασκετμπολίστας βρέθηκε στην προπόνηση του Ολυμπιακού εν όψει της αναμέτρησης με τη Χάποελ Τελ Αβίβ (25/11…",
+"also": [],
+"id": "d68bb868e16e"
+},
+{
+"title": "Ο Αλγουαθίλ έχει ένα μεταγραφικό όπλο στη Super League 2 που οι αντίπαλοι του Ολυμπιακού δεν πρέπει να υποτιμήσουν",
+"url": "https://sportime.gr/olimpiakos/o-algouathil-echi-ena-metagrafiko-oplo-sti-super-league-2-pou-i-antipali-tou-olimpiakou-den-prepi-na-ipotimisoun?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T11:47+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγουαθίλ και ο Νταβίντ Φουστέρ μπορούν να αλλάξουν τη μεταγραφική πολιτική του Ολυμπιακού, αξιοποιώντας τη δεύτερη ομάδα του συλλόγου.",
+"also": [],
+"id": "4448f6b0a737"
+},
+{
+"title": "Ιτούδης για το Ολυμπιακός – Χάποελ: «Μεγάλη πρόκληση κόντρα στους πρωταθλητές»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15249145/itoudis-gia-to-olympiakos-xapoel-megali-proklisi-kontra-stous-protathlites/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-24T11:43+00:00",
+"sport": "basket",
+"snippet": "Αντίστροφη μέτρηση για την αναμέτρηση της Χάποελ Τελ Αβίβ με τον Ολυμπιακό (24/11, 21:15, Novasports Prime) για τη 14η Αγωνιστική της EuroLeague. Ο Δημήτρης…",
+"also": [],
+"id": "b616f4104958"
+},
 {
 "title": "Nova TV: Stoiximan Super League με Άρης – Ολυμπιακός, Ατρόμητος – Παναθηναϊκός, Άρσεναλ – Μάντσεστερ Σίτι και Ντόρτμουντ – Λεβερκούζεν",
 "url": "https://www.novasports.gr/sport/podosfairo/event/premier-league/article/15249135/nova-tv-stoiximan-super-league-me-aris-olympiakos-atromitos-panathinaikos-arsenal-mantsester-siti-kai-ntortmount-leverkouzen/",
@@ -15,16 +63,24 @@
 "id": "480ee2a26a97"
 },
 {
-"title": "Ο Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2040002/o-sakil-makkisik-stin-proponisi-tou-olimpiakou/",
+"title": "Επίσκεψη του Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού",
+"url": "http://www.sport-fm.gr/article/5163171",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-24T11:16+00:00",
+"sport": "basket",
+"snippet": "Ο Σακίλ ΜακΚίσικ επέστρεψε στο ΣΕΦ, δίνοντας το «παρών» στην προπόνηση του Ολυμπιακού!",
+"also": [
+{
 "source": "eurohoops",
 "source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-24T11:25+00:00",
-"sport": "basket",
-"snippet": "Ένας πάρα πολύ καλός φίλος του Ολυμπιακού ήρθε από τα παλιά... The post Ο Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού appeared first on Eurohoops .",
-"also": [],
-"id": "f09fa1ecda3d"
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2040002/o-sakil-makkisik-stin-proponisi-tou-olimpiakou/",
+"title": "Ο Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού (Video)",
+"published": "2026-11-24T11:25+00:00"
+}
+],
+"id": "22825d36593d"
 },
 {
 "title": "Εντζάι: «Δεν με νοιάζει να παίζω καλά αρκεί να κερδίζει ο Ολυμπιακός!»",
@@ -4964,54 +5020,6 @@
 "snippet": "Ακούστε όσα είπαν οι παραγωγοί του bwinΣΠΟΡ FM 94,6 για το 92-76 του Ολυμπιακού επί της Ρεάλ Μαδρίτης.",
 "also": [],
 "id": "044f823c721f"
-},
-{
-"title": "Τσέλσι: Ποιος θρύλος του αθλητισμού θέλει να γίνει μέτοχός της",
-"url": "https://www.metrosport.gr/tselsi-poios-thrylos-toy-athlitismoy-thelei-na-ginei-metochos-tis-1334313",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-20T21:35+00:00",
-"sport": "general",
-"snippet": "Έντονο ενδιαφέρον ενός θρύλου του αθλητισμού προκειμένου να αποκτήσει μετοχές της Τσέλσι έφεραν στο φως της δημοσιότητας αγγλικά Μέσα Μαζικής ...",
-"also": [],
-"id": "f97340ef4f33"
-},
-{
-"title": "Πέδρο Μαρτίνεθ: «Πρέπει να αποδεχτούμε την ήττα…»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15242206/pedro-martineth-prepei-na-apodextoume-tin-itta/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-20T21:33+00:00",
-"sport": "basket",
-"snippet": "Ο τεχνικός της Ρεάλ Μαδρίτης μετά την ήττα από τον Ολυμπιακό δεν είχε όρεξη για πολλές κουβέντες.Παραδέχτηκε τη δίκαιη επικράτηση των «ερυθρόλευκων» και στην…",
-"also": [],
-"id": "388fa6747bac"
-},
-{
-"title": "Έλληνας η επόμενη μεταγραφή του Ολυμπιακού μετά τον Νους - Ποιος φεύγει",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1488755_ellinas-i-epomeni-metagrafi-toy-olympiakoy-meta-ton-noys-poios",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T21:31+00:00",
-"sport": "football",
-"snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ είχε απορρίψει την περίπτωσή του και αφού δεν δικαιώθηκε εκ του αποτελέσματος, στον Ολυμπιακό ασχολούνται ξανά μαζί του.",
-"also": [],
-"id": "dd3f33a1ed6b"
-},
-{
-"title": "Γιατί ο Ολυμπιακός χωρίς τον Μοντέρο παίζει τώρα μπασκετάρα",
-"url": "https://sportime.gr/olympiakos-bc/giati-o-olimpiakos-choris-ton-montero-pezi-tora-basketara?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-20T21:31+00:00",
-"sport": "basket",
-"snippet": "Γιατί ο Ολυμπιακός παίζει ξανά εντυπωσιακό μπάσκετ χωρίς τον Ζαν Μοντέρο; Οι αλλαγές του Μπαρτζώκα, οι 28 ασίστ με τη Ρεάλ και η νέα αγωνιστική εικόνα.",
-"also": [],
-"id": "aecd7c2c56c4"
 }
 ]
 }
