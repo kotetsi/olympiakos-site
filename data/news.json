@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T14:44:56+00:00",
+"generated_at": "2026-11-24T15:00:04+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Σενάρια για Μπενραχμά!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15249477/olympiakos-senaria-gia-mpenraxma/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-24T14:45+00:00",
+"sport": "football",
+"snippet": "Ένα νέο όνομα έρχεται να προστεθεί στη λίστα των ποδοσφαιριστών που φέρονται να απασχολούν τον Ολυμπιακό, για την ενίσχυση στα άκρα της επίθεσης. Ο λόγος για…",
+"also": [],
+"id": "4514b5e67b15"
+},
 {
 "title": "Ολυμπιακός: Η δύσκολη εξίσωση του Ιμανόλ, οι εκπλήξεις με τη Μίλαν και η αναβολή με την ΑΕΚ",
 "url": "https://www.sdna.gr/podosfairo/1490029_olympiakos-i-dyskoli-exisosi-toy-imanol-oi-ekplixeis-me-ti-milan-kai-i-anaboli",
@@ -13,6 +25,18 @@
 "snippet": "Οι σημαντικές απουσίες στη μεσοεπιθετική γραμμή περιορίζουν τις επιλογές του Ιμανόλ Αλγκουαθίλ. Πιθανές εκπλήξεις με τη Μίλαν και δύσκολες αποφάσεις...",
 "also": [],
 "id": "c21bf9dc138c"
+},
+{
+"title": "Ιτούδης ενόψει Ολυμπιακού: «Πρέπει να βρεθούμε στην καλύτερη δυνατή κατάσταση για να νικήσουμε»",
+"url": "https://www.sdna.gr/mpasket/1490024_itoydis-enopsei-olympiakoy-prepei-na-brethoyme-stin-kalyteri-dynati-katastasi-gia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-24T14:39+00:00",
+"sport": "basket",
+"snippet": "Ο Δημήτρης Ιτούδης στάθηκε στη μεγάλη προσπάθεια που πρέπει να καταβάλει η ομάδα του προκειμένου να φύγει νικήτρια από την έδρα του Ολυμπιακού για...",
+"also": [],
+"id": "ea1279443413"
 },
 {
 "title": "Μίτσιτς: Οι δηλώσεις του ενόψει Ολυμπιακού",
@@ -4996,30 +5020,6 @@
 "snippet": "Δείτε τα καλύτερα στιγμιότυπα από την εντυπωσιακή εντός έδρας νίκη του Ολυμπιακού επί της Ρεάλ Μαδρίτης για τη 13η αγωνιστική της Ευρωλίγκας.",
 "also": [],
 "id": "7b47028a09b6"
-},
-{
-"title": "Ολυμπιακός: Ο Φουρνιέ ρώτησε τι ώρα κλείνει το αγαπημένο του σουβλατζίδικο",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588374/olympiakos-o-foyrnie-rotise-ti-ora-kleinei-agapimeno-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T22:43+00:00",
-"sport": "basket",
-"snippet": "Ο Εβάν Φουρνιέ πανηγύρισε τη νίκη του Ολυμπιακού επί της Ρεάλ Μαδρίτης, όμως μετά το τέλος της αναμέτρησης είχε μία ακόμη... αποστολή, να μάθει τι ώρα κλείνει…",
-"also": [],
-"id": "8d20f49576d9"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ Μαδρίτης: Οι καλύτερες στιγμές της θρυλικής νίκης των Πειραιωτών κόντρα στη «Βασίλισσα»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588373/olympiakos-real-madritis-oi-kalyteres-stigmes-tis-thrylikis-nikis-ton",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-20T22:36+00:00",
-"sport": "basket",
-"snippet": "Δείτε τις καλύτερες στιγμές της νίκης του Ολυμπιακού κόντρα στη Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "49a997a738e5"
 }
 ]
 }
