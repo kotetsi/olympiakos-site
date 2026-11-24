@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T11:58:17+00:00",
+"generated_at": "2026-11-24T12:13:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο αλάνθαστος Μανώλης Σάλιακας",
+"url": "https://sportday.gr/podosfairo/366330_olympiakos-o-alanthastos-manolis-saliakas.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T12:04+00:00",
+"sport": "football",
+"snippet": "Ο Μανώλης Σάλιακας εξελίσσεται σε αθόρυβη δύναμη στον Ολυμπιακό με τα στατιστικά του στο ματς με τον Ηρακλή να αποτελούν την επιβεβαίωση",
+"also": [],
+"id": "d037f42f86a1"
+},
 {
 "title": "Ολυμπιακός: Στην προπόνηση ο ΜακΚίσικ, θυμήθηκε τα παλιά",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2589346/olympiakos-stin-proponisi-o-makkisik-thymithike-ta-palia",
@@ -37,6 +49,18 @@
 "snippet": "Ο Ιμανόλ Αλγουαθίλ και ο Νταβίντ Φουστέρ μπορούν να αλλάξουν τη μεταγραφική πολιτική του Ολυμπιακού, αξιοποιώντας τη δεύτερη ομάδα του συλλόγου.",
 "also": [],
 "id": "4448f6b0a737"
+},
+{
+"title": "Νικολακόπουλος: «Μπορεί να έχει εκπλήξεις ο Ολυμπιακός κόντρα στη Μίλαν»",
+"url": "http://www.sport-fm.gr/article/5163174",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-24T11:45+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο.",
+"also": [],
+"id": "d4393479cd6d"
 },
 {
 "title": "Ιτούδης για το Ολυμπιακός – Χάποελ: «Μεγάλη πρόκληση κόντρα στους πρωταθλητές»",
@@ -76,8 +100,8 @@
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2040002/o-sakil-makkisik-stin-proponisi-tou-olimpiakou/",
-"title": "Ο Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού (Video)",
-"published": "2026-11-24T11:25+00:00"
+"title": "Ο Σακίλ ΜακΚίσικ στην προπόνηση του Ολυμπιακού (video)",
+"published": "2026-11-24T11:22+00:00"
 }
 ],
 "id": "22825d36593d"
@@ -4996,30 +5020,6 @@
 "snippet": "\"Έπαθε\" ο Εβάν Φουρνιέ με την εμφάνιση του Ολυμπιακού στη νίκη (92-76) επί της Ρεάλ Μαδρίτης στη SUNEL Arena για τη 13η αγωνιστική της Ευρωλίγκας. The post…",
 "also": [],
 "id": "306129a28d43"
-},
-{
-"title": "Μαρτίνεθ: «Κακή μέρα για εμάς, ο Ολυμπιακός ήταν καλύτερος και νίκησε δίκαια»",
-"url": "http://www.sport-fm.gr/article/5162411",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T21:43+00:00",
-"sport": "general",
-"snippet": "Ο Πέδρο Mαρτίνεθ παραδέχτηκε την ανωτερότητα του Ολυμπιακού, τονίζοντας πως η νίκη των «ερυθρόλευκων» ήταν απόλυτα δίκαιη.",
-"also": [],
-"id": "b376aad5eb98"
-},
-{
-"title": "Τα σχόλια στον bwinΣΠΟΡ FM 94,6 για τη μεγάλη νίκη του Ολυμπιακού επί της Ρεάλ",
-"url": "http://www.sport-fm.gr/article/5162410",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T21:36+00:00",
-"sport": "general",
-"snippet": "Ακούστε όσα είπαν οι παραγωγοί του bwinΣΠΟΡ FM 94,6 για το 92-76 του Ολυμπιακού επί της Ρεάλ Μαδρίτης.",
-"also": [],
-"id": "044f823c721f"
 }
 ]
 }
