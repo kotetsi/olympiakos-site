@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-24T06:40:26+00:00",
+"generated_at": "2026-11-24T06:55:34+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ηρακλής-Άνταμ Ζούλεβιτς: Ο Σλοβάκος που έκλεψε την παράσταση στο «Γεώργιος Καραϊσκάκης»",
+"url": "https://www.metrosport.gr/iraklis-antam-zoylievits-o-slovakos-poy-eklepse-tin-parastasi-sto-georgios-karaiskakis-1334618",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-24T06:30+00:00",
+"sport": "football",
+"snippet": "Ο Άνταμ Ζούλεβιτς ήταν το πρόσωπο που έκλεψε την παράσταση στο πρώτο ημίχρονο της αναμέτρησης του Ολυμπιακού με τον Ηρακλή, για την 11η αγωνιστική της...",
+"also": [],
+"id": "d87a9393ac34"
+},
 {
 "title": "Ολυμπιακός: Ο ορισμός του Μπέιλι και η επιτυχία του Ιμανόλ",
 "url": "https://sportday.gr/podosfairo/366210_olympiakos-o-orismos-tou-mpeili-kai-i-epitychia-tou-imanol.html",
@@ -5000,18 +5012,6 @@
 "snippet": "Ο Πέτρος και ο Κωνσταντίνος Κόκκαλης βρέθηκαν στη Sunel Arena για τον αγώνα Ολυμπιακός - Ρεάλ Μαδρίτης. Η κοινή παρουσία των γιων του Σωκράτη Κόκκαλη.",
 "also": [],
 "id": "7014b1130963"
-},
-{
-"title": "Total basket από τον Ολυμπιακό: Έξι παίκτες με τουλάχιστον 6 πόντους και οκτώ με 1+ ασίστ στο πρώτο ημίχρονο!",
-"url": "http://www.sport-fm.gr/article/5162391",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T20:12+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός πραγματοποίησε ένα κυριαρχικό πρώτο ημίχρονο κόντρα στη Ρεάλ, με οκτώ παίκτες να μοιράζουν ασίστ και έξι παίκτες με πάνω από έξι πόντους!",
-"also": [],
-"id": "9f64671cda4e"
 }
 ]
 }
