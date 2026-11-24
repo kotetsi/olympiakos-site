@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T20:48:22+00:00",
+"generated_at": "2026-11-24T21:03:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Όλα όσα είπε ο Αλγκουαθίλ στον Ζότα Σίλβα για το πέναλτι με τον Ηρακλή",
+"url": "https://sportday.gr/podosfairo/366388_olympiakos-ola-osa-eipe-o-algkouathil-ston-zota-silva-gia-to-penalti-me-ton-irakli.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-24T20:56+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγκουαθίλ εξήγησε στον Ζότα Σίλβα το σκεπτικό πίσω από την επανεκτέλεση του πέναλτι από τον Λίον Μπέιλι στο Ολυμπιακός - Ηρακλής.",
+"also": [],
+"id": "519787576956"
+},
+{
+"title": "Ολυμπιακός: Ο ΠΑΟΚ αποφάσισε για Μπριν Ταϊρί",
+"url": "https://sportime.gr/paok-bc/olimpiakos-o-paok-apofasise-gia-brin-tairi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T20:55+00:00",
+"sport": "general",
+"snippet": "Ο ΠΑΟΚ δεν σκοπεύει να παραχωρήσει τον Μπριν Ταϊρί, παρά τα σενάρια ανταλλαγής με τον Τάιλερ Ντόρσεϊ του Ολυμπιακού. Τι ισχύει για τον γκαρντ.",
+"also": [],
+"id": "c4a546bba1fd"
+},
 {
 "title": "Τζολάκης: Η εκτόξευση στην Premier League και το οικονομικό όφελος για τον Ολυμπιακό",
 "url": "https://www.metrosport.gr/tzolakis-i-ektoxeysi-stin-premier-league-kai-to-oikonomiko-ofelos-gia-ton-olympiako-1334679",
@@ -4996,30 +5020,6 @@
 }
 ],
 "id": "992dda595595"
-},
-{
-"title": "Αυτό είπε ο κόσμος του Ολυμπιακού στον Ντόρσεϊ – Τι ανέφερε ο Γιώργος Συρίγος",
-"url": "https://sportime.gr/basket/afto-ipe-o-kosmos-tou-olimpiakou-ston-ntorsei-ti-anefere-o-giorgos-sirigos?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T11:11+00:00",
-"sport": "basket",
-"snippet": "Ο Γιώργος Συρίγος εξήγησε πώς ερμηνεύει τις αποδοκιμασίες των οπαδών του Ολυμπιακού προς τον Τάιλερ Ντόρσεϊ στο παιχνίδι με τη Ρεάλ.",
-"also": [],
-"id": "afe1c3e200b7"
-},
-{
-"title": "Ολυμπιακός: Μασκοφόρος ο Σμαΐλοβιτς ενόψει Ηρακλή (pic)",
-"url": "https://www.sdna.gr/podosfairo/1488929_olympiakos-maskoforos-o-smailobits-enopsei-irakli-pic",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T11:07+00:00",
-"sport": "football",
-"snippet": "Ο Ζινεντίν Σμαΐλοβιτς επέστρεψε με πρόβλημα στη… μύτη από τις υποχρεώσεις του με την εθνική Βοσνίας.",
-"also": [],
-"id": "928201298926"
 }
 ]
 }
