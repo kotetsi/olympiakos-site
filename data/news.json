@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-24T08:41:30+00:00",
+"generated_at": "2026-11-24T08:56:39+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ποκουσέφσκι για ελληνικό διαβατήριο, ΠΑΟΚ και... Ολυμπιακό",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2589289/pokoysefski-gia-elliniko-diabatirio-paok-kai-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T08:47+00:00",
+"sport": "basket",
+"snippet": "Ο Αλεξέι Ποκουσέφσκι σε τηλεοπτική του συνέντευξη, μίλησε για διάφορα ζητήματα που τον αφορούν, από το περασμένο καλοκαίρι και μετά.",
+"also": [],
+"id": "7e06321c1345"
+},
+{
+"title": "Η αναβολή με την ΑΕΚ δεν είναι πολυτέλεια, αλλά εξελίσσεται σε ανάγκη για τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/football/superleague/2589169/i-anaboli-me-tin-aek-den-einai-polyteleia-alla-exelissetai-se-anagki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-24T08:45+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr τους λόγους που ο Ολυμπιακός είναι πολύ πιθανό να ασκήσει το «Joker Right» και να ζητήσει την αναβολή του…",
+"also": [],
+"id": "7d4af9a6d2c2"
+},
 {
 "title": "Στο σημερινό Center Fox, AEK για υπέρβαση, μεταγραφές μετά το «σοκ» στον Παναθηναϊκός, έχασε Μπέιλι ο Ολυμπιακός και ο «Χρυσός» Άρης",
 "url": "https://www.sdna.gr/genikes-eidiseis/1489894_sto-simerino-center-fox-aek-gia-yperbasi-metagrafes-meta-sok-ston",
@@ -4972,38 +4996,6 @@
 "snippet": "Ένας απολαυστικός Ολυμπιακός έκανε πάρτι στη Sunel Arena απέναντι στη Ρεάλ και με μαγικό μπάσκετ πήρε μία εύκολη νίκη. Ο Ταϊρίκ Τζόουνς «ντύθηκε» Βεζένκοφ και…",
 "also": [],
 "id": "69149b7c6ca7"
-},
-{
-"title": "Βαθμολογία Euroleague: Ξανά κορυφή μαζί με τη Βαλένθια ο Ολυμπιακός!",
-"url": "http://www.sport-fm.gr/article/5162399",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T21:07+00:00",
-"sport": "basket",
-"snippet": "Δείτε πώς διαμορφώθηκε η βαθμολογία της Euroleague μετά τη νίκη του Ολυμπιακού επί της Ρεάλ Μαδρίτης για τη 13η αγωνιστική της Euroleague.",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2588357/bathmologia-euroleague-o-olympiakos-sygkatoikei-stin-koryfi-me-ti",
-"title": "Βαθμολογία EuroLeague: Ο Ολυμπιακός συγκατοικεί στην κορυφή με τη Βαλένθια",
-"published": "2026-11-20T21:08+00:00"
-}
-],
-"id": "d61f86eaedbb"
-},
-{
-"title": "Τιτάνας Ολυμπιακός, εξανάγκασε τη Ρεάλ σε υπόκλιση με μπάσκετ-όνειρο!",
-"url": "http://www.sport-fm.gr/article/5162372",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-20T21:07+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός κυριάρχησε απόλυτα καθ’ όλη τη διάρκεια της αναμέτρησής του με τη Ρεάλ Μαδρίτης, παίρνοντας την επιβλητικότατη νίκη 92-76 και παραμένοντας με…",
-"also": [],
-"id": "f9c1f9e34424"
 }
 ]
 }
