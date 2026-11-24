@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-24T09:26:55+00:00",
+"generated_at": "2026-11-24T09:42:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Πειραιάς ανάβει τα φώτα των Χριστουγέννων με Νατάσα Θεοδωρίδου την... ώρα του Ολυμπιακός-Παναθηναϊκός",
+"url": "https://www.sdna.gr/podosfairo/1489916_o-peiraias-anabei-ta-fota-ton-hristoygennon-me-natasa-theodoridoy-tin-ora-toy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-24T09:35+00:00",
+"sport": "football",
+"snippet": "Ο Δήμος Πειραιά ανακοίνωσε την εκδήλωση για την φωταγώγηση του χριστουγεννιάτικου δέντρου ακριβώς την ώρα που θα ξεκινήσει και το ντέρμπι \"αιωνίων\"...",
+"also": [],
+"id": "976de6bfd925"
+},
+{
+"title": "Ο Πούλισικ είναι ο λόγος που ο Ολυμπιακός δεν πρέπει να ξεγελαστεί από τη Μίλαν",
+"url": "https://sportime.gr/olimpiakos/o-poulisik-ine-o-logos-pou-o-olimpiakos-den-prepi-na-xegelasti-apo-ti-milan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-24T09:32+00:00",
+"sport": "football",
+"snippet": "Ο Κρίστιαν Πούλισικ δεν έχει ξεκινήσει βασικός στο φετινό Europa League και η εξαιρετική φόρμα του δημιουργεί ένα νέο αγωνιστικό πρόβλημα στον Ολυμπιακό.",
+"also": [],
+"id": "2811753cbf0f"
+},
+{
+"title": "Μετά τα Σαχτάρ – ΑΕΚ και Γερμανία – Ελλάδα «σφυρίζει» στο Ολυμπιακός – Μίλαν!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15249037/meta-ta-saxtar-aek-kai-germania-ellada-sfyrizei-sto-olympiakos-milan/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-24T09:31+00:00",
+"sport": "football",
+"snippet": "Στο Φάληρο θα σφυρίξει την αναμέτρηση του Ολυμπιακού με τη Μίλαν (26/11, 19:45, MC Novasports.gr) ο Άγγλος διαιτητής, Κρις Κάβανα. Πρόκειται για το δεύτερο…",
+"also": [],
+"id": "314e565410fc"
+},
+{
+"title": "Ηρακλής: Από τον Κωνσταντίνου στον Ζούλεβιτς!",
+"url": "https://www.metrosport.gr/olympiakos-iraklis-mia-paradosi-gemati-gkol-kai-entyposiaka-rekor-1334559",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-24T09:30+00:00",
+"sport": "football",
+"snippet": "Μπορεί ο Ηρακλής να γνώρισε βαριά ήττα με 6-2 από τον Ολυμπιακό, ωστόσο η αναμέτρηση στο «Γ. Καραϊσκάκης» είχε και... μία ξεχωριστή στιγμή για τον ...",
+"also": [],
+"id": "9f82118b3806"
+},
 {
 "title": "Εκπλήξεις με Μίλαν και χειμωνιάτικα ψώνια | Ολυμπιακός Q&A by Interwetten",
 "url": "https://www.gazzetta.gr/football/superleague/2589300/ekplixeis-me-milan-kai-heimoniatika-psonia-olympiakos-qa-interwetten",
@@ -23,7 +71,15 @@
 "published": "2026-11-24T09:19+00:00",
 "sport": "football",
 "snippet": "Ο Άγγλος, Κρις Κάβανα, θα είναι ο διαιτητής στην εντός έδρας αναμέτρηση του Ολυμπιακού με τη Μίλαν, για την αγωνιστική του Europa League.",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/europa-league/2589308/olympiakos-milan-o-kris-kabana-oristike-gia-tin-anametrisi",
+"title": "Ολυμπιακός - Μίλαν: Ο Κρις Κάβανα ορίστηκε για την αναμέτρηση",
+"published": "2026-11-24T09:36+00:00"
+}
+],
 "id": "4273604a36b3"
 },
 {
@@ -4956,54 +5012,6 @@
 "snippet": "Ο Ολυμπιακός την 14η αγωνιστική της EuroLeague θα υποδεχθεί τη Χάποελ Τελ Αβίβ.",
 "also": [],
 "id": "f366c7060af9"
-},
-{
-"title": "Ολυμπιακός – Ρεάλ Μαδρίτης 92-76: «Ερυθρόλευκος» θρίαμβος στη SUNEL Arena και παραμονή στην κορυφή της EuroLeague",
-"url": "https://www.ertsports.gr/mpasket/euroleague/olympiakos-real-madritis-92-76-erythroleykos-thriamvos-sti-sunel-arena-kai-paramoni-stin-koryfi-tis-euroleague/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-20T21:10+00:00",
-"sport": "basket",
-"snippet": "Με μια επιβλητική εμφάνιση και έχοντας τον απόλυτο έλεγχο στη μεγαλύτερη διάρκεια της αναμέτρησης, ο Ολυμπιακός επικράτησε της Ρεάλ Μαδρίτης με 92-76 στη SUNEL…",
-"also": [],
-"id": "ca1be77124eb"
-},
-{
-"title": "ΚΥΡΙΑΡΧΟΣ Ολυμπιακός ανάγκασε τη Ρεάλ σε βαθιά ΥΠΟΚΛΙΣΗ!",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2038342/kiriarchos-olimpiakos-anagkase-ti-real-se-vathia-ipoklisi/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-20T21:10+00:00",
-"sport": "basket",
-"snippet": "Ένας Ολυμπιακός... να τον πιείς στο ποτήρι \"κατασπάραξε\" την Ρεάλ Μαδρίτης (92-76) στην κατάμεστη SUNEL Arena. The post ΚΥΡΙΑΡΧΟΣ Ολυμπιακός ανάγκασε τη Ρεάλ…",
-"also": [],
-"id": "53288e9ddbdb"
-},
-{
-"title": "Η βαθμολογία του Ολυμπιακού: «Έπιασε» την Βαλένθια στην κορυφή",
-"url": "https://www.sdna.gr/mpasket/1488748_i-bathmologia-toy-olympiakoy-epiase-tin-balenthia-stin-koryfi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T21:09+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός κέρδισε με άνεση τη Ρεάλ Μαδρίτης και ανέβηκε στην κορυφή της βαθμολογία μαζί με την Βαλένθια.",
-"also": [],
-"id": "43e65699deef"
-},
-{
-"title": "Ολυμπιακός - Ρεάλ: 92-76",
-"url": "https://www.sdna.gr/mpasket/1488747_olympiakos-real-92-76",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-20T21:08+00:00",
-"sport": "basket",
-"snippet": "Η Ρεάλ έψαχνε αντίδραση μετά την ήττα από τη Μπεσίκτας, αλλά ο Ολυμπιακός δεν της έδωσε περιθώριο να το πιστέψει ούτε λεπτό. Τη διέλυσε (92-76)...",
-"also": [],
-"id": "4db1ee526ad5"
 }
 ]
 }
