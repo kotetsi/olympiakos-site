@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T08:55:24+00:00",
+"generated_at": "2026-11-25T09:10:32+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός : Ο Μπακούλας μπορεί να παίξει με τη Μίλαν αλλά ο Σιπιόνι όχι",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bakoulas-bori-na-pexi-me-ti-milan-alla-o-sipioni-ochi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-25T08:58+00:00",
+"sport": "general",
+"snippet": "Ο Θεοφάνης Μπακούλας έχει δικαίωμα συμμετοχής απέναντι στη Μίλαν σε αντίθεση με τον Σιπιόνι, παρά τη μικρή ηλικιακή διαφορά των δύο παικτών του Ολυμπιακού.",
+"also": [],
+"id": "7a0e09a21a4b"
+},
 {
 "title": "ΠΑΟΚ και Ντόρσεϊ περιμένουν την απόφαση του Ολυμπιακού",
 "url": "https://www.gazzetta.gr/basketball/basket-league/2589571/paok-kai-ntorsei-perimenoyn-tin-apofasi-toy-olympiakoy",
@@ -47,7 +59,15 @@
 "published": "2026-11-25T08:10+00:00",
 "sport": "football",
 "snippet": "Έγιναν γνωστοί από την ΚΕΔ οι διαιτητές της 12ης αγωνιστικής στην Stoiximan Super League, από την οποία ξεχωρίζουν τα δύο ντέρμπι ΑΕΚ – ΠΑΟΚ και Άρης ...",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366460_super-league-poioi-sfyrizoun-ta-ntermpi-aek-paok-kai-aris-olympiakos.html",
+"title": "Super League: Ποιοι σφυρίζουν τα ντέρμπι ΑΕΚ – ΠΑΟΚ και Αρης – Ολυμπιακός",
+"published": "2026-11-25T08:44+00:00"
+}
+],
 "id": "63eb8c0ab528"
 },
 {
@@ -4961,18 +4981,6 @@
 "snippet": "Μια εξαιρετική ΑΕΚ λίγες μέρες μετά την εντός έδρας ήττα από τον Πανιώνιο πέρασε με άνεση από το Ρέντη επικρατώντας με 3-1 του Ολυμπιακού.",
 "also": [],
 "id": "68bc0fae759d"
-},
-{
-"title": "Η ΑΕΚ σόκαρε τον Ολυμπιακό με 1-3 μέσα στο «Μελίνα Μερκούρη» μετά από 13 χρόνια",
-"url": "https://www.sdna.gr/bolei/1489013_i-aek-sokare-ton-olympiako-me-1-3-mesa-sto-melina-merkoyri-meta-apo-13-hronia",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T15:50+00:00",
-"sport": "general",
-"snippet": "Η «Ένωση» ήταν σε μεγάλη μέρα αφού κατάφερε να πάρει καθαρή νίκη μέσα στην έδρα των «ερυθρολεύκων»",
-"also": [],
-"id": "4e1a401d6c59"
 }
 ]
 }
