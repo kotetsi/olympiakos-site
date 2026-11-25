@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T10:11:03+00:00",
+"generated_at": "2026-11-25T10:26:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Από την Πέμπτη διαθέσιμα τα εισιτήρια του ντέρμπι με τον Παναθηναϊκό",
+"url": "https://www.sdna.gr/podosfairo/1490269_olympiakos-apo-tin-pempti-diathesima-ta-eisitiria-toy-ntermpi-me-ton",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T10:23+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός υποδέχεται την Τετάρτη 2/12 τον Παναθηναϊκό για την 5η αγωνιστική της League Phase του Superbet Κυπέλλου Ελλάδας και τα εισιτήρια του...",
+"also": [],
+"id": "2fb2505319e9"
+},
+{
+"title": "Ολυμπιακός – Χάποελ Τελ Αβίβ με SUPER Ενισχυμένη Απόδοση* στο 4.20* για Βεζένκοφ και Φουρνιέ!",
+"url": "https://www.sdna.gr/stoihima/1490263_olympiakos-hapoel-tel-abib-me-super-enishymeni-apodosi-sto-420-gia-bezenkof-kai",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T10:11+00:00",
+"sport": "general",
+"snippet": "Μετά το 92-76 επί της Ρεάλ Μαδρίτης, ο Ολυμπιακός κυνηγά απέναντι στη Χάποελ την τέταρτη σερί νίκη του στην",
+"also": [],
+"id": "0b6c98a59c02"
+},
 {
 "title": "Τα εισιτήρια του αγώνα Ολυμπιακός – Παναθηναϊκός",
 "url": "https://www.olympiacos.org/2026/11/25/ta-eisitiria-tou-agona-olympiakos-panathinaikos-9/",
@@ -4957,30 +4981,6 @@
 "snippet": "Ο Ολυμπιακός είδε και τον Ζινεντίν Σμαϊλοβιτς να έχει χτυπήσει την ώρα που ο Ιμανόλ Αλγκουαθίλ δοκίμασε και τον στόπερ Παναγιώτη Ρέτσο ως εξάρι στις…",
 "also": [],
 "id": "6769244b5a04"
-},
-{
-"title": "EuroLeague: Ολυμπιακός στην κορυφή, κατρακύλα Παναθηναϊκού",
-"url": "https://sportime.gr/basket/euroleague-olimpiakos-stin-korifi-katrakila-panathinaikou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T17:15+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός έχει το καλύτερο Net Rating στα πέντε τελευταία παιχνίδια της EuroLeague με +13,1. Ο Παναθηναϊκός καταγράφει τη μεγαλύτερη πτώση στην απόδοση.",
-"also": [],
-"id": "92a091b7ece1"
-},
-{
-"title": "Ολυμπιακός: Ο Μάριους μίλησε για τους τραυματισμούς",
-"url": "https://www.gazzetta.gr/football/superleague/2588555/olympiakos-o-marioys-milise-gia-toys-traymatismoys",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T17:07+00:00",
-"sport": "football",
-"snippet": "Οι δηλώσεις του Μάριους Μουαντιλμαντζί για τους τραυματισμούς στον Ολυμπιακό.",
-"also": [],
-"id": "74eca9aa5e9b"
 }
 ]
 }
