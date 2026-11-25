@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-25T08:10:00+00:00",
+"generated_at": "2026-11-25T08:25:08+00:00",
 "count": 400,
 "items": [
 {
@@ -8,11 +8,23 @@
 "source": "metrosport",
 "source_name": "Metrosport",
 "official": false,
-"published": "2026-11-25T08:04+00:00",
+"published": "2026-11-25T08:10+00:00",
 "sport": "football",
 "snippet": "Έγιναν γνωστοί από την ΚΕΔ οι διαιτητές της 12ης αγωνιστικής στην Stoiximan Super League, από την οποία ξεχωρίζουν τα δύο ντέρμπι ΑΕΚ – ΠΑΟΚ και Άρης ...",
 "also": [],
 "id": "63eb8c0ab528"
+},
+{
+"title": "Επόμενο εμπόδιο ο Πανιώνιος για τον Ολυμπιακό",
+"url": "https://www.sdna.gr/polo/1490233_epomeno-empodio-o-panionios-gia-ton-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T08:07+00:00",
+"sport": "polo",
+"snippet": "Συνέχεια στο εντυπωσιακό νικηφόρο σερί του θέλει να δώσει ο Ολυμπιακός, ο οποίος δοκιμάζεται απόψε (25/11, 20:30, KOE TV) στην έδρα του Πανιωνίου,...",
+"also": [],
+"id": "94b8828dbe32"
 },
 {
 "title": "Με Ολυμπιακός – Χάποελ Τελ Αβίβ, Ρεάλ Μαδρίτης – Ζάλγκιρις Κάουνας και Ντουμπάι BC – Παρτίζαν οι μεταδόσεις της ημέρας",
@@ -4977,18 +4989,6 @@
 }
 ],
 "id": "db674c5b948f"
-},
-{
-"title": "Χωρίς Τζόουνς ο Ολυμπιακός απέναντι στην Καρδίτσα",
-"url": "https://www.sdna.gr/mpasket/1488990_horis-tzooyns-o-olympiakos-apenanti-stin-karditsa",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T14:28+00:00",
-"sport": "basket",
-"snippet": "Γνωστή έγινε η 12άδα του Ολυμπιακού για το παιχνίδι με την Καρδίτσα για την Stoiximan GBL, με τον Γιώργο Μπαρτζώκα να αφήνει εκτός τον Ταϊρίκ Τζόουνς.",
-"also": [],
-"id": "648c75fc810a"
 }
 ]
 }
