@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T22:55:26+00:00",
+"generated_at": "2026-11-25T23:10:29+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μπαρτζώκας για ΑΣΕΑΔ: «Πλήρωσα 50.000 ευρώ πρόστιμο επειδή μίλησα άσχημα μόνος μου στα αποδυτήρια»",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15252971/mpartzokas-gia-asead-plirosa-50-000-eyro-prostimo-epeidi-milisa-asxima-monos-mou-sta-apodytiria/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-25T22:55+00:00",
+"sport": "basket",
+"snippet": "Ο Γιώργος Μπαρτζώκας αναφέρθηκε στις αποφάσεις του ΑΣΕΑΔ και στις ποινές που έχουν επιβληθεί το τελευταίο διάστημα, εκφράζοντας την απορία του για την…",
+"also": [],
+"id": "e74ffaa1bad4"
+},
 {
 "title": "Ολυμπιακός: Χαμός στην ανακοίνωση για τετραήμερο ρεπό (video)",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2040929/olimpiakos-chamos-stin-anakinosi-gia-tetraimero-repo-video/",
@@ -131,7 +143,15 @@
 "published": "2026-11-25T22:07+00:00",
 "sport": "basket",
 "snippet": "Ο Γιώργος Μπαρτζώκας σε δηλώσεις του στην συνέντευξη Τύπου στάθηκε στην φοβερή εμφάνιση των «ερυθρολεύκων», ενώ σημείωσε πως όποιος ιδρώνει για την...",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15252974/mpartzokas-gia-ntorsei-eimai-edo-gia-tous-paiktes-pou-idronoun-ti-fanela-tou-olympiakou-2/",
+"title": "Μπαρτζώκας για Ντόρσεϊ: «Είμαι εδώ για τους παίκτες που ιδρώνουν τη φανέλα του Ολυμπιακού»",
+"published": "2026-11-25T23:00+00:00"
+}
+],
 "id": "94ae07c421e0"
 },
 {
@@ -4972,18 +4992,6 @@
 "snippet": "Η δήλωση του προπονητή του Ολυμπιακού Κ23, Άλβαρο Ρούμπιο.",
 "also": [],
 "id": "c793ce9468ec"
-},
-{
-"title": "Τα highlights από τη δύσκολη νίκη του Ολυμπιακού επί της Καρδίτσας (vid)",
-"url": "https://www.sdna.gr/mpasket/1489350_ta-highlights-apo-ti-dyskoli-niki-toy-olympiakoy-epi-tis-karditsas-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T17:34+00:00",
-"sport": "basket",
-"snippet": "Δείτε τις καλύτερες στιγμές από την εκτός έδρας επικράτηση των «ερυθρόλευκων» απέναντι στην αξιόμαχη Καρδίτσα.",
-"also": [],
-"id": "e7dd5fc08a1e"
 }
 ]
 }
