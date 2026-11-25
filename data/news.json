@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T13:27:55+00:00",
+"generated_at": "2026-11-25T13:43:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αρης: Σχεδόν απίθανο να προλάβει ο Ράτσιτς τον Ολυμπιακό",
+"url": "https://sportday.gr/podosfairo/366471_aris-schedon-apithano-na-prolavei-o-ratsits-ton-olympiako.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-25T13:32+00:00",
+"sport": "football",
+"snippet": "Ο Σέρβος αρχηγός των Κιτρίνων συνεχίζει να κάνει πρόγραμμα αποθεραπείας με τον προσωπικό του γιατρό στο Βελιγράδι για να αντιμετωπίσει την τενοντίτιδα στον…",
+"also": [],
+"id": "714ff253aa26"
+},
 {
 "title": "Η μεγαλύτερη δυσκολία του Μπάμπη Κωστούλα μετά τον Ολυμπιακό και η αποκάλυψη για την καθημερινότητα στην Μπράιτον",
 "url": "https://www.ertsports.gr/oi-xenitemenoi/i-megalyteri-dyskolia-tou-mpampi-kostoula-meta-ton-olympiako-kai-i-apokalypsi-gia-tin-kathimerinotita-stin-mpraiton/",
@@ -647,7 +659,15 @@
 "published": "2026-11-24T19:48+00:00",
 "sport": "football",
 "snippet": "Ο Ντέλε-Μπασίρου αποχώρησε τραυματίας από την Τρίπολη και οι πρώτες εκτιμήσεις κάνουν λόγο για κάκωση στη γάμπα, με τις εξετάσεις να δείχνουν το μέγεθος του…",
-"also": [],
+"also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/podosfairo/aris-agonia-gia-ntele-basirou-enopsi-olimpiakou-ta-provlimata-tou-grigoriou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Άρης: Αγωνία για Ντέλε-Μπασίρου ενόψει Ολυμπιακού – Τα προβλήματα του Γρηγορίου",
+"published": "2026-11-25T13:26+00:00"
+}
+],
 "id": "7426eb443fc4"
 },
 {
@@ -4993,18 +5013,6 @@
 "snippet": "Ο Ολυμπιακός μετά από δύο συνεχόμενες ήττες έβγαλε αντίδραση και νίκησε άνετα τον μέχρι πρότινος αήττητο Πανιώνιο με 3-0. Εξαιρετικός Χέινς με 21 πόντους και 7…",
 "also": [],
 "id": "dca1d1d85ea9"
-},
-{
-"title": "Έσπασε το αήττητο του Πανιωνίου ο Ολυμπιακός και επέστρεψε στις νίκες",
-"url": "https://www.sdna.gr/bolei/1489107_espase-aittito-toy-panionioy-o-olympiakos-kai-epestrepse-stis-nikes",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T20:38+00:00",
-"sport": "football",
-"snippet": "Μετά από τις ήττες κόντρα στον Φλοίσβο και τον Παναθηναϊκό, η ομάδα του Τζουλιάνι νίκησε τον Πανιώνιο στου Ρέντη με 3-0",
-"also": [],
-"id": "21356b8932ec"
 }
 ]
 }
