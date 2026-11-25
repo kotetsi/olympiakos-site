@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T05:53:47+00:00",
+"generated_at": "2026-11-25T06:09:02+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός-Χάποελ Τελ Αβίβ: Με φόρα από τη Ρεάλ για την τέταρτη σερί νίκη πριν τη διακοπή!",
+"url": "http://www.sport-fm.gr/article/5163205",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-25T06:00+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός υποδέχεται απόψε (25/11, 21:15) τη Χάποελ Τελ Αβίβ στη SUNEL Arena, αναζητώντας την τέταρτη συνεχόμενη νίκη του στην Ευρωλίγκα και περιμένοντας…",
+"also": [],
+"id": "267b42c67c92"
+},
+{
+"title": "Αθλητικές μεταδόσεις: Που θα δείτε το Ολυμπιακός – Χάποελ Τελ Αβίβ και τα ματς του Champions League",
+"url": "https://sportday.gr/epikairotita/366441_athlitikes-metadoseis-pou-tha-deite-to-olympiakos-chapoel-tel-aviv-kai-ta-mats-tou-champions-league.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-25T06:00+00:00",
+"sport": "basket",
+"snippet": "Ξεχωρίζει σήμερα Τετάρτη (25/11) το Ολυμπιακός - Χάποελ Τελ Αβίβ για την Euroleague, αλλά και τα παιχνίδια του Champions League",
+"also": [],
+"id": "b7362f93a1b3"
+},
 {
 "title": "Οι αθλητικές μεταδόσεις της ημέρας (25/11): Πού θα δούμε το Κατάρ-Ελλάδα, το Ολυμπιακός-Χάποελ και τα ματς του Champions League",
 "url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1490209_oi-athlitikes-metadoseis-tis-imeras-25/11-poy-tha-doyme-katar",
@@ -4988,30 +5012,6 @@
 }
 ],
 "id": "edb58f8e03d7"
-},
-{
-"title": "Ολυμπιακός: Διαμαντόπουλος για Ντόρσεϊ – Αν στο μυαλό του κόσμου μπει αυτό...",
-"url": "https://sportime.gr/basket/olimpiakos-diamantopoulos-gia-ntorsei-an-sto-mialo-tou-kosmou-bi-afto?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T12:24+00:00",
-"sport": "basket",
-"snippet": "Ο Παντελής Διαμαντόπουλος είχε επισημάνει τον μεγαλύτερο κίνδυνο για τον Τάιλερ Ντόρσεϊ στον Ολυμπιακό, πριν ακόμη ξεσπάσουν οι αποδοκιμασίες.",
-"also": [],
-"id": "e372c3a7bc1f"
-},
-{
-"title": "Άδειασε το κέντρο του Ολυμπιακού: Οι επιλογές του Αλγουαθίλ ενόψει Ηρακλή",
-"url": "https://www.metrosport.gr/adeiase-to-kentro-toy-olympiakoy-oi-epiloges-toy-algoyathil-enopsei-irakli-1334367",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-21T12:15+00:00",
-"sport": "general",
-"snippet": "Μετά τη διακοπή για τις Εθνικές ομάδες, ο Ολυμπιακός επιστρέφει στην αγωνιστική δράση λαβωμένος από τραυματισμούς, με τον Ιμανόλ Αλγουαθίλ να ...",
-"also": [],
-"id": "3c923cd86296"
 }
 ]
 }
