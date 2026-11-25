@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-25T06:54:20+00:00",
+"generated_at": "2026-11-25T07:09:27+00:00",
 "count": 400,
 "items": [
 {
@@ -71,7 +71,15 @@
 "published": "2026-11-25T06:00+00:00",
 "sport": "basket",
 "snippet": "Ο Ολυμπιακός υποδέχεται απόψε (25/11, 21:15) τη Χάποελ Τελ Αβίβ στη SUNEL Arena, αναζητώντας την τέταρτη συνεχόμενη νίκη του στην Ευρωλίγκα και περιμένοντας…",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15250764/olympiakos-xapoel-tel-aviv-gia-tin-tetarti-seri-niki-prin-ti-diakopi/",
+"title": "Ολυμπιακός- Χάποελ Τελ Αβίβ: Για την τέταρτη σερί νίκη πριν τη διακοπή!",
+"published": "2026-11-25T07:06+00:00"
+}
+],
 "id": "267b42c67c92"
 },
 {
