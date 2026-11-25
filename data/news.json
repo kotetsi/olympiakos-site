@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T09:55:54+00:00",
+"generated_at": "2026-11-25T10:11:03+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τα εισιτήρια του αγώνα Ολυμπιακός – Παναθηναϊκός",
+"url": "https://www.olympiacos.org/2026/11/25/ta-eisitiria-tou-agona-olympiakos-panathinaikos-9/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-25T10:04+00:00",
+"sport": "general",
+"snippet": "Ανακοίνωση για τη διάθεση των εισιτηρίων του αγώνα Ολυμπιακός - Παναθηναϊκός.",
+"also": [],
+"id": "40f9f11c1afc"
+},
+{
+"title": "Ολυμπιακός: Οι ειδικοί ρόλοι στο πλάνο για τη Μίλαν!",
+"url": "https://sportday.gr/podosfairo/366462_olympiakos-oi-eidikoi-roloi-sto-plano-gia-ti-milan.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-25T10:02+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται για μια ακόμα σπουδαία ευρωπαϊκή βραδιά στο Καραϊσκάκη με τον Ιμανόλ Αλγουαθίλ να έχει έτοιμο το πλάνο της ενδεκάδας καλύπτωτας τις…",
+"also": [],
+"id": "9344406d0917"
+},
 {
 "title": "Live αναλύσεις από τη «μάχη» του Ολυμπιακού κόντρα στη Χάποελ Τελ Αβιβ | Gazz Floor by Novibet",
 "url": "https://www.gazzetta.gr/basketball/2589587/live-analyseis-apo-ti-mahi-toy-olympiakoy-kontra-sti-hapoel-tel-abib-gazz-floor",
@@ -4957,30 +4981,6 @@
 "snippet": "Οι δηλώσεις του Μάριους Μουαντιλμαντζί για τους τραυματισμούς στον Ολυμπιακό.",
 "also": [],
 "id": "74eca9aa5e9b"
-},
-{
-"title": "Τεράστιο διπλό της ΑΕΚ στην έδρα του Ολυμπιακού",
-"url": "https://www.ertsports.gr/bolei/volley-league-gynaikon/terastio-diplo-tis-aek-stin-edra-tou-olympiakou/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-21T16:48+00:00",
-"sport": "volley",
-"snippet": "Με όπλο το μπλοκ, η ΑΕΚ πανηγύρισε σπουδαία εκτός έδρας νίκη επί του Ολυμπιακού με 3-1 σετ (20-25, 25-22, 25-20, 25-22), στο κλειστό «Μελίνα Μερκούρη» του…",
-"also": [],
-"id": "f96050664598"
-},
-{
-"title": "Αλγουαθίλ: «Σκέφτομαι ακόμη και την αλλαγή σχηματισμού στον Ολυμπιακό - Δεν μου αρέσουν οι δικαιολογίες»",
-"url": "http://www.sport-fm.gr/article/5162548",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-21T16:44+00:00",
-"sport": "general",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ μίλησε για τα προβλήματα τραυματισμών στον Ολυμπιακό, άφησε ανοιχτό το ενδεχόμενο αλλαγής σχηματισμού και εξήγησε γιατί οι «ερυθρόλευκοι»…",
-"also": [],
-"id": "02fd6a0f25fa"
 }
 ]
 }
