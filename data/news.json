@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T11:41:50+00:00",
+"generated_at": "2026-11-25T11:56:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ετοιμάζει κορεό η Θύρα 7 στο ματς με τη Μίλαν",
+"url": "https://www.sdna.gr/podosfairo/1490292_olympiakos-etoimazei-koreo-i-thyra-7-sto-mats-me-ti-milan",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T11:47+00:00",
+"sport": "football",
+"snippet": "Ένα κορεό ετοιμάζει η Θύρα 7 την Πέμπτη, πριν τη σέντρα του αγώνα του Ολυμπιακού κόντρα στη Μίλαν.",
+"also": [],
+"id": "2905e8d8006b"
+},
+{
+"title": "Ο Ολυμπιακός μπορεί να κερδίσει χρήματα από τον Μυστακίδη χωρίς να του δώσει τον Ντόρσεϊ",
+"url": "https://sportime.gr/olimpiakos/o-olimpiakos-bori-na-kerdisi-chrimata-apo-ton-mistakidi-choris-na-tou-dosi-ton-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-25T11:39+00:00",
+"sport": "basket",
+"snippet": "Η επικείμενη ψηφοφορία για τον ΠΑΟΚ στη EuroLeague και το οικονομικό όφελος που μπορεί να έχει ο Ολυμπιακός ανεξάρτητα από τη μεταγραφή Ντόρσεϊ.",
+"also": [],
+"id": "1ac173b37cc3"
+},
 {
 "title": "Ολυμπιακός: Ετοιμάζουν κορεό οι οπαδοί των Πειραιωτών ενόψει της Μίλαν",
 "url": "https://www.gazzetta.gr/football/europa-league/2589614/olympiakos-etoimazoyn-koreo-oi-opadoi-ton-peiraioton-enopsei-tis",
@@ -4981,30 +5005,6 @@
 "snippet": "Χωρίς να συναντήσει ιδιαίτερες δυσκολίες, ο Ολυμπιακός πέρασε νικηφόρα από την έδρα του Π. Φαλήρου επικρατώντας με το ευρύ 25-5. Οι «ερυθρόλευκοι» επιβεβαίωσαν…",
 "also": [],
 "id": "22f040cb6735"
-},
-{
-"title": "Superleague, η βαθμολογία: Η ΑΕΚ... έπιασε τον Ολυμπιακό στη 2η θέση και στο -4 από τον Παναθηναϊκό",
-"url": "https://www.gazzetta.gr/football/superleague/2588605/superleague-i-bathmologia-i-aek-epiase-ton-olympiako-sti-2i-thesi-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T19:26+00:00",
-"sport": "football",
-"snippet": "H AEK με τη νίκη επί της Καλαμάτας, ισοβαθμεί με τον Ολυμπιακό στη δεύτερη θέση του βαθμολογικού πίνακα και βρίσκεται στο -4 από τον πρώτο Παναθηναϊκό.",
-"also": [],
-"id": "2a13f48ce5ab"
-},
-{
-"title": "Βαθμολογία Super League: Έπιασε τον Ολυμπιακό στη δεύτερη θέση η ΑΕΚ",
-"url": "http://www.sport-fm.gr/article/5162590",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-21T19:26+00:00",
-"sport": "football",
-"snippet": "Η ΑΕΚ έφτασε τους 23 βαθμούς μετά τη νίκη επί της Καλαμάτας στη Νίκαια, ισοβαθμώντας με τους «ερυθρόλευκους», και βρίσκεται πλέον στο -4 από τον πρωτοπόρο…",
-"also": [],
-"id": "6bea25ef2c1e"
 }
 ]
 }
