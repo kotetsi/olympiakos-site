@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T13:58:10+00:00",
+"generated_at": "2026-11-25T14:13:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "LIVE! Η συνέντευξη τύπου του Ολυμπιακού πριν τη Μίλαν!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15251159/live-i-synenteyksi-typou-tou-olympiakou-prin-ti-milan/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-25T14:05+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός φιλοξενεί τη Μίλαν το απόγευμα της Πέμπτης (26/11, 19:45) και τους Πειραιώτες εκπροσωπούν στη συνέντευξη τύπου οι Ιμανόλ Αλγκουαθίλ και Λορέντσο…",
+"also": [],
+"id": "1c5ff739c646"
+},
+{
+"title": "LIVE TV οι Αλγκουαθίλ και Πιρόλα για το Ολυμπιακός - Μίλαν",
+"url": "https://www.gazzetta.gr/football/europa-league/2589386/live-tv-oi-algkoyathil-kai-pirola-gia-olympiakos-milan",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-25T13:59+00:00",
+"sport": "football",
+"snippet": "Οι Ιμανόλ Αλγκουαθίλ και Λορέντζο Πιρόλα μιλούν αυτήν την ώρα για το Ολυμπιακός - Μίλαν. Δείτε LIVE εικόνα από τη συνέντευξη Τύπου στο φαληρικό γήπεδο.",
+"also": [],
+"id": "0fbc099b329a"
+},
 {
 "title": "Ολυμπιακός: Ο λόγος για Φρόϊλερ, Σιπιόνι και Σα!",
 "url": "https://www.gazzetta.gr/football/europa-league/2589617/olympiakos-o-logos-gia-froiler-sipioni-kai-sa",
@@ -4989,30 +5013,6 @@
 "snippet": "Ο Νταβίντ Φουστέρ που ξεκίνησε ήδη την ολική αναμόρφωση αρκετών πραγμάτων στον Ολυμπιακό και η είδηση για τον Γιουσούφ Γιαζίτσι.",
 "also": [],
 "id": "d3b88b2378b5"
-},
-{
-"title": "Αποθεώθηκε ο κόσμος του Ολυμπιακού από μέλη της ομάδας, ενώ γιούχαρε τον Ντόρσεϊ…",
-"url": "https://www.sdna.gr/mpasket/1489028_apotheothike-o-kosmos-toy-olympiakoy-apo-meli-tis-omadas-eno-gioyhare-ton-ntorsei",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T20:56+00:00",
-"sport": "basket",
-"snippet": "Μηδενική προστασία από την «ερυθρόλευκη» ΚΑΕ στον αθλητή που έχει συμβόλαιο μαζί της, μοιάζουν περισσότερο να ενδιαφέρονται για να μη μιλήσει, παρά...",
-"also": [],
-"id": "6579ed86f27b"
-},
-{
-"title": "Διέλυσε τον Παναθλητικό ο Ολυμπιακός",
-"url": "https://www.ertsports.gr/mpasket/dielyse-ton-panathlitiko-o-olympiakos/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-21T20:41+00:00",
-"sport": "basket",
-"snippet": "Στο παιχνίδι με το οποίο άνοιξε η αυλαία της 7ης Αγωνιστικής στο πρωτάθλημα της Allwyn Women’s Basketball League 1 ο Ολυμπιακός επικράτησε με 112-50 του…",
-"also": [],
-"id": "3a69eb6667e6"
 }
 ]
 }
