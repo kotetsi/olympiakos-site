@@ -1,7 +1,39 @@
 {
-"generated_at": "2026-11-25T10:41:19+00:00",
+"generated_at": "2026-11-25T10:56:27+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Ράτσιτς, το διακύβευμα με Ολυμπιακό",
+"url": "https://www.metrosport.gr/aris-ratsits-to-diakyveyma-me-olympiako-1334816",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-25T10:45+00:00",
+"sport": "general",
+"snippet": "Η παρουσία του Ούρος Ράτσιτς στο κυριακάτικο (29/11, 19:00) εντός έδρας ντέρμπι με τον Ολυμπιακό είναι το μεγαλύτερο διακύβευμα όσον αφορά τον ...",
+"also": [],
+"id": "6cfccf96d18b"
+},
+{
+"title": "Ολυμπιακός: Κυκλοφορούν τα εισιτήρια με Παναθηναϊκό",
+"url": "https://www.novasports.gr/sport/podosfairo/event/greece-kipello-elladas/article/15250930/olympiakos-kykloforoun-ta-eisitiria-me-panathinaiko/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-25T10:41+00:00",
+"sport": "football",
+"snippet": "Ντέρμπι «αιωνίων» στο Φάληρο μεταξύ Ολυμπιακού και Παναθηναϊκού (02/12, 19:00, MC Novasports.gr) για την 5η Αγωνιστική της League Phase του Κυπέλλου Ελλάδας. Η…",
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/olympiakos-ayrio-kykloforoun-ta-eisitiria-gia-to-paixnidi-me-ton-panathinaiko/",
+"title": "Ολυμπιακός: Αύριο κυκλοφορούν τα εισιτήρια για το παιχνίδι με τον Παναθηναϊκό",
+"published": "2026-11-25T10:52+00:00"
+}
+],
+"id": "258f3735d98d"
+},
 {
 "title": "Η Μίλαν έχει παίκτη της Νότιγχαμ του Μαρινάκη απέναντι στον Ολυμπιακό",
 "url": "https://sportime.gr/olimpiakos/i-milan-echi-pekti-tis-notigcham-tou-marinaki-apenanti-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -4973,30 +5005,6 @@
 "snippet": "Ο Απόλλων Σμύρνης επικράτησε με 27-13 του ΝΟ Χανίων στο Σεράφειο, ενώ ο Ολυμπιακός πέρασε με 25-5 από την έδρα του Παλαιού Φαλήρου, στις αναμετρήσεις...",
 "also": [],
 "id": "be1ee0b1fe95"
-},
-{
-"title": "Βαθμολογία GBL: Ο ΠΑΟΚ στην κορυφή, ο Ολυμπιακός 9ος με έναν αγώνα λιγότερο",
-"url": "https://sportime.gr/basket/vathmologia-gbl-o-paok-stin-korifi-o-olimpiakos-9os-me-enan-agona-ligotero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T17:59+00:00",
-"sport": "basket",
-"snippet": "Ο ΠΑΟΚ παραμένει αήττητος και πρώτος στην GBL. Ο Άρης ακολουθεί, ο Παναθηναϊκός είναι τρίτος και ο Ολυμπιακός ένατος με ματς λιγότερο.",
-"also": [],
-"id": "1620d46c8616"
-},
-{
-"title": "Βαθμολογία Basket League: Μόνος και αήττητος ο ΠΑΟΚ – Οι θέσεις Άρη, Παναθηναϊκού και Ολυμπιακού",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15243847/vathmologia-basket-league-monos-kai-aittitos-o-paok-oi-theseis-ari-panathinaikou-kai-olympiakou/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-21T17:55+00:00",
-"sport": "basket",
-"snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
-"also": [],
-"id": "ae530f10835f"
 }
 ]
 }
