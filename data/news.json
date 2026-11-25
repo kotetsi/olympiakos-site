@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-25T14:43:33+00:00",
+"generated_at": "2026-11-25T14:58:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η συνέντευξη Τύπου πριν τον αγώνα Ολυμπιακός – AC Milan",
+"url": "https://www.olympiacos.org/2026/11/25/i-synenteyksi-typou-prin-ton-agona-olympiakos-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-25T14:49+00:00",
+"sport": "football",
+"snippet": "Ο προπονητής του Ολυμπιακού, Ιμανόλ Αλγουαθίλ, και ο ποδοσφαιριστής της ομάδας, Λορέντσο Πιρόλα, μίλησαν στη συνέντευξη Τύπου ενόψει του αγώνα με την AC Milan.",
+"also": [],
+"id": "95dc1f6dd7ef"
+},
+{
+"title": "Ζότα Σίλβα: «Ξαναβρήκα τη χαρά μου στον Ολυμπιακό»",
+"url": "https://www.sdna.gr/podosfairo/1490352_zota-silba-xanabrika-ti-hara-moy-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T14:45+00:00",
+"sport": "football",
+"snippet": "Ο Ζότα Σίλβα μίλησε στον Τζιανλούκα Ντι Μάρτζιο για την παρουσία του στον Ολυμπιακό, την αναμέτρηση με τη Μίλαν και τον Ρούμπεν Αμορίμ.",
+"also": [],
+"id": "fda86a669c5c"
+},
+{
+"title": "Αλγουαθίλ: «Ζωής και θανάτου το παιχνίδι με τη Μίλαν»",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/algouathil-zois-kai-thanatou-to-paixnidi-me-ti-milan/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-25T14:43+00:00",
+"sport": "football",
+"snippet": "Τον χαρακτήρα τελικού απέδωσε στην αναμέτρηση με τη Μίλαν ο Ιμανόλ Αλγουαθίλ, ξεκαθαρίζοντας πως ο Ολυμπιακός δεν πρόκειται να συμβιβαστεί με τίποτα λιγότερο…",
+"also": [],
+"id": "5d8d27263fc8"
+},
 {
 "title": "Πιρόλα: «Να δείξουμε το πάθος μας για τον Ολυμπιακό κόντρα στη Μίλαν»",
 "url": "https://sportday.gr/podosfairo/366479_pirola-na-deiksoume-to-pathos-mas-gia-ton-olympiako-kontra-sti-milan.html",
@@ -4969,50 +5005,6 @@
 "snippet": "Ο Ολυμπιακός υποδέχεται απόψε το βράδυ (19:00) τον Ηρακλή στο «Γ. Καραϊσκάκης» για την 11η αγωνιστική της Stoiximan Super League.",
 "also": [],
 "id": "610ed6cfefcd"
-},
-{
-"title": "Stoiximan GBL: Η επιστροφή στις νίκες περνάει από την Καρδίτσα για τον Ολυμπιακό - Ματς ζωής και θανάτου στη Μύκονο",
-"url": "http://www.sport-fm.gr/article/5162502",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-22T06:00+00:00",
-"sport": "basket",
-"snippet": "Με δύο σημαντικές αναμετρήσεις ολοκληρώνεται η 8η στροφή της Stoiximan GBL, αφού ο Ολυμπιακός θα ψάξει στην Καρδίτσα την επιστροφή στις νίκες, ενώ η Μύκονος…",
-"also": [],
-"id": "7dfb57d1e31f"
-},
-{
-"title": "Οι αθλητικές μεταδόσεις της ημέρας (22/11): Πού θα δούμε Παναθηναϊκός-ΟΦΗ, Ολυμπιακός-Ηρακλής, ΠΑΟΚ-Κηφισιά και Εθνική στο Μουντιάλ U17",
-"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1489190_oi-athlitikes-metadoseis-tis-imeras-22/11-poy-tha-doyme",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T05:34+00:00",
-"sport": "basket",
-"snippet": "Tα πέντε ματς της Super League, τα παιχνίδια της GBL, η αναμέτρηση της Εθνικής Παίδων με τον Παναμά για το Μουντιάλ Κ17, η δράση σε Formula 1 και...",
-"also": [
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/366087_athlitikes-metadoseis-pou-tha-deite-panathinaikos-ofi-olympiakos-iraklis-kai-ethniki-sto-mountial-u17.html",
-"title": "Αθλητικές Μεταδόσεις: Πού θα δείτε Παναθηναϊκός-ΟΦΗ, Ολυμπιακός-Ηρακλής, και Εθνική στο Μουντιάλ U17",
-"published": "2026-11-22T06:59+00:00"
-}
-],
-"id": "f829da7587da"
-},
-{
-"title": "Ολυμπιακός: Έρχεται ο Τιάγκο Νους",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-erchete-o-tiagko-nous?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-21T22:34+00:00",
-"sport": "general",
-"snippet": "Ο Τιάγκο Νους ετοιμάζεται για τον Ολυμπιακό στα τέλη Ιανουαρίου, μετά τις ευρωπαϊκές υποχρεώσεις του ΟΦΗ. Η απόφαση και ο ρόλος του Φουστέρ.",
-"also": [],
-"id": "af75422cfff2"
 }
 ]
 }
