@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T08:40:16+00:00",
+"generated_at": "2026-11-25T08:55:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΠΑΟΚ και Ντόρσεϊ περιμένουν την απόφαση του Ολυμπιακού",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2589571/paok-kai-ntorsei-perimenoyn-tin-apofasi-toy-olympiakoy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-25T08:46+00:00",
+"sport": "basket",
+"snippet": "Η άμεση απόκτηση του Τάιλερ Ντόρσεϊ είναι στο τραπέζι για τον ΠΑΟΚ, με τις αποφάσεις του Ολυμπιακού να αναμένονται.",
+"also": [],
+"id": "29f6942025e5"
+},
 {
 "title": "Elite «σφυρίχτρα» στο ΑΕΚ – ΠΑΟΚ – Έλληνας διαιτητής στο Άρης – Ολυμπιακός",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15250842/elite-sfyrixtra-sto-aek-paok-ellinas-diaititis-sto-aris-olympiakos/",
@@ -4961,18 +4973,6 @@
 "snippet": "Η «Ένωση» ήταν σε μεγάλη μέρα αφού κατάφερε να πάρει καθαρή νίκη μέσα στην έδρα των «ερυθρολεύκων»",
 "also": [],
 "id": "4e1a401d6c59"
-},
-{
-"title": "Ολυμπιακός – Ηρακλής: Ξανά αντίπαλοι στην Α΄ Εθνική δέκα χρόνια μετά! (vid)",
-"url": "https://www.sdna.gr/podosfairo/1489005_olympiakos-iraklis-xana-antipaloi-stin-ethniki-deka-hronia-meta-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T15:33+00:00",
-"sport": "football",
-"snippet": "Σχεδόν μία δεκαετία πέρασε από την τελευταία φορά που Ολυμπιακός και Ηρακλής βρέθηκαν αντιμέτωποι στη μεγάλη κατηγορία. Οι δύο ομάδες συναντιούνται...",
-"also": [],
-"id": "28dccee4fce4"
 }
 ]
 }
