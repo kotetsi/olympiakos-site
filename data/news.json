@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T06:39:12+00:00",
+"generated_at": "2026-11-25T06:54:20+00:00",
 "count": 400,
 "items": [
+{
+"title": "Υποδέχεται την Σλέζα Βρότσλαβ ο Ολυμπιακός - Απέναντι στην Σαραγόσα ο Αθηναϊκός",
+"url": "https://www.sdna.gr/mpasket/1490014_ypodehetai-tin-sleza-brotslab-o-olympiakos-apenanti-stin-saragosa-o-athinaikos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T06:40+00:00",
+"sport": "basket",
+"snippet": "Ολυμπιακός, Αθηναϊκός και Παναθλητικός συνεχίζουν τις αγωνιστικές τους υποχρεώσεις στην Ευρώπη.",
+"also": [],
+"id": "1fd11249deba"
+},
 {
 "title": "Κόντρα στην Χάποελ για να παραμείνει στην κορυφή ο Ολυμπιακός",
 "url": "https://www.sdna.gr/mpasket/1490009_kontra-stin-hapoel-gia-na-parameinei-stin-koryfi-o-olympiakos",
@@ -4984,26 +4996,6 @@
 "snippet": "Μία ενδιαφέρουσα δοκιμή έκανε ο Ιμανόλ Αλγκουαθίλ στο Ρέντη, χρησιμοποιώντας τον Παναγιώτη Ρέτσο σε θέση αμυντικού χαφ. Η σκέψη του προπονητή του...",
 "also": [],
 "id": "db03ff5d78aa"
-},
-{
-"title": "Επιβλητικός Ολυμπιακός, διέλυσε με 100άρα τον Παναθλητικό στα Καμίνια!",
-"url": "http://www.sport-fm.gr/article/5162520",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-21T14:12+00:00",
-"sport": "basket",
-"snippet": "Παίζοντας κυριαρχικό μπάσκετ σε όλη τη διάρκεια του αγώνα, ο Ολυμπιακός επιβλήθηκε 112-50 του Παναθλητικού στο πλαίσιο της 7ης αγωνιστικής Αllwyn WBL1.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15243173/dielyse-ton-panathlitiko-o-olympiakos-me-100ara/",
-"title": "«Διέλυσε» τον Παναθλητικό ο Ολυμπιακός με 100άρα",
-"published": "2026-11-21T14:29+00:00"
-}
-],
-"id": "ed8370834e6d"
 }
 ]
 }
