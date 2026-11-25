@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-25T10:26:18+00:00",
+"generated_at": "2026-11-25T10:41:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η Μίλαν έχει παίκτη της Νότιγχαμ του Μαρινάκη απέναντι στον Ολυμπιακό",
+"url": "https://sportime.gr/olimpiakos/i-milan-echi-pekti-tis-notigcham-tou-marinaki-apenanti-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-25T10:29+00:00",
+"sport": "football",
+"snippet": "Ο Όμαρι Χάτσινσον της Μίλαν και ο Ζότα Σίλβα του Ολυμπιακού ανήκουν στη Νότιγχαμ του Μαρινάκη και μπορούν να βρεθούν αντίπαλοι στο Καραϊσκάκη.",
+"also": [],
+"id": "c7f873715576"
+},
 {
 "title": "Ολυμπιακός: Από την Πέμπτη διαθέσιμα τα εισιτήρια του ντέρμπι με τον Παναθηναϊκό",
 "url": "https://www.sdna.gr/podosfairo/1490269_olympiakos-apo-tin-pempti-diathesima-ta-eisitiria-toy-ntermpi-me-ton",
@@ -11,7 +23,15 @@
 "published": "2026-11-25T10:23+00:00",
 "sport": "football",
 "snippet": "Ο Ολυμπιακός υποδέχεται την Τετάρτη 2/12 τον Παναθηναϊκό για την 5η αγωνιστική της League Phase του Superbet Κυπέλλου Ελλάδας και τα εισιτήρια του...",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/kypello-elladas/2589599/olympiakos-apo-pempti-ta-eisitiria-gia-ntermpi-me-ton-panathinaiko",
+"title": "Ολυμπιακός: Από Πέμπτη τα εισιτήρια για το ντέρμπι με τον Παναθηναϊκό",
+"published": "2026-11-25T10:27+00:00"
+}
+],
 "id": "2fb2505319e9"
 },
 {
@@ -35,7 +55,15 @@
 "published": "2026-11-25T10:04+00:00",
 "sport": "general",
 "snippet": "Ανακοίνωση για τη διάθεση των εισιτηρίων του αγώνα Ολυμπιακός - Παναθηναϊκός.",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5163386",
+"title": "Τα εισιτήρια του Ολυμπιακός-Παναθηναϊκός",
+"published": "2026-11-25T10:20+00:00"
+}
+],
 "id": "40f9f11c1afc"
 },
 {
@@ -4969,18 +4997,6 @@
 "snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
 "also": [],
 "id": "ae530f10835f"
-},
-{
-"title": "Ολυμπιακός: Η προστατευτική μάσκα του Σμαϊλοβιτς και η δοκιμή του Ρέτσου ως εξάρι",
-"url": "https://www.gazzetta.gr/football/superleague/2588523/olympiakos-i-prostateytiki-maska-toy-smailobits-kai-i-dokimi-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-21T17:49+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός είδε και τον Ζινεντίν Σμαϊλοβιτς να έχει χτυπήσει την ώρα που ο Ιμανόλ Αλγκουαθίλ δοκίμασε και τον στόπερ Παναγιώτη Ρέτσο ως εξάρι στις…",
-"also": [],
-"id": "6769244b5a04"
 }
 ]
 }
