@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-25T05:08:24+00:00",
+"generated_at": "2026-11-25T05:23:33+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (25/11): Πού θα δούμε το Κατάρ-Ελλάδα, το Ολυμπιακός-Χάποελ και τα ματς του Champions League",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1490209_oi-athlitikes-metadoseis-tis-imeras-25/11-poy-tha-doyme-katar",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-25T05:14+00:00",
+"sport": "football",
+"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
+"also": [],
+"id": "efd3c0b586f0"
+},
+{
+"title": "Ο Μίγια έδειξε στον Ολυμπιακό τι του λείπει ακόμη και με τον Φρόιλερ",
+"url": "https://sportime.gr/olimpiakos/o-migia-edixe-ston-olimpiako-ti-tou-lipi-akomi-ke-me-ton-froiler?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-25T05:10+00:00",
+"sport": "general",
+"snippet": "Ο Λουίς Μίγια έκρινε το παιχνίδι της Κόμο με την ΑΕΚ και τα αγωνιστικά του χαρακτηριστικά εξηγούν τι θα μπορούσε να προσφέρει στον Ολυμπιακό.",
+"also": [],
+"id": "9ac80f7ec44e"
+},
 {
 "title": "Μίλαν: Νοκ άουτ με τον Ολυμπιακό ο Μόντριτς",
 "url": "https://www.metrosport.gr/milan-nok-aoyt-me-ton-olympiako-o-montrits-1334766",
@@ -4988,30 +5012,6 @@
 "snippet": "Μετά τη διακοπή για τις Εθνικές ομάδες, ο Ολυμπιακός επιστρέφει στην αγωνιστική δράση λαβωμένος από τραυματισμούς, με τον Ιμανόλ Αλγουαθίλ να ...",
 "also": [],
 "id": "3c923cd86296"
-},
-{
-"title": "Live streaming: Ολυμπιακός - Παναθλητικός (Α1 Γυναικών 2026-27)",
-"url": "https://www.sdna.gr/mpasket/1488928_live-streaming-olympiakos-panathlitikos-a1-gynaikon-2026-27",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-21T11:50+00:00",
-"sport": "basket",
-"snippet": "Το Διοικητικό Πρωτοδικείο Αθηνών απέρριψε την αίτηση ακύρωσης που είχε καταθέσει ο Στράτος Ευγενίου κατά της απόφασης της Επιτροπής Επαγγελματικού...",
-"also": [],
-"id": "3adac3419bee"
-},
-{
-"title": "Ολυμπιακός: Με σημαντικές απουσίες στη μεσαία γραμμή απέναντι στον Ηρακλή",
-"url": "https://www.ertsports.gr/super-league/olympiakos-me-simantikes-apousies-sti-mesaia-grammi-apenanti-ston-irakli/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-21T11:41+00:00",
-"sport": "football",
-"snippet": "Στην αγωνιστική δράση επιστρέφει ο Ολυμπιακός μετά τη διακοπή των πρωταθλημάτων για τις υποχρεώσεις των εθνικών ομάδων, με τον Ιμανόλ Αλγουαθίλ να καλείται να…",
-"also": [],
-"id": "e2ae26fed5e6"
 }
 ]
 }
