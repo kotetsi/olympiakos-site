@@ -262,5 +262,46 @@
   "sport": "football",
   "b_team": true,
   "comp": ""
+ },
+ "2026-12-02-paok-olympiakos": {
+  "title": "ΠΑΟΚ - Ολυμπιακός",
+  "home": "ΠΑΟΚ",
+  "away": "Ολυμπιακός",
+  "opp": "ΠΑΟΚ",
+  "oly_home": false,
+  "start": "2026-12-02T15:00+00:00",
+  "channels": [
+   "ΕΡΤ2"
+  ],
+  "sport": "handball",
+  "b_team": false,
+  "comp": "Handball Premier 2026-27"
+ },
+ "2026-12-02-olympiakos-panathinaikos": {
+  "title": "Ολυμπιακός - Παναθηναϊκός",
+  "home": "Ολυμπιακός",
+  "away": "Παναθηναϊκός",
+  "opp": "Παναθηναϊκός",
+  "oly_home": true,
+  "start": "2026-12-02T17:00+00:00",
+  "channels": [
+   "ΣΚΑΪ"
+  ],
+  "sport": "football",
+  "b_team": false,
+  "comp": "Κύπελλο Ελλάδας Superbet 2026-27"
+ },
+ "2026-12-05-olympiakos-aek": {
+  "title": "Ολυμπιακός - ΑΕΚ",
+  "home": "Ολυμπιακός",
+  "away": "ΑΕΚ",
+  "opp": "ΑΕΚ",
+  "oly_home": true,
+  "start": "2026-12-05T18:00+00:00",
+  "channels": [],
+  "sport": "football",
+  "b_team": false,
+  "no_time": false,
+  "comp": "Super League"
  }
 }
