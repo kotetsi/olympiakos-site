@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T08:45:28+00:00",
+"generated_at": "2026-11-26T09:00:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με φόρα κόντρα στη Μίλαν οι Πειραιώτες",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15253248/olympiakos-me-fora-kontra-sti-milan-oi-peiraiotes/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T08:53+00:00",
+"sport": "football",
+"snippet": "Οι «ερυθρόλευκοι» παραμένουν αήττητοι στη φετινή διοργάνωση, καθώς μετρούν τρεις νίκες επί των Γιαγκελόνια, Μαρσέιγ και Σπάρτα Πράγας και μια ισοπαλία με τη…",
+"also": [],
+"id": "6988d7999a83"
+},
 {
 "title": "Ολυμπιακός - Μίλαν: Το εντυπωσιακό βίντεο των Πειραιωτών για το ματς (vid)",
 "url": "https://www.gazzetta.gr/football/europa-league/2589874/olympiakos-milan-entyposiako-binteo-ton-peiraioton-gia-mats-vid",
@@ -73,6 +85,18 @@
 "snippet": "Δείτε στη σημερινή εκπομπή με τους Βασίλη Βέργη και Γιάννη Σερέτη, το pregame των αποψινών μεγάλων ευρωπαϊκών αναμετρήσεων Ολυμπιακού, Παναθηναϊκού &...",
 "also": [],
 "id": "315ea2dd52eb"
+},
+{
+"title": "Παπαπέτρου στο Gazz Floor by Novibet: «Ο Ολυμπιακός έκανε τη Χάποελ να φαίνεται μικρή ομάδα»",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589799/papapetroy-sto-gazz-floor-novibet-o-olympiakos-ekane-ti-hapoel-na",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T07:53+00:00",
+"sport": "basket",
+"snippet": "Ο Ιωάννης Παπαπέτρου αναφέρθηκε στο Gazz Floor by Novibet στη μαγική εμφάνιση που πραγματοποίησε ο Ολυμπιακός εναντίον της Χάποελ Τελ Αβίβ στη «Sunel Arena».",
+"also": [],
+"id": "dd6c51ac3844"
 },
 {
 "title": "Ολυμπιακός: Από αποκάλυψη ο Εντιάι έχει εξελιχθεί σε πρόβλημα για τον Μπαρτζώκα",
@@ -633,18 +657,6 @@
 "snippet": "Ο Ολυμπιακός θα αντιμετωπίσει τη Βιλερμπάν για τη 15η αγωνιστική της EuroLeague.",
 "also": [],
 "id": "c34cab00b94e"
-},
-{
-"title": "Παπαπέτρου στο Gazz Floor by Novibet: «Ο Ολυμπιακός έκανε τη Χάποελ να φαίνεται μικρή ομάδα»",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2589799/papapetroy-sto-gazz-floor-novibet-o-olympiakos-ekane-ti-hapoel-na",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T21:45+00:00",
-"sport": "basket",
-"snippet": "Ο Ιωάννης Παπαπέτρου αναφέρθηκε στο Gazz Floor by Novibet στη μαγική εμφάνιση που πραγματοποίησε ο Ολυμπιακός εναντίον της Χάποελ Τελ Αβίβ στη «Sunel Arena».",
-"also": [],
-"id": "dd6c51ac3844"
 },
 {
 "title": "Τζόσεφ: Το ματς της ζωής του με τη φανέλα του Ολυμπιακού!",
@@ -4980,18 +4992,6 @@
 "snippet": "Ο Ηρακλής αιφνιδίασε τον Ολυμπιακό (δύο φορές), παίρνοντας προβάδισμα με τον Άνταμ Ζούλεβιτς, όμως οι Πειραιώτες αντέδρασαν και κατάφεραν να φτάσουν στην…",
 "also": [],
 "id": "ff4543571c18"
-},
-{
-"title": "Βαθμολογία Super League: Συνεχίζει το… κυνήγι ο Ολυμπιακός!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245985/vathmologia-super-league-synexizei-to-kynigi-o-olympiakos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T18:52+00:00",
-"sport": "football",
-"snippet": "Τα αποτελέσματα: Η βαθμολογία: Η επόμενη αγωνιστική:",
-"also": [],
-"id": "2af107a8af7d"
 }
 ]
 }
