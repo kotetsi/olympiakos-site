@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-26T20:51:49+00:00",
+"generated_at": "2026-11-26T21:06:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πιρόλα: «Δεν αντικατοπτρίζει την εικόνα του αγώνα το τελικό σκορ»",
+"url": "https://sportday.gr/podosfairo/366667_pirola-den-antikatoptrizei-tin-eikona-tou-agona-to-teliko-skor.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T21:00+00:00",
+"sport": "football",
+"snippet": "Δείτε τις δηλώσεις του Λορέντσο Πιρόλα μετά την ήττα του Ολυμπιακού από τη Μίλαν με 4-2 στο «Γ. Καραϊσκάκης», στο πλαίσιο της 5ης αγωνιστικής της League Phase…",
+"also": [],
+"id": "23313ced9a74"
+},
+{
+"title": "Ολυμπιακός: Το «κλειδί» του Ναντίρ Χίφι",
+"url": "https://sportime.gr/olympiakos-bc/olimpiakos-to-klidi-tou-nantir-chifi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T20:59+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός εξετάζει τον Ναντίρ Χίφι, με τον ατζέντη Ολιβιέ Μαζέ να έχει επαφές στην Ελλάδα. Η Παρί, όμως δεν τον παραχωρεί μέσα στη σεζόν.",
+"also": [],
+"id": "7524cd75f155"
+},
+{
+"title": "Τσανάκας: «Η απόλυτη κατάρρευση του Ολυμπιακού μετά το 2-0 και η κόπωση που κόστισε»",
+"url": "http://www.sport-fm.gr/article/5163729",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T20:58+00:00",
+"sport": "general",
+"snippet": "Το σχόλιο του ρεπόρτερ του Ολυμπιακού στον bwinΣΠΟΡ FM 94,6 για την ήττα των «ερυθρόλευκων» με 4-2 από τη Μίλαν, την τακτική του Αλγουαθίλ και όσα κόστισαν…",
+"also": [],
+"id": "349418551e79"
+},
 {
 "title": "Ολυμπιακός: Από το ζενίθ στο ναδίρ σε ματς που χάθηκε από έναν μόνο αντίπαλο παίκτη",
 "url": "https://www.gazzetta.gr/football/europa-league/2590105/olympiakos-apo-zenith-sto-nadir-se-mats-poy-hathike-apo-enan-mono",
@@ -4976,42 +5012,6 @@
 "snippet": "Ο Αλεξέι Ποκουσέφσκι άνοιξε τα χαρτιά του στην εκπομπή «Pick and Roll» και μίλησε με ειλικρίνεια για τη ζωή του, το μπάσκετ και τη δυνατή σύνδεση που ...",
 "also": [],
 "id": "7747de6a1b4e"
-},
-{
-"title": "Εξάντληση θέσεων ΑμεΑ για τον αγώνα Ολυμπιακός – AC Milan",
-"url": "https://www.olympiacos.org/2026/11/24/eksantlisi-theseon-amea-gia-ton-agona-olympiakos-ac-milan/",
-"source": "olympiacos-org",
-"source_name": "Olympiacos.org",
-"official": true,
-"published": "2026-11-24T10:28+00:00",
-"sport": "football",
-"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τις θέσεις ΑμεΑ της αναμέτρησης στο «Γ. Καραϊσκάκης».",
-"also": [],
-"id": "03b55f1647c4"
-},
-{
-"title": "Ολυμπιακός: Οι «αστραπές» του Ιμανόλ και ο Σιπιόνι!",
-"url": "https://sportday.gr/podosfairo/366338_olympiakos-oi-astrapes-tou-imanol-kai-o-sipioni.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T10:02+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ «ξύπνησε» τους παίκτες του Ολυμπιακού στο ημίχρονο του αγώνα με τον Ηρακλή, αφήνοντας εκτός κάδρου τον Λορέντσο Σιπιόνι, ο οποίος τελικά…",
-"also": [],
-"id": "36fc79100719"
-},
-{
-"title": "Ο Άγγλος Κάβανα στο Ολυμπιακός-Μίλαν",
-"url": "https://www.sdna.gr/podosfairo/1489917_o-agglos-kabana-sto-olympiakos-milan",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-24T09:42+00:00",
-"sport": "football",
-"snippet": "Τον Άγγλο διαιτητή Κρις Κάβανα όρισε η UEFA στο παιχνίδι του Ολυμπιακού με τη Μίλαν, για την 5η αγωνιστική της League Phase του Europa League.",
-"also": [],
-"id": "8e7bd6c8bfb2"
 }
 ]
 }
