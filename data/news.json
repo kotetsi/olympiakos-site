@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T06:29:16+00:00",
+"generated_at": "2026-11-26T06:44:23+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι μοιρολάτρες και της τελειότητας οι λάτρες",
+"url": "https://sportday.gr/blogs/depollas/366545_olympiakos-oi-moirolatres-kai-tis-teleiotitas-oi-latres.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T06:30+00:00",
+"sport": "basket",
+"snippet": "Πίσω από τα ρεκόρ των Τζόζεφ και Φουρνιέ. Το απίθανο (βάσει λιγοστού χρόνου) +27 του Χολ, ο απόλυτο έλεγχος στον ρυθμό και τις ρακέτες με το 25-7 στους πόντους…",
+"also": [],
+"id": "f59657d14f14"
+},
 {
 "title": "Ολυμπιακός - Χάποελ Τελ Αβίβ: Το απίθανο +32 του Τζόζεφ, οι 48 πόντοι του Φουρνιέ και ο σταθερός Βεζένκοβ",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2589836/olympiakos-hapoel-tel-abib-apithano-32-toy-tzozef-oi-48-pontoi-toy",
@@ -4980,18 +4992,6 @@
 "snippet": "Ο Ιμανόλ Αλγκουαθίλ άλλαξε τον Νταβίντ Τικνιζιάν στο ημίχρονο με τον Ηρακλή. Τα αμυντικά προβλήματα και το μέλλον του στον Ολυμπιακό τον Γενάρη.",
 "also": [],
 "id": "b9bf4e9b1c44"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Το εντυπωσιακό γκολ του Ζότα Σίλβα για το 2-2",
-"url": "https://www.gazzetta.gr/football/superleague/2588839/olympiakos-iraklis-entyposiako-gkol-toy-zota-silba-gia-2-2",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T18:06+00:00",
-"sport": "football",
-"snippet": "Στις καθυστερήσεις ο Ολυμπιακός κατάφερε να ισοφαρίσει ξανά τον Ηρακλή με ένα εντυπωσιακό γκολ από τον Ζότα Σίλβα.",
-"also": [],
-"id": "dd75545a26f6"
 }
 ]
 }
