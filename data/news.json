@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T20:21:32+00:00",
+"generated_at": "2026-11-26T20:36:40+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ζότα Σίλβα: «Δεν θα μας επηρεάσει αυτή η ήττα για τη συνέχεια»",
+"url": "https://www.sdna.gr/podosfairo/1490757_zota-silba-den-tha-mas-epireasei-ayti-i-itta-gia-ti-syneheia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T20:27+00:00",
+"sport": "football",
+"snippet": "Ο μέσος του Ολυμπιακού τόνισε ότι οι «ερυθρόλευκοι» κυριάρχησαν για 60-65 λεπτά στο παιχνίδι.",
+"also": [],
+"id": "602524d20ff4"
+},
 {
 "title": "Τα highlights της αναμέτρησης Ολυμπιακός – Μίλαν (vid)",
 "url": "https://www.sdna.gr/podosfairo/1490755_ta-highlights-tis-anametrisis-olympiakos-milan-vid",
@@ -11,7 +23,15 @@
 "published": "2026-11-26T20:20+00:00",
 "sport": "football",
 "snippet": "Ο Ολυμπιακός προηγήθηκε με 2-0 απέναντι στη Μίλαν, αλλά γνώρισε την ήττα με 4-2 στο «Γ. Καραϊσκάκης» για τη League Phase του Europa League.",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/europa-league/2590104/olympiakos-milan-ta-highlights-toy-mats-vid",
+"title": "Ολυμπιακός - Μίλαν: Τα highlights του ματς (vid)",
+"published": "2026-11-26T20:22+00:00"
+}
+],
 "id": "06b8f1383da0"
 },
 {
@@ -27,7 +47,7 @@
 "id": "a441ee344ae9"
 },
 {
-"title": "Ολυμπιακός: Πόσους βαθμούς ψάχνουν οι «ερυθρόλευκοι» για την πρώτη οκτάδα",
+"title": "League Phase: Πόσους βαθμούς ψάχνει ο Ολυμπιακός για την πρώτη οκτάδα",
 "url": "https://sportday.gr/podosfairo/366654_olympiakos-posous-vathmous-psachnoun-oi-erythrolefkoi-gia-tin-proti-oktada.html",
 "source": "sportday",
 "source_name": "Sportday",
@@ -229,6 +249,18 @@
 "snippet": "Ο Ολυμπιακός προηγήθηκε με 2-0, αλλά η Μίλαν πέτυχε τρία γκολ και έφυγε με τη νίκη από το Καραϊσκάκη. Δείτε τα highlights της αναμέτρησης.",
 "also": [],
 "id": "28496e2c1236"
+},
+{
+"title": "Ολυμπιακός – Μίλαν 2-4: Πλήρωσε ατομικά λάθη, έχασε ευκαιρία για μεγάλη ευρωπαϊκή βραδιά! (highlights)",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15254222/olympiakos-milan-2-4-plirose-atomika-lathi-exase-eykairia-gia-megali-eyropaiki-vradia-highlights/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T19:42+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός γνώρισε την ήττα απ’ τη Μίλαν 2-3 στο Φάληρο για την 5η αγωνιστική της League Phase του UEFA Europa League! Μεγάλη ανατροπή απ’ τους “ροσονέρι”…",
+"also": [],
+"id": "f14d7766b560"
 },
 {
 "title": "Ολυμπιακός - Μίλαν 2-4",
@@ -4980,30 +5012,6 @@
 "snippet": "Στο Φάληρο θα σφυρίξει την αναμέτρηση του Ολυμπιακού με τη Μίλαν (26/11, 19:45, MC Novasports.gr) ο Άγγλος διαιτητής, Κρις Κάβανα. Πρόκειται για το δεύτερο…",
 "also": [],
 "id": "314e565410fc"
-},
-{
-"title": "Ηρακλής: Από τον Κωνσταντίνου στον Ζούλεβιτς!",
-"url": "https://www.metrosport.gr/olympiakos-iraklis-mia-paradosi-gemati-gkol-kai-entyposiaka-rekor-1334559",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-24T09:30+00:00",
-"sport": "football",
-"snippet": "Μπορεί ο Ηρακλής να γνώρισε βαριά ήττα με 6-2 από τον Ολυμπιακό, ωστόσο η αναμέτρηση στο «Γ. Καραϊσκάκης» είχε και... μία ξεχωριστή στιγμή για τον ...",
-"also": [],
-"id": "9f82118b3806"
-},
-{
-"title": "Εκπλήξεις με Μίλαν και χειμωνιάτικα ψώνια | Ολυμπιακός Q&A by Interwetten",
-"url": "https://www.gazzetta.gr/football/superleague/2589300/ekplixeis-me-milan-kai-heimoniatika-psonia-olympiakos-qa-interwetten",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T09:21+00:00",
-"sport": "football",
-"snippet": "Συντονιστείτε στις 15:45 στο QnA του Ολυμπιακού, με τον Αλέξη Βιρβίλη και τον Παναγιώτη Ραμαντάνη να απαντάνε σε όλες τις ερωτήσεις των φιλάθλων των Πειραιωτών.",
-"also": [],
-"id": "278b868e247b"
 }
 ]
 }
