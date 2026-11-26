@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T11:01:42+00:00",
+"generated_at": "2026-11-26T11:16:49+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τι «ράγισε» μέσα σε ένα μήνα την εμπιστοσύνη της ΚΑΕ Ολυμπιακός στην… άλλοτε «αμερόληπτη» Δικαιοσύνη;",
+"url": "https://www.sdna.gr/mpasket/1490614_ti-ragise-mesa-se-ena-mina-tin-empistosyni-tis-kae-olympiakos-stin-allote",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T11:01+00:00",
+"sport": "basket",
+"snippet": "Οι υπέρμαχοι της δικαιοσύνης, αυτοί που προσέφευγαν εκεί για τον πιο απλό λόγο, ξαφνικά έκαναν στροφή 180 μοιρών και φτάσαμε στο «οι κρίνοντες,...",
+"also": [],
+"id": "537a5cdcf63a"
+},
 {
 "title": "Ολυμπιακός: Ξεκίνησε η διάθεση των εισιτηρίων για το ματς κυπέλλου με τον Παναθηναϊκό",
 "url": "https://www.ertsports.gr/podosfairo/olympiakos-ksekinise-i-diathesi-ton-eisitirion-gia-to-mats-kypellou-me-ton-panathinaiko/",
@@ -299,7 +311,7 @@
 "id": "3122d9d19c9c"
 },
 {
-"title": "Ολυμπιακός: Στο 11-0 το σερί κατά των ισραηλινών ομάδων σε τέσσερα χρόνια",
+"title": "Ολυμπιακός: Στο 11-0 το σερί επί των ισραηλινών ομάδων σε τέσσερα χρόνια",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2041032/olimpiakos-sto-11-0-to-seri-kata-ton-israilinon-omadon-se-tessera-chronia/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
@@ -4972,18 +4984,6 @@
 "snippet": "Η ομάδα πινγκ πονγκ γυναικών του Παναθηναϊκού νίκησε 4-1 τον Ολυμπιακό για την έκτη αγωνιστική του πρωταθλήματος.",
 "also": [],
 "id": "1c969c4ef00d"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Τα highlights από το 6-2 των ερυθρόλευκων",
-"url": "https://www.gazzetta.gr/football/superleague/2588875/olympiakos-iraklis-ta-highlights-apo-6-2-ton-erythroleykon",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T19:18+00:00",
-"sport": "football",
-"snippet": "Δείτε τα γκολ και τις καλύτερες στιγμές από την αναμέτρηση του Ολυμπιακού με τον Ηρακλή στο Φάληρο.",
-"also": [],
-"id": "895b804c84fc"
 }
 ]
 }
