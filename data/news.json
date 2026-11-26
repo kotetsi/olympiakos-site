@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-26T10:16:17+00:00",
+"generated_at": "2026-11-26T10:31:24+00:00",
 "count": 400,
 "items": [
+{
+"title": "Το Matchday Programme του αγώνα Ολυμπιακός – AC Milan",
+"url": "https://www.olympiacos.org/2026/11/26/to-matchday-programme-tou-agona-olympiakos-ac-milan/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-26T10:28+00:00",
+"sport": "football",
+"snippet": "Διαβάστε το Matchday Programme της αναμέτρησης Ολυμπιακός – AC Milan, της 5ης αγωνιστικής της League Phase του UEFA Europa League.",
+"also": [],
+"id": "dc6b43d9db49"
+},
+{
+"title": "Το «μαύρο κουτί» της ευρωπαϊκής Μίλαν: Οι αντιφάσεις, τα αγωνιστικά αδιέξοδα και η πρόκληση του Ολυμπιακού",
+"url": "https://www.gazzetta.gr/football/europa-league/2589903/mayro-koyti-tis-eyropaikis-milan-oi-antifaseis-ta-agonistika",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T10:24+00:00",
+"sport": "football",
+"snippet": "Η Μίλαν αναζητά ευρωπαϊκή επανεκκίνηση, αλλά οι αγωνιστικές της αντιφάσεις εξακολουθούν να αποκαλύπτουν μια ομάδα με δύο εντελώς διαφορετικά πρόσωπα.",
+"also": [],
+"id": "214a2804678c"
+},
+{
+"title": "Ολυμπιακός – Μίλαν: Η UEFA έχει αποκαλύψει την παγίδα που έστησε ο Αμορίμ στον Ιμανόλ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-milan-i-uefa-echi-apokalipsi-tin-pagida-pou-estise-o-amorim-ston-imanol?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T10:12+00:00",
+"sport": "general",
+"snippet": "Η επίσημη τεχνική έκθεση της UEFA αποκαλύπτει πώς είχε αντιμετωπίσει ο Αμορίμ τον Ιμανόλ και τι πρέπει να προσέξει απόψε ο Ολυμπιακός απέναντι στη Μίλαν.",
+"also": [],
+"id": "7654fcacf31f"
+},
 {
 "title": "Ολυμπιακός: Ξεκίνησε η διάθεση των εισιτηρίων για το ντέρμπι με τον Παναθηναϊκό στο Κύπελλο",
 "url": "https://www.gazzetta.gr/football/kypello-elladas/2589899/olympiakos-xekinise-i-diathesi-ton-eisitirion-gia-ntermpi-me-ton",
@@ -25,6 +61,18 @@
 "snippet": "Ο Τάιλερ Ντόρσεϊ εμφανίζεται ευδιάθετος στην Εθνική Ελλάδας, σε αντίθεση με την εικόνα του στον Ολυμπιακό και όσα ανέφερε ο Γιώργος Μπαρτζώκας.",
 "also": [],
 "id": "d96db885eb24"
+},
+{
+"title": "Το μήνυμα του Ιντζάγκι για το Ολυμπιακός-Μίλαν και η δεύτερη ευκαιρία που του δόθηκε στην Αθήνα",
+"url": "https://www.gazzetta.gr/football/2589898/intzagki-i-moira-moy-edose-mia-deyteri-eykairia-minyma-toy-gia-olympiakos-milan",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T10:02+00:00",
+"sport": "football",
+"snippet": "Η Μίλαν επιστρέφει στην Αθήνα για τον αγώνα με τον Ολυμπιακό, με τον Ιντζάγκι να θυμάται τον θρίαμβο στον τελικό της Αθήνας το 2007 και να έχει ένα μήνυμα για…",
+"also": [],
+"id": "e8909cd01e7b"
 },
 {
 "title": "Ολυμπιακός: Με δύναμη την έδρα, αλλά με αντίπαλο που είναι καλύτερος εκτός εδρας...",
@@ -4944,54 +4992,6 @@
 "snippet": "Ο Ολυμπιακός ολοκλήρωσε την ανατροπή απέναντι στον Ηρακλή στο «Γ. Καραϊσκάκης» με πανηγυρικό τόνο, με τον Αρμάντο Γκονζάλες να βάζει τη δική του υπογραφή στην…",
 "also": [],
 "id": "bb0defe97867"
-},
-{
-"title": "Νικολακόπουλος: «Ο Ολυμπιακός το γύρισε με Μπέιλι-Μάριους μέσα σε 4 λεπτά»",
-"url": "http://www.sport-fm.gr/article/5162818",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-22T19:03+00:00",
-"sport": "general",
-"snippet": "Το σχόλιο του Κώστα Νικολακόπουλου στον bwinΣΠΟΡ FM 94,6, για τη μεγάλη νίκη του Ολυμπιακού κόντρα στον Ηρακλή.",
-"also": [],
-"id": "bf45f12adbc3"
-},
-{
-"title": "Μπάμπης Χριστόγλου: Στο δεύτερο ημίχρονο ο Ολυμπιακός τα έκανε όλα σωστά",
-"url": "https://sportday.gr/video/366170_mpampis-christoglou-sto-deftero-imichrono-o-olympiakos-ta-ekane-ola-sosta.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-22T19:02+00:00",
-"sport": "football",
-"snippet": "",
-"also": [],
-"id": "e04c3fc1060b"
-},
-{
-"title": "Ολυμπιακός: Τετ α τετ Ιμανόλ Αλγκουαθίλ - Ζότα Σίλβα",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-tet-a-tet-imanol-algkouathil-zota-silva?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T19:02+00:00",
-"sport": "general",
-"snippet": "Ο Ζότα Σίλβα ήθελε να εκτελέσει ξανά το πέναλτι, όμως ο Ιμανόλ επέλεξε τον Μπέιλι. Το τετ α τετ μετά τον αγώνα και ο απρόσμενος τραυματισμός.",
-"also": [],
-"id": "3123127122a5"
-},
-{
-"title": "Πέτυχε άλλα 2 γκολ ο Ολυμπιακός με Μπέιλι και Γκονζάλες (vids)",
-"url": "https://www.sdna.gr/podosfairo/1489378_petyhe-alla-2-gkol-o-olympiakos-me-mpeili-kai-gkonzales-vids",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:59+00:00",
-"sport": "football",
-"snippet": "Ο Ζότα Σίλβα νικήθηκε από τον Αθανασίαδη από το σημείο του πέναλτι, αλλά δόθηκε επανάληψη καθώς ο Τσάκλας μπήκε νωρίτερα στην μεγάλη περιοχή και έτσι...",
-"also": [],
-"id": "227e3bdb6d9a"
 }
 ]
 }
