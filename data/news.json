@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T11:16:49+00:00",
+"generated_at": "2026-11-26T11:31:58+00:00",
 "count": 400,
 "items": [
+{
+"title": "Στην Αθήνα με τη Μίλαν ο Ντίντα – Η διαχρονική σχέση του με τους «ροσονέρι»",
+"url": "https://www.sdna.gr/podosfairo/1490625_stin-athina-me-ti-milan-o-ntinta-i-diahroniki-shesi-toy-me-toys-rosoneri",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T11:27+00:00",
+"sport": "football",
+"snippet": "Στην Αθήνα βρίσκεται ο Ντίντα, στο πλευρό της αποστολής της Μίλαν, ενόψει της αναμέτρησης με τον Ολυμπιακό στο «Γ. Καραϊσκάκης», στο πλαίσιο της 5ης...",
+"also": [],
+"id": "2d61c05902b9"
+},
+{
+"title": "Ολυμπιακός: Ο Φουρνιέ βρήκε στον Τζόσεφ τον άνθρωπό του",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fournie-vrike-ston-tzosef-ton-anthropo-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T11:23+00:00",
+"sport": "general",
+"snippet": "Ο Κόρι Τζόσεφ προσφέρει στον Εβάν Φουρνιέ μεγαλύτερη ελευθερία στην επίθεση του Ολυμπιακού και αλλάζει τα δεδομένα ενόψει της επιστροφής του Μοντέρο.",
+"also": [],
+"id": "e14bab6190f5"
+},
 {
 "title": "Τι «ράγισε» μέσα σε ένα μήνα την εμπιστοσύνη της ΚΑΕ Ολυμπιακός στην… άλλοτε «αμερόληπτη» Δικαιοσύνη;",
 "url": "https://www.sdna.gr/mpasket/1490614_ti-ragise-mesa-se-ena-mina-tin-empistosyni-tis-kae-olympiakos-stin-allote",
@@ -4960,30 +4984,6 @@
 "snippet": "Ο Μπέιλι με δύο γκολ και μία ασίστ ήταν ο μεγάλος πρωταγωνιστής της ανατροπής του Ολυμπιακού απέναντι στον Ηρακλή, με τον Σιπιόνι να ξεχωρίζει στην...",
 "also": [],
 "id": "09f3b5a144fa"
-},
-{
-"title": "Μπρουνέτι: «Θα πρεπε να προηγούμαστε στο ημίχρονο»",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15245910/mprouneti-tha-prepe-na-proigoumaste-sto-imixrono/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T19:20+00:00",
-"sport": "football",
-"snippet": "Στις πρώτες δηλώσεις μετά τη λήξη της αναμέτρησης του Ολυμπιακού κόντρα στον Ηρακλή, όπου οι Ερυθρόλευκοι επικράτησαν με 6-2, ο βοηθός του Βάλτερ Ματσάρι…",
-"also": [],
-"id": "2819a2841b96"
-},
-{
-"title": "Επικράτησε του Ολυμπιακού και παρέμεινε αήττητος ο Παναθηναϊκός",
-"url": "https://www.sdna.gr/pingk-pongk/1489385_epikratise-toy-olympiakoy-kai-paremeine-aittitos-o-panathinaikos",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T19:19+00:00",
-"sport": "general",
-"snippet": "Η ομάδα πινγκ πονγκ γυναικών του Παναθηναϊκού νίκησε 4-1 τον Ολυμπιακό για την έκτη αγωνιστική του πρωταθλήματος.",
-"also": [],
-"id": "1c969c4ef00d"
 }
 ]
 }
