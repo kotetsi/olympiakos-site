@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T09:00:36+00:00",
+"generated_at": "2026-11-26T09:15:42+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Το σενάριο της επιστροφής ΜακΚίσικ παίρνει σάρκα και οστά",
+"url": "https://sportday.gr/basket/366565_olympiakos-to-senario-tis-epistrofis-makkisik-pairnei-sarka-kai-osta.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T09:04+00:00",
+"sport": "basket",
+"snippet": "Ο Αμερικανός είναι μια ανάσα από την επιστροφή του στον Ολυμπιακό, καθώς ήρθε σε προφορική συμφωνία με τους πρωταθλητές Ευρώπης και μένει να κλείσει η συμφωνία…",
+"also": [],
+"id": "5377c1afc7e8"
+},
+{
+"title": "Ολυμπιακός: Ο Νετζήπογλου πρέπει να τρελαίνει τους αντιπάλους και όχι τους διαιτητές",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-netzipoglou-prepi-na-treleni-tous-antipalous-ke-ochi-tous-dietites?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T09:02+00:00",
+"sport": "general",
+"snippet": "Ο Νετζήπογλου, η επίμαχη φάση με τον ΛεΝτέι, οι διαμαρτυρίες στους διαιτητές και τα στοιχεία που κάνουν τον νεαρό γκαρντ πολύτιμο για τον Ολυμπιακό.",
+"also": [],
+"id": "4ded6fd12f8d"
+},
 {
 "title": "Ολυμπιακός: Με φόρα κόντρα στη Μίλαν οι Πειραιώτες",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15253248/olympiakos-me-fora-kontra-sti-milan-oi-peiraiotes/",
@@ -13,6 +37,18 @@
 "snippet": "Οι «ερυθρόλευκοι» παραμένουν αήττητοι στη φετινή διοργάνωση, καθώς μετρούν τρεις νίκες επί των Γιαγκελόνια, Μαρσέιγ και Σπάρτα Πράγας και μια ισοπαλία με τη…",
 "also": [],
 "id": "6988d7999a83"
+},
+{
+"title": "Ζέρβας: «Αξίζει σεβασμό γι' αυτό που κάνει ο Ολυμπιακός - Πώς προέκυψε η επιστροφή ΜακΚίσικ και τι ακολουθεί»",
+"url": "http://www.sport-fm.gr/article/5163591",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T08:48+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού, όπως το μετέφερε στον αέρα του bwinΣΠΟΡ FM 94,6 ο Νίκος Ζέρβας.",
+"also": [],
+"id": "807fe2d080a3"
 },
 {
 "title": "Ολυμπιακός - Μίλαν: Το εντυπωσιακό βίντεο των Πειραιωτών για το ματς (vid)",
@@ -4948,50 +4984,6 @@
 "snippet": "Ο Ολυμπιακός βρέθηκε δύο φορές πίσω στο σκορ από τον Ηρακλή, όμως έβαλε εκπληκτικά γκολ, ανέβασε θεαματικά ταχύτητα στο δεύτερο μέρος και διέλυσε την ομάδα της…",
 "also": [],
 "id": "463b1621e0b0"
-},
-{
-"title": "Ολυμπιακός – Ηρακλής 6-2: Οι “ερυθρόλευκοι” άλλαξαν πρόσωπο στο δεύτερο και διέλυσαν τον Γηραιό",
-"url": "https://www.ertsports.gr/super-league/olympiakos-iraklis-6-2-oi-erythroleykoi-allaksan-prosopo-sto-deytero-kai-dielysan-ton-giraio/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-22T18:53+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός αν και βρέθηκε δύο φορές πίσω στο σκορ απέναντι στον Ηρακλή δεν προβληματίστηκε, κυριάρχησε στο δεύτερο μέρος και κατάφερε να πάρει τη νίκη με 6-2…",
-"also": [],
-"id": "a527ca2804b9"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής 6-2",
-"url": "https://www.sdna.gr/podosfairo/1489376_olympiakos-iraklis-6-2",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:52+00:00",
-"sport": "football",
-"snippet": "Με highlight τη γκολάρα του Ζότα ο Ολυμπιακός θυμήθηκε τον παλιό καλό εαυτό του και με ανατροπή καθάρισε 6-2 τον Ηρακλή.",
-"also": [
-{
-"source": "sportime",
-"source_name": "Sportime",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-iraklis-6-2-apo-to-1-2-sto-6-2?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"title": "Ολυμπιακός - Ηρακλής 6-2: Από το 1-2 στο 6-2",
-"published": "2026-11-22T18:52+00:00"
-}
-],
-"id": "8723cfb3ac9a"
-},
-{
-"title": "Ολυμπιακός: Ανατροπή ύστερα από 18 μήνες!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246165/olympiakos-anatropi-ystera-apo-18-mines/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T18:52+00:00",
-"sport": "football",
-"snippet": "Ο Ηρακλής αιφνιδίασε τον Ολυμπιακό (δύο φορές), παίρνοντας προβάδισμα με τον Άνταμ Ζούλεβιτς, όμως οι Πειραιώτες αντέδρασαν και κατάφεραν να φτάσουν στην…",
-"also": [],
-"id": "ff4543571c18"
 }
 ]
 }
