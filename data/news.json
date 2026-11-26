@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T09:30:50+00:00",
+"generated_at": "2026-11-26T09:45:59+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Νέα εξέταση για έναν άριστο μαθητή",
+"url": "https://sportday.gr/podosfairo/366554_olympiakos-nea-eksetasi-gia-enan-aristo-mathiti.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T09:30+00:00",
+"sport": "football",
+"snippet": "Ο Ρέτσος, ο Κάρμο, ο Φίλης, ο Μπακούλας, ο Ιμανόλ πίσω στα έδρανα και ο Ολυμπιακός με βασιλική -μακριά απ' αυτόν- κορώνα.",
+"also": [],
+"id": "98c21b5139dc"
+},
 {
 "title": "Ολυμπιακός-Μίλαν: Το εντυπωσιακό βίντεο με το λιοντάρι του Πειραιά (vid)",
 "url": "https://www.sdna.gr/podosfairo/1490602_olympiakos-milan-entyposiako-binteo-me-liontari-toy-peiraia-vid",
@@ -15,6 +27,18 @@
 "id": "fa597eb08be3"
 },
 {
+"title": "Ολυμπιακός, Παναθηναϊκός, ΟΦΗ και Εθνική σε μια βραδιά που θέλει δύο τηλεοράσεις",
+"url": "https://sportime.gr/media/olimpiakos-panathinaikos-ofi-ke-ethniki-se-mia-vradia-pou-theli-dio-tileorasis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T09:25+00:00",
+"sport": "general",
+"snippet": "Ολυμπιακός, Παναθηναϊκός, ΟΦΗ και Εθνική Ελλάδας αγωνίζονται σήμερα 26 Νοεμβρίου. Δείτε τις ώρες και τα κανάλια των μεγάλων ελληνικών αναμετρήσεων.",
+"also": [],
+"id": "c6fb652b01e6"
+},
+{
 "title": "ELABET: Απίστευτη απόδοση στα γκολ του Ολυμπιακού με την Μίλαν!",
 "url": "https://www.sdna.gr/stoihima/1490601_elabet-apisteyti-apodosi-sta-gkol-toy-olympiakoy-me-tin-milan",
 "source": "sdna",
@@ -23,7 +47,15 @@
 "published": "2026-11-26T09:17+00:00",
 "sport": "football",
 "snippet": "Αυτό το",
-"also": [],
+"also": [
+{
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"url": "https://www.gazzetta.gr/football/europa-league/2589889/apisteyti-apodosi-sta-gkol-toy-olympiakoy-me-tin-milan",
+"title": "ΑΠΙΣΤΕΥΤΗ απόδοση στα γκολ του Ολυμπιακού με την Μίλαν!",
+"published": "2026-11-26T09:33+00:00"
+}
+],
 "id": "e13d28f49a0c"
 },
 {
@@ -4960,30 +4992,6 @@
 "snippet": "Ο Ολυμπιακός ήταν καταιγιστικός στο δεύτερο μέρος κόντρα στον Ηρακλή στο \"Γεώργιος Καραϊσκάκης\", για την 11η αγωνιστική της Stoiximan Super League, ...",
 "also": [],
 "id": "da12717c193c"
-},
-{
-"title": "Ολυμπιακός – Ηρακλής 6-2: Μετά το «ασσόδυο» έφερε... εξάρες!",
-"url": "https://www.gazzetta.gr/football/superleague/2588863/olympiakos-iraklis-6-2-meta-assodyo-efere-exares",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T18:53+00:00",
-"sport": "football",
-"snippet": "Ο Ηρακλής μπήκε δυνατά στο Φάληρο και προηγήθηκε 0-1 και 1-2, αλλά από κει και πέρα ο Ολυμπιακός ήταν ασταμάτητος! Αφού ισοφάρισε με τη διαστημική γκολάρα του…",
-"also": [],
-"id": "20540dd2ebbd"
-},
-{
-"title": "Ολυμπιακός – Ηρακλής 6-2: Απάντησε με “εξάρα” στα προβλήματα και περιμένει Μίλαν!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246140/olympiakos-iraklis-6-2-apantise-me-eksara-sta-provlimata-kai-perimenei-milan/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T18:53+00:00",
-"sport": "football",
-"snippet": "Ο λαβωμένος Ολυμπιακός βρήκε τις λύσεις απέναντι στον επικίνδυνο Ηρακλή και πανηγύρισε ευρεία νίκη 6-2 για την 11η αγωνιστική της Stoiximan Super League! Σε…",
-"also": [],
-"id": "c1d08af392f9"
 }
 ]
 }
