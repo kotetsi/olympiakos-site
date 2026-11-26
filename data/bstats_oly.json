@@ -1,8 +1,8 @@
 {
 "source": "https://basketballstats.eu",
 "season": "2026-27",
-"fetched": "2026-11-26T10:31:59+00:00",
-"data_fetched": "2026-11-26T08:13:10.504Z",
+"fetched": "2026-11-26T16:35:14+00:00",
+"data_fetched": "2026-11-26T15:24:25.428Z",
 "last_round": 14,
 "team_slugs": {
 "OLY": "olympiakos",
@@ -8084,7 +8084,7 @@
 "pts": 3.1,
 "reb": 2.2,
 "ast": 1.1,
-"pir": 3.4,
+"pir": 3.3,
 "slug": ""
 },
 {
