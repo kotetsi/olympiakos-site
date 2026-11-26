@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-26T15:03:46+00:00",
+"generated_at": "2026-11-26T15:18:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μεταγραφικό «μπαμ» με 20χρονο φορ που «σκάει» σύντομα στο λιμάνι",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1490634_olympiakos-metagrafiko-mpam-me-20hrono-poy-skaei-syntoma-sto",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T15:15+00:00",
+"sport": "football",
+"snippet": "Ποιος είναι και τι παίζει με την περίπτωσή του.",
+"also": [],
+"id": "84ca2dd60610"
+},
+{
+"title": "Με την παραδοσιακή ερυθρόλευκη φανέλα κόντρα στη Μίλαν ο Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5163663",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T15:05+00:00",
+"sport": "football",
+"snippet": "Με την παραδοσιακή ερυθρόλευκη φανέλα θα αγωνιστεί απόψε το βράδυ ο Ολυμπιακός στο σπουδαίο εντός έδρας παιχνίδι με αντίπαλο τη Μίλαν για τη League Phase του…",
+"also": [],
+"id": "360b79bc590f"
+},
+{
+"title": "Ολυμπιακός-Μίλαν: Η άτυπη ρεβάνς του Αλγουαθίλ κόντρα στον Αμορίμ",
+"url": "https://www.metrosport.gr/olympiakos-milan-1334936",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-26T15:05+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται για ένα μεγάλο παιχνίδι στο «Γεώργιος Καραϊσκάκης», καθώς υποδέχεται τη Μίλαν για την 5η αγωνιστική της League Phase του ...",
+"also": [],
+"id": "33cd7a6c41ae"
+},
+{
+"title": "Άρης: Ανεβαίνουν οι ρυθμοί ενόψει Ολυμπιακού",
+"url": "https://www.sdna.gr/podosfairo/1490696_aris-anebainoyn-oi-rythmoi-enopsei-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T15:03+00:00",
+"sport": "football",
+"snippet": "\"Μετά το ρεπό της Τετάρτης, επιστροφή σήμερα στις προπονήσεις για τους ποδοσφαιριστές του Άρη.",
+"also": [],
+"id": "9e79e8d2600c"
+},
 {
 "title": "ΜακΚίσισκ: Μένει στην Τουρκ Τέλεκομ, παρά το ενδιαφέρον του Ολυμπιακού",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2041319/makkisisk-meni-stin-tourk-telekom-para-to-endiaferon-tou-olimpiakou/",
@@ -4905,70 +4953,6 @@
 "snippet": "Όσα δήλωσε ο Ιμανόλ Αλγουαθίλ στη συνέντευξη Τύπου μετά τη νίκη του Ολυμπιακού επί του Ηρακλή.",
 "also": [],
 "id": "d2c7300c6726"
-},
-{
-"title": "Η… κατσάδα στον Ολυμπιακό και οι δύο μεταγραφές έκπληξη",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1489420_i-katsada-ston-olympiako-kai-oi-dyo-metagrafes-ekplixi",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T21:20+00:00",
-"sport": "football",
-"snippet": "Πώς ο Ολυμπιακός μεταμορφώθηκε στο δεύτερο ημίχρονο κόντρα στον Ηρακλή, ο λόγος που δεν παίζει τόσο καιρό ο Σιπιόνι και οι αλλαγές που πρέπει να...",
-"also": [],
-"id": "7e9207442e49"
-},
-{
-"title": "Ηρακλής: Πρόστιμο στον Πίνια για το λάθος που έφερε το 3-2 του Ολυμπιακού!",
-"url": "https://www.sdna.gr/podosfairo/1489423_iraklis-prostimo-ston-pinia-gia-lathos-poy-efere-3-2-toy-olympiakoy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T21:16+00:00",
-"sport": "football",
-"snippet": "Μία ασυνήθιστη απόφαση πήρε η διοίκηση του Ηρακλή μετά την ήττα με 6-2 από τον Ολυμπιακό, επιβάλλοντας πρόστιμο στον Ινίγκο Πίνια για το λάθος του...",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/iraklis-xrimatiko-prostimo-ston-pinia-1334551",
-"title": "Ηρακλής: Xρηματικό πρόστιμο στον Πίνια για το λάθος στο 3-2 του Ολυμπιακού",
-"published": "2026-11-22T21:52+00:00"
-}
-],
-"id": "544386cf676d"
-},
-{
-"title": "Ο Παναθηναϊκός νικητής στο ντέρμπι «αιωνίων» στις γυναίκες, 4-1 τον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/pingk-pongk/2588934/o-panathinaikos-nikitis-sto-ntermpi-aionion-stis-gynaikes-4-1-ton-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T21:15+00:00",
-"sport": "general",
-"snippet": "Ο Παναθηναϊκός νίκησε τον Ολυμπιακό με 4-1 στο ντέρμπι «αιωνίων» στο πρωτάθλημα της Α1 γυναικών στο πινγκ πονγκ, μαζί με την ΑΕΚ συνεχίζουν έχοντας το απόλυτο.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/alla-spor/event/ellada/article/15246543/o-panathinaikos-epikratise-sto-ntermpi-aionion-stis-gynaikes-4-1-ton-olympiako/",
-"title": "Ο Παναθηναϊκός επικράτησε στο ντέρμπι «αιωνίων» στις γυναίκες, 4-1 τον Ολυμπιακό",
-"published": "2026-11-22T22:58+00:00"
-}
-],
-"id": "5801adb9ef47"
-},
-{
-"title": "«Αλγκουαθίλ: «Έχουμε ρόστερ με μεγάλη ποιότητα – Κρατάμε τους τρεις βαθμούς»",
-"url": "https://sportday.gr/podosfairo/366195_algkouathil-echoume-roster-me-megali-poiotita-kratame-tous-treis-vathmous.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-22T21:13+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ έκανε δηλώσεις μετά τη μεγάλη νίκη του Ολυμπιακού απέναντι στον Ηρακλή με 6-2 στο «Γ. Καραϊσκάκης», στην 11η αγωνιστική της Stoiximan Super…",
-"also": [],
-"id": "229c5fc62692"
 }
 ]
 }
