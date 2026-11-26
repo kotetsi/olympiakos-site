@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T08:15:10+00:00",
+"generated_at": "2026-11-26T08:30:18+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός : Η πεντάδα του Μπαρτζώκα που δεν έβαλε ούτε έναν πόντο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-i-pentada-tou-bartzoka-pou-den-evale-oute-enan-ponto?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T08:16+00:00",
+"sport": "general",
+"snippet": "Η πεντάδα χωρίς τον Κόρι Τζόζεφ απέναντι στη Χάποελ αποκάλυψε το πρόβλημα που αντιμετωπίζει ο Γιώργος Μπαρτζώκας στην περιφέρεια του Ολυμπιακού.",
+"also": [],
+"id": "6072d165f325"
+},
 {
 "title": "Ολυμπιακός: Με στόχο το πρώτο βήμα πρόκρισης",
 "url": "https://www.novasports.gr/sport/bolei/event/diethneis-fivb-challenge-cup-gynaikon-volei/article/15253212/olympiakos-me-stoxo-to-proto-vima-prokrisis/",
@@ -4980,18 +4992,6 @@
 "snippet": "Χωρίς τον προπονητή του σε όλο το δεύτερο ημίχρονο αγωνίστηκε ο Ηρακλής κόντρα στον Ολυμπιακό, καθώς στο 49' αποβλήθηκε ο Βάλτερ Ματσάρι.",
 "also": [],
 "id": "19f641222158"
-},
-{
-"title": "Ολυμπιακός: Τα επτά ματς μετά τον Ηρακλή και μέχρι τα Χριστούγεννα χωρίς Πουέρτα,Τσικίνιο και Έσε",
-"url": "https://sportime.gr/podosfairo/olimpiakos-ta-epta-mats-meta-ton-irakli-ke-mechri-ta-christougenna-choris-pouertatsikinio-ke-ese?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T18:36+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός έχει επτά απαιτητικούς αγώνες μετά τον Ηρακλή, με Μίλαν, Παναθηναϊκό και ΑΕΚ, ενώ οι απουσίες Πουέρτα, Τσικίνιο και Έσε δυσκολεύουν το έργο του.",
-"also": [],
-"id": "4354df33ec36"
 }
 ]
 }
