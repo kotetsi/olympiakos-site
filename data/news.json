@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T08:00:03+00:00",
+"generated_at": "2026-11-26T08:15:10+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με στόχο το πρώτο βήμα πρόκρισης",
+"url": "https://www.novasports.gr/sport/bolei/event/diethneis-fivb-challenge-cup-gynaikon-volei/article/15253212/olympiakos-me-stoxo-to-proto-vima-prokrisis/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T08:10+00:00",
+"sport": "football",
+"snippet": "Οι παίκτριες του Μπράνκο Κοβάτσεβιτς θέλει να φύγει από το Μπόρνε με τη νίκη, προκειμένου να έχει τον πρώτο λόγο για πρόκριση, στη ρεβάνς των δυο ομάδων στο…",
+"also": [],
+"id": "3f6bab778fbb"
+},
 {
 "title": "Στο σημερινό Center Fox η τριπλή ευρω-μάχη Ολυμπιακού, Παναθηναϊκού & ΟΦΗ και οι ευρυθρόλευκοι που διέλυσαν τη Χάποελ",
 "url": "https://www.sdna.gr/genikes-eidiseis/1490572_sto-simerino-center-fox-i-tripli-eyro-mahi-olympiakoy-panathinaikoy-ofi",
@@ -25,6 +37,18 @@
 "snippet": "Η μεγάλη επιθετική πτώση του Εμπάι Εντιάι στον Ολυμπιακό, τα αποκαλυπτικά στατιστικά του στη EuroLeague και το πρόβλημα που αντιμετωπίζει ο Μπαρτζώκας",
 "also": [],
 "id": "b45a9d806164"
+},
+{
+"title": "Μεγάλο ευρωπαϊκό ραντεβού για τον Ολυμπιακό, που δοκιμάζει τις δυνάμεις του απέναντι στη Μίλαν",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/megalo-eyropaiko-rantevou-gia-ton-olympiako-pou-dokimazei-tis-dynameis-tou-apenanti-sti-milan/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-26T07:52+00:00",
+"sport": "football",
+"snippet": "Ένα από τα μεγαλύτερα ονόματα του ευρωπαϊκού ποδοσφαίρου αντιμετωπίζει ο Ολυμπιακός, καθώς υποδέχεται απόψε (26/11, 19:45, ΕΡΑ ΣΠΟΡ) τη Μίλαν στο \"Γεώργιος…",
+"also": [],
+"id": "0261fbf006d2"
 },
 {
 "title": "Europa League: Αγώνας – πρόκληση για τον Ολυμπιακό κόντρα στη Μίλαν",
@@ -4968,30 +4992,6 @@
 "snippet": "Ο Ολυμπιακός έχει επτά απαιτητικούς αγώνες μετά τον Ηρακλή, με Μίλαν, Παναθηναϊκό και ΑΕΚ, ενώ οι απουσίες Πουέρτα, Τσικίνιο και Έσε δυσκολεύουν το έργο του.",
 "also": [],
 "id": "4354df33ec36"
-},
-{
-"title": "Αυτός ο παίκτης είναι κοντά στον Ολυμπιακό",
-"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1488989_aytos-o-paiktis-einai-konta-ston-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:30+00:00",
-"sport": "general",
-"snippet": "Δεν είναι μυστικό, ο Ολυμπιακός βρίσκεται στην αγορά για να θωρακίσει την περιφέρειά του.",
-"also": [],
-"id": "b7e162c3fe6b"
-},
-{
-"title": "Ολική ανατροπή για τον Ολυμπιακό με σκόρερς τους Μπέιλι και Μουαντιλματζί (vids)",
-"url": "https://www.sdna.gr/podosfairo/1489365_oliki-anatropi-gia-ton-olympiako-me-skorers-toys-mpeili-kai-moyantilmatzi-vids",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:29+00:00",
-"sport": "football",
-"snippet": "Ο Μπέιλι και ο Μουαντιλματζί έφεραν... τούμπα το σκορ υπέρ του Ολυμπιακού κόντρα στον Ηρακλή με 4-2.",
-"also": [],
-"id": "5d9301e3ee3b"
 }
 ]
 }
