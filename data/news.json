@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-26T05:28:47+00:00",
+"generated_at": "2026-11-26T05:43:55+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Ο Ολυμπιακός υποδέχεται τη Μίλαν για την 5η αγωνιστική της League Phase του Europa League.",
 "also": [],
 "id": "693ff24e5804"
+},
+{
+"title": "Το πρόστιμο του Μπαρτζώκα που οδήγησε και στην τιμωρία της έδρας του Ολυμπιακού",
+"url": "https://sportime.gr/basket-league/to-prostimo-tou-bartzoka-pou-odigise-ke-stin-timoria-tis-edras-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T05:27+00:00",
+"sport": "basket",
+"snippet": "Οι δηλώσεις του Γιώργου Μπαρτζώκα για το πρόστιμο των 50.000 ευρώ και οι αποφάσεις της ΔΕΑΒ που το συνδέουν με την τιμωρία της έδρας του Ολυμπιακού.",
+"also": [],
+"id": "f7910430998f"
 },
 {
 "title": "Οι αθλητικές μεταδόσεις της ημέρας (26/11): Πού θα δούμε το Ελλάδα-Γεωργία και τις μάχες των Ολυμπιακού, Παναθηναϊκού, ΟΦΗ",
@@ -4980,18 +4992,6 @@
 "snippet": "Ο Ηρακλής πήρε εκ νέου το προβάδισμα στο Φάληρο απέναντι στον Ολυμπιακό με σκόρερ ξανά τον Άνταμ Ζούλεβιτς.",
 "also": [],
 "id": "20fee349e60b"
-},
-{
-"title": "Τρελό 45λεπτο στο Ολυμπιακός-Ηρακλής: Ο Ζούλιεβιτς χτύπησε ξανά αλλά ο Σίλβα απάντησε με εντυπωσιακό ψαλιδάκι!",
-"url": "https://www.metrosport.gr/trelo-45lepto-sto-olympiakos-iraklis-o-zoylievits-chtypise-xana-alla-o-silva-apantise-me-entyposiako-psalidaki-1334514",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-22T17:56+00:00",
-"sport": "football",
-"snippet": "Το πρώτο 45λεπτο της αναμέτρησης του Ολυμπιακό με τον Ηρακλή στο \"Γεώργιος Καραϊσκάκης\" είχε τρομερό ρυθμό και τέσσερα γκολ, με τους ερυθρόλευκους να ...",
-"also": [],
-"id": "1e587502a582"
 }
 ]
 }
