@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T16:04:15+00:00",
+"generated_at": "2026-11-26T16:19:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι πιθανότητες πρόκρισης από την 5η αγωνιστική του Europa League",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15253872/olympiakos-oi-pithanotites-prokrisis-apo-tin-5i-agonistiki-tou-europa-league/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T16:11+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός μπορεί να εξασφαλίσει την ευρωπαϊκή του συνέχεια και την πρόκριση στα νοκ άουτ του Europa League από την 5η αγωνιστική της League Phase κόντρα στη…",
+"also": [],
+"id": "b819d197ea5f"
+},
+{
+"title": "Ολυμπιακός: Το «εσένα θέλω» του Μπαρτζώκα και ο μονόδρομος του ΜακΚίσικ",
+"url": "https://sportday.gr/basket/366594_olympiakos-to-esena-thelo-tou-mpartzoka-kai-o-monodromos-tou-makkisik.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T16:05+00:00",
+"sport": "basket",
+"snippet": "Όταν οι δύο πλευρές βλέπουν με καλό μάτι την επανασύνδεση μετά από μία τόσο έντονη σχέση, κανείς δε μπορεί να τη σταματήσει...",
+"also": [],
+"id": "3d448e897e55"
+},
 {
 "title": "Ολυμπιακός: Η παρακάμερα της κυριαρχικής νίκης με τη Χάποελ! (video)",
 "url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15253845/olympiakos-i-parakamera-tis-kyriarxikis-nikis-me-ti-xapoel-video/",
@@ -1075,7 +1099,15 @@
 "published": "2026-11-26T06:04+00:00",
 "sport": "football",
 "snippet": "Η ώρα και τα κανάλια μετάδοσης του αποψινού (26/11) σπουδαίου εντός έδρας ματς του Ολυμπιακού με τη Μίλαν για το Europa League.",
-"also": [],
+"also": [
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/podosfairo/olimpiakos-milan-i-ora-ke-ta-kanalia-metadosis-tou-megalou-agona-tou-europa-league?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Ολυμπιακός – Μίλαν: Η ώρα και τα κανάλια μετάδοσης του μεγάλου αγώνα του Europa League",
+"published": "2026-11-26T16:03+00:00"
+}
+],
 "id": "96c08aa37866"
 },
 {
@@ -4929,30 +4961,6 @@
 "snippet": "“Καλύτερα να κερδίζεις 6-2, παρά 2-0” είπε στο φινάλε της συνέντευξης τύπου ο Ιμανόλ Αλγκουαθίλ, θέλοντας κατά κάποιον τρόπο να διασκεδάσει τον προβληματισμό…",
 "also": [],
 "id": "2dd721916c04"
-},
-{
-"title": "Ολυμπιακός: Τσαντίστε τον για να παρτάρει!",
-"url": "https://sportday.gr/blogs/christakos/366191_olympiakos-tsantiste-ton-gia-na-partarei.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-23T06:30+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός των σημαντικών απουσιών, ζητάει τα κίνητρα, γιατί του «αρέσει» η πίεση, αλλά και να αφήνει τους άλλους να νομίζουν πως θα τον σταματήσουν! Γράφει…",
-"also": [],
-"id": "680385bc7dba"
-},
-{
-"title": "Ολυμπιακός: Ο κόκκινος «τυφώνας» και αυτοί που σφυρίζουν... αδιάφορα",
-"url": "https://www.gazzetta.gr/football/superleague/2588963/olympiakos-o-kokkinos-tyfonas-kai-oi-sfyrihtres-poy-agnooyntai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-23T06:20+00:00",
-"sport": "football",
-"snippet": "Ο Αλέξης Βιρβίλης γράφει στο blog του στο gazzetta.gr όσα συνέβησαν στο Καραϊσκάκη και τα... διαιτητικά μηνύματα που περιμένουν απάντηση από τον Στεφάν Λανουά.",
-"also": [],
-"id": "fc03067dbcf4"
 }
 ]
 }
