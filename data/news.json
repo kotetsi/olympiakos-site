@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-26T18:05:19+00:00",
+"generated_at": "2026-11-26T18:20:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Με θυμάσαι;» – Το εντυπωσιακό κορεό στο Καραϊσκάκη (φωτογραφίες)",
+"url": "https://sportday.gr/podosfairo/366631_olympiakos-me-thymasai-to-entyposiako-koreo-sto-karaiskaki-fotografies.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T18:09+00:00",
+"sport": "football",
+"snippet": "Η αναφορά στο προηγούμενο ματς των δύο ομάδων στο ίδιο γήπεδο",
+"also": [],
+"id": "ef59750ae31f"
+},
 {
 "title": "Ολυμπιακός: Το εντυπωσιακό κορεό με μνήμες από το 2018",
 "url": "https://www.ertsports.gr/podosfairo/europa-league/olympiakos-to-entyposiako-koreo-me-mnimes-apo-to-2018/",
@@ -15,7 +27,7 @@
 "id": "cab880f81094"
 },
 {
-"title": "Κύπελλο Ελλάδας: Που θα μεταδοθεί το Ολυμπιακός - Παναθηναϊκός και τι ισχύει για τις υπόλοιπες αναμετρήσεις",
+"title": "Κύπελλο Ελλάδας: Πού θα μεταδοθεί το Ολυμπιακός - Παναθηναϊκός και τι ισχύει για τις υπόλοιπες αναμετρήσεις",
 "url": "https://www.gazzetta.gr/football/kypello-elladas/2590062/kypello-elladas-poy-tha-metadothoyn-olympiakos-panathinaikos-kai",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -209,6 +221,13 @@
 "source_name": "ERT Sports",
 "url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-0-0-audio/",
 "title": "LIVE: Ολυμπιακός – Μίλαν 0-0 (audio)",
+"published": "2026-11-26T17:35+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-1-0-audio/",
+"title": "LIVE: Ολυμπιακός – Μίλαν 1-0 (audio)",
 "published": "2026-11-26T17:35+00:00"
 }
 ],
@@ -4964,26 +4983,6 @@
 "snippet": "Ο Ολυμπιακός δεν ανανέωσε το καλοκαίρι τον Σακίλ ΜακΚίσικ, όμως οι ελλείψεις στα γκαρντ κάνουν την απόφαση να μοιάζει διαφορετική σήμερα.",
 "also": [],
 "id": "1cb0deab4d4c"
-},
-{
-"title": "Αλλαγή ημερομηνίας στο Ολυμπιακός - Παρί",
-"url": "https://www.sdna.gr/mpasket/1489672_allagi-imerominias-sto-olympiakos-pari",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-23T14:35+00:00",
-"sport": "basket",
-"snippet": "Σε νέα ημερομηνία θα διεξαχθεί η αναμέτρηση του Ολυμπιακού κόντρα στην Παρί, καθώς το παιχνίδι θα διεξαχθεί στις 26 Ιανουαρίου, αντί για τις 15 του...",
-"also": [
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/366270_olympiakos-allagi-imerominias-sto-paichnidi-me-tin-pari.html",
-"title": "Ολυμπιακός: Αλλαγή ημερομηνίας στο παιχνίδι με την Παρί",
-"published": "2026-11-23T15:55+00:00"
-}
-],
-"id": "ed9149bfb231"
 }
 ]
 }
