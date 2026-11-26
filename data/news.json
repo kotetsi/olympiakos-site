@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T19:21:01+00:00",
+"generated_at": "2026-11-26T19:36:09+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ιφί για τη φημολογία περί Ολυμπιακού: «Καμία πρόθεση να φύγω από την Παρί»",
+"url": "https://www.gazzetta.gr/2590090/ifi-gia-ti-fimologia-peri-olympiakoy-kamia-prothesi-na-fygo-apo-tin-pari",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T19:24+00:00",
+"sport": "basket",
+"snippet": "Ο Ναντίρ Ιφί μέσω ανάρτησης στον λογαριασμό του στο x, τοποθετήθηκε για τα μεταγραφικά σενάρια που τον συνδέουν με τον Ολυμπιακό, τονίζοντας πως δεν φεύγει από…",
+"also": [],
+"id": "393a397f7676"
+},
+{
+"title": "Ολυμπιακός - Μίλαν: Ανατροπή των Ροσονέρι σε 15 λεπτά, ο Πούλισικ έκανε το 2-3",
+"url": "https://www.gazzetta.gr/football/europa-league/2590089/olympiakos-milan-anatropi-ton-rosoneri-se-15-lepta-o-poylisik-ekane",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T19:23+00:00",
+"sport": "football",
+"snippet": "Η Μίλαν σκόραρε τρεις φορές σε 15 λεπτά στον εκτός έδρας αγώνα με το Ολυμπιακό, με τον Κρίστιαν Πούλισικ να «υπογράφει» το 2-3.",
+"also": [],
+"id": "63b0a4e8f38d"
+},
 {
 "title": "Ολυμπιακός - Μίλαν: Τα γκολ των Χάτσινσον και Σισέ για το 2-2",
 "url": "https://www.gazzetta.gr/football/europa-league/2590084/olympiakos-milan-ta-gkol-ton-hatsinson-kai-seise-gia-2-2",
@@ -4988,30 +5012,6 @@
 "snippet": "Όπως αποκαλύφθηκε στην εκπομπή «Άγνωστες Υποθέσεις» Ολυμπιακός και ΠΑΟΚ βρίσκονται σε ανοικτή γραμμή για το θέμα του Τάιλερ Ντόρσεϊ, ενώ οριστική...",
 "also": [],
 "id": "c97616c9fa55"
-},
-{
-"title": "Ολυμπιακός: Νέο μήνυμα Τάιλερ Ντόρσεϊ με ξεκάθαρα... υπονοούμενα και δεν θα αφήσω άλλους να καθορίσουν ποιος είμαι",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-neo-minima-tailer-ntorsei-me-xekathara-iponooumena-ke-den-tha-afiso-allous-na-kathorisoun-pios-ime?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-23T18:44+00:00",
-"sport": "general",
-"snippet": "Ο Τάιλερ Ντόρσεϊ ανέβασε φωτογραφίες από την Εθνική με ένα τραγούδι για την αποτυχία και τη δύναμη. Τι σημαίνει το μήνυμα για τον Ολυμπιακό;",
-"also": [],
-"id": "4d15901b1ba8"
-},
-{
-"title": "Ολυμπιακός: Προσωρινό τέλος στην καριέρα του έβαλε ο πρώην «ερυθρόλευκος» Εμρέ Μορ",
-"url": "https://sportday.gr/podosfairo/366254_olympiakos-prosorino-telos-stin-kariera-tou-evale-o-proin-erythrolefkos-emre-mor.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-23T18:33+00:00",
-"sport": "football",
-"snippet": "Ο Εμρέ Μορ, ο οποίος είχε ένα σύντομο πέρασμα από την ΠΑΕ Ολυμπιακός, ανακοίνωσε πως αποσύρεται προσωρινά από την ενεργό δράση, μόλις στα 29 του.",
-"also": [],
-"id": "a5a2c506c270"
 }
 ]
 }
