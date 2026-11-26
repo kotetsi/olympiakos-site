@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T06:14:10+00:00",
+"generated_at": "2026-11-26T06:29:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Χάποελ Τελ Αβίβ: Το απίθανο +32 του Τζόζεφ, οι 48 πόντοι του Φουρνιέ και ο σταθερός Βεζένκοβ",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589836/olympiakos-hapoel-tel-abib-apithano-32-toy-tzozef-oi-48-pontoi-toy",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T06:25+00:00",
+"sport": "basket",
+"snippet": "Ο Στέφανος Μακρής αναλύει με την βοήθεια του Hudl Instat την νίκη του Ολυμπιακού επί της Χάποελ Τελ Αβίβ. Ο μαγικός Τζόζεφ, που έκανε την αρχή, ο δημιουργός…",
+"also": [],
+"id": "5363231e750a"
+},
+{
+"title": "ΜακΚίσικ: Κοντά στην επιστροφή του στον Ολυμπιακό!",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2040979/makkisik-konta-stin-epistrofi-tou-ston-olimpiako/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-26T06:16+00:00",
+"sport": "basket",
+"snippet": "O Σακίλ ΜακΚίσικ βρίσκεται κοντά στην επιστροφή του στον Ολυμπιακό! The post ΜακΚίσικ: Κοντά στην επιστροφή του στον Ολυμπιακό! appeared first on Eurohoops .",
+"also": [],
+"id": "78d76cc2983b"
+},
 {
 "title": "Ολυμπιακός - Μίλαν: Η ώρα και τα κανάλια μετάδοσης του αγώνα",
 "url": "https://www.gazzetta.gr/football/europa-league/2589576/olympiakos-milan-i-ora-kai-ta-kanalia-metadosis-toy-agona",
@@ -4968,30 +4992,6 @@
 "snippet": "Στις καθυστερήσεις ο Ολυμπιακός κατάφερε να ισοφαρίσει ξανά τον Ηρακλή με ένα εντυπωσιακό γκολ από τον Ζότα Σίλβα.",
 "also": [],
 "id": "dd75545a26f6"
-},
-{
-"title": "Με εξαιρετικό γυριστό σουτ του Ζότα Σίλβα 2-2 ο Ολυμπιακός (vid)",
-"url": "https://www.sdna.gr/podosfairo/1489360_me-exairetiko-gyristo-soyt-toy-zota-silba-2-2-o-olympiakos-vid",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:04+00:00",
-"sport": "football",
-"snippet": "Ο Ζότα Σίλβα με εντυπωσιακό βολ πλανέ ισοφάρισε σε 2-2 την αναμέτρηση μεταξύ Ολυμπιακού και Ηρακλή.",
-"also": [],
-"id": "18c648a8bb5e"
-},
-{
-"title": "Ολυμπιακός: Πρώτο γκολ με τη φανέλα των «ερυθρολεύκων» ο Σιπιόνι!",
-"url": "https://sportday.gr/podosfairo/366153_olympiakos-proto-gkol-me-ti-fanela-ton-erythrolefkon-o-sipioni.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-22T18:04+00:00",
-"sport": "football",
-"snippet": "Ο Λορέντσο Σιπιόνι πέτυχε το παρθενικό του γκολ με τα «ερυθρόλευκα» στο ματς Ολυμπιακός - Ηρακλής, στην 11η αγωνιστική της Stoiximan Super League.",
-"also": [],
-"id": "9efb02af449a"
 }
 ]
 }
