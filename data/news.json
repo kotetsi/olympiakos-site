@@ -1,7 +1,79 @@
 {
-"generated_at": "2026-11-26T16:49:38+00:00",
+"generated_at": "2026-11-26T17:04:45+00:00",
 "count": 400,
 "items": [
+{
+"title": "LIVE:Ολυμπιακός - A.C. Milan",
+"url": "https://www.sdna.gr/podosfairo/1488778_liveolympiakos-ac-milan",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T17:00+00:00",
+"sport": "football",
+"snippet": "Ένα βίντεο για το GTA έφερε τον Κυριάκο Μητσοτάκη στο επίκεντρο της συζήτησης, με το πολιτικό παρασκήνιο να αναζητά το πρόσωπο πίσω από την υπόθεση.",
+"also": [],
+"id": "d43046168cc2"
+},
+{
+"title": "Η ενδεκάδα της Μίλαν για την αναμέτρηση με τον Ολυμπιακό",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/i-endekada-tis-milan-gia-tin-anametrisi-me-ton-olympiako/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-26T16:58+00:00",
+"sport": "football",
+"snippet": "Λίγο πριν από την έναρξη του αγώνα, έγιναν γνωστές οι επιλογές του Ρούμπεν Αμορίμ για το αρχικό σχήμα της Μίλαν, με τους «ροσονέρι» να αποκαλύπτουν την…",
+"also": [],
+"id": "3414b3a3ca09"
+},
+{
+"title": "Ολυμπιακός: Το φατούρο στον Τζόσεφ κλέβει την παράσταση στην παρακάμερα της νίκης με τη Χάποελ (video)",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2041381/olimpiakos-to-fatouro-ston-tzosef-klevi-tin-parastasi-stin-parakamera-tis-nikis-me-ti-chapoel-video/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-26T16:56+00:00",
+"sport": "basket",
+"snippet": "Η παρακάμερα της ΚΑΕ Ολυμπιακός μετά τη μεγάλη νίκη απέναντι στη Χάποελ Τελ Αβίβ. The post Ολυμπιακός: Το φατούρο στον Τζόσεφ κλέβει την παράσταση στην…",
+"also": [],
+"id": "469566e162a6"
+},
+{
+"title": "Η ενδεκάδα της Μίλαν για τη μεγάλη μάχη με τον Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5163682",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T16:55+00:00",
+"sport": "football",
+"snippet": "Δείτε την ενδεκάδα που επέλεξε να παρατάξει ο Ρούμπεν Αμορίμ ενόψει της μεγάλης αναμέτρησης με τον Ολυμπιακό για την 5η αγωνιστική της League Phase του Europa…",
+"also": [],
+"id": "49398da238c8"
+},
+{
+"title": "Η ενδεκάδα της Μίλαν απέναντι στον Ολυμπιακό",
+"url": "https://www.sdna.gr/podosfairo/1490718_i-endekada-tis-milan-apenanti-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T16:50+00:00",
+"sport": "football",
+"snippet": "Γνωστές έγιναν οι επιλογές του Ρούμπεν Αμορίμ για την αναμέτρηση της Μίλαν με τον Ολυμπιακό στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "28acaf55bff1"
+},
+{
+"title": "Άρης: Σε ρυθμούς Ολυμπιακού με έμφαση στην τακτική",
+"url": "https://www.gazzetta.gr/football/superleague/2590045/aris-se-rythmoys-olympiakoy-me-emfasi-stin-taktiki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T16:48+00:00",
+"sport": "football",
+"snippet": "Οι ποδοσφαιριστές του Άρη επέστρεψαν στις προπονήσεις, με τον Μιχάλη Γρηγορίου να καταστρώνει τα πλάνα του για το κυριακάτικο ντέρμπι με τον Ολυμπιακό.",
+"also": [],
+"id": "9184525cf084"
+},
 {
 "title": "Ολυμπιακός – Μίλαν: Η ενδεκάδα των «ροσονέρι»",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15253925/olympiakos-milan-i-endekada-ton-rosoneri/",
@@ -13,6 +85,18 @@
 "snippet": "Οι αρχικές επιλογές της Ρούμπεν Αμορίμ για την αναμέτρηση της Μίλαν με τον Ολυμπιακό στο Φάληρο. Το παιχνίδι των «ροσονέρι» με τους Πειραιώτες είναι…",
 "also": [],
 "id": "eb492564b29f"
+},
+{
+"title": "Άρης: Έρχεται Θεσσαλονίκη ο Γκραντ για το παιχνίδι του Άρη με τον Ολυμπιακό",
+"url": "http://www.sport-fm.gr/article/5163680",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T16:45+00:00",
+"sport": "general",
+"snippet": "Ο σύμβουλος διοίκησης του Άρη, Αβραάμ Γκραντ, θα βρεθεί στη Θεσσαλονίκη ώστε να παρακολουθήσει από κοντά το εντός έδρας παιχνίδι του Άρη με τον Ολυμπιακό.",
+"also": [],
+"id": "3046c01a08b2"
 },
 {
 "title": "Η ενδεκάδα του Ολυμπιακού για το ματς με την Μίλαν",
@@ -75,7 +159,7 @@
 "id": "0d12b72a786b"
 },
 {
-"title": "Με τριάδα στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
+"title": "Με τρεις στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
 "url": "http://www.sport-fm.gr/article/5163679",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -83,7 +167,22 @@
 "published": "2026-11-26T16:38+00:00",
 "sport": "football",
 "snippet": "Δείτε την ενδεκάδα με την οποία θα παραταχθεί ο Ολυμπιακός στην εντός έδρας αναμέτρησή του με τη Μίλαν, για την 5η αγωνιστική του Europa League!",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1490717_me-treis-stoper-i-endekada-toy-imanol-apenanti-sti-milan",
+"title": "Με τρεις στόπερ η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
+"published": "2026-11-26T16:38+00:00"
+},
+{
+"source": "sportime",
+"source_name": "Sportime",
+"url": "https://sportime.gr/podosfairo/olimpiakos-milan-i-endekada-tou-algouathil-me-tris-stoper?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"title": "Ολυμπιακός – Μίλαν: Η ενδεκάδα του Αλγουαθίλ με τρεις στόπερ!",
+"published": "2026-11-26T16:43+00:00"
+}
+],
 "id": "c4154ab8283d"
 },
 {
@@ -133,6 +232,18 @@
 "snippet": "Οι τραυματισμοί των Ράτσιτς και Ντέλε-Μπασίρου περιορίζουν σημαντικά τις επιλογές του Μιχάλη Γρηγορίου στη μεσαία γραμμή του Άρη ενόψει Ολυμπιακού.",
 "also": [],
 "id": "ad8e5cb2caa4"
+},
+{
+"title": "Λιθουανία - Σερβία (Πρoκριματικά Παγκοσμίου Κυπέλλου 2027)",
+"url": "https://www.sdna.gr/mpasket/1490680_lithoyania-serbia-prokrimatika-pagkosmioy-kypelloy-2027",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T16:25+00:00",
+"sport": "basket",
+"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αναμέτρηση του Ολυμπιακού με τη Μίλαν στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "667ef6e1d92b"
 },
 {
 "title": "Όσα δεν έδειξαν οι κάμερες από την «μαγική» βραδιά του Ολυμπιακού (video)",
@@ -351,14 +462,14 @@
 "id": "9e79e8d2600c"
 },
 {
-"title": "ΜακΚίσισκ: Μένει στην Τουρκ Τέλεκομ, παρά το ενδιαφέρον του Ολυμπιακού",
+"title": "ΜακΚίσικ: Μένει στην Τουρκ Τέλεκομ, παρά το ενδιαφέρον του Ολυμπιακού",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2041319/makkisisk-meni-stin-tourk-telekom-para-to-endiaferon-tou-olimpiakou/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
 "published": "2026-11-26T14:55+00:00",
 "sport": "basket",
-"snippet": "Ο Σακίλ ΜακΚίσικ θα παραμείνει παίκτης της Τουρκ Τέλεκομ, με τον Ολυμπιακό να στρέφεται σε άλλες λύσεις για την περιφέρειά του. The post ΜακΚίσισκ: Μένει στην…",
+"snippet": "Ο Σακίλ ΜακΚίσικ θα παραμείνει παίκτης της Τουρκ Τέλεκομ, με τον Ολυμπιακό να στρέφεται σε άλλες λύσεις για την περιφέρειά του. The post ΜακΚίσικ: Μένει στην…",
 "also": [],
 "id": "b9bcf9b5c47e"
 },
@@ -4865,102 +4976,6 @@
 "snippet": "Η αποβολή του Βάλτερ Ματζάρι και του Εουγκένιο Σένα στο «Γ. Καραϊσκάκης» αποδιοργάνωσαν τον Ηρακλή που κατέρρευσε στη βαριά ήττα από τον Ολυμπιακό. Το...",
 "also": [],
 "id": "4ee9d47938fb"
-},
-{
-"title": "Οι δηλώσεις του Αμορίμ για τον Ολυμπιακό: «Ένα πράγμα θα πω για αυτόν τον αγώνα...»",
-"url": "https://www.gazzetta.gr/football/europa-league/2589053/oi-diloseis-toy-amorim-gia-ton-olympiako-ena-pragma-tha-po-gia-ayton",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-23T10:40+00:00",
-"sport": "football",
-"snippet": "Ο Ρούμπεν Αμορίμ μίλησε για το παιχνίδι με τον Ολυμπιακό και ήταν ξεκάθαρος στο θέμα της νίκης στο Φάληρο.",
-"also": [],
-"id": "7f955cad6ef8"
-},
-{
-"title": "Ηρακλής: Εξετάσεις για τους Μπάρσενας και Μάρκες",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247276/iraklis-eksetaseis-gia-tous-mparsenas-kai-markes/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-23T10:22+00:00",
-"sport": "football",
-"snippet": "Οι δυο ποδοσφαιριστές του Ηρακλή αποχώρησαν με προβλήματα τραυματισμών από την αναμέτρηση του γηπέδου «Γ. Καραϊσκάκης» με αντίπαλο τον Ολυμπιακό. Από εκεί και…",
-"also": [],
-"id": "96358c4175cf"
-},
-{
-"title": "Ολυμπιακός: Είχαμε να δούμε τόσο γεμάτο παιχνίδι από επιθετικό του πάνω από ένα χρόνο!",
-"url": "https://www.gazzetta.gr/football/2589036/olympiakos-eihame-na-doyme-toso-gemato-paihnidi-apo-epithetiko-toy-pano-apo-ena",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-23T10:10+00:00",
-"sport": "football",
-"snippet": "Ο Κώστας Νικολακόπουλος εστιάζει στο blog του στο Gazzetta σε κάποια πρόσωπα του χθεσινού αγώνα του Ολυμπιακού.",
-"also": [],
-"id": "93b8e6c134d9"
-},
-{
-"title": "Μαρμίτα: Έχασαν τη φωνή τους στα γκολ του Ολυμπιακού",
-"url": "https://sportime.gr/olimpiakos/marmita-echasan-ti-foni-tous-sta-gkol-tou-olimpiakou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-23T09:26+00:00",
-"sport": "football",
-"snippet": "Στη Μαρμίτα η εξάρα του Ολυμπιακού στον Ηρακλή έφερε συνεχόμενα γκολ, αποθέωση για Σιπιόνι και Μάριους και ασταμάτητες φωνές στον αέρα της εκπομπής.",
-"also": [],
-"id": "d74e8b81c2f6"
-},
-{
-"title": "Σταματέλος: «Ο Ολυμπιακός μπορεί να εισπράξει περισσότερα χρήματα από τον Τζολάκη - Τι σκέφτεται για Μίλαν ο Ιμανόλ»",
-"url": "http://www.sport-fm.gr/article/5162948",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-23T09:23+00:00",
-"sport": "general",
-"snippet": "Ο Νίκος Σταματέλος αναφέρθηκε στον Τζολάκη και τα οικονομικά οφέλη για τον Ολυμπιακό, στον τραυματισμό του Μπέιλι, στις λύσεις για τα χαφ και στα εισιτήρια με…",
-"also": [],
-"id": "b392b5c6578b"
-},
-{
-"title": "Ολυμπιακός: Ακυρώθηκαν εισιτήρια με τη Μίλαν λόγω ανακριβών στοιχείων - Τίθενται εκ νέου σε πώληση",
-"url": "https://www.sdna.gr/podosfairo/1489573_olympiakos-akyrothikan-eisitiria-me-ti-milan-logo-anakribon-stoiheion-tithentai",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-23T09:14+00:00",
-"sport": "football",
-"snippet": "Στην ακύρωση σημαντικού αριθμού εισιτηρίων του αγώνα με τη Μίλαν λόγω χρήσης ανακριβών ή εικονικών στοιχείων ταυτοποίησης προχώρησε ο Ολυμπιακός, τα...",
-"also": [],
-"id": "a7092a6f9c04"
-},
-{
-"title": "Πρωινός Τύπος (23/11): «Ξύπνησε ο Λιβάι, ζογκλέρ Γιάγκουσιτς - Προβληματική η άμυνα του Ολυμπιακού»",
-"url": "https://www.sdna.gr/podosfairo/1489557_proinos-typos-23/11-xypnise-o-libai-zogkler-giagkoysits-problimatiki-i-amyna-toy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-23T09:10+00:00",
-"sport": "football",
-"snippet": "Την αποτίμηση της αγωνιστικής κάνει ο Τύπος, που στέκεται στη νίκη του Παναθηναϊκού και στα κενά της άμυνας του Ολυμπιακού παρά την «εξάρα».",
-"also": [],
-"id": "cfe5f023330c"
-},
-{
-"title": "Ολυμπιακός: Ακύρωσε εισιτήρια για τη Μίλαν λόγω ψεύτικων στοιχείων-Βγαίνουν εκ νέου προς διάθεση",
-"url": "http://www.sport-fm.gr/article/5162940",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-23T09:09+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός ακύρωσε εισιτήρια του αγώνα με τη Μίλαν λόγω ανακριβών στοιχείων ταυτοποίησης. Νέα διάθεση τη Δευτέρα στις 12:00, με αυστηρούς ελέγχους και…",
-"also": [],
-"id": "373f4b5023b8"
 }
 ]
 }
