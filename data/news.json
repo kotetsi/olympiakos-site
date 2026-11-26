@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T22:07:30+00:00",
+"generated_at": "2026-11-26T22:22:38+00:00",
 "count": 400,
 "items": [
+{
+"title": "Βαθμολογίες Γιουρόπα και Κόνφερενς: 9ος ο Ολυμπιακός, εντός στόχων ΟΦΗ και Παναθηναϊκός",
+"url": "https://sportday.gr/podosfairo/366684_vathmologies-giouropa-kai-konferens-9os-o-olympiakos-entos-stochon-ofi-kai-panathinaikos.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T22:14+00:00",
+"sport": "football",
+"snippet": "Τρεις ήττες, αλλά όχι καταστροφικές για τους στόχους τους, σημείωσαν Ολυμπιακός, ΟΦΗ και Παναθηναϊκός.",
+"also": [],
+"id": "66637c42d3d4"
+},
+{
+"title": "Γιατί κατέρρευσε ο Ολυμπιακός και ο... παλαίμαχος",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1490788_giati-katerreyse-o-olympiakos-kai-o-palaimahos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T22:10+00:00",
+"sport": "football",
+"snippet": "Η εξήγηση γιατί το 2-0 του Ολυμπιακού με τη Μίλαν έγινε 2-3, το... καμπανάκι ενόψει των αναμετρήσεων με Άρη, Παναθηναϊκό και ΑΕΚ και οι μεταγραφές...",
+"also": [],
+"id": "e231b30e0d18"
+},
 {
 "title": "Βαθμολογία Europa league: Εκτός οκτάδας ο Ολυμπιακός, υποχώρησε ο ΟΦΗ",
 "url": "https://www.gazzetta.gr/football/europa-league/2590150/bathmologia-europa-league-ektos-oktadas-o-olympiakos-ypohorise-o-ofi",
@@ -27,7 +51,7 @@
 "id": "715e2f8bb74d"
 },
 {
-"title": "Προηγήθηκε αλλά κατέρρευσε στο Τορίνο η Ομόνοια - Η βαθμολογία Ολυμπιακού και ΟΦΗ",
+"title": "Προηγήθηκε, αλλά κατέρρευσε στο Τορίνο η Ομόνοια - Η βαθμολογία και οι θέσεις Ολυμπιακού και ΟΦΗ",
 "url": "http://www.sport-fm.gr/article/5163743",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -602,6 +626,13 @@
 "url": "https://www.gazzetta.gr/football/europa-league/2590096/bathmologia-europa-league-o-olympiakos-stin-7i-thesi",
 "title": "Βαθμολογία Europa League: Ο Ολυμπιακός στην 7η θέση",
 "published": "2026-11-26T19:40+00:00"
+},
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1490789_i-bathmologia-toy-europa-league-stin-9i-thesi-o-olympiakos-21os-o-ofi",
+"title": "Η βαθμολογία του Europa League: Στην 9η θέση ο Ολυμπιακός, 21ος ο ΟΦΗ",
+"published": "2026-11-26T22:13+00:00"
 }
 ],
 "id": "6178c4f3c009"
@@ -4980,30 +5011,6 @@
 "snippet": "Έναν παλιό γνώριμο είδαν ξανά από κοντά οι \"ερυθρόλευκοι\" στη Media Day ενόψει του αγώνα με τη Χάποελ Τελ Αβίβ, για τη 14η αγωνιστική της EuroLeague, αφού ο…",
 "also": [],
 "id": "12ac1bd57546"
-},
-{
-"title": "Ολυμπιακός: Ο αλάνθαστος Μανώλης Σάλιακας",
-"url": "https://sportday.gr/podosfairo/366330_olympiakos-o-alanthastos-manolis-saliakas.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T12:04+00:00",
-"sport": "football",
-"snippet": "Ο Μανώλης Σάλιακας εξελίσσεται σε αθόρυβη δύναμη στον Ολυμπιακό με τα στατιστικά του στο ματς με τον Ηρακλή να αποτελούν την επιβεβαίωση",
-"also": [],
-"id": "d037f42f86a1"
-},
-{
-"title": "Ολυμπιακός: Στην προπόνηση ο ΜακΚίσικ, θυμήθηκε τα παλιά",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2589346/olympiakos-stin-proponisi-o-makkisik-thymithike-ta-palia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T11:54+00:00",
-"sport": "basket",
-"snippet": "Ο Σακιέλ ΜακΚίσικ βρέθηκε στην προπόνηση του Ολυμπιακού και θυμήθηκε τα παλιά",
-"also": [],
-"id": "8c17a130aec3"
 }
 ]
 }
