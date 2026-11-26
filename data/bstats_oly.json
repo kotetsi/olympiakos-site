@@ -1,8 +1,8 @@
 {
 "source": "https://basketballstats.eu",
 "season": "2026-27",
-"fetched": "2026-11-25T22:25:34+00:00",
-"data_fetched": "2026-11-25T12:27:37.961Z",
+"fetched": "2026-11-26T04:28:54+00:00",
+"data_fetched": "2026-11-25T23:26:30.815Z",
 "last_round": 14,
 "team_slugs": {
 "OLY": "olympiakos",
@@ -6418,6 +6418,53 @@
 "pf": 18
 },
 "coach": "BARTZOKAS, GEORGIOS"
+},
+{
+"season": "2026-27",
+"code": "E2026",
+"gc": 140,
+"round": 14,
+"date": "2026-11-25",
+"phase": "RS",
+"home": "OLY",
+"away": "HTA",
+"opp": "HTA",
+"venue": "Εντός",
+"pf": 104,
+"pa": 79,
+"oly": {
+"pts": 104,
+"fgm2": 26,
+"fga2": 40,
+"fgm3": 12,
+"fga3": 30,
+"ftm": 16,
+"fta": 22,
+"oreb": 12,
+"dreb": 24,
+"tov": 10,
+"ast": 23,
+"stl": 10,
+"blk": 0,
+"pf": 17
+},
+"opp_box": {
+"pts": 79,
+"fgm2": 14,
+"fga2": 23,
+"fgm3": 12,
+"fga3": 30,
+"ftm": 15,
+"fta": 19,
+"oreb": 4,
+"dreb": 20,
+"tov": 21,
+"ast": 17,
+"stl": 5,
+"blk": 4,
+"pf": 19
+},
+"coach": "BARTZOKAS, GEORGIOS"
 }
 ],
 "standings": {
@@ -7912,11 +7959,11 @@
 "current": [
 {
 "name": "VEZENKOV, SASHA",
-"g": 13,
-"min": 27.7,
+"g": 14,
+"min": 27.9,
 "pts": 20.2,
-"reb": 6.2,
-"ast": 1.0,
+"reb": 6.1,
+"ast": 1.1,
 "pir": 23.9,
 "slug": ""
 },
@@ -7932,12 +7979,12 @@
 },
 {
 "name": "FOURNIER, EVAN",
-"g": 10,
-"min": 26.2,
-"pts": 14.1,
-"reb": 2.1,
-"ast": 3.4,
-"pir": 10.0,
+"g": 11,
+"min": 26.7,
+"pts": 14.9,
+"reb": 2.0,
+"ast": 4.1,
+"pir": 11.5,
 "slug": ""
 },
 {
@@ -7952,22 +7999,22 @@
 },
 {
 "name": "WARD, TYSON",
-"g": 13,
+"g": 14,
 "min": 23.6,
-"pts": 8.3,
+"pts": 8.1,
 "reb": 3.7,
-"ast": 2.2,
-"pir": 9.5,
+"ast": 2.1,
+"pir": 9.0,
 "slug": ""
 },
 {
 "name": "NDIAYE, MBAYE",
-"g": 13,
-"min": 16.6,
-"pts": 8.2,
-"reb": 3.2,
-"ast": 1.0,
-"pir": 9.9,
+"g": 14,
+"min": 16.2,
+"pts": 7.8,
+"reb": 3.4,
+"ast": 1.1,
+"pir": 9.6,
 "slug": ""
 },
 {
@@ -7982,42 +8029,32 @@
 },
 {
 "name": "JONES, TYRIQUE",
-"g": 13,
+"g": 14,
 "min": 14.1,
 "pts": 7.2,
-"reb": 3.3,
+"reb": 3.4,
 "ast": 1.1,
-"pir": 8.5,
+"pir": 8.4,
 "slug": ""
 },
 {
 "name": "JOSEPH, CORY",
-"g": 12,
-"min": 18.0,
-"pts": 5.3,
+"g": 13,
+"min": 19.5,
+"pts": 7.0,
 "reb": 0.8,
 "ast": 1.8,
-"pir": 4.6,
+"pir": 6.6,
 "slug": ""
 },
 {
 "name": "HALL, DONTA",
-"g": 12,
-"min": 13.9,
-"pts": 4.4,
-"reb": 2.7,
+"g": 13,
+"min": 14.2,
+"pts": 4.6,
+"reb": 3.2,
 "ast": 0.8,
-"pir": 7.6,
-"slug": ""
-},
-{
-"name": "MILUTINOV, NIKOLA",
-"g": 7,
-"min": 14.7,
-"pts": 3.4,
-"reb": 6.0,
-"ast": 1.0,
-"pir": 9.1,
+"pir": 8.5,
 "slug": ""
 },
 {
@@ -8031,22 +8068,32 @@
 "slug": ""
 },
 {
+"name": "MILUTINOV, NIKOLA",
+"g": 8,
+"min": 13.9,
+"pts": 3.2,
+"reb": 5.5,
+"ast": 0.9,
+"pir": 8.2,
+"slug": ""
+},
+{
 "name": "PAPANIKOLAOU, KOSTAS",
-"g": 12,
-"min": 16.1,
+"g": 13,
+"min": 15.4,
 "pts": 3.1,
-"reb": 2.3,
-"ast": 1.2,
-"pir": 3.5,
+"reb": 2.2,
+"ast": 1.1,
+"pir": 3.4,
 "slug": ""
 },
 {
 "name": "NETZIPOGLOU, OMIROS",
-"g": 5,
-"min": 7.1,
-"pts": 1.0,
+"g": 6,
+"min": 8.8,
+"pts": 1.7,
 "reb": 1.0,
-"ast": 1.2,
+"ast": 1.0,
 "pir": 2.0,
 "slug": ""
 },
