@@ -1,7 +1,55 @@
 {
-"generated_at": "2026-11-26T19:05:53+00:00",
+"generated_at": "2026-11-26T19:21:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Μίλαν: Τα γκολ των Χάτσινσον και Σισέ για το 2-2",
+"url": "https://www.gazzetta.gr/football/europa-league/2590084/olympiakos-milan-ta-gkol-ton-hatsinson-kai-seise-gia-2-2",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T19:11+00:00",
+"sport": "football",
+"snippet": "Στο 56' η Μίλαν μπήκε και πάλι στο παιχνίδι στο Φάληρο μειώνοντας σε 2-1 με τον Χάτσινσον, ενώ στο 63' με τον Σισέ έκανε το 2-2.",
+"also": [],
+"id": "676a357e5566"
+},
+{
+"title": "Ολυμπιακός: Τον πλήγωσε ο παίκτης του Μαρινάκη",
+"url": "https://sportime.gr/podosfairo/olimpiakos-ton-pligose-o-pektis-tou-marinaki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T19:09+00:00",
+"sport": "football",
+"snippet": "Ομάρι Χάτσισον, δανεικός στη Μίλαν από τη Νότιγχαμ Φόρεστ του Βαγγέλη Μαρινάκη, σκόραρε απέναντι στον Ολυμπιακό με μια εντυπωσιακή ενέργεια.",
+"also": [],
+"id": "a2eccf5e9a49"
+},
+{
+"title": "Ολυμπιακός: Το διπλό λάθος του Ζέλσον Μάρτινς στο 2-1",
+"url": "https://sportime.gr/podosfairo/olimpiakos-to-diplo-lathos-tou-zelson-martins-sto-2-1?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T19:04+00:00",
+"sport": "football",
+"snippet": "Ο Ζέλσον Μάρτινς χάνει την μπάλα σε κρίσιμο σημείο και δεν σταματά τον Χάτσισον με φάουλ στη φάση του 2-1 της Μίλαν απέναντι στον Ολυμπιακό.",
+"also": [],
+"id": "545e5d184ea9"
+},
+{
+"title": "Ιδανικό ξεκίνημα στο δεύτερο ημίχρονο και 2-0 ο Ολυμπιακός με εκτελεστή Ζότα Σίλβα!",
+"url": "http://www.sport-fm.gr/article/5163701",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T19:03+00:00",
+"sport": "general",
+"snippet": "Οι «ερυθρόλευκοι» διπλασίασαν τα τέρματά τους στο 49ο λεπτό, με τον Ζότα Σίλβα να εκτελεί τον Μενιάν σε τετ α τετ, έπειτα από εξαιρετική συνεργασία των…",
+"also": [],
+"id": "5a18a4a24e27"
+},
 {
 "title": "Ολυμπιακός - Μίλαν: Ο Ζότα εκτέλεσε για το 2-0",
 "url": "https://www.gazzetta.gr/football/europa-league/2590082/olympiakos-milan-o-zota-ektelese-gia-2-0",
@@ -13,6 +61,18 @@
 "snippet": "Ο Ζότα Σίλβα έκανε το 2-0 κόντρα στη Μίλαν και οι οπαδοί του Ολυμπιακού παραληρούν.",
 "also": [],
 "id": "aaa9299d54b0"
+},
+{
+"title": "Ο Ζότα Σίλβα κεραυνοβολεί τον Μενιάν και κάνει το 2-0 για τον Ολυμπιακό! (vid)",
+"url": "https://www.sdna.gr/podosfairo/1490739_o-zota-silba-keraynobolei-ton-menian-kai-kanei-2-0-gia-ton-olympiako-vid",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T19:02+00:00",
+"sport": "football",
+"snippet": "Οι ερυθρόλευκοι ξεκινούν με ιδανικό τρόπο το δεύτερο ημίχρονο, αφού μετά από κλέψιμο ψηλά, ο Ζότα Σίλβα κάνει το 2-0 στο 49ο λεπτό!",
+"also": [],
+"id": "a409394179b0"
 },
 {
 "title": "Τάιλερ Ντόρσεϊ: Τα δύσκολα σουτ και η καλή αρχή δείχνει πως είναι έτοιμος για την επιστροφή απλά... όχι στον Ολυμπιακό",
@@ -391,6 +451,13 @@
 "source_name": "ERT Sports",
 "url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-2-1-audio/",
 "title": "LIVE: Ολυμπιακός – Μίλαν 2-1 (audio)",
+"published": "2026-11-26T17:35+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-2-3-audio/",
+"title": "LIVE: Ολυμπιακός – Μίλαν 2-3 (audio)",
 "published": "2026-11-26T17:35+00:00"
 }
 ],
@@ -4945,66 +5012,6 @@
 "snippet": "Ο Εμρέ Μορ, ο οποίος είχε ένα σύντομο πέρασμα από την ΠΑΕ Ολυμπιακός, ανακοίνωσε πως αποσύρεται προσωρινά από την ενεργό δράση, μόλις στα 29 του.",
 "also": [],
 "id": "a5a2c506c270"
-},
-{
-"title": "Ολυμπιακός - Μεταγραφές: Φευγάτος ο Βάργκας από την Ισπανία λόγω... ληστών στο σπίτι του",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-metagrafes-fevgatos-o-vargkas-apo-tin-ispania-logo-liston-sto-spiti-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-23T18:27+00:00",
-"sport": "football",
-"snippet": "Ο Ρούμπεν Βάργκας έπεσε θύμα διάρρηξης στη Σεβίλλη. Ο τραυματισμός του Λίον Μπέιλι φέρνει ξανά στο προσκήνιο το ενδιαφέρον του Ολυμπιακού.",
-"also": [],
-"id": "fd6d588ae3f4"
-},
-{
-"title": "Η παρακάμερα του Ολυμπιακός-Ηρακλής: Η εξάρα, οι πανηγυρισμοί και η αποθέωση",
-"url": "http://www.sport-fm.gr/article/5163049",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-23T18:23+00:00",
-"sport": "football",
-"snippet": "Δείτε την παρακάμερα που δημοσίευσε η ΠΑΕ Ολυμπιακός στο κανάλι της στο Youtube μετά την επιβλητική νίκη επί του Ηρακλή (6-2) για την 11η αγωνιστική της…",
-"also": [],
-"id": "726858c6f6b7"
-},
-{
-"title": "Υπεράνω Όλων: Μέχρι στιγμής ο Ολυμπιακός βρίσκει τις ψυχικές δυνάμεις και αντιστέκεται",
-"url": "https://sportday.gr/podosfairo/366283_yperano-olon-mechri-stigmis-o-olympiakos-vriskei-tis-psychikes-dynameis-kai-antisteketai.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-23T18:12+00:00",
-"sport": "football",
-"snippet": "Τι μπαλάρα απολαύσαμε την Κυριακή. Κόντρα σε μια ακόμη εμετική διαιτησία, απέναντι σε ένα αντίπαλο που τα έδωσε όλα, σαν να «δούλευε» και για άλλον, ένα…",
-"also": [],
-"id": "032b6b69eba2"
-},
-{
-"title": "Ολυμπιακός: Μια εικόνα… 350 λέξεις!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247919/olympiakos-mia-eikona-350-lekseis/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-23T18:00+00:00",
-"sport": "football",
-"snippet": "Η νίκη του Ολυμπιακού 6-2 επί του Ηρακλή είχε γκολ, ανατροπή και αρκετές φάσεις, όμως ας σταθούμε στη μέση θέση των βασικών παικτών του Ολυμπιακού στο γήπεδο!…",
-"also": [],
-"id": "4194ab7c6c0a"
-},
-{
-"title": "Αμορίμ για το ματς με τον Ολυμπιακό: «Πρέπει να κερδίσουμε»",
-"url": "https://sportday.gr/podosfairo/366280_amorim-gia-to-mats-me-ton-olympiako-prepei-na-kerdisoume.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-23T16:39+00:00",
-"sport": "football",
-"snippet": "Ο Ρούμπεν Αμορίμ μίλησε για το ματς της Μίλαν με τον Ολυμπιακό στο Φάληρο (26/11, 19:45), στην 5η αγωνιστική της League Phase του Europa League, λέγοντας ότι η…",
-"also": [],
-"id": "45929df99954"
 }
 ]
 }
