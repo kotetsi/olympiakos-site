@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T07:29:55+00:00",
+"generated_at": "2026-11-26T07:44:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Europa League: Αγώνας – πρόκληση για τον Ολυμπιακό κόντρα στη Μίλαν",
+"url": "https://www.metrosport.gr/europa-league-agonas-proklisi-gia-ton-olympiako-kontra-sti-milan-1334923",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-26T07:30+00:00",
+"sport": "football",
+"snippet": "Η Μίλαν δεν χρειάζεται ιδιαίτερες συστάσεις, αφού αποτελεί μία από τις πιο ιστορικές και πετυχημένες ομάδες στην Ευρώπη και το αποψινό παιχνίδι του ...",
+"also": [],
+"id": "6df2a8d3e7f9"
+},
+{
+"title": "Ολυμπιακός: Ο Φουρνιέ έχει την απάντηση σε όσους θεωρούν καλύτερο τον Ναν",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-fournie-echi-tin-apantisi-se-osous-theoroun-kalitero-ton-nan?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T07:28+00:00",
+"sport": "basket",
+"snippet": "Ο Εβάν Φουρνιέ εντυπωσίασε απέναντι στη Χάποελ και έδωσε ένα ισχυρό επιχείρημα στον Ολυμπιακό για τη μεγάλη σύγκριση με τον Κέντρικ Ναν στην Euroleague.",
+"also": [],
+"id": "2506f74fa367"
+},
 {
 "title": "Ολυμπιακός: Ένας κόουτς που δεν ψάχνει δικαιολογίες και οι πρώτες δυνατές δοκιμασίες μετά τις απώλειές του",
 "url": "https://www.gazzetta.gr/football/europa-league/2589785/olympiakos-ena-kooyts-poy-den-psahnei-dikaiologies-kai-oi-protes",
@@ -4968,30 +4992,6 @@
 "snippet": "Με την έναρξη του δευτέρου μέρους ο Ολυμπιακός κέρδισε πέναλτι, αλλά ο Τσιμεντερίδης μετά από on field review άλλαξε την απόφασή του.",
 "also": [],
 "id": "89c90250deec"
-},
-{
-"title": "Ολυμπιακός-Ηρακλής: «Ερυθρόλευκη» ανατροπή και 4-2 με Μπέιλι και Μάριους",
-"url": "https://www.metrosport.gr/olympiakos-iraklis-erythroleyki-anatropi-kai-4-2-me-mpeili-kai-marioys-1334517",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-22T18:24+00:00",
-"sport": "general",
-"snippet": "Στο ξεκίνημα του β' ημιχρόνου, ο Ολυμπιακός έφτασε στην ολική ανατροπή απέναντι στον Ηρακλή σκοράροντας δις με τον Μπέιλι και Μάριους και παίρνοντας ...",
-"also": [],
-"id": "741fc20151c1"
-},
-{
-"title": "Το πέναλτι που ο Τσιμεντερίδης έδωσε στον Ολυμπιακό αλλά πήρε πίσω για επιθετικό φάουλ (vid)",
-"url": "https://www.sdna.gr/podosfairo/1489363_penalti-poy-o-tsimenteridis-edose-ston-olympiako-alla-pire-piso-gia-epithetiko",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T18:22+00:00",
-"sport": "football",
-"snippet": "Στο ξεκίνημα του β’ ημιχρόνου ο διαιτητής Τσιμεντερίδης έδωσε πέναλτι στον Ολυμπιακού για τράβηγμα του Βούρου στον Πιρόλα, δεν είδε όμως επιθετικό...",
-"also": [],
-"id": "6c154b22d2ac"
 }
 ]
 }
