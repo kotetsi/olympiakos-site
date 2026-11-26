@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T05:13:40+00:00",
+"generated_at": "2026-11-26T05:28:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Για τη νίκη με Μίλαν ο Ολυμπιακός, με φόντο την 8άδα",
+"url": "https://www.sdna.gr/podosfairo/1490560_gia-ti-niki-me-milan-o-olympiakos-me-fonto-tin-8ada",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T05:28+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός υποδέχεται τη Μίλαν για την 5η αγωνιστική της League Phase του Europa League.",
+"also": [],
+"id": "693ff24e5804"
+},
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (26/11): Πού θα δούμε το Ελλάδα-Γεωργία και τις μάχες των Ολυμπιακού, Παναθηναϊκού, ΟΦΗ",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1490558_oi-athlitikes-metadoseis-tis-imeras-26/11-poy-tha-doyme-ellada",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T05:14+00:00",
+"sport": "general",
+"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
+"also": [],
+"id": "4cdb35f2bb02"
+},
 {
 "title": "Νετζήπογλου: «Παίξαμε σαν ομάδα για να καλύψουμε τα κενά, μαθαίνω από τους σπουδαίους συμπαίκτες μου»",
 "url": "http://www.sport-fm.gr/article/5163520",
@@ -4968,30 +4992,6 @@
 "snippet": "Το πρώτο 45λεπτο της αναμέτρησης του Ολυμπιακό με τον Ηρακλή στο \"Γεώργιος Καραϊσκάκης\" είχε τρομερό ρυθμό και τέσσερα γκολ, με τους ερυθρόλευκους να ...",
 "also": [],
 "id": "1e587502a582"
-},
-{
-"title": "Ο Σιπιόνι απάντησε στο προβάδισμα του Ηρακλή, πήραν εκ νέου προβάδισμα στο 37' οι Θεσσαλονικείς!",
-"url": "http://www.sport-fm.gr/article/5162803",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-22T17:54+00:00",
-"sport": "football",
-"snippet": "Ο Ηρακλής άνοιξε το σκορ στο «Γ. Καραϊσκάκης», ο Σιπιόνι απάντησε για τον Ολυμπιακό, όμως οι Θεσσαλονικείς προηγήθηκαν ξανά, κάνοντας το 1-2 στο 37'!",
-"also": [],
-"id": "687a63fab336"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Προβάδισμα με Ζούλεβιτς ο «Γηραιός» και γκολάρα Σιπιόνι για το 1-1",
-"url": "https://www.gazzetta.gr/football/superleague/2588830/olympiakos-iraklis-probadisma-me-zoylebits-o-giraios-kai-gkolara",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T17:41+00:00",
-"sport": "football",
-"snippet": "Ο Ηρακλής πήρε προβάδισμα στο Φάληρο στο 23' με τον Ζούλεβιτς, αλλά τρία λεπτά μετά ο Σιπιόνι με ένα φοβερό σουτ ισοφάρισε σε 1-1 για τον Ολυμπιακό.",
-"also": [],
-"id": "b6e72196c3dc"
 }
 ]
 }
