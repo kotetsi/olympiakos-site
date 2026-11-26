@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T10:01:13+00:00",
+"generated_at": "2026-11-26T10:16:17+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ξεκίνησε η διάθεση των εισιτηρίων για το ντέρμπι με τον Παναθηναϊκό στο Κύπελλο",
+"url": "https://www.gazzetta.gr/football/kypello-elladas/2589899/olympiakos-xekinise-i-diathesi-ton-eisitirion-gia-ntermpi-me-ton",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T10:09+00:00",
+"sport": "football",
+"snippet": "Στη διάθεση του κόσμου του Ολυμπιακού τέθηκαν σήμερα τα εισιτήρια για το ματς με τον Παναθηναϊκό για το Κύπελλο Ελλάδος.",
+"also": [],
+"id": "286f581eebe0"
+},
+{
+"title": "Ντόρσεϊ: Μέσα στην τρελή χαρά στην Εθνική – Καμία σχέση με την εικόνα του στον Ολυμπιακό!",
+"url": "https://sportime.gr/basket/ntorsei-mesa-stin-treli-chara-stin-ethniki-kamia-schesi-me-tin-ikona-tou-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T10:08+00:00",
+"sport": "basket",
+"snippet": "Ο Τάιλερ Ντόρσεϊ εμφανίζεται ευδιάθετος στην Εθνική Ελλάδας, σε αντίθεση με την εικόνα του στον Ολυμπιακό και όσα ανέφερε ο Γιώργος Μπαρτζώκας.",
+"also": [],
+"id": "d96db885eb24"
+},
 {
 "title": "Ολυμπιακός: Με δύναμη την έδρα, αλλά με αντίπαλο που είναι καλύτερος εκτός εδρας...",
 "url": "https://www.gazzetta.gr/football/europa-league/2589895/olympiakos-me-dynami-tin-edra-alla-me-antipalo-poy-einai-kalyteros",
@@ -70,7 +94,7 @@
 "official": false,
 "published": "2026-11-26T09:25+00:00",
 "sport": "football",
-"snippet": "Οι απουσίες, οι επιλογές στην ενδεκάδα και η ανάγκη για διαχείριση του ρόστερ ενόψει και του ντέρμπι με τον ΠΑΟΚ. Τι ανέφερε ο Μπάμπης Παπάζογλου στην ΕΡΑ ΣΠΟΡ…",
+"snippet": "Οι απουσίες, οι επιλογές στην ενδεκάδα και η ανάγκη για διαχείριση του ρόστερ ενόψει και του ντέρμπι με τον Άρη. Τι ανέφερε ο Μπάμπης Παπάζογλου στην ΕΡΑ ΣΠΟΡ…",
 "also": [],
 "id": "a052b1def7cc"
 },
@@ -4968,30 +4992,6 @@
 "snippet": "Ο Ζότα Σίλβα νικήθηκε από τον Αθανασίαδη από το σημείο του πέναλτι, αλλά δόθηκε επανάληψη καθώς ο Τσάκλας μπήκε νωρίτερα στην μεγάλη περιοχή και έτσι...",
 "also": [],
 "id": "227e3bdb6d9a"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Τα γκολ των Μπέιλι και Γκονζάλες για το 6-2",
-"url": "https://www.gazzetta.gr/football/superleague/2588867/olympiakos-iraklis-ta-gkol-ton-mpeili-kai-gkonzales-gia-6-2",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T18:59+00:00",
-"sport": "football",
-"snippet": "Στο 80' και στο 83' οι Μπέιλι και Γκονζάλες ανέβασαν κι άλλο τον δείκτη του σκορ για τον Ολυμπιακό φτάνοντας στο 6-2 κόντρα στον Ηρακλή.",
-"also": [],
-"id": "875d63534a7a"
-},
-{
-"title": "Superleague, η βαθμολογία: Ο Παναθηναϊκός στο +4 από Ολυμπιακό και +7 από την ΑΕΚ",
-"url": "https://www.gazzetta.gr/football/superleague/2588828/superleague-i-bathmologia-o-panathinaikos-sto-7-apo-olympiako-kai",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-22T18:57+00:00",
-"sport": "football",
-"snippet": "Ο Παναθηναϊκός με το τρίποντο επί του ΟΦΗ συνεχίζει στο +4 από τον δεύτερο Ολυμπιακό που συνέτριψε τον Ηρακλή και στο +7 από την ΑΕΚ που έχει ματς λιγότερο...",
-"also": [],
-"id": "aa456e930d5a"
 }
 ]
 }
