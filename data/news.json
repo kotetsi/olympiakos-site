@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T13:32:57+00:00",
+"generated_at": "2026-11-26T13:48:05+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μία μεγάλη ευρωπαϊκή βραδιά μπορεί να αναδείξει νέους πρωταγωνιστές",
+"url": "https://sportday.gr/podosfairo/366548_olympiakos-mia-megali-evropaiki-vradia-mporei-na-anadeiksei-neous-protagonistes.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T13:35+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός δεν έχει περιθώριο να... κλάψει για εκείνους που λείπουν και ετοιμάζεται για το μεγάλο ραντεβού με τη Μίλαν.",
+"also": [],
+"id": "0ab00039eb89"
+},
+{
+"title": "Άρης: Τακτική και ανάλυση Ολυμπιακού στο Ρύσιο",
+"url": "https://www.metrosport.gr/aris-taktiki-kai-analysi-olympiakoy-sto-rysio-1334970",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-26T13:25+00:00",
+"sport": "football",
+"snippet": "Η αντίστροφη μέτρηση για το ντέρμπι με τον Ολυμπιακό άρχισε στον Άρη, με τους ποδοσφαιριστές του Μιχάλη Γρηγορίου να επιστρέφουν το πρωί της Πέμπτης ...",
+"also": [],
+"id": "ed28ae0e6cc8"
+},
 {
 "title": "Το ΣΕΦ στον Ολυμπιακό αλλά ο ελληνικός λαός χρεώθηκε 37.200€ για… κάμερες - Είναι μέρος της… ενεργειακής αναβάθμισης;",
 "url": "https://www.sdna.gr/genikes-eidiseis/1490657_sef-ston-olympiako-alla-o-ellinikos-laos-hreothike-37200eu-gia-kameres",
@@ -4960,30 +4984,6 @@
 "snippet": "Η Ρεάλ αγχώθηκε, όμως στο φινάλε επικράτησε της Μπανταλόνα με 91-88 κι επέστρεψε στις νίκες μετά από την βαριά ήττα στο ΣΕΦ από τον Ολυμπιακό. The post Ρεάλ…",
 "also": [],
 "id": "9b0c8b7ddfb7"
-},
-{
-"title": "Παναθηναϊκός: «Σκούζουν» στον Ολυμπιακό για την πράσινη κορυφή",
-"url": "https://sportime.gr/panathinaikos/panathinaikos-skouzoun-ston-olimpiako-gia-tin-prasini-korifi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T20:07+00:00",
-"sport": "general",
-"snippet": "Ο Παναθηναϊκός απάντησε στον Κώστα Καραπαπά μετά τη νίκη επί του ΟΦΗ, με αιχμές για τον Ολυμπιακό και μήνυμα για την πράσινη κορυφή.",
-"also": [],
-"id": "8571fc3b4442"
-},
-{
-"title": "Καραπαπάς: «Ο Ολυμπιακός παίζει σε ένα πρωτάθλημα με διαφορετικούς κανονισμούς για τους ανταγωνιστές του»",
-"url": "http://www.sport-fm.gr/article/5162836",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-22T20:03+00:00",
-"sport": "general",
-"snippet": "Ο Κώστας Καραπαπάς εξαπέλυσε επίθεση κατά της διαιτησίας μετά τη νίκη του Ολυμπιακού επί του Ηρακλή, κάνοντας ειδική αναφορά στο Παναθηναϊκός-ΟΦΗ.",
-"also": [],
-"id": "2cbb2862808f"
 }
 ]
 }
