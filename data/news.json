@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T17:20:03+00:00",
+"generated_at": "2026-11-26T17:35:05+00:00",
 "count": 400,
 "items": [
+{
+"title": "Μόρο: Στο προσκήνιο ΑΕΚ, Παναθηναϊκός και Ολυμπιακός!",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15254003/moro-sto-proskinio-aek-panathinaikos-kai-olympiakos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T17:31+00:00",
+"sport": "football",
+"snippet": "Στην Ελλάδα έχουν στρέψει την προσοχή τους οι ατζέντηδες του Νίκολα Μόρο, εξετάζοντας το ενδεχόμενο μεταγραφής του Κροάτη μέσου σε ομάδα της χώρας μας…",
+"also": [],
+"id": "c07d1f2faa22"
+},
+{
+"title": "Ιφί: Αποκάλυψε στο X την τρέλα των οπαδών του Ολυμπιακού για την απόκτησή του",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2590055/ifi-apokalypse-sto-x-tin-trela-ton-opadon-toy-olympiakoy-gia-tin",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T17:30+00:00",
+"sport": "basket",
+"snippet": "«Πανζουρλισμός» επικρατεί γύρω από το σενάριο απόκτησης του Ναντίρ Ιφί από τον Ολυμπιακό με τον ίδιο να αποκαλύπτει πώς οι φίλαθλοι στέλνουν μηνύματα μέχρι και…",
+"also": [],
+"id": "9c205f80ade8"
+},
 {
 "title": "LIVE:Ολυμπιακός - A.C. Milan",
 "url": "https://www.sdna.gr/podosfairo/1488778_liveolympiakos-ac-milan",
@@ -13,6 +37,26 @@
 "snippet": "Ένα βίντεο για το GTA έφερε τον Κυριάκο Μητσοτάκη στο επίκεντρο της συζήτησης, με το πολιτικό παρασκήνιο να αναζητά το πρόσωπο πίσω από την υπόθεση.",
 "also": [],
 "id": "d43046168cc2"
+},
+{
+"title": "Live: Ολυμπιακός - Μίλαν",
+"url": "https://www.sdna.gr/podosfairo/1488778_live-olympiakos-milan",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T17:00+00:00",
+"sport": "football",
+"snippet": "Ένα βίντεο για το GTA έφερε τον Κυριάκο Μητσοτάκη στο επίκεντρο της συζήτησης, με το πολιτικό παρασκήνιο να αναζητά το πρόσωπο πίσω από την υπόθεση.",
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-0-0-audio/",
+"title": "LIVE: Ολυμπιακός – Μίλαν 0-0 (audio)",
+"published": "2026-11-26T17:35+00:00"
+}
+],
+"id": "e990224ecb2b"
 },
 {
 "title": "Η ενδεκάδα της Μίλαν για την αναμέτρηση με τον Ολυμπιακό",
@@ -167,7 +211,7 @@
 "id": "0d12b72a786b"
 },
 {
-"title": "Με τριάδα στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
+"title": "Με τρεις στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
 "url": "http://www.sport-fm.gr/article/5163679",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -175,19 +219,14 @@
 "published": "2026-11-26T16:38+00:00",
 "sport": "football",
 "snippet": "Δείτε την ενδεκάδα με την οποία θα παραταχθεί ο Ολυμπιακός στην εντός έδρας αναμέτρησή του με τη Μίλαν, για την 5η αγωνιστική του Europa League!",
-"also": [],
-"id": "c4154ab8283d"
-},
+"also": [
 {
-"title": "Με τρεις στόπερ η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
-"url": "https://www.sdna.gr/podosfairo/1490717_me-treis-stoper-i-endekada-toy-imanol-apenanti-sti-milan",
 "source": "sdna",
 "source_name": "SDNA",
-"official": false,
-"published": "2026-11-26T16:38+00:00",
-"sport": "football",
-"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αναμέτρηση του Ολυμπιακού με τη Μίλαν στο «Γ. Καραϊσκάκης».",
-"also": [
+"url": "https://www.sdna.gr/podosfairo/1490717_me-treis-stoper-i-endekada-toy-imanol-apenanti-sti-milan",
+"title": "Με τρεις στόπερ η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
+"published": "2026-11-26T16:38+00:00"
+},
 {
 "source": "sportime",
 "source_name": "Sportime",
@@ -196,7 +235,7 @@
 "published": "2026-11-26T16:43+00:00"
 }
 ],
-"id": "e4f6b48892f9"
+"id": "c4154ab8283d"
 },
 {
 "title": "Έκπληξη από τον Ιμανόλ στην ενδεκάδα για Μίλαν: Με Σμάιλοβιτς τρίτο στόπερ ο Ολυμπιακός",
@@ -4953,30 +4992,6 @@
 }
 ],
 "id": "dd63e78b6483"
-},
-{
-"title": "Νικολακόπουλος: «Έχει και ο Ολυμπιακός δωδέκατο παίκτη…»",
-"url": "http://www.sport-fm.gr/article/5162979",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-23T11:27+00:00",
-"sport": "general",
-"snippet": "Ακούστε το ρεπορτάζ του Ολυμπιακού από τον Κώστα Νικολακόπουλο στον bwinΣΠΟΡ FM 94,6.",
-"also": [],
-"id": "dce11906d75e"
-},
-{
-"title": "Ολυμπιακός: Ακύρωσε εισιτήρια για τον αγώνα με την Μίλαν, στην διάθεση του κόσμου ξανά",
-"url": "https://www.gazzetta.gr/football/europa-league/2589062/olympiakos-akyrose-eisitiria-gia-ton-agona-me-tin-milan-stin",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-23T11:23+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ακύρωσε σημαντικό αριθμό εισιτηρίων λόγω ανακριβών ή εικονικών στοιχείων ταυτοποίησης, με τα εισιτήρια να έχουν βγει ξανά για πώληση.",
-"also": [],
-"id": "b3662883ec97"
 }
 ]
 }
