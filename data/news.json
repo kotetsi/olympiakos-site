@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-26T06:44:23+00:00",
+"generated_at": "2026-11-26T06:59:31+00:00",
 "count": 400,
 "items": [
+{
+"title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός-Μίλαν, το Νορτντζελαντ-Παναθηναϊκός, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
+"url": "https://www.gazzetta.gr/football/europa-league/2589850/athlitikes-metadoseis-simera-olympiakos-milan-nortntzelant",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T06:58+00:00",
+"sport": "football",
+"snippet": "Δείτε την ώρα και το κανάλι μετάδοσης των σημαντικότερων αναμετρήσεων της ημέρας αλλά και τις εκπομπές του Gazzetta.",
+"also": [],
+"id": "316d717382c8"
+},
+{
+"title": "Ολυμπιακός – Μίλαν: Φορτούνης ο τελευταίος «επιζών» από την τελευταία τους μάχη στο Καραϊσκάκη (vid)",
+"url": "https://www.sdna.gr/podosfairo/1490038_olympiakos-milan-fortoynis-o-teleytaios-epizon-apo-tin-teleytaia-toys-mahi-sto",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T06:55+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Φορτούνης ήταν πρωταγωνιστής στην ιστορική πρόκριση του 2018 και παραμένει το πρόσωπο που συνδέει εκείνη τη βραδιά με τη νέα αναμέτρηση...",
+"also": [],
+"id": "4804fd78f14d"
+},
+{
+"title": "Ολυμπιακός: Στην τελική ευθεία η επιστροφή ΜακΚίσικ",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15253152/olympiakos-stin-teliki-eytheia-i-epistrofi-makkisik/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T06:52+00:00",
+"sport": "basket",
+"snippet": "Ο Αμερικανός παίκτης τα έχει βρει σε όλα με τη διοίκηση των Πειραιωτών και το μόνο που απομένει είναι να μείνει ελεύθερος από την Τρουκ Τέλεκομ. Οι…",
+"also": [],
+"id": "dac66fbe6174"
+},
 {
 "title": "Ολυμπιακός: Οι μοιρολάτρες και της τελειότητας οι λάτρες",
 "url": "https://sportday.gr/blogs/depollas/366545_olympiakos-oi-moirolatres-kai-tis-teleiotitas-oi-latres.html",
@@ -4956,42 +4992,6 @@
 "snippet": "Ο Ματσάρι αποβλήθηκε στο Ολυμπιακός - Ηρακλής όταν πέταξε την μπάλα από τα χέρια του Σάλιακα. Δεν θα πάει στη συνέντευξη Τύπου μετά το ματς.",
 "also": [],
 "id": "238c387dfd6c"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Γιατί ο Τσιμεντερίδης πήρε πίσω το πέναλτι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-iraklis-giati-o-tsimenteridis-pire-piso-to-penalti?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T18:15+00:00",
-"sport": "general",
-"snippet": "Ο Τσιμεντερίδης πήρε πίσω το πέναλτι του Ολυμπιακού με τον Ηρακλή λόγω προηγούμενου επιθετικού φάουλ του Ρέτσου και όχι για την επαφή.",
-"also": [],
-"id": "8871fd04a34a"
-},
-{
-"title": "Ολυμπιακός – Ηρακλής: Αποβλήθηκε ο Ματζάρι!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246113/olympiakos-iraklis-apovlithike-o-matzari/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T18:13+00:00",
-"sport": "football",
-"snippet": "Ένταση επικράτησε στην αναμέτρηση του Ολυμπιακού με τον Ηρακλή, για την 11η αγωνιστική της Stoiximan Super League, με τον Βάλτερ Ματζάρι να αποβάλλεται από τον…",
-"also": [],
-"id": "ba246aacc439"
-},
-{
-"title": "Ολυμπιακός: Δύσκολα μένει ο Ναΐρ Τικνιζιάν",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-diskola-meni-o-nair-tiknizian?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T18:08+00:00",
-"sport": "general",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ άλλαξε τον Νταβίντ Τικνιζιάν στο ημίχρονο με τον Ηρακλή. Τα αμυντικά προβλήματα και το μέλλον του στον Ολυμπιακό τον Γενάρη.",
-"also": [],
-"id": "b9bf4e9b1c44"
 }
 ]
 }
