@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T07:14:42+00:00",
+"generated_at": "2026-11-26T07:29:55+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ένας κόουτς που δεν ψάχνει δικαιολογίες και οι πρώτες δυνατές δοκιμασίες μετά τις απώλειές του",
+"url": "https://www.gazzetta.gr/football/europa-league/2589785/olympiakos-ena-kooyts-poy-den-psahnei-dikaiologies-kai-oi-protes",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T07:21+00:00",
+"sport": "football",
+"snippet": "Ο Δημήτρης Τομαράς γράφει στο blog του στο Gazzetta για το πρώτο πολύ δυνατό αγωνιστικό τεστ του Ολυμπιακού στην περίοδο που έχει χάσει τόσους κομβικούς…",
+"also": [],
+"id": "4c41bbaeebe2"
+},
+{
+"title": "Μίλαν: Η πιθανή εντεκάδα για το ματς με τον Ολυμπιακό",
+"url": "https://www.gazzetta.gr/football/europa-league/2589854/milan-i-pithani-entekada-gia-mats-me-ton-olympiako",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T07:15+00:00",
+"sport": "football",
+"snippet": "Η πιθανή εντεκάδα του Ρούμπεν Αμορίμ για το αποψινό (26/11, 19:45) ματς της Μίλαν με τον Ολυμπιακό στο Φάληρο.",
+"also": [],
+"id": "8f7a63b8234d"
+},
 {
 "title": "Ολυμπιακός: Ο Μπαρτζώκας δεν πρέπει να αλλάξει την ομάδα του για τον Μοντέρο",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-den-prepi-na-allaxi-tin-omada-tou-gia-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -75,14 +99,14 @@
 "id": "5363231e750a"
 },
 {
-"title": "ΜακΚίσικ: Κοντά στην επιστροφή του στον Ολυμπιακό!",
+"title": "ΜακΚίσικ: Πιθανή η επιστροφή του στον Ολυμπιακό!",
 "url": "https://www.eurohoops.net/el/euroleague-el-2/2040979/makkisik-konta-stin-epistrofi-tou-ston-olimpiako/",
 "source": "eurohoops",
 "source_name": "Eurohoops",
 "official": false,
 "published": "2026-11-26T06:16+00:00",
 "sport": "basket",
-"snippet": "O Σακίλ ΜακΚίσικ βρίσκεται κοντά στην επιστροφή του στον Ολυμπιακό! The post ΜακΚίσικ: Κοντά στην επιστροφή του στον Ολυμπιακό! appeared first on Eurohoops .",
+"snippet": "O Σακίλ ΜακΚίσικ βρίσκεται κοντά στην επιστροφή του στον Ολυμπιακό! The post ΜακΚίσικ: Πιθανή η επιστροφή του στον Ολυμπιακό! appeared first on Eurohoops .",
 "also": [],
 "id": "78d76cc2983b"
 },
@@ -4968,30 +4992,6 @@
 "snippet": "Στο ξεκίνημα του β’ ημιχρόνου ο διαιτητής Τσιμεντερίδης έδωσε πέναλτι στον Ολυμπιακού για τράβηγμα του Βούρου στον Πιρόλα, δεν είδε όμως επιθετικό...",
 "also": [],
 "id": "6c154b22d2ac"
-},
-{
-"title": "Ο Τσιμεντερίδης έδωσε πέναλτι υπέρ του Ολυμπιακού, άλλαξε την απόφασή του μετά από εισήγηση του VAR",
-"url": "http://www.sport-fm.gr/article/5162810",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-22T18:22+00:00",
-"sport": "general",
-"snippet": "Ο διαιτητής του Ολυμπιακός-Ηρακλής έδωσε πέναλτι στους «ερυθρόλευκους», όμως στη συνέχεια το πήρε πίσω μετά από εισήγηση του VAR, επειδή είχε προηγηθεί…",
-"also": [],
-"id": "a617d09059c3"
-},
-{
-"title": "Ο Τσιμεντερίδης έδωσε πέναλτι υπέρ του Ολυμπιακού, αλλά μετά από έλεγχο του VAR το πήρε πίσω",
-"url": "https://www.metrosport.gr/o-tsimenteridis-edose-penalti-yper-toy-olympiakoy-alla-meta-apo-elegcho-toy-var-to-pire-piso-1334518",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-22T18:18+00:00",
-"sport": "general",
-"snippet": "Στα πρώτα λεπτά του δεύτερου μέρους ο Τσιμεντερίδης έδειξε την άσπρη βούλα και καταλόγισε πέναλτι υπέρ του Ολυμπιακού, αλλά μετά από έλεγχο του ...",
-"also": [],
-"id": "dd143ecb1886"
 }
 ]
 }
