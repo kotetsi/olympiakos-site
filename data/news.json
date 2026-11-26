@@ -1,9 +1,21 @@
 {
-"generated_at": "2026-11-26T06:59:31+00:00",
+"generated_at": "2026-11-26T07:14:42+00:00",
 "count": 400,
 "items": [
 {
-"title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός-Μίλαν, το Νορτντζελαντ-Παναθηναϊκός, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
+"title": "Ολυμπιακός: Ο Μπαρτζώκας δεν πρέπει να αλλάξει την ομάδα του για τον Μοντέρο",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-o-bartzokas-den-prepi-na-allaxi-tin-omada-tou-gia-ton-montero?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T07:05+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός κυριαρχεί στη EuroLeague παρά τις απουσίες του. Η πιθανή επιστροφή του Μοντέρο στα playoffs δημιουργεί ένα μεγάλο δίλημμα για τον Μπαρτζώκα.",
+"also": [],
+"id": "f6be81c9b491"
+},
+{
+"title": "Αθλητικές μεταδόσεις σήμερα: Το Ολυμπιακός-Μίλαν, το Νορντζελαντ-Παναθηναϊκός, το Gazz Floor, οι Galacticos και το Gazzetta Magazino",
 "url": "https://www.gazzetta.gr/football/europa-league/2589850/athlitikes-metadoseis-simera-olympiakos-milan-nortntzelant",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -4980,18 +4992,6 @@
 "snippet": "Στα πρώτα λεπτά του δεύτερου μέρους ο Τσιμεντερίδης έδειξε την άσπρη βούλα και καταλόγισε πέναλτι υπέρ του Ολυμπιακού, αλλά μετά από έλεγχο του ...",
 "also": [],
 "id": "dd143ecb1886"
-},
-{
-"title": "Ολυμπιακός - Ηρακλής: Αποβλήθηκε ο Ματσάρι",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-iraklis-apovlithike-o-matsari?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-22T18:18+00:00",
-"sport": "general",
-"snippet": "Ο Ματσάρι αποβλήθηκε στο Ολυμπιακός - Ηρακλής όταν πέταξε την μπάλα από τα χέρια του Σάλιακα. Δεν θα πάει στη συνέντευξη Τύπου μετά το ματς.",
-"also": [],
-"id": "238c387dfd6c"
 }
 ]
 }
