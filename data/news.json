@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T12:02:11+00:00",
+"generated_at": "2026-11-26T12:17:19+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τι ισχύει με την περίπτωση του ΜακΚίσικ",
+"url": "https://www.gazzetta.gr/basketball/euroleague/2589926/olympiakos-ti-ishyei-me-tin-periptosi-toy-makkisik",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T12:05+00:00",
+"sport": "basket",
+"snippet": "Σαν ένα πιθανό σενάριο μοιάζει η επιστροφή του Σακίλ ΜακΚίσικ στον Ολυμπιακό, λίγες μέρες μετά την αποχώρησή του.",
+"also": [],
+"id": "e0c2d8a5d6da"
+},
+{
+"title": "Αταμάν: «Είχα κουραστεί λίγο στον Παναθηναϊκό, είχαμε στόχο τη Euroleague και ήμασταν διαρκώς σε μάχη με τον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5163630",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-26T12:04+00:00",
+"sport": "basket",
+"snippet": "Ο Εργκίν Αταμάν μίλησε για την εμπειρία του στον Παναθηναϊκό, την αποχώρησή του από τους «πράσινους» και την κούραση από τα συνεχή ντέρμπι με τον Ολυμπιακό.",
+"also": [],
+"id": "acd2a02170be"
+},
 {
 "title": "Φορτούνης: «Ανατριχιαστικό, από τις στιγμές που θα μείνουν για πάντα μέσα μου»",
 "url": "https://sportday.gr/podosfairo/366584_fortounis-anatrichiastiko-apo-tis-stigmes-pou-tha-meinoun-gia-panta-mesa-mou.html",
@@ -4960,30 +4984,6 @@
 "snippet": "Ο Κώστας Καραπαπάς άσκησε κριτική στη διαιτησία μετά το Ολυμπιακός - Ηρακλής 6-2, αναφερόμενος στον Παπαπέτρου και τη φάση Ταμπόρδα - Σιέλη.",
 "also": [],
 "id": "9d1631b0ac33"
-},
-{
-"title": "Σιπιόνι: «Πολύ χαρούμενος που επιβραβεύτηκε η δουλειά μου»",
-"url": "https://www.sdna.gr/podosfairo/1489397_sipioni-poly-haroymenos-poy-epibrabeytike-i-doyleia-moy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-22T19:41+00:00",
-"sport": "football",
-"snippet": "Ο Λορέντζο Σιπιόνι μίλησε για το β’ ημίχρονο του Ολυμπιακού και για το πρώτο του γκολ με τα «ερυθρόλευκα».",
-"also": [],
-"id": "c382546a4325"
-},
-{
-"title": "Έκρηξη Καραπαπά: «Καθαρή κόκκινη στον Παναθηναϊκό που δεν δίνεται – Ο Ολυμπιακός παίζει με διαφορετικούς όρους και κανονισμούς»",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15246418/ekriksi-karapapa-kathari-kokkini-ston-panathinaiko-pou-den-dinetai-o-olympiakos-paizei-me-diaforetikous-orous-kai-kanonismous/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-22T19:36+00:00",
-"sport": "football",
-"snippet": "Μετά την ανάρτηση στα social media ο Κώστας Καραπαπάς τοποθετήθηκε μετά τη λήξη του αγώνα Ολυμπιακός – Ηρακλής για την κόκκινη κάρτα που δεν αντίκρισε ο…",
-"also": [],
-"id": "86ce1648a156"
 }
 ]
 }
