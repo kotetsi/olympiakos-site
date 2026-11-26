@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-26T17:04:45+00:00",
+"generated_at": "2026-11-26T17:20:03+00:00",
 "count": 400,
 "items": [
 {
@@ -107,7 +107,15 @@
 "published": "2026-11-26T16:43+00:00",
 "sport": "football",
 "snippet": "Λίγη ώρα πριν από την έναρξη της αναμέτρησης με την Μίλαν, έγινε γνωστή η ενδεκάδα που επέλεξε ο Ιμανόλ Αλγκουαθίλ, σε ένα ματς που οι Πειραιώτες θέλουν την…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366617_olympiakos-i-endekada-tis-milan.html",
+"title": "Ολυμπιακός: Η ενδεκάδα της Μίλαν",
+"published": "2026-11-26T17:13+00:00"
+}
+],
 "id": "a06dd3bc0f52"
 },
 {
@@ -159,7 +167,7 @@
 "id": "0d12b72a786b"
 },
 {
-"title": "Με τρεις στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
+"title": "Με τριάδα στόπερ η ενδεκάδα του Ολυμπιακού κόντρα στη Μίλαν",
 "url": "http://www.sport-fm.gr/article/5163679",
 "source": "sport-fm",
 "source_name": "Sport FM",
@@ -167,14 +175,19 @@
 "published": "2026-11-26T16:38+00:00",
 "sport": "football",
 "snippet": "Δείτε την ενδεκάδα με την οποία θα παραταχθεί ο Ολυμπιακός στην εντός έδρας αναμέτρησή του με τη Μίλαν, για την 5η αγωνιστική του Europa League!",
-"also": [
+"also": [],
+"id": "c4154ab8283d"
+},
 {
+"title": "Με τρεις στόπερ η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
+"url": "https://www.sdna.gr/podosfairo/1490717_me-treis-stoper-i-endekada-toy-imanol-apenanti-sti-milan",
 "source": "sdna",
 "source_name": "SDNA",
-"url": "https://www.sdna.gr/podosfairo/1490717_me-treis-stoper-i-endekada-toy-imanol-apenanti-sti-milan",
-"title": "Με τρεις στόπερ η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
-"published": "2026-11-26T16:38+00:00"
-},
+"official": false,
+"published": "2026-11-26T16:38+00:00",
+"sport": "football",
+"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αναμέτρηση του Ολυμπιακού με τη Μίλαν στο «Γ. Καραϊσκάκης».",
+"also": [
 {
 "source": "sportime",
 "source_name": "Sportime",
@@ -183,7 +196,7 @@
 "published": "2026-11-26T16:43+00:00"
 }
 ],
-"id": "c4154ab8283d"
+"id": "e4f6b48892f9"
 },
 {
 "title": "Έκπληξη από τον Ιμανόλ στην ενδεκάδα για Μίλαν: Με Σμάιλοβιτς τρίτο στόπερ ο Ολυμπιακός",
@@ -4964,18 +4977,6 @@
 "snippet": "Ο Ολυμπιακός ακύρωσε σημαντικό αριθμό εισιτηρίων λόγω ανακριβών ή εικονικών στοιχείων ταυτοποίησης, με τα εισιτήρια να έχουν βγει ξανά για πώληση.",
 "also": [],
 "id": "b3662883ec97"
-},
-{
-"title": "Ηρακλής: Αγωνία για Μάρκες και Μπαρσένας ενόψει Παναιτωλικού",
-"url": "https://www.metrosport.gr/iraklis-agonia-gia-markes-kai-mparsenas-enopsei-panaitolikoy-1334577",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-23T10:45+00:00",
-"sport": "football",
-"snippet": "Η αποβολή του Βάλτερ Ματζάρι και του Εουγκένιο Σένα στο «Γ. Καραϊσκάκης» αποδιοργάνωσαν τον Ηρακλή που κατέρρευσε στη βαριά ήττα από τον Ολυμπιακό. Το...",
-"also": [],
-"id": "4ee9d47938fb"
 }
 ]
 }
