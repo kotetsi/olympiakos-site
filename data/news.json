@@ -1,9 +1,81 @@
 {
-"generated_at": "2026-11-26T17:35:05+00:00",
+"generated_at": "2026-11-26T17:50:19+00:00",
 "count": 400,
 "items": [
 {
-"title": "Μόρο: Στο προσκήνιο ΑΕΚ, Παναθηναϊκός και Ολυμπιακός!",
+"title": "Ολυμπιακός - Μίλαν: Το εντυπωσιακό κορεό από τους οπαδούς των Πειραιωτών",
+"url": "https://www.gazzetta.gr/football/europa-league/2590060/olympiakos-milan-entyposiako-koreo-apo-toys-opadoys-ton-peiraioton",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T17:45+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός αντιμετωπίζει τη Μίλαν για την 5η αγωνιστική της League Phase του Europa League και οι οπαδοί του επιφύλλαξαν ένα εντυπωσιακό κορεό.",
+"also": [],
+"id": "0a59b18216ea"
+},
+{
+"title": "Ολυμπιακός: Σίριαλ του ΜάκΚισικ – Τα νέα δεδομένα",
+"url": "https://sportday.gr/basket/366601_olympiakos-sirial-tou-makkisik-ta-nea-dedomena.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T17:45+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός ενδιαφέρθηκε έντονα για την επιστροφή του Σακίλ ΜακΚίσικ, αλλά όπως όλα δείχνουν τα πράγματα δεν είναι τόσο εύκολα.",
+"also": [],
+"id": "5b165d5e7d17"
+},
+{
+"title": "Ολυμπιακός – Ιφί: Το «τρελό» post στο Χ και η γρήγορη διαγραφή!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15254029/olympiakos-ifi-to-trelo-post-sto-x-kai-i-grigori-diagrafi/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-26T17:44+00:00",
+"sport": "basket",
+"snippet": "Στην αγορά για την απόκτηση δύο παικτών κινείται ο Ολυμπιακός του Γιώργου Μπαρτζώκα, με τη μεταγραφολογία να φέρνει έντονα στο προσκήνιο τον Ναντίρ Ιφί της…",
+"also": [],
+"id": "2a443104f510"
+},
+{
+"title": "Ολυμπιακός: Η παρακάμερα του αγώνα με τη Χάποελ – Οι πανηγυρισμοί και το… φατούρο",
+"url": "https://sportday.gr/video/366627_olympiakos-i-parakamera-tou-agona-me-ti-chapoel-oi-panigyrismoi-kai-to-fatouro.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T17:43+00:00",
+"sport": "basket",
+"snippet": "",
+"also": [],
+"id": "ec1e72699ef8"
+},
+{
+"title": "GBL 2026-27: Η κυριαρχία του ΠΑΟΚ, η πολυφωνία του Παναθηναϊκού, η αμυντική ισχύς του Ολυμπιακού και η δυναμική του Άρη!",
+"url": "https://www.gazzetta.gr/basketball/basket-league/2590058/gbl-2026-27-i-kyriarhia-toy-paok-i-polyfonia-toy-panathinaikoy-i",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T17:40+00:00",
+"sport": "basket",
+"snippet": "Οκτώ αγωνιστικές, τέσσερις διαφορετικές μπασκετικές φιλοσοφίες και μια κορυφή που παρουσιάζει εξαιρετικό ενδιαφέρον. Το Gazzetta αναλύει μέσα από τους αριθμούς…",
+"also": [],
+"id": "89f1ba2f38ce"
+},
+{
+"title": "Ολυμπιακός: Τα σενάρια κόντρα στη Μίλαν για την 24άδα του Europa League",
+"url": "https://sportday.gr/podosfairo/366609_olympiakos-ta-senaria-kontra-sti-milan-gia-tin-24ada-tou-europa-league.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-26T17:38+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός υποδέχεται τη Μίλαν (26/11, 19:45) στο «Γ. Καραϊσκάκης», για την 5η αγωνιστική της League Phase του Europa League. Τι χρειάζεται η ομάδα του…",
+"also": [],
+"id": "a91494583fa6"
+},
+{
+"title": "Μόρο: «Στο προσκήνιο ΑΕΚ, Παναθηναϊκός και Ολυμπιακός!»",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15254003/moro-sto-proskinio-aek-panathinaikos-kai-olympiakos/",
 "source": "novasports",
 "source_name": "Novasports",
@@ -236,6 +308,18 @@
 }
 ],
 "id": "c4154ab8283d"
+},
+{
+"title": "Με Ρέτσο, Πιρόλα και Σμάιλοβιτς η ενδεκάδα του Ιμανόλ απέναντι στη Μίλαν",
+"url": "https://www.sdna.gr/podosfairo/1490717_me-retso-pirola-kai-smailobits-i-endekada-toy-imanol-apenanti-sti-milan",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-26T16:38+00:00",
+"sport": "football",
+"snippet": "Γνωστές έγιναν οι επιλογές του Ιμανόλ Αλγουαθίλ για την αναμέτρηση του Ολυμπιακού με τη Μίλαν στο «Γ. Καραϊσκάκης».",
+"also": [],
+"id": "ffd0c0820588"
 },
 {
 "title": "Έκπληξη από τον Ιμανόλ στην ενδεκάδα για Μίλαν: Με Σμάιλοβιτς τρίτο στόπερ ο Ολυμπιακός",
@@ -4900,98 +4984,6 @@
 "snippet": "Άτυχος στάθηκε ο Λίον Μπέιλι, ο οποίος τραυματίστηκε στο παιχνίδι του Ολυμπιακού με τον Ηρακλή και θα μείνει εκτός δράσης για περίπου 20 μέρες.",
 "also": [],
 "id": "415e488c4804"
-},
-{
-"title": "Ολυμπιακός: Για να ξαναπάρει τόσα χρήματα από τον Τζολάκη χρειάζεται μεταγραφή ρεκόρ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-gia-na-xanapari-tosa-chrimata-apo-ton-tzolaki-chriazete-metagrafi-rekor?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-23T12:34+00:00",
-"sport": "football",
-"snippet": "Ο Τζολάκης ξεχωρίζει στην Αγγλία και ο Ολυμπιακός μπορεί να εισπράξει ξανά χρήματα. Πόσο μεγάλη μεταγραφή χρειάζεται για να πάρει περισσότερα από την πρώτη;",
-"also": [],
-"id": "de19d015f2ea"
-},
-{
-"title": "Ολυμπιακός: Πλήγμα με Λέον Μπέιλι, εκτός για τρεις βδομάδες",
-"url": "https://www.ertsports.gr/super-league/olympiakos-pligma-me-leon-mpeili-ektos-gia-treis-vdomades/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-23T12:33+00:00",
-"sport": "football",
-"snippet": "Πρόβλημα προέκυψε στον Ολυμπιακό με τον Λιόν Μπέιλι, ο οποίος τραυματίστηκε κατά την εκτέλεση πέναλτι στην αναμέτρηση με τον Ηρακλή (6-2) και τέθηκε νοκ άουτ…",
-"also": [],
-"id": "a97248d6bf2b"
-},
-{
-"title": "Ολυμπιακός: Το χρονικό διάστημα της απουσίας του Μπέιλι",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247365/olympiakos-to-xroniko-diastima-tis-apousias-tou-mpeili/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-23T12:27+00:00",
-"sport": "football",
-"snippet": "Ο Τζαμαϊκανός παίκτης τραυματίστηκε στην αναμέτρηση του Ολυμπιακού με τον Ηρακλή και θα χάσει τις επόμενες αναμετρήσεις των Πειραιωτών, σε Ελλάδα και Ευρώπη…",
-"also": [],
-"id": "a790ecd57041"
-},
-{
-"title": "Nova TV: EuroLeague με Βαλένθια – Παναθηναϊκός AKTOR, Ολυμπιακός – Χάποελ Τελ Αβιβ στο παρκέ του Novasports!",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15247246/nova-tv-euroleague-me-valenthia-panathinaikos-aktor-olympiakos-xapoel-tel-aviv-sto-parke-tou-novasports/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-23T12:09+00:00",
-"sport": "basket",
-"snippet": "Για την 14η αγωνιστική της EuroLeague, που θα διεξαχθεί την Τρίτη 24 Νοεμβρίου και την Τετάρτη 25 Νοεμβρίου λόγω του «παραθύρου» της FIBA (26-30/11) για τις…",
-"also": [],
-"id": "349f2e4def42"
-},
-{
-"title": "Ολυμπιακός σε Ντόρσεϊ: Στο καλό και να μας γράφεις...",
-"url": "https://sportime.gr/basket/olimpiakos-se-ntorsei-sto-kalo-ke-na-mas-grafis?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-23T12:07+00:00",
-"sport": "basket",
-"snippet": "Η απόφαση του Ολυμπιακού να αφήσει τον Τάιλερ Ντόρσεϊ να ενσωματωθεί νωρίτερα στην Εθνική δείχνει πόσο έχει αλλάξει η θέση του στην ομάδα.",
-"also": [],
-"id": "2ac283dbc20b"
-},
-{
-"title": "Εθνική: Με Ντόρσεϊ η πρώτη προπόνηση, δεν παίζει στο “Ολυμπιακός-Χάποελ”",
-"url": "https://www.eurohoops.net/el/fibawc-el/2039633/ethniki-me-ntorsei-i-proti-proponisi-den-pezi-sto-olimpiakos-chapoel/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-23T11:39+00:00",
-"sport": "basket",
-"snippet": "O Τάιλερ Ντόρσεϊ συμμετείχε στην πρώτη προπόνηση της Εθνικής ομάδας ενόψει της κρίσιμης αναμέτρησης της Ελλάδας με τη Γεωργία (Πέμπτη 26/11, 20:00) στο ΟΑΚΑ…",
-"also": [],
-"id": "c0eb8fc1a7cc"
-},
-{
-"title": "Κανονικά στην προπόνηση της Εθνικής ο Ντόρσεϊ – Χάνει το Ολυμπιακός - Χάποελ",
-"url": "https://www.sdna.gr/mpasket/1489612_kanonika-stin-proponisi-tis-ethnikis-o-ntorsei-hanei-olympiakos-hapoel",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-23T11:39+00:00",
-"sport": "basket",
-"snippet": "Ο Τάιλερ Ντόρσεϊ έδωσε κανονικά το «παρών» στην πρώτη προπόνηση της Εθνικής Ανδρών, δύο ημέρες πριν από την αναμέτρηση του Ολυμπιακού με τη Χάποελ...",
-"also": [
-{
-"source": "metrosport",
-"source_name": "Metrosport",
-"url": "https://www.metrosport.gr/ethniki-mpasket-kanonika-stin-proponisi-o-ntorsei-chanei-to-olympiakos-chapoel-1334584",
-"title": "Εθνική Μπάσκετ: Κανονικά στην προπόνηση ο Ντόρσεϊ–Χάνει το Ολυμπιακός-Χάποελ",
-"published": "2026-11-23T12:00+00:00"
-}
-],
-"id": "dd63e78b6483"
 }
 ]
 }
