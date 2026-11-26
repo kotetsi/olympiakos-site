@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-26T18:50:45+00:00",
+"generated_at": "2026-11-26T19:05:53+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - Μίλαν: Ο Ζότα εκτέλεσε για το 2-0",
+"url": "https://www.gazzetta.gr/football/europa-league/2590082/olympiakos-milan-o-zota-ektelese-gia-2-0",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-26T19:02+00:00",
+"sport": "football",
+"snippet": "Ο Ζότα Σίλβα έκανε το 2-0 κόντρα στη Μίλαν και οι οπαδοί του Ολυμπιακού παραληρούν.",
+"also": [],
+"id": "aaa9299d54b0"
+},
+{
+"title": "Τάιλερ Ντόρσεϊ: Τα δύσκολα σουτ και η καλή αρχή δείχνει πως είναι έτοιμος για την επιστροφή απλά... όχι στον Ολυμπιακό",
+"url": "https://sportime.gr/ethniki-omada/tailer-ntorsei-ta-diskola-sout-ke-i-kali-archi-dichni-pos-ine-etimos-gia-tin-epistrofi-apla-ochi-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-26T18:51+00:00",
+"sport": "general",
+"snippet": "Ο Τάιλερ Ντόρσεϊ άρχισε με δύο τρίποντα απέναντι στη Γεωργία, όμως η πίεση τον δυσκόλεψε αρκετά στη συνέχεια της αναμέτρησης για την Εθνική.",
+"also": [],
+"id": "e2353dc024a2"
+},
 {
 "title": "Ολυμπιακός - Μίλαν: Η τεράστια ευκαιρία του Πιρόλα για δεύτερο τέρμα",
 "url": "https://www.gazzetta.gr/football/europa-league/2590077/olympiakos-milan-i-terastia-eykairia-toy-pirola-gia-deytero-terma",
@@ -360,6 +384,13 @@
 "source_name": "ERT Sports",
 "url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-1-0-audio/",
 "title": "LIVE: Ολυμπιακός – Μίλαν 1-0 (audio)",
+"published": "2026-11-26T17:35+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/podosfairo/europa-league/live-olympiakos-milan-2-1-audio/",
+"title": "LIVE: Ολυμπιακός – Μίλαν 2-1 (audio)",
 "published": "2026-11-26T17:35+00:00"
 }
 ],
@@ -4974,30 +5005,6 @@
 "snippet": "Ο Ρούμπεν Αμορίμ μίλησε για το ματς της Μίλαν με τον Ολυμπιακό στο Φάληρο (26/11, 19:45), στην 5η αγωνιστική της League Phase του Europa League, λέγοντας ότι η…",
 "also": [],
 "id": "45929df99954"
-},
-{
-"title": "Τι σημαίνει το \"Κράτα τον έλεγχο\" που είδαμε στις φανέλες Παναθηναϊκού, Ολυμπιακού και ΠΑΟΚ;",
-"url": "https://www.sdna.gr/podosfairo/1489695_ti-simainei-krata-ton-elegho-poy-eidame-stis-faneles-panathinaikoy-olympiakoy",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-23T16:15+00:00",
-"sport": "football",
-"snippet": "Στο παιχνίδι με τον ΟΦΗ, οι φίλαθλοι του Παναθηναϊκού μπορούσαν να διαβάσουν το «Κράτα τον έλεγχο» με λευκά γράμματα κάτω από το τριφύλλι. Στο...",
-"also": [],
-"id": "d6dfed7da3e4"
-},
-{
-"title": "Ολυμπιακός: Μπέιλι ’26 όπως Ζέλσον ’24!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15247753/olympiakos-mpeili-26-opos-zelson-24/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-23T16:14+00:00",
-"sport": "football",
-"snippet": "Ο Λίον Μπέιλι προστέθηκε στη λίστα των άτυχων του Ολυμπιακού, καθώς υπέστη θλάση στον δικέφαλο μηριαίο του δεξιού του ποδιού κατά τη διάρκεια της αναμέτρησης…",
-"also": [],
-"id": "0ec496d34905"
 }
 ]
 }
