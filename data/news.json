@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-27T08:42:44+00:00",
+"generated_at": "2026-11-27T08:57:51+00:00",
 "count": 400,
 "items": [
 {
@@ -15,7 +15,7 @@
 "id": "dba99d0289f6"
 },
 {
-"title": "«Ο Ολυμπιακός δεν είχε αλλαγή στο κέντρο – Έμεινε από δυνάμεις» (audio)",
+"title": "«Ο Ολυμπιακός δεν είχε αλλαγή στο κέντρο, έμεινε από δυνάμεις» (audio)",
 "url": "https://www.ertsports.gr/omades/olympiakos/o-olympiakos-den-eixe-allagi-sto-kentro-emeine-apo-dynameis-audio/",
 "source": "ertsports",
 "source_name": "ERT Sports",
@@ -47,7 +47,15 @@
 "published": "2026-11-27T08:24+00:00",
 "sport": "football",
 "snippet": "Το Football Meets Data επανυπολόγισε τις πιθανότητες πρόκρισης του Ολυμπιακού και του ΟΦΗ στους επόμενους γύρους του Europa League.",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5163816",
+"title": "Οι πιθανότητες πρόκρισης του Ολυμπιακού και του ΟΦΗ μετά τις ήττες από Μίλαν και Άντερλεχτ",
+"published": "2026-11-27T08:39+00:00"
+}
+],
 "id": "67ac7715036a"
 },
 {
