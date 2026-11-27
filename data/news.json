@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-27T09:28:06+00:00",
+"generated_at": "2026-11-27T09:43:13+00:00",
 "count": 400,
 "items": [
 {
@@ -8,9 +8,9 @@
 "source": "ertsports",
 "source_name": "ERT Sports",
 "official": false,
-"published": "2026-11-27T09:27+00:00",
+"published": "2026-11-27T09:20+00:00",
 "sport": "football",
-"snippet": "Η πρωταθλήτρια Ελλάδας θέλει το τρίποντο στο ντέρμπι με τον ΠΑΟΚ (29/11, 21:00, ΕΡΑ ΣΠΟΡ) για να μπορέσει να παραμείνει κοντά στον πρωτοπόρο Παναθηναϊκό, ενώ η…",
+"snippet": "Η πρωταθλήτρια Ελλάδας θέλει το τρίποντο στο ντέρμπι με τον ΠΑΟΚ (29/11, 21:00, ΕΡΑ ΣΠΟΡ), ενώ η \"Ένωση\" επιθυμεί να μην αναβληθεί το ντέρμπι της 13ης…",
 "also": [],
 "id": "280f9ad37425"
 },
@@ -163,18 +163,6 @@
 "id": "709a3eb6c2af"
 },
 {
-"title": "ΑΕΚ-ΠΑΟΚ και Άρης-Ολυμπιακός με ενισχυμένες αποδόσεις από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
-"url": "https://www.novasports.gr/category/every-day-bet/article/15255277/aek-paok-kai-aris-olympiakos-me-enisxymenes-apodoseis-apo-to-pame-stoixima/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-27T07:48+00:00",
-"sport": "football",
-"snippet": "Με δυνατές αναμετρήσεις συνεχίζεται το πρωτάθλημα της Super League. Στο πρόγραμμα της 12ης αγωνιστικής ξεχωρίζουν τα κυριακάτικα παιχνίδια Άρης-Ολυμπιακός…",
-"also": [],
-"id": "8428c48b2977"
-},
-{
 "title": "Ολυμπιακός: Προς αναβολή το ντέρμπι της 5ης Δεκεμβρίου με την ΑΕΚ",
 "url": "https://www.metrosport.gr/olympiakos-pros-anavoli-to-ntermpi-tis-5is-dekemvrioy-me-tin-aek-1335034",
 "source": "metrosport",
@@ -197,6 +185,26 @@
 "snippet": "Ο Ρούμπεν Αμορίμ απολογήθηκε για τον έντονο πανηγυρισμό του Μορέιρα μπροστά στους φίλους του Ολυμπιακού μετά το 2-4.",
 "also": [],
 "id": "5e6e523923e1"
+},
+{
+"title": "ΑΕΚ-ΠΑΟΚ και Άρης-Ολυμπιακός με ενισχυμένες αποδόσεις από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+"url": "https://www.gazzetta.gr/2590208/aek-paok-kai-aris-olympiakos-me-enishymenes-apodoseis-apo-pame-stoihima",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-27T07:30+00:00",
+"sport": "general",
+"snippet": "Στα καταστήματα Allwyn σε περιμένουν Super Βοοsted Odds, Promos και Αποστολές μέσα από το καθημερινό Πάμε Στοίχημα Calendar.",
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/category/every-day-bet/article/15255277/aek-paok-kai-aris-olympiakos-me-enisxymenes-apodoseis-apo-to-pame-stoixima/",
+"title": "ΑΕΚ-ΠΑΟΚ και Άρης-Ολυμπιακός με ενισχυμένες αποδόσεις από το ΠΑΜΕ ΣΤΟΙΧΗΜΑ",
+"published": "2026-11-27T07:48+00:00"
+}
+],
+"id": "87f267d7d838"
 },
 {
 "title": "Ολυμπιακός: Ξέμεινε από καύσιμα, έχασε με σκληρό τρόπο, αλλά δεν χάθηκε ο κόσμος!",
