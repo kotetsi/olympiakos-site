@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T16:46:58+00:00",
+"generated_at": "2026-11-27T17:02:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Τα εισιτήρια για την εκτός έδρας αναμέτρηση με την Τσέλιε στο Europa League",
+"url": "https://sportday.gr/podosfairo/366754_olympiakos-ta-eisitiria-gia-tin-ektos-edras-anametrisi-me-tin-tselie-sto-europa-league.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T16:56+00:00",
+"sport": "football",
+"snippet": "Η ερυθρόλευκη ΠΑΕ γνωστοποίησε τις λεπτομέρειες για τη διάθεση των εισιτηρίων",
+"also": [],
+"id": "1e4c86aaca34"
+},
+{
+"title": "Οριστική αναβολή στο Ολυμπιακός-ΑΕΚ-Οι δύο ημερομηνίες για τη διεξαγωγή του ντέρμπι",
+"url": "https://www.metrosport.gr/oristiki-anavoli-sto-olympiakos-aek-oi-dyo-imerominies-gia-ti-diexagogi-toy-ntermpi-1335094",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-27T16:50+00:00",
+"sport": "football",
+"snippet": "Στην απόφαση να ζητήσει την αναβολή του ντέρμπι με την ΑΕΚ κατέληξε οριστικά ο Ολυμπιακός, λόγω των ευρωπαϊκών του υποχρεώσεων στο Europa League. ...",
+"also": [],
+"id": "462464d373cc"
+},
 {
 "title": "ΑΕΚ: Πώς διαμορφώνεται το πρόγραμμα μετά την αναβολή με Ολυμπιακό",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-champions-league/article/15255957/aek-pos-diamorfonetai-to-programma-meta-tin-anavoli-me-olympiako/",
@@ -13,6 +37,18 @@
 "snippet": "Νέα δεδομένα στο πρόγραμμα της ΑΕΚ, καθώς αναβλήθηκε το ντέρμπι με τον Ολυμπιακό στο Φάληρο για την 13η Αγωνιστική της Super League. Το παιχνίδι με τους…",
 "also": [],
 "id": "b1d9fd777d20"
+},
+{
+"title": "Ολυμπιακός: Τι κερδίζει από την αναβολή με την ΑΕΚ που ο Ολυμπιακός της Μίλαν δεν θα κέρδιζε... ποτέ",
+"url": "https://sportime.gr/podosfairo/olimpiakos-ti-kerdizi-apo-tin-anavoli-me-tin-aek-pou-o-olimpiakos-tis-milan-den-tha-kerdize-pote?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T16:43+00:00",
+"sport": "football",
+"snippet": "Η αναβολή του Ολυμπιακός - ΑΕΚ δίνει χρόνο στον Ιμανόλ Αλγουαθίλ για αλλαγές και επιστροφές. Πότε θα γίνει το ντέρμπι και τι κερδίζουν οι Πειραιώτες.",
+"also": [],
+"id": "37248bb017b6"
 },
 {
 "title": "Ολυμπιακός: Πρόβλημα και με Ρέτσο, αμφίβολος για Άρη",
@@ -147,7 +183,15 @@
 "published": "2026-11-27T16:20+00:00",
 "sport": "basket",
 "snippet": "Καταγγελία κατά του Ολυμπιακού",
-"also": [],
+"also": [
+{
+"source": "metrosport",
+"source_name": "Metrosport",
+"url": "https://www.metrosport.gr/kataggelia-toy-panathinaikoy-se-euroleague-gia-synthimata-kai-pano-sto-olympiakos-chapoel-1335093",
+"title": "Καταγγελία Παναθηναϊκού σε EuroLeague για... Ολυμπιακό",
+"published": "2026-11-27T16:55+00:00"
+}
+],
 "id": "839582cac553"
 },
 {
@@ -270,6 +314,13 @@
 "url": "https://www.ertsports.gr/super-league/o-olympiakos-apofasise-anavoli-sto-ntermpi-me-tin-aek-oi-pithanes-imerominies-dieksagogis/",
 "title": "Ο Ολυμπιακός αποφάσισε αναβολή στο ντέρμπι με την ΑΕΚ – Οι πιθανές ημερομηνίες διεξαγωγής",
 "published": "2026-11-27T15:51+00:00"
+},
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/super-league/episimi-i-anavoli-tou-ntermpi-olympiakos-aek/",
+"title": "Επίσημη η αναβολή του ντέρμπι Ολυμπιακός – ΑΕΚ",
+"published": "2026-11-27T17:01+00:00"
 }
 ],
 "id": "720bce94b0b8"
@@ -4989,42 +5040,6 @@
 "snippet": "Ο Φραντσέσκο Καμάρντα απουσιάζει από την τελευταία προπόνηση της Μίλαν και δεν θα αγωνιστεί απέναντι στον Ολυμπιακό.",
 "also": [],
 "id": "68ff6b8b8bb2"
-},
-{
-"title": "Το διπλό στο ΟΑΚΑ δεν φτάνει πλέον στον Ολυμπιακό",
-"url": "https://sportime.gr/olimpiakos/to-diplo-sto-oaka-den-ftani-pleon-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T11:02+00:00",
-"sport": "general",
-"snippet": "Η επιστροφή των βαθμών στον Παναθηναϊκό δημιουργεί νέα δεδομένα για τον Ολυμπιακό και τη μάχη του πλεονεκτήματος έδρας στο ελληνικό πρωτάθλημα.",
-"also": [],
-"id": "5fb0aae4fb76"
-},
-{
-"title": "Γιατί συμφέρει τον Ολυμπιακό να κάνει χαμό ο Ντόρσεϊ με την Εθνική",
-"url": "https://sportime.gr/olimpiakos/giati-simferi-ton-olimpiako-na-kani-chamo-o-ntorsei-me-tin-ethniki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T10:52+00:00",
-"sport": "football",
-"snippet": "Οι απουσίες στην Εθνική Ελλάδας αυξάνουν τις ευθύνες του Ντόρσεϊ και μπορούν να επηρεάσουν τη μεταγραφική διαπραγμάτευση του Ολυμπιακού με τον ΠΑΟΚ.",
-"also": [],
-"id": "ca50ef6f914c"
-},
-{
-"title": "Άρης: Ράτσιτς, το διακύβευμα με Ολυμπιακό",
-"url": "https://www.metrosport.gr/aris-ratsits-to-diakyveyma-me-olympiako-1334816",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-25T10:45+00:00",
-"sport": "general",
-"snippet": "Η παρουσία του Ούρος Ράτσιτς στο κυριακάτικο (29/11, 19:00) εντός έδρας ντέρμπι με τον Ολυμπιακό είναι το μεγαλύτερο διακύβευμα όσον αφορά τον ...",
-"also": [],
-"id": "6cfccf96d18b"
 }
 ]
 }
