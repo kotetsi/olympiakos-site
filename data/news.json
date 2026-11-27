@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T20:49:01+00:00",
+"generated_at": "2026-11-27T21:04:07+00:00",
 "count": 400,
 "items": [
+{
+"title": "Σκληρή κριτική στον Εστουπινιάν μετά το Ολυμπιακός – Μίλαν: «Έχει ζωγραφισμένο τον τρόμο στο πρόσωπό του»",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15256449/skliri-kritiki-ston-estoupinian-meta-to-olympiakos-milan-exei-zografismeno-ton-tromo-sto-prosopo-tou/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-27T20:53+00:00",
+"sport": "football",
+"snippet": "Μέσα από τη στήλη του στην Corriere dello Sport, ο έμπειρος Ιταλός δημοσιογράφος Φράνκο Ορντίνε σχολίασε τις ατομικές επιδόσεις των παικτών της Μίλαν μετά τη…",
+"also": [],
+"id": "fb35e03e655d"
+},
+{
+"title": "«Υπερεκτιμημένο» το ΣΕΦ, «όχι κάτι ιδιαίτερο» το «Καραϊσκάκης»",
+"url": "https://www.sdna.gr/podosfairo/1491093_yperektimimeno-sef-ohi-kati-idiaitero-karaiskakis",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T20:48+00:00",
+"sport": "football",
+"snippet": "Μπασκετμπολίστας της Φενέρμπαχτσε και ποδοσφαιριστής της Μίλαν, δυσφημούν τον Ολυμπιακό και την δύναμη της έδρας του.",
+"also": [],
+"id": "404b521e500d"
+},
 {
 "title": "UEFA Rankings: Η θέση της Ελλάδας και η πρωτιά του Ολυμπιακού",
 "url": "https://sportday.gr/podosfairo/366742_uefa-rankings-i-thesi-tis-elladas-kai-i-protia-tou-olympiakou.html",
@@ -99,18 +123,6 @@
 "id": "f071b3e0a713"
 },
 {
-"title": "Παναθηναϊκός: Νέα διπλή καταγγελία εναντίον Ολυμπιακού & Μπαρτζώκα",
-"url": "https://www.eurohoops.net/el/heba-el/2041979/panathinaikos-nea-dipli-katangelia-enantion-olimpiakou-bartzoka/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-27T18:37+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Παναθηναϊκός κατήγγειλε την ΚΑΕ Ολυμπιακός και τον Γιώργο Μπαρτζώκα σε Ευρωλίγκα και ΕΣΑΚΕ. The post Παναθηναϊκός: Νέα διπλή καταγγελία εναντίον…",
-"also": [],
-"id": "7152faf2cfea"
-},
-{
 "title": "Παναθηναϊκός: Καταγγελία στον αθλητικό δικαστή για Ολυμπιακό και Μπαρτζώκα για τις δηλώσεις του!",
 "url": "https://www.gazzetta.gr/basketball/euroleague/2590392/panathinaikos-kataggelia-ston-athlitiko-dikasti-gia-olympiako-kai",
 "source": "gazzetta",
@@ -165,6 +177,18 @@
 "snippet": "Ο Παναγιώτης Ρέτσος έπαιζε τραυματίας με τη Μίλαν. Στο 2-2 δεν διεκδίκησε την κεφαλιά. Γιατί ο πάγκος του Ολυμπιακού δεν τον άλλαξε νωρίτερα",
 "also": [],
 "id": "ba0590877de4"
+},
+{
+"title": "Παναθηναϊκός: Νέα διπλή καταγγελία εναντίον Ολυμπιακού & Μπαρτζώκα",
+"url": "https://www.eurohoops.net/el/euroleague-el-2/2041979/panathinaikos-nea-dipli-katangelia-enantion-olimpiakou-bartzoka/",
+"source": "eurohoops",
+"source_name": "Eurohoops",
+"official": false,
+"published": "2026-11-27T18:19+00:00",
+"sport": "basket",
+"snippet": "Η ΚΑΕ Παναθηναϊκός κατήγγειλε την ΚΑΕ Ολυμπιακός και τον Γιώργο Μπαρτζώκα σε Ευρωλίγκα και ΕΣΑΚΕ. The post Παναθηναϊκός: Νέα διπλή καταγγελία εναντίον…",
+"also": [],
+"id": "549640190598"
 },
 {
 "title": "Ολυμπιακός: «Όχι» από τον Κώστα Τσιμίκα",
@@ -5071,30 +5095,6 @@
 "snippet": "Ο προπονητής του Ολυμπιακού, Ιμανόλ Αλγουαθίλ, και ο ποδοσφαιριστής της ομάδας, Λορέντσο Πιρόλα, μίλησαν στη συνέντευξη Τύπου ενόψει του αγώνα με την AC Milan.",
 "also": [],
 "id": "95dc1f6dd7ef"
-},
-{
-"title": "Ζότα Σίλβα: «Ξαναβρήκα τη χαρά μου στον Ολυμπιακό»",
-"url": "https://www.sdna.gr/podosfairo/1490352_zota-silba-xanabrika-ti-hara-moy-ston-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-25T14:45+00:00",
-"sport": "football",
-"snippet": "Ο Ζότα Σίλβα μίλησε στον Τζιανλούκα Ντι Μάρτζιο για την παρουσία του στον Ολυμπιακό, την αναμέτρηση με τη Μίλαν και τον Ρούμπεν Αμορίμ.",
-"also": [],
-"id": "fda86a669c5c"
-},
-{
-"title": "Αλγουαθίλ: «Ζωής και θανάτου το παιχνίδι με τη Μίλαν»",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/algouathil-zois-kai-thanatou-to-paixnidi-me-ti-milan/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-25T14:43+00:00",
-"sport": "football",
-"snippet": "Τον χαρακτήρα τελικού απέδωσε στην αναμέτρηση με τη Μίλαν ο Ιμανόλ Αλγουαθίλ, ξεκαθαρίζοντας πως ο Ολυμπιακός δεν πρόκειται να συμβιβαστεί με τίποτα λιγότερο…",
-"also": [],
-"id": "5d8d27263fc8"
 }
 ]
 }
