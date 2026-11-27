@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T18:48:01+00:00",
+"generated_at": "2026-11-27T19:03:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Πρώτο βήμα πρόκρισης για τον Ολυμπιακό",
+"url": "https://www.ertsports.gr/omades/olympiakos/proto-vima-prokrisis-gia-ton-olympiako-2/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-27T18:50+00:00",
+"sport": "handball",
+"snippet": "Η ομάδα χάντμπολ του Ολυμπιακού έκανε το πρώτο βήμα για την πρόκρισή της στους «16» του European Cup ανδρών, καθώς νίκησε 50-39 τη Σλόγκα Ντομπόι στο κλειστό…",
+"also": [],
+"id": "c1f3662cd687"
+},
+{
+"title": "Γρηγορίου: «Θα πρέπει να είμαστε αλάνθαστοι, αν θέλουμε να διεκδικήσουμε κάτι από τον Ολυμπιακό»",
+"url": "http://www.sport-fm.gr/article/5163919",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-27T18:46+00:00",
+"sport": "general",
+"snippet": "Ο Μιχάλης Γρηγορίου μίλησε για τη δύσκολη αναμέτρηση του Άρη με τον Ολυμπιακό, τονίζοντας την ανάγκη για μια αψεγάδιαστη εμφάνιση και τη στήριξη του κόσμου.",
+"also": [],
+"id": "ac7c1bf00a13"
+},
 {
 "title": "Παναθηναϊκός: Κατήγγειλε στον Αθλητικό Δικαστή, Ολυμπιακό και Μπαρτζώκα",
 "url": "https://sportday.gr/basket/366768_panathinaikos-katingeile-ston-athlitiko-dikasti-olympiako-kai-mpartzoka.html",
@@ -5055,30 +5079,6 @@
 "snippet": "Αποδεκατισμένη η Μίλαν στην Ελλάδα για το ματς με τον Ολυμπιακό, καθώς μετρά εννέα απουσίες.",
 "also": [],
 "id": "51ec3c97078d"
-},
-{
-"title": "Πιρόλα: «Το ίδιο σημαντικό είναι για τον Ολυμπιακό και τη Μίλαν το ματς, θέλουμε να πάμε στους 13 πόντους»",
-"url": "http://www.sport-fm.gr/article/5163408",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-25T14:11+00:00",
-"sport": "general",
-"snippet": "Οι δηλώσεις του Λορέντσο Πιρόλα ενόψει του αγώνα του Ολυμπιακού με τη Μίλαν.",
-"also": [],
-"id": "b6085411ab27"
-},
-{
-"title": "LIVE! Η συνέντευξη τύπου του Ολυμπιακού πριν τη Μίλαν!",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15251159/live-i-synenteyksi-typou-tou-olympiakou-prin-ti-milan/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-25T14:05+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός φιλοξενεί τη Μίλαν το απόγευμα της Πέμπτης (26/11, 19:45) και τους Πειραιώτες εκπροσωπούν στη συνέντευξη τύπου οι Ιμανόλ Αλγκουαθίλ και Λορέντσο…",
-"also": [],
-"id": "1c5ff739c646"
 }
 ]
 }
