@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T12:44:55+00:00",
+"generated_at": "2026-11-27T13:00:01+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Εκτίει με Ολυμπιακό ο Πετρίς, στην ενδεκάδα ο Φαντιγκά",
+"url": "https://www.gazzetta.gr/football/superleague/2590304/aris-ektiei-me-olympiako-o-petris-stin-endekada-o-fantigka",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-27T12:55+00:00",
+"sport": "football",
+"snippet": "Ο Ζερεμί Πετρίς δηλώθηκε να εκτίσει την ποινή του στο παιχνίδι της Κυριακής (29/11), με τον Νοά Φαντιγκά να προορίζεται για το αρχικό σχήμα του Άρη.",
+"also": [],
+"id": "cfa04b35ca4e"
+},
+{
+"title": "Άρης: Χωρίς Πετρίς με Ολυμπιακό, δύσκολα ο Ράτσιτς",
+"url": "https://sportday.gr/podosfairo/366721_aris-choris-petris-me-olympiako-dyskola-o-ratsits.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T12:53+00:00",
+"sport": "football",
+"snippet": "Ο Άρης δεν θα έχει στην διάθεση του τον Ζερεμί Πετρίς για το δύσκολο ματς με τον Ολυμπιακό, ενώ πολύ δύσκολα θα δώσει το παρών ο Ούρος Ράτσιτς",
+"also": [],
+"id": "839d9fc168e8"
+},
 {
 "title": "ΟΑΚΑ: Οι δυνατότητες του Ολυμπιακού Συγκροτήματος μέσα από μεγάλες διεθνείς διοργανώσεις",
 "url": "https://www.ertsports.gr/alla-spor/oaka-oi-dynatotites-tou-olympiakou-sygkrotimatos-mesa-apo-megales-diethneis-diorganoseis/",
@@ -5002,38 +5026,6 @@
 "snippet": "Ο Κωνσταντής Τζολάκης ζει ξεχωριστεί περίοδο στην Αγγλία, καθώς οι εμφανίσεις του με την Χαλ στην Premier League τον έχουν μετατρέψει σε πρωταγωνιστή....",
 "also": [],
 "id": "e17a77c6884c"
-},
-{
-"title": "Άρης: Αγωνία για Ντέλε-Μπασίρου ενόψει Ολυμπιακού",
-"url": "https://www.gazzetta.gr/football/superleague/2589469/aris-agonia-gia-ntele-mpasiroy-enopsei-olympiakoy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T19:48+00:00",
-"sport": "football",
-"snippet": "Ο Ντέλε-Μπασίρου αποχώρησε τραυματίας από την Τρίπολη και οι πρώτες εκτιμήσεις κάνουν λόγο για κάκωση στη γάμπα, με τις εξετάσεις να δείχνουν το μέγεθος του…",
-"also": [
-{
-"source": "sportime",
-"source_name": "Sportime",
-"url": "https://sportime.gr/podosfairo/aris-agonia-gia-ntele-basirou-enopsi-olimpiakou-ta-provlimata-tou-grigoriou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"title": "Άρης: Αγωνία για Ντέλε-Μπασίρου ενόψει Ολυμπιακού – Τα προβλήματα του Γρηγορίου",
-"published": "2026-11-25T13:26+00:00"
-}
-],
-"id": "7426eb443fc4"
-},
-{
-"title": "O Δουρέκας στέλνει παίκτη στον Ολυμπιακό",
-"url": "https://sportime.gr/olimpiakos/o-dourekas-stelni-pekti-ston-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T19:35+00:00",
-"sport": "general",
-"snippet": "Ο Ολυμπιακός εξετάζει τον Σαΐντ Μπενραχμά για την επίθεση. Ο Αλγερινός εξτρέμ παίζει στη NEOM, όπου βρίσκεται και ο Κυριάκος Δουρέκας.",
-"also": [],
-"id": "28b4ac953535"
 }
 ]
 }
