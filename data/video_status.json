@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-27T04:10:22+00:00",
+ "checked_at": "2026-11-27T04:25:28+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
@@ -11,16 +11,16 @@
   "olympiacos-bc": {
    "name": "Olympiacos BC",
    "channel_id": "UCbv8oofgvLZ1B24N6uJ9q6g",
-   "ok": true,
-   "items": 15,
-   "error": ""
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   "euroleague": {
    "name": "EuroLeague",
    "channel_id": "UCGr3nR_XH9r6E5b09ZJAT9w",
-   "ok": true,
-   "items": 1,
-   "error": ""
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   "superleague": {
    "name": "Super League",
