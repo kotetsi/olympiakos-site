@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T13:30:16+00:00",
+"generated_at": "2026-11-27T13:45:25+00:00",
 "count": 400,
 "items": [
+{
+"title": "Χάτσινσον: «Δεν μας επηρέασε η ατμόσφαιρα στο Καραϊσκάκη»",
+"url": "https://www.gazzetta.gr/football/europa-league/2590313/hatsinson-den-mas-epirease-i-atmosfaira-sto-karaiskaki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-27T13:38+00:00",
+"sport": "football",
+"snippet": "Ο Ομάρι Χάτσινσον εξέφρασε την άποψη ότι η ατμόσφαιρα στο Καραϊσκάκη δεν επηρέασε τη Μίλαν κόντρα στον Ολυμπιακό και αναφέρθηκε στο πώς έφτασε η ομάδα του στην…",
+"also": [],
+"id": "ba74ee30ac9a"
+},
+{
+"title": "Συλλυπητήρια ανακοίνωση του Ολυμπιακού για τον Αντώνη Πανούτσο",
+"url": "https://www.sdna.gr/mpasket/1490979_syllypitiria-anakoinosi-toy-olympiakoy-gia-ton-antoni-panoytso",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T13:37+00:00",
+"sport": "basket",
+"snippet": "Η ΚΑΕ Ολυμπιακός εξέδωσε συλλυπητήρια ανακοίνωση για την απώλεια του δημοσιογράφου Αντώνη Πανούτσου.",
+"also": [],
+"id": "037c4a25d885"
+},
 {
 "title": "Άρης: Χωρίς Πετρίς με Ολυμπιακό, η ευκαιρία του Φαντιγκά",
 "url": "https://www.metrosport.gr/aris-choris-petris-sto-ntermpi-i-eykairia-toy-fantigka-1335069",
@@ -5010,30 +5034,6 @@
 "snippet": "Το πρόγραμμα του Παναθηναϊκού μετά τη Βαλένθια σε Euroleague και GBL, οι επόμενοι αντίπαλοι και η ημερομηνία του μεγάλου ντέρμπι με τον Ολυμπιακό.",
 "also": [],
 "id": "8f2578fdc71e"
-},
-{
-"title": "Ολυμπιακός: Όλα όσα είπε ο Αλγκουαθίλ στον Ζότα Σίλβα για το πέναλτι με τον Ηρακλή",
-"url": "https://sportday.gr/podosfairo/366388_olympiakos-ola-osa-eipe-o-algkouathil-ston-zota-silva-gia-to-penalti-me-ton-irakli.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T20:56+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ εξήγησε στον Ζότα Σίλβα το σκεπτικό πίσω από την επανεκτέλεση του πέναλτι από τον Λίον Μπέιλι στο Ολυμπιακός - Ηρακλής.",
-"also": [],
-"id": "519787576956"
-},
-{
-"title": "Ολυμπιακός: Ο ΠΑΟΚ αποφάσισε για Μπριν Ταϊρί",
-"url": "https://sportime.gr/paok-bc/olimpiakos-o-paok-apofasise-gia-brin-tairi?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T20:55+00:00",
-"sport": "general",
-"snippet": "Ο ΠΑΟΚ δεν σκοπεύει να παραχωρήσει τον Μπριν Ταϊρί, παρά τα σενάρια ανταλλαγής με τον Τάιλερ Ντόρσεϊ του Ολυμπιακού. Τι ισχύει για τον γκαρντ.",
-"also": [],
-"id": "c4a546bba1fd"
 }
 ]
 }
