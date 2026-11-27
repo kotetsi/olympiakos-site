@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T12:14:39+00:00",
+"generated_at": "2026-11-27T12:29:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΟΑΚΑ: Οι δυνατότητες του Ολυμπιακού Συγκροτήματος μέσα από μεγάλες διεθνείς διοργανώσεις",
+"url": "https://www.ertsports.gr/alla-spor/oaka-oi-dynatotites-tou-olympiakou-sygkrotimatos-mesa-apo-megales-diethneis-diorganoseis/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-27T12:24+00:00",
+"sport": "general",
+"snippet": "Οι δυνατότητες του ΟΑΚΑ να φιλοξενεί μεγάλες διοργανώσεις διεθνούς εμβέλειας, πέρα από την αμιγώς αθλητική δραστηριότητα, αναδεικνύουν τον πολυδιάστατο ρόλο…",
+"also": [],
+"id": "b4c3c9fed9f4"
+},
 {
 "title": "Ολυμπιακός: Ραγδαίες εξελίξεις με Πιρόλα",
 "url": "https://www.sdna.gr/monimes-stiles/paraskinia/1491005_olympiakos-ragdaies-exelixeis-me-pirola",
@@ -25,6 +37,18 @@
 "snippet": "Η ανακοίνωση των Πειραιωτών αναφέρει: «Η ΚΑΕ Ολυμπιακός εκφράζει τη βαθιά της θλίψη για την απώλεια του Αντώνη Πανούτσου, ο οποίος έφυγε από τη ζωή σε ηλικία…",
 "also": [],
 "id": "97a025ce6ac1"
+},
+{
+"title": "Ολυμπιακός: «Ξεχωριστό ύφος ο Πανούτσος»",
+"url": "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15255421/olympiakos-ksexoristo-yfos-o-panoutsos/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-27T11:51+00:00",
+"sport": "basket",
+"snippet": "Η ανακοίνωση των Πειραιωτών αναφέρει: «Η ΚΑΕ Ολυμπιακός εκφράζει τη βαθιά της θλίψη για την απώλεια του Αντώνη Πανούτσου, ο οποίος έφυγε από τη ζωή σε ηλικία…",
+"also": [],
+"id": "148468ef460b"
 },
 {
 "title": "Ολυμπιακός: Το «έγκλημα» του Ζέλσον και οι δύο αριστεροί μπακ που μαζί δεν κάνουν έναν…",
@@ -5010,30 +5034,6 @@
 "snippet": "Ο Ολυμπιακός εξετάζει τον Σαΐντ Μπενραχμά για την επίθεση. Ο Αλγερινός εξτρέμ παίζει στη NEOM, όπου βρίσκεται και ο Κυριάκος Δουρέκας.",
 "also": [],
 "id": "28b4ac953535"
-},
-{
-"title": "Ολυμπιακός: Έξι αλλαγές ετοιμάζει ο Αμορίμ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-exi-allages-etimazi-o-amorim?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T19:17+00:00",
-"sport": "football",
-"snippet": "Ο Ρούμπεν Αμορίμ ετοιμάζει έξι αλλαγές στην ενδεκάδα της Μίλαν απέναντι στον Ολυμπιακό. Δείτε τους έντεκα που αναμένεται να ξεκινήσουν στο Europa League.",
-"also": [],
-"id": "3714a603607f"
-},
-{
-"title": "Ολυμπιακός: Ο Βαγγέλης Μαρινάκης πάει για υπέρβαση με Αντρέ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-o-vangelis-marinakis-pai-gia-ipervasi-me-antre?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T18:51+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός εξετάζει την απόκτηση του Αντρέ της Κορίνθιανς. Η αξία των 16 εκατ. ευρώ και ο ρόλος του Βαγγέλη Μαρινάκη στη μεταγραφή.",
-"also": [],
-"id": "8fdff31f0cfe"
 }
 ]
 }
