@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T13:15:09+00:00",
+"generated_at": "2026-11-27T13:30:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Άρης: Χωρίς Πετρίς με Ολυμπιακό, η ευκαιρία του Φαντιγκά",
+"url": "https://www.metrosport.gr/aris-choris-petris-sto-ntermpi-i-eykairia-toy-fantigka-1335069",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-27T13:05+00:00",
+"sport": "general",
+"snippet": "Μία ακόμη σημαντική απουσία καλείται να διαχειριστεί ο Μιχάλης Γρηγορίου ενόψει του κυριακάτικου ντέρμπι του Άρη με αντίπαλο τον Ολυμπιακό, καθώς ο ...",
+"also": [],
+"id": "5ba05599329d"
+},
 {
 "title": "Άρης: Εκτίει με Ολυμπιακό ο Πετρίς, στην ενδεκάδα ο Φαντιγκά",
 "url": "https://www.gazzetta.gr/football/superleague/2590304/aris-ektiei-me-olympiako-o-petris-stin-endekada-o-fantigka",
@@ -11,7 +23,15 @@
 "published": "2026-11-27T12:55+00:00",
 "sport": "football",
 "snippet": "Ο Ζερεμί Πετρίς δηλώθηκε να εκτίσει την ποινή του στο παιχνίδι της Κυριακής (29/11), με τον Νοά Φαντιγκά να προορίζεται για το αρχικό σχήμα του Άρη.",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1491027_aris-ektiei-me-olympiako-o-petris",
+"title": "Άρης: Εκτίει με Ολυμπιακό ο Πετρίς",
+"published": "2026-11-27T13:23+00:00"
+}
+],
 "id": "cfa04b35ca4e"
 },
 {
@@ -5014,18 +5034,6 @@
 "snippet": "Ο ΠΑΟΚ δεν σκοπεύει να παραχωρήσει τον Μπριν Ταϊρί, παρά τα σενάρια ανταλλαγής με τον Τάιλερ Ντόρσεϊ του Ολυμπιακού. Τι ισχύει για τον γκαρντ.",
 "also": [],
 "id": "c4a546bba1fd"
-},
-{
-"title": "Τζολάκης: Η εκτόξευση στην Premier League και το οικονομικό όφελος για τον Ολυμπιακό",
-"url": "https://www.metrosport.gr/tzolakis-i-ektoxeysi-stin-premier-league-kai-to-oikonomiko-ofelos-gia-ton-olympiako-1334679",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-24T20:35+00:00",
-"sport": "general",
-"snippet": "Ο Κωνσταντής Τζολάκης ζει ξεχωριστεί περίοδο στην Αγγλία, καθώς οι εμφανίσεις του με την Χαλ στην Premier League τον έχουν μετατρέψει σε πρωταγωνιστή....",
-"also": [],
-"id": "e17a77c6884c"
 }
 ]
 }
