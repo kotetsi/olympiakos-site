@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T20:03:41+00:00",
+"generated_at": "2026-11-27T20:18:47+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ενζόγια: «Είναι πάντα πρόκληση να δουλεύεις σε μια ομάδα με το όνομα του Ολυμπιακού»",
+"url": "https://www.sdna.gr/mpasket/1491039_enzogia-einai-panta-proklisi-na-doyleyeis-se-mia-omada-me-onoma-toy-olympiakoy",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T20:10+00:00",
+"sport": "basket",
+"snippet": "Ο Ολυμπιακός επιβλήθηκε με 100-67 της πολωνικής Σλέζα Βρότσλαβ, στο πλαίσιο της 5ης αγωνιστικής της φάσης των ομίλων του EuroCup Γυναικών, και ο...",
+"also": [],
+"id": "dc8011f8c11a"
+},
 {
 "title": "Ολυμπιακός: «Συναγερμός» για Ρέτσο-Αμφίβολη η συμμετοχή του με τον Άρη",
 "url": "https://www.metrosport.gr/olympiakos-synagermos-gia-retso-amfivoli-i-symmetochi-toy-me-ton-ari-1335105",
@@ -5083,18 +5095,6 @@
 "snippet": "Ο Ιμανόλ Αλγουαθίλ μίλησε για τις σημαντικές απουσίες του Ολυμπιακού, το αγωνιστικό πλάνο απέναντι στη Μίλαν και την υποχρέωση της ομάδας του να...",
 "also": [],
 "id": "8ad313356aeb"
-},
-{
-"title": "Ολυμπιακός: Τι απάντησε ο Αλγκουαθίλ για τον παρτενέρ του Φρόιλερ και η ατάκα για τον κόσμο",
-"url": "https://www.gazzetta.gr/football/europa-league/2589671/olympiakos-ti-apantise-o-algkoyathil-gia-ton-partener-toy-froiler",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T14:30+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγκουαθίλ στις δηλώσεις του στη συνέντευξη Τύπου σχολίασε το ματς του Ολυμπιακού με τη Μίλαν και ρωτήθηκε ξανά για τις απουσίες των Πειραιωτών και…",
-"also": [],
-"id": "aafea7dd45eb"
 }
 ]
 }
