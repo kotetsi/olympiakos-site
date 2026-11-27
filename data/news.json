@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T16:01:36+00:00",
+"generated_at": "2026-11-27T16:16:43+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Γιώργος Σίμος αναλύει: Τι θα δούμε στα ντέρμπι ΑΕΚ-ΠΑΟΚ και Άρης-Ολυμπιακός",
+"url": "https://www.metrosport.gr/o-giorgos-simos-analyei-ti-tha-doyme-sta-ntermpi-aek-paok-kai-aris-olympiakos-1335068",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-27T16:05+00:00",
+"sport": "general",
+"snippet": "Τις σκέψεις του για τη 12η αγωνιστική και τα ντέρμπι που έχει με τον Άρη να υποδέχεται τον Ολυμπιακό και την ΑΕΚ να φιλοξενεί τον ΠΑΟΚ κατέθεσε στο ...",
+"also": [],
+"id": "e69b02eb8e0f"
+},
+{
+"title": "Ολυμπιακός: Προχωράει η αποκατάσταση του Μοντέρο!",
+"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15255929/olympiakos-proxoraei-i-apokatastasi-tou-montero/",
+"source": "novasports",
+"source_name": "Novasports",
+"official": false,
+"published": "2026-11-27T16:02+00:00",
+"sport": "basket",
+"snippet": "Ο Γιαν Μοντέρο συνεχίζει τη διαδικασία αποθεραπείας του έπειτα από την εγχείρηση στην οποία υποβλήθηκε για να ξεπεράσει το πρόβλημα στον μηνίσκο, με στόχο να…",
+"also": [],
+"id": "79bc5d048e83"
+},
 {
 "title": "Τα εισιτήρια του αγώνα Celje – Ολυμπιακός",
 "url": "https://www.olympiacos.org/2026/11/27/ta-eisitiria-tou-agona-celje-olympiakos/",
@@ -5001,38 +5025,6 @@
 "snippet": "Ο Ολυμπιακός έχει παρουσία στο Μουντιάλ U17 που διεξάγεται στη Ντόχα του Κατάρ, όπου τα πηγαίνει εξαιρετικά η Εθνική Παίδων",
 "also": [],
 "id": "c0884d391038"
-},
-{
-"title": "Stoiximan Super League: Ποιοι σφυρίζουν τα ντέρμπι ΑΕΚ – ΠΑΟΚ και Άρης – Ολυμπιακός",
-"url": "https://www.metrosport.gr/stoiximan-super-league-poioi-sfyrizoyn-ta-ntermpi-aek-paok-kai-aris-olympiakos-1334806",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-25T08:10+00:00",
-"sport": "football",
-"snippet": "Έγιναν γνωστοί από την ΚΕΔ οι διαιτητές της 12ης αγωνιστικής στην Stoiximan Super League, από την οποία ξεχωρίζουν τα δύο ντέρμπι ΑΕΚ – ΠΑΟΚ και Άρης ...",
-"also": [
-{
-"source": "sportday",
-"source_name": "Sportday",
-"url": "https://sportday.gr/podosfairo/366460_super-league-poioi-sfyrizoun-ta-ntermpi-aek-paok-kai-aris-olympiakos.html",
-"title": "Super League: Ποιοι σφυρίζουν τα ντέρμπι ΑΕΚ – ΠΑΟΚ και Αρης – Ολυμπιακός",
-"published": "2026-11-25T08:44+00:00"
-}
-],
-"id": "63eb8c0ab528"
-},
-{
-"title": "Επόμενο εμπόδιο ο Πανιώνιος για τον Ολυμπιακό",
-"url": "https://www.sdna.gr/polo/1490233_epomeno-empodio-o-panionios-gia-ton-olympiako",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-25T08:07+00:00",
-"sport": "polo",
-"snippet": "Συνέχεια στο εντυπωσιακό νικηφόρο σερί του θέλει να δώσει ο Ολυμπιακός, ο οποίος δοκιμάζεται απόψε (25/11, 20:30, KOE TV) στην έδρα του Πανιωνίου,...",
-"also": [],
-"id": "94b8828dbe32"
 }
 ]
 }
