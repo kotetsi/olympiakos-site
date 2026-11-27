@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T14:30:52+00:00",
+"generated_at": "2026-11-27T14:46:00+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Μια φωτογραφία από το Μεξικό αποκάλυψε τον τραυματισμό του Σαντοβάλ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-mia-fotografia-apo-to-mexiko-apokalipse-ton-travmatismo-tou-santoval?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T14:31+00:00",
+"sport": "football",
+"snippet": "Ο Σαντιάγο Σαντοβάλ, που βρίσκεται στο μεταγραφικό προσκήνιο του Ολυμπιακού, τραυματίστηκε απέναντι στην Πατσούκα, σύμφωνα με το πρακτορείο IMAGO7.",
+"also": [],
+"id": "8342c19c105a"
+},
+{
+"title": "Βεζένκοφ: «Σίγουρα ανησυχούν στον Ολυμπιακό, αλλά τους ξεκαθάρισα ότι ήθελα να παίξω με τη Βουλγαρία»",
+"url": "http://www.sport-fm.gr/article/5163871",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-27T14:21+00:00",
+"sport": "general",
+"snippet": "Ο Σάσα Βεζένκοφ μίλησε για την απόφασή του να αγωνιστεί με την εθνική Βουλγαρίας, παρά την επιβάρυνση από τα συνεχόμενα παιχνίδια, αποκαλύπτοντας πως είχε…",
+"also": [],
+"id": "9d0eef712d30"
+},
 {
 "title": "Ολυμπιακός: Οι Βούλγαροι θέλουν να αναστήσουν το μπάσκετ τους με τον Βεζένκοφ",
 "url": "https://sportime.gr/olimpiakos/olimpiakos-i-voulgari-theloun-na-anastisoun-to-basket-tous-me-ton-vezenkof?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
@@ -5009,38 +5033,6 @@
 "snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
 "also": [],
 "id": "efd3c0b586f0"
-},
-{
-"title": "Ο Μίγια έδειξε στον Ολυμπιακό τι του λείπει ακόμη και με τον Φρόιλερ",
-"url": "https://sportime.gr/olimpiakos/o-migia-edixe-ston-olimpiako-ti-tou-lipi-akomi-ke-me-ton-froiler?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T05:10+00:00",
-"sport": "general",
-"snippet": "Ο Λουίς Μίγια έκρινε το παιχνίδι της Κόμο με την ΑΕΚ και τα αγωνιστικά του χαρακτηριστικά εξηγούν τι θα μπορούσε να προσφέρει στον Ολυμπιακό.",
-"also": [],
-"id": "9ac80f7ec44e"
-},
-{
-"title": "Μίλαν: Νοκ άουτ με τον Ολυμπιακό ο Μόντριτς",
-"url": "https://www.metrosport.gr/milan-nok-aoyt-me-ton-olympiako-o-montrits-1334766",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-24T22:50+00:00",
-"sport": "football",
-"snippet": "Δίχως ένα εκ των μεγαλύτερων αστεριών της θα ταξιδέψει στην Αθήνα για τον αγώνα με τον Ολυμπιακό για τη League Phase του Europa League η Μίλαν. ...",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15250958/milan-nok-aout-o-kamarnta-me-olympiako/",
-"title": "Μίλαν: Νοκ άουτ ο Καμάρντα με Ολυμπιακό!",
-"published": "2026-11-25T11:18+00:00"
-}
-],
-"id": "b687b0281f5a"
 }
 ]
 }
