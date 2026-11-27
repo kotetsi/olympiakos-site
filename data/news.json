@@ -1,9 +1,21 @@
 {
-"generated_at": "2026-11-27T17:32:22+00:00",
+"generated_at": "2026-11-27T17:47:30+00:00",
 "count": 400,
 "items": [
 {
-"title": "Ολυμπιακός - ΑΕΚ: Με ποιά προϋπόθεση μπορεί να παιχθεί το ντέρμπι στις αρχές Γενάρη",
+"title": "Πότε κυκλοφορούν τα εισιτήρια για το Τσέλιε-Ολυμπιακός",
+"url": "http://www.sport-fm.gr/article/5163909",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-27T17:37+00:00",
+"sport": "general",
+"snippet": "Την ερχόμενη Δευτέρα θα τεθούν στη διάθεση του κόσμου του Ολυμπιακού τα εισιτήρια του εκτός έδρας αγώνα με την Τσέλιε.",
+"also": [],
+"id": "50750b3b4e93"
+},
+{
+"title": "Ολυμπιακός - ΑΕΚ: Με ποια προϋπόθεση μπορεί να παιχθεί το ντέρμπι στις αρχές Γενάρη",
 "url": "https://www.gazzetta.gr/football/superleague/2590382/olympiakos-aek-me-poia-proypothesi-mporei-na-paihthei-ntermpi-stis",
 "source": "gazzetta",
 "source_name": "Gazzetta",
@@ -35,7 +47,15 @@
 "published": "2026-11-27T17:13+00:00",
 "sport": "football",
 "snippet": "Το πρόγραμμα της Παρασκευής περιλάμβανε ασκήσεις νευρομυϊκής ενεργοποίησης, τακτική και στατικές φάσεις σε άμυνα και επίθεση.",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5163910",
+"title": "Άρης: Κανονικά ο Μάνου Γκαρθία ενόψει Ολυμπιακού",
+"published": "2026-11-27T17:41+00:00"
+}
+],
 "id": "aab91253201e"
 },
 {
@@ -5036,18 +5056,6 @@
 "snippet": "Η περίπτωση του Λουίς Μίγια και η επιθυμία του Μεντιλίμπαρ αναδεικνύουν το πρόβλημα της μεταγραφικής πολιτικής του Ολυμπιακού και της μεταπωλητικής αξίας.",
 "also": [],
 "id": "bd49f8a2b91c"
-},
-{
-"title": "Πλήγμα με Καμάρντα στη Μίλαν, ευχάριστα νέα με Τομόρι",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/pligma-me-kamarnta-sti-milan-eyxarista-nea-me-tomori/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-25T11:50+00:00",
-"sport": "football",
-"snippet": "Με μία επιπλέον απουσία ολοκλήρωσε την προετοιμασία της η Μίλαν ενόψει της αναμέτρησης με τον Ολυμπιακό στο «Γ. Καραϊσκάκης» (26/11, 19:45), καθώς ο Φραντσέσκο…",
-"also": [],
-"id": "cfb94b22c650"
 }
 ]
 }
