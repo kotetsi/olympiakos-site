@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T14:00:34+00:00",
+"generated_at": "2026-11-27T14:15:46+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Οι Βούλγαροι θέλουν να αναστήσουν το μπάσκετ τους με τον Βεζένκοφ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-i-voulgari-theloun-na-anastisoun-to-basket-tous-me-ton-vezenkof?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T14:07+00:00",
+"sport": "basket",
+"snippet": "Ο πρόεδρος της βουλγαρικής ομοσπονδίας αποκάλυψε το σχέδιό του για τον Σάσα Βεζένκοφ και την αναγέννηση του μπάσκετ της χώρας του.",
+"also": [],
+"id": "c231a75004fd"
+},
+{
+"title": "Βεζένκοφ: «Στον Ολυμπιακό ανησυχούσαν, αλλά τους είπα ότι θέλω να παίξω»",
+"url": "https://www.sdna.gr/mpasket/1490987_bezenkof-ston-olympiako-anisyhoysan-alla-toys-eipa-oti-thelo-na-paixo",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T14:05+00:00",
+"sport": "basket",
+"snippet": "Ο Σάσα Βεζένκοφ αναφέρθηκε στο απαιτητικό πρόγραμμα των τελευταίων ημερών και αποκάλυψε τις ανησυχίες των ανθρώπων του Ολυμπιακού για την κόπωσή του.",
+"also": [],
+"id": "9e42f464bb92"
+},
 {
 "title": "Χάτσινσον: «Δεν μας επηρέασε η ατμόσφαιρα στο Καραϊσκάκη»",
 "url": "https://www.gazzetta.gr/football/europa-league/2590313/hatsinson-den-mas-epirease-i-atmosfaira-sto-karaiskaki",
@@ -54,6 +78,13 @@
 "url": "https://www.sdna.gr/podosfairo/1491027_aris-ektiei-me-olympiako-o-petris",
 "title": "Άρης: Εκτίει με Ολυμπιακό ο Πετρίς",
 "published": "2026-11-27T13:23+00:00"
+},
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5163864",
+"title": "Άρης: Εκτίει με Ολυμπιακό ο Πετρίς",
+"published": "2026-11-27T13:47+00:00"
 }
 ],
 "id": "cfa04b35ca4e"
@@ -5010,30 +5041,6 @@
 }
 ],
 "id": "b687b0281f5a"
-},
-{
-"title": "Ολυμπιακός: Ο Τάιλερ Ντόρσεϊ πέτυχε τον σκοπό του;",
-"url": "https://sportime.gr/paok-bc/olimpiakos-o-tailer-ntorsei-petiche-ton-skopo-tou?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T21:11+00:00",
-"sport": "general",
-"snippet": "Ο Τάιλερ Ντόρσεϊ απέχει 41 ημέρες από τους αγώνες του Ολυμπιακού. Τα μηνύματα, η ρήξη και το σενάριο μετακίνησης στον ΠΑΟΚ προκαλούν ερωτήματα.",
-"also": [],
-"id": "b2c7c2f53a9a"
-},
-{
-"title": "Παναθηναϊκός: Τα επόμενα παιχνίδια μετά τη Βαλένθια σε Ελλάδα και Ευρώπη – Πότε παίζει με Ολυμπιακό",
-"url": "https://sportime.gr/basket/panathinaikos-ta-epomena-pechnidia-meta-ti-valenthia-se-ellada-ke-evropi-pote-pezi-me-olimpiako?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-24T21:06+00:00",
-"sport": "basket",
-"snippet": "Το πρόγραμμα του Παναθηναϊκού μετά τη Βαλένθια σε Euroleague και GBL, οι επόμενοι αντίπαλοι και η ημερομηνία του μεγάλου ντέρμπι με τον Ολυμπιακό.",
-"also": [],
-"id": "8f2578fdc71e"
 }
 ]
 }
