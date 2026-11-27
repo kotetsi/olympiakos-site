@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T17:47:30+00:00",
+"generated_at": "2026-11-27T18:02:44+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Παναθηναϊκός στέλνει στον αθλητικό δικαστή του ΕΣΑΚΕ τον Ολυμπιακό για «στοχοποίηση δικαστών» και τον Μπαρτζώκα για τις δηλώσεις του!",
+"url": "https://www.sdna.gr/mpasket/1491079_o-panathinaikos-stelnei-ston-athlitiko-dikasti-toy-esake-ton-olympiako-gia",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T17:45+00:00",
+"sport": "basket",
+"snippet": "«Στο σκαμνί» σε όλα τα όργανα του μπάσκετ στέλνει τον Ολυμπιακό η ΚΑΕ Παναθηναϊκός. Την Παρασκευή (27/11) το «τριφύλλι» κατέθεσε καταγγελία ζητώντας...",
+"also": [],
+"id": "5cb91eab8bcf"
+},
 {
 "title": "Πότε κυκλοφορούν τα εισιτήρια για το Τσέλιε-Ολυμπιακός",
 "url": "http://www.sport-fm.gr/article/5163909",
@@ -11,7 +23,15 @@
 "published": "2026-11-27T17:37+00:00",
 "sport": "general",
 "snippet": "Την ερχόμενη Δευτέρα θα τεθούν στη διάθεση του κόσμου του Ολυμπιακού τα εισιτήρια του εκτός έδρας αγώνα με την Τσέλιε.",
-"also": [],
+"also": [
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15256220/olympiakos-kykloforoun-ti-deytera-30-11-ta-eisitiria-me-tselie/",
+"title": "Ολυμπιακός: Κυκλοφορούν τη Δευτέρα (30/11) τα εισιτήρια με Τσέλιε!",
+"published": "2026-11-27T17:57+00:00"
+}
+],
 "id": "50750b3b4e93"
 },
 {
@@ -5044,18 +5064,6 @@
 "snippet": "Ο Μπάμπης Κωστούλας μίλησε σε συνέντευξη για την πορεία του στην Μπράιτον και αποκάλυψε τι τον δυσκόλεψε περισσότερο όταν έφυγε από τον Ολυμπιακό.",
 "also": [],
 "id": "97cca89a8336"
-},
-{
-"title": "Ολυμπιακός: Το «έγκλημα» με τον Μίγια, ο Μεντιλίμπαρ και το μάθημα για τη μεταγραφική πολιτική!",
-"url": "https://sportime.gr/podosfairo/olimpiakos-to-egklima-me-ton-migia-o-mentilimpar-ke-to-mathima-gia-ti-metagrafiki-politiki?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T12:30+00:00",
-"sport": "football",
-"snippet": "Η περίπτωση του Λουίς Μίγια και η επιθυμία του Μεντιλίμπαρ αναδεικνύουν το πρόβλημα της μεταγραφικής πολιτικής του Ολυμπιακού και της μεταπωλητικής αξίας.",
-"also": [],
-"id": "bd49f8a2b91c"
 }
 ]
 }
