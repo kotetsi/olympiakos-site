@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T19:33:22+00:00",
+"generated_at": "2026-11-27T19:48:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: «Συναγερμός» για Ρέτσο-Αμφίβολη η συμμετοχή του με τον Άρη",
+"url": "https://www.metrosport.gr/olympiakos-synagermos-gia-retso-amfivoli-i-symmetochi-toy-me-ton-ari-1335105",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-27T19:45+00:00",
+"sport": "football",
+"snippet": "Νέα προβλήματα έφερε στον Ολυμπιακό η τελευταία αγωνιστική υποχρέωση, αυτή με τη Μίλαν για τη League Phase του Europa League, σε μία περίοδο ιδιαίτερα...",
+"also": [],
+"id": "d4e264b94294"
+},
+{
+"title": "Τσανάκας: «Αλλαγμένος για το απαραίτητο τρίποντο στη Θεσσαλονίκη ο Ολυμπιακός»",
+"url": "http://www.sport-fm.gr/article/5163916",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-27T19:23+00:00",
+"sport": "general",
+"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Γιώργο Τσανάκα.",
+"also": [],
+"id": "98c5ed9e25e8"
+},
 {
 "title": "Πρώτο βήμα πρόκρισης για τον Ολυμπιακό",
 "url": "https://www.ertsports.gr/omades/olympiakos/proto-vima-prokrisis-gia-ton-olympiako-2/",
@@ -76,7 +100,7 @@
 "source": "sport-fm",
 "source_name": "Sport FM",
 "url": "http://www.sport-fm.gr/article/5163920",
-"title": "Καταγγελίες του Παναθηναϊκού στον Αθλητικό Δικαστή για Ολυμπιακό και Μπαρτζώκα",
+"title": "Νέες καταγγελίες του Παναθηναϊκού στον Αθλητικό Δικαστή για Ολυμπιακό και Μπαρτζώκα",
 "published": "2026-11-27T18:49+00:00"
 }
 ],
@@ -5071,30 +5095,6 @@
 "snippet": "Ο Ιμανόλ Αλγκουαθίλ στις δηλώσεις του στη συνέντευξη Τύπου σχολίασε το ματς του Ολυμπιακού με τη Μίλαν και ρωτήθηκε ξανά για τις απουσίες των Πειραιωτών και…",
 "also": [],
 "id": "aafea7dd45eb"
-},
-{
-"title": "Πιρόλα: «Η Μίλαν είναι μια πολύ επικίνδυνη ομάδα, θα κάνουμε τα πάντα για να νικήσουμε»",
-"url": "https://www.ertsports.gr/podosfairo/europa-league/pirola-i-milan-einai-mia-poly-epikindyni-omada-tha-kanoume-ta-panta-gia-na-nikisoume/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-25T14:28+00:00",
-"sport": "football",
-"snippet": "Ο Λορέντζο Πιρόλα έδωσε το σύνθημα ενόψει της ευρωπαϊκής αναμέτρησης του Ολυμπιακού με τη Μίλαν (26/11, 19:45, ΕΡΑ ΣΠΟΡ), τονίζοντας πως οι «ερυθρόλευκοι»…",
-"also": [],
-"id": "38375e76fd10"
-},
-{
-"title": "Μίλαν: Με εννέα απουσίες κόντρα στον Ολυμπιακό",
-"url": "https://www.gazzetta.gr/football/europa-league/2589664/milan-me-ennea-apoysies-kontra-ston-olympiako",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T14:18+00:00",
-"sport": "football",
-"snippet": "Αποδεκατισμένη η Μίλαν στην Ελλάδα για το ματς με τον Ολυμπιακό, καθώς μετρά εννέα απουσίες.",
-"also": [],
-"id": "51ec3c97078d"
 }
 ]
 }
