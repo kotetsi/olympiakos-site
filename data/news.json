@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T17:17:14+00:00",
+"generated_at": "2026-11-27T17:32:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός - ΑΕΚ: Με ποιά προϋπόθεση μπορεί να παιχθεί το ντέρμπι στις αρχές Γενάρη",
+"url": "https://www.gazzetta.gr/football/superleague/2590382/olympiakos-aek-me-poia-proypothesi-mporei-na-paihthei-ntermpi-stis",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-27T17:28+00:00",
+"sport": "football",
+"snippet": "Το επερχόμενο Ολυμπιακός - Παναθηναϊκός στο Κύπελλο μπορεί να επαναπροσδιορίσει χρονικά τον αναβληθέντα αγώνα των Πειραιωτών με την ΑΕΚ.",
+"also": [],
+"id": "b0cccfa0026d"
+},
+{
+"title": "Έρχεται άμεσα… Ιμπόρα στον Ολυμπιακό",
+"url": "https://www.sdna.gr/monimes-stiles/paraskinia/1491091_erhetai-amesa-impora-ston-olympiako",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T17:20+00:00",
+"sport": "general",
+"snippet": "Στο Λιμάνι γίνεται ήδη προσπάθεια για παίκτη που θα μπορεί να δώσει βοήθεια άμεσα, με το που θα μπει δηλαδή ο Ιανουάριος.",
+"also": [],
+"id": "1f9fc79458f3"
+},
 {
 "title": "Άρης: Σε φουλ πρόγραμμα ο Μανού Γκαρθία ενόψει Ολυμπιακού",
 "url": "https://www.sdna.gr/podosfairo/1491095_aris-se-foyl-programma-o-manoy-gkarthia-enopsei-olympiakoy",
@@ -22,7 +46,7 @@
 "official": false,
 "published": "2026-11-27T17:11+00:00",
 "sport": "football",
-"snippet": "Περισσότερα σε λίγο…",
+"snippet": "Πολλά προβλήματα στο στρατόπεδο του Ολυμπιακού, καθώς στο ιατρικό δελτίο του Ιμανόλ Αλγκουαθίλ προστέθηκε το όνομα του Παναγιώτη Ρέτσου. Ο Έλληνας κεντρικός…",
 "also": [],
 "id": "a33eee5780d4"
 },
@@ -107,7 +131,15 @@
 "published": "2026-11-27T16:42+00:00",
 "sport": "football",
 "snippet": "Νέο αγωνιστικό πρόβλημα για τον Ολυμπιακό με τον Ρέτσο, που χτύπησε 2 φορές στον αγώνα με τη Μίλαν, να έχει ενοχλήσεις και να είναι αβέβαιο ότι θα παίξει με…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366756_olympiakos-provlima-me-retso-amfivolos-me-ari.html",
+"title": "Ολυμπιακός: Πρόβλημα με Ρέτσο – Αμφίβολος με Άρη",
+"published": "2026-11-27T17:17+00:00"
+}
+],
 "id": "1d578c6c1907"
 },
 {
@@ -5016,30 +5048,6 @@
 "snippet": "Με μία επιπλέον απουσία ολοκλήρωσε την προετοιμασία της η Μίλαν ενόψει της αναμέτρησης με τον Ολυμπιακό στο «Γ. Καραϊσκάκης» (26/11, 19:45), καθώς ο Φραντσέσκο…",
 "also": [],
 "id": "cfb94b22c650"
-},
-{
-"title": "Ολυμπιακός: Ετοιμάζει κορεό η Θύρα 7 στο ματς με τη Μίλαν",
-"url": "https://www.sdna.gr/podosfairo/1490292_olympiakos-etoimazei-koreo-i-thyra-7-sto-mats-me-ti-milan",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-25T11:47+00:00",
-"sport": "football",
-"snippet": "Ένα κορεό ετοιμάζει η Θύρα 7 την Πέμπτη, πριν τη σέντρα του αγώνα του Ολυμπιακού κόντρα στη Μίλαν.",
-"also": [],
-"id": "2905e8d8006b"
-},
-{
-"title": "Ο Ολυμπιακός μπορεί να κερδίσει χρήματα από τον Μυστακίδη χωρίς να του δώσει τον Ντόρσεϊ",
-"url": "https://sportime.gr/olimpiakos/o-olimpiakos-bori-na-kerdisi-chrimata-apo-ton-mistakidi-choris-na-tou-dosi-ton-ntorsei?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T11:39+00:00",
-"sport": "basket",
-"snippet": "Η επικείμενη ψηφοφορία για τον ΠΑΟΚ στη EuroLeague και το οικονομικό όφελος που μπορεί να έχει ο Ολυμπιακός ανεξάρτητα από τη μεταγραφή Ντόρσεϊ.",
-"also": [],
-"id": "1ac173b37cc3"
 }
 ]
 }
