@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-27T19:48:36+00:00",
+ "checked_at": "2026-11-27T20:03:41+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-27T19:40"
+     "newest": "2026-11-27T19:55"
     }
    ]
   },
@@ -42,7 +42,7 @@
     {
      "feed": "https://www.gazzetta.gr/rss",
      "raw": 50,
-     "newest": "2026-11-27T19:43"
+     "newest": "2026-11-27T20:00"
     }
    ]
   },
@@ -57,7 +57,7 @@
     {
      "feed": "https://www.novasports.gr/feed",
      "raw": 50,
-     "newest": "2026-11-27T19:39"
+     "newest": "2026-11-27T20:00"
     }
    ]
   },
@@ -79,7 +79,7 @@
     {
      "feed": "https://www.sport-fm.gr/list/2.feed",
      "raw": 20,
-     "newest": "2026-11-27T19:23"
+     "newest": "2026-11-27T19:56"
     },
     {
      "feed": "https://www.sport-fm.gr/list/3.feed",
@@ -93,13 +93,13 @@
    "feeds": [
     "https://www.sportday.gr/feed"
    ],
-   "items": 5,
+   "items": 4,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.sportday.gr/feed",
      "raw": 16,
-     "newest": "2026-11-27T19:30"
+     "newest": "2026-11-27T20:01"
     }
    ]
   },
@@ -115,12 +115,12 @@
     {
      "feed": "https://sportime.gr/feed",
      "raw": 50,
-     "newest": "2026-11-27T19:23"
+     "newest": "2026-11-27T19:49"
     },
     {
      "feed": "https://sportime.gr/feed/news",
      "raw": 50,
-     "newest": "2026-11-27T19:23"
+     "newest": "2026-11-27T19:49"
     }
    ]
   },
@@ -136,12 +136,12 @@
     {
      "feed": "https://www.metrosport.gr/feed",
      "raw": 50,
-     "newest": "2026-11-27T19:35"
+     "newest": "2026-11-27T19:55"
     },
     {
      "feed": "https://www.metrosport.gr/feed/atom",
      "raw": 50,
-     "newest": "2026-11-27T19:45"
+     "newest": "2026-11-27T19:00"
     }
    ]
   },
@@ -156,7 +156,7 @@
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-27T19:40"
+     "newest": "2026-11-27T20:00"
     }
    ]
   },
