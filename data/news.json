@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T10:13:30+00:00",
+"generated_at": "2026-11-27T10:28:40+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ο άλλος πήρε τη ρεβάνς μέσα στο ίδιο το παιχνίδι…",
+"url": "https://www.gazzetta.gr/football/2590253/olympiakos-o-allos-pire-ti-rebans-mesa-sto-idio-paihnidi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-27T10:15+00:00",
+"sport": "football",
+"snippet": "Ο Κώστας Νικολακόπουλος εξηγεί μέσα από το blog του στο Gazzetta πώς προέκυψε αυτό το 2-4 από 2-0 του Ολυμπιακού από τη Μίλαν στο Καραϊσκάκη.",
+"also": [],
+"id": "51d2bbfdd828"
+},
 {
 "title": "ΚΑΕ Ολυμπιακός: «Υπηρέτησε με πάθος και αφοσίωση τη δημοσιογραφία μέσα από το ξεχωριστό του ύφος»",
 "url": "http://www.sport-fm.gr/article/5163834",
@@ -5015,18 +5027,6 @@
 "snippet": "Ένα κέρδος στη βαριά ήττα (6-2) του Ηρακλή από τον Ολυμπιακό στο «Γεώργιος Καραϊσκάκης» ήταν αναμφίβολα ο Άνταμ Ζούλιεβιτς. Ο 19χρονος ...",
 "also": [],
 "id": "7f8b7834a736"
-},
-{
-"title": "Μίλαν: Χωρίς Μόντριτς απέναντι στον Ολυμπιακό – Επιστρέφει ο Τομόρι",
-"url": "https://www.sdna.gr/podosfairo/1490072_milan-horis-montrits-apenanti-ston-olympiako-epistrefei-o-tomori",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-24T17:47+00:00",
-"sport": "football",
-"snippet": "Σημαντικό πρόβλημα για τη Μίλαν ενόψει της αναμέτρησης με τον Ολυμπιακό, καθώς ο Λούκα Μόντριτς αναμένεται να απουσιάσει λόγω μυϊκού τραυματισμού",
-"also": [],
-"id": "897b5009df61"
 }
 ]
 }
