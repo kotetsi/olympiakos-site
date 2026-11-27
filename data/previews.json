@@ -303,5 +303,19 @@
   "b_team": false,
   "no_time": false,
   "comp": "Super League"
+ },
+ "2026-12-04-olympiakos-vilermpan": {
+  "title": "Ολυμπιακός - Βιλερμπάν",
+  "home": "Ολυμπιακός",
+  "away": "Βιλερμπάν",
+  "opp": "Βιλερμπάν",
+  "oly_home": true,
+  "start": "2026-12-04T19:15+00:00",
+  "channels": [
+   "Novasports Prime"
+  ],
+  "sport": "basket",
+  "b_team": false,
+  "comp": "EuroLeague 2026/27"
  }
 }
