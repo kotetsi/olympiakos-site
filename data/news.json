@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T08:57:51+00:00",
+"generated_at": "2026-11-27T09:13:06+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ο Ολυμπιακός κόντρα στην Σλόγκα Ντομπόι για το πρώτο βήμα στους «16» του ΕΗF European Cup",
+"url": "https://www.sdna.gr/hantmpol/1490944_o-olympiakos-kontra-stin-slogka-ntompoi-gia-proto-bima-stoys-16-toy-eif-european",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T08:56+00:00",
+"sport": "general",
+"snippet": "Ο Ολυμπιακός ετοιμάζεται να κάνει απόψε το πρώτο αποφασιστικό βήμα για την εξασφάλιση της παρουσίας του στις 16 κορυφαίες ομάδες του EHF European...",
+"also": [],
+"id": "ed399aa6546d"
+},
 {
 "title": "«Έκραξε» τον παίκτη του ο Αμορίμ για τον πανηγυρισμό μπροστά στον κόσμο του Ολυμπιακού: «Πρέπει να ωριμάσει...»",
 "url": "https://www.sdna.gr/podosfairo/1490940_ekraxe-ton-paikti-toy-o-amorim-gia-ton-panigyrismo-mprosta-ston-kosmo-toy",
@@ -11,7 +23,15 @@
 "published": "2026-11-27T08:40+00:00",
 "sport": "football",
 "snippet": "Ο τεχνικός της Μίλαν απολογήθηκε για τη συμπεριφορά του Ντιέγκο Μορέιρα μετά το τέταρτο γκολ που πέτυχε στο Καραϊσκάκη.",
-"also": [],
+"also": [
+{
+"source": "sport-fm",
+"source_name": "Sport FM",
+"url": "http://www.sport-fm.gr/article/5163819",
+"title": "«Πρέπει να ωριμάσει»: Απολογήθηκε ο Αμορίμ για τον πανηγυρισμό του Μορέιρα μπροστά στον κόσμο του Ολυμπιακού",
+"published": "2026-11-27T09:00+00:00"
+}
+],
 "id": "dba99d0289f6"
 },
 {
@@ -5007,18 +5027,6 @@
 "snippet": "Η Χάποελ Τελ Αβίβ αντιμετωπίζει τον Πρωταθλητή Ευρώπης Ολυμπιακό στην SUNEL Arena αύριο (25/11, 21:15), και ο ηγέτης της ομάδας, Βασίλιε Μίσιτς,...",
 "also": [],
 "id": "41beb5b8d181"
-},
-{
-"title": "Ιτούδης: «Στον Ολυμπιακό θέτουν τους στόχους της ομάδας πάνω από τους προσωπικούς»",
-"url": "https://sportday.gr/basket/366385_itoudis-ston-olympiako-thetoun-tous-stochous-tis-omadas-pano-apo-tous-prosopikous.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T16:49+00:00",
-"sport": "basket",
-"snippet": "Ο Δημήτρης Ιτούδης έκανε δηλώσεις με αφορμή τον αγώνα Ολυμπιακός - Χάποελ Τελ Αβίβ (25/11, 21:15) στην Αθήνα, για λογαριασμό της 14ης αγωνιστικής της…",
-"also": [],
-"id": "3240c69e6300"
 }
 ]
 }
