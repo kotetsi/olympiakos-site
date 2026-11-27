@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-27T19:18:15+00:00",
+"generated_at": "2026-11-27T19:33:22+00:00",
 "count": 400,
 "items": [
 {
@@ -270,7 +270,15 @@
 "published": "2026-11-27T16:44+00:00",
 "sport": "football",
 "snippet": "Νέα δεδομένα στο πρόγραμμα της ΑΕΚ, καθώς αναβλήθηκε το ντέρμπι με τον Ολυμπιακό στο Φάληρο για την 13η Αγωνιστική της Super League. Το παιχνίδι με τους…",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366751_olympiakos-to-programma-meta-tin-anavoli-me-tin-aek.html",
+"title": "Ολυμπιακός: Πώς διαμορφώνεται το πρόγραμμα μετά την αναβολή με την ΑΕΚ",
+"published": "2026-11-27T19:30+00:00"
+}
+],
 "id": "b1d9fd777d20"
 },
 {
