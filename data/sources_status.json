@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-27T03:09:53+00:00",
+ "checked_at": "2026-11-27T03:24:59+00:00",
  "sources": {
   "olympiacos-org": {
    "name": "Olympiacos.org",
@@ -27,7 +27,7 @@
     {
      "feed": "https://www.sdna.gr/latest.xml",
      "raw": 20,
-     "newest": "2026-11-27T02:59"
+     "newest": "2026-11-27T03:14"
     }
    ]
   },
@@ -150,13 +150,13 @@
    "feeds": [
     "https://www.ertsports.gr/feed/"
    ],
-   "items": 4,
+   "items": 3,
    "errors": [],
    "diag": [
     {
      "feed": "https://www.ertsports.gr/feed/",
      "raw": 35,
-     "newest": "2026-11-27T01:30"
+     "newest": "2026-11-27T03:15"
     }
    ]
   },
