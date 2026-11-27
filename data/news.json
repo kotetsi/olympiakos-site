@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T08:12:26+00:00",
+"generated_at": "2026-11-27T08:27:37+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Πώς μπορεί να μπει απευθείας στη League Phase του Champions League 2027-28",
+"url": "https://sportday.gr/podosfairo/366659_olympiakos-pos-mporei-na-mpei-apeftheias-sti-league-phase-tou-champions-league-2027-28.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T08:19+00:00",
+"sport": "football",
+"snippet": "Μετά την ήττα από τη Μίλαν ο Ολυμπιακός παρέμεινε στην 28η θέση με 61.250 βαθμούς, στο ranking της UEFA.",
+"also": [],
+"id": "d17e6a1746c5"
+},
+{
+"title": "Πρωινός Τύπος (27/11): «Αδικαιολόγητη ήττα του Παναθηναϊκού - Υποτίμησε τη Μίλαν ο Ολυμπιακός»",
+"url": "https://www.sdna.gr/podosfairo/1490926_proinos-typos-27/11-adikaiologiti-itta-toy-panathinaikoy-ypotimise-ti-milan-o",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T08:15+00:00",
+"sport": "football",
+"snippet": "Την καταστροφική βραδιά σε μπάσκετ και ποδόσφαιρο καταγράφει ο Τύπος, αναζητώντας τις αιτίες των ηττών.",
+"also": [],
+"id": "29e2088901e2"
+},
 {
 "title": "Ολυμπιακός: Κοιτώντας πίσω από το 15λεπτο black out κόντρα στη Μίλαν",
 "url": "https://www.gazzetta.gr/football/europa-league/2590210/olympiakos-koitontas-piso-apo-15lepto-black-out-kontra-sti-milan",
@@ -4987,30 +5011,6 @@
 "snippet": "Στο μεταγραφικό προσκήνιο του Ολυμπιακού βρίσκεται ο Σαΐντ Μπενραχμά, με δημοσιεύματα από τη Σαουδική Αραβία να συνδέουν τον Αλγερινό εξτρέμ με τους...",
 "also": [],
 "id": "50ba14d41207"
-},
-{
-"title": "Ολυμπιακός: Τελικά είχε άδικο με όσα είπε ο Καραπαπάς για τη διαιτησία;",
-"url": "https://www.gazzetta.gr/football/superleague/2589417/olympiakos-telika-eihe-adiko-me-osa-eipe-o-karapapas-gia-ti-diaitisia",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T16:10+00:00",
-"sport": "football",
-"snippet": "Ο Κ. Νικολακόπουλος ασχολείται στο blog του στο gazzetta με τις θέσεις του Ολυμπιακού για τη διαιτησία.",
-"also": [],
-"id": "2affb4a3a5f9"
-},
-{
-"title": "Μίτσιτς ενόψει Ολυμπιακού: «Χρειάζεται συγκέντρωση για 40 λεπτά κόντρα στους πρωταθλητές»",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15249526/mitsits-enopsei-olympiakou-xreiazetai-sygkentrosi-gia-40-lepta-kontra-stous-protathlites/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-24T15:36+00:00",
-"sport": "basket",
-"snippet": "Ο Σέρβος γκαρντ στάθηκε στον υψηλό βαθμό δυσκολίας του αγώνα και τόνισε πως η προσήλωση σε όλη τη διάρκεια του ματς αποτελεί απαραίτητη προϋπόθεση απέναντι…",
-"also": [],
-"id": "a5e34a231c8b"
 }
 ]
 }
