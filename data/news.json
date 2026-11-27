@@ -1,7 +1,43 @@
 {
-"generated_at": "2026-11-27T09:58:21+00:00",
+"generated_at": "2026-11-27T10:13:30+00:00",
 "count": 400,
 "items": [
+{
+"title": "ΚΑΕ Ολυμπιακός: «Υπηρέτησε με πάθος και αφοσίωση τη δημοσιογραφία μέσα από το ξεχωριστό του ύφος»",
+"url": "http://www.sport-fm.gr/article/5163834",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-27T10:09+00:00",
+"sport": "general",
+"snippet": "Το αντίο της ΚΑΕ Ολυμπιακός στον Αντώνη Πανούτσο.",
+"also": [],
+"id": "e8142214a644"
+},
+{
+"title": "Ολυμπιακός: Η βραδιά που «σημάδεψε» ο Πιρόλα",
+"url": "https://sportday.gr/podosfairo/366709_olympiakos-i-vradia-pou-simadepse-o-pirola.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T10:04+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός ήταν ονειρικός στο πρώτο ημίχρονο κόντρα στη Μίλαν έχοντας κορυφαίο τον Λορέντσο Πιρόλα, για τον οποίο ήταν κάτι παραπάνω από ένα ματς",
+"also": [],
+"id": "8b53bdbcdc46"
+},
+{
+"title": "Ολυμπιακός: Τι να την κάνει ο Ζότα Σίλβα τη Νότιγχαμ;",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-ti-na-tin-kani-o-zota-silva-ti-notigcham?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T09:53+00:00",
+"sport": "general",
+"snippet": "Ο Ζότα Σίλβα βρήκε στον Ολυμπιακό όσα στερήθηκε στη Νότιγχαμ και κυνηγά την επιστροφή του στην Εθνική Πορτογαλίας μέσα από τις εμφανίσεις του στον Πειραιά.",
+"also": [],
+"id": "37215887823c"
+},
 {
 "title": "Europa League: Οι πιθανότητες πρόκρισης Ολυμπιακού και ΟΦΗ",
 "url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15255338/europa-league-oi-pithanotites-prokrisis-olympiakou-kai-ofi/",
@@ -4991,50 +5027,6 @@
 "snippet": "Σημαντικό πρόβλημα για τη Μίλαν ενόψει της αναμέτρησης με τον Ολυμπιακό, καθώς ο Λούκα Μόντριτς αναμένεται να απουσιάσει λόγω μυϊκού τραυματισμού",
 "also": [],
 "id": "897b5009df61"
-},
-{
-"title": "Ιτούδης: «Μεγάλη πρόκληση ο Ολυμπιακός, να δώσουμε τον καλύτερό μας εαυτό για τη νίκη»",
-"url": "https://www.ertsports.gr/mpasket/euroleague/itoudis-megali-proklisi-o-olympiakos-na-dosoume-ton-kalytero-mas-eayto-gia-ti-niki/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-24T17:41+00:00",
-"sport": "basket",
-"snippet": "Τον σεβασμό του προς τον Ολυμπιακό και την ποιότητα που διαθέτει το σύνολο του Γιώργου Μπαρτζώκα εξέφρασε ο Δημήτρης Ιτούδης, ενόψει της αναμέτρησης της Χάποελ…",
-"also": [],
-"id": "63f08b4170ca"
-},
-{
-"title": "Ολυμπιακός: Οι Τούρκοι βλέπουν ενδιαφέρον για τον Μπενραχμά",
-"url": "https://sportday.gr/podosfairo/366394_olympiakos-oi-tourkoi-vlepoun-endiaferon-gia-ton-mpenrachma.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T17:35+00:00",
-"sport": "football",
-"snippet": "Ξεκίνησαν οι φήμες ενόψει Γενάρη για Ολυμπιακό και Μπενραχμά.",
-"also": [],
-"id": "7a886525d285"
-},
-{
-"title": "Χωρίς τον Μόντριτς η Μίλαν στο «Γ. Καραϊσκάκης»!",
-"url": "http://www.sport-fm.gr/article/5163227",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-24T17:34+00:00",
-"sport": "football",
-"snippet": "Ο Λούκα Μόντριτς υπέστη μυϊκό τραυματισμό στα τελευταία λεπτά της αναμέτρησης με τη Φροζινόνε και δεν θα είναι διαθέσιμος για το παιχνίδι της Πέμπτης με τους…",
-"also": [
-{
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"url": "https://www.gazzetta.gr/football/europa-league/2589436/olympiakos-horis-montrits-ston-peiraia-i-milan",
-"title": "Ολυμπιακός: Χωρίς Μόντριτς στον Πειραιά η Μίλαν",
-"published": "2026-11-24T17:35+00:00"
-}
-],
-"id": "22a89ae80ece"
 }
 ]
 }
