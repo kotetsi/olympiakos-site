@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T20:18:47+00:00",
+"generated_at": "2026-11-27T20:33:58+00:00",
 "count": 400,
 "items": [
+{
+"title": "UEFA Rankings: Η θέση της Ελλάδας και η πρωτιά του Ολυμπιακού",
+"url": "https://sportday.gr/podosfairo/366742_uefa-rankings-i-thesi-tis-elladas-kai-i-protia-tou-olympiakou.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T20:29+00:00",
+"sport": "football",
+"snippet": "Πως διαμορφώνεται η κατάταξη σε πρωταθλήματα και ομάδες μετά τα αποτελέσματα των ελληνικών ομάδων στην Ευρώπη.",
+"also": [],
+"id": "3b718de393de"
+},
 {
 "title": "Ενζόγια: «Είναι πάντα πρόκληση να δουλεύεις σε μια ομάδα με το όνομα του Ολυμπιακού»",
 "url": "https://www.sdna.gr/mpasket/1491039_enzogia-einai-panta-proklisi-na-doyleyeis-se-mia-omada-me-onoma-toy-olympiakoy",
@@ -5083,18 +5095,6 @@
 "snippet": "Ο Λορένζο Πιρόλα μίλησε για την επικείμενη μάχη του Ολυμπιακού με τη Μίλαν...",
 "also": [],
 "id": "d0f722fd0165"
-},
-{
-"title": "Αλγουαθίλ: «Δεν θα ψάξω δικαιολογίες, ούτε θα βάλω τα κλάματα – Είμαστε ο Ολυμπιακός»",
-"url": "https://www.sdna.gr/podosfairo/1490346_algoyathil-den-tha-psaxo-dikaiologies-oyte-tha-balo-ta-klamata-eimaste-o",
-"source": "sdna",
-"source_name": "SDNA",
-"official": false,
-"published": "2026-11-25T14:37+00:00",
-"sport": "football",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ μίλησε για τις σημαντικές απουσίες του Ολυμπιακού, το αγωνιστικό πλάνο απέναντι στη Μίλαν και την υποχρέωση της ομάδας του να...",
-"also": [],
-"id": "8ad313356aeb"
 }
 ]
 }
