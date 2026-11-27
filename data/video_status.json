@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-11-27T07:42:11+00:00",
+ "checked_at": "2026-11-27T07:57:22+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
@@ -37,9 +37,9 @@
   "novasports": {
    "name": "Novasports",
    "channel_id": "UCFuua6kISqtOetefT0fkqzA",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "error": ""
   }
  }
 }
