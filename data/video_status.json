@@ -1,26 +1,26 @@
 {
- "checked_at": "2026-11-27T07:57:22+00:00",
+ "checked_at": "2026-11-27T08:12:30+00:00",
  "channels": {
   "olympiacos-fc": {
    "name": "Olympiacos FC",
    "channel_id": "UCLf7YXb-0PWEeq59Z_q318A",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": ""
   },
   "olympiacos-bc": {
    "name": "Olympiacos BC",
    "channel_id": "UCbv8oofgvLZ1B24N6uJ9q6g",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": ""
   },
   "euroleague": {
    "name": "EuroLeague",
    "channel_id": "UCGr3nR_XH9r6E5b09ZJAT9w",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 1,
+   "error": ""
   },
   "superleague": {
    "name": "Super League",
@@ -30,9 +30,9 @@
   "cosmote-tv": {
    "name": "COSMOTE TV",
    "channel_id": "UCm5qBjYuLgAxEv77PAhnodA",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "error": ""
   },
   "novasports": {
    "name": "Novasports",
