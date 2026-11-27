@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T15:46:31+00:00",
+"generated_at": "2026-11-27T16:01:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Τα εισιτήρια του αγώνα Celje – Ολυμπιακός",
+"url": "https://www.olympiacos.org/2026/11/27/ta-eisitiria-tou-agona-celje-olympiakos/",
+"source": "olympiacos-org",
+"source_name": "Olympiacos.org",
+"official": true,
+"published": "2026-11-27T15:59+00:00",
+"sport": "general",
+"snippet": "Ενημέρωση της ΠΑΕ Ολυμπιακός για τα εισιτήρια του εκτός έδρας αγώνα απέναντι στην Celje.",
+"also": [],
+"id": "ddec02833454"
+},
+{
+"title": "Την... είπε στους οπαδούς του Ολυμπιακού ο Χάτσισον, που τον πληρώνει ο Μαρινάκης - Αλλά μπορεί να το έκανε και επίτηδες!",
+"url": "https://sportime.gr/podosfairo/tin-ipe-stous-opadous-tou-olimpiakou-o-chatsison-pou-ton-plironi-o-marinakis-alla-bori-na-to-ekane-ke-epitides?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T15:47+00:00",
+"sport": "football",
+"snippet": "Ο Ομάρι Χάτσισον σχολίασε τους οπαδούς του Ολυμπιακού μετά το 2-4 από τη Μίλαν. Μήπως θέλησε να κόψει τη συζήτηση για πιθανό δανεισμό του;",
+"also": [],
+"id": "7363b6c6f477"
+},
 {
 "title": "Ολυμπιακός: Ζήτησε αναβολή του ντέρμπι με την ΑΕΚ – Πως το… προανήγγειλε ο Ιμανόλ στη Nova (video)",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15255919/olympiakos-zitise-anavoli-tou-ntermpi-me-tin-aek-pos-to-proaniggeile-o-imanol-sti-nova-video/",
@@ -23,7 +47,15 @@
 "published": "2026-11-27T15:40+00:00",
 "sport": "football",
 "snippet": "Ο Ολυμπιακός αποφάσισε και ενεργοποιεί το δικαίωμα για αναβολή του ντέρμπι με την ΑΕΚ στο Φάληρο.",
-"also": [],
+"also": [
+{
+"source": "ertsports",
+"source_name": "ERT Sports",
+"url": "https://www.ertsports.gr/super-league/o-olympiakos-apofasise-anavoli-sto-ntermpi-me-tin-aek-oi-pithanes-imerominies-dieksagogis/",
+"title": "Ο Ολυμπιακός αποφάσισε αναβολή στο ντέρμπι με την ΑΕΚ – Οι πιθανές ημερομηνίες διεξαγωγής",
+"published": "2026-11-27T15:51+00:00"
+}
+],
 "id": "720bce94b0b8"
 },
 {
@@ -5001,30 +5033,6 @@
 "snippet": "Συνέχεια στο εντυπωσιακό νικηφόρο σερί του θέλει να δώσει ο Ολυμπιακός, ο οποίος δοκιμάζεται απόψε (25/11, 20:30, KOE TV) στην έδρα του Πανιωνίου,...",
 "also": [],
 "id": "94b8828dbe32"
-},
-{
-"title": "Με Ολυμπιακός – Χάποελ Τελ Αβίβ, Ρεάλ Μαδρίτης – Ζάλγκιρις Κάουνας και Ντουμπάι BC – Παρτίζαν οι μεταδόσεις της ημέρας",
-"url": "https://www.novasports.gr/category/epikairotita/article/15249792/me-olympiakos-xapoel-tel-aviv-real-madritis-zalgkiris-kaounas-kai-ntoumpai-bc-partizan-oi-metadoseis-tis-imeras/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-25T08:00+00:00",
-"sport": "general",
-"snippet": "Αναλυτικά: Οι αθλητικές μεταδόσεις",
-"also": [],
-"id": "b39c908aa489"
-},
-{
-"title": "Ολυμπιακός: Με Χάποελ για την τέταρτη συνεχόμενη νίκη και τη… μοναξιά της κορυφής",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2040436/olimpiakos-me-chapoel-gia-tin-tetarti-sinechomeni-niki-ke-ti-monaxia-tis-korifis/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-25T07:30+00:00",
-"sport": "basket",
-"snippet": "Ο Ολυμπιακός φιλοξενεί την Χάποελ Τελ Αβίβ απόψε στη Sunel Arena (21:15, Novasports Prime). The post Ολυμπιακός: Με Χάποελ για την τέταρτη συνεχόμενη νίκη και…",
-"also": [],
-"id": "fd8ed68cb793"
 }
 ]
 }
