@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-27T10:58:59+00:00",
+"generated_at": "2026-11-27T11:14:08+00:00",
 "count": 400,
 "items": [
+{
+"title": "Με τι παίκτες θέλει να πάει στον τελικό ο Ολυμπιακός;",
+"url": "https://www.sdna.gr/podosfairo/1490927_me-ti-paiktes-thelei-na-paei-ston-teliko-o-olympiakos",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-27T11:04+00:00",
+"sport": "football",
+"snippet": "Η Μίλαν ξεγύμνωσε έναν μεταγραφικό σχεδιασμό που απέχει πολύ από τις μεγάλες φιλοδοξίες του Ολυμπιακού. Γράφει ο Χρ. Σταθόπουλος.",
+"also": [],
+"id": "5fd6c5772b7a"
+},
+{
+"title": "Ολυμπιακός: Το παράπονο του Ντόρσεϊ που του γύρισε μπούμερανγκ",
+"url": "https://sportime.gr/olimpiakos/olimpiakos-to-parapono-tou-ntorsei-pou-tou-girise-boumerangk?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-27T11:03+00:00",
+"sport": "general",
+"snippet": "Το παλιό παράπονο του Τάιλερ Ντόρσεϊ στον Ολυμπιακό αποκτά νέα σημασία μετά τη μεγάλη εμφάνιση του Κόρι Τζόσεφ και την ήττα της Εθνικής από τη Γεωργία.",
+"also": [],
+"id": "3f595b9a2367"
+},
 {
 "title": "Ολυμπιακός: Ο άλλος πήρε τη ρεβάνς μέσα στο ίδιο το παιχνίδι…",
 "url": "https://www.gazzetta.gr/football/2590253/olympiakos-o-allos-pire-ti-rebans-mesa-sto-idio-paihnidi",
@@ -5010,30 +5034,6 @@
 "snippet": "H Χάποελ Τελ Αβίβ αντιμετωπίζει την Τετάρτη (25/11, 21:15) στη Sunel Arena τον Ολυμπιακό με τον Βασίλιε Μίτσιτς και τον Ελάιτζα Μπράιαντ να οδηγούν την ομάδα…",
 "also": [],
 "id": "dbe8b8c3b85d"
-},
-{
-"title": "Γκλεν Ντέιβις: Ο πρώτος θρύλος των χαμηλών εμποδίων νίκησε και τα χτυπήματα της μοίρας",
-"url": "https://sportday.gr/retro/366258_gklen-nteivis-o-protos-thrylos-ton-chamilon-empodion-nikise-kai-ta-chtypimata-tis-moiras.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-24T18:20+00:00",
-"sport": "general",
-"snippet": "Το σοκ της απώλειας και των δύο γονιών του την ίδια μέρα είχε χρειαστεί να ξεπεράσει ως έφηβος ο Γκλεν Ντέιβις, ο θρύλος των 400 μέτρων με εμπόδια ο οποίος…",
-"also": [],
-"id": "84150ef6cce8"
-},
-{
-"title": "Ηρακλής: Υποψήφιο για best goal της 11ης αγωνιστικής το δεύτερο τέρμα του Ζούλιεβιτς",
-"url": "https://www.metrosport.gr/iraklis-ypopsifio-gia-best-goal-tis-11is-agonistikis-to-deytero-terma-toy-zoylievits-1334760",
-"source": "metrosport",
-"source_name": "Metrosport",
-"official": false,
-"published": "2026-11-24T17:50+00:00",
-"sport": "football",
-"snippet": "Ένα κέρδος στη βαριά ήττα (6-2) του Ηρακλή από τον Ολυμπιακό στο «Γεώργιος Καραϊσκάκης» ήταν αναμφίβολα ο Άνταμ Ζούλιεβιτς. Ο 19χρονος ...",
-"also": [],
-"id": "7f8b7834a736"
 }
 ]
 }
