@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-27T06:26:28+00:00",
+"generated_at": "2026-11-27T06:41:36+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Ρημάδα λογική…",
+"url": "https://sportday.gr/podosfairo/366692_olympiakos-rimada-logiki.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-27T06:27+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός πήγε να αμφισβητήσει αυτό που έμοιαζε «κανονικό», όμως ηττήθηκε από τη Μίλαν με τρόπο κρύο.",
+"also": [],
+"id": "f765ca0d02d1"
+},
 {
 "title": "Europa League: Οι πιθανότητες Ολυμπιακού για οκτάδα και ΟΦΗ για πρόκριση μετά την 5η αγωνιστική",
 "url": "https://www.gazzetta.gr/football/europa-league/2590193/europa-league-oi-pithanotites-olympiakoy-gia-oktada-kai-ofi-gia",
@@ -4999,18 +5011,6 @@
 "snippet": "Ο Άρης πέρασε με νίκη από την Τρίπολη επικρατώντας του Αστέρα και συνεχίζει την πορεία του στην τετράδα της Stoiximan Super League. Στο ερχόμενο ...",
 "also": [],
 "id": "39f07918cb2e"
-},
-{
-"title": "Η UEFA ξύπνησε... εφιάλτες στη Μίλαν: Η βραδιά της πρόκρισης του Ολυμπιακού στο γεμάτο Καραϊσκάκης",
-"url": "https://www.gazzetta.gr/football/europa-league/2589358/i-uefa-xypnise-efialtes-sti-milan-i-bradia-tis-prokrisis-toy",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-24T13:11+00:00",
-"sport": "football",
-"snippet": "Το επίσημο σάιτ του Europa League θύμισε την μεγάλη νίκη του Ολυμπιακού κόντρα στη Μίλαν το 2018, πριν τη μεταξύ τους αναμέτρηση την Πέμπτη (21/11).",
-"also": [],
-"id": "1f232f5e0f12"
 }
 ]
 }
