@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-28T06:38:48+00:00",
+"generated_at": "2026-11-28T06:53:54+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Η Ρόμα και η Νάπολι παρακολουθούν τον Πιρόλα λένε οι Ιταλοί",
+"url": "https://www.gazzetta.gr/football/serie/2590459/olympiakos-i-roma-kai-i-napoli-parakoloythoyn-ton-pirola-lene-oi-italoi",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T06:40+00:00",
+"sport": "football",
+"snippet": "Ο Λορέντσο Πιρόλα έχει δημιουργήσει ένα εξαιρετικό όνομα ως βασικός στόπερ του Ολυμπιακού και ήδη στην Ιταλία φουντώνουν οι φήμες για τον επαναπατρισμό του.",
+"also": [],
+"id": "2164a9cdf2e4"
+},
+{
+"title": "«Λάτσιο και Ρόμα ρώτησαν τον Ολυμπιακό για τον Πιρόλα»",
+"url": "https://www.sdna.gr/podosfairo/1491236_latsio-kai-roma-rotisan-ton-olympiako-gia-ton-pirola",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-28T06:37+00:00",
+"sport": "football",
+"snippet": "Στην Ιταλία το όνομα του Λορέντσο Πιρόλα ακούγεται για Λάτσιο και Ρόμα, που θα ήθελαν να τον αποκτήσουν.",
+"also": [],
+"id": "c2e9953d7da0"
+},
 {
 "title": "Ολυμπιακός: Δε θέλουμε θλιμμένους στη γιορτή μας",
 "url": "https://sportday.gr/basket/366600_olympiakos-de-theloume-thlimmenous-sti-giorti-mas.html",
@@ -5055,30 +5079,6 @@
 "snippet": "Ο Ολυμπιακός ολοκλήρωσε την προετοιμασία για το μεγάλο ματς της 5ης αγωνιστικής της League Phase με αντίπαλο τη Μίλαν (26/11, 19:45), με τον Ιμανόλ Αλγκουαθίλ…",
 "also": [],
 "id": "2ccd753bb821"
-},
-{
-"title": "Με πέντε νεαρούς η αποστολή του Ολυμπιακού για το μεγάλο ματς με τη Μίλαν",
-"url": "http://www.sport-fm.gr/article/5163470",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-25T18:58+00:00",
-"sport": "general",
-"snippet": "Δείτε την αποστολή του Ολυμπιακού για το μεγάλο αυριανό ματς με τη Μίλαν.",
-"also": [],
-"id": "e87641326677"
-},
-{
-"title": "Τσανάκας: «Το αήττητο του Ολυμπιακού και η ατάκα του Ιμανόλ που κάτι δείχνει»",
-"url": "http://www.sport-fm.gr/article/5163465",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-25T18:55+00:00",
-"sport": "general",
-"snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Γιώργο Τσανάκα.",
-"also": [],
-"id": "4ad8f6b496eb"
 }
 ]
 }
