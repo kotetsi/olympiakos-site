@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-28T10:40:43+00:00",
+"generated_at": "2026-11-28T10:55:50+00:00",
 "count": 400,
 "items": [
+{
+"title": "«Όλοι Παλατάκι!»: Το κάλεσμα του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
+"url": "https://www.metrosport.gr/oloi-palataki-to-kalesma-toy-paok-gia-to-ntermpi-me-ton-olympiako-1335142",
+"source": "metrosport",
+"source_name": "Metrosport",
+"official": false,
+"published": "2026-11-28T10:45+00:00",
+"sport": "general",
+"snippet": "Σε ρυθμούς ντέρμπι κινείται ο ΠΑΟΚ mateco, καθώς υποδέχεται σήμερα (28/11, 19:00) τον Ολυμπιακό στο «Παλατάκι» στο πλαίσιο της 6ης αγωνιστικής της ...",
+"also": [],
+"id": "27c975a16c3a"
+},
 {
 "title": "Ντέρμπι για την 6η αγωνιστική της Volley League Ανδρών | ΠΑΟΚ – Ολυμπιακός στην ΕΡΤ2 ΣΠΟΡ",
 "url": "https://www.ertsports.gr/bolei/ntermpi-gia-tin-6i-agonistiki-tis-volley-league-andron-paok-olympiakos-stin-ert2-spor/",
@@ -5059,18 +5071,6 @@
 "snippet": "Ο Ολυμπιακός νίκησε τον Πανιώνιο, ανοίγοντας την αυλαία της 11ης αγωνιστικής, ενώ για την αντίστοιχη 10η, η Βουλιαγμένη καθάρισε απέναντι στον Άλιμο.",
 "also": [],
 "id": "09cc56f9db14"
-},
-{
-"title": "Nτόρσεϊ: Δεν πήγε στη SUNEL Arena για το Ολυμπιακός-Χάποελ Τελ Αβίβ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2589772/ntorsei-den-einai-sti-sunel-arena-sto-olympiakos-hapoel-tel-abib",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T19:43+00:00",
-"sport": "basket",
-"snippet": "Ο Τάιλερ Ντόρσεϊ δεν βλέπει από κοντά το ματς του Ολυμπιακού με τη Χάποελ Τελ Αβίβ.",
-"also": [],
-"id": "aaf51ba5413e"
 }
 ]
 }
