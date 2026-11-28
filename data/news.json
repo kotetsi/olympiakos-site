@@ -1,7 +1,51 @@
 {
-"generated_at": "2026-11-28T11:41:09+00:00",
+"generated_at": "2026-11-28T11:56:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Με Ρέτσο, Σιπιόνι και Τουφάκη κόντρα στον Άρη",
+"url": "https://www.gazzetta.gr/football/superleague/2590506/olympiakos-me-retso-sipioni-kai-toyfaki-kontra-ston-ari",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T11:47+00:00",
+"sport": "football",
+"snippet": "Ο Ιμανόλ Αλγκουαθίλ έκανε γνωστή την αποστολή που θα έχει μαζί του ενόψει της μάχης του Ολυμπιακού με τον Άρη.",
+"also": [],
+"id": "1a02e4e97cda"
+},
+{
+"title": "Η αποστολή του Ολυμπιακού για το ματς με τον Άρη",
+"url": "http://www.sport-fm.gr/article/5164055",
+"source": "sport-fm",
+"source_name": "Sport FM",
+"official": false,
+"published": "2026-11-28T11:43+00:00",
+"sport": "general",
+"snippet": "Δείτε την αποστολή του Ολυμπιακού για την αναμέτρηση με τον Άρη.",
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366805_olympiakos-i-apostoli-gia-to-mats-me-ton-ari-me-ena-erotimatiko.html",
+"title": "Ολυμπιακός: Η αποστολή για το ματς με τον Άρη με ένα ερωτηματικό",
+"published": "2026-11-28T11:45+00:00"
+}
+],
+"id": "19bf8c4509a7"
+},
+{
+"title": "Δεύτερη νίκη για τον Ολυμπιακό και επιβλητική πρόκριση στους “16” του EHF European Cup",
+"url": "https://www.ertsports.gr/alla-spor/xantmpol/deyteri-niki-gia-ton-olympiako-kai-epivlitiki-prokrisi-stous-16-tou-ehf-european-cup/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-28T11:42+00:00",
+"sport": "handball",
+"snippet": "Την πρόκρισή της στους \"16\" του EHF European Cup σφράγισε η ομάδα χάντμπολ Ανδρών του Ολυμπιακού. Οι \"ερυθρόλευκοι\" νίκησαν 37-20 την Σλόγκα Ντομπόι και στο…",
+"also": [],
+"id": "f487596632db"
+},
 {
 "title": "Ολυμπιακός: Για το 3Χ3 κόντρα στην Τεράσα",
 "url": "https://sportday.gr/sports/polo/366799_olympiakos-gia-to-3ch3-kontra-stin-terasa.html",
@@ -35,7 +79,22 @@
 "published": "2026-11-28T11:12+00:00",
 "sport": "general",
 "snippet": "Κανονικά στην αποστολή του Ολυμπιακού για την αναμέτρηση με τον Άρη στη Θεσσαλονίκη θα βρίσκεται ο Παναγιώτης Ρέτσος, σύμφωνα με όσα μετέφερε ο Κώστας…",
-"also": [],
+"also": [
+{
+"source": "sdna",
+"source_name": "SDNA",
+"url": "https://www.sdna.gr/podosfairo/1491309_olympiakos-me-retso-sti-thessaloniki",
+"title": "Ολυμπιακός: Με Ρέτσο στη Θεσσαλονίκη",
+"published": "2026-11-28T11:41+00:00"
+},
+{
+"source": "novasports",
+"source_name": "Novasports",
+"url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15257291/olympiakos-me-retso-sti-thessaloniki-pic/",
+"title": "Ολυμπιακός: Με Ρέτσο στη Θεσσαλονίκη (pic)",
+"published": "2026-11-28T11:53+00:00"
+}
+],
 "id": "0652e5d6715a"
 },
 {
@@ -5043,42 +5102,6 @@
 "snippet": "Παρουσία του Σακίλ ΜακΚίσικ διεξάγεται η αναμέτρηση του Ολυμπιακού με τη Χάποελ Τελ Αβίβ στη Sunel Arena, με την ερυθρόλευκη ΚΑΕ να αναδεικνύει τη θερμή…",
 "also": [],
 "id": "b23d7ac73a0f"
-},
-{
-"title": "Ολυμπιακός: Θα ήταν... λάθος η επιστροφή του Σακίλ ΜακΚίσικ;",
-"url": "https://sportime.gr/olympiakos-bc/olimpiakos-tha-itan-lathos-i-epistrofi-tou-sakil-makkisik?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T20:38+00:00",
-"sport": "general",
-"snippet": "Θα ήταν λάθος η επιστροφή του Σακίλ ΜακΚίσικ στον Ολυμπιακό; Οι ανάγκες στην περιφέρεια και ο ρόλος που θα μπορούσε να έχει στην ομάδα.",
-"also": [],
-"id": "ad1529ce59ed"
-},
-{
-"title": "Ολυμπιακός-Μίλαν: Sold out το ματς με τους Ροσονέρι!",
-"url": "https://sportday.gr/podosfairo/366532_olympiakos-milan-sold-out-to-mats-me-tous-rosoneri.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-25T20:35+00:00",
-"sport": "football",
-"snippet": "Καρφίτσα δε θα πέφτει στο Καραϊσκάκη στο παιχνίδι με τη Μίλαν.",
-"also": [],
-"id": "1c9cc7b95342"
-},
-{
-"title": "Ολυμπιακός: Η απίστευτη αποθέωση του ΜακΚίσικ, τα δάκρυα της Μπέριλ και οι αγκαλιές με τους προέδρους και τον Σκινδήλια",
-"url": "http://www.sport-fm.gr/article/5163485",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-25T20:32+00:00",
-"sport": "general",
-"snippet": "Ο Σακίλ ΜακΚίσικ βρέθηκε στη SUNEL Arena για το Ολυμπιακός-Χάποελ, αποθεώθηκε από την εξέδρα και η σύζυγός του, Μπέριλ, συγκινήθηκε μέχρι δακρύων.",
-"also": [],
-"id": "2df76b4b37da"
 }
 ]
 }
