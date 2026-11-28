@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-28T07:39:16+00:00",
+"generated_at": "2026-11-28T07:54:22+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η απάντηση του Νταβίντ Λουίζ στο Gazzetta για το τι είπε με τον Μαρινάκη, τα δάκρυα για τον Ροντινέι και το Καραϊσκάκης",
+"url": "https://www.gazzetta.gr/football/superleague/2590472/i-apantisi-toy-ntabint-loyiz-sto-gazzetta-gia-ti-eipe-me-ton-marinaki",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T07:46+00:00",
+"sport": "football",
+"snippet": "Ο Νταβίντ Λουίζ άνοιξε την καρδιά του στο Gazzetta και μεταξύ άλλων μοιράστηκε τις συζητήσεις που είχε με τον Βαγγέλη Μαρινάκη για να έρθει στον Ολυμπιακό αλλά…",
+"also": [],
+"id": "04ed685e79ec"
+},
+{
+"title": "Champions League γυναικών: Για το 3/3 Ολυμπιακός και Βουλιαγμένη, ψάχνει την πρώτη νίκη ο Εθνικός",
+"url": "https://www.sdna.gr/polo/1491250_champions-league-gynaikon-gia-3/3-olympiakos-kai-boyliagmeni-psahnei-tin-proti-niki-o",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-28T07:45+00:00",
+"sport": "polo",
+"snippet": "Στη μάχη της 3ης αγωνιστικής των ομίλων του Champions League πόλο γυναικών ρίχνονται σήμερα (28/11) Ολυμπιακός, Βουλιαγμένη και Εθνικός, με τις τρεις...",
+"also": [],
+"id": "ba6f8387c5a5"
+},
 {
 "title": "Ολυμπιακός: Η Ρόμα και η Νάπολι παρακολουθούν τον Πιρόλα λένε οι Ιταλοί",
 "url": "https://www.gazzetta.gr/football/serie/2590459/olympiakos-i-roma-kai-i-napoli-parakoloythoyn-ton-pirola-lene-oi-italoi",
@@ -5047,38 +5071,6 @@
 "snippet": "Ο Αλεξέι Ποκουσέφσκι βρίσκεται στη SUNEL Arena, προκειμένου να παρακολουθήσει από κοντά την αναμέτρηση του Ολυμπιακού με τη Χάποελ Τελ Αβίβ (21:15…",
 "also": [],
 "id": "03327701ce95"
-},
-{
-"title": "Με… 100άρα ο Ολυμπιακός τη Σλέζα Βρότσλαβ!",
-"url": "https://www.novasports.gr/sport/mpasket/event/diethneis-eurocup-mpasket/article/15252004/me-100ara-o-olympiakos-ti-sleza-vrotslav/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-25T19:05+00:00",
-"sport": "basket",
-"snippet": "Με επιβλητική εμφάνιση και πρωταγωνίστριες τις Χριστινάκη (21π.) και Λάμπερτ (14π.), ο Ολυμπιακός συνέτριψε τη Σλέζα Βρότσλαβ με 100-67 στο Μοσχάτο, για την 5η…",
-"also": [
-{
-"source": "ertsports",
-"source_name": "ERT Sports",
-"url": "https://www.ertsports.gr/mpasket/me-100ara-o-olympiakos-ti-sleza-vrotslav/",
-"title": "Με… 100άρα ο Ολυμπιακός τη Σλέζα Βρότσλαβ",
-"published": "2026-11-25T20:34+00:00"
-}
-],
-"id": "a8dfb7cc1140"
-},
-{
-"title": "Ολυμπιακός – Μίλαν: Αυτή είναι η αποστολή για το μεγάλο ματς! (pic)",
-"url": "https://www.novasports.gr/sport/podosfairo/event/uefa-europa-league/article/15252078/olympiakos-milan-ayti-einai-i-apostoli-gia-to-megalo-mats-pic/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-25T18:58+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ολοκλήρωσε την προετοιμασία για το μεγάλο ματς της 5ης αγωνιστικής της League Phase με αντίπαλο τη Μίλαν (26/11, 19:45), με τον Ιμανόλ Αλγκουαθίλ…",
-"also": [],
-"id": "2ccd753bb821"
 }
 ]
 }
