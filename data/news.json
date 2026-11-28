@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-28T06:23:42+00:00",
+"generated_at": "2026-11-28T06:38:48+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Δε θέλουμε θλιμμένους στη γιορτή μας",
+"url": "https://sportday.gr/basket/366600_olympiakos-de-theloume-thlimmenous-sti-giorti-mas.html",
+"source": "sportday",
+"source_name": "Sportday",
+"official": false,
+"published": "2026-11-28T06:30+00:00",
+"sport": "basket",
+"snippet": "Σε μια ομάδα που ξέρει να πολεμά όπως αυτή του Ολυμπιακού μπορείς να είσαι ΜακΚίσικ και να σε θέλουν όλοι μαζί τους. Μπορείς να είσαι και Ντόρσεϊ, και όλοι να…",
+"also": [],
+"id": "dae23c815a5c"
+},
 {
 "title": "Α1 Γυναικών: Υποδέχεται τους Πάνθηρες Καβάλας ο Ολυμπιακός",
 "url": "https://www.sdna.gr/mpasket/1491029_a1-gynaikon-ypodehetai-toys-panthires-kabalas-o-olympiakos",
@@ -5067,26 +5079,6 @@
 "snippet": "Το ρεπορτάζ του Ολυμπιακού από τον Γιώργο Τσανάκα.",
 "also": [],
 "id": "4ad8f6b496eb"
-},
-{
-"title": "Θάνου κατά Ολυμπιακού: «Οι επιθέσεις στη Δικαιοσύνη δεν πρέπει να μένουν αναπάντητες»",
-"url": "http://www.sport-fm.gr/article/5163461",
-"source": "sport-fm",
-"source_name": "Sport FM",
-"official": false,
-"published": "2026-11-25T18:29+00:00",
-"sport": "general",
-"snippet": "Η Μαργαρίτα Θάνου απάντησε στην ανακοίνωση του Ολυμπιακού για την απόφαση του ΑΣΕΑΔ, παραθέτοντας απόσπασμα της πρωτόδικης απόφασης για Λεσόρ και Γκραντ.",
-"also": [
-{
-"source": "novasports",
-"source_name": "Novasports",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15252071/panathinaikos-apantise-ston-olympiako-i-thanou-oi-epitheseis-sti-dikaiosyni-den-prepei-na-menoun-anapantites/",
-"title": "Παναθηναϊκός: Απάντησε στον Ολυμπιακό η Θάνου – «Οι επιθέσεις στη Δικαιοσύνη δεν πρέπει να μένουν αναπάντητες»",
-"published": "2026-11-25T18:47+00:00"
-}
-],
-"id": "c0c519986643"
 }
 ]
 }
