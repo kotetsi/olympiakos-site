@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-28T10:55:50+00:00",
+"generated_at": "2026-11-28T11:10:57+00:00",
 "count": 400,
 "items": [
+{
+"title": "Για το απόλυτο Ολυμπιακός και Βουλιαγμένη, την πρώτη νίκη αναζητά ο Εθνικός",
+"url": "https://www.ertsports.gr/alla-spor/polo/gia-to-apolyto-olympiakos-kai-vouliagmeni-tin-proti-niki-anazita-o-ethnikos/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-28T11:03+00:00",
+"sport": "polo",
+"snippet": "Στα μισά του δρόμου φτάνει σήμερα (28/11) η φάση των ομίλων του Champions League υδατοσφαίρισης γυναικών, με τον Ολυμπιακό και τη Βουλιαγμένη να έχουν κάνει ως…",
+"also": [],
+"id": "81915566341f"
+},
+{
+"title": "Στους «16» ο Ολυμπιακός με δεύτερη νίκη επί της Σλόγκα Ντομπόζ",
+"url": "https://www.sdna.gr/hantmpol/1491300_stoys-16-o-olympiakos-me-deyteri-niki-epi-tis-slogka-ntompoz",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-28T11:02+00:00",
+"sport": "general",
+"snippet": "Την πρόκρισή του στη φάση των «16» του EHF European Cup εξασφάλισε ο Ολυμπιακός, επικρατώντας με 37-20 της Σλόγκα Ντομπόζ στη δεύτερη αναμέτρηση των...",
+"also": [],
+"id": "3e1b0bb2c2bc"
+},
 {
 "title": "«Όλοι Παλατάκι!»: Το κάλεσμα του ΠΑΟΚ για το ντέρμπι με τον Ολυμπιακό",
 "url": "https://www.metrosport.gr/oloi-palataki-to-kalesma-toy-paok-gia-to-ntermpi-me-ton-olympiako-1335142",
@@ -107,7 +131,15 @@
 "published": "2026-11-28T08:52+00:00",
 "sport": "football",
 "snippet": "Ο Βασίλης Παπαγγέλης έφυγε από τη ζωή σε ηλικία 67 ετών, νικημένος από τον καρκίνο.",
-"also": [],
+"also": [
+{
+"source": "sportday",
+"source_name": "Sportday",
+"url": "https://sportday.gr/podosfairo/366797_pethane-o-lakis-papangelis-thlipsi-se-pas-giannina-kai-olympiako.html",
+"title": "Πέθανε ο Λάκης Παπαγγέλης – Θλίψη σε ΠΑΣ Γιάννινα και Ολυμπιακό",
+"published": "2026-11-28T10:55+00:00"
+}
+],
 "id": "a74359eba7b9"
 },
 {
@@ -5047,30 +5079,6 @@
 "snippet": "Με… εκρηκτικό τρόπο μπήκε στην αναμέτρηση του Ολυμπιακού απέναντι στη Χάποελ Τελ Αβίβ για τη 14η αγωνιστική της EuroLeague ο Κόρι Τζόσεφ, σημειώνοντας νέο…",
 "also": [],
 "id": "4c478fd313c0"
-},
-{
-"title": "Sold Out το Ολυμπιακός – Μίλαν",
-"url": "https://www.ertsports.gr/omades/olympiakos/sold-out-to-olympiakos-milan/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-25T19:56+00:00",
-"sport": "football",
-"snippet": "Ο Ολυμπιακός ανακοίνωσε πως τα εισιτήρια για το αυριανό 26/11 παιχνίδι με αντίπαλο τη Μίλαν για την 5η αγωνιστική της League Phase του Europa League έχουν…",
-"also": [],
-"id": "bba53d5d17be"
-},
-{
-"title": "Ολυμπιακός: Εύκολα τον Πανιώνιο, συνεχίζει πρώτος και αήττητος",
-"url": "https://www.gazzetta.gr/polo/a1-gynaikon/2589776/olympiakos-eykola-ton-panionio-synehizei-protos-kai-aittitos",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T19:48+00:00",
-"sport": "polo",
-"snippet": "Ο Ολυμπιακός νίκησε τον Πανιώνιο, ανοίγοντας την αυλαία της 11ης αγωνιστικής, ενώ για την αντίστοιχη 10η, η Βουλιαγμένη καθάρισε απέναντι στον Άλιμο.",
-"also": [],
-"id": "09cc56f9db14"
 }
 ]
 }
