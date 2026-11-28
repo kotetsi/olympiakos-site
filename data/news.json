@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-28T05:23:14+00:00",
+"generated_at": "2026-11-28T05:38:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Οι αθλητικές μεταδόσεις της ημέρας (28/11): Πού θα δούμε το ΠΑΟΚ-Ολυμπιακός στη Volleyleague και την ευρωπαϊκή δράση",
+"url": "https://www.sdna.gr/monimes-stiles/metadoseis-tv/1491231_oi-athlitikes-metadoseis-tis-imeras-28/11-poy-tha-doyme-paok",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-28T05:21+00:00",
+"sport": "volley",
+"snippet": "Δείτε αναλυτικά το σημερινό πρόγραμμα των αθλητικών μεταδόσεων.",
+"also": [],
+"id": "6b186b2e2d18"
+},
 {
 "title": "Απολογία Αμορίμ για τον πανηγυρισμό του Μορέιρα μετά το 4-2 στο Καραϊσκάκη",
 "url": "https://www.metrosport.gr/apologia-amorim-gia-ton-panigyrismo-toy-moreira-meta-to-4-2-sto-karaiskaki-1335045",
@@ -5075,18 +5087,6 @@
 "snippet": "Ο Ολυμπιακός υποδέχεται τη Χάποελ Τελ Αβίβ για τη 14η αγωνιστική της Euroleague στη SUNEL Arena. Η ώρα και το κανάλι της τηλεοπτικής μετάδοσης.",
 "also": [],
 "id": "404fde6d77d2"
-},
-{
-"title": "Η ανακοίνωση του Ολυμπιακού για την αθώωση του Παναθηναϊκού από τον ΑΣΕΑΔ",
-"url": "https://www.ertsports.gr/mpasket/i-anakoinosi-tou-olympiakou-gia-tin-athoosi-tou-panathinaikou-apo-ton-asead/",
-"source": "ertsports",
-"source_name": "ERT Sports",
-"official": false,
-"published": "2026-11-25T16:59+00:00",
-"sport": "basket",
-"snippet": "Η ΚΑΕ Ολυμπιακός με ανακοίνωση της διαμαρτύρεται σχετικά με την απόφαση του ΑΣΕΑΔ να επιστρέψει τους δύο βαθμούς στον Παναθηναϊκό. The post Η ανακοίνωση του…",
-"also": [],
-"id": "feb6c93a81ca"
 }
 ]
 }
