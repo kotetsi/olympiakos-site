@@ -1,7 +1,19 @@
 {
-"generated_at": "2026-11-28T11:56:16+00:00",
+"generated_at": "2026-11-28T12:11:21+00:00",
 "count": 400,
 "items": [
+{
+"title": "Η αποστολή του Ολυμπιακού για το παιχνίδι με τον Άρη στη Θεσσαλονίκη",
+"url": "https://www.ertsports.gr/super-league/i-apostoli-tou-olympiakou-gia-to-paixnidi-me-ton-ari-sti-thessaloniki/",
+"source": "ertsports",
+"source_name": "ERT Sports",
+"official": false,
+"published": "2026-11-28T12:00+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός γνωστοποίησε τους 23 ποδοσφαιριστές που θα πάρει μαζί του ο Ιμανόλ Αλγουαθίλ για την αυριανή (29/11, 19:00, ΕΡΑ ΣΠΟΡ) εκτός έδρας αναμέτρηση με…",
+"also": [],
+"id": "39864b140d70"
+},
 {
 "title": "Ολυμπιακός: Με Ρέτσο, Σιπιόνι και Τουφάκη κόντρα στον Άρη",
 "url": "https://www.gazzetta.gr/football/superleague/2590506/olympiakos-me-retso-sipioni-kai-toyfaki-kontra-ston-ari",
@@ -5090,18 +5102,6 @@
 "snippet": "Τις διαφορές ανάμεσα στο ελληνικό και το αγγλικό ποδόσφαιρο ανέδειξε ο Μπάμπης Κωστούλας, ο οποίος, έπειτα από μια απαιτητική περίοδο προσαρμογής στην…",
 "also": [],
 "id": "917789a31b94"
-},
-{
-"title": "Με Αγγελόπουλους και Σκινδήλια ο ΜακΚίσικ – «Κάποιοι δεσμοί ξεπερνούν το μπάσκετ»! (photos)",
-"url": "https://www.novasports.gr/sport/mpasket/event/euroleague/article/15252340/me-aggelopoulous-kai-skindilia-o-makkisik-kapoioi-desmoi-ksepernoun-to-mpasket-photos/",
-"source": "novasports",
-"source_name": "Novasports",
-"official": false,
-"published": "2026-11-25T20:38+00:00",
-"sport": "basket",
-"snippet": "Παρουσία του Σακίλ ΜακΚίσικ διεξάγεται η αναμέτρηση του Ολυμπιακού με τη Χάποελ Τελ Αβίβ στη Sunel Arena, με την ερυθρόλευκη ΚΑΕ να αναδεικνύει τη θερμή…",
-"also": [],
-"id": "b23d7ac73a0f"
 }
 ]
 }
