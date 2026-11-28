@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-28T09:25:09+00:00",
+"generated_at": "2026-11-28T09:40:16+00:00",
 "count": 400,
 "items": [
+{
+"title": "Allwyn Women’s Basketball League 1: Πού θα δείτε το Ολυμπιακός - Πάνθηρες Καβάλας",
+"url": "https://www.gazzetta.gr/basketball/a1-mpasket-gynaikon/2590490/allwyn-womens-basketball-league-1-poy-tha-deite-olympiakos",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T09:36+00:00",
+"sport": "basket",
+"snippet": "Τζάμπολ στην 8η αγωνιστική της Allwyn Women’s Basketball League 1, με το πρώτο παιχνίδι να είναι αυτό ανάμεσα στον Ολυμπιακό και τους Πάνθηρες Καβάλας.",
+"also": [],
+"id": "b076dd0a9bc2"
+},
+{
+"title": "Ολυμπιακός: Με τον Άρη δεν υπάρχει περιθώριο",
+"url": "https://sportime.gr/podosfairo/olimpiakos-me-ton-ari-den-iparchi-perithorio?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
+"source": "sportime",
+"source_name": "Sportime",
+"official": false,
+"published": "2026-11-28T09:27+00:00",
+"sport": "football",
+"snippet": "Ο Ολυμπιακός παίζει με τον Άρη υπό πίεση μετά την ανατροπή από 2-0 σε 2-4 απέναντι στη Μίλαν. Τι σημαίνει νέα απώλεια βαθμών για την ομάδα.",
+"also": [],
+"id": "e7bcc627da33"
+},
 {
 "title": "Ολυμπιακός: Αυξάνεται το ενδιαφέρον για τον Πιρόλα",
 "url": "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15257094/olympiakos-ayksanetai-to-endiaferon-gia-ton-pirola/",
@@ -5047,30 +5071,6 @@
 "snippet": "Ο Κόρι Τζόσεφ ήταν... καυτός στο πρώτο δεκάλεπτο της αναμέτρησης του Ολυμπιακού κόντρα στη Χάποελ Τελ Αβίβ, σκοράροντας 14 πόντους",
 "also": [],
 "id": "c8c92e1f35de"
-},
-{
-"title": "Ολυμπιακός: Ο ΜακΚίσικ… επέστρεψε και καθολική ΑΠΟΘΕΩΣΗ (video)",
-"url": "https://www.eurohoops.net/el/euroleague-el-2/2040714/olimpiakos-o-makkisik-sti-sunel-arena-ke-katholiki-apotheosi-video/",
-"source": "eurohoops",
-"source_name": "Eurohoops",
-"official": false,
-"published": "2026-11-25T19:28+00:00",
-"sport": "basket",
-"snippet": "Ο Σακ ΜακΚίσικ πήρε θέση στη Sunel Arena για το ματς \"Ολυμπιακός-Χάποελ\" και γνώρισε την αποθέωση. The post Ολυμπιακός: Ο ΜακΚίσικ… επέστρεψε και καθολική…",
-"also": [],
-"id": "d65708ff150c"
-},
-{
-"title": "Ολυμπιακός: Τρίβει τα χέρια του με Τουφάκη ο Αλγουαθίλ",
-"url": "https://sportime.gr/olimpiakos/olimpiakos-trivi-ta-cheria-tou-me-toufaki-o-algouathil?utm_source=rss&utm_medium=feed&utm_campaign=feed_all",
-"source": "sportime",
-"source_name": "Sportime",
-"official": false,
-"published": "2026-11-25T19:28+00:00",
-"sport": "general",
-"snippet": "Ο Ιμανόλ Αλγουαθίλ ξεχωρίζει τον Τουφάκη στον Ολυμπιακό. Η επιλογή του στην ευρωπαϊκή αποστολή και το ενδιαφέρον για Μπακούλα και Φίλη.",
-"also": [],
-"id": "0a448f3fca07"
 }
 ]
 }
