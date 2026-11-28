@@ -1,7 +1,31 @@
 {
-"generated_at": "2026-11-28T12:11:21+00:00",
+"generated_at": "2026-11-28T12:26:28+00:00",
 "count": 400,
 "items": [
+{
+"title": "Ολυμπιακός: Καθάρισε έυκολα ξανά τη Ντομπόι και έφυγε για τους «16»",
+"url": "https://www.gazzetta.gr/handball/2590511/olympiakos-katharise-eykola-xana-ti-ntompoi-kai-efyge-gia-toys-16",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T12:24+00:00",
+"sport": "handball",
+"snippet": "Ο Ολυμπιακός καθάρισε την Σλόγκα Ντομπόι στην Ηλιούπολη και με άνεση πήρε το εισιτήριο για τη φάση των «16» του EHF European Cup.",
+"also": [],
+"id": "3442879aef76"
+},
+{
+"title": "Κατ’ αρχήν θετικό το ΟΑΚΑ για… συγκατοίκηση Παναθηναϊκού και Ολυμπιακού τη νέα σεζόν",
+"url": "https://www.sdna.gr/podosfairo/1491317_kat-arhin-thetiko-oaka-gia-sygkatoikisi-panathinaikoy-kai-olympiakoy-ti-nea",
+"source": "sdna",
+"source_name": "SDNA",
+"official": false,
+"published": "2026-11-28T12:16+00:00",
+"sport": "football",
+"snippet": "Παναθηναϊκός και Ολυμπιακός έχουν ζητήσει τη χρήση του ΟΑΚΑ για τη νέα σεζόν και ίσως χρειαστεί να συγκατοικήσουν για ένα διάστημα.",
+"also": [],
+"id": "0972089767c8"
+},
 {
 "title": "Η αποστολή του Ολυμπιακού για το παιχνίδι με τον Άρη στη Θεσσαλονίκη",
 "url": "https://www.ertsports.gr/super-league/i-apostoli-tou-olympiakou-gia-to-paixnidi-me-ton-ari-sti-thessaloniki/",
@@ -5078,30 +5102,6 @@
 "snippet": "Τις απαιτήσεις της εκτός έδρας δοκιμασίας της Μίλαν απέναντι στον Ολυμπιακό (26/11, 19:45), για την 5ης αγωνιστικής της League Phase του Europa League, ανέλυσε…",
 "also": [],
 "id": "7faaa7e046b2"
-},
-{
-"title": "Ολυμπιακός: Συνάντηση ΜακΚίσικ με Αγγελόπουλος στο ημίχρονο με τη Χάποελ",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2589784/olympiakos-synantisi-makkisik-me-aggelopoylos-sto-imihrono-me-ti",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T20:44+00:00",
-"sport": "basket",
-"snippet": "Ο Σακίλ ΜακΚίσικ τα είπε με τους αδελφούς Αγγελόπουλους και τον Γιώργο Σκινδήλια στο ημίχρονο της αναμέτρησης του Ολυμπιακού κόντρα στη Χάποελ Τελ Αβίβ.",
-"also": [],
-"id": "cabc7fa1761c"
-},
-{
-"title": "Κωστούλας: «Είναι τελείως διαφορετικά» – Από τον Ολυμπιακό στην πραγματικότητα της Premier League",
-"url": "https://sportday.gr/podosfairo/366488_kostoulas-einai-teleios-diaforetika-apo-ton-olympiako-stin-pragmatikotita-tis-premier-league.html",
-"source": "sportday",
-"source_name": "Sportday",
-"official": false,
-"published": "2026-11-25T20:41+00:00",
-"sport": "football",
-"snippet": "Τις διαφορές ανάμεσα στο ελληνικό και το αγγλικό ποδόσφαιρο ανέδειξε ο Μπάμπης Κωστούλας, ο οποίος, έπειτα από μια απαιτητική περίοδο προσαρμογής στην…",
-"also": [],
-"id": "917789a31b94"
 }
 ]
 }
