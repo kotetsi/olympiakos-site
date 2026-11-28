@@ -1,5 +1,5 @@
 {
-"generated_at": "2026-11-28T11:26:04+00:00",
+"generated_at": "2026-11-28T11:41:09+00:00",
 "count": 400,
 "items": [
 {
@@ -13,6 +13,18 @@
 "snippet": "Η ομάδα πόλο Γυναικών του Ολυμπιακού υποδέχεται την Τεράσα, το Σάββατο (28/11, 17:30 – MEGA News) στο Εθνικό Κολυμβητήριο Πειραιά «Π. Καπαγέρωφ», για την 3η…",
 "also": [],
 "id": "17c20b8c9767"
+},
+{
+"title": "Ο Ολυμπιακός δεν πληρώνει ευρωπαϊκό «φόρο» μέσα στο 2026",
+"url": "https://www.gazzetta.gr/football/superleague/2590421/o-olympiakos-den-plironei-eyropaiko-foro-mesa-sto-2026",
+"source": "gazzetta",
+"source_name": "Gazzetta",
+"official": false,
+"published": "2026-11-28T11:16+00:00",
+"sport": "football",
+"snippet": "Ο Αλέξης Βιρβίλης δίνει μία ξεχωριστή πτυχή στο blog του στο gazzetta.gr σχετικά με το παιχνίδι του Ολυμπιακού με τον Άρη στο «Κλ. Βικελίδης» που έρχεται.",
+"also": [],
+"id": "37add4b18252"
 },
 {
 "title": "Με Ρέτσο στη Θεσσαλονίκη ο Ολυμπιακός",
@@ -5067,18 +5079,6 @@
 "snippet": "Ο Σακίλ ΜακΚίσικ βρέθηκε στη SUNEL Arena για το Ολυμπιακός-Χάποελ, αποθεώθηκε από την εξέδρα και η σύζυγός του, Μπέριλ, συγκινήθηκε μέχρι δακρύων.",
 "also": [],
 "id": "2df76b4b37da"
-},
-{
-"title": "Ολυμπιακός - Χάποελ Τελ Αβίβ: Εντυπωσιακό alley oop του Τζόουνς",
-"url": "https://www.gazzetta.gr/basketball/euroleague/2589780/olympiakos-hapoel-tel-abib-entyposiako-alley-oop-toy-tzooyns",
-"source": "gazzetta",
-"source_name": "Gazzetta",
-"official": false,
-"published": "2026-11-25T20:20+00:00",
-"sport": "basket",
-"snippet": "O Ταϊρίκ Τζόουνς τελείωσε εντυπωσιακά με alley oop τη φάση κόντρα στην Χάποελ Τελ Αβίβ.",
-"also": [],
-"id": "e152d7f6a570"
 }
 ]
 }
